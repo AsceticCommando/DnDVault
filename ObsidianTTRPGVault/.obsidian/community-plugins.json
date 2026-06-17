@@ -32,5 +32,6 @@
   "js-engine",
   "various-complements",
   "templater-obsidian",
-  "maps"
+  "maps",
+  "obsidian-git"
 ]
