@@ -1,0 +1,383 @@
+{
+  "main": {
+    "id": "35dc58889efc7af6",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c56b3e856367707",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8721e8e73124207",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-DM Toolkit/DM Board.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DM Board"
+            }
+          },
+          {
+            "id": "c908b37bc65e0cb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-DM Toolkit/Home.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef2fa061dc384dbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "776915f0f047e046",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2911de48d50d504c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Verkenner"
+            }
+          },
+          {
+            "id": "f7191f1a02d83b6c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6da38734e1b60552",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "2e6355ae312b2c82",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-DM Toolkit/DnD5e-SideScreen-2014.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "DnD5e-SideScreen-2014"
+            }
+          },
+          {
+            "id": "f6ef017cc52d2e49",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-DM Toolkit/DM Board.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "DM Board"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 370.5
+  },
+  "right": {
+    "id": "4376769ea3073bd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "09384058bb1c4e72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01866bcbc2fd8a19",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "505cdf32bf6b016b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0-Scratch Notes/Untitled 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled 1"
+            }
+          },
+          {
+            "id": "e0476cfc571d360e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "734965fc2bb6a962",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2-World/Places/Shop of Stuff.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Shop of Stuff"
+            }
+          },
+          {
+            "id": "bb21e6fb9beae31a",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "c8c0bd3a84d4d5f1",
+            "type": "leaf",
+            "state": {
+              "type": "MAIN_VIEW",
+              "state": {},
+              "icon": "srt-ribbon",
+              "title": "Solo RPG Toolkit"
+            }
+          },
+          {
+            "id": "9f06b744419e5dab",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "78f62065b0218d76",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "3939dbe56020682d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7f19710fe52d77bc",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "aee5893188366a53",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "29ce9786f546c2e8",
+            "type": "leaf",
+            "state": {
+              "type": "help-mate",
+              "state": {},
+              "icon": "life-buoy",
+              "title": "HelpMate"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "4f0a059dac78c066",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7e8990507fbea0c",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 418.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open snel wisselen": false,
+      "graph:Open grafiek weergave": false,
+      "canvas:Nieuw doek aanmaken": false,
+      "daily-notes:Open de notitie van vandaag": false,
+      "templates:Sjabloon invoegen": false,
+      "command-palette:Open opdrachtenpaneel": false,
+      "bases:Nieuwe basis maken": false,
+      "obsidian-custom-frames:Open Obsidian Forum": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-import-json:JSON/CSV Importer": false,
+      "obsidian42-brat:BRAT": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "helpmate:HelpMate": false,
+      "solo-rpg-toolkit:Solo RPG Toolkit": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "c908b37bc65e0cb7",
+  "lastOpenFiles": [
+    "1-DM Toolkit/DM Board.md",
+    "1-DM Toolkit/PF2e-DM Screen.md",
+    "3-Mechanics/CLI/bestiary/humanoid/img/weretiger.webp",
+    "3-Mechanics/CLI/bestiary/humanoid/img/triton-master-of-waves.webp",
+    "3-Mechanics/CLI/bestiary/humanoid/img/yuan-ti-pureblood.webp",
+    "3-Mechanics/CLI/bestiary/humanoid/img/xvart.webp",
+    "3-Mechanics/CLI/bestiary/humanoid/img/werewolf.webp",
+    "3-Mechanics/CLI/bestiary/humanoid/img/wererat.webp",
+    "3-Mechanics/CLI/bestiary/humanoid/img/wereraven.webp",
+    "3-Mechanics/CLI/bestiary/humanoid/img/wereboar.webp",
+    "3-Mechanics/CLI/bestiary/humanoid/img/wereraven-2.webp",
+    "3-Mechanics/CLI/bestiary/humanoid/img/werebear.webp",
+    "3-Mechanics/CLI/bestiary/humanoid/img",
+    "1-Party/Example Party 1/Monon.md",
+    "1-Party/Example Party 1/Example Party 1.md",
+    "0-Obsidian TTRPG Tutorial/Template Design.md",
+    "0-Scratch Notes/Random Dungeon.md",
+    "3-Mechanics/CLI/CLI.md",
+    "2-World/Star Systems/Test  Star System.md",
+    "2-World/Regions/Test Region.md",
+    "2-World/Sapient Species/Test Species.md",
+    "2-World/Hubs/Test City.md",
+    "2-World/People/Test Hub Assigned.md",
+    "2-World/Quests/Test Quest.md",
+    "2-World/Points of Interest/Test Point of Interest.md",
+    "2-World/Points of Interest/Test Asteroid Field.md",
+    "2-World/Places/Test Place - Agriculture.md",
+    "2-World/Continents/Test Continent.md",
+    "1-DM Toolkit/Home.md",
+    "2-World/Places/Test Place - Philosophy.md",
+    "1-DM Toolkit/Home Embeds.md",
+    "1-Party/Example Party 2/Example Party 2.md",
+    "1-DM Toolkit/Vault Report.md",
+    "1-Session Journals/2025-08-19.md",
+    "0-Obsidian TTRPG Tutorial/0-Obsidian TTRPG Tutorial.md",
+    "1-Party/Untitled.md",
+    "1-DM Toolkit/DnD5e-SideScreen-2014.md",
+    "z_Assets/Decks/Tarot",
+    "z_Assets/Decks/Standard",
+    "3-Mechanics/CLI/vehicles/token",
+    "3-Mechanics/CLI/vehicles/img",
+    "3-Mechanics/CLI/vehicles",
+    "3-Mechanics/CLI/traps-hazards/img",
+    "3-Mechanics/CLI/traps-hazards",
+    "3-Mechanics/CLI/tables",
+    "3-Mechanics/CLI/spells/img",
+    "0-Scratch Notes/Untitled.canvas",
+    "0-Scratch Notes/MoC - Canvas Home Page.canvas",
+    "Untitled.canvas"
+  ]
+}

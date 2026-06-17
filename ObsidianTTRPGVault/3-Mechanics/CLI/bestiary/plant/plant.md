@@ -1,0 +1,47 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-note
+- json5e-index
+---
+# Index of Plant
+
+- [Awakened Shrub](./awakened-shrub.md)
+- [Awakened Tree](./awakened-tree.md)
+- [Awakened Zurkhwood](./awakened-zurkhwood-oota.md)
+- [Bodytaker Plant](./bodytaker-plant-vrgr.md)
+- [Bridesmaid of Zuggtmoy](./bridesmaid-of-zuggtmoy-oota.md)
+- [Campestri](./campestri-wbtw.md)
+- [Carnivorous Flower](./carnivorous-flower-rot.md)
+- [Chamberlain of Zuggtmoy](./chamberlain-of-zuggtmoy-oota.md)
+- [Chuul Spore Servant](./chuul-spore-servant-oota.md)
+- [Corpse Flower](./corpse-flower-mpmm.md)
+- [Drow Spore Servant](./drow-spore-servant-oota.md)
+- [Duergar Spore Servant](./duergar-spore-servant-oota.md)
+- [Gadabout](./gadabout-mcv1sc.md)
+- [Gas Spore](./gas-spore.md)
+- [Hook Horror Spore Servant](./hook-horror-spore-servant-oota.md)
+- [Myconid Adult](./myconid-adult.md)
+- [Myconid Sovereign](./myconid-sovereign.md)
+- [Myconid Sprout](./myconid-sprout.md)
+- [Needle Blight](./needle-blight.md)
+- [Needle Lord](./needle-lord-mff.md)
+- [Needle Spawn](./needle-spawn-mff.md)
+- [Podling](./podling-vrgr.md)
+- [Quaggoth Spore Servant](./quaggoth-spore-servant.md)
+- [Shambling Mound](./shambling-mound.md)
+- [Shrieker](./shrieker.md)
+- [Spore Servant Octopus](./spore-servant-octopus-dosi.md)
+- [Swarm of Campestris](./swarm-of-campestris-wbtw.md)
+- [Thorny Vegepygmy](./thorny-vegepygmy-mpmm.md)
+- [Treant Sapling](./treant-sapling-wbtw.md)
+- [Treant](./treant.md)
+- [Treefolk](./treefolk-mcv4ec.md)
+- [Twig Blight](./twig-blight.md)
+- [Vegepygmy Chief](./vegepygmy-chief-mpmm.md)
+- [Vegepygmy](./vegepygmy-mpmm.md)
+- [Vine Blight](./vine-blight.md)
+- [Violet Fungus](./violet-fungus-dosi.md)
+- [Violet Fungus](./violet-fungus.md)
+- [Wood Woad](./wood-woad-mpmm.md)
+- [Yggdrasti](./yggdrasti-mcv1sc.md)

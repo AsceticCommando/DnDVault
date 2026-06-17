@@ -1,0 +1,73 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-monster
+tags:
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/human
+statblock: inline
+statblock-link: "#^statblock"
+aliases:
+- "Uthgardt Shaman (Elk)"
+---
+# [Uthgardt Shaman (Elk)](3-Mechanics\CLI\bestiary\humanoid/uthgardt-shaman-elk-skt.md)
+*Source: Storm King's Thunder p. 243*  
+
+```statblock
+"name": "Uthgardt Shaman (Elk) (SKT)"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "human"
+"alignment": "Any alignment"
+"ac": !!int "13"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor.md)"
+"hp": !!int "38"
+"hit_dice": "7d8 + 7"
+"modifier": !!int "1"
+"stats":
+  - !!int "14"
+  - !!int "12"
+  - !!int "13"
+  - !!int "10"
+  - !!int "15"
+  - !!int "12"
+"speed": "30 ft."
+"skillsaves":
+  - "name": "[Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)"
+    "desc": "+4"
+  - "name": "[Nature](3-Mechanics/CLI/rules/skills.md#Nature)"
+    "desc": "+4"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
+    "desc": "+4"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
+    "desc": "+6"
+"gear":
+  - "[shortbow](3-Mechanics/CLI/items/shortbow.md)"
+  - "[spear](3-Mechanics/CLI/items/spear.md)"
+"senses": "passive Perception 14"
+"languages": "Bothii, Common"
+"cr": "2"
+"actions":
+  - "desc": "*Melee  or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60\
+      \ ft., one target. *Hit:* 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing\
+      \ damage if wielded with two hands."
+    "name": "Spear"
+  - "desc": "*Ranged Weapon Attack:* +3 to hit, range 80/320 ft., one target. *Hit:*\
+      \ 4 (1d6 + 1) piercing damage."
+    "name": "Shortbow"
+  - "desc": "The shaman casts one of the following spells, using Wisdom as the spellcasting\
+      \ ability (spell save DC 12; +4 to hit with spell attacks):\n\n**At will:**\
+      \ [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md), [mage hand](3-Mechanics/CLI/spells/mage-hand.md),\
+      \ [message](3-Mechanics/CLI/spells/message.md), [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy.md)\n\
+      \n**1/day each:** [augury](3-Mechanics/CLI/spells/augury.md) (cast as 1 action),\
+      \ [bestow curse](3-Mechanics/CLI/spells/bestow-curse.md), [cordon of arrows](3-Mechanics/CLI/spells/cordon-of-arrows.md),\
+      \ [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [speak with dead](3-Mechanics/CLI/spells/speak-with-dead.md),\
+      \ [spirit guardians](3-Mechanics/CLI/spells/spirit-guardians.md), [find steed](3-Mechanics/CLI/spells/find-steed.md)\
+      \ (cast as 1 action; elk only), [haste](3-Mechanics/CLI/spells/haste.md)"
+    "name": "Spellcasting (Requires a Sacred Bundle)"
+"source":
+  - "SKT"
+```
+^statblock
