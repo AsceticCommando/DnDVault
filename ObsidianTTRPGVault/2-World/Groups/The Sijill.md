@@ -2,27 +2,31 @@
 tags:
   - Category/Group
 MyContainer: "[[2-World/Galaxies/The Weft.md|The Weft]]"
-MyCategory: Cosmic Force (Arabic)
+MyCategory: Cosmic force — preservation / the record
 image: Template_Group_Placeholder.png
 obsidianUIMode: preview
-disaster: Fire that burns meaning, not matter
-action: erase & archive
-glyph: سِجِّل
+members:
+  - "[[2-World/People/al-ʿUzzā.md|al-ʿUzzā]]"
 allies:
-  - "[[2-World/Groups/The Evocade.md|The Evocade]]"
+  - "[[2-World/Groups/The Nifling.md|The Nifling]]"
 enemies:
-  - "[[2-World/Groups/The Raijin.md|The Raijin]]"
+  - "[[2-World/Groups/The Tethyne.md|The Tethyne]]"
+  - "[[2-World/Groups/The Tehom.md|The Tehom]]"
+benefits:
+  - standing: 1
+    reward: A minor boon or rumor from the force.
+  - standing: 2
+    reward: Material aid or safe passage.
+  - standing: 3
+    reward: A genuine intervention on the party's behalf.
 ---
 
-Burns a universe's stories, names, and histories — the world is left intact but
-**forgotten by itself**. Saved worlds survive only as a record in the Sijill's
-**Anthology** ([[2-World/Points of Interest/The Anthology.md|see note]]). Named for
-the Qur'anic *sijill*, the scroll rolled up at the end of things.
+**The Sijill** (Arabic *sijill*, "register / scroll of record") is the force of
+**preservation, order, and the archive**. To the Sijill, the worst thing that can
+happen to anything is to be *lost*; the highest good is to be *kept*. They maintain
+[[2-World/Points of Interest/The Anthology.md|the Anthology]], where saved worlds
+survive as flawless records after their living histories burn away.
 
-The betrayer-god [[2-World/People/al-Kutbā.md|al-Kutbā]] is a lesser Sijill scribe
-who turned heretic; the **Errata** is the treason that grew out of him.
-
-## Politics
-**Annexation Pact** with [[2-World/Groups/The Evocade.md|the Evocade]] (uneasy
-adjacents — the Sijill thinks annexation is vulgar theft). Opposed to
-[[2-World/Groups/The Raijin.md|the Raijin]] on the **create ⇅ erase** axis.
+Its scribe-gods include [[2-World/People/al-Kutbā.md|al-Kutbā]] (apostate) and the
+huntress [[2-World/People/al-ʿUzzā.md|al-ʿUzzā]]. The Sijill's mercy is a cage: it
+saves the copy, not the thing.

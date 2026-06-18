@@ -1,0 +1,480 @@
+{
+  "nodes": [
+    {
+      "id": "The Vintner's Car",
+      "category": "Place",
+      "placeholder": false,
+      "subcategory": "Sanctum (chapel-barge)"
+    },
+    {
+      "id": "The Tally-Car",
+      "category": "Place",
+      "placeholder": false,
+      "subcategory": "Records"
+    },
+    {
+      "id": "The Sijill",
+      "category": "Group",
+      "placeholder": false,
+      "subcategory": "Cosmic force — preservation / the record"
+    },
+    {
+      "id": "The Raijin",
+      "category": "Group",
+      "placeholder": false,
+      "subcategory": "Cosmic force — collision / creation by impact"
+    },
+    {
+      "id": "The Evocade",
+      "category": "Group",
+      "placeholder": false,
+      "subcategory": "Cosmic force — evocation / the new (lightly sketched)"
+    },
+    {
+      "id": "The Tethyne",
+      "category": "Group",
+      "placeholder": false,
+      "subcategory": "Cosmic force — flux / the living tide"
+    },
+    {
+      "id": "The Errata",
+      "category": "Group",
+      "placeholder": false,
+      "subcategory": "Heresy / faction (the corrections)"
+    },
+    {
+      "id": "The Tehom",
+      "category": "Group",
+      "placeholder": false,
+      "subcategory": "Cosmic force — collapse / the abyss"
+    },
+    {
+      "id": "The Nifling",
+      "category": "Group",
+      "placeholder": false,
+      "subcategory": "Cosmic force — mist / fading (lightly sketched)"
+    },
+    {
+      "id": "Oresh",
+      "category": "People",
+      "placeholder": false,
+      "subcategory": "Refugee weaver (an edition)"
+    },
+    {
+      "id": "Dushara",
+      "category": "People",
+      "placeholder": false,
+      "subcategory": "The caged twin (the mask, waking)"
+    },
+    {
+      "id": "al-ʿUzzā",
+      "category": "People",
+      "placeholder": false,
+      "subcategory": "The Reading Wolf (huntress)"
+    },
+    {
+      "id": "al-Kutbā",
+      "category": "People",
+      "placeholder": false,
+      "subcategory": "Betrayer-god (the scribe in a Reveler's mask)"
+    },
+    {
+      "id": "The Anthology",
+      "category": "PointofInterest",
+      "placeholder": false,
+      "subcategory": "Cosmological archive"
+    },
+    {
+      "id": "The Underdrop",
+      "category": "PointofInterest",
+      "placeholder": false,
+      "subcategory": "The abyss beneath the Hang"
+    },
+    {
+      "id": "The Prologos",
+      "category": "Quest",
+      "placeholder": false,
+      "subcategory": "Movement 1 — the rescue (proposed)"
+    },
+    {
+      "id": "The Parodos",
+      "category": "Quest",
+      "placeholder": false,
+      "subcategory": "Movements 2–3 — life among the saved (proposed)"
+    },
+    {
+      "id": "The Exodos",
+      "category": "Quest",
+      "placeholder": false,
+      "subcategory": "Movement 6 — the ending(s) & the Errata civil war (proposed)"
+    },
+    {
+      "id": "The Anagnorisis",
+      "category": "Quest",
+      "placeholder": false,
+      "subcategory": "Movement 5 — the recognition (proposed)"
+    },
+    {
+      "id": "The Peripeteia",
+      "category": "Quest",
+      "placeholder": false,
+      "subcategory": "Two-session module (the reversal)"
+    },
+    {
+      "id": "The Slack-Tide",
+      "category": "Hub",
+      "placeholder": false,
+      "subcategory": "Convoy (refugee caravan between threads)"
+    },
+    {
+      "id": "The Editions",
+      "category": "SapientSpecies",
+      "placeholder": false,
+      "subcategory": "Archived copies (what the party are)"
+    },
+    {
+      "id": "The Weft",
+      "category": "Galaxy",
+      "placeholder": false,
+      "subcategory": null
+    },
+    {
+      "id": "The Unravelling Thread",
+      "category": "Region",
+      "placeholder": false,
+      "subcategory": "Dying world (the party's origin) — proposed"
+    }
+  ],
+  "containment_edges": [
+    {
+      "parent": "The Slack-Tide",
+      "child": "The Vintner's Car"
+    },
+    {
+      "parent": "The Slack-Tide",
+      "child": "The Tally-Car"
+    },
+    {
+      "parent": "The Slack-Tide",
+      "child": "Oresh"
+    },
+    {
+      "parent": "The Slack-Tide",
+      "child": "al-ʿUzzā"
+    },
+    {
+      "parent": "The Slack-Tide",
+      "child": "The Parodos"
+    },
+    {
+      "parent": "The Slack-Tide",
+      "child": "The Anagnorisis"
+    },
+    {
+      "parent": "The Slack-Tide",
+      "child": "The Peripeteia"
+    },
+    {
+      "parent": "The Weft",
+      "child": "The Sijill"
+    },
+    {
+      "parent": "The Weft",
+      "child": "The Raijin"
+    },
+    {
+      "parent": "The Weft",
+      "child": "The Evocade"
+    },
+    {
+      "parent": "The Weft",
+      "child": "The Tethyne"
+    },
+    {
+      "parent": "The Weft",
+      "child": "The Errata"
+    },
+    {
+      "parent": "The Weft",
+      "child": "The Tehom"
+    },
+    {
+      "parent": "The Weft",
+      "child": "The Nifling"
+    },
+    {
+      "parent": "The Weft",
+      "child": "The Anthology"
+    },
+    {
+      "parent": "The Weft",
+      "child": "The Underdrop"
+    },
+    {
+      "parent": "The Weft",
+      "child": "The Exodos"
+    },
+    {
+      "parent": "The Weft",
+      "child": "The Slack-Tide"
+    },
+    {
+      "parent": "The Weft",
+      "child": "The Editions"
+    },
+    {
+      "parent": "The Weft",
+      "child": "The Unravelling Thread"
+    },
+    {
+      "parent": "The Vintner's Car",
+      "child": "Dushara"
+    },
+    {
+      "parent": "The Vintner's Car",
+      "child": "al-Kutbā"
+    },
+    {
+      "parent": "The Unravelling Thread",
+      "child": "The Prologos"
+    }
+  ],
+  "relationship_edges": [
+    {
+      "src": "The Sijill",
+      "field": "allies",
+      "dst": "The Nifling",
+      "kind": "link"
+    },
+    {
+      "src": "The Sijill",
+      "field": "enemies",
+      "dst": "The Tethyne",
+      "kind": "link"
+    },
+    {
+      "src": "The Sijill",
+      "field": "enemies",
+      "dst": "The Tehom",
+      "kind": "link"
+    },
+    {
+      "src": "The Sijill",
+      "field": "members",
+      "dst": "al-ʿUzzā",
+      "kind": "link"
+    },
+    {
+      "src": "The Raijin",
+      "field": "allies",
+      "dst": "The Tethyne",
+      "kind": "link"
+    },
+    {
+      "src": "The Raijin",
+      "field": "enemies",
+      "dst": "The Nifling",
+      "kind": "link"
+    },
+    {
+      "src": "The Evocade",
+      "field": "allies",
+      "dst": "The Raijin",
+      "kind": "link"
+    },
+    {
+      "src": "The Evocade",
+      "field": "enemies",
+      "dst": "The Tehom",
+      "kind": "link"
+    },
+    {
+      "src": "The Tethyne",
+      "field": "allies",
+      "dst": "The Raijin",
+      "kind": "link"
+    },
+    {
+      "src": "The Tethyne",
+      "field": "enemies",
+      "dst": "The Sijill",
+      "kind": "link"
+    },
+    {
+      "src": "The Errata",
+      "field": "allies",
+      "dst": "The Tethyne",
+      "kind": "link"
+    },
+    {
+      "src": "The Errata",
+      "field": "enemies",
+      "dst": "The Sijill",
+      "kind": "link"
+    },
+    {
+      "src": "The Errata",
+      "field": "leader",
+      "dst": "al-Kutbā",
+      "kind": "link"
+    },
+    {
+      "src": "The Errata",
+      "field": "members",
+      "dst": "Oresh",
+      "kind": "link"
+    },
+    {
+      "src": "The Errata",
+      "field": "Connected_Quests",
+      "dst": "The Peripeteia",
+      "kind": "link"
+    },
+    {
+      "src": "The Tehom",
+      "field": "enemies",
+      "dst": "The Sijill",
+      "kind": "link"
+    },
+    {
+      "src": "The Tehom",
+      "field": "enemies",
+      "dst": "The Nifling",
+      "kind": "link"
+    },
+    {
+      "src": "The Tehom",
+      "field": "enemies",
+      "dst": "The Tethyne",
+      "kind": "link"
+    },
+    {
+      "src": "The Tehom",
+      "field": "enemies",
+      "dst": "The Raijin",
+      "kind": "link"
+    },
+    {
+      "src": "The Tehom",
+      "field": "enemies",
+      "dst": "The Evocade",
+      "kind": "link"
+    },
+    {
+      "src": "The Nifling",
+      "field": "allies",
+      "dst": "The Sijill",
+      "kind": "link"
+    },
+    {
+      "src": "The Nifling",
+      "field": "enemies",
+      "dst": "The Raijin",
+      "kind": "link"
+    },
+    {
+      "src": "Oresh",
+      "field": "Connected_Quests",
+      "dst": "The Peripeteia",
+      "kind": "link"
+    },
+    {
+      "src": "Oresh",
+      "field": "Connected_Groups",
+      "dst": "The Errata",
+      "kind": "link"
+    },
+    {
+      "src": "Dushara",
+      "field": "siblings",
+      "dst": "al-Kutbā",
+      "kind": "link"
+    },
+    {
+      "src": "Dushara",
+      "field": "enemies",
+      "dst": "al-Kutbā",
+      "kind": "link"
+    },
+    {
+      "src": "Dushara",
+      "field": "Connected_Quests",
+      "dst": "The Peripeteia",
+      "kind": "link"
+    },
+    {
+      "src": "al-ʿUzzā",
+      "field": "partner",
+      "dst": "al-Kutbā",
+      "kind": "link"
+    },
+    {
+      "src": "al-ʿUzzā",
+      "field": "Connected_Quests",
+      "dst": "The Peripeteia",
+      "kind": "link"
+    },
+    {
+      "src": "al-ʿUzzā",
+      "field": "Connected_Groups",
+      "dst": "The Sijill",
+      "kind": "link"
+    },
+    {
+      "src": "al-Kutbā",
+      "field": "siblings",
+      "dst": "Dushara",
+      "kind": "link"
+    },
+    {
+      "src": "al-Kutbā",
+      "field": "partner",
+      "dst": "al-ʿUzzā",
+      "kind": "link"
+    },
+    {
+      "src": "al-Kutbā",
+      "field": "enemies",
+      "dst": "Dushara",
+      "kind": "link"
+    },
+    {
+      "src": "al-Kutbā",
+      "field": "Connected_Quests",
+      "dst": "The Peripeteia",
+      "kind": "link"
+    },
+    {
+      "src": "al-Kutbā",
+      "field": "Connected_Groups",
+      "dst": "The Sijill",
+      "kind": "link"
+    },
+    {
+      "src": "al-Kutbā",
+      "field": "Connected_Groups",
+      "dst": "The Errata",
+      "kind": "link"
+    },
+    {
+      "src": "The Editions",
+      "field": "Connected_Groups",
+      "dst": "The Errata",
+      "kind": "link"
+    },
+    {
+      "src": "The Editions",
+      "field": "Connected_Groups",
+      "dst": "The Sijill",
+      "kind": "link"
+    }
+  ],
+  "stats": {
+    "notes": 24,
+    "real": 24,
+    "placeholder": 0,
+    "errors": 0,
+    "broken_links": 0,
+    "orphans": 0
+  }
+}

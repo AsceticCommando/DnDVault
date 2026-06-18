@@ -2,11 +2,10 @@
 tags:
   - Category/People
 MyContainer: "[[2-World/Places/The Vintner's Car.md|The Vintner's Car]]"
-MyCategory: Betrayer-god (Apollo-mask)
+MyCategory: Betrayer-god (the scribe in a Reveler's mask)
 image: Template_Person_Placeholder.png
 obsidianUIMode: preview
 aliases:
-  - Apollo
   - The Reveler
   - The Apostate Scribe
   - Dionysus (performed)
@@ -30,32 +29,19 @@ Connected_Quests:
 
 > [!quote] "I am a man who could not let go. Is that the crime you came to punish?"
 
-**al-Kutbā** — "the Writer / the Scribe." A lesser
-[[2-World/Groups/The Sijill.md|Sijill]] scribe-god (Nabataean god of writing,
-syncretized with Babylonian Nabu and the scribe-planet Mercury). Once an annotator
-of the Anthology, he began smuggling *living* worlds out of the archive instead of
-recording their deaths — heresy. From that treason grew
-[[2-World/Groups/The Errata.md|the Errata]].
-
-Methodologically **all archive, all order**, even now. To him, salvation = a perfect
-copy. **He never lies** — he reframes, withholds, recontextualizes; every terrible
+**al-Kutbā** — "the Writer." A [[2-World/Groups/The Sijill.md|Sijill]] scribe-god who
+once annotated [[2-World/Points of Interest/The Anthology.md|the Anthology]], then
+began smuggling *living* worlds out of it. From that treason grew
+[[2-World/Groups/The Errata.md|the Errata]]. He is **all archive, all order**, even
+now — and **he never lies**; he reframes, withholds, recontextualizes. Every terrible
 thing he says is true.
 
 ## The crime: he wears his twin
-al-Kutbā has no Dionysian side. He **wears his dead-or-captive twin
-[[2-World/People/Dushara.md|Dushara]] as a mask** — the warm "Dionysus" the
-refugees follow is the scribe performing his brother. Dushara was his first
-"correction," his proof of concept. Refugees won't follow a filing cabinet, so the
-scribe wears borrowed warmth over a scribe's intentions.
+al-Kutbā has no Dionysian side. He **wears his twin
+[[2-World/People/Dushara.md|Dushara]] as a mask** — the warm "Dionysus" the refugees
+follow is the scribe performing his brother, his first "correction." Refugees won't
+follow a filing cabinet, so the scribe wears borrowed warmth over a scribe's intent.
 
 ## The tragedy (hamartia)
-Archiving his own brother to "save" him. His hubris is the belief that a perfect
-copy is salvation. Closest model: Pentheus in *The Bacchae* — the order that caged
-Dionysus.
-
-## Loose thread
-His mythological consort **[[2-World/People/al-ʿUzzā.md|al-ʿUzzā]]** did *not*
-defect, and now hunts him for desertion.
-
-*(Throttled-avatar statblock for the Peripeteia confrontation lives in the module
-doc — see [[2-World/Quests/The Peripeteia.md|The Peripeteia]].)*
+Archiving his own brother to "save" him. His hubris: that a perfect copy is
+salvation. Closest model — Pentheus in *The Bacchae*: the order that caged Dionysus.

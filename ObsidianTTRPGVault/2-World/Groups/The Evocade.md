@@ -2,27 +2,26 @@
 tags:
   - Category/Group
 MyContainer: "[[2-World/Galaxies/The Weft.md|The Weft]]"
-MyCategory: Cosmic Force (Roman)
+MyCategory: Cosmic force — evocation / the new (lightly sketched)
 image: Template_Group_Placeholder.png
 obsidianUIMode: preview
-disaster: Galewind (wind)
-action: tear & annex
-glyph: EVOCATIO
 allies:
-  - "[[2-World/Groups/The Sijill.md|The Sijill]]"
+  - "[[2-World/Groups/The Raijin.md|The Raijin]]"
 enemies:
-  - "[[2-World/Groups/The Nifling.md|The Nifling]]"
+  - "[[2-World/Groups/The Tehom.md|The Tehom]]"
+benefits:
+  - standing: 1
+    reward: A minor boon or rumor from the force.
+  - standing: 2
+    reward: Material aid or safe passage.
+  - standing: 3
+    reward: A genuine intervention on the party's behalf.
 ---
 
-The closest of the six to outright "evil": imperial, lawful, total. Raises
-**Galewinds** to tear a target curtain, pours through, and **annexes its physics**.
-Conquered gods become saints, organs, or concepts inside Evocade theology. Named
-for the Roman *evocatio* — the rite of calling an enemy's gods to defect.
+**The Evocade** is the force of **evocation** — calling-forth, the impulse that makes
+something out of nothing, the first spark before a thread is even woven. Where the
+Sijill keeps what exists and the Tehom unmakes it, the Evocade *summons what never
+was.*
 
-**Pitch:** annexation is the only available immortality.
-
-## Politics
-Partner in the **Annexation Pact** with [[2-World/Groups/The Sijill.md|the Sijill]],
-though they despise each other — Evocade thinks archiving is cowardice (you save
-the memory, not the thing). Opposed across the hexagon to
-[[2-World/Groups/The Nifling.md|the Nifling]] on the **motion ⇅ stillness** axis.
+> [!warning] Thin in canon. This force was only named in the source material, not
+> fully defined. The definition above is a proposed reading — adjust freely.

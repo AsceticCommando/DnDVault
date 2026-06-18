@@ -8,32 +8,12 @@ aliases:
   - The Hang
 ---
 
-> [!info] The setting root. Everything in this campaign hangs here.
+> [!info] The setting root. Every location, force, and person hangs from here.
 
-**The Weft** is the multiverse: countless **universe-curtains** hung in parallel
-along a single axis called **the Hang**. Each curtain is a complete cosmos with
-its own gods, laws, and physics woven in. Adjacent curtains are similar; curtains
-far apart on the Hang are strange and incompatible — the source of the setting's
-weird-high-fantasy zones. (Inspiration: *His Dark Materials* — universes as cloth
-that can tear.)
+**The Weft** (called **The Hang** by those who live in it) is the woven multiverse:
+countless worlds strung side by side like cloth on a loom, held in tension by six
+cosmic forces. Worlds are threads; to be *cut* is to fall into the
+[[2-World/Points of Interest/The Underdrop.md|Underdrop]]; to be *kept* is to be
+filed in [[2-World/Points of Interest/The Anthology.md|the Anthology]].
 
-## How curtains tear
-- **Natural brush** — curtains sway and touch; small, rare, short-lived rips. The
-  origin of "other side" legends.
-- **Disaster-scale forces** — a cosmic force billows the Hang and tears long
-  gashes. The campaign's catastrophe engine.
-- **Cutting** — a tool or ritual that opens the cloth at will (Subtle Knife–style).
-  Rare, coveted; conquerors hunt these so mortals can't slip away.
-
-## Vertical cosmology
-- **The Underdrop** — the abyss beneath the lowest curtain, where the Tehom drops
-  severed worlds. (See [[2-World/Points of Interest/The Underdrop.md|The Underdrop]].)
-- What sits at the *top* of the Hang is unknown. *(Open question.)*
-
-## Core dread
-Every cosmic force offers a salvation that is **also an ending**. No force will
-let a universe simply live and change on its own terms.
-
-## Tone
-Multiversal conflict fantasy · weird-high fantasy · grimdark (Warhammer 40K ×
-Lord of the Rings).
+The campaign's central horror lives in the difference between those two fates.

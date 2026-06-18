@@ -2,29 +2,27 @@
 tags:
   - Category/Group
 MyContainer: "[[2-World/Galaxies/The Weft.md|The Weft]]"
-MyCategory: Cosmic Force (Greek)
+MyCategory: Cosmic force — flux / the living tide
 image: Template_Group_Placeholder.png
 obsidianUIMode: preview
-disaster: Tide
-action: join & withdraw
-glyph: Τηθύς
 allies:
-  - "[[2-World/Groups/The Nifling.md|The Nifling]]"
+  - "[[2-World/Groups/The Raijin.md|The Raijin]]"
 enemies:
-  - "[[2-World/Groups/The Tehom.md|The Tehom]]"
+  - "[[2-World/Groups/The Sijill.md|The Sijill]]"
+benefits:
+  - standing: 1
+    reward: A minor boon or rumor from the force.
+  - standing: 2
+    reward: Material aid or safe passage.
+  - standing: 3
+    reward: A genuine intervention on the party's behalf.
 ---
 
-The most plausibly "good" of the six. A slow, rhythmic swell joins cosmoses, then
-recedes — preserving, trading, and **evacuating the doomed**. But the tide drowns
-the weak and the slow: benevolent intent, indifferent mechanism.
+**The Tethyne** (after *Tethys*, the sea) is the force of **flux, flow, and living
+change** — the tide that refuses to be fixed in place. Where the Sijill records,
+the Tethyne *lets go*. They crew the rescue convoys like the
+[[2-World/Hubs/The Slack-Tide.md|Slack-Tide]], ferrying refugees between threads.
 
-Its evacuation convoys are the cover the **Errata** smuggles living worlds inside.
-The party were carried across the Hang aboard one
-([[2-World/Hubs/The Slack-Tide.md|The Slack-Tide]]).
-
-## Politics
-**Still Waters** alliance of convenience with
-[[2-World/Groups/The Nifling.md|the Nifling]] — shared enemies, not shared values
-(Tethyne preserves by *moving*; Nifling by *stopping*; each sees the other's method
-as a slower death). Opposed to [[2-World/Groups/The Tehom.md|the Tehom]] on the
-**abyss ⇅ ocean** axis.
+The warm, vine-crowned "Reveler" mask the refugees worship is borrowed Tethyne
+flux — which is exactly why [[2-World/People/al-Kutbā.md|al-Kutbā]], a Sijill
+scribe, has to *perform* it rather than embody it.

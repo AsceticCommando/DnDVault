@@ -2,23 +2,25 @@
 tags:
   - Category/Group
 MyContainer: "[[2-World/Galaxies/The Weft.md|The Weft]]"
-MyCategory: Cosmic Force (Norse)
+MyCategory: Cosmic force — mist / fading (lightly sketched)
 image: Template_Group_Placeholder.png
 obsidianUIMode: preview
-disaster: Frost
-action: still & preserve
-glyph: ᛁᚾᚳᛖ
 allies:
-  - "[[2-World/Groups/The Tethyne.md|The Tethyne]]"
+  - "[[2-World/Groups/The Sijill.md|The Sijill]]"
 enemies:
-  - "[[2-World/Groups/The Evocade.md|The Evocade]]"
+  - "[[2-World/Groups/The Raijin.md|The Raijin]]"
+benefits:
+  - standing: 1
+    reward: A minor boon or rumor from the force.
+  - standing: 2
+    reward: Material aid or safe passage.
+  - standing: 3
+    reward: A genuine intervention on the party's behalf.
 ---
 
-Creeping cold slows a cosmos to total stillness — no death, no growth, no decay.
-Offers permanence *without* assimilation: eternal frozen tableaux. From Niflheim.
-Appeals to those most afraid of change and of the Devouring.
+**The Nifling** (after *Niflheim*, the primordial mist) is the force of **fading** —
+slow, merciful erasure; the fog that lets a thing be gently forgotten rather than
+either filed forever (Sijill) or violently severed (Tehom). A quiet middle death.
 
-## Politics
-**Still Waters** alliance with [[2-World/Groups/The Tethyne.md|the Tethyne]]
-(convenience and mutual contempt). Opposed to
-[[2-World/Groups/The Evocade.md|the Evocade]] on the **motion ⇅ stillness** axis.
+> [!warning] Thin in canon. Named but not fully defined in the source. The reading
+> above is proposed — adjust freely.

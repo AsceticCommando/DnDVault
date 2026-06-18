@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-World/Quests/The Peripeteia.md",
+                "file": "1-DM Toolkit/THE WEFT/THE WEFT - Campaign Bible.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Peripeteia"
+              "title": "THE WEFT - Campaign Bible"
             }
           }
         ],
@@ -361,6 +361,15 @@
   },
   "active": "c908b37bc65e0cb7",
   "lastOpenFiles": [
+    "1-DM Toolkit/THE WEFT/THE WEFT - Knowledge Tree (generated).md",
+    "2-World/Quests/The Peripeteia.md",
+    "2-World/Sapient Species/The Editions.md",
+    "2-World/Regions/The Unravelling Thread.md",
+    "2-World/Quests/The Prologos.md",
+    "2-World/Quests/The Parodos.md",
+    "2-World/Quests/The Exodos.md",
+    "2-World/Quests/The Anagnorisis.md",
+    "1-DM Toolkit/THE WEFT/THE WEFT - Knowledge Graph.json",
     "2-World/Points of Interest/The Underdrop.md",
     "2-World/Points of Interest/The Anthology.md",
     "2-World/Places/The Tally-Car.md",
@@ -368,11 +377,9 @@
     "2-World/People/al-ʿUzzā.md",
     "2-World/Hubs/The Slack-Tide.md",
     "2-World/Galaxies/The Weft.md",
-    "1-DM Toolkit/THE WEFT/THE WEFT - Knowledge Tree (generated).md",
     "1-DM Toolkit/THE WEFT/~$E_WEFT_Peripeteia.docx",
     "1-DM Toolkit/THE WEFT/THE WEFT - Campaign Bible.md",
     "1-DM Toolkit/Home.md",
-    "2-World/Quests/The Peripeteia.md",
     "2-World/People/Oresh.md",
     "2-World/People/Dushara.md",
     "2-World/People/al-Kutbā.md",
@@ -382,11 +389,8 @@
     "2-World/Groups/The Raijin.md",
     "2-World/Groups/The Nifling.md",
     "2-World/Groups/The Evocade.md",
-    "2-World/Groups/The Errata.md",
     "1-DM Toolkit/THE WEFT/THE_WEFT_Peripeteia.docx",
     "1-DM Toolkit/THE WEFT",
-    "1-DM Toolkit/DM Board.md",
-    "1-DM Toolkit/PF2e-DM Screen.md",
     "3-Mechanics/CLI/bestiary/humanoid/img/weretiger.webp",
     "3-Mechanics/CLI/bestiary/humanoid/img/triton-master-of-waves.webp",
     "3-Mechanics/CLI/bestiary/humanoid/img/yuan-ti-pureblood.webp",
@@ -398,14 +402,11 @@
     "3-Mechanics/CLI/bestiary/humanoid/img/wereraven-2.webp",
     "3-Mechanics/CLI/bestiary/humanoid/img/werebear.webp",
     "3-Mechanics/CLI/bestiary/humanoid/img",
-    "1-Party/Example Party 1/Monon.md",
-    "1-Party/Example Party 1/Example Party 1.md",
     "z_Assets/Decks/Tarot",
     "z_Assets/Decks/Standard",
     "3-Mechanics/CLI/vehicles/token",
     "3-Mechanics/CLI/vehicles/img",
     "3-Mechanics/CLI/vehicles",
-    "3-Mechanics/CLI/traps-hazards/img",
     "0-Scratch Notes/Untitled.canvas",
     "0-Scratch Notes/MoC - Canvas Home Page.canvas",
     "Untitled.canvas"

@@ -23,13 +23,12 @@ Connected_Quests:
 > [!quote] "Ask your shepherd what he stole from the fold he kept. Ask him my name
 > — and his."
 
-**al-ʿUzzā** ("the Most Powerful," Venus / the evening star) — a
+**al-ʿUzzā** ("the Most Powerful," the evening star) — a
 [[2-World/Groups/The Sijill.md|Sijill]] power and
-[[2-World/People/al-Kutbā.md|al-Kutbā's]] abandoned consort, who did *not* defect.
-She hunts the apostate for desertion and sees the party as his **stolen property**,
-not as criminals.
+[[2-World/People/al-Kutbā.md|al-Kutbā's]] abandoned consort, who did *not* defect. She
+hunts the apostate for desertion and sees the party as his **stolen property**, not as
+criminals.
 
-**Not the party's enemy.** In the Peripeteia she is a clue-delivery NPC (Clue 4 —
-the huntress's warning) and a future ambiguous ally: if the party ever needs
-al-Kutbā's true name, or to hurt him for real, she knows how — at a price. Play her
-as grief honed to a hunting edge.
+**Not the party's enemy.** In the Peripeteia she delivers Clue 4 (the huntress's
+warning) and is a future ambiguous ally: if the party ever need al-Kutbā's true name,
+or to hurt him for real, she knows how — at a price. Grief honed to a hunting edge.
