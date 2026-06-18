@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "18da8c1f0d458245",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b1d45261d9f1cac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea5ffe6bfd035fa8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "731ad2e55e614965",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9d994d7b69e1cb29",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "75dfa949aa5df025",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "1d8e43ef9d58ef76",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "454f7bdd0d24d27f",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "eccc02ecd1d2bc85",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "84812e1267a0eade",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4489acccffbcf94c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "2845b25be228d24c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "a2e34a0537f013cf",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "5007d28978eeb7e2",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-view",
+          "state": {},
+          "icon": "initiative-tracker",
+          "title": "Initiative Tracker"
+        }
+      },
+      {
+        "id": "63bf4de729b08387",
+        "type": "leaf",
+        "state": {
+          "type": "DICE_ROLLER_VIEW",
+          "state": {},
+          "icon": "dices",
+          "title": "Dice Tray"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
+    }
+  },
+  "active": "ea5ffe6bfd035fa8",
+  "lastOpenFiles": []
+}
