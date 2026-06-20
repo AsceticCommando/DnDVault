@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Infant Hook Horror"
 ---
-# [Infant Hook Horror](3-Mechanics\CLI\bestiary\monstrosity/infant-hook-horror-oota.md)
+# [Infant Hook Horror](3-Mechanics/CLI/bestiary/monstrosity/infant-hook-horror-oota.md)
 *Source: Out of the Abyss p. 34*  
 
 ```statblock
@@ -48,6 +48,6 @@ aliases:
     "name": "Keen Hearing"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/infant-hook-horror-oota.webp"
+"image": "file://bestiary/tokens/OotA/Infant%20Hook%20Horror.webp"
 ```
 ^statblock

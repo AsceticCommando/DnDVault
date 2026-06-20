@@ -12,6 +12,8 @@ aliases:
 
 **Sovereign Types**
 
+`dice: [](sovereign-types-tce.md#^sovereign-types)`
+
 | dice: d6 | Sovereign |
 |----------|-----------|
 | 1 | **Village Elder**. The wizened leader of a community offers both civic and moral leadership. |

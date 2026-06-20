@@ -11,4 +11,4 @@ aliases:
 
 ## 3rd Level
 
-- [Sending](3-Mechanics/CLI/spells/sending.md "PHB")
+- [Sending](3-Mechanics/CLI/spells/sending-xphb.md "XPHB")

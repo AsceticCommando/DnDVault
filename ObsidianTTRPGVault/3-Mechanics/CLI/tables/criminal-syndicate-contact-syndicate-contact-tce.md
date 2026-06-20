@@ -12,6 +12,8 @@ aliases:
 
 **Syndicate Contact**
 
+`dice: [](criminal-syndicate-contact-syndicate-contact-tce.md#^syndicate-contact)`
+
 | dice: d6 | Contact |
 |----------|---------|
 | 1 | **Personal Mentor**. This longtime member of the syndicate took you under their wing when you were young and became a parental figure. |

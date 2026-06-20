@@ -12,13 +12,15 @@ aliases:
 
 **Oracular Conflux Adventures**
 
+`dice: [](oracular-conflux-adventures-mot.md#^oracular-conflux-adventures)`
+
 | dice: d12 | Adventure Goal |
 |-----------|----------------|
 | 1 | Race an air elemental to an oracular conflux in order to receive a prediction of the future before the elemental's whirlwind obliterates all evidence of the reading. |
 | 2 | Defend the shrine from a worshiper who is angry with an oracle for an incorrect prediction. |
 | 3 | Convince an oracle to give a worshiper a particular false prediction. |
 | 4 | Help the addled victim of a lightning strike recover. |
-| 5 | Recover sacrificial animals from a [cyclops](3-Mechanics/CLI/bestiary/giant/cyclops.md) raider. |
+| 5 | Recover sacrificial animals from a [cyclops](3-Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm.md) raider. |
 | 6 | Rig tools used to predict the future so that they produce a specific outcome. |
 | 7 | Manipulate a situation so prophesied events transpire within sight of a half-blind oracle. |
 | 8 | Evacuate a crowded shrine during a storm when lightning strike sets the temple ablaze. |

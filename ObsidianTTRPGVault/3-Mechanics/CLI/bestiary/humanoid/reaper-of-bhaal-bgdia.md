@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Reaper of Bhaal"
 ---
-# [Reaper of Bhaal](3-Mechanics\CLI\bestiary\humanoid/reaper-of-bhaal-bgdia.md)
+# [Reaper of Bhaal](3-Mechanics/CLI/bestiary/humanoid/reaper-of-bhaal-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 233*  
 
 Bhaal's cultists emulate their deity, carrying out gruesome murders to spread fear and horror. They are charming and disarming when they wish, but in combat their true, bloodthirsty nature comes to the fore.
@@ -57,7 +57,7 @@ Low-ranking cultists of Bhaal are called night blades, whom Bhaal blesses with [
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+9"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 13"
 "languages": "Common"
@@ -65,8 +65,8 @@ Low-ranking cultists of Bhaal are called night blades, whom Bhaal blesses with [
 "traits":
   - "desc": "The reaper's innate spellcasting ability is Charisma (spell save DC 13).\
       \ It can innately cast the following spells, requiring no material components:\n\
-      \n**1/day each:** [charm person](3-Mechanics/CLI/spells/charm-person.md), [disguise\
-      \ self](3-Mechanics/CLI/spells/disguise-self.md), [sanctuary](3-Mechanics/CLI/spells/sanctuary.md)"
+      \n**1/day each:** [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md),\
+      \ [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md), [sanctuary](3-Mechanics/CLI/spells/sanctuary-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "As long as the reaper is not [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated),\
       \ hostile creatures within 5 feet of it gain vulnerability to piercing damage\
@@ -84,6 +84,6 @@ Low-ranking cultists of Bhaal are called night blades, whom Bhaal blesses with [
     "name": "Shroud Self"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/reaper-of-bhaal-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Reaper%20of%20Bhaal.webp"
 ```
 ^statblock

@@ -12,6 +12,8 @@ aliases:
 
 **Moonstone Dragon Personality Traits**
 
+`dice: [](creating-a-moonstone-dragon-moonstone-dragon-personality-traits-ftd.md#^moonstone-dragon-personality-traits)`
+
 | dice: d8 | Trait |
 |----------|-------|
 | 1 | I often lose track of whether I'm in the Feywild or on the Material Plane. |

@@ -11,4 +11,4 @@ aliases:
 
 ## 3rd Level
 
-- [Speak with Dead](3-Mechanics/CLI/spells/speak-with-dead.md "PHB")
+- [Speak with Dead](3-Mechanics/CLI/spells/speak-with-dead-xphb.md "XPHB")

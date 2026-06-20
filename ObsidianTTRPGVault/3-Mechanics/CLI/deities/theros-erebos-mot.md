@@ -12,7 +12,7 @@ aliases:
 ---
 # Erebos
 *Source: Mythic Odysseys of Theros p. 43* 
-![](3-Mechanics/CLI/deities/img/mot-028-02-03-erebos.webp#symbol)
+![](file://deities/MOT/028-02-03-erebos.webp#symbol)
 
 - **Alignment**: Neutral Evil
 - **Domains**: Death, Trickery
@@ -58,7 +58,7 @@ A smaller but more dangerous group of Erebos worshipers are those who actively g
 
 The only major festival dedicated to Erebos, called the Katabasion or "the Descent," features a ceremony in which worshipers make a symbolic journey into the Underworld. The supplicants enter a cave, offer prayers and sacrifices to Erebos in utter darkness, and slowly make their way back to the surface just before sunrise.
 
-![](3-Mechanics/CLI/deities/img/mot-029-02-06.webp#center)
+![](file://deities/MOT/029-02-06.webp#center)
 
 > [!readaloud] Myths of Erebos
 > 
@@ -96,6 +96,8 @@ As Erebos sees it, he already owns the soul of every living being. For him to be
 
 **Erebos's Favor**
 
+`dice: [](theros-erebos-mot.md#^ereboss-favor)`
+
 | dice: d6 | Circumstance |
 |----------|--------------|
 | 1 | You follow Erebos seeking financial success, expecting service to translate into rewards. |
@@ -111,6 +113,8 @@ As Erebos sees it, he already owns the soul of every living being. For him to be
 Just as every life ends at the same destination, many different paths can lead a worshiper to Erebos. As a follower of Erebos, consider the ideals on the Erebos's Ideals table as alternatives to those suggested for your background.
 
 **Erebos's Ideals**
+
+`dice: [](theros-erebos-mot.md#^ereboss-ideals)`
 
 | dice: d6 | Ideal |
 |----------|-------|

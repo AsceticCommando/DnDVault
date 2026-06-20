@@ -12,6 +12,8 @@ aliases:
 
 **Espionage Missions**
 
+`dice: [](types-of-espionage-espionage-missions-erlw.md#^espionage-missions)`
+
 | dice: d6 | Mission |
 |----------|---------|
 | 1 | **Information Gathering**. If information is out there, you can find it and hand it over to your patron. |

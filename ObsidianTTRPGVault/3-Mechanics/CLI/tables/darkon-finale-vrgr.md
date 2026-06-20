@@ -12,6 +12,8 @@ aliases:
 
 **Darkon Finale**
 
+`dice: [](darkon-finale-vrgr.md#^darkon-finale)`
+
 | dice: d6 | Finale |
 |----------|--------|
 | 1 | None of Azalin's would-be inheritors are fit to become Darklord. Only by merging their spirits or making one inheritor the vessel for a hidden evil can a new Darklord arise. |

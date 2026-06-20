@@ -12,12 +12,14 @@ statblock-link: "#^statblock"
 aliases:
 - "Dusk Hag"
 ---
-# [Dusk Hag](3-Mechanics\CLI\bestiary\fey/dusk-hag-erlw.md)
+# [Dusk Hag](3-Mechanics/CLI/bestiary/fey/dusk-hag-erlw.md)
 *Source: Eberron: Rising from the Last War p. 292*  
 
 Dusk hags resemble gnarled crones with shriveled orange skin, tangled gray hair, and eyes that burn like hot coals. They see visions of the future in their dreams, and their dark magic allows them to influence the dreams of others, sending messages or inflicting nightmares with a touch. Tales talk of ambitious wizards, frantic monarchs, and desperate heroes undertaking quests or making bargains with a dusk hag in exchange for its prophecies and visions of the future. But the information gained from a dusk hag often has a way of causing more pain than joy. Like all hags, dusk hags enjoy causing strife to those who bargain with them, and find ways to twist and turn promises to their own advantage. The Dusk Hag Prophecies table provides examples of the sort of dreams dusk hags might share with unsuspecting sleepers.
 
 **Dusk Hag Prophecies**
+
+`dice: [](dusk-hag-erlw.md#^dusk-hag-prophecies)`
 
 | dice: d10 | Prophecy |
 |-----------|----------|
@@ -70,11 +72,11 @@ Dusk hags resemble gnarled crones with shriveled orange skin, tangled gray hair,
 "traits":
   - "desc": "The hag's spellcasting ability is Charisma (spell save DC 15). She can\
       \ innately cast the following spells, requiring no material components:\n\n\
-      **At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [disguise\
-      \ self](3-Mechanics/CLI/spells/disguise-self.md)\n\n**3/day each:** [dream](3-Mechanics/CLI/spells/dream.md),\
-      \ [hypnotic pattern](3-Mechanics/CLI/spells/hypnotic-pattern.md), [sleep](3-Mechanics/CLI/spells/sleep.md)\
-      \ (9d8)\n\n**1/day each:** [legend lore](3-Mechanics/CLI/spells/legend-lore.md),\
-      \ [scrying](3-Mechanics/CLI/spells/scrying.md)"
+      **At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [disguise\
+      \ self](3-Mechanics/CLI/spells/disguise-self-xphb.md)\n\n**3/day each:** [dream](3-Mechanics/CLI/spells/dream-xphb.md),\
+      \ [hypnotic pattern](3-Mechanics/CLI/spells/hypnotic-pattern-xphb.md), [sleep](3-Mechanics/CLI/spells/sleep-xphb.md)\
+      \ (9d8)\n\n**1/day each:** [legend lore](3-Mechanics/CLI/spells/legend-lore-xphb.md),\
+      \ [scrying](3-Mechanics/CLI/spells/scrying-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "The hag has advantage on saving throws against spells and other magical\
       \ effects."
@@ -100,6 +102,6 @@ Dusk hags resemble gnarled crones with shriveled orange skin, tangled gray hair,
     "name": "Dream Eater"
 "source":
   - "ERLW"
-"image": "3-Mechanics/CLI/bestiary/fey/token/dusk-hag-erlw.webp"
+"image": "file://bestiary/tokens/ERLW/Dusk%20Hag.webp"
 ```
 ^statblock

@@ -12,6 +12,8 @@ aliases:
 
 **Famous Story**
 
+`dice: [](famous-story-erlw.md#^famous-story)`
+
 | dice: d6 | Famous Story |
 |----------|--------------|
 | 1 | **Fear Monger**. You spiced up a story by stretching a few facts, instigating a wave of misinformation that plagues public discourse to this day. |

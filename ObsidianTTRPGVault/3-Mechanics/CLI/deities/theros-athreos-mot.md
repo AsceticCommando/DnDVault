@@ -12,7 +12,7 @@ aliases:
 ---
 # Athreos
 *Source: Mythic Odysseys of Theros p. 37* 
-![](3-Mechanics/CLI/deities/img/mot-024-02-03-athreos.webp#symbol)
+![](file://deities/MOT/024-02-03-athreos.webp#symbol)
 
 - **Alignment**: Lawful Evil
 - **Domains**: Death, Grave
@@ -44,7 +44,7 @@ Most funeral traditions include small offerings and words of reverence to Athreo
 
 During the feast of the Necrologion, which gives its name to the eighth month in the calendar of Meletis, pious souls silently spend the day reading ancient memoirs or writing messages for their own descendants.
 
-![](3-Mechanics/CLI/deities/img/mot-025-02-04.webp#center)
+![](file://deities/MOT/025-02-04.webp#center)
 
 > [!readaloud] Myths of Athreos
 > 
@@ -84,6 +84,8 @@ As all mortals eventually bow before him, the River Guide doesn't seek worship. 
 
 **Athreos's Favor**
 
+`dice: [](theros-athreos-mot.md#^athreoss-favor)`
+
 | dice: d6 | Circumstance |
 |----------|--------------|
 | 1 | A family member died bringing you into the world. |
@@ -99,6 +101,8 @@ As all mortals eventually bow before him, the River Guide doesn't seek worship. 
 Servants of Athreos facilitate the passage from life into death. As a follower of Athreos, consider the possibilities on the Athreos's Ideals table as alternatives to those suggested for your background.
 
 **Athreos's Ideals**
+
+`dice: [](theros-athreos-mot.md#^athreoss-ideals)`
 
 | dice: d6 | Ideal |
 |----------|-------|

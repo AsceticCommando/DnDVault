@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Crab Folk"
 ---
-# [Crab Folk](3-Mechanics\CLI\bestiary\giant/crab-folk-mff.md)
+# [Crab Folk](3-Mechanics/CLI/bestiary/giant/crab-folk-mff.md)
 *Source: Mordenkainen's Fiendish Folio p. 6*  
 
 The crab folk are the result of a magical ritual used long ago by a mighty green hag to transform her ogre minions into more useful servants. All crab folk that now exist are descended from those original creations, with most living in small, isolated clutches. Though they are content to lead peaceful lives as hunters and gatherers, the magic that created the crab folk sometimes compels them to lash out in fearsome raids when the conditions are right.
@@ -74,6 +74,6 @@ Legend holds that the green hag preferred to travel in the guise of a regal hobg
     "name": "Claw"
 "source":
   - "MFF"
-"image": "3-Mechanics/CLI/bestiary/giant/token/crab-folk-mff.webp"
+"image": "file://bestiary/tokens/MFF/Crab%20Folk.webp"
 ```
 ^statblock

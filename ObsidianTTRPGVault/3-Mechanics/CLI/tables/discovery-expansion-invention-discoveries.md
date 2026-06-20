@@ -12,6 +12,8 @@ aliases:
 
 **Discoveries**
 
+`dice: [](discovery-expansion-invention-discoveries.md#^discoveries)`
+
 | dice: d10 | Discovery |
 |-----------|-----------|
 | 1 | Ancient ruin/lost city of a legendary race |

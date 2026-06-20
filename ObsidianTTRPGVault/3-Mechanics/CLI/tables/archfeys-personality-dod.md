@@ -12,6 +12,8 @@ aliases:
 
 **Archfey's Personality**
 
+`dice: [](archfeys-personality-dod.md#^archfeys-personality)`
+
 | dice: d8 | Personality |
 |----------|-------------|
 | 1 | **Benevolent.** The archfey welcomes all into their domain and does everything in their power to assist those who come to them in true friendship or grave need. |

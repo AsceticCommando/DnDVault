@@ -12,6 +12,8 @@ aliases:
 
 **Hoard Mundane Items**
 
+`dice: [](creating-a-hoard-hoard-mundane-items-ftd.md#^hoard-mundane-items)`
+
 | dice: d100 | Mundane Items |
 |------------|---------------|
 | 01–04 | A painting by an artist long forgotten by everyone except the dragon |

@@ -14,6 +14,8 @@ aliases:
 
 
 
+`dice: [](elven-trinket-mtf.md#^trinket)`
+
 | dice: d8 | Trinket |
 |----------|---------|
 | 1 | A small notebook that causes anything written in it to disappear after 1 hour |

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Hulking Shadow"
 ---
-# [Hulking Shadow](3-Mechanics\CLI\bestiary\undead/hulking-shadow-dsotdq.md)
+# [Hulking Shadow](3-Mechanics/CLI/bestiary/undead/hulking-shadow-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 174*  
 
 ```statblock
@@ -67,9 +67,9 @@ aliases:
       \ (2d10 + 5) bludgeoning damage. If the target is a creature, it must succeed\
       \ on a DC 15 Constitution saving throw or have its hit point maximum reduced\
       \ by an amount equal to the damage taken. The target dies if this attack reduces\
-      \ its hit point maximum to 0. The reduction lasts until removed by the  [greater\
-      \ restoration](3-Mechanics/CLI/spells/greater-restoration.md) spell or other\
-      \ magic."
+      \ its hit point maximum to 0. The reduction lasts until removed by the [greater\
+      \ restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md) spell or\
+      \ other magic."
     "name": "Slam"
   - "desc": "Until the end of its next turn, the shadow magically gains a +2 bonus\
       \ to its AC, has advantage on Dexterity saving throws, and can use its slam\
@@ -77,6 +77,6 @@ aliases:
     "name": "Haste (Recharge 5-6)"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/undead/token/hulking-shadow-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Hulking%20Shadow.webp"
 ```
 ^statblock

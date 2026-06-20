@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Dancing Item"
 ---
-# [Dancing Item](3-Mechanics\CLI\bestiary\construct/dancing-item-tce.md)
+# [Dancing Item](3-Mechanics/CLI/bestiary/construct/dancing-item-tce.md)
 *Source: Tasha's Cauldron of Everything p. 29*  
 
 ```statblock
@@ -50,6 +50,6 @@ aliases:
     "name": "Force-Empowered Slam"
 "source":
   - "TCE"
-"image": "3-Mechanics/CLI/bestiary/construct/token/dancing-item-tce.webp"
+"image": "file://bestiary/tokens/TCE/Dancing%20Item.webp"
 ```
 ^statblock

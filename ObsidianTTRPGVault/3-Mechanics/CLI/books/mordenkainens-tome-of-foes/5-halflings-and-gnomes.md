@@ -10,7 +10,7 @@ aliases:
 # Halflings and Gnomes
 *Source: Mordenkainen's Tome of Foes, p. 99* 
 
-![](3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/mtf_chapterstarts_ch5.webp#center)
+![](file://book/MTF/mtf_chapterstarts_ch5.webp#center)
 
 Creatures of many races and cultures are embroiled in struggles that flare up across the multiverse. Other folk survive in the face of all this turmoil by keeping a low profile and avoiding the wars and other depredations that keep the outside world in a state of flux.
 
@@ -63,7 +63,7 @@ Throughout recorded history, halflings have never sought to expand their reach b
 
 On the surface, halflings seem to be simple folk, but those who have lived with them or who have had a halfling in their company know that there is much more to the lives of these small folk than meets the eye. The members of a halfling community have a set of shared values and purposes, whether they are tucked away in a hillside burrow or occupying a neighborhood of their own in a city or town dominated by another race.
 
-![](3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315600_cn_wmask.webp#center)
+![](file://book/MTF/315600_cn_wmask.webp#center)
 
 #### Everything Has a Story
 
@@ -184,7 +184,7 @@ Yondalla created the first halfling villages and showed the people how to build,
 
 To the halflings, Yondalla is responsible for the spring in their step and the bubbly excitement they feel from knowing that luck is on their side. When a pumpkin grows to enormous size or a garden yields twice as many carrots as usual, credit goes to Yondalla. When a halfling trips, slides down a hillside, and lands on a nugget of gold, that's Yondalla turning bad luck into good.
 
-![](3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315601_cn_wmask.webp#center)
+![](file://book/MTF/315601_cn_wmask.webp#center)
 
 #### Arvoreen
 
@@ -268,7 +268,7 @@ The term refers to the persistent urge to wander beyond the boundaries of the co
 
 Some elders-especially those who once had fancy feet themselves-just shrug, smile, and say it is the way of things. Nevertheless, well-meaning villagers might try to dissuade a youngster from leaving the community. Other villages are much more supportive of one of their members who demonstrates the urge to adventure, likely because some of their elders have gone into the world and returned to tell about it. In one of these places, a youngster about to set out is celebrated with a rousing party that goes far into the night, during which the adventurer-to-be is regaled by tales of other "fancy-footed" heroes of halfling history.
 
-![](3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315599_cn_wmask.webp#center)
+![](file://book/MTF/315599_cn_wmask.webp#center)
 
 #### Legends in the Making
 
@@ -323,7 +323,7 @@ Though this pursuit of knowledge might compel a gnome to spend long periods in t
 
 Their fun-loving attitude also comes through in the form of jokes that gnomes tell to, or about, their companions, and in the good-spirited pranks that they play on each other-and on other folk (who might not always appreciate being the target of their humor).
 
-![](3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315602_cn_wmask.webp#center)
+![](file://book/MTF/315602_cn_wmask.webp#center)
 
 #### The Journey Is the Destination
 
@@ -360,7 +360,7 @@ Imagination runs wild in the mind of a gnome. Any fresh idea can be the starting
 
 Exploration is a part of invention, as the gnomes see it, so there's nothing wrong with creating machines and artifacts that seem to have no purpose. The gnomes who produce these works of art are using new ideas and new approaches, breaking through old boundaries and advancing the frontier of knowledge. For instance, an artist might create a beautiful articulated sculpture whose pieces can be manipulated in a unique way. Another artisan might take that idea and apply it to a new form of invention-but no one forgets that it was the artist's idea that blazed the trail for that journey.
 
-![](3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315604_cn_wmask.webp#center)
+![](file://book/MTF/315604_cn_wmask.webp#center)
 
 #### Alchemists
 
@@ -400,7 +400,7 @@ Forest gnomes are good at making their homes vanish into the landscape. It helps
 
 Beyond the secret doors into their houses, the homes of forest gnomes are gaily decorated, tidy spaces that take advantage of natural features. A great glass bowl swimming with fish and frogs might serve as a skylight for a gnome burrow, while appearing to the world above as a small pond. The gnarled and tangled roots of a tree might be used for shelves, seats, tables, and bed spaces. Such houses often have many little channels open to the outside, allowing scraps of sunlight to dapple the walls and floors and providing a means of egress for the many animals that live with the gnomes. Similar small openings are used for their cleverly hidden chimneys, disguised as tree branches, which carry smoke from their small fires high into the treetops, reducing it to little more than a haze before it disperses.
 
-![](3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315603_cn.webp#center)
+![](file://book/MTF/315603_cn.webp#center)
 
 #### Animal Helpers
 

@@ -12,6 +12,8 @@ aliases:
 
 **Gith Names – Githzerai, Male**
 
+`dice: [](gith-names-githzerai-male-mtf.md#^gith-names-githzerai-male)`
+
 | dice: d10 | Name |
 |-----------|------|
 | 1 | Dak |

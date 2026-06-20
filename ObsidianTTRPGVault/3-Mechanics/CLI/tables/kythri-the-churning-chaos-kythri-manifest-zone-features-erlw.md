@@ -12,6 +12,8 @@ aliases:
 
 **Kythri Manifest Zone Features**
 
+`dice: [](kythri-the-churning-chaos-kythri-manifest-zone-features-erlw.md#^kythri-manifest-zone-features)`
+
 | dice: d4 | Feature |
 |----------|---------|
 | 1 | The earth here is highly changeable and unstable. A creature that succeeds on a DC 14 Wisdom ([Nature](3-Mechanics/CLI/rules/skills.md#Nature)) check as an action can alter a 20-by-20-foot square of terrain in some way. For example, they might choose to turn the earth to mud, cause stony spikes to erupt from the soil, or warp local plant life. Failing the check causes random, uncontrolled effects. |

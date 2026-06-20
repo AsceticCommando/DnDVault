@@ -12,7 +12,7 @@ aliases:
 ---
 # Karametra
 *Source: Mythic Odysseys of Theros p. 52* 
-![](3-Mechanics/CLI/deities/img/mot-034-02-03-karametra.webp#symbol)
+![](file://deities/MOT/034-02-03-karametra.webp#symbol)
 
 - **Alignment**: Neutral Good
 - **Domains**: Life, Nature
@@ -54,7 +54,7 @@ The earth's fertility is essential for mortal life to continue. Those who live i
 
 Prayers to Karametra focus on asserting Karametra's constancy and bounty, praising the god's love and generosity. Worshipers of Karametra gather for a feast once a month, on the evening of the full moon, that celebrates the god's role in parenthood and community. New parents receive gifts and blessings, and young couples sneak away into the woods in hopes of finding sweet berries and sweeter kisses.
 
-![](3-Mechanics/CLI/deities/img/mot-035-02-09.webp#center)
+![](file://deities/MOT/035-02-09.webp#center)
 
 > [!readaloud] Myths of Karametra
 > 
@@ -95,6 +95,8 @@ Although Karametra's demeanor is gentle, her call to service is nonnegotiable. S
 
 **Karametra's Favor**
 
+`dice: [](theros-karametra-mot.md#^karametras-favor)`
+
 | dice: d6 | Circumstance |
 |----------|--------------|
 | 1 | You were an orphan who wandered into one of Karametra's temples seeking a meal and a safe place to spend the night. |
@@ -110,6 +112,8 @@ Although Karametra's demeanor is gentle, her call to service is nonnegotiable. S
 Following Karametra means dedicating yourself to caring for others, promoting civilization and community, and putting the needs of others above your own. After all, Karametra asks nothing for herself. As a follower of Karametra, consider the ideals on the Karametra's Ideals table as alternatives to those suggested for your background.
 
 **Karametra's Ideals**
+
+`dice: [](theros-karametra-mot.md#^karametras-ideals)`
 
 | dice: d6 | Ideal |
 |----------|-------|

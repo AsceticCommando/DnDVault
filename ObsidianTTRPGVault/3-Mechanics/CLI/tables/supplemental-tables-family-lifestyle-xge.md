@@ -12,6 +12,8 @@ aliases:
 
 **Family Lifestyle**
 
+`dice: [](supplemental-tables-family-lifestyle-xge.md#^family-lifestyle)`
+
 | dice: 3d6 | Lifestyle* |
 |-----------|------------|
 | 3 | Wretched (-40) |

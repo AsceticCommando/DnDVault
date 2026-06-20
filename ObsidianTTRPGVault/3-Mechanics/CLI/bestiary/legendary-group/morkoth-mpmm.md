@@ -15,7 +15,7 @@ _Source: Mordenkainen Presents: Monsters of the Multiverse_
 
 On initiative count 20 (losing initiative ties), the morkoth can take one of the following lair actions:
 
-- **Cast a Spell.** The morkoth casts [darkness](3-Mechanics/CLI/spells/darkness.md), [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), or [misty step](3-Mechanics/CLI/spells/misty-step.md), using Intelligence as its spellcasting ability and without expending a spell slot.  
+- **Cast a Spell.** The morkoth casts [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), or [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md), using Intelligence as its spellcasting ability and without expending a spell slot.  
 - **Hypnotize.** The morkoth uses its Hypnosis action, originating at a point within 120 feet of itself. It doesn't need to see the effect's point of origin.  
 
 ## Regional Effects

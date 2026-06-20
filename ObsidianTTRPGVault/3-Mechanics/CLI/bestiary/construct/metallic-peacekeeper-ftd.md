@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Metallic Peacekeeper"
 ---
-# [Metallic Peacekeeper](3-Mechanics\CLI\bestiary\construct/metallic-peacekeeper-ftd.md)
+# [Metallic Peacekeeper](3-Mechanics/CLI/bestiary/construct/metallic-peacekeeper-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 210*  
 
 When a metallic dragon grows attached to a settlement of smaller folk—often after dwelling there for a time in Humanoid form—the dragon might decide to create a metallic peacekeeper to protect the place. The peacekeeper can ward a community for centuries, standing in the place of its dragon creator and maintaining peace and order.
@@ -70,6 +70,6 @@ A metallic sentinel is a guardian created by a metallic dragon, forged from the 
     "name": "Calming Mist (Recharge 5-6)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/construct/token/metallic-peacekeeper-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Metallic%20Peacekeeper.webp"
 ```
 ^statblock

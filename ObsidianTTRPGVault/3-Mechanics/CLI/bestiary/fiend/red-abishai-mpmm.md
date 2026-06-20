@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Red Abishai"
 ---
-# [Red Abishai](3-Mechanics\CLI\bestiary\fiend/red-abishai-mpmm.md)
+# [Red Abishai](3-Mechanics/CLI/bestiary/fiend/red-abishai-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 40, Mordenkainen's Tome of Foes p. 160*  
 
 Red abishais have no equals among the abishais when it comes to leadership ability and raw power. Red abishais lead other devils into battle or take charge of troublesome cults to ensure that they continue to carry out Tiamat's commands. A red abishai cuts a fearsome figure, and that sight can be inspiring to the abishai's allies, filling them with a fanatical willingness to fight.
@@ -103,7 +103,7 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/red-abishai-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Red%20Abishai.webp"
 ```
 ^statblock
 

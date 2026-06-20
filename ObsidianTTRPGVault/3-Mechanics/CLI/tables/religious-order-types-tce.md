@@ -12,6 +12,8 @@ aliases:
 
 **Religious Order Types**
 
+`dice: [](religious-order-types-tce.md#^religious-order-types)`
+
 | dice: d6 | Religious Order |
 |----------|-----------------|
 | 1 | **Undead Hunters**. This community of scholars and monster hunters laboriously researches the unquiet dead, tracking them to their lairs and permanently laying them to rest. |

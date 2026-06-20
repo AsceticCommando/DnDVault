@@ -12,6 +12,8 @@ aliases:
 
 **Magic Item Purchase Complications**
 
+`dice: [](magic-item-purchase-complications-xge.md#^magic-item-purchase-complications)`
+
 | dice: d12 | Complication |
 |-----------|--------------|
 | 1 | The item is a fake, planted by an enemy.* |

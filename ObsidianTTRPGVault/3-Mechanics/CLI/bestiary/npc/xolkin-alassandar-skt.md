@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Xolkin Alassandar"
 ---
-# [Xolkin Alassandar](3-Mechanics\CLI\bestiary\npc/xolkin-alassandar-skt.md)
+# [Xolkin Alassandar](3-Mechanics/CLI/bestiary/npc/xolkin-alassandar-skt.md)
 *Source: Storm King's Thunder p. 27*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "half-elf"
 "alignment": "Lawful Evil"
 "ac": !!int "15"
-"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor.md)"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
 "modifier": !!int "3"
@@ -44,8 +44,8 @@ aliases:
   - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+4"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
-  - "[scimitar](3-Mechanics/CLI/items/scimitar.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
+  - "[scimitar](3-Mechanics/CLI/items/scimitar-xphb.md)"
 "senses": "passive Perception 10"
 "languages": "any two languages"
 "cr": "2"
@@ -65,6 +65,6 @@ aliases:
     "name": "Parry"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/xolkin-alassandar-skt.webp"
+"image": "file://bestiary/tokens/SKT/Xolkin%20Alassandar.webp"
 ```
 ^statblock

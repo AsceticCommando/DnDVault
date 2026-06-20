@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Deepking Horgar Steelshadow V"
 ---
-# [Deepking Horgar Steelshadow V](3-Mechanics\CLI\bestiary\npc/deepking-horgar-steelshadow-v-oota.md)
+# [Deepking Horgar Steelshadow V](3-Mechanics/CLI/bestiary/npc/deepking-horgar-steelshadow-v-oota.md)
 *Source: Out of the Abyss p. 82*  
 
 Deepking Horgar V ascended to the throne in 1372 DR. He is a ruthless and canny ruler who engages in secret meetings with all the city's councils and clans to keep their members guessing what he's up to, hands out favors out of the blue, and lets it be known that he'll use any trick to maintain his hold on power. This includes hiring assassins through third parties to take care of potential troublemakers. This strategy keeps all the city's factions at each other's throats and out of Horgar's way.
@@ -26,7 +26,7 @@ Like many other duergar in the city, Horgar Steelshadow V has been touched by th
 "subtype": "dwarf"
 "alignment": "Lawful Evil"
 "ac": !!int "20"
-"ac_class": "[dwarven plate](3-Mechanics/CLI/items/dwarven-plate.md)"
+"ac_class": "[dwarven plate](3-Mechanics/CLI/items/dwarven-plate-xdmg.md)"
 "hp": !!int "52"
 "hit_dice": "8d8 + 16"
 "modifier": !!int "0"
@@ -42,9 +42,9 @@ Like many other duergar in the city, Horgar Steelshadow V has been touched by th
   - "constitution": !!int "4"
   - "wisdom": !!int "2"
 "gear":
-  - "[+2 warhammer](3-Mechanics/CLI/items/2-weapon.md)"
-  - "[gauntlets of ogre power](3-Mechanics/CLI/items/gauntlets-of-ogre-power.md)"
-  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow.md)"
+  - "[+2 warhammer](3-Mechanics/CLI/items/2-weapon-xdmg.md)"
+  - "[gauntlets of ogre power](3-Mechanics/CLI/items/gauntlets-of-ogre-power-xdmg.md)"
+  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow-xphb.md)"
 "senses": "passive Perception 10"
 "languages": "Draconic, Giant, Dwarvish"
 "cr": "3"
@@ -57,7 +57,7 @@ Like many other duergar in the city, Horgar Steelshadow V has been touched by th
       \ on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks\
       \ that rely on sight."
     "name": "Sunlight Sensitivity"
-  - "desc": "Horgar wields [Gauntlets of Ogre Power](3-Mechanics/CLI/items/gauntlets-of-ogre-power.md)\
+  - "desc": "Horgar wields [Gauntlets of Ogre Power](3-Mechanics/CLI/items/gauntlets-of-ogre-power-xdmg.md)\
       \ giving him a Strength score of 19 (+4)."
     "name": "Gauntlets of Ogre Power"
   - "desc": "Horgar has advantage on saving throws against being [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)."
@@ -98,6 +98,6 @@ Like many other duergar in the city, Horgar Steelshadow V has been touched by th
     "name": "Parry"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/deepking-horgar-steelshadow-v-oota.webp"
+"image": "file://bestiary/tokens/OotA/Deepking%20Horgar%20Steelshadow%20V.webp"
 ```
 ^statblock

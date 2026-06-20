@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Naiad"
 ---
-# [Naiad](3-Mechanics\CLI\bestiary\fey/naiad-mot.md)
+# [Naiad](3-Mechanics/CLI/bestiary/fey/naiad-mot.md)
 *Source: Mythic Odysseys of Theros p. 236*  
 
 Naiads live in and near water. They might be spotted among rivers and lakes, on isolated shores, or amid coral labyrinths and deep sea fumaroles. Wherever rivers and seas show their variety and force, naiads gather to revel in nature's might. Individual naiads often grow fixated with a single type or body of water, potentially preferring a deep sea trench, coastline, or river system above all others. Over time, such a resident nymph often becomes connected with their aquatic home through sightings and stories, becoming a guardian of the place and, in effect, a manifestation of its personality.
@@ -66,9 +66,9 @@ A nymph doesn't require food, drink, or sleep.
 "traits":
   - "desc": "The naiad's spellcasting ability is Charisma (spell save DC 14). It can\
       \ innately cast the following spells, requiring no material components:\n\n\
-      **At will:** [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md)\n\n\
-      **3/day:** [phantasmal force](3-Mechanics/CLI/spells/phantasmal-force.md)\n\n\
-      **1/day each:** [fly](3-Mechanics/CLI/spells/fly.md), [hypnotic pattern](3-Mechanics/CLI/spells/hypnotic-pattern.md)"
+      **At will:** [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\
+      \n**3/day:** [phantasmal force](3-Mechanics/CLI/spells/phantasmal-force-xphb.md)\n\
+      \n**1/day each:** [fly](3-Mechanics/CLI/spells/fly-xphb.md), [hypnotic pattern](3-Mechanics/CLI/spells/hypnotic-pattern-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "The naiad can breathe air and water."
     "name": "Amphibious"
@@ -86,6 +86,6 @@ A nymph doesn't require food, drink, or sleep.
     "name": "Psychic Touch"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/fey/token/naiad-mot.webp"
+"image": "file://bestiary/tokens/MOT/Naiad.webp"
 ```
 ^statblock

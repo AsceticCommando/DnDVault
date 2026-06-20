@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Gash"
 ---
-# [Gash](3-Mechanics\CLI\bestiary\npc/gash-oota.md)
+# [Gash](3-Mechanics/CLI/bestiary/npc/gash-oota.md)
 *Source: Out of the Abyss p. 181*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "gnoll"
 "alignment": "Chaotic Evil"
 "ac": !!int "15"
-"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "11"
 "hit_dice": "5d8"
 "modifier": !!int "1"
@@ -35,8 +35,8 @@ aliases:
   - !!int "7"
 "speed": "25 ft."
 "gear":
-  - "[longbow](3-Mechanics/CLI/items/longbow.md)"
-  - "[spear](3-Mechanics/CLI/items/spear.md)"
+  - "[longbow](3-Mechanics/CLI/items/longbow-xphb.md)"
+  - "[spear](3-Mechanics/CLI/items/spear-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 10"
 "languages": "Gnoll, Abyssal"
@@ -47,7 +47,7 @@ aliases:
       \ bite attack."
     "name": "Rampage"
   - "desc": "Gash has disadvantage on Wisdom checks and Wisdom saving throws because\
-      \ of the physical and mental abuse he has suffered. A [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration.md)\
+      \ of the physical and mental abuse he has suffered. A [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md)\
       \ spell rids him of these effects."
     "name": "Wretched"
 "actions":
@@ -63,6 +63,6 @@ aliases:
     "name": "Longbow"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/gash-oota.webp"
+"image": "file://bestiary/tokens/OotA/Gash.webp"
 ```
 ^statblock

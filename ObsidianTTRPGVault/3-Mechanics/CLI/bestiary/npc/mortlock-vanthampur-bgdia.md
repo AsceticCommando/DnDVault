@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Mortlock Vanthampur"
 ---
-# [Mortlock Vanthampur](3-Mechanics\CLI\bestiary\npc/mortlock-vanthampur-bgdia.md)
+# [Mortlock Vanthampur](3-Mechanics/CLI/bestiary/npc/mortlock-vanthampur-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 26*  
 
 Mortlock is tolerated by his mother, Duke Thalamra Vanthampur, and despised by his older brothers, Thurstwell and Amrik, who view him as a simpleton and an abomination. Half of Mortlock's face was scarred by fire when he was a child, and his disfigurement gives him a fearsome countenance.
@@ -41,8 +41,8 @@ Mortlock is tolerated by his mother, Duke Thalamra Vanthampur, and despised by h
   - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+5"
 "gear":
-  - "[greatclub](3-Mechanics/CLI/items/greatclub.md)"
-  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow.md)"
+  - "[greatclub](3-Mechanics/CLI/items/greatclub-xphb.md)"
+  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow-xphb.md)"
 "senses": "passive Perception 11"
 "languages": "Common"
 "cr": "3"
@@ -62,6 +62,6 @@ Mortlock is tolerated by his mother, Duke Thalamra Vanthampur, and despised by h
     "name": "Heavy Crossbow"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/mortlock-vanthampur-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Mortlock%20Vanthampur.webp"
 ```
 ^statblock

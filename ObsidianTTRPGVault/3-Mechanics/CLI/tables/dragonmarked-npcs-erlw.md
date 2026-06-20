@@ -12,6 +12,8 @@ aliases:
 
 **Dragonmarked NPCs**
 
+`dice: [](dragonmarked-npcs-erlw.md#^dragonmarked-npcs)`
+
 | dice: d12 | NPC |
 |-----------|-----|
 | 1 | A renegade from House Cannith arms a group of bandits with fearsome elemental-bound weapons to prey on caravans as well as facilities belonging to other houses. |

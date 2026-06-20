@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Neogi Hatchling"
 ---
-# [Neogi Hatchling](3-Mechanics\CLI\bestiary\aberration/neogi-hatchling-mpmm.md)
+# [Neogi Hatchling](3-Mechanics/CLI/bestiary/aberration/neogi-hatchling-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 191, Volo's Guide to Monsters p. 179*  
 
 A neogi lives about a century. When an individual is rendered weak by advanced age, the other neogi in the group overpower it and inject it with a special poison. The toxin transforms the old neogi into a bloated mass of flesh. Younger neogi lay their eggs atop it, and when the hatchlings emerge, they devour the old neogi and one another until only a few of the strongest newborns are left. The surviving neogi hatchlings begin their lives under the control of adult neogi. They must learn about their society and earn a place in it, and each one starts its training by gaining mastery over an umber hulk.
@@ -68,7 +68,7 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/neogi-hatchling-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Neogi%20Hatchling.webp"
 ```
 ^statblock
 

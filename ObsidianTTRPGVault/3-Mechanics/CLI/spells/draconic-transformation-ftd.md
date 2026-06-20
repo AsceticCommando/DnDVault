@@ -4,15 +4,16 @@ cssclasses:
 - json5e-spell
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
-- ttrpg-cli/spell/class/bard/magical-secrets
+- ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/druid
 - ttrpg-cli/spell/class/sorcerer
 - ttrpg-cli/spell/class/wizard
+- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
 - ttrpg-cli/spell/level/7th-level
 - ttrpg-cli/spell/school/transmutation
 - ttrpg-cli/spell/subclass/arcana-domain
 classes:
-- Bard (Magical Secrets)
+- Bard
 - Cleric (Arcana Domain)
 - Druid
 - Sorcerer
@@ -32,9 +33,9 @@ aliases:
 With a roar, you draw on the magic of dragons to transform yourself, taking on draconic features. You gain the following benefits until the spell ends:
 
 - **Blindsight.** You have [blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) with a range of 30 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) or in darkness. Moreover, you can see an [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) creature, unless the creature successfully hides from you.  
-- **Breath Weapon.** When you cast this spell, and as a bonus action on subsequent turns for the duration, you can exhale shimmering energy in a 60-foot cone. Each creature in that area must make a Dexterity saving throw, taking `6d8` force damage on a failed save, or half as much damage on a successful one.  
+- **Breath Weapon.** When you cast this spell, and as a bonus action on subsequent turns for the duration, you can exhale shimmering energy in a 60-foot cone. Each creature in that area must make a Dexterity saving throw, taking `dice:6d8|noform|noparens|avg` (`6d8`) force damage on a failed save, or half as much damage on a successful one.  
 - **Wings.** Incorporeal wings sprout from your back, giving you a flying speed of 60 feet.  
 
-**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](3-Mechanics/CLI/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG"); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](3-Mechanics/CLI/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Fizban's Treasury of Dragons p. 19*

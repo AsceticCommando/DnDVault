@@ -12,6 +12,8 @@ aliases:
 
 **Leader Types**
 
+`dice: [](rise-or-fall-of-a-leader-or-an-era-leader-types.md#^leader-types)`
+
 | dice: d6 | Leader Types |
 |----------|--------------|
 | 1 | Political |

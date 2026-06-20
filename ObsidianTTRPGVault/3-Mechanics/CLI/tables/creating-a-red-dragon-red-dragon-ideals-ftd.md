@@ -12,6 +12,8 @@ aliases:
 
 **Red Dragon Ideals**
 
+`dice: [](creating-a-red-dragon-red-dragon-ideals-ftd.md#^red-dragon-ideals)`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Cruelty. Pain and fear are the most powerful tools. With them, any creature's will can be broken. (Evil) |

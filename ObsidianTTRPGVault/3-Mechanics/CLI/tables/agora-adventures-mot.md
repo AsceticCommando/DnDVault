@@ -12,6 +12,8 @@ aliases:
 
 **Agora Adventures**
 
+`dice: [](agora-adventures-mot.md#^agora-adventures)`
+
 | dice: d12 | Adventure Goal |
 |-----------|----------------|
 | 1 | Apprehend the ringleader of a thieves' guild who frequently targets people in the agora. |

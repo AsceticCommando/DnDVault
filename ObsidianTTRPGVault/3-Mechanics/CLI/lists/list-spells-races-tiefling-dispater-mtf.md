@@ -11,12 +11,12 @@ aliases:
 
 ## Cantrip
 
-- [Thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy.md "PHB") at class level 5
+- [Thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md "XPHB") as cantrip
 
 ## 1st Level
 
-- [Disguise Self](3-Mechanics/CLI/spells/disguise-self.md "PHB") at class level 5
+- [Disguise Self](3-Mechanics/CLI/spells/disguise-self-xphb.md "XPHB") at class level 3
 
 ## 2nd Level
 
-- [Detect Thoughts](3-Mechanics/CLI/spells/detect-thoughts.md "PHB") at class level 5
+- [Detect Thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md "XPHB") at class level 5

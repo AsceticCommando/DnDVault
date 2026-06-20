@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Shield Dwarf Guard"
 ---
-# [Shield Dwarf Guard](3-Mechanics\CLI\bestiary\humanoid/shield-dwarf-guard-skt.md)
+# [Shield Dwarf Guard](3-Mechanics/CLI/bestiary/humanoid/shield-dwarf-guard-skt.md)
 *Source: Storm King's Thunder p. 78*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Lawful Good"
 "ac": !!int "16"
-"ac_class": "[chain shirt](3-Mechanics/CLI/items/chain-shirt.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[chain shirt](3-Mechanics/CLI/items/chain-shirt-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
 "modifier": !!int "1"
@@ -39,7 +39,7 @@ aliases:
     "desc": "+2"
 "damage_resistances": "poison"
 "gear":
-  - "[warhammer](3-Mechanics/CLI/items/warhammer.md)"
+  - "[warhammer](3-Mechanics/CLI/items/warhammer-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 12"
 "languages": "any one language (usually Common), Dwarvish"
@@ -54,6 +54,6 @@ aliases:
     "name": "Warhammer"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/shield-dwarf-guard-skt.webp"
+"image": "file://bestiary/tokens/SKT/Shield%20Dwarf%20Guard.webp"
 ```
 ^statblock

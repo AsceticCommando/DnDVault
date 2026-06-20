@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Young Sapphire Dragon"
 ---
-# [Young Sapphire Dragon](3-Mechanics\CLI\bestiary\dragon/young-sapphire-dragon-ftd.md)
+# [Young Sapphire Dragon](3-Mechanics/CLI/bestiary/dragon/young-sapphire-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 216*  
 
 The thunderous clash of conflict is part of the very nature of sapphire dragons. Militant and territorial, they defend their lairs fiercely, ambushing intruders and plotting assaults against their rivals. The sonic pulse of their breath weapon sows weakness, leaving the victims unable to fight back.
@@ -39,6 +39,8 @@ Use the Sapphire Dragon Personality Traits and Sapphire Dragon Ideals tables to 
 
 ### Sapphire Dragon Personality Traits
 
+`dice: [](young-sapphire-dragon-ftd.md#^trait)`
+
 | dice: d8 | Trait |
 |----------|-------|
 | 1 | I often fixate on specific historical battles or wars and won't rest until my hoard contains that conflict's most significant artifacts. |
@@ -52,6 +54,8 @@ Use the Sapphire Dragon Personality Traits and Sapphire Dragon Ideals tables to 
 ^trait
 
 ### Sapphire Dragon Ideals
+
+`dice: [](young-sapphire-dragon-ftd.md#^ideal)`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -68,6 +72,8 @@ Use the Sapphire Dragon Personality Traits and Sapphire Dragon Ideals tables to 
 The Sapphire Dragon Adventure Hooks table offers suggestions for stories and adventures involving sapphire dragons.
 
 ### Sapphire Dragon Adventure Hooks
+
+`dice: [](young-sapphire-dragon-ftd.md#^adventure-hook)`
 
 | dice: d8 | Adventure Hook |
 |----------|----------------|
@@ -86,6 +92,8 @@ The Sapphire Dragon Adventure Hooks table offers suggestions for stories and adv
 Sapphire dragons are generally solitary creatures. On the rare occasion that one forms nonhostile relationships with other beings, it is almost always to bolster the defenses of the dragon's lair and hoard.
 
 ### Young Sapphire Dragon Connections
+
+`dice: [](young-sapphire-dragon-ftd.md#^connected-creatures)`
 
 | dice: d6 | Connected Creatures |
 |----------|---------------------|
@@ -161,11 +169,11 @@ Sapphire dragons are generally solitary creatures. On the rare occasion that one
     "name": "Debilitating Breath (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 15):\n\n\
-      **1/day each:** [dissonant whispers](3-Mechanics/CLI/spells/dissonant-whispers.md),\
-      \ [hold person](3-Mechanics/CLI/spells/hold-person.md), [meld into stone](3-Mechanics/CLI/spells/meld-into-stone.md)"
+      **1/day each:** [dissonant whispers](3-Mechanics/CLI/spells/dissonant-whispers-xphb.md),\
+      \ [hold person](3-Mechanics/CLI/spells/hold-person-xphb.md), [meld into stone](3-Mechanics/CLI/spells/meld-into-stone-xphb.md)"
     "name": "Spellcasting (Psionics)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/young-sapphire-dragon-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Young%20Sapphire%20Dragon.webp"
 ```
 ^statblock

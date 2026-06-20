@@ -12,6 +12,8 @@ aliases:
 
 **Horror Character Ideals**
 
+`dice: [](horror-characteristics-horror-character-ideals-vrgr.md#^horror-character-ideals)`
+
 | dice: d12 | Ideal |
 |-----------|-------|
 | 1 | Adrenaline. I've experienced such strangeness that now I feel alive only in extreme situations. |

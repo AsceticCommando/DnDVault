@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Irda Veil Keeper"
 ---
-# [Irda Veil Keeper](3-Mechanics\CLI\bestiary\giant/irda-veil-keeper-mcv2dc.md)
+# [Irda Veil Keeper](3-Mechanics/CLI/bestiary/giant/irda-veil-keeper-mcv2dc.md)
 *Source: Monstrous Compendium Volume 2: Dragonlance Creatures p. 9*  
 
 Masters of their innate illusory powers, irda veil keepers protect their companions by weaving magical mirages that disorient foes. Rumors say that the most skilled irda veil keepers can keep entire enclaves hidden, guarding a community's inhabitants from the outside world for centuries.
@@ -84,10 +84,11 @@ Distantly related to oni, ogres, and other giant folk, irda have shimmering skin
     "name": "Change Shape (3/Day)"
   - "desc": "The veil keeper casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 14):\n\
-      \n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md), [minor\
-      \ illusion](3-Mechanics/CLI/spells/minor-illusion.md)\n\n**2/day each:** [invisibility](3-Mechanics/CLI/spells/invisibility.md),\
-      \ [major image](3-Mechanics/CLI/spells/major-image.md), [phantasmal force](3-Mechanics/CLI/spells/phantasmal-force.md)\n\
-      \n**1/day:** [hallucinatory terrain](3-Mechanics/CLI/spells/hallucinatory-terrain.md)\
+      \n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
+      \ [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\n**2/day\
+      \ each:** [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md), [major\
+      \ image](3-Mechanics/CLI/spells/major-image-xphb.md), [phantasmal force](3-Mechanics/CLI/spells/phantasmal-force-xphb.md)\n\
+      \n**1/day:** [hallucinatory terrain](3-Mechanics/CLI/spells/hallucinatory-terrain-xphb.md)\
       \ (as an action)"
     "name": "Spellcasting"
 "reactions":
@@ -98,6 +99,6 @@ Distantly related to oni, ogres, and other giant folk, irda have shimmering skin
     "name": "Obscuring Mist"
 "source":
   - "MCV2DC"
-"image": "3-Mechanics/CLI/bestiary/giant/token/irda-veil-keeper-mcv2dc.webp"
+"image": "file://bestiary/tokens/MCV2DC/Irda%20Veil%20Keeper.webp"
 ```
 ^statblock

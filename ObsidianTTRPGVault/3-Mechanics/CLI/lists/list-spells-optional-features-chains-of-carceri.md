@@ -11,4 +11,4 @@ aliases:
 
 ## 5th Level
 
-- [Hold Monster](3-Mechanics/CLI/spells/hold-monster.md "PHB")
+- [Hold Monster](3-Mechanics/CLI/spells/hold-monster-xphb.md "XPHB")

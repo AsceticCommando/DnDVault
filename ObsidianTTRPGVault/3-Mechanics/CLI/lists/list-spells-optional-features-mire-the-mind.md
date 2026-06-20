@@ -11,4 +11,4 @@ aliases:
 
 ## 3rd Level
 
-- [Slow](3-Mechanics/CLI/spells/slow.md "PHB")
+- [Slow](3-Mechanics/CLI/spells/slow-xphb.md "XPHB")

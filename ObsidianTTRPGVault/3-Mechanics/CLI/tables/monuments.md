@@ -12,6 +12,8 @@ aliases:
 
 **Monuments**
 
+`dice: [](monuments.md#^monuments)`
+
 | dice: d20 | Monument |
 |-----------|----------|
 | 1 | Sealed burial mound or pyramid |

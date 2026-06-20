@@ -15,7 +15,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Hobgoblin Iron Shadow"
 ---
-# [Hobgoblin Iron Shadow](3-Mechanics\CLI\bestiary\fey/hobgoblin-iron-shadow-mpmm.md)
+# [Hobgoblin Iron Shadow](3-Mechanics/CLI/bestiary/fey/hobgoblin-iron-shadow-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 154, Volo's Guide to Monsters p. 162*  
 
 Iron shadows are hobgoblin martial artists who serve fey and mortal courts as secret police, scouts, and assassins. They spy to ferret out treachery, rebellion, and betrayal and deal with it ruthlessly. Iron shadows possess agility and stamina matched only by their ironclad commitment to the will of their masters. They wield a deadly combination of unarmed fighting techniques and shadow magic to deceive and defeat their foes. While on secret missions, they wear masks crafted to resemble monsters, both to conceal their identities and to strike fear into their foes.
@@ -49,7 +49,7 @@ An iron shadow is usually recruited from the ranks of the Feywild's hobgoblin ar
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
 "gear":
-  - "[dart](3-Mechanics/CLI/items/dart.md)"
+  - "[dart](3-Mechanics/CLI/items/dart-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 12"
 "languages": "Common, Goblin"
@@ -74,15 +74,15 @@ An iron shadow is usually recruited from the ranks of the Feywild's hobgoblin ar
       \ and its destination must be in dim light or darkness."
     "name": "Shadow Jaunt"
   - "desc": "The hobgoblin casts one of the following spells, using Intelligence as\
-      \ the spellcasting ability (spell save DC 12):\n\n**At will:** [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md),\
-      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md)\n\n**1/day\
-      \ each:** [charm person](3-Mechanics/CLI/spells/charm-person.md), [disguise\
-      \ self](3-Mechanics/CLI/spells/disguise-self.md), [silent image](3-Mechanics/CLI/spells/silent-image.md)"
+      \ the spellcasting ability (spell save DC 12):\n\n**At will:** [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md),\
+      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n**1/day\
+      \ each:** [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md), [disguise\
+      \ self](3-Mechanics/CLI/spells/disguise-self-xphb.md), [silent image](3-Mechanics/CLI/spells/silent-image-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/fey/token/hobgoblin-iron-shadow-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Hobgoblin%20Iron%20Shadow.webp"
 ```
 ^statblock
 

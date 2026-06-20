@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Cryovain"
 ---
-# [Cryovain](3-Mechanics\CLI\bestiary\npc/cryovain-skt.md)
+# [Cryovain](3-Mechanics/CLI/bestiary/npc/cryovain-skt.md)
 *Source: Storm King's Thunder p. 165*  
 
 ```statblock
@@ -95,6 +95,6 @@ aliases:
     "name": "Wing Attack (Costs 2 Actions)"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/cryovain-skt.webp"
+"image": "file://bestiary/tokens/SKT/Cryovain.webp"
 ```
 ^statblock

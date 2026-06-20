@@ -12,6 +12,8 @@ aliases:
 
 **Human Names – Celtic, Female**
 
+`dice: [](human-names-celtic-female-xge.md#^human-names-celtic-female)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Aife |

@@ -12,6 +12,8 @@ aliases:
 
 **Domain Theme**
 
+`dice: [](domain-theme-dod.md#^domain-theme)`
+
 | dice: d8 | Theme |
 |----------|-------|
 | 1 | **Adversarial.** Adversarial personalities are common here, even among the local wildlife. Animated trees swat at passersby, sentient flowers scoff and sneer, and local Fey are grumpy and uncooperative. |

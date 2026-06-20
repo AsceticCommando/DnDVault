@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Young Cloud Giant"
 ---
-# [Young Cloud Giant](3-Mechanics\CLI\bestiary\giant/young-cloud-giant-skt.md)
+# [Young Cloud Giant](3-Mechanics/CLI/bestiary/giant/young-cloud-giant-skt.md)
 *Source: Storm King's Thunder p. 112*  
 
 ```statblock
@@ -39,7 +39,7 @@ aliases:
   - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
 "gear":
-  - "[greatclub](3-Mechanics/CLI/items/greatclub.md)"
+  - "[greatclub](3-Mechanics/CLI/items/greatclub-xphb.md)"
 "senses": "passive Perception 14"
 "languages": "Common, Giant"
 "cr": "5"
@@ -54,6 +54,6 @@ aliases:
     "name": "Rock"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/giant/token/young-cloud-giant-skt.webp"
+"image": "file://bestiary/tokens/SKT/Young%20Cloud%20Giant.webp"
 ```
 ^statblock

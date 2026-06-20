@@ -12,6 +12,8 @@ aliases:
 
 **Kruphix's Quests**
 
+`dice: [](kruphixs-quests-mot.md#^kruphixs-quests)`
+
 | dice: d6 | Adventure Goal |
 |----------|----------------|
 | 1 | Seize a powerful magic item from those who would misuse it, study it, and then destroy it. |

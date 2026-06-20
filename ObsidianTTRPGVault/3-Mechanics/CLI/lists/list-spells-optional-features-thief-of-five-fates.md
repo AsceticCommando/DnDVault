@@ -11,4 +11,4 @@ aliases:
 
 ## 1st Level
 
-- [Bane](3-Mechanics/CLI/spells/bane.md "PHB")
+- [Bane](3-Mechanics/CLI/spells/bane-xphb.md "XPHB")

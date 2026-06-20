@@ -12,6 +12,8 @@ aliases:
 
 **Healing Pools Adventures**
 
+`dice: [](healing-pools-adventures-mot.md#^healing-pools-adventures)`
+
 | dice: d10 | Adventure Goal |
 |-----------|----------------|
 | 1 | Heal yourself or a diseased or injured party member in the pools. |

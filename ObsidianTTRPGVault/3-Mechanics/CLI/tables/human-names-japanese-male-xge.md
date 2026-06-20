@@ -12,6 +12,8 @@ aliases:
 
 **Human Names – Japanese, Male**
 
+`dice: [](human-names-japanese-male-xge.md#^human-names-japanese-male)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Akio |

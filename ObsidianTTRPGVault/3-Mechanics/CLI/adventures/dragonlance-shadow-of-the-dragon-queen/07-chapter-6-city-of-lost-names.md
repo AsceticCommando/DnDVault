@@ -12,7 +12,7 @@ aliases:
 
 The goal of the Red Dragon Army's invasion is not only conquering Kalaman, but also obtaining a weapon to aid it in conquering all of Solamnia. A contingent of the Dragon Army's forces seeks to restore the ancient magic of the City of Lost Names, raising it as a devastating, flying battle platform. With these forces go [Lord Soth](3-Mechanics/CLI/bestiary/npc/lord-soth-dsotdq.md), who—following whispers from the Dragon Queen—seeks to raise an army of Undead dragons from the draconic graveyard beneath the city. While the characters' allies distract the enemy forces outside the ruined city, the characters infiltrate the City of Lost Names to discover the Dragon Army's plots and foil them.
 
-![The City of Lost Names has...](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/093-06-001-chapter-splash.webp#center "The City of Lost Names has known centuries of peace, but now the Dragon Army claims its streets and skies")
+![The City of Lost Names has known centuries of peace, but now the Dragon Army claims its streets and skies](file://adventure/DSotDQ/093-06-001.chapter-splash.webp#center)
 
 ## Running This Chapter
 
@@ -77,8 +77,8 @@ The tunnels of the Path of Memories have the following features:
 The following locations are keyed to map 6.1.
 
 > [!gallery]
-> ![Map 6.1: Path Of Memories](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/094-map-6-01-path-of-memories.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/095-map-6-01-path-of-memories-player.webp#gallery)
+> ![Map 6.1: Path Of Memories](file://adventure/DSotDQ/094-map-6.01-path-of-memories.webp#gallery)
+> ![Player Version](file://adventure/DSotDQ/095-map-6.01-path-of-memories-player.webp#gallery)
 
 #### M1: Hall of Betrayal
 
@@ -100,7 +100,7 @@ The spirits vanish 1 round after appearing. They reappear after 24 hours if crea
 > Mismatched bones lie scattered around this large chamber. Though the cavern itself is natural, its ceiling has caved in—and with it, part of a building has fallen into the cavern. Inside the collapsed structure are strewn wooden heads and decaying hats.
 ^32c
 
-A [stone golem](3-Mechanics/CLI/bestiary/construct/stone-golem.md) hides under a pile of shattered wood and feathery hats. [Demelin](3-Mechanics/CLI/bestiary/npc/demelin-dsotdq.md) (see area M9) created the golem and ordered it to attack any creature that disturbs the ruined structure. Any characters who near the ruin and have a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 16 or higher notice the golem.
+A [stone golem](3-Mechanics/CLI/bestiary/construct/stone-golem-xmm.md) hides under a pile of shattered wood and feathery hats. [Demelin](3-Mechanics/CLI/bestiary/npc/demelin-dsotdq.md) (see area M9) created the golem and ordered it to attack any creature that disturbs the ruined structure. Any characters who near the ruin and have a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 16 or higher notice the golem.
 
 #### M3: Flooded Passage
 
@@ -122,7 +122,7 @@ The ruined remnants of a wine cellar fill this chamber. A character who investig
 
 ##### Treasure
 
-A character who succeeds on a DC 16 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check locates `2d4` unbroken bottles. The blue wine within is spoiled, and a creature that drinks it is [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) for 1 hour, but the intact Istarian bottles are worth 200 gp each to a collector.
+A character who succeeds on a DC 16 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check locates `dice:2d4|noform|noparens|avg` (`2d4`) unbroken bottles. The blue wine within is spoiled, and a creature that drinks it is [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) for 1 hour, but the intact Istarian bottles are worth 200 gp each to a collector.
 
 #### M5: Bone Gauntlet
 
@@ -135,7 +135,7 @@ When a character makes it halfway down the corridor, read or paraphrase the foll
 > The tunnel fills with the sound of rattling as the bones in the walls begin to move, some lashing toward you. Chattering jaws hiss ancient words as incomplete skeletons burst forth.
 ^333
 
-Three [incomplete dragon skeletons](3-Mechanics/CLI/bestiary/undead/incomplete-dragon-skeleton-dsotdq.md) emerge from the walls, missing bones and entire limbs. These creatures each use the [bone naga](3-Mechanics/CLI/bestiary/undead/bone-naga-spirit.md) stat block but without the Spellcasting trait. They fight until destroyed.
+Three [incomplete dragon skeletons](3-Mechanics/CLI/bestiary/undead/incomplete-dragon-skeleton-dsotdq.md) emerge from the walls, missing bones and entire limbs. These creatures each use the [bone naga](3-Mechanics/CLI/bestiary/undead/bone-naga-xmm.md) stat block but without the Spellcasting trait. They fight until destroyed.
 
 Characters who speak Draconic understand the skeletons as they hiss accusations like "You fly on our backs" and "You soar on our bones." However, the skeletons don't understand or respond to anything the characters say.
 
@@ -154,11 +154,11 @@ The ceiling of this room is 20 feet high. The tunnel from area M5 opens into thi
 
 Murky water fills this room to a height of 3 feet, making the flooded area difficult terrain for creatures without a swimming speed.
 
-A [green slaad](3-Mechanics/CLI/bestiary/aberration/green-slaad.md) lurks on the stage, drawn to the tunnels by the chaotic magic of the city. If it notices a character, the slaad turns and hisses before using its Hurl Flame action against the character. If a character is in the water, the slaad ignites the flammable liquid (see below). The slaad fights until slain.
+A [green slaad](3-Mechanics/CLI/bestiary/aberration/green-slaad-xmm.md) lurks on the stage, drawn to the tunnels by the chaotic magic of the city. If it notices a character, the slaad turns and hisses before using its Hurl Flame action against the character. If a character is in the water, the slaad ignites the flammable liquid (see below). The slaad fights until slain.
 
 ##### Firewater
 
-The water flooding this room is covered by an oil slick. Characters with a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 18 or higher notice the oil slick if they can see the water. If flames touch the water, the entire flooded area ignites, dealing 14 (`4d6`) fire damage to each creature in the water at that time. For the next minute, as the water continues to burn, a creature that enters the water for the first time on a turn or starts its turn there takes 14 (`4d6`) fire damage.
+The water flooding this room is covered by an oil slick. Characters with a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 18 or higher notice the oil slick if they can see the water. If flames touch the water, the entire flooded area ignites, dealing `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) fire damage to each creature in the water at that time. For the next minute, as the water continues to burn, a creature that enters the water for the first time on a turn or starts its turn there takes `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) fire damage.
 
 ##### Flooded Passage
 
@@ -189,7 +189,7 @@ A character speaking Draconic can try to convince the dragon they mean no harm b
 > This worked stone room is full of laboratory equipment: vials of colorful liquids, glass lenses, and live mice in cages. Books crowd shelves and overflow into the floor.
 ^33d
 
-[Demelin](3-Mechanics/CLI/bestiary/npc/demelin-dsotdq.md) (currently in area M9) uses this chamber as a laboratory. Many of the books contain rare lore predating the Cataclysm. If a character spends 1 hour investigating the books here, they find references to a flying city called Onyari and learn all the information from the "History of the City" section. Additionally, they find a [spell scroll](3-Mechanics/CLI/items/spell-scroll.md) of [arcane gate](3-Mechanics/CLI/spells/arcane-gate.md) and a book containing rituals for the [divination](3-Mechanics/CLI/spells/divination.md) and [phantom steed](3-Mechanics/CLI/spells/phantom-steed.md) spells.
+[Demelin](3-Mechanics/CLI/bestiary/npc/demelin-dsotdq.md) (currently in area M9) uses this chamber as a laboratory. Many of the books contain rare lore predating the Cataclysm. If a character spends 1 hour investigating the books here, they find references to a flying city called Onyari and learn all the information from the "History of the City" section. Additionally, they find a [spell scroll](3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [arcane gate](3-Mechanics/CLI/spells/arcane-gate-xphb.md) and a book containing rituals for the [divination](3-Mechanics/CLI/spells/divination-xphb.md) and [phantom steed](3-Mechanics/CLI/spells/phantom-steed-xphb.md) spells.
 
 #### M9: Demelin's Apartment
 
@@ -200,22 +200,22 @@ A character speaking Draconic can try to convince the dragon they mean no harm b
 > A hooded, crimson-robed figure steps through a door from the east and gives you a calm nod. From behind a bleached skull mask speaks a smooth voice: "Ah, welcome. Let's get to the assessment, then." The figure holds out a blue gem, which then shatters.
 ^33f
 
-The robed figure is [Demelin](3-Mechanics/CLI/bestiary/npc/demelin-dsotdq.md), high wizard of Onyari (detailed in the "[Demelin](3-Mechanics/CLI/bestiary/npc/demelin-dsotdq.md)" section). Members of the Mages of High Sorcery recognize her robes as those of the Order of Red Robes. [Demelin](3-Mechanics/CLI/bestiary/npc/demelin-dsotdq.md) has been using the [scrying](3-Mechanics/CLI/spells/scrying.md) spell to monitor the characters and has judged they might be useful in ridding the ruins of the Dragon Army invaders.
+The robed figure is [Demelin](3-Mechanics/CLI/bestiary/npc/demelin-dsotdq.md), high wizard of Onyari (detailed in the "[Demelin](3-Mechanics/CLI/bestiary/npc/demelin-dsotdq.md)" section). Members of the Mages of High Sorcery recognize her robes as those of the Order of Red Robes. [Demelin](3-Mechanics/CLI/bestiary/npc/demelin-dsotdq.md) has been using the [scrying](3-Mechanics/CLI/spells/scrying-xphb.md) spell to monitor the characters and has judged they might be useful in ridding the ruins of the Dragon Army invaders.
 
-The gem [Demelin](3-Mechanics/CLI/bestiary/npc/demelin-dsotdq.md) breaks is an [elemental gem](3-Mechanics/CLI/items/elemental-gem.md). An instant later, an [air elemental](3-Mechanics/CLI/bestiary/elemental/air-elemental.md) with an outline resembling a dragon appears and attacks the characters. [Demelin](3-Mechanics/CLI/bestiary/npc/demelin-dsotdq.md) stands back and watches, taking the [Dodge](3-Mechanics/CLI/rules/actions.md#Dodge) action until the elemental is defeated. Afterward, she holds up a hand and says the following:
+The gem [Demelin](3-Mechanics/CLI/bestiary/npc/demelin-dsotdq.md) breaks is an [elemental gem](3-Mechanics/CLI/items/elemental-gem-xdmg.md). An instant later, an [air elemental](3-Mechanics/CLI/bestiary/elemental/air-elemental-xmm.md) with an outline resembling a dragon appears and attacks the characters. [Demelin](3-Mechanics/CLI/bestiary/npc/demelin-dsotdq.md) stands back and watches, taking the [Dodge](3-Mechanics/CLI/rules/actions.md#Dodge) action until the elemental is defeated. Afterward, she holds up a hand and says the following:
 
 > [!readaloud] 
 > 
 > "Enough!" The robed figure pushes back her hood and removes her skull mask, revealing the features of an elven woman. "Forgive the rough welcome, but it was necessary to appraise your abilities. I'd like to speak now."
 ^340
 
-If attacked, [Demelin](3-Mechanics/CLI/bestiary/npc/demelin-dsotdq.md) uses her robes to cast the [dimension door](3-Mechanics/CLI/spells/dimension-door.md) spell, retreating elsewhere in the Path of Memories. After letting the characters cool off, she approaches them again.
+If attacked, [Demelin](3-Mechanics/CLI/bestiary/npc/demelin-dsotdq.md) uses her robes to cast the [dimension door](3-Mechanics/CLI/spells/dimension-door-xphb.md) spell, retreating elsewhere in the Path of Memories. After letting the characters cool off, she approaches them again.
 
 ### Demelin
 
-![Demelin](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/096-06-002-demelin.webp#center)
+![Demelin](file://adventure/DSotDQ/096-06-002.demelin.webp#center)
 
-[Demelin](3-Mechanics/CLI/bestiary/npc/demelin-dsotdq.md) (neutral, elf [archmage](3-Mechanics/CLI/bestiary/humanoid/archmage.md)) is hundreds of years old, one of a handful of Silvanesti elves old enough to have lived through the Cataclysm. She commonly wears a bone mask that resembles a skull, and her red robes serve as a [cape of the mountebank](3-Mechanics/CLI/items/cape-of-the-mountebank.md). Prior to the destruction of the world, [Demelin](3-Mechanics/CLI/bestiary/npc/demelin-dsotdq.md) was a prominent member of the Mages of High Sorcery, the high wizard of Onyari, and—along with the Kingpriest of Istar—one of the magic-users responsible for raising the city into the heavens. When the city fell, [Demelin](3-Mechanics/CLI/bestiary/npc/demelin-dsotdq.md) learned a lesson in hubris. The dispassionate mage has since dwelled in the city's ruins, guarding the city to ensure it never takes to the skies again.
+[Demelin](3-Mechanics/CLI/bestiary/npc/demelin-dsotdq.md) (neutral, elf [archmage](3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md)) is hundreds of years old, one of a handful of Silvanesti elves old enough to have lived through the Cataclysm. She commonly wears a bone mask that resembles a skull, and her red robes serve as a [cape of the mountebank](3-Mechanics/CLI/items/cape-of-the-mountebank-xdmg.md). Prior to the destruction of the world, [Demelin](3-Mechanics/CLI/bestiary/npc/demelin-dsotdq.md) was a prominent member of the Mages of High Sorcery, the high wizard of Onyari, and—along with the Kingpriest of Istar—one of the magic-users responsible for raising the city into the heavens. When the city fell, [Demelin](3-Mechanics/CLI/bestiary/npc/demelin-dsotdq.md) learned a lesson in hubris. The dispassionate mage has since dwelled in the city's ruins, guarding the city to ensure it never takes to the skies again.
 
 #### Personality Trait
 
@@ -308,7 +308,7 @@ Characters who aren't taking the test are generally unaware of what's transpirin
 
 ### Running the Test
 
-![To conduct the Test of Hig...](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/097-06-003-test-high-sorcery.webp#center "To conduct the Test of High Sorcery, the mage Demelin conjures a vision of Onyari's fall")
+![To conduct the Test of High Sorcery, the mage Demelin conjures a vision of Onyari's fall](file://adventure/DSotDQ/097-06-003.test-high-sorcery.webp#center)
 
 When a test-taking character is ready to begin the test, [Demelin](3-Mechanics/CLI/bestiary/npc/demelin-dsotdq.md) instructs them to move to the center of the room. Read or paraphrase the following text, addressing the test-taking character alone:
 
@@ -325,7 +325,7 @@ When a test-taking character is ready to begin the test, [Demelin](3-Mechanics/C
 > There's a flash of green light, and suddenly the ground shifts beneath you. Wind lashes your face, and the air fills with screams. Your vision clears, and you find yourself above the clouds, standing at the edge of an exquisite floating city of graceful marble spires. All around you, people flee as dragons dive from the sky, tearing swaths of destruction.
 ^354
 
-The character taking the test finds themself in this re-creation of Onyari's final moments before the flying city was destroyed. A moment later, a [young silver dragon](3-Mechanics/CLI/bestiary/dragon/young-silver-dragon.md) strafes the street ahead, freezing structures and people alike.
+The character taking the test finds themself in this re-creation of Onyari's final moments before the flying city was destroyed. A moment later, a [young silver dragon](3-Mechanics/CLI/bestiary/dragon/young-silver-dragon-xmm.md) strafes the street ahead, freezing structures and people alike.
 
 Consider the following suggestions as you develop this scene in a way that's influenced by the test-taking character's alignment.
 
@@ -345,7 +345,7 @@ Scholars struggle to evacuate a collection of ancient tomes (or something else t
 
 The test shouldn't be strictly a combat encounter. The point is to gauge a character's values and disposition. Consider the following suggestions to make the test more dramatic:
 
-- **Altered Magic.** Spellcasting or other class features could function differently during the test. For example, perhaps each time the character casts a spell using a spell slot, they take 6 (`1d12`) necrotic damage or gain 1 level of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) that lingers until the test ends.  
+- **Altered Magic.** Spellcasting or other class features could function differently during the test. For example, perhaps each time the character casts a spell using a spell slot, they take `dice:1d12|noform|noparens|avg|text(6)` (`1d12`) necrotic damage or gain 1 level of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) that lingers until the test ends.  
 - **Dream Logic.** Like a dream, the test doesn't need to make sense or be consistent from moment to moment. It's okay for the character's surroundings to shift dramatically or for unexpected individuals to show up. Don't let these changes make the character feel like their choices don't matter. Rather, change situations to heighten the drama—like by turning innocents into allies or childhood friends.  
 - **Timing.** The test should last as long as feels dramatic and end after a character-defining moral choice. If it seems like things are going too fast, raise the stakes and make things worse to see if the character sticks with their choices.  
 
@@ -400,8 +400,8 @@ Rookledust encourages the characters to find the Dragon Army's leaders within th
 The City of Lost Names lies in a ruin-filled crater. The northwestern district punctured a subterranean aquifer in its crash, flooding its streets, while fire raged through homes in the southwestern district. The western pleasure gardens have become an untamed jungle where descendants of the city's monstrous menageries hunt amid vine-choked streets. Meanwhile, the eastern blocks lie propped against the crater rim, the whole district tilted at an angle.
 
 > [!gallery]
-> ![Map 6.2: City Of Lost Names](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/098-map-6-02-city-of-last-names.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/099-map-6-02-city-of-last-names-player.webp#gallery)
+> ![Map 6.2: City Of Lost Names](file://adventure/DSotDQ/098-map-6.02-city-of-last-names.webp#gallery)
+> ![Player Version](file://adventure/DSotDQ/099-map-6.02-city-of-last-names-player.webp#gallery)
 
 ### Making a Plan
 
@@ -431,9 +431,11 @@ As the characters explore the City of Lost Names, use the City Sights table to d
 
 **City Sights**
 
+`dice: [](07-chapter-6-city-of-lost-names.md#^city-sights)`
+
 | dice: d6 | Sight |
 |----------|-------|
-| 1 | A Humanoid skeleton lies under a fallen aqueduct. It holds a [dagger](3-Mechanics/CLI/items/dagger.md), and the words "we deserve this" are scratched into a nearby cobblestone. |
+| 1 | A Humanoid skeleton lies under a fallen aqueduct. It holds a [dagger](3-Mechanics/CLI/items/dagger-xphb.md), and the words "we deserve this" are scratched into a nearby cobblestone. |
 | 2 | At the end of a boulevard stand two enormous marble feet—the rest of the statue is missing. |
 | 3 | The partial remains of an adult bronze dragon lie in a heap between two structures. |
 | 4 | A circular tower pierces a dome like a spear. |
@@ -447,15 +449,17 @@ The City of Lost Names is full of Dragon Army troops and other threats. As the c
 
 **Random City Encounters**
 
+`dice: [](07-chapter-6-city-of-lost-names.md#^random-city-encounters)`
+
 | dice: d8 | Encounter |
 |----------|-----------|
-| 1 | Seven [ghasts](3-Mechanics/CLI/bestiary/undead/ghast.md) gnaw on dead Dragon Army soldiers. |
+| 1 | Seven [ghasts](3-Mechanics/CLI/bestiary/undead/ghast-xmm.md) gnaw on dead Dragon Army soldiers. |
 | 2 | Bridge Checkpoint (see below) |
-| 3 | Three [ghosts](3-Mechanics/CLI/bestiary/undead/ghost.md) of bickering Istarians haunt the ruins of their shop. |
+| 3 | Three [ghosts](3-Mechanics/CLI/bestiary/undead/ghost-xmm.md) of bickering Istarians haunt the ruins of their shop. |
 | 4 | Dragon Army Engineers (see below) |
-| 5 | A curious [death slaad](3-Mechanics/CLI/bestiary/aberration/death-slaad.md) wants to eat one of each type of draconian. If the characters help it hunt all five, it rewards them with a [ring of feather falling](3-Mechanics/CLI/items/ring-of-feather-falling.md). |
+| 5 | A curious [death slaad](3-Mechanics/CLI/bestiary/aberration/death-slaad-xmm.md) wants to eat one of each type of draconian. If the characters help it hunt all five, it rewards them with a [ring of feather falling](3-Mechanics/CLI/items/ring-of-feather-falling-xdmg.md). |
 | 6 | Monster Hunters (see below) |
-| 7 | Two [cyclopes](3-Mechanics/CLI/bestiary/giant/cyclops.md)—a mother and her adult son—live in a library, burning its books for warmth. |
+| 7 | Two [cyclopes](3-Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm.md)—a mother and her adult son—live in a library, burning its books for warmth. |
 | 8 | Patrol (see below) |
 ^random-city-encounters
 
@@ -465,7 +469,7 @@ Three [sivak draconians](3-Mechanics/CLI/bestiary/monstrosity/sivak-draconian-ds
 
 #### Dragon Army Engineers
 
-One [Dragon Army officer](3-Mechanics/CLI/bestiary/humanoid/dragon-army-officer-dsotdq.md) and three [sivak draconians](3-Mechanics/CLI/bestiary/monstrosity/sivak-draconian-dsotdq.md) (see appendix B for both stat blocks) oversee ten [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md) engineers repairing 30-foot-deep cracks in the city's streets. If the Dragon Army members spot the characters or the characters attack them, the engineers stay out of combat. The engineers can tell the characters they're making sure the city's foundations are solid, though they don't know why.
+One [Dragon Army officer](3-Mechanics/CLI/bestiary/humanoid/dragon-army-officer-dsotdq.md) and three [sivak draconians](3-Mechanics/CLI/bestiary/monstrosity/sivak-draconian-dsotdq.md) (see appendix B for both stat blocks) oversee ten [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) engineers repairing 30-foot-deep cracks in the city's streets. If the Dragon Army members spot the characters or the characters attack them, the engineers stay out of combat. The engineers can tell the characters they're making sure the city's foundations are solid, though they don't know why.
 
 #### Monster Hunters
 
@@ -480,6 +484,8 @@ Five [kapak draconians](3-Mechanics/CLI/bestiary/monstrosity/kapak-draconian-dso
 A character who interrogates a low-ranking member of the Red Dragon Army and succeeds on a DC 14 Charisma ([Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation) or [Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check learns one piece of information from the Dragon Army Interrogations table. On a failed check, the captive yells "As the Dragon Queen wills!" until silenced.
 
 **Dragon Army Interrogations**
+
+`dice: [](07-chapter-6-city-of-lost-names.md#^dragon-army-interrogations)`
 
 | dice: d4 | Information |
 |----------|-------------|
@@ -517,8 +523,8 @@ The interior of the occupied mansion has the following features:
 The following locations are keyed to map 6.3.
 
 > [!gallery]
-> ![Map 6.3: Occupied Mansion](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/100-map-6-03-occupied-mansion.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/101-map-6-03-occupied-mansion-player.webp#gallery)
+> ![Map 6.3: Occupied Mansion](file://adventure/DSotDQ/100-map-6.03-occupied-mansion.webp#gallery)
+> ![Player Version](file://adventure/DSotDQ/101-map-6.03-occupied-mansion-player.webp#gallery)
 
 #### O1: Exterior
 
@@ -544,7 +550,7 @@ Roughly once per hour, a group of eight [Dragon Army soldiers](3-Mechanics/CLI/b
 > This foyer has an alcove studded with ornate coat hooks under a row of shelves. Stained rain cloaks currently overload the hooks, and several spears lean against the wall. Doors lead to the north and south.
 ^374
 
-When worn with the hood up, the cloaks here grant advantage on Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception)) checks made to pass as a Dragon Army soldier while in the mansion. There are also six [spears](3-Mechanics/CLI/items/spear.md) here.
+When worn with the hood up, the cloaks here grant advantage on Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception)) checks made to pass as a Dragon Army soldier while in the mansion. There are also six [spears](3-Mechanics/CLI/items/spear-xphb.md) here.
 
 #### O3: Carriage House
 
@@ -591,7 +597,7 @@ This hall leads to areas O6 and O8, then ends in a heap of rubble where the east
 > Next to a small pantry door, a fire burns in the kitchen's hearth. Above it, several large roasts hang from spits. Tables stand covered in flour and other ingredients. Additional doors lead to the west and north.
 ^37e
 
-The command post's cook, Yurl, is a skeletally thin [hobgoblin captain](3-Mechanics/CLI/bestiary/humanoid/hobgoblin-captain.md). His apron is covered with grisly stains, which grow by the minute as he hacks at a jackal carcass with an oversized cleaver. If Yurl detects intruders, he attacks with his cleaver (which uses the statistics for his Greatsword attack).
+The command post's cook, Yurl, is a skeletally thin [hobgoblin captain](3-Mechanics/CLI/bestiary/fey/hobgoblin-captain-xmm.md). His apron is covered with grisly stains, which grow by the minute as he hacks at a jackal carcass with an oversized cleaver. If Yurl detects intruders, he attacks with his cleaver (which uses the statistics for his Greatsword attack).
 
 Yurl's apron pocket holds the key to area O7, along with a handful of animal teeth he's been collecting.
 
@@ -610,11 +616,11 @@ Crates and weapon racks fill this room.
 
 ##### Trapped Chest
 
-The metal chest, which belongs to the Dragon Army commander [Belephaion](3-Mechanics/CLI/bestiary/npc/belephaion-dsotdq.md), bears a magical trap that can be detected by a character who casts [detect magic](3-Mechanics/CLI/spells/detect-magic.md) or who searches the chest and succeeds on a DC 16 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana) or [Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check. The trap can be disabled by the [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md) spell. A character who tries to open the chest while the trap is active must make a DC 18 Dexterity saving throw, taking 27 (`5d10`) lightning damage on a failed save, or half as much damage on a successful one. The chest can be unlocked by a character who spends 1 minute and succeeds on a DC 20 Dexterity check using thieves' tools.
+The metal chest, which belongs to the Dragon Army commander [Belephaion](3-Mechanics/CLI/bestiary/npc/belephaion-dsotdq.md), bears a magical trap that can be detected by a character who casts [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) or who searches the chest and succeeds on a DC 16 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana) or [Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check. The trap can be disabled by the [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) spell. A character who tries to open the chest while the trap is active must make a DC 18 Dexterity saving throw, taking `dice:5d10|noform|noparens|avg|text(27)` (`5d10`) lightning damage on a failed save, or half as much damage on a successful one. The chest can be unlocked by a character who spends 1 minute and succeeds on a DC 20 Dexterity check using thieves' tools.
 
 ##### Treasure
 
-The pantry holds enough food and water for fifty people to survive on for a month, along with twenty [javelins](3-Mechanics/CLI/items/javelin.md), ten [longswords](3-Mechanics/CLI/items/longsword.md), and ten suits of Dragon Army [scale mail](3-Mechanics/CLI/items/scale-mail.md). [Belephaion](3-Mechanics/CLI/bestiary/npc/belephaion-dsotdq.md)'s trapped chest contains three [javelins of lightning](3-Mechanics/CLI/items/javelin-of-lightning.md) and a [pouch](3-Mechanics/CLI/items/pouch.md) full of sapphires worth 1,600 gp.
+The pantry holds enough food and water for fifty people to survive on for a month, along with twenty [javelins](3-Mechanics/CLI/items/javelin-xphb.md), ten [longswords](3-Mechanics/CLI/items/longsword-xphb.md), and ten suits of Dragon Army [scale mail](3-Mechanics/CLI/items/scale-mail-xphb.md). [Belephaion](3-Mechanics/CLI/bestiary/npc/belephaion-dsotdq.md)'s trapped chest contains three [javelins of lightning](3-Mechanics/CLI/items/javelin-of-lightning-xdmg.md) and a [pouch](3-Mechanics/CLI/items/pouch-xphb.md) full of sapphires worth 1,600 gp.
 
 #### O8: Drawing Room
 
@@ -636,7 +642,7 @@ The mansion's staircase connects this small hallway to area O4 on the ground flo
 > This bedroom is well preserved, with a four-poster bed, a desk, and a small chest. A round turret to the southeast—with glass intact in its windows—provides a panoramic view of the neighborhood's wreckage. A door leads to a room to the east, and another door opens to the hallway to the north.
 ^388
 
-![Captain Hask](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/102-06-004-captain-hask.webp#center)
+![Captain Hask](file://adventure/DSotDQ/102-06-004.captain-hask.webp#center)
 
 [Captain Hask](3-Mechanics/CLI/bestiary/npc/captain-hask-dsotdq.md), an [aurak draconian](3-Mechanics/CLI/bestiary/monstrosity/aurak-draconian-dsotdq.md) (see appendix B), is writing reports at the desk. Hask knows all the soldiers in his unit, and the characters can convince Hask they're Dragon Army soldiers only with a successful DC 22 Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception)) check. If Hask believes he's being tricked, he stands and attacks while calling for the soldiers in area O11, who arrive after 1 round. Hask is a devout servant of the Dragon Queen and fights to the death.
 
@@ -650,7 +656,7 @@ The desk is covered in reports to Hask's superior, referred to as "Glorious [Bel
 
 ##### Treasure
 
-A key Hask carries opens the locked chest near the desk. The chest can also be unlocked by a character using thieves' tools who spends 1 minute and succeeds on a DC 18 Dexterity check. The chest contains a [pearl of power](3-Mechanics/CLI/items/pearl-of-power.md) and a 200-pound sack, labeled "Payroll" in Draconic, that holds 10,000 sp.
+A key Hask carries opens the locked chest near the desk. The chest can also be unlocked by a character using thieves' tools who spends 1 minute and succeeds on a DC 18 Dexterity check. The chest contains a [pearl of power](3-Mechanics/CLI/items/pearl-of-power-xdmg.md) and a 200-pound sack, labeled "Payroll" in Draconic, that holds 10,000 sp.
 
 #### O11: Library
 
@@ -697,8 +703,8 @@ The area in and around the Temple of Paladine has the following features:
 The following locations are keyed to map 6.4.
 
 > [!gallery]
-> ![Map 6.4: Temple Of Paladine](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/103-map-6-04-temple-of-paladine.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/104-map-6-04-temple-of-paladine-player.webp#gallery)
+> ![Map 6.4: Temple Of Paladine](file://adventure/DSotDQ/103-map-6.04-temple-of-paladine.webp#gallery)
+> ![Player Version](file://adventure/DSotDQ/104-map-6.04-temple-of-paladine-player.webp#gallery)
 
 #### P1: Causeway
 
@@ -722,11 +728,11 @@ Characters with a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#P
 > The trees here stand shoulder to shoulder, forming a violet canopy as they climb a ring-shaped rise around the temple. Sloping stone stairs climb the rise, and on the other side, another set of stairs descends into the shallow water.
 ^396
 
-The neutral [treant](3-Mechanics/CLI/bestiary/plant/treant.md) [Duskwalker](3-Mechanics/CLI/bestiary/npc/duskwalker-dsotdq.md) stands motionless amid trees whose branches bear dead Dragon Army soldiers. Before Onyari's destruction, [Duskwalker](3-Mechanics/CLI/bestiary/npc/duskwalker-dsotdq.md) served as its master gardener. The city's devastation left them deeply bitter, and the Dragon Army's invasion has newly angered the ancient creature.
+The neutral [treant](3-Mechanics/CLI/bestiary/plant/treant-xmm.md) [Duskwalker](3-Mechanics/CLI/bestiary/npc/duskwalker-dsotdq.md) stands motionless amid trees whose branches bear dead Dragon Army soldiers. Before Onyari's destruction, [Duskwalker](3-Mechanics/CLI/bestiary/npc/duskwalker-dsotdq.md) served as its master gardener. The city's devastation left them deeply bitter, and the Dragon Army's invasion has newly angered the ancient creature.
 
 Unless a character openly displays a symbol of a god of nature—like Chislev, Habbakuk, or Zeboim—or is otherwise clearly a servant of nature, [Duskwalker](3-Mechanics/CLI/bestiary/npc/duskwalker-dsotdq.md) uses their Animate Trees action to ambush the characters, then follows the trees into battle. During combat, [Duskwalker](3-Mechanics/CLI/bestiary/npc/duskwalker-dsotdq.md) slowly bellows, "Each defiler you send to my gardens meets the same end. Begone!" A character being attacked by a tree notices a dead Dragon Army soldier amid its branches.
 
-![Duskwalker](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/105-06-005-duskwalker.webp#center)
+![Duskwalker](file://adventure/DSotDQ/105-06-005.duskwalker.webp#center)
 
 ##### Talking with Duskwalker
 
@@ -741,7 +747,7 @@ The treant refuses to aid the characters against the Dragon Army, wanting only t
 
 ##### Treasure
 
-Six Dragon Army corpses are lodged 20 feet up in the branches of nearby trees. Each body has a [longsword](3-Mechanics/CLI/items/longsword.md), a suit of [scale mail](3-Mechanics/CLI/items/scale-mail.md), and 10 gp.
+Six Dragon Army corpses are lodged 20 feet up in the branches of nearby trees. Each body has a [longsword](3-Mechanics/CLI/items/longsword-xphb.md), a suit of [scale mail](3-Mechanics/CLI/items/scale-mail-xphb.md), and 10 gp.
 
 #### P3: Lake
 
@@ -750,7 +756,7 @@ Six Dragon Army corpses are lodged 20 feet up in the branches of nearby trees. E
 > Inside the ring of trees, the ground lowers, creating a flooded bowl. Here, a roughly triangular temple rises from the water, its north side largely crumbled and its belfry leaning. The temple's doors, half covered with water, have begun succumbing to rot, but their platinum inlays of dragons still shine.
 ^39a
 
-A hostile [marid](3-Mechanics/CLI/bestiary/elemental/marid.md) named Jamir has taken up residence in this area. Once bound by the kingpriest's wizards to power the city's plumbing, Jamir has taken great delight in Onyari's destruction and seeks to punish any who would reclaim the city. If alerted to the party's presence by noise from area P2, he conjures a [water elemental](3-Mechanics/CLI/bestiary/elemental/water-elemental.md) and hides underwater, prepared to ambush the characters. Characters with a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 16 or higher aren't surprised when Jamir attacks. If reduced to 20 hit points or fewer, he uses [plane shift](3-Mechanics/CLI/spells/plane-shift.md) to escape at the first opportunity.
+A hostile [marid](3-Mechanics/CLI/bestiary/elemental/marid-xmm.md) named Jamir has taken up residence in this area. Once bound by the kingpriest's wizards to power the city's plumbing, Jamir has taken great delight in Onyari's destruction and seeks to punish any who would reclaim the city. If alerted to the party's presence by noise from area P2, he conjures a [water elemental](3-Mechanics/CLI/bestiary/elemental/water-elemental-xmm.md) and hides underwater, prepared to ambush the characters. Characters with a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 16 or higher aren't surprised when Jamir attacks. If reduced to 20 hit points or fewer, he uses [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md) to escape at the first opportunity.
 
 ##### Doors
 
@@ -771,7 +777,7 @@ The nave's floor has buckled, creating pits leading to the shattered crypts belo
 
 ##### Disturbed Dead
 
-If a creature falls into one of the pits, it disturbs the dead buried in the vault below. One round later, four slimy [mummies](3-Mechanics/CLI/bestiary/undead/mummy.md) emerge from the three pits. These lawful neutral Undead seek to defend the temple. They won't converse with characters, but they return to their soggy tombs if a character brandishes a symbol of Paladine toward them.
+If a creature falls into one of the pits, it disturbs the dead buried in the vault below. One round later, four slimy [mummies](3-Mechanics/CLI/bestiary/undead/mummy-xmm.md) emerge from the three pits. These lawful neutral Undead seek to defend the temple. They won't converse with characters, but they return to their soggy tombs if a character brandishes a symbol of Paladine toward them.
 
 #### P5: Preparation Chamber
 
@@ -784,7 +790,7 @@ Here, the dead were prepared for burial in the crypts below the temple. These cr
 
 ##### Treasure
 
-A character who searches the shelves and succeeds on a DC 15 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check finds three intact [spell scrolls](3-Mechanics/CLI/items/spell-scroll.md) of [gentle repose](3-Mechanics/CLI/spells/gentle-repose.md).
+A character who searches the shelves and succeeds on a DC 15 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check finds three intact [spell scrolls](3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [gentle repose](3-Mechanics/CLI/spells/gentle-repose-xphb.md).
 
 #### P6: Rectory
 
@@ -797,7 +803,7 @@ This apartment once housed the temple's resident priest. A character who looks u
 
 ##### Treasure
 
-The chest holds 400 gp, a platinum necklace featuring Paladine's symbol worth 150 gp, two [potions of healing (superior)](3-Mechanics/CLI/items/potion-of-superior-healing.md), and a [periapt of proof against poison](3-Mechanics/CLI/items/periapt-of-proof-against-poison.md).
+The chest holds 400 gp, a platinum necklace featuring Paladine's symbol worth 150 gp, two [potions of healing (superior)](3-Mechanics/CLI/items/potion-of-superior-healing-xdmg.md), and a [periapt of proof against poison](3-Mechanics/CLI/items/periapt-of-proof-against-poison-xdmg.md).
 
 #### P7: Chancel
 
@@ -808,7 +814,7 @@ The chest holds 400 gp, a platinum necklace featuring Paladine's symbol worth 15
 
 The altar here bears the symbol of Paladine, while the sculptures depict him in his draconic form. A cleric of Paladine or a character who succeeds on a DC 12 Intelligence ([Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check recognizes the symbol.
 
-![By Paladine's might, a dragonlance is restored](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/106-06-006-dragonlance-restored.webp#center)
+![By Paladine's might, a dragonlance is restored](file://adventure/DSotDQ/106-06-006.dragonlance-restored.webp#center)
 
 ##### Restoring the Lance
 
@@ -827,7 +833,7 @@ Before a character takes the reforged lance, read the following text:
 
 Any character with the [Divinely Favored feat](3-Mechanics/CLI/feats/divinely-favored-dsotdq.md) (from chapter 1) knows this is the voice of the god Paladine.
 
-A moment later, a wave of light sweeps through the temple, healing each creature present as if by the [heal](3-Mechanics/CLI/spells/heal.md) spell. If any characters died during this chapter, they immediately come back to life as if by the [true resurrection](3-Mechanics/CLI/spells/true-resurrection.md) spell, their bodies appearing in the chancel if they're not already present. The light then vanishes.
+A moment later, a wave of light sweeps through the temple, healing each creature present as if by the [heal](3-Mechanics/CLI/spells/heal-xphb.md) spell. If any characters died during this chapter, they immediately come back to life as if by the [true resurrection](3-Mechanics/CLI/spells/true-resurrection-xphb.md) spell, their bodies appearing in the chancel if they're not already present. The light then vanishes.
 
 ### Character Advancement
 
@@ -856,8 +862,8 @@ The areas inside the Threshold of the Heavens have the following features:
 The following locations are keyed to map 6.5.
 
 > [!gallery]
-> ![Map 6.5: Threshold of the Heavens](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/107-map-6-05-threshold-of-the-heavens.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/108-map-6-05-threshold-of-the-heavens-player.webp#gallery)
+> ![Map 6.5: Threshold of the Heavens](file://adventure/DSotDQ/107-map-6.05-threshold-of-the-heavens.webp#gallery)
+> ![Player Version](file://adventure/DSotDQ/108-map-6.05-threshold-of-the-heavens-player.webp#gallery)
 
 #### T1: Plaza
 
@@ -889,7 +895,7 @@ The kingpriest insisted the Threshold was a holy place, but little besides the h
 
 ##### Guardians
 
-A [bone devil](3-Mechanics/CLI/bestiary/fiend/bone-devil.md) named Guelfost and his handler, a [bozak draconian](3-Mechanics/CLI/bestiary/monstrosity/bozak-draconian-dsotdq.md) (see appendix B) named Orm, serve [Lohezet](3-Mechanics/CLI/bestiary/npc/lohezet-dsotdq.md) and have been assigned to guard this level of the tower. Orm demands visitors state their business. A character must succeed on a DC 12 Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception)) check to convince Orm the characters have business in the tower.
+A [bone devil](3-Mechanics/CLI/bestiary/fiend/bone-devil-xmm.md) named Guelfost and his handler, a [bozak draconian](3-Mechanics/CLI/bestiary/monstrosity/bozak-draconian-dsotdq.md) (see appendix B) named Orm, serve [Lohezet](3-Mechanics/CLI/bestiary/npc/lohezet-dsotdq.md) and have been assigned to guard this level of the tower. Orm demands visitors state their business. A character must succeed on a DC 12 Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception)) check to convince Orm the characters have business in the tower.
 
 Guelfost has orders to obey his handler, but they don't compel him to fight after Orm dies. If Orm is defeated, Guelfost ceases attacking. If not attacked further, he shares his name and the following facts:
 
@@ -901,7 +907,7 @@ After his draconian handler is defeated, Guelfost doesn't leave the room or act 
 
 ##### Fonts
 
-The two fonts are half-full of magically preserved holy water. Each font holds the equivalent of four [flasks of holy water](3-Mechanics/CLI/items/holy-water-flask.md).
+The two fonts are half-full of magically preserved holy water. Each font holds the equivalent of four [flasks of holy water](3-Mechanics/CLI/items/holy-water-xphb.md).
 
 #### T3: Tower Monitoring
 
@@ -920,7 +926,7 @@ A character who succeeds on a DC 14 Intelligence ([Arcana](3-Mechanics/CLI/rules
 
 If a character uses the console to throttle the tower's magic, the symbol in the center of the room turns red, and the Threshold's entire floating island plummets 10 feet. After this, a failsafe stops the island from falling, returns the rune to its original orange color, and disables the console. The experience is startling, but it doesn't harm the tower or creatures on the island.
 
-If the tower drops in this manner, [Lohezet](3-Mechanics/CLI/bestiary/npc/lohezet-dsotdq.md) commands the three [flameskulls](3-Mechanics/CLI/bestiary/undead/flameskull.md) in area T7 to find the source of the problem. One minute later, the flameskulls find the characters (regardless of their location in the tower) and attack.
+If the tower drops in this manner, [Lohezet](3-Mechanics/CLI/bestiary/npc/lohezet-dsotdq.md) commands the three [flameskulls](3-Mechanics/CLI/bestiary/undead/flameskull-xmm.md) in area T7 to find the source of the problem. One minute later, the flameskulls find the characters (regardless of their location in the tower) and attack.
 
 ##### Symbol
 
@@ -937,7 +943,7 @@ This chamber functions as a defense for the tower and part of the tower's broade
 
 ##### Lightning
 
-When a creature enters this area for the first time on a turn or starts its turn there, it must succeed on a DC 16 Dexterity saving throw or take 22 (`4d10`) lightning damage from lightning arcing between the columns. If a character says "cetteth" while on this level of the tower, they become immune to the lightning generated by this room for 24 hours.
+When a creature enters this area for the first time on a turn or starts its turn there, it must succeed on a DC 16 Dexterity saving throw or take `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) lightning damage from lightning arcing between the columns. If a character says "cetteth" while on this level of the tower, they become immune to the lightning generated by this room for 24 hours.
 
 ##### Crystal Columns
 
@@ -976,7 +982,7 @@ The consoles once performed a magical function, but Dragon Army soldiers acciden
 
 ##### Flameskulls
 
-Since whatever accident befell this room, [Lohezet](3-Mechanics/CLI/bestiary/npc/lohezet-dsotdq.md) doesn't allow Dragon Army soldiers higher than this floor. Three [flameskulls](3-Mechanics/CLI/bestiary/undead/flameskull.md) guard this room and attack any creature other than [Lohezet](3-Mechanics/CLI/bestiary/npc/lohezet-dsotdq.md) that enters. The flameskulls are no longer present if they went to investigate area T3.
+Since whatever accident befell this room, [Lohezet](3-Mechanics/CLI/bestiary/npc/lohezet-dsotdq.md) doesn't allow Dragon Army soldiers higher than this floor. Three [flameskulls](3-Mechanics/CLI/bestiary/undead/flameskull-xmm.md) guard this room and attack any creature other than [Lohezet](3-Mechanics/CLI/bestiary/npc/lohezet-dsotdq.md) that enters. The flameskulls are no longer present if they went to investigate area T3.
 
 #### T8: Navigation
 
@@ -1017,11 +1023,11 @@ This chamber's scrying magic informed the city's navigators of storms and other 
 
 ##### Treasure
 
-Atop a console, [Lohezet](3-Mechanics/CLI/bestiary/npc/lohezet-dsotdq.md) has placed Istarian relics he's investigating. These include six platinum tower components worth 200 gp each, a [gem of brightness](3-Mechanics/CLI/items/gem-of-brightness.md), and a [candle of invocation](3-Mechanics/CLI/items/candle-of-invocation.md).
+Atop a console, [Lohezet](3-Mechanics/CLI/bestiary/npc/lohezet-dsotdq.md) has placed Istarian relics he's investigating. These include six platinum tower components worth 200 gp each, a [gem of brightness](3-Mechanics/CLI/items/gem-of-brightness-xdmg.md), and a [candle of invocation](3-Mechanics/CLI/items/candle-of-invocation-xdmg.md).
 
 #### T10: Bridge
 
-![At the Threshold of the He...](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/109-06-007-belephaion-true-form.webp#center "At the Threshold of the Heavens, Belephaion reveals his true form")
+![At the Threshold of the Heavens, Belephaion reveals his true form](file://adventure/DSotDQ/109-06-007.belephaion-true-form.webp#center)
 
 > [!readaloud] 
 > 
@@ -1043,11 +1049,11 @@ When [Belephaion](3-Mechanics/CLI/bestiary/npc/belephaion-dsotdq.md) sees the ch
 
 ##### Belephaion
 
-[Belephaion](3-Mechanics/CLI/bestiary/npc/belephaion-dsotdq.md), who's secretly a blue dragon, is currently in his priest form. He uses the [young blue dragon](3-Mechanics/CLI/bestiary/dragon/young-blue-dragon.md) stat block with the following action:
+[Belephaion](3-Mechanics/CLI/bestiary/npc/belephaion-dsotdq.md), who's secretly a blue dragon, is currently in his priest form. He uses the [young blue dragon](3-Mechanics/CLI/bestiary/dragon/young-blue-dragon-xmm.md) stat block with the following action:
 
 > [!readaloud] 
 > 
-> **Alter Shape.** [Belephaion](3-Mechanics/CLI/bestiary/npc/belephaion-dsotdq.md) magically transforms into an [eagle](3-Mechanics/CLI/bestiary/beast/eagle.md) or a [priest](3-Mechanics/CLI/bestiary/humanoid/priest.md), while retaining his alignment, damage immunities, hit points, Hit Dice, and Intelligence, Wisdom, and Charisma scores. This transformation ends if he is reduced to 0 hit points or uses a bonus action to end it.
+> **Alter Shape.** [Belephaion](3-Mechanics/CLI/bestiary/npc/belephaion-dsotdq.md) magically transforms into an [eagle](3-Mechanics/CLI/bestiary/beast/eagle-xmm.md) or a [priest](3-Mechanics/CLI/bestiary/humanoid/priest-xmm.md), while retaining his alignment, damage immunities, hit points, Hit Dice, and Intelligence, Wisdom, and Charisma scores. This transformation ends if he is reduced to 0 hit points or uses a bonus action to end it.
 ^3d4
 
 [Belephaion](3-Mechanics/CLI/bestiary/npc/belephaion-dsotdq.md) mocks the characters and promises to send their souls to the Dragon Queen. As soon as the characters threaten or attack him, he orders the draconians to attack, transforms into his dragon form, and joins in battle. He fights to the death.
@@ -1058,7 +1064,7 @@ The throne is a [flying citadel helm](3-Mechanics/CLI/items/flying-citadel-helm-
 
 ##### Treasure
 
-[Belephaion](3-Mechanics/CLI/bestiary/npc/belephaion-dsotdq.md) carries a portion of his hoard with him in a [bag of holding](3-Mechanics/CLI/items/bag-of-holding.md) he wears. The bag contains 1,000 gp worth of ancient coins, a ruby holy symbol of Takhisis worth 250 gp, and an [Ioun stone (insight)](3-Mechanics/CLI/items/ioun-stone-insight.md). His crown is worth 3,500 gp.
+[Belephaion](3-Mechanics/CLI/bestiary/npc/belephaion-dsotdq.md) carries a portion of his hoard with him in a [bag of holding](3-Mechanics/CLI/items/bag-of-holding-xdmg.md) he wears. The bag contains 1,000 gp worth of ancient coins, a ruby holy symbol of Takhisis worth 250 gp, and an [Ioun stone (insight)](3-Mechanics/CLI/items/ioun-stone-insight-xdmg.md). His crown is worth 3,500 gp.
 
 ##### Windows
 
@@ -1085,7 +1091,7 @@ The Threshold of the Heavens and the island it stands on are beginning to crumbl
 
 Characters who try to use the [flying citadel helm](3-Mechanics/CLI/items/flying-citadel-helm-dsotdq.md) can make a DC 10 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check. If they succeed, they realize it'd take several hours to attune to it and regain control of the city—and the tower isn't going to survive that long.
 
-![A draconian fails to escape the City of Lost Names](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/110-06-008-draconian-wilhelm-scream.webp#center)
+![A draconian fails to escape the City of Lost Names](file://adventure/DSotDQ/110-06-008.draconian-wilhelm-scream.webp#center)
 
 ### Soth's Ascent
 
@@ -1116,7 +1122,7 @@ The characters find their path impeded by a 30-foot ascent or descent between le
 
 #### Ill-Fated Ambush
 
-A patrol of three [kapak draconians](3-Mechanics/CLI/bestiary/monstrosity/kapak-draconian-dsotdq.md) and one [sivak draconian](3-Mechanics/CLI/bestiary/monstrosity/sivak-draconian-dsotdq.md) (see appendix B for both stat blocks) spots the characters and attacks. At the end of the first round of combat, roll a die. If you roll an even number, a random draconian is affected as if by the [levitate](3-Mechanics/CLI/spells/levitate.md) spell (save DC 15) for 1 minute. If you roll an odd number, a boulder falls on a random draconian, dealing 33 (`6d10`) bludgeoning damage to it.
+A patrol of three [kapak draconians](3-Mechanics/CLI/bestiary/monstrosity/kapak-draconian-dsotdq.md) and one [sivak draconian](3-Mechanics/CLI/bestiary/monstrosity/sivak-draconian-dsotdq.md) (see appendix B for both stat blocks) spots the characters and attacks. At the end of the first round of combat, roll a die. If you roll an even number, a random draconian is affected as if by the [levitate](3-Mechanics/CLI/spells/levitate-xphb.md) spell (save DC 15) for 1 minute. If you roll an odd number, a boulder falls on a random draconian, dealing `dice:6d10|noform|noparens|avg|text(33)` (`6d10`) bludgeoning damage to it.
 
 ## Escaping the Enemy
 
@@ -1131,7 +1137,7 @@ The adventure unfolds in one of two ways from here:
 
 > [!note] Warriors of Krynn: Scenario 8
 > 
-> Soon after the characters reunite with their allies from Kalaman, the Dragon Army musters its scattered forces and prepares to pursue the fleeing Kalaman troops. Read the introduction to scenario 8 in *Dragonlance: Warriors of Krynn*, then play that scenario. This scenario details the flight of the Kalaman forces from the City of Lost Names. If the characters attain a hold during this scenario, their allies hail them and share one [potion of healing (superior)](3-Mechanics/CLI/items/potion-of-superior-healing.md) with each character. If the characters attained a win, the survivors also gift them a [ring of resistance (fire)](3-Mechanics/CLI/items/ring-of-fire-resistance.md) taken from a defeated Dragon Army officer. Characters gain no benefit for a loss.
+> Soon after the characters reunite with their allies from Kalaman, the Dragon Army musters its scattered forces and prepares to pursue the fleeing Kalaman troops. Read the introduction to scenario 8 in *Dragonlance: Warriors of Krynn*, then play that scenario. This scenario details the flight of the Kalaman forces from the City of Lost Names. If the characters attain a hold during this scenario, their allies hail them and share one [potion of healing (superior)](3-Mechanics/CLI/items/potion-of-superior-healing-xdmg.md) with each character. If the characters attained a win, the survivors also gift them a [ring of resistance (fire)](3-Mechanics/CLI/items/ring-of-fire-resistance-xdmg.md) taken from a defeated Dragon Army officer. Characters gain no benefit for a loss.
 > 
 > At the end of the scenario, proceed with the "A New Threat" section.
 ^warriors-of-krynn-scenario-8

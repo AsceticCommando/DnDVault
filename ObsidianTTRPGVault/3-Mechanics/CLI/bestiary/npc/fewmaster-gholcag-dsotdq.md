@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Fewmaster Gholcag"
 ---
-# [Fewmaster Gholcag](3-Mechanics\CLI\bestiary\npc/fewmaster-gholcag-dsotdq.md)
+# [Fewmaster Gholcag](3-Mechanics/CLI/bestiary/npc/fewmaster-gholcag-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 74*  
 
 Fewmaster Gholcag is a low-ranking commander in the Red Dragon Army and the leader of the raid on Vogler.
@@ -25,7 +25,7 @@ Ogres are hulking giants notorious for their quick tempers. When its rage is inc
 "type": "giant"
 "alignment": "Chaotic Evil"
 "ac": !!int "14"
-"ac_class": "[scale mail](3-Mechanics/CLI/items/scale-mail.md)"
+"ac_class": "[scale mail](3-Mechanics/CLI/items/scale-mail-xphb.md)"
 "hp": !!int "59"
 "hit_dice": "7d10 + 21"
 "modifier": !!int "-1"
@@ -38,8 +38,8 @@ Ogres are hulking giants notorious for their quick tempers. When its rage is inc
   - !!int "7"
 "speed": "40 ft."
 "gear":
-  - "[greatclub](3-Mechanics/CLI/items/greatclub.md)"
-  - "[javelin](3-Mechanics/CLI/items/javelin.md)"
+  - "[greatclub](3-Mechanics/CLI/items/greatclub-xphb.md)"
+  - "[javelin](3-Mechanics/CLI/items/javelin-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 8"
 "languages": "Common, Giant"
@@ -53,6 +53,6 @@ Ogres are hulking giants notorious for their quick tempers. When its rage is inc
     "name": "Javelin"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/npc/token/fewmaster-gholcag-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Fewmaster%20Gholcag.webp"
 ```
 ^statblock

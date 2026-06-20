@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "King Hekaton"
 ---
-# [King Hekaton](3-Mechanics\CLI\bestiary\npc/king-hekaton-skt.md)
+# [King Hekaton](3-Mechanics/CLI/bestiary/npc/king-hekaton-skt.md)
 *Source: Storm King's Thunder p. 222*  
 
 Storm giants are contemplative seers that live in places far removed from mortal civilization. Most have pale purple-gray skin and hair, and glittering emerald eyes.
@@ -71,7 +71,7 @@ Some giants abandon their own gods and fall prey to demon cults, paying homage t
 "type": "giant"
 "alignment": "Chaotic Good"
 "ac": !!int "16"
-"ac_class": "[scale mail](3-Mechanics/CLI/items/scale-mail.md)"
+"ac_class": "[scale mail](3-Mechanics/CLI/items/scale-mail-xphb.md)"
 "hp": !!int "330"
 "hit_dice": "20d12 + 100"
 "modifier": !!int "2"
@@ -105,10 +105,10 @@ Some giants abandon their own gods and fall prey to demon cults, paying homage t
 "traits":
   - "desc": "The giant's innate spellcasting ability is Charisma (spell save DC 17).\
       \ It can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [feather\
-      \ fall](3-Mechanics/CLI/spells/feather-fall.md), [levitate](3-Mechanics/CLI/spells/levitate.md),\
-      \ [light](3-Mechanics/CLI/spells/light.md)\n\n**3/day each:** [control weather](3-Mechanics/CLI/spells/control-weather.md),\
-      \ [water breathing](3-Mechanics/CLI/spells/water-breathing.md)"
+      \n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [feather fall](3-Mechanics/CLI/spells/feather-fall-xphb.md), [levitate](3-Mechanics/CLI/spells/levitate-xphb.md),\
+      \ [light](3-Mechanics/CLI/spells/light-xphb.md)\n\n**3/day each:** [control\
+      \ weather](3-Mechanics/CLI/spells/control-weather-xphb.md), [water breathing](3-Mechanics/CLI/spells/water-breathing-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "Hekaton can breathe air and water."
     "name": "Amphibious"
@@ -135,6 +135,6 @@ Some giants abandon their own gods and fall prey to demon cults, paying homage t
     "name": "Thunderous Stomp (Recharge 6)"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/king-hekaton-skt.webp"
+"image": "file://bestiary/tokens/SKT/King%20Hekaton.webp"
 ```
 ^statblock

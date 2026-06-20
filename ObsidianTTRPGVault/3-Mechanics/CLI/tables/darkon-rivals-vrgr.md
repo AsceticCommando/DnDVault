@@ -12,6 +12,8 @@ aliases:
 
 **Darkon Rivals**
 
+`dice: [](darkon-rivals-vrgr.md#^darkon-rivals)`
+
 | dice: d6 | Rival |
 |----------|-------|
 | 1 | Alcio Metus and the Kargat |

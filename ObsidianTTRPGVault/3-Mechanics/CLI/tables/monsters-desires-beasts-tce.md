@@ -12,6 +12,8 @@ aliases:
 
 **Beasts**
 
+`dice: [](monsters-desires-beasts-tce.md#^beasts)`
+
 | dice: d4 | Desired Offering |
 |----------|------------------|
 | 1 | Fresh meat |

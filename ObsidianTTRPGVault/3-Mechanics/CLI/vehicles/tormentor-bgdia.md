@@ -18,7 +18,7 @@ The Tormentor handles like a dune buggy and is designed for raiding and scouting
 
 ```ad-statblock
 title: Tormentor
-![](3-Mechanics/CLI/vehicles/token/tormentor-bgdia.webp#token)
+![](file://vehicles/tokens/BGDIA/Tormentor.webp#token)
 *Huge vehicle (1 ton 1000 lb.); land*
 
 - **Cargo Capacity**  500 lb.

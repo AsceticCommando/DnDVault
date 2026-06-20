@@ -18,4 +18,4 @@ Even though names are associated with races in this  appendix, a character might
 
 See the names page for the full collection of name tables.
 
-![](3-Mechanics/CLI/books/xanathars-guide-to-everything/img/ab001.webp#center)
+![](file://book/XGE/ab001.webp#center)

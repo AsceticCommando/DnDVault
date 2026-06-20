@@ -11,5 +11,5 @@ aliases:
 
 ## Cantrip
 
-- [Druidcraft](3-Mechanics/CLI/spells/druidcraft.md "PHB") as cantrip, at class level 3
-- [Prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md "PHB") as cantrip, at class level 3
+- [Druidcraft](3-Mechanics/CLI/spells/druidcraft-xphb.md "XPHB") as cantrip, at class level 3
+- [Prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md "XPHB") as cantrip, at class level 3

@@ -12,6 +12,8 @@ aliases:
 
 **Mysterious Passengers**
 
+`dice: [](mysterious-passengers-erlw.md#^mysterious-passengers)`
+
 | dice: d100 | Passenger |
 |------------|-----------|
 | 01–02 | A human merchant of obvious means seems to be deliberately drawing attention, loudly calling out their name and the time of day. |

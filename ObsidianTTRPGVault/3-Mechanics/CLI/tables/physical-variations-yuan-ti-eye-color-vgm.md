@@ -12,6 +12,8 @@ aliases:
 
 **Yuan-ti Eye Color**
 
+`dice: [](physical-variations-yuan-ti-eye-color-vgm.md#^yuan-ti-eye-color)`
+
 | dice: d6 | Eye Color |
 |----------|-----------|
 | 1 | Blue |

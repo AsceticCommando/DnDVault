@@ -12,6 +12,8 @@ aliases:
 
 **Stairs**
 
+`dice: [](stairs.md#^stairs)`
+
 | dice: d20 | Stairs |
 |-----------|--------|
 | 1-4 | Down one level to a chamber |

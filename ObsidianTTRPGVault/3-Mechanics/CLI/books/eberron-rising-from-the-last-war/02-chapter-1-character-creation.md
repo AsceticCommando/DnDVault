@@ -12,7 +12,7 @@ aliases:
 
 The skyscrapers of Sharn rise up before you, the spires glimmering with magical lights. Or wind rushes through your hair as the airship you're riding races toward adventure in the jungles of Q'barra. Or you hunt Emerald Claw agents on the lightning rail, creeping through one train car after another. Or you chart another adventurous course on the war-torn continent of Khorvaire. Whatever path your character takes in Eberron, consider how the world affects your character.
 
-![With a homunculus on her s...](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/004-1-01.webp#center "With a homunculus on her shoulder, the gnome artificer Vi brandishes her Arcane Firearm, as a heavily armored warforged stands guard.")
+![With a homunculus on her shoulder, the gnome artificer Vi brandishes her Arcane Firearm, as a heavily armored warforged stands guard.](file://book/ERLW/004-1-01.webp#center)
 
 Building on the book's introduction, this chapter reveals how you can create a character shaped by Eberron and its war-filled history. The chapter offers you the following choices:
 
@@ -48,7 +48,7 @@ This section also presents other playable races that have performed important ro
 
 ## Changelings
 
-See the [Changeling](3-Mechanics/CLI/races/changeling-mpmm.md) entry.
+See the [Changeling](3-Mechanics/CLI/races/changeling-efa.md) entry.
 
 ## Dragonborn
 
@@ -64,7 +64,7 @@ To date the dragonborn have largely ignored the humans of Q'barra, and the few h
 
 ## Dwarves
 
-![Dwarf with a Tentacle Whip](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/006-1-03.webp#center)
+![Dwarf with a Tentacle Whip](file://book/ERLW/006-1-03.webp#center)
 
 > [!quote] A quote from Mror Proverb  
 > 
@@ -110,7 +110,7 @@ As a whole, elves are driven by tradition and respect for the past. Where humans
 
 ### High Elves: The Aereni
 
-![Aereni Elf with a Symbol of the Undying Court](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/007-1-04.webp#center)
+![Aereni Elf with a Symbol of the Undying Court](file://book/ERLW/007-1-04.webp#center)
 
 For thousands of years, the island nation of Aerenal has been ruled and protected by the godlike power of the Undying Court, a council of undead high elves. The greatest heroes of the Aereni join the Undying Court after death, joining their heroic ancestors in immortality.
 
@@ -120,7 +120,7 @@ Consider your character's personal and family history. What is your family known
 
 ### Wood Elves: The Tairnadal
 
-![Tairnadal Elf in Vulkoori Armor](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/008-1-05.webp#center)
+![Tairnadal Elf in Vulkoori Armor](file://book/ERLW/008-1-05.webp#center)
 
 Tairnadal elves dedicate themselves to the arts of war. The greatest heroes of the Tairnadal's many wars—against giants, dragons, and the champions of Dhakaan—live on after death, becoming the patron ancestors of the Tairnadal. Upon reaching adulthood, a Tairnadal elf forms a bond with one of these ancestors and strives to follow in the footsteps of this ancestor, living as the patron did. In this way, the champion comes to embody their ancestor, allowing the dead to live on.
 
@@ -182,7 +182,7 @@ When you're making a Zil gnome character, consider what kinds of schemes you or 
 
 ![Gnomes of Zilargo; Zil Schemes](3-Mechanics/CLI/tables/gnomes-of-zilargo-zil-schemes-erlw.md)
 
-![Zil Gnome](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/009-1-06.webp#center)
+![Zil Gnome](file://book/ERLW/009-1-06.webp#center)
 
 Additionally, consider your relationship to Zilargo: why you have left, and what ties do you still have to it? Your scheme could provide a good reason for you to leave. Or you could be a sage gathering information for the Library of Korranberg or an investigator sending stories of your adventures back to the *Korranberg Chronicle*. Family is important to the Zil, and you could be pursuing your family's interests. You could even be working for the mysterious Trust, the conspiracy behind the Triumvirate's throne that quietly maintains order in Zilargo. If you are working for the Trust, you could have a specific mission, but you could also be a sleeper agent—gathering information and allies until you're activated and you are put to your intended use.
 
@@ -204,7 +204,7 @@ Today, House Sivis provides avenues of communication across Khorvaire. Translati
 
 ## Goblinoids
 
-![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/010-1-07.webp#center)
+![](file://book/ERLW/010-1-07.webp#center)
 
 > [!quote] A quote from Don Bassingthwaite, *The Doom of Kings*  
 > 
@@ -318,7 +318,7 @@ Two dragonmarks appear among the halflings of Khorvaire, the Mark of Healing in 
 
 With its powers related to food and shelter, the Mark of Hospitality was a boon to the early halfling nomads, but now it allows House Ghallanda to run the best inns, hostels, and taverns in the land. Similarly, the Mark of Healing has always been a boon to both nomads and settlers facing dangerous wilds, and House Jorasco still employs both magical and mundane healing techniques to tend to the well-being of patients across Khorvaire.
 
-![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/011-1-08.webp#center)
+![](file://book/ERLW/011-1-08.webp#center)
 
 ## Humans
 
@@ -346,7 +346,7 @@ Five different dragonmarks appear among humans, reflecting their dominant status
 
 ## Kalashtar
 
-See the [Kalashtar](3-Mechanics/CLI/races/kalashtar-erlw.md) entry.
+See the [Kalashtar](3-Mechanics/CLI/races/kalashtar-efa.md) entry.
 
 ## Orcs and Half-Orcs
 
@@ -382,18 +382,18 @@ The Mark of Finding appears among half-orcs and humans of House Tharashk. Strang
 
 ### Orc Traits
 
-See the [Orc](3-Mechanics/CLI/races/orc-mpmm.md) entry.
+See the [Orc](3-Mechanics/CLI/races/orc-xphb.md) entry.
 
-![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/013-1-10.webp#center)
+![](file://book/ERLW/013-1-10.webp#center)
 
 ## Shifters
 
 See the following entries:
 
-- [Shifter (Beasthide)](3-Mechanics/CLI/races/shifter-mpmm.md)  
-- [Shifter (Longtooth)](3-Mechanics/CLI/races/shifter-mpmm.md)  
-- [Shifter (Swiftstride)](3-Mechanics/CLI/races/shifter-mpmm.md)  
-- [Shifter (Wildhunt)](3-Mechanics/CLI/races/shifter-mpmm.md)  
+- [Shifter (Beasthide)](3-Mechanics/CLI/races/shifter-efa.md)  
+- [Shifter (Longtooth)](3-Mechanics/CLI/races/shifter-efa.md)  
+- [Shifter (Swiftstride)](3-Mechanics/CLI/races/shifter-efa.md)  
+- [Shifter (Wildhunt)](3-Mechanics/CLI/races/shifter-efa.md)  
 
 ## Tieflings
 
@@ -419,4 +419,4 @@ Finally, the Venomous Demesne—a city-state hidden on the far side of Droaam—
 
 ## Warforged
 
-See the [Warforged](3-Mechanics/CLI/races/warforged-erlw.md) entry.
+See the [Warforged](3-Mechanics/CLI/races/warforged-efa.md) entry.

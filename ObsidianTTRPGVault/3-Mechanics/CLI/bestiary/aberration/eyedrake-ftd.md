@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Eyedrake"
 ---
-# [Eyedrake](3-Mechanics\CLI\bestiary\aberration/eyedrake-ftd.md)
+# [Eyedrake](3-Mechanics/CLI/bestiary/aberration/eyedrake-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 199*  
 
 When a beholder contends with a dragon for power and wealth, its thoughts of its dragon rival can become deeply obsessive, eventually pervading the beholder's dreams. If the rivalry lasts long enough, these fevered dreams can manifest as an eyedrake—a beholder-like creature with draconic features.
@@ -88,6 +88,6 @@ An eyedrake left to its own devices exhibits much of the stereotypical behavior 
     "name": "Eye Rays"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/eyedrake-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Eyedrake.webp"
 ```
 ^statblock

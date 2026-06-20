@@ -26,7 +26,7 @@ Feats. Draw on the power of magic, honor, or the gods with this selection of fea
 
 Subclass Option. Tie your magic to Krynn's three mystical moons with the Lunar Sorcery sorcerer subclass.
 
-![Adventuring defenders of S...](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/019-01-001-chapter-splash.webp#center "Adventuring defenders of Solamnia bring down a red dragon servant of the Dragon Queen")
+![Adventuring defenders of Solamnia bring down a red dragon servant of the Dragon Queen](file://adventure/DSotDQ/019-01-001.chapter-splash.webp#center)
 
 ## Peoples of Krynn
 
@@ -36,7 +36,7 @@ The Dragon Armies threaten all the peoples of Krynn. This section presents infor
 
 While known for their great subterranean nations, dwarves have long traded and traveled among the peoples of Krynn's surface. The Cataclysm devastated many dwarven lands and destroyed some of their greatest underground kingdoms. Others, like the nation of Kayolin, were isolated from their allies as the New Sea flooded the land. And some, like the great dwarven realm of Thorbardin, turned inward and have yet to rejoin the world.
 
-![Dwarf Adventurer from the Nation of Thorbardin](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/020-01-002-dwarf-adventurer.webp#center)
+![Dwarf Adventurer from the Nation of Thorbardin](file://adventure/DSotDQ/020-01-002.dwarf-adventurer.webp#center)
 
 #### Thorbardin and the Dwarfgate War
 
@@ -70,13 +70,13 @@ As the elves of Ansalon largely keep to themselves, half-elves are few and are r
 
 Silvanesti, the original elven kingdom, lies in southern Ansalon. For untold generations, the aloof Silvanesti elves lived in a stratified society closed to outsiders. They don't hate their cousins in Qualinesti, but they consider their ways misguided.
 
-In recent years, war has come to Silvanesti. When the Dragon Armies besieged the realm, the leader Lorac Caladon, Speaker of the Stars, ordered his people to evacuate. Lorac then attempted to defend the kingdom with an [orb of dragonkind](3-Mechanics/CLI/items/orb-of-dragonkind.md)—but the artifact's magic unexpectedly warped Silvanesti into a nightmarish land. The surviving elves of Silvanesti now find themselves a people without a homeland. Most journeyed together across the sea to Southern Ergoth, seeking refuge with the Kagonesti, while others refused to give up Silvanesti and sought to reclaim their ancestral home.
+In recent years, war has come to Silvanesti. When the Dragon Armies besieged the realm, the leader Lorac Caladon, Speaker of the Stars, ordered his people to evacuate. Lorac then attempted to defend the kingdom with an [orb of dragonkind](3-Mechanics/CLI/items/orb-of-dragonkind-xdmg.md)—but the artifact's magic unexpectedly warped Silvanesti into a nightmarish land. The surviving elves of Silvanesti now find themselves a people without a homeland. Most journeyed together across the sea to Southern Ergoth, seeking refuge with the Kagonesti, while others refused to give up Silvanesti and sought to reclaim their ancestral home.
 
 As a Silvanesti high elf, you know what few in Ansalon do: the home of the elves has fallen. During the Dragon Armies' invasion of Silvanesti, you might have been separated from your people or even taken captive before escaping the Dragon Armies in unfamiliar lands. You could have fled Silvanesti with your people but now seek a way to restore your homeland. Or perhaps you've spent your life exploring the world, cultivating relationships with people other than your kin.
 
 #### Qualinesti High Elves
 
-![In Qualinesti, a scout war...](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/021-01-003-qualinesti-scout.webp#center "In Qualinesti, a scout warns of threats encroaching on the elven city's borders")
+![In Qualinesti, a scout warns of threats encroaching on the elven city's borders](file://adventure/DSotDQ/021-01-003.qualinesti-scout.webp#center)
 
 Long ago, a group of high elves left Silvanesti, desiring a more egalitarian society. They traveled far to the west and founded a new forested homeland called Qualinesti. Less hierarchical than their progenitors and more willing to deal with outsiders, Qualinesti elves even enjoyed good relations with the dwarves of Thorbardin. Since the Cataclysm, however, they've withdrawn from the world, and few outsiders dare approach their well-guarded borders.
 
@@ -107,7 +107,7 @@ As a gnome, you might be a tinker pursuing some niche scientific endeavor, coaxe
 
 The tinker gnomes of Mount Nevermind are the best-known gnome community on Krynn. Despite living in a world steeped in magical forces, many of these rock gnomes indulge in specialized scientific pursuits and create complicated inventions.
 
-![A tinker gnome from Mount ...](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/022-01-004-tinker-gnome.webp#center "A tinker gnome from Mount Nevermind fine-tunes his latest invention")
+![A tinker gnome from Mount Nevermind fine-tunes his latest invention](file://adventure/DSotDQ/022-01-004.tinker-gnome.webp#center)
 
 ### Humans
 
@@ -133,7 +133,7 @@ Once a mighty empire, Solamnia has fallen from the glory it knew. Though Solamni
 
 After the Cataclysm, the verdant plains of southern Ansalon wasted away, becoming the Plains of Dust. Coastlines shifted, and the city of Tarsis found itself a seaport without a sea. In the dry harbor, decrepit remnants of the city's famed ships list on waves of sand. The rest of the city clings to life as a trade hub for small communities and itinerant bands across the plains. Those who dwell here have adapted their ancestors' seafaring ways to their current arid environment, becoming hunters, scavengers, and traders.
 
-![Humans from the Lands of T...](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/023-01-005-humans.webp#center "Humans from the Lands of Tarsis, Ergoth, and Abanasinia")
+![Humans from the Lands of Tarsis, Ergoth, and Abanasinia](file://adventure/DSotDQ/023-01-005.humans.webp#center)
 
 #### Other Lands
 
@@ -163,7 +163,7 @@ Most humans of Nordmaar live either in rugged coastal communities to the north o
 
 The [kender](3-Mechanics/CLI/races/kender-dsotdq.md) is a race option for player characters in Dragonlance and other D&D settings.
 
-![Kender adventurers follow ...](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/024-01-006-kender.webp#center "Kender adventurers follow their curiosity to their next adventure")
+![Kender adventurers follow their curiosity to their next adventure](file://adventure/DSotDQ/024-01-006.kender.webp#center)
 
 ### Creating Your Character
 
@@ -181,7 +181,7 @@ Your character can speak, read, and write Common and one other language that you
 
 #### Creature Type
 
-Every creature in D&D, including every player character, has a special tag in the rules that identifies the type of creature they are. Most player characters, including kender, are of the Humanoid type. Creature types don't have rules themselves, but some rules in the game affect creatures of certain types in different ways. For example, the text of the [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md) spell specifies that the spell doesn't work on a creature that has the Construct type.
+Every creature in D&D, including every player character, has a special tag in the rules that identifies the type of creature they are. Most player characters, including kender, are of the Humanoid type. Creature types don't have rules themselves, but some rules in the game affect creatures of certain types in different ways. For example, the text of the [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md) spell specifies that the spell doesn't work on a creature that has the Construct type.
 
 #### Life Span
 
@@ -213,7 +213,7 @@ Their power waning, the knights today are locked in a bitter internal feud: Is i
 
 #### The Oath and the Measure
 
-![Emblems Top to Bottom: Ord...](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/025-01-007-knights-solamnia.webp#center "Emblems Top to Bottom: Order of the Crown, Order of the Rose, and Order of the Sword")
+![Emblems Top to Bottom: Order of the Crown, Order of the Rose, and Order of the Sword](file://adventure/DSotDQ/025-01-007.knights-solamnia.webp#center)
 
 The Knights of Solamnia follow a chivalric code with two parts: the Oath and the Measure, both inspired by the writings of Vinas Solamnus. The Oath is simple and aspirational—a star to navigate by—while the Measure lays out specific rules for the organization and conduct of the knighthood.
 
@@ -303,8 +303,8 @@ Whatever background you choose for a character in a Dragonlance campaign, you ga
 
 If you select the [Knight of Solamnia](3-Mechanics/CLI/backgrounds/knight-of-solamnia-dsotdq.md) or the [Mage of High Sorcery](3-Mechanics/CLI/backgrounds/mage-of-high-sorcery-dsotdq.md) background, you gain the feat specified in that background. If the background you choose doesn't provide a feat, you gain a bonus feat of your choice from the following list (a parenthesis tells you where to find the feat):
 
-- [Skilled](3-Mechanics/CLI/feats/skilled.md) ("Player's Handbook")  
-- [Tough](3-Mechanics/CLI/feats/tough.md) ("Player's Handbook")  
+- [Skilled](3-Mechanics/CLI/feats/skilled-xphb.md) ("Player's Handbook")  
+- [Tough](3-Mechanics/CLI/feats/tough-xphb.md) ("Player's Handbook")  
 
 #### 4th-Level Bonus Feat
 
@@ -313,14 +313,14 @@ At 4th level, you gain another bonus feat of your choice from either the 1st-lev
 - [Adept of the Black Robes](3-Mechanics/CLI/feats/adept-of-the-black-robes-dsotdq.md) (this chapter)  
 - [Adept of the Red Robes](3-Mechanics/CLI/feats/adept-of-the-red-robes-dsotdq.md) (this chapter)  
 - [Adept of the White Robes](3-Mechanics/CLI/feats/adept-of-the-white-robes-dsotdq.md) (this chapter)  
-- [Alert](3-Mechanics/CLI/feats/alert.md) ("Player's Handbook")  
+- [Alert](3-Mechanics/CLI/feats/alert-xphb.md) ("Player's Handbook")  
 - [Divinely Favored](3-Mechanics/CLI/feats/divinely-favored-dsotdq.md) (this chapter)  
 - [Knight of the Crown](3-Mechanics/CLI/feats/knight-of-the-crown-dsotdq.md) (this chapter)  
 - [Knight of the Rose](3-Mechanics/CLI/feats/knight-of-the-rose-dsotdq.md) (this chapter)  
 - [Knight of the Sword](3-Mechanics/CLI/feats/knight-of-the-sword-dsotdq.md) (this chapter)  
-- [Mobile](3-Mechanics/CLI/feats/mobile.md) ("Player's Handbook")  
-- [Sentinel](3-Mechanics/CLI/feats/sentinel.md) ("Player's Handbook")  
-- [War Caster](3-Mechanics/CLI/feats/war-caster.md) ("Player's Handbook")  
+- [Mobile](3-Mechanics/CLI/feats/speedy-xphb.md) ("Player's Handbook")  
+- [Sentinel](3-Mechanics/CLI/feats/sentinel-xphb.md) ("Player's Handbook")  
+- [War Caster](3-Mechanics/CLI/feats/war-caster-xphb.md) ("Player's Handbook")  
 
 You gain this bonus feat at 4th level regardless of your background—even if you have the Knight of Solamnia or Mage of High Sorcery background. You must meet all prerequisites if the feat you choose has any.
 
@@ -340,6 +340,6 @@ This section introduces feats related to the Knights of Solamnia and the Mages o
 
 ## Sorcerer Subclass
 
-A sorcerer has the Sorcerous Origin feature, which offers you the choice of a subclass. The following option is available when making that choice: [Lunar Sorcery](3-Mechanics/CLI/classes/sorcerer-lunar-sorcery-dsotdq.md).
+A sorcerer has the Sorcerous Origin feature, which offers you the choice of a subclass. The following option is available when making that choice: Lunar Sorcery.
 
-![A human sorcerer draws on ...](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/028-01-010-human-sorcerer.webp#center "A human sorcerer draws on the magic of Krynn's moons")
+![A human sorcerer draws on the magic of Krynn's moons](file://adventure/DSotDQ/028-01-010.human-sorcerer.webp#center)

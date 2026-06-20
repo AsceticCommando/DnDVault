@@ -13,9 +13,9 @@ aliases:
 
 
 - **Skill Proficiencies.** [Deception](3-Mechanics/CLI/rules/skills.md#Deception), [Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)  
-- **Tool Proficiencies.** [Disguise kit](3-Mechanics/CLI/items/disguise-kit.md)  
+- **Tool Proficiencies.** [Disguise kit](3-Mechanics/CLI/items/disguise-kit-xphb.md)  
 - **Languages.** One of your choice  
-- **Equipment.** [Disguise kit](3-Mechanics/CLI/items/disguise-kit.md), a [costume](3-Mechanics/CLI/items/costume-clothes.md), a [pouch](3-Mechanics/CLI/items/pouch.md) containing 10 gp  
+- **Equipment.** [Disguise kit](3-Mechanics/CLI/items/disguise-kit-xphb.md), a [costume](3-Mechanics/CLI/items/costume-xphb.md), a [pouch](3-Mechanics/CLI/items/pouch-xphb.md) containing 10 gp  
 
 Being who you are, you could never be a hero. Whether due to your class, your people, your family, or your sins, something about you prevents you from effectively pursuing the path you've chosen. Even so, that doesn't stop you. You've left your old face behind, taking on a new persona, becoming something more.
 
@@ -24,6 +24,8 @@ Characters with the faceless background don a disguise—literally or otherwise�
 ## Faceless Persona
 
 A faceless character adventures behind the mask of a public persona. This persona is as natural to them as their hidden, true face, but it disguises their identity. Roll on the Faceless Persona table to determine your persona, or work with the DM to create a persona that's unique to your character and suits the tone of your game.
+
+`dice: [](faceless-bgdia.md#^faceless-persona)`
 
 | dice: d10 | Faceless Persona |
 |-----------|------------------|
@@ -47,6 +49,8 @@ Most of your fellow adventurers and the world know you as your persona. Those wh
 
 A faceless character usually plays their persona—the hero or extraordinary person they are every day. That's all a facade, though, or a part of them expressed to an extreme. To define a persona, feel free to choose characteristics from other backgrounds, particularly folk hero, hermit, or noble. For the person behind the persona, the one who truly strives to be faceless, consider a distinct set of faceless characteristics. As a result, those with this background have two sets of characteristics, one for their persona, and one for their faceless selves.
 
+`dice: [](faceless-bgdia.md#^personality-trait)`
+
 | dice: d8 | Personality Trait |
 |----------|-------------------|
 | 1 | I'm earnest and uncommonly direct. |
@@ -59,6 +63,8 @@ A faceless character usually plays their persona—the hero or extraordinary per
 | 8 | I behave like an extreme opposite of my persona. |
 ^personality-trait
 
+`dice: [](faceless-bgdia.md#^ideal)`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Justice. Place in society shouldn't determine one's access to what is right. (Good) |
@@ -69,6 +75,8 @@ A faceless character usually plays their persona—the hero or extraordinary per
 | 6 | Anonymity. It's my deeds that should be remembered, not their instrument. (Any) |
 ^ideal
 
+`dice: [](faceless-bgdia.md#^bond)`
+
 | dice: d6 | Bond |
 |----------|------|
 | 1 | I do everything for my family. My first thought is keeping them safe. |
@@ -78,6 +86,8 @@ A faceless character usually plays their persona—the hero or extraordinary per
 | 5 | I am exceptional. I do this because no one else can, and no one can stop me. |
 | 6 | I do everything for those who were taken from me. |
 ^bond
+
+`dice: [](faceless-bgdia.md#^flaw)`
 
 | dice: d6 | Flaw |
 |----------|------|

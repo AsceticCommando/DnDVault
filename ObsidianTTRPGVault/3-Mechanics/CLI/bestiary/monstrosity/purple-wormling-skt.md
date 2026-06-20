@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Purple Wormling"
 ---
-# [Purple Wormling](3-Mechanics\CLI\bestiary\monstrosity/purple-wormling-skt.md)
+# [Purple Wormling](3-Mechanics/CLI/bestiary/monstrosity/purple-wormling-skt.md)
 *Source: Storm King's Thunder p. 242*  
 
 A purple wormling is a baby purple worm no more than six weeks old. Its rubbery body is 9 feet long and weighs 1,500 pounds. Its mouth and musculature aren't yet strong enough to allow the wormling to burrow through rock. The poison in its tail stinger and the acid in its gullet are still relatively weak as well. Nevertheless, the wormling is a voracious feeder and attacks just about anything it can wrap its mouth around. A wormling's gullet can hold up to four Small creatures.
@@ -63,6 +63,6 @@ A purple wormling is a baby purple worm no more than six weeks old. Its rubbery 
     "name": "Tail Stinger"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/purple-wormling-skt.webp"
+"image": "file://bestiary/tokens/SKT/Purple%20Wormling.webp"
 ```
 ^statblock

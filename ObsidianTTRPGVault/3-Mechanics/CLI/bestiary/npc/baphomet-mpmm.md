@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Baphomet"
 ---
-# [Baphomet](3-Mechanics\CLI\bestiary\npc/baphomet-mpmm.md)
+# [Baphomet](3-Mechanics/CLI/bestiary/npc/baphomet-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 58, Mordenkainen's Tome of Foes p. 143*  
 
 Civilization is weakness and brutality is strength in the credo of Baphomet, the Horned King and the Prince of Beasts. He is worshiped by those who want to break the confines of civility and unleash their bestial natures, for Baphomet envisions a world without restraint, where creatures live out their most bloodthirsty desires.
@@ -32,7 +32,7 @@ Baphomet wields a great glaive called Heartcleaver. He also charges his enemies 
 
 ## Baphomet's Lair
 
-Baphomet's lair is his palace, the Lyktion, which is on the layer of the Abyss called the Endless Maze. Nestled within the twisting passages of the plane-wide labyrinth, the Lyktion is immaculately maintained and surrounded by a moat constructed in the fashion of a three-dimensional maze. The palace is a towering structure whose interior is as labyrinthine as the plane on which it stands; it is populated by [minotaurs](3-Mechanics/CLI/bestiary/monstrosity/minotaur.md), [goristros](3-Mechanics/CLI/bestiary/fiend/goristro.md), and [quasits](3-Mechanics/CLI/bestiary/fiend/quasit.md).
+Baphomet's lair is his palace, the Lyktion, which is on the layer of the Abyss called the Endless Maze. Nestled within the twisting passages of the plane-wide labyrinth, the Lyktion is immaculately maintained and surrounded by a moat constructed in the fashion of a three-dimensional maze. The palace is a towering structure whose interior is as labyrinthine as the plane on which it stands; it is populated by [minotaurs](3-Mechanics/CLI/bestiary/monstrosity/minotaur-of-baphomet-xmm.md), [goristros](3-Mechanics/CLI/bestiary/fiend/goristro-xmm.md), and [quasits](3-Mechanics/CLI/bestiary/fiend/quasit-xmm.md).
 
 ```statblock
 "name": "Baphomet (MPMM)"
@@ -72,7 +72,7 @@ Baphomet's lair is his palace, the Lyktion, which is on the layer of the Abyss c
 "cr": "23"
 "traits":
   - "desc": "Baphomet can perfectly recall any path he has traveled, and he is immune\
-      \ to the [maze](3-Mechanics/CLI/spells/maze.md) spell."
+      \ to the [maze](3-Mechanics/CLI/spells/maze-xphb.md) spell."
     "name": "Labyrinthine Recall"
   - "desc": "If Baphomet fails a saving throw, he can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
@@ -106,9 +106,10 @@ Baphomet's lair is his palace, the Lyktion, which is on the layer of the Abyss c
     "name": "Frightful Presence"
   - "desc": "Baphomet casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 18):\n\n**3/day\
-      \ each:** [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), [dominate\
-      \ beast](3-Mechanics/CLI/spells/dominate-beast.md), [maze](3-Mechanics/CLI/spells/maze.md),\
-      \ [wall of stone](3-Mechanics/CLI/spells/wall-of-stone.md)\n\n**1/day:** [teleport](3-Mechanics/CLI/spells/teleport.md)"
+      \ each:** [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [dominate\
+      \ beast](3-Mechanics/CLI/spells/dominate-beast-xphb.md), [maze](3-Mechanics/CLI/spells/maze-xphb.md),\
+      \ [wall of stone](3-Mechanics/CLI/spells/wall-of-stone-xphb.md)\n\n**1/day:**\
+      \ [teleport](3-Mechanics/CLI/spells/teleport-xphb.md)"
     "name": "Spellcasting"
 "lair_actions":
   - "desc": "On initiative count 20 (losing initiative ties), Baphomet can take one\
@@ -154,6 +155,6 @@ Baphomet's lair is his palace, the Lyktion, which is on the layer of the Abyss c
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/npc/token/baphomet-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Baphomet.webp"
 ```
 ^statblock

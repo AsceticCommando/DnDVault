@@ -15,7 +15,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Firenewt Warlock of Imix"
 ---
-# [Firenewt Warlock of Imix](3-Mechanics\CLI\bestiary\elemental/firenewt-warlock-of-imix-mpmm.md)
+# [Firenewt Warlock of Imix](3-Mechanics/CLI/bestiary/elemental/firenewt-warlock-of-imix-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 125, Volo's Guide to Monsters p. 143*  
 
 Firenewts who serve Imix, Prince of Evil Fire, live in militaristic theocracies that revere elemental fire in its most destructive incarnation and promote aggression and cruelty. Firenewt warlocks of Imix lead these theocracies or serve as advisors to a high priest.
@@ -43,7 +43,7 @@ Originally from the Elemental Plane of Fire, firenewts can be found on the Mater
 "speed": "30 ft."
 "damage_immunities": "fire"
 "gear":
-  - "[morningstar](3-Mechanics/CLI/items/morningstar.md)"
+  - "[morningstar](3-Mechanics/CLI/items/morningstar-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
   \ Perception 10"
 "languages": "Draconic, Ignan"
@@ -66,14 +66,14 @@ Originally from the Elemental Plane of Fire, firenewts can be found on the Mater
       \ (1d6 + 2) fire damage."
     "name": "Fire Ray"
   - "desc": "The firenewt casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 12):\n\n**At will:** [guidance](3-Mechanics/CLI/spells/guidance.md),\
-      \ [light](3-Mechanics/CLI/spells/light.md), [mage armor](3-Mechanics/CLI/spells/mage-armor.md),\
-      \ [mage hand](3-Mechanics/CLI/spells/mage-hand.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md)"
+      \ spellcasting ability (spell save DC 12):\n\n**At will:** [guidance](3-Mechanics/CLI/spells/guidance-xphb.md),\
+      \ [light](3-Mechanics/CLI/spells/light-xphb.md), [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md),\
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/elemental/token/firenewt-warlock-of-imix-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Firenewt%20Warlock%20of%20Imix.webp"
 ```
 ^statblock
 

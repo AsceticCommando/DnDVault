@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Hrigg Roundrook (9th Level)"
 ---
-# [Hrigg Roundrook (9th Level)](3-Mechanics\CLI\bestiary\npc/hrigg-roundrook-9th-level-dsotdq.md)
+# [Hrigg Roundrook (9th Level)](3-Mechanics/CLI/bestiary/npc/hrigg-roundrook-9th-level-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 211*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "dwarf"
 "alignment": "Lawful Good"
 "ac": !!int "16"
-"ac_class": "[half plate](3-Mechanics/CLI/items/half-plate-armor.md)"
+"ac_class": "[half plate](3-Mechanics/CLI/items/half-plate-armor-xphb.md)"
 "hp": !!int "55"
 "hit_dice": "10d8 + 10"
 "modifier": !!int "1"
@@ -47,20 +47,20 @@ aliases:
     "desc": "+8"
 "damage_resistances": "poison"
 "gear":
-  - "[maul](3-Mechanics/CLI/items/maul.md)"
+  - "[maul](3-Mechanics/CLI/items/maul-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 16"
 "languages": "Common, Dwarvish"
 "traits":
   - "desc": "Hrigg's spellcasting ability is Wisdom (spell save DC 16, +8 to hit with\
       \ spell attacks). He has the following cleric spells prepared:\n\n**At will:**\
-      \ [guidance](3-Mechanics/CLI/spells/guidance.md), [sacred flame](3-Mechanics/CLI/spells/sacred-flame.md),\
-      \ [spare the dying](3-Mechanics/CLI/spells/spare-the-dying.md)\n\n**1st level\
-      \ (4 slots):** [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md), [bless](3-Mechanics/CLI/spells/bless.md),\
-      \ [detect evil and good](3-Mechanics/CLI/spells/detect-evil-and-good.md)\n\n\
-      **2nd level (3 slots):** [spiritual weapon](3-Mechanics/CLI/spells/spiritual-weapon.md),\
-      \ [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration.md)\n\n**3rd\
-      \ level (2 slots):** [beacon of hope](3-Mechanics/CLI/spells/beacon-of-hope.md)"
+      \ [guidance](3-Mechanics/CLI/spells/guidance-xphb.md), [sacred flame](3-Mechanics/CLI/spells/sacred-flame-xphb.md),\
+      \ [spare the dying](3-Mechanics/CLI/spells/spare-the-dying-xphb.md)\n\n**1st\
+      \ level (4 slots):** [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md),\
+      \ [bless](3-Mechanics/CLI/spells/bless-xphb.md), [detect evil and good](3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md)\n\
+      \n**2nd level (3 slots):** [spiritual weapon](3-Mechanics/CLI/spells/spiritual-weapon-xphb.md),\
+      \ [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md)\n\n\
+      **3rd level (2 slots):** [beacon of hope](3-Mechanics/CLI/spells/beacon-of-hope-xphb.md)"
     "name": "Spellcasting"
   - "desc": "Hrigg is proficient with simple and martial weapons and light and medium\
       \ armor."

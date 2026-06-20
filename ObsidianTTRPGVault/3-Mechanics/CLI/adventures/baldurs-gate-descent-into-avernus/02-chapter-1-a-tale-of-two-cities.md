@@ -10,7 +10,7 @@ aliases:
 # Chapter 1: A Tale of Two Cities
 *Source: Baldur's Gate: Descent Into Avernus, p. 10* 
 
-![](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/002-dbn8x-01-01.webp#center)
+![](file://adventure/BGDIA/002-dbn8x-01-01.webp#center)
 
 Baldur's Gate began as a harbor town where traders would meet with "ghost lighters"—folk along the Sword Coast who used lights to lure fogbound ships to shore. When those ships ran aground, the ghost lighters would scavenge the wrecks and haul their plundered goods to Baldur's Gate, nestled on the north shore of a bend in the River Chionthar, and sell their booty. In the years since, Baldur's Gate has grown into a walled city. Today, its foggy streets run red with the blood of unfortunates who fall prey to evil opportunists, many of whom count themselves as nobles, traders, pirates, and assassins. An army of mercenary soldiers called the Flaming Fist keeps order in the city, and these soldiers answer to Grand Duke [Ulder Ravengard](3-Mechanics/CLI/bestiary/npc/ulder-ravengard-bgdia.md). The members of the Flaming Fist don't care about justice; they crave power and coin, nothing else. But despite the Fist's reputation for cruelty, the Grand Duke is widely regarded as an honorable and reasonable man.
 
@@ -28,7 +28,7 @@ Among those fleeing Elturgard are several Hellriders—paladins who have sworn o
 
 ## Evil in Baldur's Gate
 
-![Diagram 1.1: Chapter 1 Flowchart](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/003-krifv-flowchart-1-1.webp#center)
+![Diagram 1.1: Chapter 1 Flowchart](file://adventure/BGDIA/003-krifv-flowchart-1-1.webp#center)
 
 Without [Ulder Ravengard](3-Mechanics/CLI/bestiary/npc/ulder-ravengard-bgdia.md) to stay their hand, Flaming Fist captains are brutally exercising their autonomy under the veneer of maintaining order. They've closed the outer gates to keep Baldur's Gate safe from the refugee "threat," effectively trapping Baldurians behind their own walls. With the Flaming Fist distracted by the refugee crisis, city folk are being hunted and murdered in the streets by cultists of the Dead Three—the evil gods Bane, Bhaal, and Myrkul. Without the Flaming Fist to curtail them, these cultists have grown bold and now move freely within the city, their activities financed and supported in secret by [Duke Thalamra Vanthampur](3-Mechanics/CLI/bestiary/npc/duke-thalamra-vanthampur-bgdia.md).
 
@@ -57,21 +57,21 @@ Read or paraphrase the following boxed text to your players to begin the adventu
 > Dozens of Flaming Fist soldiers are trying to control an angry mob of commoners eager to leave the city. Armed with only a vague description of Captain Zodge—a tall man with long black hair and a leather eye patch—it takes you a while to find him. A fight breaks out between soldiers and commoners, and you finally spot the one-eyed captain as he wades into the fray and begins throwing punches. Just another day in the City of Blood.
 ^019
 
-An influx of Elturgardian refugees coupled with uncertainty regarding the fate of Grand Duke [Ulder Ravengard](3-Mechanics/CLI/bestiary/npc/ulder-ravengard-bgdia.md) has convinced Captain Darmin Zodge, a lawful evil human [veteran](3-Mechanics/CLI/bestiary/humanoid/veteran.md), to prove himself worthy of leading the Flaming Fist—lest some rival seize the opportunity in the days ahead. Zodge also knows that Liara Portyr, who commands the Flaming Fist stronghold of Fort Beluarian in Chult, has been recalled to Baldur's Gate by her uncle, Duke Dillard Portyr. Zodge hopes to impress Commander Portyr with his ability to maintain the peace in Baldur's Gate until her arrival.
+An influx of Elturgardian refugees coupled with uncertainty regarding the fate of Grand Duke [Ulder Ravengard](3-Mechanics/CLI/bestiary/npc/ulder-ravengard-bgdia.md) has convinced Captain Darmin Zodge, a lawful evil human [veteran](3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md), to prove himself worthy of leading the Flaming Fist—lest some rival seize the opportunity in the days ahead. Zodge also knows that Liara Portyr, who commands the Flaming Fist stronghold of Fort Beluarian in Chult, has been recalled to Baldur's Gate by her uncle, Duke Dillard Portyr. Zodge hopes to impress Commander Portyr with his ability to maintain the peace in Baldur's Gate until her arrival.
 
-![Flaming Fist Coat of Arms](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/004-sbxtc-01-02.webp#center)
+![Flaming Fist Coat of Arms](file://adventure/BGDIA/004-sbxtc-01-02.webp#center)
 
 Although Zodge lacks common decency, he cares for the well-being of the soldiers who serve under his command. Angry mobs can be dangerous, and Zodge is quick to take out the instigators so that the mob's anger turns to fear quickly. No one is arrested during the fracas the characters observe, but several commoners are beaten and robbed of their money pouches after a brief skirmish with Zodge and his soldiers. Express to the players that their characters would not be surprised by Zodge's handling of the situation. Flaming Fist captains have tremendous latitude when it comes to keeping the peace in Baldur's Gate, especially in the Lower City.
 
 It's widely known that the best way to deal with Flaming Fist soldiers is to bribe them. Those who can afford to pay a bribe of 10 gp or more (instead of the usual gate fee of 2 cp) are allowed passage through a gate after a bit of haggling.
 
 > [!gallery]
-> ![Map 1.1: Baldur's Gate](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/005-0pnlf-map-1-1-dm.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/006-q2wdo-map-1-1-player.webp#gallery)
+> ![Map 1.1: Baldur's Gate](file://adventure/BGDIA/005-0pnlf-map-1-1-dm.webp#gallery)
+> ![Player Version](file://adventure/BGDIA/006-q2wdo-map-1-1-player.webp#gallery)
 
 ### Meeting Captain Zodge
 
-Captain Zodge is expecting the characters. If they choose not to speak with him, he tracks them down eventually. The Flaming Fist has contacts throughout the city, so hiding from Zodge is difficult unless the characters know someone who can shelter them. Zodge keeps six Flaming Fist soldiers (human [veterans](3-Mechanics/CLI/bestiary/humanoid/veteran.md)) near him at all times. Their names are Issio, Minaqua, Nelestree, Oliver, Soltus, and Thalkara.
+Captain Zodge is expecting the characters. If they choose not to speak with him, he tracks them down eventually. The Flaming Fist has contacts throughout the city, so hiding from Zodge is difficult unless the characters know someone who can shelter them. Zodge keeps six Flaming Fist soldiers (human [veterans](3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md)) near him at all times. Their names are Issio, Minaqua, Nelestree, Oliver, Soltus, and Thalkara.
 
 When he's not flexing his military muscle or taking bribes, Captain Zodge presents himself as a forthright, level-headed man who treats others with the respect he demands in return. When the characters are ready to hear what he has to say, read the following boxed text aloud to the players:
 
@@ -97,13 +97,13 @@ Read the following boxed text aloud when the characters are ready to hear more:
 
 When a tenday passes without any reports of attacks by followers of the Dead Three, Zodge secures the funds to pay the characters, upholding his end of the agreement. He collects their badges before paying them.
 
-![When the fog clears, Baldu...](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/007-jnifm-01-03.webp#center "When the fog clears, Baldur's Gate shines on the shores of the Chionthar River")
+![When the fog clears, Baldur's Gate shines on the shores of the Chionthar River](file://adventure/BGDIA/007-jnifm-01-03.webp#center)
 
 ## Elfsong Tavern
 
 The characters can either visit Elfsong Tavern in accordance with Captain Zodge's wishes or do whatever else they please. Their goals at the tavern are to make contact with a spy named Tarina and find out what she knows about the Dead Three.
 
-Zodge has spies who keep him informed on the characters' progress. If the characters don't visit Elfsong Tavern within forty-eight hours of receiving their orders, Zodge sends a squad of six Flaming Fist [veterans](3-Mechanics/CLI/bestiary/humanoid/veteran.md) and one [flameskull](3-Mechanics/CLI/bestiary/undead/flameskull.md) to escort the characters to the tavern, kill anyone who refuses to go, and report back to him. If the characters destroy or escape this squad, Zodge mobilizes two more squads to hunt them down.
+Zodge has spies who keep him informed on the characters' progress. If the characters don't visit Elfsong Tavern within forty-eight hours of receiving their orders, Zodge sends a squad of six Flaming Fist [veterans](3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) and one [flameskull](3-Mechanics/CLI/bestiary/undead/flameskull-xmm.md) to escort the characters to the tavern, kill anyone who refuses to go, and report back to him. If the characters destroy or escape this squad, Zodge mobilizes two more squads to hunt them down.
 
 ### About the Tavern
 
@@ -111,7 +111,7 @@ Elfsong Tavern's location is marked on map 1.1, while map 1.2 shows its interior
 
 From time to time, the disembodied voice of a female elf fills the tavern with a melancholy song, giving the establishment its name. The ballad isn't loud enough to disrupt conversation, but most patrons stop speaking when the elfsong begins, then resume only after it ends. Many customers frequent the tavern in the hopes of hearing it. Those who speak Elvish can understand the lyrics, which lament an unnamed lover lost at sea. No one is sure how the spirit came to haunt the tavern, just as no one can predict when it will sing again.
 
-Alan Alyth, the tavern's current owner and proprietor, is a neutral half-elf [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md) with [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 60 feet. Alan recently turned seventy-five years old and has run the establishment for decades. His elven blood through his half-elf mother has kept him alive this long, and keeps him looking better than most full-blooded humans his age. He runs a moneylending business on the side, offering loans to customers he trusts. He rarely gives loans to adventurers, knowing how flighty they can be, but he might offer them a free glass of Elverquisst wine if he thinks it'll keep their swords sheathed (see the "Taverns in Baldur's Gate" sidebar).
+Alan Alyth, the tavern's current owner and proprietor, is a neutral half-elf [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) with [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 60 feet. Alan recently turned seventy-five years old and has run the establishment for decades. His elven blood through his half-elf mother has kept him alive this long, and keeps him looking better than most full-blooded humans his age. He runs a moneylending business on the side, offering loans to customers he trusts. He rarely gives loans to adventurers, knowing how flighty they can be, but he might offer them a free glass of Elverquisst wine if he thinks it'll keep their swords sheathed (see the "Taverns in Baldur's Gate" sidebar).
 
 > [!note] Taverns in Baldur's Gate
 > 
@@ -129,18 +129,18 @@ Alan Alyth, the tavern's current owner and proprietor, is a neutral half-elf [co
 
 If the characters come to Elfsong Tavern in search of Captain Zodge's contact, Tarina, they find her playing cards upstairs in area E7. Among the dozens of other patrons, they notice a few rats scurrying around as well as the following noteworthy NPCs, who play no part in the adventure but can be brought into the story as you see fit:
 
-- Skrawldar Fane (neutral human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md)), a punch-drunk shipwright with no eyebrows  
-- Lala Stout (neutral evil lightfoot halfling [spy](3-Mechanics/CLI/bestiary/humanoid/spy.md)), a scar-faced burglar flipping a coin  
-- Oloric Witmirth (neutral good human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md)), an impoverished playwright who scribbles his private thoughts and observations in a small book  
-- Whaul Nightley (neutral half-orc [thug](3-Mechanics/CLI/bestiary/humanoid/thug.md) with [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 60 feet), a jovial, strong-jawed rat-catcher with a bellowing laugh  
-- Rahima Sajiressa (lawful neutral human [acolyte](3-Mechanics/CLI/bestiary/humanoid/acolyte.md) of Savras, god of divination and fate), a gregarious astrologer who loves to gamble  
-- Willow Brownbug (neutral good strongheart halfling [druid](3-Mechanics/CLI/bestiary/humanoid/druid.md)), a snooty apothecary wearing a colorful cape  
+- Skrawldar Fane (neutral human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), a punch-drunk shipwright with no eyebrows  
+- Lala Stout (neutral evil lightfoot halfling [spy](3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md)), a scar-faced burglar flipping a coin  
+- Oloric Witmirth (neutral good human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), an impoverished playwright who scribbles his private thoughts and observations in a small book  
+- Whaul Nightley (neutral half-orc [thug](3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md) with [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 60 feet), a jovial, strong-jawed rat-catcher with a bellowing laugh  
+- Rahima Sajiressa (lawful neutral human [acolyte](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) of Savras, god of divination and fate), a gregarious astrologer who loves to gamble  
+- Willow Brownbug (neutral good strongheart halfling [druid](3-Mechanics/CLI/bestiary/humanoid/druid-xmm.md)), a snooty apothecary wearing a colorful cape  
 
 If the characters need help finding Tarina, a tavern regular, they are directed to the second floor (see "Dealing with Tarina").
 
 > [!gallery]
-> ![Map 1.2: Elfsong Tavern](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/008-awf96-map-1-2-dm.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/009-hc2oz-map-1-2-player.webp#gallery)
+> ![Map 1.2: Elfsong Tavern](file://adventure/BGDIA/008-awf96-map-1-2-dm.webp#gallery)
+> ![Player Version](file://adventure/BGDIA/009-hc2oz-map-1-2-player.webp#gallery)
 
 ### Tavern Locations
 
@@ -148,9 +148,9 @@ The following area descriptions are keyed to map 1.2.
 
 #### E1. Taproom
 
-Alan Alyth tends bar while two young men (human [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner.md)) named Falten and Yimiur take orders, deliver drinks and food to tables, and joke with the clientele. Flanking the entrance are two bouncers: a suit of [animated armor](3-Mechanics/CLI/bestiary/construct/animated-armor.md) called Klank and a gruff female [half-ogre](3-Mechanics/CLI/bestiary/giant/half-ogre-ogrillon.md) named Skoona. Both are here to protect the other staff members, not the patrons, and won't break up a fight unless a staff member is involved.
+Alan Alyth tends bar while two young men (human [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) named Falten and Yimiur take orders, deliver drinks and food to tables, and joke with the clientele. Flanking the entrance are two bouncers: a suit of [animated armor](3-Mechanics/CLI/bestiary/construct/animated-armor-xmm.md) called Klank and a gruff female [half-ogre](3-Mechanics/CLI/bestiary/giant/ogrillon-ogre-xmm.md) named Skoona. Both are here to protect the other staff members, not the patrons, and won't break up a fight unless a staff member is involved.
 
-Well-armed patrons ([commoners](3-Mechanics/CLI/bestiary/humanoid/commoner.md) and [thugs](3-Mechanics/CLI/bestiary/humanoid/thug.md) mostly) huddle around tables in the main room and in private booths. Three padded chairs are angled toward a fireplace on the east wall, underneath the creaky wooden staircase that climbs to the second floor. Some drunk is usually passed out on the couch against the north wall. Next to the couch sits a wooden sea chest that contains an assortment of games (Dragonchess boards, well-used decks of Three-Dragon Ante cards, and so on).
+Well-armed patrons ([commoners](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) and [thugs](3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md) mostly) huddle around tables in the main room and in private booths. Three padded chairs are angled toward a fireplace on the east wall, underneath the creaky wooden staircase that climbs to the second floor. Some drunk is usually passed out on the couch against the north wall. Next to the couch sits a wooden sea chest that contains an assortment of games (Dragonchess boards, well-used decks of Three-Dragon Ante cards, and so on).
 
 #### E2. Lounge
 
@@ -170,7 +170,7 @@ This room contains crates of foodstuffs and spices, in addition to cleaning rags
 
 #### E6. Kitchen
 
-Alan Alyth employs three cooks ([commoners](3-Mechanics/CLI/bestiary/humanoid/commoner.md)) to prepare meals: a cheery strongheart halfling executive chef named Chenna Fatrabbit, a testy human sous chef named Azar Valsheem, and a blind human pastry chef named Klav Martilmur. They work from highsun to midnight. Their specialties are fish cakes, crab cakes, a thick cheese-and-potato soup, and loaf pudding soaked in syrup and decorated with lightly salted almonds.
+Alan Alyth employs three cooks ([commoners](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) to prepare meals: a cheery strongheart halfling executive chef named Chenna Fatrabbit, a testy human sous chef named Azar Valsheem, and a blind human pastry chef named Klav Martilmur. They work from highsun to midnight. Their specialties are fish cakes, crab cakes, a thick cheese-and-potato soup, and loaf pudding soaked in syrup and decorated with lightly salted almonds.
 
 #### E7. Upstairs Dining Room
 
@@ -184,7 +184,7 @@ This room is called the Umber Hulk Room after the mounted head of an umber hulk 
 
 #### E9. Fancy Guest Suite
 
-This room is currently unoccupied, and its door is locked. In addition to a key he loans to guests, Alan has a master key that unlocks the door. Picking the lock requires [thieves' tools](3-Mechanics/CLI/items/thieves-tools.md) and a successful DC 10 Dexterity check.
+This room is currently unoccupied, and its door is locked. In addition to a key he loans to guests, Alan has a master key that unlocks the door. Picking the lock requires [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md) and a successful DC 10 Dexterity check.
 
 The richly appointed room contains velvet curtains, framed paintings of ships, a canopied bed, a night table, a sea chest, and a wardrobe. The door to the west opens up to a private dining room.
 
@@ -194,9 +194,9 @@ The mounted head of a displacer beast hangs on the east wall near a small armoir
 
 #### E11. Large Guest Room
 
-This room contains an unusual guest: a [sahuagin priestess](3-Mechanics/CLI/bestiary/humanoid/sahuagin-priestess.md) named Oshalla. She wears a cloak made from fishing nets, and speaks Common and Sahuagin. She was exiled from the depths for plotting a coup against her king.
+This room contains an unusual guest: a [sahuagin priestess](3-Mechanics/CLI/bestiary/fiend/sahuagin-priest-xmm.md) named Oshalla. She wears a cloak made from fishing nets, and speaks Common and Sahuagin. She was exiled from the depths for plotting a coup against her king.
 
-Oshalla keeps to herself and has her meals brought to her three times per day. The door to her room is locked, and she wears the key on a cord around her neck. Alan has a master key that also unlocks the door. Picking the lock requires [thieves' tools](3-Mechanics/CLI/items/thieves-tools.md) and a successful DC 10 Dexterity check.
+Oshalla keeps to herself and has her meals brought to her three times per day. The door to her room is locked, and she wears the key on a cord around her neck. Alan has a master key that also unlocks the door. Picking the lock requires [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md) and a successful DC 10 Dexterity check.
 
 In addition to a bed, night table, and chest, this room contains a desk, a chair, several paintings of coastal and underwater scenes, a portable bathtub, and a ten-foot-long, eight-foot tall bookcase that holds Oshalla's collection of trinkets collected from the ocean (shells, barnacle-covered skulls, and the like). Oshalla doesn't allow the tavern staff to clean her room or refresh the water in the tub, so both are filthy.
 
@@ -206,15 +206,15 @@ Characters who search the desk drawer find a sharkskin pouch containing 66 gp an
 
 #### E12. Plain Guest Rooms
 
-The doors to these two rooms are locked. In addition to keys he loans to guests, Alan has a master key that unlocks both doors. Picking either lock requires [thieves' tools](3-Mechanics/CLI/items/thieves-tools.md) and a successful DC 10 Dexterity check.
+The doors to these two rooms are locked. In addition to keys he loans to guests, Alan has a master key that unlocks both doors. Picking either lock requires [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md) and a successful DC 10 Dexterity check.
 
 Each room contains a cozy bed, an empty wooden chest, and curtains on the window.
 
 #### E13. Alan's Bedroom
 
-Alan carries a master key that unlocks the door to his private bedroom. Picking the lock requires [thieves' tools](3-Mechanics/CLI/items/thieves-tools.md) and a successful DC 15 Dexterity check.
+Alan carries a master key that unlocks the door to his private bedroom. Picking the lock requires [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md) and a successful DC 15 Dexterity check.
 
-Alan's room contains a bed with an ornate iron frame, a claw-footed chest, a night table, and a wardrobe. Splayed out on the floor in front of the wardrobe is a [rug of smothering](3-Mechanics/CLI/bestiary/construct/rug-of-smothering.md) that attacks anyone other than Alan who steps on it or opens the chest.
+Alan's room contains a bed with an ornate iron frame, a claw-footed chest, a night table, and a wardrobe. Splayed out on the floor in front of the wardrobe is a [rug of smothering](3-Mechanics/CLI/bestiary/construct/animated-rug-of-smothering-xmm.md) that attacks anyone other than Alan who steps on it or opens the chest.
 
 ##### Treasure
 
@@ -222,7 +222,7 @@ The chest's interior is divided into three equal-sized compartments containing 9
 
 ### Dealing with Tarina
 
-Tarina is a chaotic evil human [bandit](3-Mechanics/CLI/bestiary/humanoid/bandit.md) with a conniving mind. She plays regular games of Baldur's Bones (see the "Taverns in Baldur's Gate" sidebar) with a coterie of local dimwits at a table in area E7. Her fellow gamblers don't realize she cheats.
+Tarina is a chaotic evil human [bandit](3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) with a conniving mind. She plays regular games of Baldur's Bones (see the "Taverns in Baldur's Gate" sidebar) with a coterie of local dimwits at a table in area E7. Her fellow gamblers don't realize she cheats.
 
 "Tarina" is not a real name, of course. Before retiring to Baldur's Gate, Tarina was a pirate known as Rhonda Thunderbell (also not her real name). After serving Captain Murosko Sessprin of the *Uncivil Serpent* faithfully for months, she stole loot from her fellow pirates and fled before they could stop her. Most of that loot has been spent in recent years, though Tarina has enough squirreled away to ensure she never goes hungry. She's also in good standing with Nine-Fingers, guildmaster of the local thieves' guild, who gives her occasional work.
 
@@ -305,7 +305,7 @@ Characters who wait for Tarina's pirate friends find their patience rewarded in 
 > "We're looking for an old friend of ours," says the dead-eyed man. He sniffs the air. "Goes by the name 'Tarina,' or so I'm told. Loves to cheat at Baldur's Bones."
 ^036
 
-Captain Murosko Sessprin was killed during a mutiny six months ago, leaving his ship—the *Uncivil Serpent*—under the command of Sessprin's treacherous first mate, a scoundrel named Lekard "Dead-Eye" Cadavrus. Dead-Eye is a neutral evil [bandit captain](3-Mechanics/CLI/bestiary/humanoid/bandit-captain.md) whose cataract-clouded right eye inspires his nickname. He doesn't like to bathe, and his breath smells like rotting fish. He's joined by a gang of seven [bandits](3-Mechanics/CLI/bestiary/humanoid/bandit.md) who share his evil disposition.
+Captain Murosko Sessprin was killed during a mutiny six months ago, leaving his ship—the *Uncivil Serpent*—under the command of Sessprin's treacherous first mate, a scoundrel named Lekard "Dead-Eye" Cadavrus. Dead-Eye is a neutral evil [bandit captain](3-Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm.md) whose cataract-clouded right eye inspires his nickname. He doesn't like to bathe, and his breath smells like rotting fish. He's joined by a gang of seven [bandits](3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) who share his evil disposition.
 
 Dead-Eye offers a tall glass of ale to anyone with information on Tarina's location, and several tavern patrons are quick to accept the offer. Characters can confront the pirates if they wish, but Dead-Eye won't let them stand between him and his revenge. Two pirates watch the exit to make sure Tarina can't escape while the others attack anyone who gets in Dead-Eye's way.
 
@@ -315,11 +315,11 @@ The characters can try to bribe Dead-Eye into leaving the Elfsong Tavern without
 
 #### Treasure
 
-Tucked in Dead-Eye's vest is a pouch containing 32 gp and 15 sp. He also wears two gold necklaces (25 gp each) and a blackened gold ring with a white pearl set in it (125 gp). Each of the other pirates carries a pouch containing `1d6` sp.
+Tucked in Dead-Eye's vest is a pouch containing 32 gp and 15 sp. He also wears two gold necklaces (25 gp each) and a blackened gold ring with a white pearl set in it (125 gp). Each of the other pirates carries a pouch containing `dice:1d6|noform|noparens|avg` (`1d6`) sp.
 
-Dead-Eye's ship, the *Uncivil Serpent*, is moored at the end of a dock on the east side of the harbor. Eleven [bandits](3-Mechanics/CLI/bestiary/humanoid/bandit.md) guard it, and no treasure is kept aboard. If the characters dispose of all the pirates, the ship is theirs for the taking, though it requires a crew of twenty to sail, and half or more of the crew must have proficiency with water vehicles.
+Dead-Eye's ship, the *Uncivil Serpent*, is moored at the end of a dock on the east side of the harbor. Eleven [bandits](3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) guard it, and no treasure is kept aboard. If the characters dispose of all the pirates, the ship is theirs for the taking, though it requires a crew of twenty to sail, and half or more of the crew must have proficiency with water vehicles.
 
-The *Uncivil Serpent* has the statistics of a sailing ship (see [chapter 5](3-Mechanics/CLI/tables/owning-a-ship-airborne-and-waterborne-vehicles.md) of the "Dungeon Master's Guide"). If you need a deck plan, use the ship map in "appendix C" of the "Dungeon Master's Guide". Although the ship is worth 10,000 gp intact, no one in Baldur's Gate wants to buy it because of its infamous reputation.
+The *Uncivil Serpent* has the statistics of a [sailing ship](3-Mechanics/CLI/vehicles/sailing-ship.md) (see [chapter 5](3-Mechanics/CLI/tables/owning-a-ship-airborne-and-waterborne-vehicles.md) of the "Dungeon Master's Guide"). If you need a deck plan, use the ship map in "appendix C" of the "Dungeon Master's Guide". Although the ship is worth 10,000 gp intact, no one in Baldur's Gate wants to buy it because of its infamous reputation.
 
 ### What Tarina Knows
 
@@ -330,7 +330,7 @@ Once her pirate friends are dealt with, Tarina shares the following information 
 > "Several blocks northwest of here is a public bathhouse with a walled garden and frolicking nymphs carved into its front gates. Followers of the Dead Three have been seen coming and going from the bathhouse, and I'm told there's a secret door inside that leads to a dungeon. That's where the killers are hiding."
 ^039
 
-If Tarina is killed, the characters can deliver her body to Captain Zodge, who makes arrangements with a priest to cast [speak with dead](3-Mechanics/CLI/spells/speak-with-dead.md) on the corpse. Once the corpse reveals what it knows, Zodge gives that information to the characters.
+If Tarina is killed, the characters can deliver her body to Captain Zodge, who makes arrangements with a priest to cast [speak with dead](3-Mechanics/CLI/spells/speak-with-dead-xphb.md) on the corpse. Once the corpse reveals what it knows, Zodge gives that information to the characters.
 
 With the knowledge provided by Tarina or her corpse, the characters can head to the bathhouse and search for the dungeon hidden below it. Make sure the characters advance to 2nd level before continuing the adventure. When the characters arrive at the bathhouse, proceed with the "Dungeon of the Dead Three" section.
 
@@ -364,11 +364,11 @@ Describe this location to the players as follows:
 > This L-shaped courtyard features a trimmed lawn and nicely manicured shrubbery. The yard is decorated with white marble benches and stone fountains, each in the form of a smiling nymph tipping a jug that spills water into a circular stone basin.
 ^03f
 
-An [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) [imp](3-Mechanics/CLI/bestiary/fiend/imp.md) is perched on the southeast fountain. If the characters look as though they intend to cause trouble, the imp observes them quietly until they enter the bathhouse, then flies to Vanthampur Villa in the Upper City to alert [Thurstwell Vanthampur](3-Mechanics/CLI/bestiary/npc/thurstwell-vanthampur-bgdia.md), the oldest of [Duke Thalamra Vanthampur's](3-Mechanics/CLI/bestiary/npc/duke-thalamra-vanthampur-bgdia.md) sons. Thurstwell instructs the imp to return to its post but takes no further action, hoping that the characters dispose of his brother, Mortlock.
+An [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) [imp](3-Mechanics/CLI/bestiary/fiend/imp-xmm.md) is perched on the southeast fountain. If the characters look as though they intend to cause trouble, the imp observes them quietly until they enter the bathhouse, then flies to Vanthampur Villa in the Upper City to alert [Thurstwell Vanthampur](3-Mechanics/CLI/bestiary/npc/thurstwell-vanthampur-bgdia.md), the oldest of [Duke Thalamra Vanthampur's](3-Mechanics/CLI/bestiary/npc/duke-thalamra-vanthampur-bgdia.md) sons. Thurstwell instructs the imp to return to its post but takes no further action, hoping that the characters dispose of his brother, Mortlock.
 
 #### D2. Baths
 
-From dawn to midnight, characters can expect to find `1d6` human [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner.md) bathing here at any given time. From midnight to dawn, three female human [night blades](3-Mechanics/CLI/bestiary/humanoid/night-blade-bgdia.md) stand guard near the pools and attack trespassers on sight. If a fight breaks out here, the [necromite of Myrkul](3-Mechanics/CLI/bestiary/humanoid/necromite-of-myrkul-bgdia.md) in area D4 joins the fray in the second round of combat.
+From dawn to midnight, characters can expect to find `dice:1d6|noform|noparens|avg` (`1d6`) human [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) bathing here at any given time. From midnight to dawn, three female human [night blades](3-Mechanics/CLI/bestiary/humanoid/night-blade-bgdia.md) stand guard near the pools and attack trespassers on sight. If a fight breaks out here, the [necromite of Myrkul](3-Mechanics/CLI/bestiary/humanoid/necromite-of-myrkul-bgdia.md) in area D4 joins the fray in the second round of combat.
 
 Describe this location to the players as follows:
 
@@ -383,19 +383,19 @@ The faucets draw warm and cold water from pipes that run underneath the floor. A
 
 This room contains a massage table draped in clean towels. Bottles of perfume stored under the table are used to scent the pools in area D2. Natural light enters through a stained-glass window set into the south wall.
 
-During the hours in which the bathhouse is open, an androgynous human masseuse (neutral good [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md)) named Jabaz works here. Jabaz knows that the bathhouse is owned by [Duke Thalamra Vanthampur](3-Mechanics/CLI/bestiary/npc/duke-thalamra-vanthampur-bgdia.md) and run by her brutish son, Mortlock.
+During the hours in which the bathhouse is open, an androgynous human masseuse (neutral good [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) named Jabaz works here. Jabaz knows that the bathhouse is owned by [Duke Thalamra Vanthampur](3-Mechanics/CLI/bestiary/npc/duke-thalamra-vanthampur-bgdia.md) and run by her brutish son, Mortlock.
 
 Mortlock has given Jabaz strict orders not to hang around the bathhouse after hours. Jabaz suspects that Mortlock is running some sort of shady business on the side, and that he's using the establishment as a front to conceal his dark dealings without the duke's knowledge. Jabaz knows the location of the secret door in area D4 but won't volunteer that information, fearing Mortlock's retaliation. Jabaz doesn't know what lies beyond the secret door.
 
 #### D4. North Massage Room
 
-From midnight to dawn, a male human [necromite of Myrkul](3-Mechanics/CLI/bestiary/humanoid/necromite-of-myrkul-bgdia.md) guards this room unless he's drawn to area D2 by sounds of battle there. During the hours in which the bathhouse is open, a female human masseuse (neutral good [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md)) named Qurmilah works here. She knows the same information as Jabaz in area D3 and behaves similarly.
+From midnight to dawn, a male human [necromite of Myrkul](3-Mechanics/CLI/bestiary/humanoid/necromite-of-myrkul-bgdia.md) guards this room unless he's drawn to area D2 by sounds of battle there. During the hours in which the bathhouse is open, a female human masseuse (neutral good [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) named Qurmilah works here. She knows the same information as Jabaz in area D3 and behaves similarly.
 
 This room is furnished in the same fashion as area D3, with the additional feature of a secret door in the north wall. A character who searches the north wall and succeeds on a DC 10 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check finds the secret door, which swings inward when pushed. A foul, sewer-like stench greets anyone who opens the secret door. Behind the door, a staircase descends 20 feet to area D5, featuring smooth stone steps and brick walls. Two sputtering torches in wall sconces illuminate the staircase, but the dungeon below is dark.
 
 > [!gallery]
-> ![Map 1.3: Dungeon of the Dead Three](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/010-scp8p-map-1-3-dm.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/011-6opzj-map-1-3.webp#gallery)
+> ![Map 1.3: Dungeon of the Dead Three](file://adventure/BGDIA/010-scp8p-map-1-3-dm.webp#gallery)
+> ![Player Version](file://adventure/BGDIA/011-6opzj-map-1-3.webp#gallery)
 
 #### D5. Welcome to the Dungeon
 
@@ -408,7 +408,7 @@ The chamber at the bottom of the staircase is empty, unlit, and flooded with fou
 The Dungeon of the Dead Three has the following recurring features:
 
 - The dungeon's rooms, corridors, and staircases are hewn from limestone and unlit unless the text states otherwise. (Followers of the Dead Three carry torches or rely on [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) to see in the dungeon.)  
-- The 5-foot-wide corridors throughout the dungeon have 8-foot-high ceilings. Rooms have 9-foot-high ceilings, often braced with wooden beams. Each beam is a Large object with AC 15, 10 hit points, and immunity to poison and psychic damage. Destroying all the beams in an area has a 25 percent chance of triggering a roof collapse. Each creature under the collapsing roof must succeed on a DC 15 Dexterity saving throw, taking 22 (`4d10`) bludgeoning damage on a failed save, or half as much damage on a successful one. The area remains open but is difficult terrain thereafter.  
+- The 5-foot-wide corridors throughout the dungeon have 8-foot-high ceilings. Rooms have 9-foot-high ceilings, often braced with wooden beams. Each beam is a Large object with AC 15, 10 hit points, and immunity to poison and psychic damage. Destroying all the beams in an area has a 25 percent chance of triggering a roof collapse. Each creature under the collapsing roof must succeed on a DC 15 Dexterity saving throw, taking `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) bludgeoning damage on a failed save, or half as much damage on a successful one. The area remains open but is difficult terrain thereafter.  
 - Regular doors are made of soft, rotting wood. Each door is a Medium object with AC 15, 5 hit points, and immunity to poison and psychic damage. Secret doors are carved to look like the surrounding limestone walls and require a successful DC 10 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check to locate. Once located, a secret door pushes open easily.  
 - Certain areas of the dungeon (as shown on map 1.3) are flooded with murky water to a depth of 2 feet to make them difficult terrain. The water seeps into the dungeon from nearby sewers through cracks in the limestone. It carries a foul stench and is undrinkable.  
 
@@ -427,11 +427,11 @@ Describe this location to the players as follows:
 
 The steel skull mask represents the visage of Bhaal and has no magical properties.
 
-The humanoid entrails were left on the altar as an offering to the god of murder. Pouring a vial of holy water on the entrails causes them to melt away and also causes the altar to smolder.
+The humanoid entrails were left on the altar as an offering to the god of murder. Pouring a [vial of holy water](3-Mechanics/CLI/items/holy-water-xphb.md) on the entrails causes them to melt away and also causes the altar to smolder.
 
 #### D8. Moldy Tapestry
 
-The back wall of this dry alcove is hung with a 5-foot-wide, 7-foot-tall tapestry. It depicts a grisly scene of four faceless figures ripping apart a fifth figure, who is screaming. Characters who inspect the tapestry without touching it notice yellow mold growing around its edges. In fact, a 5-foot-square patch of [yellow mold](3-Mechanics/CLI/traps-hazards/yellow-mold.md) (see [chapter 5 of the Dungeon Master's Guide](3-Mechanics/CLI/traps-hazards/yellow-mold.md)) clings to the back of the tapestry and releases its deadly spores if the tapestry is disturbed.
+The back wall of this dry alcove is hung with a 5-foot-wide, 7-foot-tall tapestry. It depicts a grisly scene of four faceless figures ripping apart a fifth figure, who is screaming. Characters who inspect the tapestry without touching it notice yellow mold growing around its edges. In fact, a 5-foot-square patch of [yellow mold](3-Mechanics/CLI/traps-hazards/yellow-mold-xdmg.md) (see [chapter 5 of the Dungeon Master's Guide](3-Mechanics/CLI/traps-hazards/yellow-mold-xdmg.md)) clings to the back of the tapestry and releases its deadly spores if the tapestry is disturbed.
 
 #### D9. The Dead Three Doors
 
@@ -470,11 +470,11 @@ This chamber has partially collapsed around a stone sarcophagus that was opened 
 
 The necromites in area D10 hid three spellbooks beneath the dust and humanoid bones in the sarcophagus, having stolen the books from murder victims.
 
-Spellbook 1 is bound in red leather and contains the following spells: [burning hands](3-Mechanics/CLI/spells/burning-hands.md), [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [disguise self](3-Mechanics/CLI/spells/disguise-self.md), [fog cloud](3-Mechanics/CLI/spells/fog-cloud.md), [ray of sickness](3-Mechanics/CLI/spells/ray-of-sickness.md), [silent image](3-Mechanics/CLI/spells/silent-image.md).
+Spellbook 1 is bound in red leather and contains the following spells: [burning hands](3-Mechanics/CLI/spells/burning-hands-xphb.md), [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md), [fog cloud](3-Mechanics/CLI/spells/fog-cloud-xphb.md), [ray of sickness](3-Mechanics/CLI/spells/ray-of-sickness-xphb.md), [silent image](3-Mechanics/CLI/spells/silent-image-xphb.md).
 
-Spellbook 2 has the personal rune of its previous owner burned into its umber cover. This book contains the following spells: [charm person](3-Mechanics/CLI/spells/charm-person.md), [find familiar](3-Mechanics/CLI/spells/find-familiar.md), [identify](3-Mechanics/CLI/spells/identify.md), [magic missile](3-Mechanics/CLI/spells/magic-missile.md), [sleep](3-Mechanics/CLI/spells/sleep.md).
+Spellbook 2 has the personal rune of its previous owner burned into its umber cover. This book contains the following spells: [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md), [find familiar](3-Mechanics/CLI/spells/find-familiar-xphb.md), [identify](3-Mechanics/CLI/spells/identify-xphb.md), [magic missile](3-Mechanics/CLI/spells/magic-missile-xphb.md), [sleep](3-Mechanics/CLI/spells/sleep-xphb.md).
 
-Spellbook 3 is bound in scaly black reptile hide and contains the following spells: [cloud of daggers](3-Mechanics/CLI/spells/cloud-of-daggers.md), [darkvision](3-Mechanics/CLI/spells/darkvision.md), [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [feather fall](3-Mechanics/CLI/spells/feather-fall.md), [mage armor](3-Mechanics/CLI/spells/mage-armor.md), [magic missile](3-Mechanics/CLI/spells/magic-missile.md), [Tasha's hideous laughter](3-Mechanics/CLI/spells/tashas-hideous-laughter.md).
+Spellbook 3 is bound in scaly black reptile hide and contains the following spells: [cloud of daggers](3-Mechanics/CLI/spells/cloud-of-daggers-xphb.md), [darkvision](3-Mechanics/CLI/spells/darkvision-xphb.md), [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [feather fall](3-Mechanics/CLI/spells/feather-fall-xphb.md), [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md), [magic missile](3-Mechanics/CLI/spells/magic-missile-xphb.md), [Tasha's hideous laughter](3-Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md).
 
 #### D12. Bane's Altar
 
@@ -489,11 +489,11 @@ Unless the characters take special care to approach quietly and without light so
 
 The two armored figures are Kazzira, a female human [fist of Bane](3-Mechanics/CLI/bestiary/humanoid/fist-of-bane-bgdia.md), and Yignath, a male human [iron consul](3-Mechanics/CLI/bestiary/humanoid/iron-consul-bgdia.md). Yignath is torturing the prisoner for fun while Kazzira watches. Both attack intruders but prefer to remain on dry ground. The skull on Kazzira's shield has been painted in fresh blood. Hanging from Yignath's belt is an iron key ring with seven keys—one for the shackles above the altar, two for the shackles in area D22, and four that unlock the chests in area D30.
 
-The prisoner hanging on the west wall is Klim Jhasso, a male human noble captured in the Lower City two days ago after his bodyguard was slain. Klim is a neutral evil [noble](3-Mechanics/CLI/bestiary/humanoid/noble.md) with 1 hit point remaining. He is unarmored (AC 10) and weaponless. He speaks Common and Elvish, but has no useful information to share. Klim guarantees that his family will pay a generous reward for his safe return to their estate in the Upper City—but the noble is lying. His mother is dead, his patriar father is ailing, and his three younger siblings crave their inheritance, which they would rather split three ways than four. The trading coster that the family part-owns is struggling and can't afford to pay any large reward or ransom.
+The prisoner hanging on the west wall is Klim Jhasso, a male human noble captured in the Lower City two days ago after his bodyguard was slain. Klim is a neutral evil [noble](3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md) with 1 hit point remaining. He is unarmored (AC 10) and weaponless. He speaks Common and Elvish, but has no useful information to share. Klim guarantees that his family will pay a generous reward for his safe return to their estate in the Upper City—but the noble is lying. His mother is dead, his patriar father is ailing, and his three younger siblings crave their inheritance, which they would rather split three ways than four. The trading coster that the family part-owns is struggling and can't afford to pay any large reward or ransom.
 
 Klim's shackles have AC 19, 10 hit points, and immunity to poison and psychic damage.
 
-The suit of armor is welded together and is harmless, but its gauntlets are detachable. Both gauntlets are animated objects statistically identical to [flying swords](3-Mechanics/CLI/bestiary/construct/flying-sword.md), except they deal bludgeoning damage instead of slashing damage. The gauntlets detach from the armor and attack anyone who disturbs them or frees the prisoner from his shackles.
+The suit of armor is welded together and is harmless, but its gauntlets are detachable. Both gauntlets are animated objects statistically identical to [flying swords](3-Mechanics/CLI/bestiary/construct/animated-flying-sword-xmm.md), except they deal bludgeoning damage instead of slashing damage. The gauntlets detach from the armor and attack anyone who disturbs them or frees the prisoner from his shackles.
 
 #### D13. Morgue
 
@@ -504,19 +504,19 @@ Unless the characters approach this room quietly and without light sources, they
 > This partially collapsed room has three wooden beams bracing its ceiling. Situated between the beams is a scorched wooden table with a human cadaver resting atop it. A frighteningly thin woman in a black robe is studying the corpse, her face largely hidden under a cowl. Around her feet creep a swarm of [skeletal rats](3-Mechanics/CLI/bestiary/undead/skeletal-rats-bgdia.md).
 ^055
 
-The necromancer looming over the corpse is Flennis, a female human [master of souls](3-Mechanics/CLI/bestiary/humanoid/master-of-souls-bgdia.md) and the highest-ranking follower of Myrkul in the dungeon. Use the [swarm of rats](3-Mechanics/CLI/bestiary/beast/swarm-of-rats.md) stat block in the "Monster Manual" to represent Flennis' [skeletal rats](3-Mechanics/CLI/bestiary/undead/skeletal-rats-bgdia.md), which are undead instead of beasts. The swarm can be turned by any character with the Turn Undead feature, but spells that target beasts have no effect on it.
+The necromancer looming over the corpse is Flennis, a female human [master of souls](3-Mechanics/CLI/bestiary/humanoid/master-of-souls-bgdia.md) and the highest-ranking follower of Myrkul in the dungeon. Use the [swarm of rats](3-Mechanics/CLI/bestiary/beast/swarm-of-rats-xmm.md) stat block in the "Monster Manual" to represent Flennis' [skeletal rats](3-Mechanics/CLI/bestiary/undead/skeletal-rats-bgdia.md), which are undead instead of beasts. The swarm can be turned by any character with the Turn Undead feature, but spells that target beasts have no effect on it.
 
-Flennis is preparing to make a zombie out of the corpse on the table, but the [animate dead](3-Mechanics/CLI/spells/animate-dead.md) spell takes 1 minute to cast, which means she must deal with the characters first. Her [skeletal rats](3-Mechanics/CLI/bestiary/undead/skeletal-rats-bgdia.md) attack the nearest foe, and she casts spells while using the table for cover.
+Flennis is preparing to make a zombie out of the corpse on the table, but the [animate dead](3-Mechanics/CLI/spells/animate-dead-xphb.md) spell takes 1 minute to cast, which means she must deal with the characters first. Her [skeletal rats](3-Mechanics/CLI/bestiary/undead/skeletal-rats-bgdia.md) attack the nearest foe, and she casts spells while using the table for cover.
 
 ##### Treasure
 
-In addition to her robe and her flail, Flennis carries a dusty spellbook that contains all the spells she has prepared. The book has black leather covers and sports a tiny, skull-shaped locking mechanism. Flennis has the key to the lock stuck in her hair. A character can also pick the lock with a successful DC 10 Dexterity check made with [thieves' tools](3-Mechanics/CLI/items/thieves-tools.md).
+In addition to her robe and her flail, Flennis carries a dusty spellbook that contains all the spells she has prepared. The book has black leather covers and sports a tiny, skull-shaped locking mechanism. Flennis has the key to the lock stuck in her hair. A character can also pick the lock with a successful DC 10 Dexterity check made with [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md).
 
-The first time a creature other than Flennis opens the book, a wisp of black smoke rises from its pages and coalesces into a skull that cackles madly for a few seconds before dissipating. The creature holding the book when the smoke appears must succeed on a DC 14 Constitution saving throw or be cursed for 24 hours, during which time the creature has vulnerability to necrotic damage. A [remove curse](3-Mechanics/CLI/spells/remove-curse.md) spell or similar effect ends the curse on the creature.
+The first time a creature other than Flennis opens the book, a wisp of black smoke rises from its pages and coalesces into a skull that cackles madly for a few seconds before dissipating. The creature holding the book when the smoke appears must succeed on a DC 14 Constitution saving throw or be cursed for 24 hours, during which time the creature has vulnerability to necrotic damage. A [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md) spell or similar effect ends the curse on the creature.
 
 #### D14. Hungry Rat
 
-An ordinary [rat](3-Mechanics/CLI/bestiary/beast/rat.md) scurries around this room, looking for scraps of food. If the characters use a [speak with animals](3-Mechanics/CLI/spells/speak-with-animals.md) spell or similar magic to communicate with the rat, it can share its knowledge of the dungeon with them. It warms to characters who offer it food.
+An ordinary [rat](3-Mechanics/CLI/bestiary/beast/rat-xmm.md) scurries around this room, looking for scraps of food. If the characters use a [speak with animals](3-Mechanics/CLI/spells/speak-with-animals-xphb.md) spell or similar magic to communicate with the rat, it can share its knowledge of the dungeon with them. It warms to characters who offer it food.
 
 The rat's knowledge is limited to places it has visited—specifically areas D5 through D26. It doesn't know the location of secret doors, so it's unaware of areas D27 through D33, which are hidden behind the secret door in area D23.
 
@@ -526,13 +526,13 @@ The flooded, rubble-strewn tunnels leading to and from this room narrow to a wid
 
 #### D16. Flooded Crypt
 
-Murky, foul-smelling water surrounds an open stone sarcophagus resting in the middle of this crypt, its stone lid lying broken in three pieces under the water north of it. A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals an aura of evocation magic around the sarcophagus. Characters who pull the lid fragments out of the water see that the lid was carved in the likeness of a screaming, axe-wielding barbarian.
+Murky, foul-smelling water surrounds an open stone sarcophagus resting in the middle of this crypt, its stone lid lying broken in three pieces under the water north of it. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of evocation magic around the sarcophagus. Characters who pull the lid fragments out of the water see that the lid was carved in the likeness of a screaming, axe-wielding barbarian.
 
 Exposure to the dampness has rotted the bones in the sarcophagus, reducing them to black sludge.
 
 ##### Trap
 
-If the contents of the sarcophagus are disturbed, a ghostly battleaxe appears above the sarcophagus. The battleaxe is created by magic similar to a [spiritual weapon](3-Mechanics/CLI/spells/spiritual-weapon.md) spell and is treated as a 2nd-level spell effect for the purpose of dispelling it. The ghostly battleaxe can't be harmed, can't leave the room, and targets only creatures, acting on initiative count 20. On each of its turns, it moves up to 10 feet and makes a melee spell attack (+5 to hit) against an available target, dealing 6 (`1d8 + 2`) force damage on a hit. The effect ends when there are no longer any creatures in the room, and the trap resets after 24 hours.
+If the contents of the sarcophagus are disturbed, a ghostly battleaxe appears above the sarcophagus. The battleaxe is created by magic similar to a [spiritual weapon](3-Mechanics/CLI/spells/spiritual-weapon-xphb.md) spell and is treated as a 2nd-level spell effect for the purpose of dispelling it. The ghostly battleaxe can't be harmed, can't leave the room, and targets only creatures, acting on initiative count 20. On each of its turns, it moves up to 10 feet and makes a melee spell attack (`dice:1d20+5|noform|noparens|text(+5)` to hit) against an available target, dealing `dice:1d8+2|noform|noparens|avg|text(6)` (`1d8 + 2`) force damage on a hit. The effect ends when there are no longer any creatures in the room, and the trap resets after 24 hours.
 
 #### D17. Myrkul's Altar
 
@@ -543,13 +543,13 @@ Read or paraphrase the following boxed text to the players when their characters
 > This dry, partially collapsed room contains a stone altar with humanoid skulls and bones piled around it. The top of the altar is covered with dozens of half-melted candles made of black wax, all currently unlit.
 ^05c
 
-If one or more of the black candles on the altar are lit, they shed a green light that reveals black writing on the walls. The writing, which is not visible otherwise, says in Common, "RISE AND BE COUNTED!" If these words are spoken aloud within 5 feet of the altar, the words vanish as bones hidden under the debris at the north end of the room rise up and knit together, forming three animated human [skeletons](3-Mechanics/CLI/bestiary/undead/skeleton.md). The skeletons are evil undead, but they obey the commands of whoever spoke the words that raised them, serving that individual until they're destroyed or their master is killed.
+If one or more of the black candles on the altar are lit, they shed a green light that reveals black writing on the walls. The writing, which is not visible otherwise, says in Common, "RISE AND BE COUNTED!" If these words are spoken aloud within 5 feet of the altar, the words vanish as bones hidden under the debris at the north end of the room rise up and knit together, forming three animated human [skeletons](3-Mechanics/CLI/bestiary/undead/skeleton-xmm.md). The skeletons are evil undead, but they obey the commands of whoever spoke the words that raised them, serving that individual until they're destroyed or their master is killed.
 
 #### D18. Gas Buildup
 
 The ceiling of this flooded room is supported by numerous wooden beams. The air here smells like rotten eggs, a putrid stench that carries beyond the room. Any character approaching this area who succeeds on a DC 10 Wisdom ([Survival](3-Mechanics/CLI/rules/skills.md#Survival)) check realizes that the stench is an indicator of flammable gas in the room. This gas disperses before reaching other areas of the dungeon, and the Dead Three cultists extinguish their torches before moving through this area.
 
-Bringing a lit torch or other open flame into the gas-filled room triggers an explosion that fills the chamber. Creatures fully immersed in the water take no damage, but all others must succeed on a DC 15 Dexterity saving throw, taking 14 (`4d6`) fire damage on a failed save, or half as much damage on a successful one. All the wooden beams that support the ceiling are destroyed in the explosion, which could cause a roof collapse (see "Dungeon Features" in area D5). The explosion also burns away the gas, which builds up slowly and becomes dangerous again after 24 hours.
+Bringing a lit torch or other open flame into the gas-filled room triggers an explosion that fills the chamber. Creatures fully immersed in the water take no damage, but all others must succeed on a DC 15 Dexterity saving throw, taking `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) fire damage on a failed save, or half as much damage on a successful one. All the wooden beams that support the ceiling are destroyed in the explosion, which could cause a roof collapse (see "Dungeon Features" in area D5). The explosion also burns away the gas, which builds up slowly and becomes dangerous again after 24 hours.
 
 #### D19. Partially Collapsed Crypt
 
@@ -561,7 +561,7 @@ An open sarcophagus stands at the back of this dusty crypt, its heavy stone lid 
 
 ##### Treasure
 
-A casual search of the sarcophagus turns up nothing but dust and a few scattered humanoid bones. Any character who conducts a thorough search realizes that the sarcophagus has a false bottom made of inch-thick plaster. Smashing through this plaster layer reveals a cavity below that contains a human mummy floating in a shallow pool of red brine. The mummy has two moonstones (50 gp each) embedded in its eye sockets and a [bag of beans](3-Mechanics/CLI/items/bag-of-beans.md) where its heart would normally be. Characters must intentionally tear open the mummy's chest to find the hidden bag. The mummy is inanimate and doesn't protest the theft.
+A casual search of the sarcophagus turns up nothing but dust and a few scattered humanoid bones. Any character who conducts a thorough search realizes that the sarcophagus has a false bottom made of inch-thick plaster. Smashing through this plaster layer reveals a cavity below that contains a human mummy floating in a shallow pool of red brine. The mummy has two moonstones (50 gp each) embedded in its eye sockets and a [bag of beans](3-Mechanics/CLI/items/bag-of-beans-xdmg.md) where its heart would normally be. Characters must intentionally tear open the mummy's chest to find the hidden bag. The mummy is inanimate and doesn't protest the theft.
 
 #### D21. Zombie Crypt
 
@@ -572,7 +572,7 @@ Characters who listen at the door to this room hear faint humanoid moans in the 
 > Six moaning humans with rotting flesh shamble about this dusty crypt, which reeks of death. An open stone sarcophagus rests against the back wall, its shattered lid lying in pieces on the floor around it.
 ^062
 
-The shambling corpses are six [zombies](3-Mechanics/CLI/bestiary/undead/zombie.md) created by Flennis (see area D13) from the remains of the Dead Three cultists' murder victims. The zombies obey only their creator and attack all others, including other members of the Dead Three cult.
+The shambling corpses are six [zombies](3-Mechanics/CLI/bestiary/undead/zombie-xmm.md) created by Flennis (see area D13) from the remains of the Dead Three cultists' murder victims. The zombies obey only their creator and attack all others, including other members of the Dead Three cult.
 
 Carved into the north-facing side of the sarcophagus are ghastly images of human cannibalism. The sarcophagus was plundered long ago, and a search of its interior yields up only a jawless human skull and a few bone fragments.
 
@@ -585,11 +585,11 @@ Followers of Bane torture and interrogate prisoners here. Describe this room to 
 > The walls and floor of this room are covered with streaks and splashes of dried blood. Two dangling bodies are shackled to the east and south walls. One is an elderly male human; the other, a young female tiefling. Both are covered in bloody gashes, and neither is moving. In the middle of the room is a sturdy wooden chair with a bloody whip draped over it. A bucket half filled with salt sits on the floor nearby.
 ^064
 
-The followers of Bane rub salt into the wounds of the prisoners they torture here. Yignath the iron consul (see area D12) carries the keys to both sets of shackles, which have AC 19, 10 hit points, and immunity to poison and psychic damage. A character with [thieves' tools](3-Mechanics/CLI/items/thieves-tools.md) can unlock a set of shackles with a successful DC 15 Dexterity check.
+The followers of Bane rub salt into the wounds of the prisoners they torture here. Yignath the iron consul (see area D12) carries the keys to both sets of shackles, which have AC 19, 10 hit points, and immunity to poison and psychic damage. A character with [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md) can unlock a set of shackles with a successful DC 15 Dexterity check.
 
 The male human is dead. He was Effinax Zalbor, a caravan coordinator employed by the Jhasso patriar family, which is part-owner of a trading coster that operates throughout the Western Heartlands (see area D12).
 
-The female tiefling has 0 hit points, and is [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) but stable. She is Vendetta Kress, a neutral [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md) who speaks Common and Infernal. She has resistance to fire damage and [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 60 feet. Vendetta distributes wine and spirits for the Oathoon patriar family of Baldur's Gate, and was attacked in the Lower City, knocked [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious), and brought here to be tortured. Under interrogation, she gave her captors information regarding the Oathoons and their security arrangements. She also witnessed the interrogation and death of Effinax, who was questioned at length about the Jhasso family.
+The female tiefling has 0 hit points, and is [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) but stable. She is Vendetta Kress, a neutral [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) who speaks Common and Infernal. She has resistance to fire damage and [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 60 feet. Vendetta distributes wine and spirits for the Oathoon patriar family of Baldur's Gate, and was attacked in the Lower City, knocked [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious), and brought here to be tortured. Under interrogation, she gave her captors information regarding the Oathoons and their security arrangements. She also witnessed the interrogation and death of Effinax, who was questioned at length about the Jhasso family.
 
 If set free, Vendetta stays with the characters until an opportunity to escape presents itself. Before that, though, she shares the following piece of information with her liberators. During her incarceration, she heard what sounded like a heavy stone door scraping open and closed from time to time, accompanied by the sound of splashing footsteps. The noise came from the north. This information might lead characters to search for a secret door in that direction (see area D23).
 
@@ -625,7 +625,7 @@ Read or paraphrase the following boxed text when the characters enter this area 
 > Four flickering torches in wall sconces light this partially collapsed crypt. An open sarcophagus in the middle of the area is filled to the rim with blood, with spillage streaking the sides of the sarcophagus and pooling around its base. The sarcophagus lid lies half buried under rubble behind it.
 ^06a
 
-Bhaal worshipers like to bathe in the human blood that fills the sarcophagus. A female [reaper of Bhaal](3-Mechanics/CLI/bestiary/humanoid/reaper-of-bhaal-bgdia.md) lurks behind the sarcophagus, drenched in blood from head to toe. At the first sign of intruders, she uses a [disguise self](3-Mechanics/CLI/spells/disguise-self.md) spell to appear as a frail old woman named Nebra. In this guise, she claims to be a florist who was captured by the Dead Three and brought to the dungeon as a slave. If the characters fall for the act and bring Nebra with them, she claims to know the location of a secret door (area D23) and tries to lead them through it to area D29, where she hopes to find reinforcements. If she leads the party to a location occupied by other cultists, she drops the disguise and attacks. She also attacks if her spell ends before then.
+Bhaal worshipers like to bathe in the human blood that fills the sarcophagus. A female [reaper of Bhaal](3-Mechanics/CLI/bestiary/humanoid/reaper-of-bhaal-bgdia.md) lurks behind the sarcophagus, drenched in blood from head to toe. At the first sign of intruders, she uses a [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md) spell to appear as a frail old woman named Nebra. In this guise, she claims to be a florist who was captured by the Dead Three and brought to the dungeon as a slave. If the characters fall for the act and bring Nebra with them, she claims to know the location of a secret door (area D23) and tries to lead them through it to area D29, where she hopes to find reinforcements. If she leads the party to a location occupied by other cultists, she drops the disguise and attacks. She also attacks if her spell ends before then.
 
 #### D27. Echoes of Battle
 
@@ -633,7 +633,7 @@ This ten-foot-wide flooded passage is braced at regular intervals by wooden beam
 
 #### D28. Old Cellar
 
-This flooded room was once a cellar, with the collapsed eastern passage marking a staircase that formerly led up to a residence in the city. Hidden under the murky water are four animated human [skeletons](3-Mechanics/CLI/bestiary/undead/skeleton.md) that rise up and attack anyone who crosses the room.
+This flooded room was once a cellar, with the collapsed eastern passage marking a staircase that formerly led up to a residence in the city. Hidden under the murky water are four animated human [skeletons](3-Mechanics/CLI/bestiary/undead/skeleton-xmm.md) that rise up and attack anyone who crosses the room.
 
 #### D29. Mortlock Vanthampur
 
@@ -661,17 +661,17 @@ If the characters let him go, Mortlock hides in the city until he can book passa
 
 Mortlock is afraid to confront his mother or his brothers. That said, a successful DC 14 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check can convince him to help the characters capture or kill Amrik at the Low Lantern. After doing so, Mortlock leaves the city as quickly as possible to escape his mother's wrath.
 
-![Mortlock Vanthampur](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/012-637000763477922224.webp#center)
+![Mortlock Vanthampur](file://adventure/BGDIA/012-637000763477922224.webp#center)
 
 #### D30. Tiamat's Stolen Treasure
 
-A short flight of stairs climbs to a circular chamber with four padlocked wooden chests piled in the middle of it. The chests are locked, but characters might have wrested the keys from the iron consul in area D12. A character can also use [thieves' tools](3-Mechanics/CLI/items/thieves-tools.md) to pick a padlock with a successful DC 15 Dexterity check.
+A short flight of stairs climbs to a circular chamber with four padlocked wooden chests piled in the middle of it. The chests are locked, but characters might have wrested the keys from the iron consul in area D12. A character can also use [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md) to pick a padlock with a successful DC 15 Dexterity check.
 
 ##### Treasure
 
 Each chest weighs 25 pounds empty, and all four contain loot stolen from Tiamat's hoard on Avernus. This treasure was brought to Baldur's Gate by devils in league with Zariel, and was given to the Dead Three cultists by [Amrik Vanthampur](3-Mechanics/CLI/bestiary/npc/amrik-vanthampur-bgdia.md) on behalf of his mother, [Duke Thalamra Vanthampur](3-Mechanics/CLI/bestiary/npc/duke-thalamra-vanthampur-bgdia.md). The contents of each chest are described below.
 
-Chest 1 holds 4,500 cp and two red crystal vials with gold stoppers (25 gp each). Each vial contains a [potion of fire breath](3-Mechanics/CLI/items/potion-of-fire-breath.md). With the coins and vials inside, the chest weighs 70 pounds.
+Chest 1 holds 4,500 cp and two red crystal vials with gold stoppers (25 gp each). Each vial contains a [potion of fire breath](3-Mechanics/CLI/items/potion-of-fire-breath-xdmg.md). With the coins and vials inside, the chest weighs 70 pounds.
 
 Chest 2 contains ten eye agates (10 gp each) scattered amid 1,250 sp. With the coins and gemstones inside, the chest weighs 37 pounds.
 
@@ -685,11 +685,11 @@ A wooden crate is stored in this otherwise empty alcove. The crate can hold sixt
 
 #### D32. Stolen Goods
 
-Nine wooden crates are scattered throughout this room. Scurrying among them are six harmless [rats](3-Mechanics/CLI/bestiary/beast/rat.md) like the one encountered in area D14.
+Nine wooden crates are scattered throughout this room. Scurrying among them are six harmless [rats](3-Mechanics/CLI/bestiary/beast/rat-xmm.md) like the one encountered in area D14.
 
 ##### Treasure
 
-Six of the crates are empty except for packing straw. The other three contain stolen goods that the cultists have not yet disbursed, including ten days' worth of rations, a [bag of twenty caltrops](3-Mechanics/CLI/items/caltrops-bag-of-20.md), three [flasks of alchemist's fire](3-Mechanics/CLI/items/alchemists-fire-flask.md), six sets of [manacles](3-Mechanics/CLI/items/manacles.md), four [tinderboxes](3-Mechanics/CLI/items/tinderbox.md), nine [daggers](3-Mechanics/CLI/items/dagger.md), and four [potions of healing](3-Mechanics/CLI/items/potion-of-healing.md) in glass vials.
+Six of the crates are empty except for packing straw. The other three contain stolen goods that the cultists have not yet disbursed, including ten days' worth of rations, a [bag of twenty caltrops](3-Mechanics/CLI/items/caltrops-xphb.md), three [flasks of alchemist's fire](3-Mechanics/CLI/items/alchemists-fire-xphb.md), six sets of [manacles](3-Mechanics/CLI/items/manacles-xphb.md), four [tinderboxes](3-Mechanics/CLI/items/tinderbox-xphb.md), nine [daggers](3-Mechanics/CLI/items/dagger-xphb.md), and four [potions of healing](3-Mechanics/CLI/items/potion-of-healing-xdmg.md) in glass vials.
 
 #### D33. Covenant of the Dead Three
 
@@ -716,13 +716,13 @@ This statue's harlequin mask is a separate piece that can be unhinged and remove
 
 ##### Myrkul Statue
 
-Anyone who desecrates this statue is cursed by the Lord of Bones. Until the curse is ended with a [remove curse](3-Mechanics/CLI/spells/remove-curse.md) spell or similar magic, the offender gains no benefit from magical healing.
+Anyone who desecrates this statue is cursed by the Lord of Bones. Until the curse is ended with a [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md) spell or similar magic, the offender gains no benefit from magical healing.
 
 ### Surprise! Dragon Cultists!
 
 If the characters rid the dungeon of the worshipers of Bane, Bhaal, and Myrkul, any remaining followers of the Dead Three avoid the dungeon and the bathhouse once they realize those locations are no longer safe.
 
-![Ultiss, cultist of Tiamat](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/013-ubtk4-01-04.webp#center)
+![Ultiss, cultist of Tiamat](file://adventure/BGDIA/013-ubtk4-01-04.webp#center)
 
 As the characters exit the dungeon and leave the bathhouse, they have one final encounter in the courtyard (area D1). Read or paraphrase the following boxed text to set the scene:
 
@@ -731,11 +731,11 @@ As the characters exit the dungeon and leave the bathhouse, they have one final 
 > As you emerge from the bathhouse, five figures leap down from the top of the courtyard wall to confront you. In addition to their black leather armor, they wear strange masks and cloaks that give each of them a vaguely dragon-like appearance. All five brandish curved steel blades reminiscent of dragon claws.
 ^07a
 
-The figures are four human [cultists](3-Mechanics/CLI/bestiary/humanoid/cultist.md) of Tiamat led by a male human [cult fanatic](3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md) named Ultiss. These chaotic evil worshipers of Tiamat have been sent by [Arkhan the Cruel](3-Mechanics/CLI/bestiary/npc/arkhan-the-cruel-bgdia.md) (see chapter 3) to retrieve the treasure stolen from the dragon queen's hoard on Avernus by agents of Zariel—treasure given to Duke Vanthampur and her sons to buy the loyalty of the Dead Three followers.
+The figures are four human [cultists](3-Mechanics/CLI/bestiary/humanoid/cultist-xmm.md) of Tiamat led by a male human [cult fanatic](3-Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md) named Ultiss. These chaotic evil worshipers of Tiamat have been sent by [Arkhan the Cruel](3-Mechanics/CLI/bestiary/npc/arkhan-the-cruel-bgdia.md) (see chapter 3) to retrieve the treasure stolen from the dragon queen's hoard on Avernus by agents of Zariel—treasure given to Duke Vanthampur and her sons to buy the loyalty of the Dead Three followers.
 
 Guided by visions sent to them by Tiamat, the cultists know when they're within 1,000 feet of her stolen loot. If the characters took any of the treasure from area D30, the cultists attack them to get it back. Otherwise, the cultists demand that the characters stand aside and not meddle in their business. Once they secure the dragon queen's lost treasure, the cultists plan to hunt down and kill the Vanthampurs and anyone else in Baldur's Gate considered to be an agent of Zariel. Cultists who survive this encounter can show up at a later time to help or hinder the characters, at your discretion.
 
-If it's present when the cultists of Tiamat confront the characters, the [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) [imp](3-Mechanics/CLI/bestiary/fiend/imp.md) in area D1 quietly observes the interaction before reporting back to [Thurstwell Vanthampur](3-Mechanics/CLI/bestiary/npc/thurstwell-vanthampur-bgdia.md) at his family's villa.
+If it's present when the cultists of Tiamat confront the characters, the [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) [imp](3-Mechanics/CLI/bestiary/fiend/imp-xmm.md) in area D1 quietly observes the interaction before reporting back to [Thurstwell Vanthampur](3-Mechanics/CLI/bestiary/npc/thurstwell-vanthampur-bgdia.md) at his family's villa.
 
 ### Where Next?
 
@@ -749,9 +749,9 @@ Having conquered the Dungeon of the Dead Three, the characters should advance to
 > 
 > **Abduction Squad (for 3rd-level characters).** Four [fists of Bane](3-Mechanics/CLI/bestiary/humanoid/fist-of-bane-bgdia.md), three [night blades](3-Mechanics/CLI/bestiary/humanoid/night-blade-bgdia.md), and two [necromites of Myrkul](3-Mechanics/CLI/bestiary/humanoid/necromite-of-myrkul-bgdia.md) try to capture one or more city residents, in the hopes of torturing or ransoming them.
 > 
-> **Murder Squad (for 4th-level characters).** An [iron consul](3-Mechanics/CLI/bestiary/humanoid/iron-consul-bgdia.md) with two [fists of Bane](3-Mechanics/CLI/bestiary/humanoid/fist-of-bane-bgdia.md) as bodyguards uses three [night blades](3-Mechanics/CLI/bestiary/humanoid/night-blade-bgdia.md) as scouts and assassins to pick off random passersby. A [skull lasher of Myrkul](3-Mechanics/CLI/bestiary/humanoid/skull-lasher-of-myrkul-bgdia.md) provides magical support, casting [darkness](3-Mechanics/CLI/spells/darkness.md) spells to confound foes and facilitate escape.
+> **Murder Squad (for 4th-level characters).** An [iron consul](3-Mechanics/CLI/bestiary/humanoid/iron-consul-bgdia.md) with two [fists of Bane](3-Mechanics/CLI/bestiary/humanoid/fist-of-bane-bgdia.md) as bodyguards uses three [night blades](3-Mechanics/CLI/bestiary/humanoid/night-blade-bgdia.md) as scouts and assassins to pick off random passersby. A [skull lasher of Myrkul](3-Mechanics/CLI/bestiary/humanoid/skull-lasher-of-myrkul-bgdia.md) provides magical support, casting [darkness](3-Mechanics/CLI/spells/darkness-xphb.md) spells to confound foes and facilitate escape.
 > 
-> **Revenge Squad (for 5th-level characters).** A [black gauntlet of Bane](3-Mechanics/CLI/bestiary/humanoid/black-gauntlet-of-bane-bgdia.md) comes after the characters with two [reapers of Bhaal](3-Mechanics/CLI/bestiary/humanoid/reaper-of-bhaal-bgdia.md) and a [master of souls](3-Mechanics/CLI/bestiary/humanoid/master-of-souls-bgdia.md), who commands an undead force of six [skeletons](3-Mechanics/CLI/bestiary/undead/skeleton.md) or four [zombies](3-Mechanics/CLI/bestiary/undead/zombie.md).
+> **Revenge Squad (for 5th-level characters).** A [black gauntlet of Bane](3-Mechanics/CLI/bestiary/humanoid/black-gauntlet-of-bane-bgdia.md) comes after the characters with two [reapers of Bhaal](3-Mechanics/CLI/bestiary/humanoid/reaper-of-bhaal-bgdia.md) and a [master of souls](3-Mechanics/CLI/bestiary/humanoid/master-of-souls-bgdia.md), who commands an undead force of six [skeletons](3-Mechanics/CLI/bestiary/undead/skeleton-xmm.md) or four [zombies](3-Mechanics/CLI/bestiary/undead/zombie-xmm.md).
 ^more-dead-three-encounters
 
 ## Low Lantern
@@ -769,26 +769,26 @@ The Low Lantern's location is marked on map 1.1, while map 1.4 shows its interio
 
 The Low Lantern is quiet during the day, with just a few patrons drinking and gambling below decks. The place comes alive at night, and is a popular site for conducting clandestine meetings with some of the city's least scrupulous inhabitants, including pirates and off-duty Flaming Fist mercenaries.
 
-The owner and proprietor is Laraelra Thundreth, a middle-aged female human [mage](3-Mechanics/CLI/bestiary/humanoid/mage.md) known as "the Captain" to her staff and regular patrons. Laraelra is neutral and doesn't concern herself with the private affairs of her clientele, nor does she mind when visitors get rowdy or turn violent—as long as they're willing to pay for damages afterward. In public, Laraelra is often seen with her [crab](3-Mechanics/CLI/bestiary/beast/crab.md) familiar perched on one shoulder. From dawn till noon, she retires to her cabin (area L4) to eat, rest, and read her spellbook.
+The owner and proprietor is Laraelra Thundreth, a middle-aged female human [mage](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) known as "the Captain" to her staff and regular patrons. Laraelra is neutral and doesn't concern herself with the private affairs of her clientele, nor does she mind when visitors get rowdy or turn violent—as long as they're willing to pay for damages afterward. In public, Laraelra is often seen with her [crab](3-Mechanics/CLI/bestiary/beast/crab-xmm.md) familiar perched on one shoulder. From dawn till noon, she retires to her cabin (area L4) to eat, rest, and read her spellbook.
 
-The Low Lantern serves drinks and snacks, but no meals. At any given time, the staff includes two [kenku](3-Mechanics/CLI/bestiary/humanoid/kenku.md) bartenders and six bouncers (human [thugs](3-Mechanics/CLI/bestiary/humanoid/thug.md)). The staff operates in three eight-hour shifts, with one group leaving as the next shift arrives.
+The Low Lantern serves drinks and snacks, but no meals. At any given time, the staff includes two [kenku](3-Mechanics/CLI/bestiary/monstrosity/kenku-xmm.md) bartenders and six bouncers (human [thugs](3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md)). The staff operates in three eight-hour shifts, with one group leaving as the next shift arrives.
 
 ### Tavern Patrons
 
 The Low Lantern attracts the city's least affluent residents, as well as foreign merchants and sailors with coin to lose. Patrons who are present during the characters' initial visit include the following:
 
-- Grimboot (lawful evil [duergar](3-Mechanics/CLI/bestiary/humanoid/duergar.md)), a gruff, cross-eyed leg breaker who collects debts for the local thieves' guild  
-- Hitoshi Jade (neutral human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md)), a drunken sailor from a merchant ship called the *Golden Gull*, owned by the Irlentree patriar family  
-- Jorunn Nighbury (neutral human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md)), a shy horse breeder employed by the Belt patriar family but burdened by gambling debt  
-- Skadric Salakar (neutral evil human [veteran](3-Mechanics/CLI/bestiary/humanoid/veteran.md)), a lazy Flaming Fist soldier who was suspended for a tenday without pay for dereliction of duty  
-- Prynn Derringwhistle (lawful neutral strongheart halfling [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md)), a spectacles-wearing barnacle scraper who likes to belt out old sea shanties  
-- Aerith and Beldan (chaotic good [drow](3-Mechanics/CLI/bestiary/humanoid/drow.md)), awkward and inseparable twins who left the Underdark in search of adventure on the surface  
+- Grimboot (lawful evil [duergar](3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md)), a gruff, cross-eyed leg breaker who collects debts for the local thieves' guild  
+- Hitoshi Jade (neutral human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), a drunken sailor from a merchant ship called the *Golden Gull*, owned by the Irlentree patriar family  
+- Jorunn Nighbury (neutral human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), a shy horse breeder employed by the Belt patriar family but burdened by gambling debt  
+- Skadric Salakar (neutral evil human [veteran](3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md)), a lazy Flaming Fist soldier who was suspended for a tenday without pay for dereliction of duty  
+- Prynn Derringwhistle (lawful neutral strongheart halfling [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), a spectacles-wearing barnacle scraper who likes to belt out old sea shanties  
+- Aerith and Beldan (chaotic good [drow](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md)), awkward and inseparable twins who left the Underdark in search of adventure on the surface  
 
 [Amrik Vanthampur](3-Mechanics/CLI/bestiary/npc/amrik-vanthampur-bgdia.md) runs his own business out of the Low Lantern with Laraelra's consent. Characters looking for him are directed to area L6.
 
 > [!gallery]
-> ![Map 1.4: The Low Lantern](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/014-ouor1-map-1-4-dm.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/015-a4sl5-map-1-4.webp#gallery)
+> ![Map 1.4: The Low Lantern](file://adventure/BGDIA/014-ouor1-map-1-4-dm.webp#gallery)
+> ![Player Version](file://adventure/BGDIA/015-a4sl5-map-1-4.webp#gallery)
 
 ### Tavern Locations
 
@@ -803,13 +803,13 @@ Describe this area to the players as follows:
 > The main deck of the old ship features wooden steps that climb to the forecastle and aftcastle, and another set of stairs descending into the ship. A padlocked wooden hatch fitted with windows acts as a skylight for the deck below—the tavern proper, visible through the hatch's glass panes. Four dead seagulls lie on the deck and two ravens squawk at you from the crow's nest, a forty-foot climb up the ship's rigging.
 ^086
 
-The ravens are two [imps](3-Mechanics/CLI/bestiary/fiend/imp.md) in shapechanged form. [Thurstwell Vanthampur](3-Mechanics/CLI/bestiary/npc/thurstwell-vanthampur-bgdia.md) uses the imps to keep an eye on his brother, [Amrik](3-Mechanics/CLI/bestiary/npc/amrik-vanthampur-bgdia.md). The imps take malevolent delight in killing any seagulls that happen by, and the tavern staff can't figure out why the decks are always littered with seagull carcasses. A character who examines a dead seagull and succeeds on a DC 13 Wisdom ([Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)) check ascertains that the bird was stung to death.
+The ravens are two [imps](3-Mechanics/CLI/bestiary/fiend/imp-xmm.md) in shapechanged form. [Thurstwell Vanthampur](3-Mechanics/CLI/bestiary/npc/thurstwell-vanthampur-bgdia.md) uses the imps to keep an eye on his brother, [Amrik](3-Mechanics/CLI/bestiary/npc/amrik-vanthampur-bgdia.md). The imps take malevolent delight in killing any seagulls that happen by, and the tavern staff can't figure out why the decks are always littered with seagull carcasses. A character who examines a dead seagull and succeeds on a DC 13 Wisdom ([Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)) check ascertains that the bird was stung to death.
 
 If the imps see Amrik leave the ship, they trail him to make sure he isn't being followed. If they realize Amrik is in danger, they swoop down to attack whoever appears to be threatening him. The imps otherwise avoid combat and turn [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) to avoid capture or death.
 
 #### L2. Forecastle
 
-This deck is littered with the corpses of `1d4` dead seagulls (see area L1 for more information). Hanging off the end of the ship's bow is the green-paned lantern that indicates the tavern is open for business. A staff member crawls to the end of the bow to douse the lantern, refill it with oil, and relight it at highsun every day.
+This deck is littered with the corpses of `dice:1d4|noform|noparens|avg` (`1d4`) dead seagulls (see area L1 for more information). Hanging off the end of the ship's bow is the green-paned lantern that indicates the tavern is open for business. A staff member crawls to the end of the bow to douse the lantern, refill it with oil, and relight it at highsun every day.
 
 On warm, clear nights, Laraelra moves tables, chairs, and lanterns onto this deck so that clients can drink and gamble under the stars.
 
@@ -817,7 +817,7 @@ On warm, clear nights, Laraelra moves tables, chairs, and lanterns onto this dec
 
 The captain's wheel and rudder are gone, leaving holes and empty fixtures where they used to be. As with area L2, Laraelra sometimes moves tables, chairs, and lanterns onto this deck so that clients can be outdoors on nights when the weather is nice.
 
-![Amrik Vanthampur](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/016-637001789236815068.webp#center)
+![Amrik Vanthampur](file://adventure/BGDIA/016-637001789236815068.webp#center)
 
 #### L4. Laraelra's Cabin
 
@@ -830,20 +830,20 @@ Describe the cabin's features to the players as follows:
 > This cabin is full of mismatched wooden furniture, including a bed with posts carved to resemble mermaids, a nightstand, a wardrobe, a writing desk with a fur-draped chair, and a small dining table surrounded by four plain chairs. Near the foot of the bed rests an ornately carved sea chest sealed with a padlock.
 ^08a
 
-Laraelra hides the key to the chest in the adjacent bedpost, whose top unscrews to reveal the hidden compartment where the key is sequestered. The chest's padlock can otherwise be picked with a successful DC 20 Dexterity check made with [thieves' tools](3-Mechanics/CLI/items/thieves-tools.md).
+Laraelra hides the key to the chest in the adjacent bedpost, whose top unscrews to reveal the hidden compartment where the key is sequestered. The chest's padlock can otherwise be picked with a successful DC 20 Dexterity check made with [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md).
 
-In addition to the items described under "Treasure" below, the chest contains four flying daggers that attack anyone other than Laraelra who opens the chest. Use the [flying sword](3-Mechanics/CLI/bestiary/construct/flying-sword.md) stat block to represent the daggers, but make these changes:
+In addition to the items described under "Treasure" below, the chest contains four flying daggers that attack anyone other than Laraelra who opens the chest. Use the [flying sword](3-Mechanics/CLI/bestiary/construct/animated-flying-sword-xmm.md) stat block to represent the daggers, but make these changes:
 
-- Each [flying dagger](3-Mechanics/CLI/bestiary/construct/flying-dagger-bgdia.md) is a Tiny construct with 7 (`3d4`) hit points and a challenge rating of 1/8 (25 XP).  
-- Each [flying dagger](3-Mechanics/CLI/bestiary/construct/flying-dagger-bgdia.md) deals 3 (`1d4 + 1`) piercing damage on a hit.  
+- Each [flying dagger](3-Mechanics/CLI/bestiary/construct/flying-dagger-bgdia.md) is a Tiny construct with `dice:3d4|noform|noparens|avg|text(7)` (`3d4`) hit points and a challenge rating of 1/8 (25 XP).  
+- Each [flying dagger](3-Mechanics/CLI/bestiary/construct/flying-dagger-bgdia.md) deals `dice:1d4+1|noform|noparens|avg|text(3)` (`1d4 + 1`) piercing damage on a hit.  
 
 ##### Treasure
 
-The chest contains a nice pair of boots, a bottle of fine wine (10 gp), a bundle of letters from an unnamed admirer, and Laraelra's spellbook, which contains all the spells she has prepared plus [identify](3-Mechanics/CLI/spells/identify.md), [gust of wind](3-Mechanics/CLI/spells/gust-of-wind.md), [magic weapon](3-Mechanics/CLI/spells/magic-weapon.md), [sending](3-Mechanics/CLI/spells/sending.md), [sleep](3-Mechanics/CLI/spells/sleep.md), and [tongues](3-Mechanics/CLI/spells/tongues.md).
+The chest contains a nice pair of boots, a bottle of fine wine (10 gp), a bundle of letters from an unnamed admirer, and Laraelra's spellbook, which contains all the spells she has prepared plus [identify](3-Mechanics/CLI/spells/identify-xphb.md), [gust of wind](3-Mechanics/CLI/spells/gust-of-wind-xphb.md), [magic weapon](3-Mechanics/CLI/spells/magic-weapon-xphb.md), [sending](3-Mechanics/CLI/spells/sending-xphb.md), [sleep](3-Mechanics/CLI/spells/sleep-xphb.md), and [tongues](3-Mechanics/CLI/spells/tongues-xphb.md).
 
 #### L5. Taproom and Gambling Hall
 
-This is the busiest and noisiest part of the ship, and it reeks of sweat, cheap ale, rotting timbers, and old vomit. Three bouncers ([thugs](3-Mechanics/CLI/bestiary/humanoid/thug.md)) position themselves so they can see everything that happens here. If Laraelra is not in her cabin (area L4), she is seated at the short end of the bar with her crab familiar on her shoulder.
+This is the busiest and noisiest part of the ship, and it reeks of sweat, cheap ale, rotting timbers, and old vomit. Three bouncers ([thugs](3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md)) position themselves so they can see everything that happens here. If Laraelra is not in her cabin (area L4), she is seated at the short end of the bar with her crab familiar on her shoulder.
 
 Laraelra greets newcomers with a rehearsed speech:
 
@@ -858,13 +858,13 @@ The tavern is lit by hanging oil lanterns and whatever natural light slips throu
 
 #### L6. Tavern Lounge
 
-This tavern lounge fills an entire deck and is lit by oil lanterns hanging from the 8-foot-high ceiling by 1-foot-long chains. The windowless deck contains a bar, couches, coffee tables, and tables where patrons can socialize and gamble. Three of Laraelra's bouncers ([thugs](3-Mechanics/CLI/bestiary/humanoid/thug.md)) stand in plain view across the deck.
+This tavern lounge fills an entire deck and is lit by oil lanterns hanging from the 8-foot-high ceiling by 1-foot-long chains. The windowless deck contains a bar, couches, coffee tables, and tables where patrons can socialize and gamble. Three of Laraelra's bouncers ([thugs](3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md)) stand in plain view across the deck.
 
 [Amrik Vanthampur](3-Mechanics/CLI/bestiary/npc/amrik-vanthampur-bgdia.md) has turned a pair of couches and a coffee table near the aft wall into his personal office. He runs a moneylending business from this location, and many of his regular clients are down-on-their-luck gamblers who can't cover their debts. In exchange for this space, Amrik pays for the wine that is delivered to the Low Lantern, making Laraelra's business profitable.
 
-Thirty-three-year-old Amrik sits alone on the starboard couch, his feet on the table and his eyes on the room. He keeps the port couch open for clients and employs two bodyguards. Kasharra, a [spined devil](3-Mechanics/CLI/bestiary/fiend/spined-devil.md), perches on the back of Amrik's couch. Vhaltus, a sleepy-eyed lawful evil human [thug](3-Mechanics/CLI/bestiary/humanoid/thug.md) with red hair in a ponytail, sits at the closest end of the bar. Vhaltus carries a small sack containing 150 gp, which Amrik loans to clients. If he thinks his life is in real danger, Amrik detonates a concealed smoke bomb before fleeing up the stairs, leaving his bodyguards to cover his escape.
+Thirty-three-year-old Amrik sits alone on the starboard couch, his feet on the table and his eyes on the room. He keeps the port couch open for clients and employs two bodyguards. Kasharra, a [spined devil](3-Mechanics/CLI/bestiary/fiend/spined-devil-xmm.md), perches on the back of Amrik's couch. Vhaltus, a sleepy-eyed lawful evil human [thug](3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md) with red hair in a ponytail, sits at the closest end of the bar. Vhaltus carries a small sack containing 150 gp, which Amrik loans to clients. If he thinks his life is in real danger, Amrik detonates a concealed smoke bomb before fleeing up the stairs, leaving his bodyguards to cover his escape.
 
-Amrik loves to exchange pleasantries over drinks before conducting business. He has trained Laraelra's staff to recognize a variety of innocuous hand gestures that signal them to deliver drinks to the table. If he wants poison added to his clients' drinks, he has a secret sign for that. Hidden behind the bar is a small bottle containing four doses of [Torpor](3-Mechanics/CLI/items/torpor.md) (see ""Poisons"" in chapter 8 of the "Dungeon Master's Guide"), which the kenku bartender can use to spike drinks when Amrik gives the signal.
+Amrik loves to exchange pleasantries over drinks before conducting business. He has trained Laraelra's staff to recognize a variety of innocuous hand gestures that signal them to deliver drinks to the table. If he wants poison added to his clients' drinks, he has a secret sign for that. Hidden behind the bar is a small bottle containing four doses of [Torpor](3-Mechanics/CLI/items/torpor-xdmg.md) (see ""Poisons"" in chapter 8 of the "Dungeon Master's Guide"), which the kenku bartender can use to spike drinks when Amrik gives the signal.
 
 #### L7. Guest Cabin
 
@@ -876,7 +876,7 @@ The lock on the cabin door has rusted to the point of being useless, but the des
 
 This area is prone to leaks, as the ship's hull is mostly submerged at this level. Puddles of water collect in areas where the floor has bowed, and the whole space reeks of vomit and urine.
 
-Four alcoves here are set with cheap cots where drunks can sleep off their hangovers. In the bow are four hammocks that serve a similar purpose. At any given time, `1d4` [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner.md) can be found throughout this area, sleeping off the effects of a too-wild night. If the characters wish to rob them, each commoner has a belt pouch containing `1d6` sp and `2d6` cp.
+Four alcoves here are set with cheap cots where drunks can sleep off their hangovers. In the bow are four hammocks that serve a similar purpose. At any given time, `dice:1d4|noform|noparens|avg` (`1d4`) [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) can be found throughout this area, sleeping off the effects of a too-wild night. If the characters wish to rob them, each commoner has a belt pouch containing `dice:1d6|noform|noparens|avg` (`1d6`) sp and `dice:2d6|noform|noparens|avg` (`2d6`) cp.
 
 ### Dealing with Amrik
 
@@ -899,7 +899,7 @@ Before the characters leave the Low Lantern, a new arrival greets them. Read the
 > A cloaked figure approaches, armor clanking with each step. One gloved hand rests on the hilt of a longsword. The other pulls back a cowl to reveal the face of a teenager with brown skin, red hair, and a haunting gaze.
 ^093
 
-The cloaked figure is Reya Mantlemorn, a lawful good female human Hellrider (use the [veteran](3-Mechanics/CLI/bestiary/humanoid/veteran.md) stat block). Reya speaks Common.
+The cloaked figure is Reya Mantlemorn, a lawful good female human Hellrider (use the [veteran](3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) stat block). Reya speaks Common.
 
 Born in the land of Turmish, Reya came to the holy city of Elturel to train as a Hellrider when she was twelve. As a faithful follower of Torm, Reya is prepared and has trained to sacrifice herself for the greater good.
 
@@ -919,7 +919,7 @@ If the characters reveal that they're working for the Flaming Fist, Reya draws h
 
 Reya is willing to join the adventuring party if the characters let her. She has no friends in Baldur's Gate, and she can't reach Vanthampur Villa in the heavily guarded Upper City without help. She does her best to aid the party, as long as the characters' actions and decisions lead her closer to discovering the truth of what happened to Elturel. Once the city's fate becomes known to her, Reya leaps at any chance to rescue the city from the Nine Hells.
 
-As an NPC, Reya falls under the DM's control. But if running her becomes too much of a burden for you, see if one of the players wants to run Reya as a secondary character. You can provide the consenting player with a copy of the [veteran](3-Mechanics/CLI/bestiary/humanoid/veteran.md) stat block in the "Monster Manual".
+As an NPC, Reya falls under the DM's control. But if running her becomes too much of a burden for you, see if one of the players wants to run Reya as a secondary character. You can provide the consenting player with a copy of the [veteran](3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) stat block in the "Monster Manual".
 
 ## Vanthampur Villa
 
@@ -929,7 +929,7 @@ The characters might want to visit Vanthampur Villa after leaving the Dungeon of
 
 ### Getting to the Villa
 
-Twenty [guards](3-Mechanics/CLI/bestiary/humanoid/guard.md) of the Watch vigilantly are posted at every gate to the Upper City. If the characters present the badges given to them by Captain Zodge, the Watch members let them pass through the gates, even if they are accompanied by a prisoner or a known fugitive such as Reya Mantlemorn. Any character without a badge is questioned and required to pay a gate toll of 2 cp.
+Twenty [guards](3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) of the Watch vigilantly are posted at every gate to the Upper City. If the characters present the badges given to them by Captain Zodge, the Watch members let them pass through the gates, even if they are accompanied by a prisoner or a known fugitive such as Reya Mantlemorn. Any character without a badge is questioned and required to pay a gate toll of 2 cp.
 
 If the characters have Amrik as their prisoner, he does nothing to provoke a confrontation with the guards at the gate, fearing he might be hurt.
 
@@ -946,8 +946,8 @@ Thurstwell's real problem is that his mother doesn't see him as her successor, a
 The last member of the Vanthampur family is Slobberchops, a mean-looking [tressym](3-Mechanics/CLI/bestiary/monstrosity/tressym-bgdia.md) (winged cat) with a bobtail and numerous battle scars. Characters who encounter Slobberchops can try to befriend it (see area V5).
 
 > [!gallery]
-> ![Map 1.5: Vanthampur Villa](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/017-47l11-map-1-5-dm.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/018-9v1gm-map-1-5.webp#gallery)
+> ![Map 1.5: Vanthampur Villa](file://adventure/BGDIA/017-47l11-map-1-5-dm.webp#gallery)
+> ![Player Version](file://adventure/BGDIA/018-9v1gm-map-1-5.webp#gallery)
 
 ### About the Villa
 
@@ -957,7 +957,7 @@ The villa's wooden doors and lead-framed windows aren't locked, and the Vanthamp
 
 #### Servants
 
-The Vanthampurs employ four full-time live-in servants (all neutral human [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner.md)):
+The Vanthampurs employ four full-time live-in servants (all neutral human [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)):
 
 - Fendrick Gray, a decrepit seventy-year-old butler  
 - Sarvinder Peck, a salty fifty-two-year-old groundskeeper and stable master  
@@ -972,19 +972,19 @@ The following area descriptions are keyed to map 1.5.
 
 #### V1. Yard
 
-Nine lawful evil human [guards](3-Mechanics/CLI/bestiary/humanoid/guard.md) patrol the yard in three groups of three. When the characters first arrive, these groups are located at the points marked "V1" on map 1.5, and are circling the yard counterclockwise.
+Nine lawful evil human [guards](3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) patrol the yard in three groups of three. When the characters first arrive, these groups are located at the points marked "V1" on map 1.5, and are circling the yard counterclockwise.
 
 The guards attack anyone who trespasses onto the estate without the consent or prior notification of Duke Vanthampur or one of her sons. If the characters have Amrik or Mortlock with them, they can convince either of the duke's sons to talk them past the guards. Otherwise, the characters need to kill the guards or sneak past them. The guards are too well paid to accept bribes, and they have no respect for the Flaming Fist. To sneak past a group of guards, each character must succeed on a DC 13 Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) check. This check is made with advantage at night or in fog.
 
 #### V2. Stable House
 
-This stone building contains stables for four [draft horses](3-Mechanics/CLI/bestiary/beast/draft-horse.md), plus a fully equipped smithy with an anvil and a hearth. Sarvinder Peck (see "Servants" above) can be encountered here, making and fitting new shoes for the horses.
+This stone building contains stables for four [draft horses](3-Mechanics/CLI/bestiary/beast/draft-horse-xmm.md), plus a fully equipped smithy with an anvil and a hearth. Sarvinder Peck (see "Servants" above) can be encountered here, making and fitting new shoes for the horses.
 
 ##### Trapdoor
 
 A 3-foot-square flagstone in the southwest corner of the stable doubles as a hidden trapdoor in the floor. Any character who searches the area finds the trapdoor with a successful DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. The stone covers a brick-walled shaft and a wooden ladder that descends 15 feet to area V27 of the dungeon. If the Vanthampurs need to flee the dungeon, they can use the trapdoor to reach their horses quickly.
 
-![Thurstwell Vanthampur](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/019-637000771038732405.webp#center)
+![Thurstwell Vanthampur](file://adventure/BGDIA/019-637000771038732405.webp#center)
 
 #### V3. Foyer
 
@@ -997,7 +997,7 @@ Describe this area to the players as follows:
 > Apart from the main entrance, this room has two exits. A plaster shelf lined with ornate vases circles the room at a height of nine feet. Spread across the flagstone floor is a ten-foot-wide, fifteen-foot-long rug of exquisite design, depicting a royal coronation. Two tapestries hanging on the walls depict a dragon flying over a ship and pilgrims on camels, respectively.
 ^0a0
 
-Four [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) [imps](3-Mechanics/CLI/bestiary/fiend/imp.md) lurk among the vases on the high shelf, one in each corner. The imps swoop down to attack anyone they perceive as intruders, including characters who have Mortlock or Amrik as a prisoner.
+Four [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) [imps](3-Mechanics/CLI/bestiary/fiend/imp-xmm.md) lurk among the vases on the high shelf, one in each corner. The imps swoop down to attack anyone they perceive as intruders, including characters who have Mortlock or Amrik as a prisoner.
 
 ##### Treasure
 
@@ -1025,7 +1025,7 @@ This room contains a barrel of fresh water and a brick-walled staircase that des
 
 #### V8. Parlor
 
-While entertaining visitors in this room, the duke likes to sit in an austere, high-backed chair facing a pair of padded couches and a coffee table. A hidden compartment in the left armrest of the duke's chair contains a silvered dagger. A character who examines the chair can locate the hidden compartment with a successful DC 12 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check.
+While entertaining visitors in this room, the duke likes to sit in an austere, high-backed chair facing a pair of padded couches and a coffee table. A hidden compartment in the left armrest of the duke's chair contains a [silvered dagger](3-Mechanics/CLI/items/silvered-weapon-xdmg.md). A character who examines the chair can locate the hidden compartment with a successful DC 12 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check.
 
 Thin drapes cover the windows to diffuse the natural light, and the walls are lined with framed paintings of the duke, her three dead husbands, her three sons, and the family's winged cat, Slobberchops.
 
@@ -1042,11 +1042,11 @@ Thalamra Vanthampur and her sons gather here once a tenday for an always-tense f
 > An iron-wrought chandelier hangs above a black oak dining table surrounded by eight high-backed chairs carved to look like devils. A fireplace dominates one wall, flanked by red-curtained windows. A handsome, glass-doored wine cabinet stands against one wall.
 ^0a9
 
-Perched on the chandelier are three [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) [imps](3-Mechanics/CLI/bestiary/fiend/imp.md) that behave like the imps in area V3. A rope-and-pulley mechanism allows the chandelier to be lowered and raised. The rope is tied around a hook mounted on the east wall near the wine cabinet.
+Perched on the chandelier are three [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) [imps](3-Mechanics/CLI/bestiary/fiend/imp-xmm.md) that behave like the imps in area V3. A rope-and-pulley mechanism allows the chandelier to be lowered and raised. The rope is tied around a hook mounted on the east wall near the wine cabinet.
 
 ##### Treasure
 
-The cabinet contains a set of eight red crystal goblets (25 gp each) and sixteen bottles of wine. Fifteen of the bottles contain fine wine (10 gp each). The last bottle is laced with [Midnight Tears](3-Mechanics/CLI/items/midnight-tears.md), a tasteless poison (see ""Poisons"" in chapter 8 of the "Dungeon Master's Guide"). This tainted bottle is set aside for guests whom the duke intends to eliminate.
+The cabinet contains a set of eight red crystal goblets (25 gp each) and sixteen bottles of wine. Fifteen of the bottles contain fine wine (10 gp each). The last bottle is laced with [Midnight Tears](3-Mechanics/CLI/items/midnight-tears-xdmg.md), a tasteless poison (see ""Poisons"" in chapter 8 of the "Dungeon Master's Guide"). This tainted bottle is set aside for guests whom the duke intends to eliminate.
 
 #### V10. Gallery
 
@@ -1062,7 +1062,7 @@ A 6-foot-tall wax statue in one corner depicts [Duke Thalamra Vanthampur](3-Mech
 
 Lanterns hang from the rafters of this drafty hall. The staircase to the north descends 15 feet to area V10.
 
-Five lawful evil human [guards](3-Mechanics/CLI/bestiary/humanoid/guard.md) stand watch here—one by each door. They attack anyone not accompanied by a Vanthampur family member. If they hear trouble elsewhere, the guards can't be [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised), but they stay put unless ordered to move by a member of the family. Combat here alerts [Thurstwell Vanthampur](3-Mechanics/CLI/bestiary/npc/thurstwell-vanthampur-bgdia.md) in area V13.
+Five lawful evil human [guards](3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) stand watch here—one by each door. They attack anyone not accompanied by a Vanthampur family member. If they hear trouble elsewhere, the guards can't be [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised), but they stay put unless ordered to move by a member of the family. Combat here alerts [Thurstwell Vanthampur](3-Mechanics/CLI/bestiary/npc/thurstwell-vanthampur-bgdia.md) in area V13.
 
 #### V12. Balcony
 
@@ -1072,9 +1072,9 @@ A crenelated stone battlement encloses this balcony overlooking the front yard. 
 
 Drab curtains cover the windows of this plain room, which contains a bed, a padlocked iron chest, a claw-footed iron bathtub, and a fireplace. Standing in the middle of the room is [Thurstwell Vanthampur](3-Mechanics/CLI/bestiary/npc/thurstwell-vanthampur-bgdia.md), a frail and hateful forty-two-year-old man clutching an [infernal puzzle box](3-Mechanics/CLI/items/infernal-puzzle-box-bgdia.md) (see "Treasure" below). If alerted to intruders, Thurstwell has locked the puzzle box in the iron chest and tucked the key into his robe pocket.
 
-Thurstwell commands several imp spies who enter and leave his room through the chimney, but only one such creature is present when the characters arrive. This [imp](3-Mechanics/CLI/bestiary/fiend/imp.md) is [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible), lurks in the fireplace, and attacks anyone who threatens Thurstwell.
+Thurstwell commands several imp spies who enter and leave his room through the chimney, but only one such creature is present when the characters arrive. This [imp](3-Mechanics/CLI/bestiary/fiend/imp-xmm.md) is [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible), lurks in the fireplace, and attacks anyone who threatens Thurstwell.
 
-Thurstwell greets intruders in the most uncivil fashion—by casting [sacred flame](3-Mechanics/CLI/spells/sacred-flame.md) at the nearest one. On the same turn, he casts [sanctuary](3-Mechanics/CLI/spells/sanctuary.md) on himself as a bonus action and uses his movement to cower behind the bed while the imp defends him. If taken prisoner, he whines about the failure of his guards to protect him and bides his time, hoping his captors get in over their heads and afford him a chance to escape. If interrogated, he offers the following information in exchange for his release:
+Thurstwell greets intruders in the most uncivil fashion—by casting [sacred flame](3-Mechanics/CLI/spells/sacred-flame-xphb.md) at the nearest one. On the same turn, he casts [sanctuary](3-Mechanics/CLI/spells/sanctuary-xphb.md) on himself as a bonus action and uses his movement to cower behind the bed while the imp defends him. If taken prisoner, he whines about the failure of his guards to protect him and bides his time, hoping his captors get in over their heads and afford him a chance to escape. If interrogated, he offers the following information in exchange for his release:
 
 - His mother, the duke, is in the dungeon below the villa with [Thavius Kreeg](3-Mechanics/CLI/bestiary/npc/thavius-kreeg-bgdia.md). She and the former high overseer of Elturel are plotting to seize control of Baldur's Gate.  
 - He and his brothers recently stole the [Shield of the Hidden Lord](3-Mechanics/CLI/items/shield-of-the-hidden-lord-bgdia.md) from a crypt under the city. A powerful devil named Gargauth is trapped in the shield, and has vowed to help the Vanthampurs conquer Baldur's Gate if released. [Thavius Kreeg](3-Mechanics/CLI/bestiary/npc/thavius-kreeg-bgdia.md) is confident that he can devise a way to release Gargauth from the shield.  
@@ -1084,7 +1084,7 @@ Thurstwell greets intruders in the most uncivil fashion—by casting [sacred fla
 
 The [infernal puzzle box](3-Mechanics/CLI/items/infernal-puzzle-box-bgdia.md) is a new magic item described in Appendix C. Each puzzle box is unique in its design. This particular box belongs to [Thavius Kreeg](3-Mechanics/CLI/bestiary/npc/thavius-kreeg-bgdia.md) and was entrusted to Duke Vanthampur for safekeeping. Curious to know what's inside the box, the duke gave it to Thurstwell—supposedly her smartest son—to see if he could open it, but he's had no luck so far. Thurstwell can be threatened into relinquishing the box, or it can easily be taken from him. However, opening the box is beyond the ability of any of the characters. Falaster Fisk, a spy imprisoned in the dungeon (area V29), can advise the characters that taking the box to Candlekeep is their best bet for learning what it contains. The box holds a copy of the contract Thavius forged with Zariel to doom the city of Elturel.
 
-The padlock on the chest can be picked by a character with [thieves' tools](3-Mechanics/CLI/items/thieves-tools.md) who succeeds on a DC 15 Dexterity check. The chest weighs 50 pounds and contains a jumble of wrinkled garments, red wax candles, quills, blank sheets of parchment, and jars of ink. It also holds an unlocked wooden coffer containing 73 gp, 120 sp, and a [potion of healing](3-Mechanics/CLI/items/potion-of-healing.md), as well as a black-covered tome titled *Apocalypto*—a poetic prophecy by an unknown author envisioning the end of the multiverse (worth 50 gp).
+The padlock on the chest can be picked by a character with [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md) who succeeds on a DC 15 Dexterity check. The chest weighs 50 pounds and contains a jumble of wrinkled garments, red wax candles, quills, blank sheets of parchment, and jars of ink. It also holds an unlocked wooden coffer containing 73 gp, 120 sp, and a [potion of healing](3-Mechanics/CLI/items/potion-of-healing-xdmg.md), as well as a black-covered tome titled *Apocalypto*—a poetic prophecy by an unknown author envisioning the end of the multiverse (worth 50 gp).
 
 #### V14. Mortlock's Bedroom
 
@@ -1104,25 +1104,25 @@ This room contains a vanity topped with a framed oval mirror, bottles of perfume
 
 ##### Treasure
 
-The vanity holds six bottles of fine perfume (20 gp each), a silver hairbrush inlaid with lapis lazuli (100 gp), and a wooden jewelry box with electrum filigree (75 gp) holding a pearl necklace (250 gp), a platinum cameo shaped like a winged cat (50 gp), and two [potions of healing](3-Mechanics/CLI/items/potion-of-healing.md) in thin crystal vials.
+The vanity holds six bottles of fine perfume (20 gp each), a silver hairbrush inlaid with lapis lazuli (100 gp), and a wooden jewelry box with electrum filigree (75 gp) holding a pearl necklace (250 gp), a platinum cameo shaped like a winged cat (50 gp), and two [potions of healing](3-Mechanics/CLI/items/potion-of-healing-xdmg.md) in thin crystal vials.
 
 #### V17. Master Bedroom
 
-Duke Vanthampur retires to this chamber when she needs to rest or shake off a headache. She also takes most of her meals here. Food is delivered via a dumbwaiter in the southwest corner (see area V5 for details), which has a cord that rings a bell in the kitchen. Other features of the room include a canopied bed with a gossamer shroud for keeping insects at bay, a freestanding wooden privacy screen, a cast-iron bathtub with clawed feet, a fireplace, and a padlocked iron chest. The padlock is cast in the shape of a horned devil's scowling visage. Thalamra Vanthampur carries the key to the padlock (see area V28), which can be picked by a character with [thieves' tools](3-Mechanics/CLI/items/thieves-tools.md) who succeeds on a DC 17 Dexterity check.
+Duke Vanthampur retires to this chamber when she needs to rest or shake off a headache. She also takes most of her meals here. Food is delivered via a dumbwaiter in the southwest corner (see area V5 for details), which has a cord that rings a bell in the kitchen. Other features of the room include a canopied bed with a gossamer shroud for keeping insects at bay, a freestanding wooden privacy screen, a cast-iron bathtub with clawed feet, a fireplace, and a padlocked iron chest. The padlock is cast in the shape of a horned devil's scowling visage. Thalamra Vanthampur carries the key to the padlock (see area V28), which can be picked by a character with [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md) who succeeds on a DC 17 Dexterity check.
 
 ##### Treasure
 
-The chest weighs 65 pounds and is trapped (see "Trap" below). It contains three thin, black-covered ledgers with entries written in Infernal (records of Duke Vanthampur's legitimate business dealings), a set of [calligrapher's supplies](3-Mechanics/CLI/items/calligraphers-supplies.md) (15 gp), a [poisoner's kit](3-Mechanics/CLI/items/poisoners-kit.md) (50 gp), a coin pouch made from a sheep's bladder (containing 22 pp, 85 gp, and 113 sp), and [pipes of the sewers](3-Mechanics/CLI/items/pipes-of-the-sewers.md).
+The chest weighs 65 pounds and is trapped (see "Trap" below). It contains three thin, black-covered ledgers with entries written in Infernal (records of Duke Vanthampur's legitimate business dealings), a set of [calligrapher's supplies](3-Mechanics/CLI/items/calligraphers-supplies-xphb.md) (15 gp), a [poisoner's kit](3-Mechanics/CLI/items/poisoners-kit-xphb.md) (50 gp), a coin pouch made from a sheep's bladder (containing 22 pp, 85 gp, and 113 sp), and [pipes of the sewers](3-Mechanics/CLI/items/pipes-of-the-sewers-xdmg.md).
 
 ##### Trap
 
-The chest has a false bottom underlaid with metal springs. The combined weight of the items in the chest holds the false bottom down, but if three or more items are removed, the false bottom rises and pulls the cork out of a thin glass vial hidden underneath it. The uncorked vial releases a cloud of poisonous gas that fills a 10-foot-radius sphere centered on the chest. The cloud is stationary and lasts for 1 minute, or until it's dispersed by a strong wind. Any creature that starts its turn in the cloud must succeed on a DC 13 Constitution saving throw or take 11 (`2d10`) poison damage.
+The chest has a false bottom underlaid with metal springs. The combined weight of the items in the chest holds the false bottom down, but if three or more items are removed, the false bottom rises and pulls the cork out of a thin glass vial hidden underneath it. The uncorked vial releases a cloud of poisonous gas that fills a 10-foot-radius sphere centered on the chest. The cloud is stationary and lasts for 1 minute, or until it's dispersed by a strong wind. Any creature that starts its turn in the cloud must succeed on a DC 13 Constitution saving throw or take `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) poison damage.
 
 #### V18. Duke's Study
 
 An oak writing desk angled to face the middle of the room has a matching chair behind it and two black candlesticks atop it. Other furnishings include three bookcases and a freestanding suit of black plate armor topped with a bucket helm and equipped with a longsword and a shield. A wrought-iron spiral staircase leads up to area V19.
 
-The suit of armor is a [helmed horror](3-Mechanics/CLI/bestiary/construct/helmed-horror.md) that was fashioned on Avernus. The construct understands Infernal but can't speak, and it is immune to the following spells: [fire bolt](3-Mechanics/CLI/spells/fire-bolt.md), [sacred flame](3-Mechanics/CLI/spells/sacred-flame.md), and [shocking grasp](3-Mechanics/CLI/spells/shocking-grasp.md). The only creatures permitted in this area are Duke Vanthampur and her sons. If any other creature enters the room unescorted, a fiery orange light fills the helmed horror's hollow interior as it attacks. The helmed horror pursues intruders beyond the room, returning here only after the trespassers leave the villa or are hacked to pieces.
+The suit of armor is a [helmed horror](3-Mechanics/CLI/bestiary/construct/helmed-horror-xmm.md) that was fashioned on Avernus. The construct understands Infernal but can't speak, and it is immune to the following spells: [fire bolt](3-Mechanics/CLI/spells/fire-bolt-xphb.md), [sacred flame](3-Mechanics/CLI/spells/sacred-flame-xphb.md), and [shocking grasp](3-Mechanics/CLI/spells/shocking-grasp-xphb.md). The only creatures permitted in this area are Duke Vanthampur and her sons. If any other creature enters the room unescorted, a fiery orange light fills the helmed horror's hollow interior as it attacks. The helmed horror pursues intruders beyond the room, returning here only after the trespassers leave the villa or are hacked to pieces.
 
 ##### Bookcases
 
@@ -1137,21 +1137,21 @@ If the characters climb the wrought-iron spiral staircase from area V18, describ
 > The spiral staircase climbs fifteen feet to a square room with crisscrossing rafters ten feet overhead and a peaked roof above that. An empty bookcase dominates the west wall, and two filthy padlocked cages stand on the floor. Each cage holds a human prisoner and a chamberpot.
 ^0bc
 
-The keys to open the cages' padlocks can be found in area V18. A character with [thieves' tools](3-Mechanics/CLI/items/thieves-tools.md) can also pick a lock with a successful DC 15 Dexterity check. The locks can't be picked from inside the cages.
+The keys to open the cages' padlocks can be found in area V18. A character with [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md) can also pick a lock with a successful DC 15 Dexterity check. The locks can't be picked from inside the cages.
 
-Perched atop the cages are two [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) [imps](3-Mechanics/CLI/bestiary/fiend/imp.md). When no one else is around, the imps torment the prisoners with idle threats and taunts, and the prisoners know not to speak or cry out lest the imps sting them. The imps avoid combat with well-armed intruders. If anyone tries to free a prisoner, the [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) imp closest to that prisoner slips through the bars of the cage and stings the prisoner to death, turning visible as it does so. On its next turn, the imp turns [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) and takes refuge above the rafters.
+Perched atop the cages are two [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) [imps](3-Mechanics/CLI/bestiary/fiend/imp-xmm.md). When no one else is around, the imps torment the prisoners with idle threats and taunts, and the prisoners know not to speak or cry out lest the imps sting them. The imps avoid combat with well-armed intruders. If anyone tries to free a prisoner, the [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) imp closest to that prisoner slips through the bars of the cage and stings the prisoner to death, turning visible as it does so. On its next turn, the imp turns [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) and takes refuge above the rafters.
 
 ##### Prisoners
 
-The prisoner in the northern cage is Shaleen Zoraz (neutral female human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md)), a sewer maintenance supervisor who was backing an effort to extend the Lower City's sewer system into the underground space occupied by the Dungeon of the Dead Three. Duke Vanthampur plans to hold Shaleen for a few days before letting her go. The imps have so terrorized Shaleen that, if freed, she intends to abandon her expansion plans and never say an unkind word about the Vanthampurs for the rest of her life.
+The prisoner in the northern cage is Shaleen Zoraz (neutral female human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), a sewer maintenance supervisor who was backing an effort to extend the Lower City's sewer system into the underground space occupied by the Dungeon of the Dead Three. Duke Vanthampur plans to hold Shaleen for a few days before letting her go. The imps have so terrorized Shaleen that, if freed, she intends to abandon her expansion plans and never say an unkind word about the Vanthampurs for the rest of her life.
 
-The prisoner in the southern cage is Kaejil Orûnmar (neutral evil male human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md)), a tax collector who has been giving the Vanthampurs a hard time. Once Duke Vanthampur is satisfied that no one important will miss him, she plans to kill Kaejil and feed his remains to the rats in the city sewers. If freed, Kaejil plans to leave Baldur's Gate and never return.
+The prisoner in the southern cage is Kaejil Orûnmar (neutral evil male human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), a tax collector who has been giving the Vanthampurs a hard time. Once Duke Vanthampur is satisfied that no one important will miss him, she plans to kill Kaejil and feed his remains to the rats in the city sewers. If freed, Kaejil plans to leave Baldur's Gate and never return.
 
 ## Under the Villa
 
 > [!gallery]
-> ![Map 1.6: Under the Villa](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/020-zb6kf-map-1-6-dm.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/021-8iocy-map-1-6-player.webp#gallery)
+> ![Map 1.6: Under the Villa](file://adventure/BGDIA/020-zb6kf-map-1-6-dm.webp#gallery)
+> ![Player Version](file://adventure/BGDIA/021-8iocy-map-1-6-player.webp#gallery)
 
 As the minister responsible for the city's sewer system, Thalamra Vanthampur cordoned off the sewers beneath her villa, creating a private dungeon complex where she could conduct religious ceremonies and harbor guests who share her devotion to the archdevil Zariel.
 
@@ -1161,13 +1161,13 @@ The dungeon is remarkably clean and kept in excellent condition. Its common feat
 
 **Lit Tunnels**. Tunnels are 9 feet high and have curved ceilings. Oil lanterns fitted with thick panes of green-tinted glass hang at regular intervals on 1-foot-long iron chains. Each lantern sheds dim light in a 10-foot radius.
 
-**Iron Doors**. Doors are made of riveted iron plates, with iron handles and well-oiled hinges. Some doors have locks or barred windows set into them, as noted in the text. A character can use [thieves' tools](3-Mechanics/CLI/items/thieves-tools.md) to pick a door's lock with a successful DC 15 Dexterity check, or force open a locked door with a successful DC 24 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check.
+**Iron Doors**. Doors are made of riveted iron plates, with iron handles and well-oiled hinges. Some doors have locks or barred windows set into them, as noted in the text. A character can use [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md) to pick a door's lock with a successful DC 15 Dexterity check, or force open a locked door with a successful DC 24 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check.
 
 **Surfaces and Secret Doors**. The dungeon has brick walls and stone-tiled floors. Rooms have 10-foot-high plaster ceilings. Secret doors blend in with the surrounding walls, but a character with [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) or sufficient light can find a secret door with a successful DC 10 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check.
 
-**Smell of Incense**. Pairs of black-robed human [cultists](3-Mechanics/CLI/bestiary/humanoid/cultist.md) march through the corridors with censers, constantly perfuming the sewers with incense to counteract what would otherwise be a mildly nauseating stench.
+**Smell of Incense**. Pairs of black-robed human [cultists](3-Mechanics/CLI/bestiary/humanoid/cultist-xmm.md) march through the corridors with censers, constantly perfuming the sewers with incense to counteract what would otherwise be a mildly nauseating stench.
 
-![Duke Thalamra Vanthampur](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/022-637000757702239303.webp#center)
+![Duke Thalamra Vanthampur](file://adventure/BGDIA/022-637000757702239303.webp#center)
 
 ### Dungeon Locations
 
@@ -1184,7 +1184,7 @@ The characters might enter this cellar by descending the stairs from area V7, or
 > Four stone pillars brace the ten-foot-high vaulted ceiling of this dry cellar, the walls of which are lined by a dozen barrels on wooden braces. Half the barrels have brass spigots tapped into them. The room also contains two stacks of wooden crates—one in the middle of the room and another by the south wall.
 ^0c2
 
-The topmost crate in the middle of the room contains three [spined devils](3-Mechanics/CLI/bestiary/fiend/spined-devil.md) that spy on this area through knotholes in the crate's sides. These devils burst forth and attack intruders on sight. The other crates in the middle of the cellar contain dried meat, loaves of bread, wheels of cheese, and other assorted foodstuffs—enough to sustain the Vanthampurs and the cultists in the dungeon for a month. The crates by the south wall contain candles, oil flasks, incense, and rat traps.
+The topmost crate in the middle of the room contains three [spined devils](3-Mechanics/CLI/bestiary/fiend/spined-devil-xmm.md) that spy on this area through knotholes in the crate's sides. These devils burst forth and attack intruders on sight. The other crates in the middle of the cellar contain dried meat, loaves of bread, wheels of cheese, and other assorted foodstuffs—enough to sustain the Vanthampurs and the cultists in the dungeon for a month. The crates by the south wall contain candles, oil flasks, incense, and rat traps.
 
 Six of the barrels contain drinking water, and six contain ale.
 
@@ -1206,11 +1206,11 @@ Smooth stone trenches cut into the floors channel water and waste toward area V3
 
 Ordinary rats occasionally enter the dungeon through the open pipes in the walls. The cultists lay traps to catch and kill these rats while they perfume the dungeon with incense. As the characters make their way through the tunnels, they might encounter these cultists.
 
-A typical encounter consists of two lawful evil human [cultists](3-Mechanics/CLI/bestiary/humanoid/cultist.md) dressed in black robes, each carrying a censer and wearing a thin, golden mask shaped like a devil's face (and worth 25 gp to an interested buyer). The censers contain burning incense. A devil mask covers its wearer's whole face except for the eyes, nostrils, and mouth. No two masks look exactly alike.
+A typical encounter consists of two lawful evil human [cultists](3-Mechanics/CLI/bestiary/humanoid/cultist-xmm.md) dressed in black robes, each carrying a censer and wearing a thin, golden mask shaped like a devil's face (and worth 25 gp to an interested buyer). The censers contain burning incense. A devil mask covers its wearer's whole face except for the eyes, nostrils, and mouth. No two masks look exactly alike.
 
-If this encounter occurs in a tunnel that has a sewer trench running down the middle of it, the two cultists are walking on opposite sides of the trench, moving in the same direction while swinging their censers gently. You can make the encounter harder by replacing the cultists with [cult fanatics](3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md), or adding one or more [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) [imps](3-Mechanics/CLI/bestiary/fiend/imp.md) as escorts.
+If this encounter occurs in a tunnel that has a sewer trench running down the middle of it, the two cultists are walking on opposite sides of the trench, moving in the same direction while swinging their censers gently. You can make the encounter harder by replacing the cultists with [cult fanatics](3-Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md), or adding one or more [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) [imps](3-Mechanics/CLI/bestiary/fiend/imp-xmm.md) as escorts.
 
-If any wandering cultists are defeated, reduce the number of cultists encountered in area V33 accordingly. If the characters make no effort to hide the bodies of the cultists they defeat, someone stumbles upon them eventually and warns the [barbed devil](3-Mechanics/CLI/bestiary/fiend/barbed-devil.md) in area V26. Assuming it hasn't been defeated already, the devil scours the dungeon for trespassers once notified of their presence.
+If any wandering cultists are defeated, reduce the number of cultists encountered in area V33 accordingly. If the characters make no effort to hide the bodies of the cultists they defeat, someone stumbles upon them eventually and warns the [barbed devil](3-Mechanics/CLI/bestiary/fiend/barbed-devil-xmm.md) in area V26. Assuming it hasn't been defeated already, the devil scours the dungeon for trespassers once notified of their presence.
 
 #### V23. Cold Storage
 
@@ -1242,7 +1242,7 @@ When the characters enter the room, set the scene by reading aloud the following
 > Two rows of tall wrought-iron candlesticks light this vaulted chamber, each one bearing nine flickering candles. A seven-foot-tall statue of an angel with white glowing eyes and a longsword stands atop a dais to the south. A six-foot-tall fiend bristling with spines stands west of the statue, glaring at four black-robed cultists who kneel and chant in the middle of the room, their faces hidden behind golden devil masks. Nine tapestries depicting the layers of the Nine Hells adorn the walls.
 ^0cc
 
-The spined fiend is a [barbed devil](3-Mechanics/CLI/bestiary/fiend/barbed-devil.md) named Odious. Sent by Zariel to serve Duke Vanthampur, the devil answers only to those two. The chanting figures are four lawful evil human [cultists](3-Mechanics/CLI/bestiary/humanoid/cultist.md) wearing black robes and golden devil masks similar to those worn by the cultists in area V22. The devil and the cultists attack intruders on sight, but can be duped by characters wearing disguises (see the "Disguised Characters" sidebar).
+The spined fiend is a [barbed devil](3-Mechanics/CLI/bestiary/fiend/barbed-devil-xmm.md) named Odious. Sent by Zariel to serve Duke Vanthampur, the devil answers only to those two. The chanting figures are four lawful evil human [cultists](3-Mechanics/CLI/bestiary/humanoid/cultist-xmm.md) wearing black robes and golden devil masks similar to those worn by the cultists in area V22. The devil and the cultists attack intruders on sight, but can be duped by characters wearing disguises (see the "Disguised Characters" sidebar).
 
 ##### Statue
 
@@ -1250,7 +1250,7 @@ The statue represents Zariel in her angelic form. It's a Large object with AC 17
 
 ##### Treasure
 
-The statue's head and neck are hollow. Lodged in this cavity is a [+1 mace](3-Mechanics/CLI/items/1-weapon.md) that can be removed only if the statue is destroyed. The head of the mace sheds bright light in a 5-foot-radius and dim light for an additional 5 feet. The wielder of the mace can extinguish or ignite its light as an action. (This light is what causes the statue's eyes to glow.)
+The statue's head and neck are hollow. Lodged in this cavity is a [+1 mace](3-Mechanics/CLI/items/1-weapon-xdmg.md) that can be removed only if the statue is destroyed. The head of the mace sheds bright light in a 5-foot-radius and dim light for an additional 5 feet. The wielder of the mace can extinguish or ignite its light as an action. (This light is what causes the statue's eyes to glow.)
 
 #### V27. Escape Tunnel
 
@@ -1284,13 +1284,13 @@ Read the following boxed text when the characters open the door to this room:
 > A broad-shouldered figure with purple skin and a beard of writhing snakelike tentacles stands in the middle of a room lined by iron doors, tightening its grip on a glaive as it glares at you through the darkness. Each door is set with a small barred window, and a ring of keys hangs from the creature's belt.
 ^0d4
 
-The prison guard is a [bearded devil](3-Mechanics/CLI/bestiary/fiend/bearded-devil.md) named Thoss, which attacks anyone it perceives as an intruder or a threat. Characters disguised as cultists can try to dupe Thoss into allowing them to interrogate or release prisoners (see the "Disguised Characters"). The keys dangling from the devil's belt unlock the cell doors.
+The prison guard is a [bearded devil](3-Mechanics/CLI/bestiary/fiend/bearded-devil-xmm.md) named Thoss, which attacks anyone it perceives as an intruder or a threat. Characters disguised as cultists can try to dupe Thoss into allowing them to interrogate or release prisoners (see the "Disguised Characters"). The keys dangling from the devil's belt unlock the cell doors.
 
 Two of the cells (your choice) contain prisoners. The other four cells are empty, though captured characters might end up here (see the "Imprisoned Characters" sidebar). If you need to introduce a new party member to replace one who died, that character can begin the adventure locked in one of the empty cells.
 
 ##### Falaster Fisk
 
-The first prisoner is a short, lean, erudite male human in his fifties named Falaster Fisk. Originally from Calimshan, Falaster is a neutral [spy](3-Mechanics/CLI/bestiary/humanoid/spy.md) with no weapons. He speaks Common and Infernal, wears an ankle-length caftan, and has dark hair. His neatly trimmed goatee beard is dyed crimson.
+The first prisoner is a short, lean, erudite male human in his fifties named Falaster Fisk. Originally from Calimshan, Falaster is a neutral [spy](3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md) with no weapons. He speaks Common and Infernal, wears an ankle-length caftan, and has dark hair. His neatly trimmed goatee beard is dyed crimson.
 
 Falaster works for [Sylvira Savikas](3-Mechanics/CLI/bestiary/npc/sylvira-savikas-bgdia.md), a tiefling expert on the Nine Hells currently based in Candlekeep. When [Thavius Kreeg](3-Mechanics/CLI/bestiary/npc/thavius-kreeg-bgdia.md) arrived in Baldur's Gate a few days ago, it didn't take Falaster long to hear rumors that the Vanthampurs were sheltering him. Falaster tried to find out why and was caught. He can provide his rescuers with the following useful information:
 
@@ -1302,7 +1302,7 @@ If released, Falaster helps the characters as best he can while staying out of h
 
 ##### Satiir Thione-Hhune
 
-The second prisoner is a fit, aristocratic human woman in her seventies named Lady Satiir Thione-Hhune. Born into the rich and politically powerful Hhune patriar family, Satiir is a neutral evil [noble](3-Mechanics/CLI/bestiary/humanoid/noble.md) with no weapons or armor (AC 11). She was kidnapped by the Vanthampurs to be used as leverage in the event that the Hhunes find out who stole the [Shield of the Hidden Lord](3-Mechanics/CLI/items/shield-of-the-hidden-lord-bgdia.md) from their family's crypt.
+The second prisoner is a fit, aristocratic human woman in her seventies named Lady Satiir Thione-Hhune. Born into the rich and politically powerful Hhune patriar family, Satiir is a neutral evil [noble](3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md) with no weapons or armor (AC 11). She was kidnapped by the Vanthampurs to be used as leverage in the event that the Hhunes find out who stole the [Shield of the Hidden Lord](3-Mechanics/CLI/items/shield-of-the-hidden-lord-bgdia.md) from their family's crypt.
 
 Unknown to the Vanthampurs, Satiir is a member of a secret evil order whose members call themselves the Knights of the Shield, and who are the self-appointed guardians of the [Shield of the Hidden Lord](3-Mechanics/CLI/items/shield-of-the-hidden-lord-bgdia.md). Satiir doesn't speak of the shield. Instead, she tells her rescuers that the Vanthampurs were planning to use her to keep the Hhunes from opposing Duke Vanthampur's bid to become the new grand duke. If Satiir is allowed to escape, she informs her family and associates that the Vanthampurs stole the shield, destroying Duke Vanthampur's political future in Baldur's Gate. The characters might encounter more of Satiir's friends on the way to Candlekeep (see "Knights of the Shield").
 
@@ -1323,7 +1323,7 @@ Four wooden wardrobes stand against the walls in this area. The cultists store t
 
 #### V32. Connecting Tunnel
 
-The dim light from two of the cultists' green-glass lanterns doesn't reach the ends of this corridor, creating pools of darkness there. Two lawful evil human [cult fanatics](3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md) guard the tunnel, one at each end. Characters with [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) or their own light sources spot the fanatics. Otherwise, the fanatics surprise the characters. Each fanatic wears a black robe and a thin gold devil mask similar to those worn by cultists in other areas.
+The dim light from two of the cultists' green-glass lanterns doesn't reach the ends of this corridor, creating pools of darkness there. Two lawful evil human [cult fanatics](3-Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md) guard the tunnel, one at each end. Characters with [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) or their own light sources spot the fanatics. Otherwise, the fanatics surprise the characters. Each fanatic wears a black robe and a thin gold devil mask similar to those worn by cultists in other areas.
 
 Sounds of combat here alert the cultists in area V33, who arm themselves but stay where they are.
 
@@ -1331,7 +1331,7 @@ Sounds of combat here alert the cultists in area V33, who arm themselves but sta
 
 This room is lit by two tall wrought-iron candlesticks each topped with nine flickering candles. Around the room's perimeter are ten wooden bunk beds, next to which are unlocked footlockers containing ordinary clothes belonging to the cultists.
 
-Ten [cultists](3-Mechanics/CLI/bestiary/humanoid/cultist.md) gather here, minus any cultists defeated in area V22. These cult members are lawful evil humans wearing black robes and thin gold devil masks. Some have dozed off, while others are sitting on their beds, sharing rumors regarding [Thavius Kreeg](3-Mechanics/CLI/bestiary/npc/thavius-kreeg-bgdia.md)'s hand in the fall of Elturel and Duke Vanthampur's plans for Baldur's Gate. These cultists show intruders no quarter.
+Ten [cultists](3-Mechanics/CLI/bestiary/humanoid/cultist-xmm.md) gather here, minus any cultists defeated in area V22. These cult members are lawful evil humans wearing black robes and thin gold devil masks. Some have dozed off, while others are sitting on their beds, sharing rumors regarding [Thavius Kreeg](3-Mechanics/CLI/bestiary/npc/thavius-kreeg-bgdia.md)'s hand in the fall of Elturel and Duke Vanthampur's plans for Baldur's Gate. These cultists show intruders no quarter.
 
 Sounds of combat here alert the cult fanatics in area V32, who investigate immediately.
 
@@ -1344,7 +1344,7 @@ This room is hidden behind secret doors (see "Dungeon Features"), and its featur
 > This ten-foot-high vaulted chamber has a plaster ceiling painted with images of terrifying winged devils looking down on a symbol embedded in the room's floor: a circular disk of black stone inscribed with a nine-pointed gold star. Four wrought-iron candlesticks bristling with unlit, half-melted red candles surround the circle.
 ^0dd
 
-The cultists use this chamber to perform diabolical rituals that duplicate the effect of a [divination](3-Mechanics/CLI/spells/divination.md) spell, except that the spell's contact is a devil that manifests as a pillar of smoke above the symbol on the floor. The images on the ceiling are pit fiends, recognizable by any character who succeeds on a DC 15 Intelligence ([Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check.
+The cultists use this chamber to perform diabolical rituals that duplicate the effect of a [divination](3-Mechanics/CLI/spells/divination-xphb.md) spell, except that the spell's contact is a devil that manifests as a pillar of smoke above the symbol on the floor. The images on the ceiling are pit fiends, recognizable by any character who succeeds on a DC 15 Intelligence ([Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check.
 
 #### V35. Thavius Kreeg's Quarters
 
@@ -1392,7 +1392,7 @@ Coffer 1 contains 30 electrum ingots (10 gp each) belonging to the Vanthampur fa
 
 Coffers 2, 3, and 4 each contain 100 gp belonging to the Vanthampur family.
 
-Coffer 5 contains two pieces of a broken ceremonial dagger stolen from Tiamat's hoard: a curved ivory blade bearing Draconic runes that spell out "Fang," along with a bone hilt wrapped in leather strips and studded with gemstones. A [mending](3-Mechanics/CLI/spells/mending.md) cantrip can make the nonmagical dagger whole again, restoring its value (250 gp).
+Coffer 5 contains two pieces of a broken ceremonial dagger stolen from Tiamat's hoard: a curved ivory blade bearing Draconic runes that spell out "Fang," along with a bone hilt wrapped in leather strips and studded with gemstones. A [mending](3-Mechanics/CLI/spells/mending-xphb.md) cantrip can make the nonmagical dagger whole again, restoring its value (250 gp).
 
 Coffers 6 and 7 each contain 100 pp belonging to the Vanthampur family.
 
@@ -1427,7 +1427,7 @@ As the characters conclude their business with Captain Zodge, the meeting is int
 > "That's what the city's government wanted you to think, captain," she replies. Turning to you, she says, "I trust you've been adequately compensated?"
 ^0e8
 
-Until recently, Liara Portyr commanded a Flaming Fist outpost called Fort Beluarian on the distant tropical peninsula of Chult. Her uncle is Duke Dillard Portyr of Baldur's Gate, one of the city's two remaining government leaders (assuming Duke Vanthampur did not survive). Duke Portyr summoned his niece to take command of the Flaming Fist in Grand Duke [Ulder Ravengard](3-Mechanics/CLI/bestiary/npc/ulder-ravengard-bgdia.md)'s absence. Her trip home was expedited by magic.
+Until recently, [Liara Portyr](3-Mechanics/CLI/bestiary/npc/liara-portyr-toa.md) commanded a Flaming Fist outpost called Fort Beluarian on the distant tropical peninsula of Chult. Her uncle is Duke Dillard Portyr of Baldur's Gate, one of the city's two remaining government leaders (assuming Duke Vanthampur did not survive). Duke Portyr summoned his niece to take command of the Flaming Fist in Grand Duke [Ulder Ravengard](3-Mechanics/CLI/bestiary/npc/ulder-ravengard-bgdia.md)'s absence. Her trip home was expedited by magic.
 
 Liara aims to assert herself as [Ulder Ravengard](3-Mechanics/CLI/bestiary/npc/ulder-ravengard-bgdia.md)'s natural successor but clings to the hope that he's still alive. If the characters think they have any chance to rescue Elturel—and Ravengard along with it—Liara strongly urges them to pursue that quest. Her experiences in Chult have taught her to respect adventurers and their ability to get things done.
 
@@ -1435,7 +1435,7 @@ If the characters didn't find Falaster Fisk in the dungeon under Vanthampur Vill
 
 After making sure the characters receive their promised reward, Liara thanks them for doing their part to help Baldur's Gate. Although she must focus her efforts on various threats to the city's security, she makes it possible for the characters to leave Baldur's Gate when they're ready, going as far as to secure a riding horse or pony for each party member to expedite their journey to Candlekeep. She can also provide a mule-drawn cart laden with food, drink, and other supplies.
 
-![Liara Portyr](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/023-636988751903431559.webp#center)
+![Liara Portyr](file://adventure/BGDIA/023-636988751903431559.webp#center)
 
 ## Journey to Candlekeep
 
@@ -1459,7 +1459,7 @@ The characters must cross this landmark to reach the Coast Way, which heads sout
 > Wooden drawbridges connect the two bridges to a keep situated atop the island. The flags of Baldur's Gate and the Flaming Fist wave proudly above this fortress.
 ^0ec
 
-Wyrm's Crossing is a cutpurse's paradise, and every traveler here runs the risk of being pickpocketed. As the characters make their way from one end of Wyrm's Crossing to the other, have each player roll a `d20`. (Don't roll for NPCs traveling with the party.) The character or characters with the lowest roll are targeted by a pickpocket (use the [bandit](3-Mechanics/CLI/bestiary/humanoid/bandit.md) stat block).
+Wyrm's Crossing is a cutpurse's paradise, and every traveler here runs the risk of being pickpocketed. As the characters make their way from one end of Wyrm's Crossing to the other, have each player roll a `dice:d20|noform|noparens|avg` (`d20`). (Don't roll for NPCs traveling with the party.) The character or characters with the lowest roll are targeted by a pickpocket (use the [bandit](3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) stat block).
 
 Use a character's passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score to determine whether a theft made against that character is successful. If the character's score is 11 or higher, the theft is detected and thwarted. Otherwise, the thief makes off with one item weighing 1 pound or less (such as a coin pouch or potion) and disappears into the crowd before the theft is noticed. If a character is robbed, ask the player what small items the character is carrying, then decide which of those items was stolen.
 
@@ -1474,7 +1474,7 @@ The following encounter occurs only if the characters have the [Shield of the Hi
 > Coming up the road toward you is a human farmer riding on the front of a hay-filled wagon pulled by two draft horses. The farmer gives you a friendly wave as the wagon draws near.
 ^0ee
 
-The farmer is Kaddrus, a lawful evil [cambion](3-Mechanics/CLI/bestiary/fiend/cambion.md) using the [alter self](3-Mechanics/CLI/spells/alter-self.md) spell to conceal his true form. Hiding under the hay are the cambion's evil accomplices: three human [veterans](3-Mechanics/CLI/bestiary/humanoid/veteran.md) who speak Common and Infernal. Their names are Falar and Zaroud al'Ryshal, and Nulra Blacksaddle. When the cambion gives the order in Infernal, the veterans leap out of the hay and attack. Meanwhile, the cambion assumes his true form, flies up into the air, and targets creatures with his Fire Ray attack. The two [draft horses](3-Mechanics/CLI/bestiary/beast/draft-horse.md) are ordinary beasts but don't spook easily.
+The farmer is Kaddrus, a lawful evil [cambion](3-Mechanics/CLI/bestiary/fiend/cambion-xmm.md) using the [alter self](3-Mechanics/CLI/spells/alter-self-xphb.md) spell to conceal his true form. Hiding under the hay are the cambion's evil accomplices: three human [veterans](3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) who speak Common and Infernal. Their names are Falar and Zaroud al'Ryshal, and Nulra Blacksaddle. When the cambion gives the order in Infernal, the veterans leap out of the hay and attack. Meanwhile, the cambion assumes his true form, flies up into the air, and targets creatures with his Fire Ray attack. The two [draft horses](3-Mechanics/CLI/bestiary/beast/draft-horse-xmm.md) are ordinary beasts but don't spook easily.
 
 Kaddrus and the veterans are members of a secret society known as the Knights of the Shield (see area V29). Their goals are to kill the characters and take the [Shield of the Hidden Lord](3-Mechanics/CLI/items/shield-of-the-hidden-lord-bgdia.md) back to the Hhune patriar family in Baldur's Gate. If the veterans are killed or [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated), Kaddrus flies back to Baldur's Gate to report to his superiors. If the cambion escapes, the characters might encounter him again in Candlekeep, in the guise of a monk. The next time he encounters the party, Kaddrus fights to the death to claim the shield.
 
@@ -1495,7 +1495,7 @@ If Reya Mantlemorn is with the characters, she shares the following tale over a 
 > "There were great celebrations to honor the valiant knights of the cavalry, who became known as Hellriders from that day on."
 ^0f0
 
-![](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/024-why5x-01-05.webp#center)
+![](file://adventure/BGDIA/024-why5x-01-05.webp#center)
 
 ## Candlekeep
 
@@ -1539,7 +1539,7 @@ Although some visitors travel to Candlekeep by air, most arrive on foot or on ho
 > "Welcome to Candlekeep," says the elf in Common. "A gift is required from those seeking admittance. You must donate a book or scroll that isn't already in the library's archives. Please present your gift for inspection."
 ^0f6
 
-All three monks are neutral good [priests](3-Mechanics/CLI/bestiary/humanoid/priest.md) of Deneir. (Apply racial traits to their statistics as needed.) The monks study any book or scroll that's handed to them, the holy symbols around their necks glowing faintly as they do.
+All three monks are neutral good [priests](3-Mechanics/CLI/bestiary/humanoid/priest-xmm.md) of Deneir. (Apply racial traits to their statistics as needed.) The monks study any book or scroll that's handed to them, the holy symbols around their necks glowing faintly as they do.
 
 The monks are happy to accept either *Apocalypto* (the black-covered tome found in Vanthampur Villa; see area V13), Falaster Fisk's book of Calishite recipes, or a spellbook for admittance to Candlekeep. One such gift is enough for the whole party to be able to enter the library. If a character wants to offer up some other book or scroll, you decide whether the monks accept it as a gift.
 
@@ -1558,7 +1558,7 @@ In Candlekeep's pub, guests and monks can enjoy each other's company and a good 
 
 Thirty people can dine here comfortably at any time. The Hearth is always open, and the fire is never permitted to go out. A dozen patrons typically occupy the pub during the day, with more during lunch and supper.
 
-When the characters first show up, one patron stands out among the rest: a chaotic good [ogre](3-Mechanics/CLI/bestiary/giant/ogre.md) wearing a [headband of intellect](3-Mechanics/CLI/items/headband-of-intellect.md). He sits by himself in a corner, reading a book titled *The Sum of Theology* by Saint Vetheera, a servant of Oghma (god of knowledge).
+When the characters first show up, one patron stands out among the rest: a chaotic good [ogre](3-Mechanics/CLI/bestiary/giant/ogre-xmm.md) wearing a [headband of intellect](3-Mechanics/CLI/items/headband-of-intellect-xdmg.md). He sits by himself in a corner, reading a book titled *The Sum of Theology* by Saint Vetheera, a servant of Oghma (god of knowledge).
 
 A few years ago, the ogre was like others of his kind—brutish and cruel. He met a halfling adventurer wearing the shiny gold headband and killed the puny runt for it. When the ogre attuned to it, the headband grew in size, allowing him to don it. As a genius, the ogre felt compelled to learn the error of his ways and seek out a better life. He adopted the name Little One, to honor the poor halfling whose life he cut short.
 
@@ -1577,13 +1577,13 @@ When the characters are ready, they can make their way toward the main keep, a t
 > "I can't tell you how pleased I am to see you," says the tiefling. "What have you brought me?"
 ^0fa
 
-[Sylvira Savikas](3-Mechanics/CLI/bestiary/npc/sylvira-savikas-bgdia.md), a lawful neutral tiefling [archmage](3-Mechanics/CLI/bestiary/humanoid/archmage.md), is one of Candlekeep's foremost sages, and specializes in knowledge pertaining to the Outer Planes. In addition to her other skills, she has [Investigation](3-Mechanics/CLI/rules/skills.md#Investigation) +13. She speaks Abyssal, Celestial, Common, Draconic, Infernal, and Primordial. Her [quasit](3-Mechanics/CLI/bestiary/fiend/quasit.md) familiar, Jezebel, adds just the right amount of mischief and chaos to her life. In the unlikely event that Sylvira becomes embroiled in combat, remember that tieflings have resistance to fire damage and [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 60 feet.
+[Sylvira Savikas](3-Mechanics/CLI/bestiary/npc/sylvira-savikas-bgdia.md), a lawful neutral tiefling [archmage](3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md), is one of Candlekeep's foremost sages, and specializes in knowledge pertaining to the Outer Planes. In addition to her other skills, she has [Investigation](3-Mechanics/CLI/rules/skills.md#Investigation) +13. She speaks Abyssal, Celestial, Common, Draconic, Infernal, and Primordial. Her [quasit](3-Mechanics/CLI/bestiary/fiend/quasit-xmm.md) familiar, Jezebel, adds just the right amount of mischief and chaos to her life. In the unlikely event that Sylvira becomes embroiled in combat, remember that tieflings have resistance to fire damage and [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 60 feet.
 
 If the characters don't have [Thavius Kreeg](3-Mechanics/CLI/bestiary/npc/thavius-kreeg-bgdia.md)'s puzzle box with them, Sylvira is disappointed but tries not to show it. If they present the box to her, she snatches it out of their hands and studies it closely. She takes similar interest in the [Shield of the Hidden Lord](3-Mechanics/CLI/items/shield-of-the-hidden-lord-bgdia.md) (which she calls "the Shield of Gargauth"), but avoids touching it.
 
 > [!note] Candlekeep Defenses
 > 
-> Attacking Candlekeep would be foolhardy. Although most of the monks are simple scholars, a few are powerful spellcasters. If any trouble occurs, an [archmage](3-Mechanics/CLI/bestiary/humanoid/archmage.md) and `1d4` [mages](3-Mechanics/CLI/bestiary/humanoid/mage.md) investigate immediately. If they can't bring the situation under control in short order, an additional `1d4` [archmages](3-Mechanics/CLI/bestiary/humanoid/archmage.md) arrive to lend assistance.
+> Attacking Candlekeep would be foolhardy. Although most of the monks are simple scholars, a few are powerful spellcasters. If any trouble occurs, an [archmage](3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md) and `dice:1d4|noform|noparens|avg` (`1d4`) [mages](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) investigate immediately. If they can't bring the situation under control in short order, an additional `dice:1d4|noform|noparens|avg` (`1d4`) [archmages](3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md) arrive to lend assistance.
 ^candlekeep-defenses
 
 #### Thavius and the Puzzle Box
@@ -1647,15 +1647,15 @@ If the characters intend to save Elturel, Sylvira can provide them with a map of
 
 More information about how to use the poster map can be found in chapter 3.
 
-![The contents of Thavius Kr...](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/025-a1ei6-01-07.webp#center "The contents of Thavius Kreeg's mysterious puzzle box are revealed.")
+![The contents of Thavius Kreeg's mysterious puzzle box are revealed.](file://adventure/BGDIA/025-a1ei6-01-07.webp#center)
 
 ## Getting to Avernus
 
-Although Sylvira can prepare the [plane shift](3-Mechanics/CLI/spells/plane-shift.md) spell, there's no point, as magical wards placed on Candlekeep prevent creatures from using such means to go to or from the library. Instead, she presents an alternative plan for sending the characters to the Nine Hells:
+Although Sylvira can prepare the [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md) spell, there's no point, as magical wards placed on Candlekeep prevent creatures from using such means to go to or from the library. Instead, she presents an alternative plan for sending the characters to the Nine Hells:
 
 > [!readaloud] 
 > 
-> "A wizard named [Traxigor](3-Mechanics/CLI/bestiary/npc/traxigor-bgdia.md) lives in a tower twenty miles from here. I've loaned him a spellbook or two, so he owes me a favor. I can have you delivered safely to his tower, and he can use a [plane shift](3-Mechanics/CLI/spells/plane-shift.md) spell to take you straight to Elturel. Even more importantly, [Traxigor](3-Mechanics/CLI/bestiary/npc/traxigor-bgdia.md) is looking after an old friend of mine—someone with a history of battling devils in the Nine Hells. I think you'll enjoy her company very much. Her name is [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md)."
+> "A wizard named [Traxigor](3-Mechanics/CLI/bestiary/npc/traxigor-bgdia.md) lives in a tower twenty miles from here. I've loaned him a spellbook or two, so he owes me a favor. I can have you delivered safely to his tower, and he can use a [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md) spell to take you straight to Elturel. Even more importantly, [Traxigor](3-Mechanics/CLI/bestiary/npc/traxigor-bgdia.md) is looking after an old friend of mine—someone with a history of battling devils in the Nine Hells. I think you'll enjoy her company very much. Her name is [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md)."
 ^105
 
 Characters need not leave for [Traxigor](3-Mechanics/CLI/bestiary/npc/traxigor-bgdia.md)'s tower at once. If they wish to remain in Candlekeep for a while, Sylvira is happy to accommodate them. However, Reya Mantlemorn becomes more impatient the longer they stay. Falaster Fisk parts company with the characters at this time, choosing to remain at Candlekeep for a few days before returning to Baldur's Gate.
@@ -1669,7 +1669,7 @@ Once they're ready to leave for [Traxigor](3-Mechanics/CLI/bestiary/npc/traxigor
 > Sylvira ushers you to a crescent-shaped landing platform with a stunning view of the sea. Waiting for you atop this platform are several griffons with saddles, their handlers standing nearby to help you. "The griffons have instructions to fly you to [Traxigor](3-Mechanics/CLI/bestiary/npc/traxigor-bgdia.md)'s tower," says Sylvira. "Don't worry, it's safe!"
 ^106
 
-The handlers standing ready can help the characters mount the [griffons](3-Mechanics/CLI/bestiary/monstrosity/griffon.md). Each griffon can carry one rider plus gear. Once all the characters are mounted, read:
+The handlers standing ready can help the characters mount the [griffons](3-Mechanics/CLI/bestiary/monstrosity/griffon-xmm.md). Each griffon can carry one rider plus gear. Once all the characters are mounted, read:
 
 > [!readaloud] 
 > 
@@ -1684,22 +1684,22 @@ Read or paraphrase the following boxed text to the players when the characters d
 
 > [!readaloud] 
 > 
-> One level down, you see a cluttered chamber illuminated by various objects upon which [continual flame](3-Mechanics/CLI/spells/continual-flame.md) spells have been cast. Scurrying around the room is an otter dressed in a tiny red cassock. The otter mumbles to itself in Common, mentioning something about a tuning fork. Suddenly, it takes notice of you and stands upright. "[Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md)! Wake up! Our guests have arrived!"
+> One level down, you see a cluttered chamber illuminated by various objects upon which [continual flame](3-Mechanics/CLI/spells/continual-flame-xphb.md) spells have been cast. Scurrying around the room is an otter dressed in a tiny red cassock. The otter mumbles to itself in Common, mentioning something about a tuning fork. Suddenly, it takes notice of you and stands upright. "[Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md)! Wake up! Our guests have arrived!"
 > 
 > At the sound of her name, a small elephant with golden fur appears from under a pile of blankets near a table strewn with alchemical equipment. The elephant takes to the air on feathery wings and lets out a pleasing trumpet sound.
 ^109
 
-[Traxigor](3-Mechanics/CLI/bestiary/npc/traxigor-bgdia.md) was polymorphed into an otter years ago, and decided he preferred the new form to his original one (that of a wizened old man). His otter form was made permanent by a [wish](3-Mechanics/CLI/spells/wish.md) spell. He uses the [archmage](3-Mechanics/CLI/bestiary/humanoid/archmage.md) stat block, but is a Tiny beast with a Strength of 3. His alignment is chaotic good, and he speaks Common, Draconic, Dwarvish, Gnomish, Halfling, and Troglodyte. He has the [plane shift](3-Mechanics/CLI/spells/plane-shift.md) spell prepared instead of [teleport](3-Mechanics/CLI/spells/teleport.md), and is searching for the tuning fork he needs to cast the spell. What little he knows about the characters has been communicated to him by [sending](3-Mechanics/CLI/spells/sending.md) spells, sent by [Sylvira Savikas](3-Mechanics/CLI/bestiary/npc/sylvira-savikas-bgdia.md) in advance of their arrival.
+[Traxigor](3-Mechanics/CLI/bestiary/npc/traxigor-bgdia.md) was polymorphed into an otter years ago, and decided he preferred the new form to his original one (that of a wizened old man). His otter form was made permanent by a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell. He uses the [archmage](3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md) stat block, but is a Tiny beast with a Strength of 3. His alignment is chaotic good, and he speaks Common, Draconic, Dwarvish, Gnomish, Halfling, and Troglodyte. He has the [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md) spell prepared instead of [teleport](3-Mechanics/CLI/spells/teleport-xphb.md), and is searching for the tuning fork he needs to cast the spell. What little he knows about the characters has been communicated to him by [sending](3-Mechanics/CLI/spells/sending-xphb.md) spells, sent by [Sylvira Savikas](3-Mechanics/CLI/bestiary/npc/sylvira-savikas-bgdia.md) in advance of their arrival.
 
-Characters can help [Traxigor](3-Mechanics/CLI/bestiary/npc/traxigor-bgdia.md) search for his missing tuning fork, which is keyed to the Nine Hells. Whoever rolls the highest on a Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check finds the tuning fork. Whoever rolls the lowest finds a random trinket, determined by rolling on the [Trinkets table](3-Mechanics/CLI/items/trinket.md) in chapter 5 of the "Player's Handbook". [Traxigor](3-Mechanics/CLI/bestiary/npc/traxigor-bgdia.md) doesn't care if the character keeps the trinket or not, and doesn't remember how or when he acquired it.
+Characters can help [Traxigor](3-Mechanics/CLI/bestiary/npc/traxigor-bgdia.md) search for his missing tuning fork, which is keyed to the Nine Hells. Whoever rolls the highest on a Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check finds the tuning fork. Whoever rolls the lowest finds a random trinket, determined by rolling on the [Trinkets table](3-Mechanics/CLI/items/trinket-xphb.md) in chapter 5 of the "Player's Handbook". [Traxigor](3-Mechanics/CLI/bestiary/npc/traxigor-bgdia.md) doesn't care if the character keeps the trinket or not, and doesn't remember how or when he acquired it.
 
 ### Lulu the Hollyphant
 
 [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) is a [hollyphant](3-Mechanics/CLI/bestiary/celestial/hollyphant-bgdia.md) (see Appendix C for her stat block) who has lost most of her memories, as well as her Innate Spellcasting trait. (This has no effect on her challenge rating.) She regains her Innate Spellcasting trait gradually over the course of the adventure, as follows:
 
-- In chapter 2, [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) regains the at-will ability to cast [light](3-Mechanics/CLI/spells/light.md) when she arrives in Elturel for the first time.  
-- In chapter 4, [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) regains her 2/day spells ([bless](3-Mechanics/CLI/spells/bless.md), [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md), and [protection from evil and good](3-Mechanics/CLI/spells/protection-from-evil-and-good.md)) when she arrives at the Bleeding Citadel.  
-- In chapter 5, [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) regains her 1/day spells ([banishment](3-Mechanics/CLI/spells/banishment.md), [heal](3-Mechanics/CLI/spells/heal.md), [raise dead](3-Mechanics/CLI/spells/raise-dead.md), [shapechange](3-Mechanics/CLI/spells/shapechange.md), and [teleport](3-Mechanics/CLI/spells/teleport.md)) once she helps reunite Zariel with her sword.  
+- In chapter 2, [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) regains the at-will ability to cast [light](3-Mechanics/CLI/spells/light-xphb.md) when she arrives in Elturel for the first time.  
+- In chapter 4, [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) regains her 2/day spells ([bless](3-Mechanics/CLI/spells/bless-xphb.md), [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md), and [protection from evil and good](3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md)) when she arrives at the Bleeding Citadel.  
+- In chapter 5, [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) regains her 1/day spells ([banishment](3-Mechanics/CLI/spells/banishment-xphb.md), [heal](3-Mechanics/CLI/spells/heal-xphb.md), [raise dead](3-Mechanics/CLI/spells/raise-dead-xphb.md), [shapechange](3-Mechanics/CLI/spells/shapechange-xphb.md), and [teleport](3-Mechanics/CLI/spells/teleport-xphb.md)) once she helps reunite Zariel with her sword.  
 
 #### Lulu's Background
 
@@ -1724,6 +1724,8 @@ When defeat on Avernus appeared inevitable, Zariel entrusted her sword to Yael, 
 
 #### Lulu's Memories
 
+`dice: [](02-chapter-1-a-tale-of-two-cities.md#^memory)`
+
 | dice: d6 | Memory |
 |----------|--------|
 | 1 | "I used to be able to shapechange into a golden mammoth. In this form, I served as Zariel's war mount." |
@@ -1738,7 +1740,7 @@ When defeat on Avernus appeared inevitable, Zariel entrusted her sword to Yael, 
 
 Friendship is important to [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) in ways both physical and spiritual. Her growing friendship with the characters causes the hollyphant to remember things long forgotten. For the remainder of the adventure, [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) can regain lost memories whenever you wish. Ideally, these memories come back to her one at a time at moments when her friendship with the characters feels important. Any remaining memories return at once when [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) regains all her spellcasting abilities.
 
-When the time comes for [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) to recall a lost memory, roll a `d6` and consult the [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md)'s Memories table to see which memory comes back to her, or just pick one. If you roll for a memory that has come up before, roll again or choose a different memory.
+When the time comes for [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) to recall a lost memory, roll a `dice:d6|noform|noparens|avg` (`d6`) and consult the [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md)'s Memories table to see which memory comes back to her, or just pick one. If you roll for a memory that has come up before, roll again or choose a different memory.
 
 #### Roleplaying Lulu
 
@@ -1752,5 +1754,5 @@ The characters should advance to 5th level before leaving [Traxigor](3-Mechanics
 
 > [!readaloud] 
 > 
-> As you stand together in a circle, [Traxigor](3-Mechanics/CLI/bestiary/npc/traxigor-bgdia.md) taps the tuning fork on the floor and casts his [plane shift](3-Mechanics/CLI/spells/plane-shift.md) spell.
+> As you stand together in a circle, [Traxigor](3-Mechanics/CLI/bestiary/npc/traxigor-bgdia.md) taps the tuning fork on the floor and casts his [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md) spell.
 ^111

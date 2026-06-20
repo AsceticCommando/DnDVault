@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Gem Stalker"
 ---
-# [Gem Stalker](3-Mechanics\CLI\bestiary\monstrosity/gem-stalker-ftd.md)
+# [Gem Stalker](3-Mechanics/CLI/bestiary/monstrosity/gem-stalker-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 202*  
 
 When a gem dragon kills an aberrant creature from the Far Realm, the dragon sometimes reshapes the alien corpse into a gem stalker—a cunning predator capable of traversing the Underdark, hunting Aberrations, and guarding its creator's lair. A gem stalker is imbued with life, sapience, and purpose by the mystical energy of the gem dragon's breath, and it is dedicated to its mission.
@@ -89,6 +89,6 @@ A gem stalker has a four-legged body resembling that of a wingless dragon, but w
     "name": "Protective Link"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/gem-stalker-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Gem%20Stalker.webp"
 ```
 ^statblock

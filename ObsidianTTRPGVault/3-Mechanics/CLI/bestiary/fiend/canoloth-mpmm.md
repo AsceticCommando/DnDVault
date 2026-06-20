@@ -15,7 +15,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Canoloth"
 ---
-# [Canoloth](3-Mechanics\CLI\bestiary\fiend/canoloth-mpmm.md)
+# [Canoloth](3-Mechanics/CLI/bestiary/fiend/canoloth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 69, Mordenkainen's Tome of Foes p. 247*  
 
 > [!quote] A quote from Mordenkainen  
@@ -87,7 +87,7 @@ With senses sharp enough to pinpoint the locations of nearby [invisible](3-Mecha
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/canoloth-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Canoloth.webp"
 ```
 ^statblock
 

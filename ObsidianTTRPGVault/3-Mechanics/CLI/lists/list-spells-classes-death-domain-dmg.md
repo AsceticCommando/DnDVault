@@ -11,31 +11,33 @@ aliases:
 
 ## Cantrip
 
-- [Chill Touch](3-Mechanics/CLI/spells/chill-touch.md "PHB") at class level 5
-- [Spare the Dying](3-Mechanics/CLI/spells/spare-the-dying.md "PHB") at class level 5
-- [Toll the Dead](3-Mechanics/CLI/spells/toll-the-dead-xge.md "XGE") at class level 5
+- [Chill Touch](3-Mechanics/CLI/spells/chill-touch-xphb.md "XPHB")
+- [Poison Spray](3-Mechanics/CLI/spells/poison-spray-xphb.md "XPHB")
+- [Sapping Sting](3-Mechanics/CLI/spells/sapping-sting-egw.md "EGW")
+- [Spare the Dying](3-Mechanics/CLI/spells/spare-the-dying-xphb.md "XPHB")
+- [Toll the Dead](3-Mechanics/CLI/spells/toll-the-dead-xphb.md "XPHB")
 
 ## 1st Level
 
-- [False Life](3-Mechanics/CLI/spells/false-life.md "PHB") at class level 5
-- [Ray of Sickness](3-Mechanics/CLI/spells/ray-of-sickness.md "PHB") at class level 5
+- [False Life](3-Mechanics/CLI/spells/false-life-xphb.md "XPHB")
+- [Ray of Sickness](3-Mechanics/CLI/spells/ray-of-sickness-xphb.md "XPHB")
 
 ## 2nd Level
 
-- [Blindness/Deafness](3-Mechanics/CLI/spells/blindness-deafness.md "PHB") at class level 5
-- [Ray of Enfeeblement](3-Mechanics/CLI/spells/ray-of-enfeeblement.md "PHB") at class level 5
+- [Blindness/Deafness](3-Mechanics/CLI/spells/blindness-deafness-xphb.md "XPHB") at class level 3
+- [Ray of Enfeeblement](3-Mechanics/CLI/spells/ray-of-enfeeblement-xphb.md "XPHB") at class level 3
 
 ## 3rd Level
 
-- [Animate Dead](3-Mechanics/CLI/spells/animate-dead.md "PHB") at class level 5
-- [Vampiric Touch](3-Mechanics/CLI/spells/vampiric-touch.md "PHB") at class level 5
+- [Animate Dead](3-Mechanics/CLI/spells/animate-dead-xphb.md "XPHB") at class level 5
+- [Vampiric Touch](3-Mechanics/CLI/spells/vampiric-touch-xphb.md "XPHB") at class level 5
 
 ## 4th Level
 
-- [Blight](3-Mechanics/CLI/spells/blight.md "PHB") at class level 5
-- [Death Ward](3-Mechanics/CLI/spells/death-ward.md "PHB") at class level 5
+- [Blight](3-Mechanics/CLI/spells/blight-xphb.md "XPHB") at class level 7
+- [Death Ward](3-Mechanics/CLI/spells/death-ward-xphb.md "XPHB") at class level 7
 
 ## 5th Level
 
-- [Antilife Shell](3-Mechanics/CLI/spells/antilife-shell.md "PHB") at class level 5
-- [Cloudkill](3-Mechanics/CLI/spells/cloudkill.md "PHB") at class level 5
+- [Antilife Shell](3-Mechanics/CLI/spells/antilife-shell-xphb.md "XPHB") at class level 9
+- [Cloudkill](3-Mechanics/CLI/spells/cloudkill-xphb.md "XPHB") at class level 9

@@ -13,12 +13,12 @@ statblock-link: "#^statblock"
 aliases:
 - "Ulitharid"
 ---
-# [Ulitharid](3-Mechanics\CLI\bestiary\aberration/ulitharid-mpmm.md)
+# [Ulitharid](3-Mechanics/CLI/bestiary/aberration/ulitharid-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 249, Volo's Guide to Monsters p. 175*  
 
-Very rarely, when a tadpole from the brine pool of an [elder brain](3-Mechanics/CLI/bestiary/aberration/elder-brain-mpmm.md) is implanted into a creature, that creature transforms into an ulitharid: a larger and more potent [mind flayer](3-Mechanics/CLI/bestiary/aberration/mind-flayer.md) with six tentacles. Illithids innately recognize that an ulitharid's survival is more important than their own. An [elder brain's](3-Mechanics/CLI/bestiary/aberration/elder-brain-mpmm.md) reaction to the rise of an ulitharid varies. In most colonies, the ulitharid becomes an elder brain's most favored servant, invested with power and authority. In others, the [elder brain](3-Mechanics/CLI/bestiary/aberration/elder-brain-mpmm.md) perceives an ulitharid as a potential rival and manipulates or quashes the ulitharid's ambitions accordingly.
+Very rarely, when a tadpole from the brine pool of an [elder brain](3-Mechanics/CLI/bestiary/aberration/elder-brain-mpmm.md) is implanted into a creature, that creature transforms into an ulitharid: a larger and more potent [mind flayer](3-Mechanics/CLI/bestiary/aberration/mind-flayer-xmm.md) with six tentacles. Illithids innately recognize that an ulitharid's survival is more important than their own. An [elder brain's](3-Mechanics/CLI/bestiary/aberration/elder-brain-mpmm.md) reaction to the rise of an ulitharid varies. In most colonies, the ulitharid becomes an elder brain's most favored servant, invested with power and authority. In others, the [elder brain](3-Mechanics/CLI/bestiary/aberration/elder-brain-mpmm.md) perceives an ulitharid as a potential rival and manipulates or quashes the ulitharid's ambitions accordingly.
 
-When an ulitharid finds sharing leadership with an [elder brain](3-Mechanics/CLI/bestiary/aberration/elder-brain-mpmm.md) insufferable, it breaks off from the colony, taking a group of [mind flayers](3-Mechanics/CLI/bestiary/aberration/mind-flayer.md) with it, and moves to another location to form a new colony. After the death of the ulitharid's body, a special process transforms its brain into a new [elder brain](3-Mechanics/CLI/bestiary/aberration/elder-brain-mpmm.md) for the colony.
+When an ulitharid finds sharing leadership with an [elder brain](3-Mechanics/CLI/bestiary/aberration/elder-brain-mpmm.md) insufferable, it breaks off from the colony, taking a group of [mind flayers](3-Mechanics/CLI/bestiary/aberration/mind-flayer-xmm.md) with it, and moves to another location to form a new colony. After the death of the ulitharid's body, a special process transforms its brain into a new [elder brain](3-Mechanics/CLI/bestiary/aberration/elder-brain-mpmm.md) for the colony.
 
 This process doesn't work on the brain of an ulitharid that dies a natural death, as such brains are too decrepit to be used. Instead, each ulitharid carries a psionically enhanced staff; when the ulitharid is ready to give up its life, it attaches the staff to the back of its head, and the staff cracks open its skull, enabling its brain to be extracted. The brain and the staff are then planted in the ulitharid's corpse, causing it to dissolve into ichor. This psionically potent slime helps to fuel the transformation of the area into a brine pool for the embryonic [elder brain](3-Mechanics/CLI/bestiary/aberration/elder-brain-mpmm.md).
 
@@ -29,7 +29,7 @@ This process doesn't work on the brain of an ulitharid that dies a natural death
 "subtype": "mind flayer"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "15"
-"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate.md)"
+"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate-xphb.md)"
 "hp": !!int "127"
 "hit_dice": "17d10 + 14"
 "modifier": !!int "1"
@@ -62,9 +62,9 @@ This process doesn't work on the brain of an ulitharid that dies a natural death
   - "desc": "The ulitharid is aware of the presence of creatures within 2 miles of\
       \ it that have an Intelligence score of 4 or higher. It knows the distance and\
       \ direction to each creature, as well as each creature's intelligence score,\
-      \ but can't sense anything else about it. A creature protected by a [mind blank](3-Mechanics/CLI/spells/mind-blank.md)\
-      \ spell, a [nondetection](3-Mechanics/CLI/spells/nondetection.md) spell, or\
-      \ similar magic can't be perceived in this manner."
+      \ but can't sense anything else about it. A creature protected by a [mind blank](3-Mechanics/CLI/spells/mind-blank-xphb.md)\
+      \ spell, a [nondetection](3-Mechanics/CLI/spells/nondetection-xphb.md) spell,\
+      \ or similar magic can't be perceived in this manner."
     "name": "Creature Sense"
   - "desc": "The ulitharid has advantage on saving throws against spells and other\
       \ magical effects."
@@ -99,17 +99,17 @@ This process doesn't work on the brain of an ulitharid that dies a natural death
     "name": "Mind Blast (Recharge 5-6)"
   - "desc": "The ulitharid casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 17):\n\n\
-      **At will:** [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md), [levitate](3-Mechanics/CLI/spells/levitate.md)\n\
-      \n**1/day each:** [dominate monster](3-Mechanics/CLI/spells/dominate-monster.md),\
-      \ [feeblemind](3-Mechanics/CLI/spells/feeblemind.md), [mass suggestion](3-Mechanics/CLI/spells/mass-suggestion.md),\
-      \ [plane shift](3-Mechanics/CLI/spells/plane-shift.md) (self only), [project\
-      \ image](3-Mechanics/CLI/spells/project-image.md), [scrying](3-Mechanics/CLI/spells/scrying.md),\
-      \ [telekinesis](3-Mechanics/CLI/spells/telekinesis.md)"
+      **At will:** [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [levitate](3-Mechanics/CLI/spells/levitate-xphb.md)\n\n**1/day each:** [dominate\
+      \ monster](3-Mechanics/CLI/spells/dominate-monster-xphb.md), [feeblemind](3-Mechanics/CLI/spells/befuddlement-xphb.md),\
+      \ [mass suggestion](3-Mechanics/CLI/spells/mass-suggestion-xphb.md), [plane\
+      \ shift](3-Mechanics/CLI/spells/plane-shift-xphb.md) (self only), [project image](3-Mechanics/CLI/spells/project-image-xphb.md),\
+      \ [scrying](3-Mechanics/CLI/spells/scrying-xphb.md), [telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md)"
     "name": "Spellcasting (Psionics)"
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/ulitharid-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Ulitharid.webp"
 ```
 ^statblock
 

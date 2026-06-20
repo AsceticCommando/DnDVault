@@ -15,7 +15,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Stone Giant Dreamwalker"
 ---
-# [Stone Giant Dreamwalker](3-Mechanics\CLI\bestiary\giant/stone-giant-dreamwalker-mpmm.md)
+# [Stone Giant Dreamwalker](3-Mechanics/CLI/bestiary/giant/stone-giant-dreamwalker-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 234, Volo's Guide to Monsters p. 150*  
 
 The surface of the world is an alien realm to stone giants: fluctuating, temporary, exposed to gusting wind and sudden rain. It is as wildly changeable as a dream, and that's how they regard it—as a dream. Nothing there is permanent, so nothing there is real. What happens on the surface doesn't matter. Promises and bargains made there needn't be honored. Life and even art hold less value there.
@@ -55,7 +55,7 @@ Dreamwalkers become divorced from reality by isolation, shame, and their unendin
     "desc": "+3"
 "condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
 "gear":
-  - "[greatclub](3-Mechanics/CLI/items/greatclub.md)"
+  - "[greatclub](3-Mechanics/CLI/items/greatclub-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 13"
 "languages": "Common, Giant"
@@ -83,7 +83,7 @@ Dreamwalkers become divorced from reality by isolation, shame, and their unendin
       \ that is [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) by it. The\
       \ target must make a DC 17 Constitution saving throw. On a failed save, the\
       \ target becomes [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified),\
-      \ and the giant can adhere the target to its stony body. [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md)\
+      \ and the giant can adhere the target to its stony body. [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md)\
       \ spells and other magic that can undo petrification have no effect on a [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified)\
       \ creature adhered to the giant unless the giant is dead, in which case the\
       \ magic works normally, freeing the [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified)\
@@ -93,7 +93,7 @@ Dreamwalkers become divorced from reality by isolation, shame, and their unendin
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/giant/token/stone-giant-dreamwalker-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Stone%20Giant%20Dreamwalker.webp"
 ```
 ^statblock
 

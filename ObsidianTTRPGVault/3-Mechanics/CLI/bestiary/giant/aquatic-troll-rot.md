@@ -12,8 +12,8 @@ statblock-link: "#^statblock"
 aliases:
 - "Aquatic Troll"
 ---
-# [Aquatic Troll](3-Mechanics\CLI\bestiary\giant/aquatic-troll-rot.md)
-*Source: The Rise of Tiamat p. 36, Tyranny of Dragons p. 112*  
+# [Aquatic Troll](3-Mechanics/CLI/bestiary/giant/aquatic-troll-rot.md)
+*Source: The Rise of Tiamat p. 36, Tyranny of Dragons p. 112, Princes of the Apocalypse p. 88*  
 
 ```statblock
 "name": "Aquatic Troll (RoT)"
@@ -64,6 +64,7 @@ aliases:
 "source":
   - "RoT"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/giant/token/aquatic-troll-rot.webp"
+  - "PotA"
+"image": "file://bestiary/tokens/RoT/Aquatic%20Troll.webp"
 ```
 ^statblock

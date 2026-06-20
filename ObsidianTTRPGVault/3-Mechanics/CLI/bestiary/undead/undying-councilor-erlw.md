@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Undying Councilor"
 ---
-# [Undying Councilor](3-Mechanics\CLI\bestiary\undead/undying-councilor-erlw.md)
+# [Undying Councilor](3-Mechanics/CLI/bestiary/undead/undying-councilor-erlw.md)
 *Source: Eberron: Rising from the Last War p. 311*  
 
 Undying councilors guide and protect the people of Aerenal. They are the most powerful members of the Undying Court who still maintain their physical forms. While many undying councilors spend their days advising the living, some devote years projecting their consciousness into the Astral Plane, seeking new knowledge to share with their people. Still, not all minds are capable of assimilating immortality, and undying councilors sometimes buckle under the strain and go mad.
@@ -86,22 +86,23 @@ An undying doesn't require air, food, drink, or sleep.
 "traits":
   - "desc": "The councilor is a 13th-level spellcaster. Its spellcasting ability is\
       \ Wisdom (spell save DC 17, +9 to hit with spell attacks). It has the following\
-      \ cleric spells prepared:\n\n**Cantrips (at will):** [guidance](3-Mechanics/CLI/spells/guidance.md),\
-      \ [mending](3-Mechanics/CLI/spells/mending.md), [sacred flame](3-Mechanics/CLI/spells/sacred-flame.md),\
-      \ [spare the dying](3-Mechanics/CLI/spells/spare-the-dying.md), [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy.md)\n\
-      \n**1st level (4 slots):** [bless](3-Mechanics/CLI/spells/bless.md), [command](3-Mechanics/CLI/spells/command.md),\
-      \ [create or destroy water](3-Mechanics/CLI/spells/create-or-destroy-water.md)\n\
-      \n**2nd level (3 slots):** [augury](3-Mechanics/CLI/spells/augury.md), [calm\
-      \ emotions](3-Mechanics/CLI/spells/calm-emotions.md), [hold person](3-Mechanics/CLI/spells/hold-person.md)\n\
-      \n**3rd level (3 slots):** [daylight](3-Mechanics/CLI/spells/daylight.md), [dispel\
-      \ magic](3-Mechanics/CLI/spells/dispel-magic.md), [spirit guardians](3-Mechanics/CLI/spells/spirit-guardians.md)\n\
-      \n**4th level (3 slots):** [banishment](3-Mechanics/CLI/spells/banishment.md),\
-      \ [divination](3-Mechanics/CLI/spells/divination.md), [guardian of faith](3-Mechanics/CLI/spells/guardian-of-faith.md)\n\
-      \n**5th level (2 slots):** [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good.md),\
-      \ [flame strike](3-Mechanics/CLI/spells/flame-strike.md) (see \"Actions\" below),\
-      \ [scrying](3-Mechanics/CLI/spells/scrying.md)\n\n**6th level (1 slots):** [forbiddance](3-Mechanics/CLI/spells/forbiddance.md),\
-      \ [planar ally](3-Mechanics/CLI/spells/planar-ally.md)\n\n**7th level (1 slots):**\
-      \ [plane shift](3-Mechanics/CLI/spells/plane-shift.md)"
+      \ cleric spells prepared:\n\n**Cantrips (at will):** [guidance](3-Mechanics/CLI/spells/guidance-xphb.md),\
+      \ [mending](3-Mechanics/CLI/spells/mending-xphb.md), [sacred flame](3-Mechanics/CLI/spells/sacred-flame-xphb.md),\
+      \ [spare the dying](3-Mechanics/CLI/spells/spare-the-dying-xphb.md), [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
+      \n**1st level (4 slots):** [bless](3-Mechanics/CLI/spells/bless-xphb.md), [command](3-Mechanics/CLI/spells/command-xphb.md),\
+      \ [create or destroy water](3-Mechanics/CLI/spells/create-or-destroy-water-xphb.md)\n\
+      \n**2nd level (3 slots):** [augury](3-Mechanics/CLI/spells/augury-xphb.md),\
+      \ [calm emotions](3-Mechanics/CLI/spells/calm-emotions-xphb.md), [hold person](3-Mechanics/CLI/spells/hold-person-xphb.md)\n\
+      \n**3rd level (3 slots):** [daylight](3-Mechanics/CLI/spells/daylight-xphb.md),\
+      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [spirit guardians](3-Mechanics/CLI/spells/spirit-guardians-xphb.md)\n\
+      \n**4th level (3 slots):** [banishment](3-Mechanics/CLI/spells/banishment-xphb.md),\
+      \ [divination](3-Mechanics/CLI/spells/divination-xphb.md), [guardian of faith](3-Mechanics/CLI/spells/guardian-of-faith-xphb.md)\n\
+      \n**5th level (2 slots):** [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md),\
+      \ [flame strike](3-Mechanics/CLI/spells/flame-strike-xphb.md) (see \"Actions\"\
+      \ below), [scrying](3-Mechanics/CLI/spells/scrying-xphb.md)\n\n**6th level (1\
+      \ slots):** [forbiddance](3-Mechanics/CLI/spells/forbiddance-xphb.md), [planar\
+      \ ally](3-Mechanics/CLI/spells/planar-ally-xphb.md)\n\n**7th level (1 slots):**\
+      \ [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md)"
     "name": "Spellcasting"
   - "desc": "The councilor magically sheds bright light in a 15-foot radius and dim\
       \ light for an additional 15 feet. The councilor can extinguish or restore this\
@@ -145,6 +146,6 @@ An undying doesn't require air, food, drink, or sleep.
     "name": "Shimmering Aura (Costs 2 Actions)"
 "source":
   - "ERLW"
-"image": "3-Mechanics/CLI/bestiary/undead/token/undying-councilor-erlw.webp"
+"image": "file://bestiary/tokens/ERLW/Undying%20Councilor.webp"
 ```
 ^statblock

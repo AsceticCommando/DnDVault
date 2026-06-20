@@ -12,6 +12,8 @@ aliases:
 
 **Derro Madness**
 
+`dice: [](derro-madness-mtf.md#^derro-madness)`
+
 | dice: d20 | Oddity |
 |-----------|--------|
 | 1 | Never bathes or changes clothes |

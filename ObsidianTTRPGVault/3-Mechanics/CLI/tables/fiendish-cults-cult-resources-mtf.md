@@ -12,6 +12,8 @@ aliases:
 
 **Cult Resources**
 
+`dice: [](fiendish-cults-cult-resources-mtf.md#^cult-resources)`
+
 | dice: d6 | Resource |
 |----------|----------|
 | 1 | The cult uses a respectable guild, business, or institution as a front. |

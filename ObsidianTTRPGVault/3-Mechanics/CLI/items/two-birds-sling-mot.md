@@ -11,7 +11,7 @@ aliases:
 - "Two-Birds Sling"
 ---
 # Two-Birds Sling
-*Weapon ([sling](3-Mechanics/CLI/items/sling.md)), rare*  
+*Weapon ([sling](3-Mechanics/CLI/items/sling-xphb.md)), rare*  
 
 
 - **Damage**: 1d4 bludgeoning

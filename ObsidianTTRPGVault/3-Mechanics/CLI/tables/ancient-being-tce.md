@@ -12,6 +12,8 @@ aliases:
 
 **Ancient Being**
 
+`dice: [](ancient-being-tce.md#^ancient-being)`
+
 | dice: d6 | Ancient Being |
 |----------|---------------|
 | 1 | **Elder Dragon**. An ancient dragon seeks knowledge or power. It wishes to gather greater wealth for its hoard, its ambitions expanding in its advancing years. |

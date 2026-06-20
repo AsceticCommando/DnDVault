@@ -12,6 +12,8 @@ aliases:
 
 **Fey Abodes**
 
+`dice: [](fey-abodes-dod.md#^fey-abodes)`
+
 | dice: d20 | Abode |
 |-----------|-------|
 | 1 | A pagoda overgrown with flowering vines that beckon visitors with pleasing scents |

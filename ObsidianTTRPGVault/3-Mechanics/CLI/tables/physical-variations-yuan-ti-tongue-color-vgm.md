@@ -12,6 +12,8 @@ aliases:
 
 **Yuan-ti Tongue Color**
 
+`dice: [](physical-variations-yuan-ti-tongue-color-vgm.md#^yuan-ti-tongue-color)`
+
 | dice: d6 | Tongue Color |
 |----------|--------------|
 | 1 | Black |

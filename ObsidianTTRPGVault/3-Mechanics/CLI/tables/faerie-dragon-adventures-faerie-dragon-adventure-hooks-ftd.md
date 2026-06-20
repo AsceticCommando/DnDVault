@@ -12,6 +12,8 @@ aliases:
 
 **Faerie Dragon Adventure Hooks**
 
+`dice: [](faerie-dragon-adventures-faerie-dragon-adventure-hooks-ftd.md#^faerie-dragon-adventure-hooks)`
+
 | dice: d8 | Adventure Hook |
 |----------|----------------|
 | 1 | A faerie dragon has noticed raiders tracking a defenseless caravan and is eager to warn someone who can help. |

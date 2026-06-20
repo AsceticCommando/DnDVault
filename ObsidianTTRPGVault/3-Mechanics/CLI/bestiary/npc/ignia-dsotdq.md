@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Ignia"
 ---
-# [Ignia](3-Mechanics\CLI\bestiary\npc/ignia-dsotdq.md)
+# [Ignia](3-Mechanics/CLI/bestiary/npc/ignia-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 184*  
 
 ```statblock
@@ -63,6 +63,6 @@ aliases:
     "name": "Fire Breath (Recharge 5-6)"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/npc/token/ignia-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Ignia.webp"
 ```
 ^statblock

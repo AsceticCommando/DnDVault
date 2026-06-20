@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Pharblex Spattergoo"
 ---
-# [Pharblex Spattergoo](3-Mechanics\CLI\bestiary\npc/pharblex-spattergoo-hotdq.md)
+# [Pharblex Spattergoo](3-Mechanics/CLI/bestiary/npc/pharblex-spattergoo-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 91, Tyranny of Dragons p. 187*  
 
 ```statblock
@@ -22,7 +22,8 @@ aliases:
 "subtype": "bullywug"
 "alignment": "Chaotic Evil"
 "ac": !!int "15"
-"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md),\
+  \ [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "59"
 "hit_dice": "7d8 + 28"
 "modifier": !!int "1"
@@ -45,7 +46,7 @@ aliases:
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+3"
 "gear":
-  - "[spear](3-Mechanics/CLI/items/spear.md)"
+  - "[spear](3-Mechanics/CLI/items/spear-xphb.md)"
 "senses": "passive Perception 15"
 "languages": "Common, Bullywug"
 "cr": "3"
@@ -53,14 +54,14 @@ aliases:
   - "desc": "Pharblex is a 6th-level spellcaster that uses Wisdom as his spellcasting\
       \ ability (spell save DC 13, +5 to hit with spell attacks). Pharblex has the\
       \ following spells prepared from the druid spell list:\n\n**Cantrips (at will):**\
-      \ [druidcraft](3-Mechanics/CLI/spells/druidcraft.md), [guidance](3-Mechanics/CLI/spells/guidance.md),\
-      \ [poison spray](3-Mechanics/CLI/spells/poison-spray.md)\n\n**1st level (4 slots):**\
-      \ [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md), [entangle](3-Mechanics/CLI/spells/entangle.md),\
-      \ [healing word](3-Mechanics/CLI/spells/healing-word.md), [thunderwave](3-Mechanics/CLI/spells/thunderwave.md)\n\
-      \n**2nd level (3 slots):** [barkskin](3-Mechanics/CLI/spells/barkskin.md), [beast\
-      \ sense](3-Mechanics/CLI/spells/beast-sense.md), [spike growth](3-Mechanics/CLI/spells/spike-growth.md)\n\
-      \n**3rd level (3 slots):** [plant growth](3-Mechanics/CLI/spells/plant-growth.md),\
-      \ [water walk](3-Mechanics/CLI/spells/water-walk.md)"
+      \ [druidcraft](3-Mechanics/CLI/spells/druidcraft-xphb.md), [guidance](3-Mechanics/CLI/spells/guidance-xphb.md),\
+      \ [poison spray](3-Mechanics/CLI/spells/poison-spray-xphb.md)\n\n**1st level\
+      \ (4 slots):** [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md), [entangle](3-Mechanics/CLI/spells/entangle-xphb.md),\
+      \ [healing word](3-Mechanics/CLI/spells/healing-word-xphb.md), [thunderwave](3-Mechanics/CLI/spells/thunderwave-xphb.md)\n\
+      \n**2nd level (3 slots):** [barkskin](3-Mechanics/CLI/spells/barkskin-xphb.md),\
+      \ [beast sense](3-Mechanics/CLI/spells/beast-sense-xphb.md), [spike growth](3-Mechanics/CLI/spells/spike-growth-xphb.md)\n\
+      \n**3rd level (3 slots):** [plant growth](3-Mechanics/CLI/spells/plant-growth-xphb.md),\
+      \ [water walk](3-Mechanics/CLI/spells/water-walk-xphb.md)"
     "name": "Spellcasting"
   - "desc": "Pharblex can breathe air and water."
     "name": "Amphibious"
@@ -85,6 +86,6 @@ aliases:
 "source":
   - "HotDQ"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/npc/token/pharblex-spattergoo-hotdq.webp"
+"image": "file://bestiary/tokens/HotDQ/Pharblex%20Spattergoo.webp"
 ```
 ^statblock

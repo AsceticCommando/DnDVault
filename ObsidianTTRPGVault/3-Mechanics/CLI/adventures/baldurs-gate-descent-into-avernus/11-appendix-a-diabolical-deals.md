@@ -32,30 +32,30 @@ An archdevil who wishes to make a deal with a character can do so in person or s
 
 | Least Devils |
 |--------------|
-| 1. | [Lemure](3-Mechanics/CLI/bestiary/fiend/lemure.md) |
+| 1. | [Lemure](3-Mechanics/CLI/bestiary/fiend/lemure-xmm.md) |
 | 2. | [Nupperibo](3-Mechanics/CLI/bestiary/fiend/nupperibo-mpmm.md) |
 ^least-devils
 
 | Lesser Devils |
 |---------------|
-| 3. | [Imp](3-Mechanics/CLI/bestiary/fiend/imp.md) |
-| 4. | [Spined devil](3-Mechanics/CLI/bestiary/fiend/spined-devil.md) |
-| 5. | [Bearded devil](3-Mechanics/CLI/bestiary/fiend/bearded-devil.md) |
+| 3. | [Imp](3-Mechanics/CLI/bestiary/fiend/imp-xmm.md) |
+| 4. | [Spined devil](3-Mechanics/CLI/bestiary/fiend/spined-devil-xmm.md) |
+| 5. | [Bearded devil](3-Mechanics/CLI/bestiary/fiend/bearded-devil-xmm.md) |
 | 6. | [Merregon](3-Mechanics/CLI/bestiary/fiend/merregon-mpmm.md) |
-| 7. | [Barbed devil](3-Mechanics/CLI/bestiary/fiend/barbed-devil.md) |
-| 8. | [Chain devil](3-Mechanics/CLI/bestiary/fiend/chain-devil.md) |
-| 9. | [Bone devil](3-Mechanics/CLI/bestiary/fiend/bone-devil.md) |
+| 7. | [Barbed devil](3-Mechanics/CLI/bestiary/fiend/barbed-devil-xmm.md) |
+| 8. | [Chain devil](3-Mechanics/CLI/bestiary/fiend/chain-devil-xmm.md) |
+| 9. | [Bone devil](3-Mechanics/CLI/bestiary/fiend/bone-devil-xmm.md) |
 ^lesser-devils
 
 | Greater Devils |
 |----------------|
 | 10. | [Orthon](3-Mechanics/CLI/bestiary/fiend/orthon-mpmm.md) |
-| 11. | [Horned devil](3-Mechanics/CLI/bestiary/fiend/horned-devil.md) |
-| 12. | [Erinyes](3-Mechanics/CLI/bestiary/fiend/erinyes.md) |
+| 11. | [Horned devil](3-Mechanics/CLI/bestiary/fiend/horned-devil-xmm.md) |
+| 12. | [Erinyes](3-Mechanics/CLI/bestiary/fiend/erinyes-xmm.md) |
 | 13. | [Narzugon](3-Mechanics/CLI/bestiary/fiend/narzugon-mpmm.md) |
-| 14. | [Ice devil](3-Mechanics/CLI/bestiary/fiend/ice-devil.md) |
+| 14. | [Ice devil](3-Mechanics/CLI/bestiary/fiend/ice-devil-xmm.md) |
 | 15. | [Amnizu](3-Mechanics/CLI/bestiary/fiend/amnizu-mpmm.md) |
-| 16. | [Pit fiend](3-Mechanics/CLI/bestiary/fiend/pit-fiend.md) |
+| 16. | [Pit fiend](3-Mechanics/CLI/bestiary/fiend/pit-fiend-xmm.md) |
 ^greater-devils
 
 | Archdevils |
@@ -81,7 +81,7 @@ The following ability checks can be made during deal-making:
 - If a devil attempts to deceive a character at the deal-making stage, the devil can make a Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception)) check opposed by the character's Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check. If the character's check result is higher than the devil's, the character sees through the devil's deception.  
 - Devils like to slip extra clauses into the fine print of a contract. When this happens, a character who can read Infernal can make an Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check opposed by the devil's Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception)) check. If the character's check result is higher than the devil's, the character detects the extra clauses in the fine print and can have them removed before the contract is signed.  
 
-![](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/127-i0cx5-a-01.webp#center)
+![](file://adventure/BGDIA/127-i0cx5-a-01.webp#center)
 
 ## What Devils Want
 
@@ -101,7 +101,7 @@ A devil that can't claim a character's soul might demand a service by way of com
 
 ### Fealty (Archdevils)
 
-Archdevils prize fealty almost as much as souls. One way in which a mortal can demonstrate fealty to an archdevil is to lead a religious cult devoted to the archdevil or perform heinous acts in the archdevil's name. A character can also enter into an agreement to serve the archdevil as a warlock. Such a character must take at least one level in the warlock class, choosing [the Fiend](3-Mechanics/CLI/classes/warlock.md) (represented in this case by the archdevil) as their otherworldly patron.
+Archdevils prize fealty almost as much as souls. One way in which a mortal can demonstrate fealty to an archdevil is to lead a religious cult devoted to the archdevil or perform heinous acts in the archdevil's name. A character can also enter into an agreement to serve the archdevil as a warlock. Such a character must take at least one level in the warlock class, choosing [the Fiend](3-Mechanics/CLI/classes/warlock-xphb.md) (represented in this case by the archdevil) as their otherworldly patron.
 
 ## What Devils Offer
 
@@ -136,7 +136,7 @@ An archdevil can offer any or all of the following:
 - A valuable piece of information that can't be acquired by any other means  
 - A single task that the archdevil or one of its minions can complete within the next nine days  
 - A supernatural gift manifesting as a charm (see ""Supernatural Gifts"" in chapter 7 of the "Dungeon Master's Guide" and "Archdevil Charms")  
-- The benefit of a [wish](3-Mechanics/CLI/spells/wish.md) spell (with no [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) for using an effect other than duplicating another spell)  
+- The benefit of a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell (with no [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) for using an effect other than duplicating another spell)  
 
 ## Infernal Contracts
 
@@ -150,7 +150,7 @@ A character bound by an infernal contract who fails to pay the price specified i
 
 - The character's soul is forfeit when the character dies (that is, the character is reborn in the Nine Hells as a lemure).  
 - The character loses all monetary wealth and property, or a powerful magic item (determined by the DM), to the devil.  
-- The character grows horns, a tail, or some other devilish features that can't be removed by any means short of divine intervention (though illusions or disguises can conceal them). As long as these marks persist, the character detects as a fiend when subjected to [detect evil and good](3-Mechanics/CLI/spells/detect-evil-and-good.md) spells or similar magic.  
+- The character grows horns, a tail, or some other devilish features that can't be removed by any means short of divine intervention (though illusions or disguises can conceal them). As long as these marks persist, the character detects as a fiend when subjected to [detect evil and good](3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md) spells or similar magic.  
 - The character gains a new flaw. A character who exhibits behavior inconsistent with this flaw has disadvantage on all attack rolls, ability checks, and saving throws until the behavior changes to match the flaw.  
 
 ### Voiding a Contract
@@ -165,13 +165,15 @@ A devil might be persuaded to void a contract in exchange for one of the followi
 
 - One or more [soul coins](3-Mechanics/CLI/items/soul-coin-bgdia.md) (lesser devils will often settle for three, greater devils for nine, and archdevils have no interest in such a paltry alternative)  
 - An exorbitant sum of gold plus the sacrifice of many humanoids in the devil's name  
-- A powerful artifact, such as the [Hand of Vecna](3-Mechanics/CLI/items/hand-of-vecna.md) or the [Sword of Zariel](3-Mechanics/CLI/items/sword-of-zariel-bgdia.md)  
+- A powerful artifact, such as the [Hand of Vecna](3-Mechanics/CLI/items/hand-of-vecna-xdmg.md) or the [Sword of Zariel](3-Mechanics/CLI/items/sword-of-zariel-bgdia.md)  
 
 ### Contract Forms
 
 The Contract Forms table has examples of different forms of infernal contracts. The sections that follow the table describe the various contracts and the means by which they can be destroyed and voided.
 
 **Contract Forms**
+
+`dice: [](11-appendix-a-diabolical-deals.md#^contract-forms)`
 
 | dice: d6 | Contract Form |
 |----------|---------------|
@@ -193,7 +195,7 @@ To void such a contract, each doll must be destroyed within 1 minute of the othe
 
 A portal opens, and a humanoid bound in chains with its eyes and mouth sewn shut stumbles through it. This individual is likely someone who breached their own infernal contract and is now paying the price. The terms of the deal are carved into the poor wretch's skin. To enter the contract, the devil and the character who made the deal carves their names into the wretch, who is then promptly banished.
 
-Use the [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md) stat block to represent the wretch, who is [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) while its eyes are sewn shut. Once the contract is signed by both parties, the wretch no longer ages or needs food, drink, air, or sleep, and it gains immunity to all damage that isn't dealt by the devil or the character who made the deal. If the wretch dies, the contract is void.
+Use the [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) stat block to represent the wretch, who is [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) while its eyes are sewn shut. Once the contract is signed by both parties, the wretch no longer ages or needs food, drink, air, or sleep, and it gains immunity to all damage that isn't dealt by the devil or the character who made the deal. If the wretch dies, the contract is void.
 
 #### Infernal Scroll
 
@@ -203,7 +205,7 @@ Burning the scroll voids the contract. It's immune to all other damage and harm.
 
 #### Lemure Kiss
 
-The devil summons a [lemure](3-Mechanics/CLI/bestiary/fiend/lemure.md) with the deal printed in glowing runes on its lumpy flesh. To enter the contract, the devil and character making the deal and must kiss the lemure. When that happens, the lemure is transformed into a stone statue with the deal visible on the surface. The statue then vanishes to the depths of the Nine Hells.
+The devil summons a [lemure](3-Mechanics/CLI/bestiary/fiend/lemure-xmm.md) with the deal printed in glowing runes on its lumpy flesh. To enter the contract, the devil and character making the deal and must kiss the lemure. When that happens, the lemure is transformed into a stone statue with the deal visible on the surface. The statue then vanishes to the depths of the Nine Hells.
 
 The statue is a Medium object with AC 17, 50 hit points, and immunity to all damage except radiant damage. No spell can turn it back into a lemure. Destroying the statue voids the contract.
 
@@ -211,7 +213,7 @@ The statue is a Medium object with AC 17, 50 hit points, and immunity to all dam
 
 The devil produces sheet music with the deal written on it. To enter the contract, the devil and the character making the deal must sing or play the discordant song, which remains stuck in their heads until the deal is fulfilled.
 
-Soaking the sheet music in holy water destroys and voids the contract, and causes the character and the devil to lose the ability to speak. A [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md) spell or similar magic ends the effect on its recipient.
+Soaking the sheet music in holy water destroys and voids the contract, and causes the character and the devil to lose the ability to speak. A [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md) spell or similar magic ends the effect on its recipient.
 
 #### Written in Stone
 

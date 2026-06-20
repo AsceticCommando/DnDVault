@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Two-Headed Troll"
 ---
-# [Two-Headed Troll](3-Mechanics\CLI\bestiary\giant/two-headed-troll-oota.md)
+# [Two-Headed Troll](3-Mechanics/CLI/bestiary/giant/two-headed-troll-oota.md)
 *Source: Out of the Abyss p. 211*  
 
 ```statblock
@@ -63,6 +63,6 @@ aliases:
     "name": "Extra Bite"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/giant/token/two-headed-troll-oota.webp"
+"image": "file://bestiary/tokens/OotA/Two-Headed%20Troll.webp"
 ```
 ^statblock

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Tiamat"
 ---
-# [Tiamat](3-Mechanics\CLI\bestiary\npc/tiamat-rot.md)
+# [Tiamat](3-Mechanics/CLI/bestiary/npc/tiamat-rot.md)
 *Source: The Rise of Tiamat p. 92, Tyranny of Dragons p. 190*  
 
 ```statblock
@@ -55,7 +55,7 @@ aliases:
 "cr": "30"
 "traits":
   - "desc": "Tiamat can innately cast the following spell, her spellcasting ability\
-      \ is Charisma (spell save DC 26):\n\n**3/day:** [divine word](3-Mechanics/CLI/spells/divine-word.md)"
+      \ is Charisma (spell save DC 26):\n\n**3/day:** [divine word](3-Mechanics/CLI/spells/divine-word-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "When Tiamat drops to 0 hit points or dies, her body is destroyed but\
       \ her essence travels back to her domain in the Nine Hells, and she is unable\
@@ -130,6 +130,6 @@ aliases:
 "source":
   - "RoT"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/npc/token/tiamat-rot.webp"
+"image": "file://bestiary/tokens/RoT/Tiamat.webp"
 ```
 ^statblock

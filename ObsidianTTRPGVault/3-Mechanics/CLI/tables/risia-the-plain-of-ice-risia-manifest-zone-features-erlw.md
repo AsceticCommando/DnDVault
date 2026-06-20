@@ -12,6 +12,8 @@ aliases:
 
 **Risia Manifest Zone Features**
 
+`dice: [](risia-the-plain-of-ice-risia-manifest-zone-features-erlw.md#^risia-manifest-zone-features)`
+
 | dice: d4 | Feature |
 |----------|---------|
 | 1 | Spells that deal cold damage are empowered here. Such a spell of 1st level or higher cast within the zone deals cold damage as if it were cast at a level one higher than the spell slot that was expended. |

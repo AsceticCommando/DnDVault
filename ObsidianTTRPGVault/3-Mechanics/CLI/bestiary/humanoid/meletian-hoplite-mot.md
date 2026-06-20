@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Meletian Hoplite"
 ---
-# [Meletian Hoplite](3-Mechanics\CLI\bestiary\humanoid/meletian-hoplite-mot.md)
+# [Meletian Hoplite](3-Mechanics/CLI/bestiary/humanoid/meletian-hoplite-mot.md)
 *Source: Mythic Odysseys of Theros p. 229*  
 
 Meletian hoplites use a combination of cunning, faith, and magic to defend their coastal home. Most of these skilled soldiers serve in the Reverent Army, the defenders of Meletis, which uses an array of proven strategies and flexible troop formations to gain the advantage over foes. Bolstered by trained griffon and pegasus steeds, they strike foes where they least expect.
@@ -51,6 +51,8 @@ The three Hoplite Unit Names tables present the sorts of titles used by hoplite 
 
 **Setessan Hoplite Unit Names**
 
+`dice: [](meletian-hoplite-mot.md#^setessan-hoplite-unit-names)`
+
 | dice: d8 | Name |
 |----------|------|
 | 1 | Nylea's Arrows |
@@ -69,7 +71,7 @@ The three Hoplite Unit Names tables present the sorts of titles used by hoplite 
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "18"
-"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "49"
 "hit_dice": "9d8 + 9"
 "modifier": !!int "2"
@@ -92,19 +94,20 @@ The three Hoplite Unit Names tables present the sorts of titles used by hoplite 
   - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
 "gear":
-  - "[spear](3-Mechanics/CLI/items/spear.md)"
+  - "[spear](3-Mechanics/CLI/items/spear-xphb.md)"
 "senses": "passive Perception 13"
 "languages": "Common"
 "cr": "3"
 "traits":
   - "desc": "The hoplite is a 3rd-level spellcaster. Its spellcasting ability is Intelligence\
       \ (spell save DC 13, +5 to hit with spell attacks). It has the following wizard\
-      \ spells prepared:\n\n**Cantrips (at will):** [mage hand](3-Mechanics/CLI/spells/mage-hand.md),\
-      \ [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md), [ray of frost](3-Mechanics/CLI/spells/ray-of-frost.md)\
-      \ (see \"Actions\" below)\n\n**1st level (4 slots):** [color spray](3-Mechanics/CLI/spells/color-spray.md),\
-      \ [expeditious retreat](3-Mechanics/CLI/spells/expeditious-retreat.md), [sleep](3-Mechanics/CLI/spells/sleep.md)\n\
-      \n**2nd level (2 slots):** [blur](3-Mechanics/CLI/spells/blur.md), [cloud of\
-      \ daggers](3-Mechanics/CLI/spells/cloud-of-daggers.md), [invisibility](3-Mechanics/CLI/spells/invisibility.md)"
+      \ spells prepared:\n\n**Cantrips (at will):** [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md), [ray of frost](3-Mechanics/CLI/spells/ray-of-frost-xphb.md)\
+      \ (see \"Actions\" below)\n\n**1st level (4 slots):** [color spray](3-Mechanics/CLI/spells/color-spray-xphb.md),\
+      \ [expeditious retreat](3-Mechanics/CLI/spells/expeditious-retreat-xphb.md),\
+      \ [sleep](3-Mechanics/CLI/spells/sleep-xphb.md)\n\n**2nd level (2 slots):**\
+      \ [blur](3-Mechanics/CLI/spells/blur-xphb.md), [cloud of daggers](3-Mechanics/CLI/spells/cloud-of-daggers-xphb.md),\
+      \ [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md)"
     "name": "Spellcasting"
 "actions":
   - "desc": "The hoplite makes three weapon attacks. It can replace one weapon attack\
@@ -124,6 +127,6 @@ The three Hoplite Unit Names tables present the sorts of titles used by hoplite 
     "name": "Ray of Frost (Cantrip)"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/meletian-hoplite-mot.webp"
+"image": "file://bestiary/tokens/MOT/Meletian%20Hoplite.webp"
 ```
 ^statblock

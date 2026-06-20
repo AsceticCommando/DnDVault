@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Girallon"
 ---
-# [Girallon](3-Mechanics\CLI\bestiary\monstrosity/girallon-mpmm.md)
+# [Girallon](3-Mechanics/CLI/bestiary/monstrosity/girallon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 139, Volo's Guide to Monsters p. 152*  
 
 A girallon looks like an oversized, four-armed ape with grayish-tan skin and white fur. Its vicious fangs and claws reveal it to be a monstrous predator.
@@ -72,7 +72,7 @@ Girallons that are well treated might be willing to serve as guards, though they
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/girallon-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Girallon.webp"
 ```
 ^statblock
 

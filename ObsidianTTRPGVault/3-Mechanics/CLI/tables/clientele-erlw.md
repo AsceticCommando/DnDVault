@@ -12,6 +12,8 @@ aliases:
 
 **Clientele**
 
+`dice: [](clientele-erlw.md#^clientele)`
+
 | dice: d6 | Clientele |
 |----------|-----------|
 | 1 | **Wealthy Socialites**. Your discretion and low-key approach to cases make you the perfect team to handle cases best keep out of the public eye. |

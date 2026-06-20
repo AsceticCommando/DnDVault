@@ -12,6 +12,8 @@ aliases:
 
 **Villain's Weakness**
 
+`dice: [](villains-secret-weakness-villains-weakness.md#^villains-weakness)`
+
 | dice: d8 | Weakness |
 |----------|----------|
 | 1 | A hidden object holds the villain's soul. |

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Sweettooth Horror"
 ---
-# [Sweettooth Horror](3-Mechanics\CLI\bestiary\fiend/sweettooth-horror-mcv4ec.md)
+# [Sweettooth Horror](3-Mechanics/CLI/bestiary/fiend/sweettooth-horror-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 No one is certain of the true origin of Sweettooth Village. This eerie, abandoned town constructed of gingerbread and frosting lies deep in the wilds of Eldraine. Some say the fiendish candy monsters that prowl its butterscotch-lined streets were once servants of a powerful witch, and the entire place was a trap created to lure hungry travelers. But if the sugary horrors of Sweettooth Village were ever under someone's control, that time has long since passed.
@@ -75,6 +75,6 @@ No one is certain of the true origin of Sweettooth Village. This eerie, abandone
     "name": "Candy Cane"
 "source":
   - "MCV4EC"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/sweettooth-horror-mcv4ec.webp"
+"image": "file://bestiary/tokens/MCV4EC/Sweettooth%20Horror.webp"
 ```
 ^statblock

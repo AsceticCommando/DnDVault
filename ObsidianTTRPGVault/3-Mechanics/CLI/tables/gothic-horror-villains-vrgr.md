@@ -12,6 +12,8 @@ aliases:
 
 **Gothic Horror Villains**
 
+`dice: [](gothic-horror-villains-vrgr.md#^gothic-horror-villains)`
+
 | dice: d10 | Villain |
 |-----------|---------|
 | 1 | A reclusive noble who isn't a vampire, but uses his reputation as one to terrorize his vassals |

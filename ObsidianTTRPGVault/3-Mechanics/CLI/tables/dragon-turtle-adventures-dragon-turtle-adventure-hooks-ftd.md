@@ -12,6 +12,8 @@ aliases:
 
 **Dragon Turtle Adventure Hooks**
 
+`dice: [](dragon-turtle-adventures-dragon-turtle-adventure-hooks-ftd.md#^dragon-turtle-adventure-hooks)`
+
 | dice: d8 | Adventure Hook |
 |----------|----------------|
 | 1 | A ruthless shipping magnate has bribed a dragon turtle to attack competitors' vessels and drive them out of business. |

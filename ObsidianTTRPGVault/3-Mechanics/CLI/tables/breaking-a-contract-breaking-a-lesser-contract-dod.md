@@ -12,6 +12,8 @@ aliases:
 
 **Breaking a Lesser Contract**
 
+`dice: [](breaking-a-contract-breaking-a-lesser-contract-dod.md#^breaking-a-lesser-contract)`
+
 | dice: d8 | Penalty |
 |----------|---------|
 | 1–2 | Your appearance becomes more toad-like (warty skin, bulbous eyes, large mouth, and webbed digits). This transformation has no game effects. |

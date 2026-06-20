@@ -21,5 +21,5 @@ aliases:
 | Red Tiger | Tiger |
 | Sky Pony | Eagle, with the Elk Aspect of the Beast |
 | Thunderbeast | Bear, with the Tiger Totemic Attunement |
-| Tree Ghost | Bear, with [speak with plants](3-Mechanics/CLI/spells/speak-with-plants.md) in place of the normal rituals for the Spirit Seeker feature |
+| Tree Ghost | Bear, with [speak with plants](3-Mechanics/CLI/spells/speak-with-plants-xphb.md) in place of the normal rituals for the Spirit Seeker feature |
 ^totem-spirit

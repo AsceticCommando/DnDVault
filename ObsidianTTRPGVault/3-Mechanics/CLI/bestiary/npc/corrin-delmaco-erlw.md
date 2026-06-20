@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Corrin Delmaco"
 ---
-# [Corrin Delmaco](3-Mechanics\CLI\bestiary\npc/corrin-delmaco-erlw.md)
+# [Corrin Delmaco](3-Mechanics/CLI/bestiary/npc/corrin-delmaco-erlw.md)
 *Source: Eberron: Rising from the Last War p. 271*  
 
 ```statblock
@@ -48,9 +48,10 @@ aliases:
     "desc": "+4"
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
+"damage_resistances": "poison"
 "gear":
-  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow.md)"
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "passive Perception 16"
 "languages": "any two languages, Halfling"
 "cr": "1"
@@ -68,6 +69,8 @@ aliases:
     "name": "Halfling Nimbleness"
   - "desc": "Corrin"
     "name": "Brave"
+  - "desc": "Corrin"
+    "name": "Stout Resilience"
 "actions":
   - "desc": "Corrin makes two melee attacks."
     "name": "Multiattack"
@@ -79,6 +82,6 @@ aliases:
     "name": "Hand Crossbow"
 "source":
   - "ERLW"
-"image": "3-Mechanics/CLI/bestiary/npc/token/corrin-delmaco-erlw.webp"
+"image": "file://bestiary/tokens/ERLW/Corrin%20Delmaco.webp"
 ```
 ^statblock

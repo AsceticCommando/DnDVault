@@ -12,6 +12,8 @@ aliases:
 
 **Stagefright's Lines**
 
+`dice: [](stagefrights-lines-wbtw.md#^stagefrights-lines)`
+
 | dice: 1d80 | Line |
 |------------|------|
 | 1 | Did you speak? I thought 'twas the braying of an ass. |

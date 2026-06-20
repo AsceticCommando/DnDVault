@@ -12,6 +12,8 @@ aliases:
 
 **Moonstone Dragon Adventure Hooks**
 
+`dice: [](moonstone-dragon-adventures-moonstone-dragon-adventure-hooks-ftd.md#^moonstone-dragon-adventure-hooks)`
+
 | dice: d8 | Adventure Hook |
 |----------|----------------|
 | 1 | A wealthy and well-known artist's muse—a moonstone dragon—has stopped appearing in their dreams. The artist is desperate to hire adventurers to find the dragon. |

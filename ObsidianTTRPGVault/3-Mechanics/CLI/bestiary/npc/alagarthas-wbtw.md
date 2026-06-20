@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Alagarthas"
 ---
-# [Alagarthas](3-Mechanics\CLI\bestiary\npc/alagarthas-wbtw.md)
+# [Alagarthas](3-Mechanics/CLI/bestiary/npc/alagarthas-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 144*  
 
 This prince made a bargain with Endelyn Moongrave and is paying the price. He longs to return to his home in the Misty Forest and deal with the threat of an evil green dragon that nests there.
@@ -62,6 +62,6 @@ This prince made a bargain with Endelyn Moongrave and is paying the price. He lo
     "name": "Leadership (Recharges after a Short or Long Rest)"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/npc/token/alagarthas-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Alagarthas.webp"
 ```
 ^statblock

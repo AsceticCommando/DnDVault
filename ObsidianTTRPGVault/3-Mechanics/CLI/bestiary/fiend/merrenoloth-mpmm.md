@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Merrenoloth"
 ---
-# [Merrenoloth](3-Mechanics\CLI\bestiary\fiend/merrenoloth-mpmm.md)
+# [Merrenoloth](3-Mechanics/CLI/bestiary/fiend/merrenoloth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 180, Mordenkainen's Tome of Foes p. 250*  
 
 The grim captains of the ferries on the River Styx, merrenoloths can navigate safely through the worst storms and always stay on course. Wielding fiery oars, merrenoloths strike fear into anyone who forcefully boards their vessels.
@@ -74,10 +74,10 @@ The grim captains of the ferries on the River Styx, merrenoloths can navigate sa
     "name": "Fear Gaze"
   - "desc": "The merrenoloth casts one of the following spells, requiring no material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 13):\n\n**At will:** [charm person](3-Mechanics/CLI/spells/charm-person.md),\
-      \ [darkness](3-Mechanics/CLI/spells/darkness.md), [detect magic](3-Mechanics/CLI/spells/detect-magic.md),\
-      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), [gust of wind](3-Mechanics/CLI/spells/gust-of-wind.md)\n\
-      \n**3/day:** [control water](3-Mechanics/CLI/spells/control-water.md)"
+      \ DC 13):\n\n**At will:** [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md),\
+      \ [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [gust of wind](3-Mechanics/CLI/spells/gust-of-wind-xphb.md)\n\
+      \n**3/day:** [control water](3-Mechanics/CLI/spells/control-water-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The merrenoloth teleports, along with any equipment it is wearing or\
@@ -105,7 +105,7 @@ The grim captains of the ferries on the River Styx, merrenoloths can navigate sa
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/merrenoloth-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Merrenoloth.webp"
 ```
 ^statblock
 

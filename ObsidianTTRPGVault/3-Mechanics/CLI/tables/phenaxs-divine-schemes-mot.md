@@ -12,6 +12,8 @@ aliases:
 
 **Phenax's Divine Schemes**
 
+`dice: [](phenaxs-divine-schemes-mot.md#^phenaxs-divine-schemes)`
+
 | dice: d4 | Scheme |
 |----------|--------|
 | 1 | Phenax finds an artifact capable of imprisoning Athreos and engages in a shadow war with Erebos, causing pandemonium in the Underworld. As a result, droves of Returned flood the mortal world. |

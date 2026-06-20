@@ -10,7 +10,7 @@ aliases:
 # Running the Adventure
 *Source: Dragons of Stormwreck Isle, p. 2* 
 
-![](3-Mechanics/CLI/adventures/dragons-of-stormwreck-isle/img/00-001-opening-splash.webp#center)
+![](file://adventure/DoSI/00-001.opening-splash.webp#center)
 
 This is for the Dungeon Master. It contains a complete Dungeons & Dragons adventure, as well as descriptions for the magic items and creatures in the adventure. It also teaches you how to run a D&D game.
 
@@ -86,8 +86,8 @@ Chapter 4, "Clifftop Observatory," brings the characters to the site where [Runa
 The maps in this adventure are for the DM's eyes only. These maps show secret doors and other elements the players aren't meant to see.
 
 > [!gallery]
-> ![Map 1: Stormwreck Isle](3-Mechanics/CLI/adventures/dragons-of-stormwreck-isle/img/000-map-0-01-stormwreck-isle.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/dragons-of-stormwreck-isle/img/001-map-0-01-stormwreck-isle-player.webp#gallery)
+> ![Map 1: Stormwreck Isle](file://adventure/DoSI/000-map-0.01-stormwreck-isle.webp#gallery)
+> ![Player Version](file://adventure/DoSI/001-map-0.01-stormwreck-isle-player.webp#gallery)
 
 When the characters arrive at a location marked on a map, describe it to give them a clear mental picture of the location. You can also draw what they see on paper, copying what's on your map while omitting secret details. It's not important that your hand-drawn map perfectly match what's in the adventure. Try to get the basic shape and dimensions correct and leave the rest to the players' imaginations.
 
@@ -131,7 +131,7 @@ You don't have to reveal every aspect of a situation or hazard in one go. Boxed 
 Whenever the adventure text presents a creature's name in **bold** type, that's a visual cue directing you to the creature's stat block in appendix B. Those stat blocks are intended for your eyes only. However, as the characters fight monsters, you can reveal certain information to help them make smart choices in combat:
 
 - **Hit Points.** You can give players a sense of how well they're doing against a creature by describing, in narrative terms, how hurt the creature is. For example, if the creature has fewer than half its hit points remaining, you can describe it as being badly wounded. Such information gives the players a sense of progress and might spur them to press the attack. On the other hand, if the characters aren't damaging the creature much, let the players know that the creature looks like it can take a lot more punishment. That might encourage the players to change their plan.  
-- **Abilities, Strengths, and Weaknesses.** As they fight a creature, characters should learn more about the creature's abilities. Share information with the players as it becomes apparent. For example, if the wizard casts [flaming sphere](3-Mechanics/CLI/spells/flaming-sphere.md) (a spell that deals fire damage) against a [fire snake](3-Mechanics/CLI/bestiary/elemental/fire-snake.md) (a creature that's immune to fire damage), let the wizard's player know the spell doesn't seem to bother the creature at all. Players might correctly guess that a fire snake probably isn't harmed by fire; feel free to subtly confirm their guesses (perhaps smiling and saying, "That sounds reasonable").  
+- **Abilities, Strengths, and Weaknesses.** As they fight a creature, characters should learn more about the creature's abilities. Share information with the players as it becomes apparent. For example, if the wizard casts [flaming sphere](3-Mechanics/CLI/spells/flaming-sphere-xphb.md) (a spell that deals fire damage) against a [fire snake](3-Mechanics/CLI/bestiary/elemental/salamander-fire-snake-xmm.md) (a creature that's immune to fire damage), let the wizard's player know the spell doesn't seem to bother the creature at all. Players might correctly guess that a fire snake probably isn't harmed by fire; feel free to subtly confirm their guesses (perhaps smiling and saying, "That sounds reasonable").  
 
 ##### Story Information
 
@@ -160,7 +160,7 @@ When you decide an ability check is required, consult the ""Ability Checks"" sec
 > [!note]
 > This "Voyage to Stormwreck Isle" section was originally distributed as part of an in-store introductory pack for *Dragons of Stormwreck Isle*, and later digitally published. It is included here for convenience.
 
-![](3-Mechanics/CLI/adventures/dragons-of-stormwreck-isle/img/00-005-voyage-intro-art.webp#center)
+![](file://adventure/DoSI/00-005.voyage-intro-art.webp#center)
 
 Before play starts, introduce yourself and welcome the players:
 

@@ -12,6 +12,8 @@ aliases:
 
 **Gambling Complications**
 
+`dice: [](gambling-complications-xge.md#^gambling-complications)`
+
 | dice: d6 | Complication |
 |----------|--------------|
 | 1 | You are accused of cheating. You decide whether you actually did cheat or were framed.* |

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Spore Servant Octopus"
 ---
-# [Spore Servant Octopus](3-Mechanics\CLI\bestiary\plant/spore-servant-octopus-dosi.md)
+# [Spore Servant Octopus](3-Mechanics/CLI/bestiary/plant/spore-servant-octopus-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 46*  
 
 Spore servants are dead creatures reanimated by the magical spores of a myconid leader. The final act of the myconid leader in Seagrow Caves before lapsing into its current comatose state was creating a spore servant from a dead giant octopus to protect the caves while the leader could not. Unlike a living octopus, this guardian has only basic control over its tentacles. Rather than coiling around intruders to immobilize them, the spore servant simply bludgeons them.
@@ -51,6 +51,6 @@ Spore servants are dead creatures reanimated by the magical spores of a myconid 
     "name": "Tentacles"
 "source":
   - "DoSI"
-"image": "3-Mechanics/CLI/bestiary/plant/token/spore-servant-octopus-dosi.webp"
+"image": "file://bestiary/tokens/DoSI/Spore%20Servant%20Octopus.webp"
 ```
 ^statblock

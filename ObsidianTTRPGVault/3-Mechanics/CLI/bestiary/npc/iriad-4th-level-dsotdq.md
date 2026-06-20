@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Iriad (4th Level)"
 ---
-# [Iriad (4th Level)](3-Mechanics\CLI\bestiary\npc/iriad-4th-level-dsotdq.md)
+# [Iriad (4th Level)](3-Mechanics/CLI/bestiary/npc/iriad-4th-level-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 212*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "elf"
 "alignment": "Chaotic Good"
 "ac": !!int "15"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "27"
 "hit_dice": "5d8 + 5"
 "modifier": !!int "4"
@@ -56,7 +56,8 @@ aliases:
 "languages": "Common, Elvish"
 "traits":
   - "desc": "Iriad is proficient with simple weapons, light armor, [cartographer's\
-      \ tools](3-Mechanics/CLI/items/cartographers-tools.md), and [woodcarver's tools](3-Mechanics/CLI/items/woodcarvers-tools.md)."
+      \ tools](3-Mechanics/CLI/items/cartographers-tools-xphb.md), and [woodcarver's\
+      \ tools](3-Mechanics/CLI/items/woodcarvers-tools-xphb.md)."
     "name": "Bonus Proficiencies"
   - "desc": "Iriad has advantage on saving throws made to avoid or end the [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
       \ condition on herself, and magic can't put her to sleep."

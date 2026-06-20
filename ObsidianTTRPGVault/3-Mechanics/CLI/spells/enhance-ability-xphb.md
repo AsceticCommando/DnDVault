@@ -1,0 +1,62 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-spell
+tags:
+- ttrpg-cli/compendium/src/5e/xphb
+- ttrpg-cli/spell/background/simic-scientist
+- ttrpg-cli/spell/class/artificer
+- ttrpg-cli/spell/class/bard
+- ttrpg-cli/spell/class/cleric
+- ttrpg-cli/spell/class/druid
+- ttrpg-cli/spell/class/ranger
+- ttrpg-cli/spell/class/sorcerer
+- ttrpg-cli/spell/class/wizard
+- ttrpg-cli/spell/feat/adept-of-the-red-robes
+- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+- ttrpg-cli/spell/feat/mark-of-hospitality
+- ttrpg-cli/spell/level/2nd-level
+- ttrpg-cli/spell/reward/charm-of-the-star
+- ttrpg-cli/spell/reward/simic-charm
+- ttrpg-cli/spell/school/transmutation
+- ttrpg-cli/spell/subclass/arcane-trickster
+- ttrpg-cli/spell/subclass/college-of-lore
+- ttrpg-cli/spell/subclass/divine-soul
+- ttrpg-cli/spell/subclass/eldritch-knight
+- ttrpg-cli/spell/subclass/oath-of-glory
+- ttrpg-cli/spell/subclass/reanimator
+- ttrpg-cli/spell/subclass/strength-domain-psa
+classes:
+- Artificer
+- Artificer (Reanimator)
+- Bard
+- Bard (College of Lore)
+- Cleric
+- Cleric (Strength Domain (PSA))
+- Druid
+- Fighter (Eldritch Knight)
+- Paladin (Oath of Glory)
+- Ranger
+- Rogue (Arcane Trickster)
+- Sorcerer
+- Sorcerer (Divine Soul)
+- Wizard
+aliases:
+- "Enhance Ability"
+---
+# Enhance Ability
+*2nd-level, Transmutation*  
+
+
+- **Casting time:** 1 Action
+- **Range:** Touch
+- **Components:** V, S, M (fur or a feather)
+- **Duration:** Concentration, up to 1 hour
+
+You touch a creature and choose Strength, Dexterity, Intelligence, Wisdom, or Charisma. For the duration, the target has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on ability checks using the chosen ability.
+
+**Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 2. You can choose a different ability for each target.
+
+**Classes**: [Artificer (Reanimator)](3-Mechanics/CLI/lists/list-spells-classes-reanimator-rhw.md "subclass=RHW;class=EFA"); [Artificer](3-Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Strength Domain (PSA))](3-Mechanics/CLI/lists/list-spells-classes-strength-domain-psa-psa.md "subclass=PSA;class=XPHB"); [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of Glory)](3-Mechanics/CLI/lists/list-spells-classes-oath-of-glory-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+
+*Source: Player's Handbook (2024) p. 268. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

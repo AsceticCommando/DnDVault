@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Xenk Yendar"
 ---
-# [Xenk Yendar](3-Mechanics\CLI\bestiary\npc/xenk-yendar-hat-tg.md)
+# [Xenk Yendar](3-Mechanics/CLI/bestiary/npc/xenk-yendar-hat-tg.md)
 *Source: Honor Among Thieves: Thieves' Gallery*  
 
 Raised in the nation of Thay, Xenk Yendar has sworn an oath of devotion to aid the innocent. Every inch the knight in shining armor, he thrives when inspiring goodness in his allies. The words "Neither virtue nor blade shall break" are etched in Celestial on the blade of his daggersword.
@@ -28,7 +28,7 @@ Now based in Mornbryn's Shield, Xenk travels Faerûn in search of evil to thwart
 "subtype": "paladin"
 "alignment": "Lawful Good"
 "ac": !!int "15"
-"ac_class": "[half plate](3-Mechanics/CLI/items/half-plate-armor.md)"
+"ac_class": "[half plate](3-Mechanics/CLI/items/half-plate-armor-xphb.md)"
 "hp": !!int "157"
 "hit_dice": "21d8 + 63"
 "modifier": !!int "0"
@@ -55,7 +55,7 @@ Now based in Mornbryn's Shield, Xenk travels Faerûn in search of evil to thwart
 "condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
   \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
 "gear":
-  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 13"
 "languages": "Common, Thayan, Undercommon"
@@ -93,7 +93,7 @@ Now based in Mornbryn's Shield, Xenk travels Faerûn in search of evil to thwart
       \ much damage and suffers no other effect."
     "name": "Shortsword and Dagger"
   - "desc": "Xenk touches a creature within 5 feet of himself. The target magically\
-      \ regains 27 (6d8) hit points and gains the benefit of a [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration.md)\
+      \ regains 27 (6d8) hit points and gains the benefit of a [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md)\
       \ spell."
     "name": "Cleansing Touch (1/Day)"
 "bonus_actions":
@@ -102,6 +102,6 @@ Now based in Mornbryn's Shield, Xenk travels Faerûn in search of evil to thwart
     "name": "Daggersword Shift"
 "source":
   - "HAT-TG"
-"image": "3-Mechanics/CLI/bestiary/npc/token/xenk-yendar-hat-tg.webp"
+"image": "file://bestiary/tokens/HAT-TG/Xenk%20Yendar.webp"
 ```
 ^statblock

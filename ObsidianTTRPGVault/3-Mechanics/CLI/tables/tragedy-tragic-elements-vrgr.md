@@ -12,6 +12,8 @@ aliases:
 
 **Tragic Elements**
 
+`dice: [](tragedy-tragic-elements-vrgr.md#^tragic-elements)`
+
 | dice: d10 | Tragic Element |
 |-----------|----------------|
 | 1 | The ghost aches from a broken heart. |

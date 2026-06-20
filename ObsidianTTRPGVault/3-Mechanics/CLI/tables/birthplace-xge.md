@@ -12,6 +12,8 @@ aliases:
 
 **Birthplace**
 
+`dice: [](birthplace-xge.md#^birthplace)`
+
 | dice: d100 | Location |
 |------------|----------|
 | 1-50 | Home |

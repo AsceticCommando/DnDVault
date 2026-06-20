@@ -11,4 +11,4 @@ aliases:
 
 ## 2nd Level
 
-- [Shatter](3-Mechanics/CLI/spells/shatter.md "PHB")
+- [Shatter](3-Mechanics/CLI/spells/shatter-xphb.md "XPHB")

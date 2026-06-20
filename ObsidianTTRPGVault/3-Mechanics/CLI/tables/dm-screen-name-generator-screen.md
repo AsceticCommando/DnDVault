@@ -12,6 +12,8 @@ aliases:
 
 **Name Generator**
 
+`dice: [](dm-screen-name-generator-screen.md#^name-generator)`
+
 | dice: d20 | Beginning | Middle | End |
 |-----------|-----------|--------|-----|
 | 1 | — | bar | — |

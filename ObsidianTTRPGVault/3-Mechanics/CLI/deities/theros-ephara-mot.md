@@ -12,7 +12,7 @@ aliases:
 ---
 # Ephara
 *Source: Mythic Odysseys of Theros p. 40* 
-![](3-Mechanics/CLI/deities/img/mot-026-02-03-ephara.webp#symbol)
+![](file://deities/MOT/026-02-03-ephara.webp#symbol)
 
 - **Alignment**: Lawful Neutral
 - **Domains**: Knowledge, Light
@@ -52,7 +52,7 @@ To an extent, Ephara's devout show their faith by going about their lives and co
 
 Ephara's face is a common sight in cities. Marble buildings, stone walls, and similar surfaces usually feature a sculpture or relief of her visage. People often swear oaths or engage in verbal disputes in front of these images, believing she won't let a falsehood told in front of her go unpunished. Whether she actually intervenes is unclear, but conflicts that play out this way are often resolved peacefully, without a need for the justice system to get involved.
 
-![](3-Mechanics/CLI/deities/img/mot-027-02-05.webp#center)
+![](file://deities/MOT/027-02-05.webp#center)
 
 > [!readaloud] Myths of Ephara
 > 
@@ -91,6 +91,8 @@ Ephara seeks champions who will defend her cities fiercely, both from external t
 
 **Ephara's Favor**
 
+`dice: [](theros-ephara-mot.md#^epharas-favor)`
+
 | dice: d6 | Circumstance |
 |----------|--------------|
 | 1 | You grew up in a polis like Meletis and never feel safe outside one. |
@@ -106,6 +108,8 @@ Ephara seeks champions who will defend her cities fiercely, both from external t
 Followers of Ephara support their cities, protecting them while helping them thrive. As a follower of Ephara, consider the ideals on the Ephara's Ideals table as alternatives to those suggested for your background.
 
 **Ephara's Ideals**
+
+`dice: [](theros-ephara-mot.md#^epharas-ideals)`
 
 | dice: d6 | Ideal |
 |----------|-------|

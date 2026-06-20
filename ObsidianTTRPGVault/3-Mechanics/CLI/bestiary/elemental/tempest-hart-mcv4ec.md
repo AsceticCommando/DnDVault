@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Tempest Hart"
 ---
-# [Tempest Hart](3-Mechanics\CLI\bestiary\elemental/tempest-hart-mcv4ec.md)
+# [Tempest Hart](3-Mechanics/CLI/bestiary/elemental/tempest-hart-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 Storm giants live high above Eldraine in a cloudy landscape known as Stormkeld. Massive cottages, keeps, and towers dot this magical realm, scattered between expanses of cloudy wilderness marked by tangles of giant beanstalks and raging storms. Various enormous creatures dwell in these wilds, with the tempest hart being among the most majestic.
@@ -81,6 +81,6 @@ Storm giant hunters consider tempest harts to be the worthiest prey, desirable f
     "name": "Lightning Call"
 "source":
   - "MCV4EC"
-"image": "3-Mechanics/CLI/bestiary/elemental/token/tempest-hart-mcv4ec.webp"
+"image": "file://bestiary/tokens/MCV4EC/Tempest%20Hart.webp"
 ```
 ^statblock

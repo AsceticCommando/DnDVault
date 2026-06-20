@@ -12,6 +12,8 @@ aliases:
 
 **Cog Hub Adventures**
 
+`dice: [](cog-hub-adventures-erlw.md#^cog-hub-adventures)`
+
 | dice: d10 | Adventure Goal |
 |-----------|----------------|
 | 1 | Obtain samples of dragon's blood hidden in the Cog hub. |

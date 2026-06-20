@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Pollenella the Honeybee"
 ---
-# [Pollenella the Honeybee](3-Mechanics\CLI\bestiary\npc/pollenella-the-honeybee-wbtw.md)
+# [Pollenella the Honeybee](3-Mechanics/CLI/bestiary/npc/pollenella-the-honeybee-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 135*  
 
 ```statblock
@@ -41,6 +41,6 @@ aliases:
     "name": "Sting"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/npc/token/pollenella-the-honeybee-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Pollenella%20the%20Honeybee.webp"
 ```
 ^statblock

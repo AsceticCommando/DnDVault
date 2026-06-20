@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Silver Greatwyrm"
 ---
-# [Silver Greatwyrm](3-Mechanics\CLI\bestiary\dragon/silver-greatwyrm-ftd.md)
+# [Silver Greatwyrm](3-Mechanics/CLI/bestiary/dragon/silver-greatwyrm-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 208*  
 
 Some of the oldest and wisest metallic dragons undergo a miraculous metamorphosis to become greatwyrms. This transformation is often wrought by Bahamut, who takes pride in elevating his worthiest children to a status approaching his own greatness.
@@ -142,6 +142,6 @@ Metallic greatwyrms are among the largest creatures in the multiverse, overshado
     "name": "Shattering Roar (Costs 2 Actions)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/silver-greatwyrm-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Silver%20Greatwyrm.webp"
 ```
 ^statblock

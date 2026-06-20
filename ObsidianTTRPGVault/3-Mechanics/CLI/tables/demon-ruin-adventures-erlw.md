@@ -12,6 +12,8 @@ aliases:
 
 **Demon Ruin Adventures**
 
+`dice: [](demon-ruin-adventures-erlw.md#^demon-ruin-adventures)`
+
 | dice: d4 | Adventure Goal |
 |----------|----------------|
 | 1 | Make a desperate request for aid from a Lord of Dust who is, by all accounts, an enemy of the characters' adversary. |

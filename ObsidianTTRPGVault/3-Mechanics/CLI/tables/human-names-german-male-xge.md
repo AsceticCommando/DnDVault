@@ -12,6 +12,8 @@ aliases:
 
 **Human Names – German, Male**
 
+`dice: [](human-names-german-male-xge.md#^human-names-german-male)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Albrecht |

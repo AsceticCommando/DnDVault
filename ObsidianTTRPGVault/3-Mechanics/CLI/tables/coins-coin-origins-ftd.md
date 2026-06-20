@@ -12,6 +12,8 @@ aliases:
 
 **Coin Origins**
 
+`dice: [](coins-coin-origins-ftd.md#^coin-origins)`
+
 | dice: d10 | Origin |
 |-----------|--------|
 | 1 | Equivalent value in "trade goods" (see the "Player's Handbook") rather than coins |

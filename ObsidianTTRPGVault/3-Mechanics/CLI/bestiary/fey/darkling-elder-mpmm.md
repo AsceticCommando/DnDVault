@@ -16,7 +16,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Darkling Elder"
 ---
-# [Darkling Elder](3-Mechanics\CLI\bestiary\fey/darkling-elder-mpmm.md)
+# [Darkling Elder](3-Mechanics/CLI/bestiary/fey/darkling-elder-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 84, Volo's Guide to Monsters p. 134*  
 
 A wise and respected darkling can undergo a ritual to become an elder. Other elders mark the supplicant with glowing tattoos, channeling away some of the darkling's absorbed light. If the ritual succeeds, the darkling grows into a taller, elf-like form. The darkling perishes if the ritual fails.
@@ -31,7 +31,7 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
 "type": "fey"
 "alignment": "Typically  Chaotic Neutral"
 "ac": !!int "15"
-"ac_class": "[studded leather armor](3-Mechanics/CLI/items/studded-leather-armor.md)"
+"ac_class": "[studded leather armor](3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
 "hp": !!int "27"
 "hit_dice": "5d8 + 5"
 "modifier": !!int "3"
@@ -53,7 +53,7 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+7"
 "gear":
-  - "[scimitar](3-Mechanics/CLI/items/scimitar.md)"
+  - "[scimitar](3-Mechanics/CLI/items/scimitar-xphb.md)"
 "senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 16"
 "languages": "Elvish, Sylvan"
@@ -73,13 +73,13 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
       \ + 3) slashing damage plus 7 (2d6) necrotic damage."
     "name": "Scimitar"
-  - "desc": "The darkling elder casts [darkness](3-Mechanics/CLI/spells/darkness.md),\
+  - "desc": "The darkling elder casts [darkness](3-Mechanics/CLI/spells/darkness-xphb.md),\
       \ requiring no spell components and using Wisdom as the spellcasting ability.\n"
     "name": "Darkness (Recharges after a Short or Long Rest)"
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/fey/token/darkling-elder-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Darkling%20Elder.webp"
 ```
 ^statblock
 

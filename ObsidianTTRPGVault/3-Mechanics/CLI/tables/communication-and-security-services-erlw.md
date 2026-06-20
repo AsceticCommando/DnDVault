@@ -14,10 +14,10 @@ aliases:
 
 | Service | Cost |
 |---------|------|
-| [Arcane lock](3-Mechanics/CLI/spells/arcane-lock.md) (House Kundarak) | 20 gp |
+| [Arcane lock](3-Mechanics/CLI/spells/arcane-lock-xphb.md) (House Kundarak) | 20 gp |
 | Courier service (House Orien) | 1 sp per mile |
-| [Glyph of warding](3-Mechanics/CLI/spells/glyph-of-warding.md) (House Kundarak) | 350 gp |
-| [Illusory script](3-Mechanics/CLI/spells/illusory-script.md) (House Sivis) | 15 gp |
+| [Glyph of warding](3-Mechanics/CLI/spells/glyph-of-warding-xphb.md) (House Kundarak) | 350 gp |
+| [Illusory script](3-Mechanics/CLI/spells/illusory-script-xphb.md) (House Sivis) | 15 gp |
 | Mail service (House Orien) | 1 cp per mile |
 | Message station (House Sivis) | 2 sp per word |
 | Translation (House Sivis) | 2 cp per word |

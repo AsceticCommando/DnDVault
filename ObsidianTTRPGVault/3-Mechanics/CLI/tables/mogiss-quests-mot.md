@@ -12,6 +12,8 @@ aliases:
 
 **Mogis's Quests**
 
+`dice: [](mogiss-quests-mot.md#^mogiss-quests)`
+
 | dice: d6 | Adventure Goal |
 |----------|----------------|
 | 1 | Foment a war between rival poleis. |

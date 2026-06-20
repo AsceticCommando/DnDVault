@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Night Blade"
 ---
-# [Night Blade](3-Mechanics\CLI\bestiary\humanoid/night-blade-bgdia.md)
+# [Night Blade](3-Mechanics/CLI/bestiary/humanoid/night-blade-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 233*  
 
 Bhaal's cultists emulate their deity, carrying out gruesome murders to spread fear and horror. They are charming and disarming when they wish, but in combat their true, bloodthirsty nature comes to the fore.
@@ -53,7 +53,7 @@ Low-ranking cultists of Bhaal are called night blades, whom Bhaal blesses with [
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+6"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60, passive Perception\
   \ 10"
 "languages": "Common"
@@ -69,6 +69,6 @@ Low-ranking cultists of Bhaal are called night blades, whom Bhaal blesses with [
     "name": "Dagger"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/night-blade-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Night%20Blade.webp"
 ```
 ^statblock

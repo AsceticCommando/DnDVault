@@ -16,7 +16,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Clockwork Iron Cobra"
 ---
-# [Clockwork Iron Cobra](3-Mechanics\CLI\bestiary\construct/clockwork-iron-cobra-mpmm.md)
+# [Clockwork Iron Cobra](3-Mechanics/CLI/bestiary/construct/clockwork-iron-cobra-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 79, Mordenkainen's Tome of Foes p. 125*  
 
 An iron cobra is exactly what its name implies: a metal snake with a poisonous bite. Gnomes load this clockwork with alchemical concoctions that can paralyze creatures and cloud the mind.
@@ -30,6 +30,8 @@ Gnomes' tinkering with magic and mechanical devices has produced many failed Con
 Gnome artisans prefer unique clockworks over perfectly functioning ones that copy too much from other creations. A clockwork can be customized by adding one of the following enhancements and one potential malfunction to its stat block. You can select randomly or choose a pair of modifications that fit the temperament of the clockwork's builder.
 
 **Clockwork Enhancements**
+
+`dice: [](clockwork-iron-cobra-mpmm.md#^clockwork-enhancements)`
 
 | dice: d10 | Enhancement |
 |-----------|-------------|
@@ -47,15 +49,17 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 
 **Clockwork Malfunctions**
 
+`dice: [](clockwork-iron-cobra-mpmm.md#^clockwork-malfunctions)`
+
 | dice: d8 | Malfunction |
 |----------|-------------|
-| 1 | **Faulty Sensors.** Roll a `d6` at the start of the clock work's turn. If you roll a 1, the clockwork is [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) until the end of its turn. |
-| 2 | **Flawed Targeting.** Roll a `d6` at the start of the clock work's turn. If you roll a 1, the clockwork makes attack rolls with disadvantage until the end of its turn. |
+| 1 | **Faulty Sensors.** Roll a `dice:d6\|noform\|noparens\|avg` (`d6`) at the start of the clock work's turn. If you roll a 1, the clockwork is [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) until the end of its turn. |
+| 2 | **Flawed Targeting.** Roll a `dice:d6\|noform\|noparens\|avg` (`d6`) at the start of the clock work's turn. If you roll a 1, the clockwork makes attack rolls with disadvantage until the end of its turn. |
 | 3 | **Ground Fault.** The clockwork has vulnerability to lightning damage. |
-| 4 | **Imprinting Loop.** Roll a `d6` at the start of the clock work's turn. If you roll a 1, the clockwork mistakes one creature it can see within 30 feet for its creator. The clockwork won't willingly harm that creature for 1 minute or until that creature attacks or dam ages it. |
+| 4 | **Imprinting Loop.** Roll a `dice:d6\|noform\|noparens\|avg` (`d6`) at the start of the clock work's turn. If you roll a 1, the clockwork mistakes one creature it can see within 30 feet for its creator. The clockwork won't willingly harm that creature for 1 minute or until that creature attacks or dam ages it. |
 | 5 | **Limited Steering.** The clockwork must move in a straight line. It can turn up to 90 degrees before moving and again at the midpoint of its movement. It can rotate freely if it doesn't use any of its speeds on its turn. |
-| 6 | **Overactive Sense of Self-Preservation.** If the clock work has half its hit points or fewer at the start of its turn in combat, roll a `d6`. If you roll a 1, it retreats from combat if possible. It otherwise keeps fighting. |
-| 7 | **Overheats.** Roll a `d6` at the start of the clockwork's turn. If you roll a 1, the clockwork is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) until the end of its turn. |
+| 6 | **Overactive Sense of Self-Preservation.** If the clock work has half its hit points or fewer at the start of its turn in combat, roll a `dice:d6\|noform\|noparens\|avg` (`d6`). If you roll a 1, it retreats from combat if possible. It otherwise keeps fighting. |
+| 7 | **Overheats.** Roll a `dice:d6\|noform\|noparens\|avg` (`d6`) at the start of the clockwork's turn. If you roll a 1, the clockwork is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) until the end of its turn. |
 | 8 | **Rusty Gears.** The clockwork has disadvantage on initiative rolls, and its speed decreases by 10 feet. |
 ^clockwork-malfunctions
 
@@ -110,7 +114,7 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/construct/token/clockwork-iron-cobra-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Clockwork%20Iron%20Cobra.webp"
 ```
 ^statblock
 

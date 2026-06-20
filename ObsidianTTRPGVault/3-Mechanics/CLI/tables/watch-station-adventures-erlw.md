@@ -12,6 +12,8 @@ aliases:
 
 **Watch Station Adventures**
 
+`dice: [](watch-station-adventures-erlw.md#^watch-station-adventures)`
+
 | dice: d6 | Adventure Goal |
 |----------|----------------|
 | 1 | Destroy evidence of a crime that's being stored in a Watch station, or plant evidence in a Watch station to frame someone for a crime. |

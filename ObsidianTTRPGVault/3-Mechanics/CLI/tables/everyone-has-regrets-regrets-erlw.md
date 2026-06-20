@@ -12,6 +12,8 @@ aliases:
 
 **Regrets**
 
+`dice: [](everyone-has-regrets-regrets-erlw.md#^regrets)`
+
 | dice: d10 | Regret |
 |-----------|--------|
 | 1 | While you were serving in the Last War, you were forced to abandon an injured comrade. You don't know if they survived. |

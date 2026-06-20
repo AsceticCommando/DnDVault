@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Tem Temble (8th Level)"
 ---
-# [Tem Temble (8th Level)](3-Mechanics\CLI\bestiary\npc/tem-temble-8th-level-dsotdq.md)
+# [Tem Temble (8th Level)](3-Mechanics/CLI/bestiary/npc/tem-temble-8th-level-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 213*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "kender"
 "alignment": "Chaotic Good"
 "ac": !!int "13"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "49"
 "hit_dice": "9d6 + 18"
 "modifier": !!int "2"
@@ -54,11 +54,11 @@ aliases:
 "languages": "Common, Kenderspeak"
 "traits":
   - "desc": "Tem's spellcasting ability is Wisdom (spell save DC 15, +7 to spell attacks).\
-      \ She has the following druid spells prepared:\n\n**At will:** [druidcraft](3-Mechanics/CLI/spells/druidcraft.md),\
-      \ [poison spray](3-Mechanics/CLI/spells/poison-spray.md), [mending](3-Mechanics/CLI/spells/mending.md)\n\
-      \n**1st level (3 slots):** [healing word](3-Mechanics/CLI/spells/healing-word.md),\
-      \ [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md), [goodberry](3-Mechanics/CLI/spells/goodberry.md)\n\
-      \n**2nd level (1 slots):** [enhance ability](3-Mechanics/CLI/spells/enhance-ability.md)"
+      \ She has the following druid spells prepared:\n\n**At will:** [druidcraft](3-Mechanics/CLI/spells/druidcraft-xphb.md),\
+      \ [poison spray](3-Mechanics/CLI/spells/poison-spray-xphb.md), [mending](3-Mechanics/CLI/spells/mending-xphb.md)\n\
+      \n**1st level (3 slots):** [healing word](3-Mechanics/CLI/spells/healing-word-xphb.md),\
+      \ [faerie fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md), [goodberry](3-Mechanics/CLI/spells/goodberry-xphb.md)\n\
+      \n**2nd level (1 slots):** [enhance ability](3-Mechanics/CLI/spells/enhance-ability-xphb.md)"
     "name": "Spellcasting"
   - "desc": "Tem is proficient with simple weapons and light armor."
     "name": "Bonus Proficiencies"

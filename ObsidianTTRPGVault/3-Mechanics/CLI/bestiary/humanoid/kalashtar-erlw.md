@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Kalashtar"
 ---
-# [Kalashtar](3-Mechanics\CLI\bestiary\humanoid/kalashtar-erlw.md)
+# [Kalashtar](3-Mechanics/CLI/bestiary/humanoid/kalashtar-erlw.md)
 *Source: Eberron: Rising from the Last War p. 317*  
 
 The kalashtar have bonded with good-aligned quori spirits, which communicate with their hosts through dreams and visions. Descended from monks who offered their bodies as sanctuaries to those quori escaping the evil of Dal Quor, the kalashtar now fight to herald in a new age of light and balance.
@@ -44,7 +44,7 @@ The kalashtar have bonded with good-aligned quori spirits, which communicate wit
     "desc": "+6"
 "damage_resistances": "psychic"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Common, telepathy 20 ft."
 "cr": "1/4"
@@ -61,6 +61,6 @@ The kalashtar have bonded with good-aligned quori spirits, which communicate wit
     "name": "Mind Thrust"
 "source":
   - "ERLW"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/kalashtar-erlw.webp"
+"image": "file://bestiary/tokens/ERLW/Kalashtar.webp"
 ```
 ^statblock

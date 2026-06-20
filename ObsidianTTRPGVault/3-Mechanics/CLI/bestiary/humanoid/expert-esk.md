@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Expert"
 ---
-# [Expert](3-Mechanics\CLI\bestiary\humanoid/expert-esk.md)
+# [Expert](3-Mechanics/CLI/bestiary/humanoid/expert-esk.md)
 *Source: Essentials Kit p. 63*  
 
 ```statblock
@@ -21,7 +21,7 @@ aliases:
 "type": "humanoid"
 "alignment": "Unaligned"
 "ac": !!int "14"
-"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor.md)"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
 "modifier": !!int "2"
@@ -47,15 +47,15 @@ aliases:
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
-  - "[shortbow](3-Mechanics/CLI/items/shortbow.md)"
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
+  - "[shortbow](3-Mechanics/CLI/items/shortbow-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "passive Perception 10"
 "languages": "Common, plus one of your choice"
 "traits":
   - "desc": "The expert can take the Help action as a bonus action."
     "name": "Helpful"
-  - "desc": "The expert has [thieves' tools](3-Mechanics/CLI/items/thieves-tools.md)\
+  - "desc": "The expert has [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md)\
       \ and a musical instrument."
     "name": "Tools"
 "actions":
@@ -70,6 +70,6 @@ aliases:
     "name": "Shortbow"
 "source":
   - "ESK"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/expert-esk.webp"
+"image": "file://bestiary/tokens/ESK/Expert.webp"
 ```
 ^statblock

@@ -12,6 +12,8 @@ aliases:
 
 **Beholder Eye Size**
 
+`dice: [](physical-characteristics-beholder-eye-size-vgm.md#^beholder-eye-size)`
+
 | dice: 2d6 | Eye Size |
 |-----------|----------|
 | 2 | 50 percent normal |

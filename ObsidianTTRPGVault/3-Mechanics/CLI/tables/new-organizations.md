@@ -12,6 +12,8 @@ aliases:
 
 **New Organizations**
 
+`dice: [](new-organizations.md#^new-organizations)`
+
 | dice: d10 | New Organizations |
 |-----------|-------------------|
 | 1 | Crime syndicate/bandit confederacy |

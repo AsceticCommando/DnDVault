@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Linan Swift"
 ---
-# [Linan Swift](3-Mechanics\CLI\bestiary\npc/linan-swift-hotdq.md)
+# [Linan Swift](3-Mechanics/CLI/bestiary/npc/linan-swift-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 8, Tyranny of Dragons p. 24*  
 
 ```statblock
@@ -34,7 +34,7 @@ aliases:
   - !!int "10"
 "speed": "30 ft."
 "gear":
-  - "[spear](3-Mechanics/CLI/items/spear.md)"
+  - "[spear](3-Mechanics/CLI/items/spear-xphb.md)"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "0"
@@ -45,6 +45,6 @@ aliases:
 "source":
   - "HotDQ"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/npc/token/linan-swift-hotdq.webp"
+"image": "file://bestiary/tokens/HotDQ/Linan%20Swift.webp"
 ```
 ^statblock

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Drake Companion"
 ---
-# [Drake Companion](3-Mechanics\CLI\bestiary\dragon/drake-companion-ftd.md)
+# [Drake Companion](3-Mechanics/CLI/bestiary/dragon/drake-companion-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 15*  
 
 ```statblock
@@ -56,6 +56,6 @@ aliases:
     "name": "Infused Strikes"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/drake-companion-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Drake%20Companion.webp"
 ```
 ^statblock

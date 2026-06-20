@@ -10,12 +10,12 @@ aliases:
 ---
 # Athlete
 *Source: Mythic Odysseys of Theros p. 31*  
-![](3-Mechanics/CLI/backgrounds/img/athlete.webp#right)
+![](file://backgrounds/MOT/Athlete.webp#right)
 
 - **Skill Proficiencies.** [Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics), [Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)  
 - **Languages.** One of your choice  
 - **Tool Proficiencies.** Vehicles (land)  
-- **Equipment.** A bronze discus or leather ball, a lucky charm or past trophy, a set of [traveler's clothes](3-Mechanics/CLI/items/travelers-clothes.md), and a [pouch](3-Mechanics/CLI/items/pouch.md) containing 10 gp  
+- **Equipment.** A bronze discus or leather ball, a lucky charm or past trophy, a set of [traveler's clothes](3-Mechanics/CLI/items/travelers-clothes-xphb.md), and a [pouch](3-Mechanics/CLI/items/pouch-xphb.md) containing 10 gp  
 
 You strive to perfect yourself physically and in execution of everything you do. The thrill of competition lights fire in your blood, and the roar of the crowd drives you forward. Tales of your exploits precede you and might open doors or loosen tongues.
 
@@ -32,6 +32,8 @@ Between adventures, you might compete in athletic events sufficient enough to ma
 While many athletes practice various games and events, most excel at a single form of competition. Roll or choose from the options in the Favored Event table to determine the athletic event in which you excel.
 
 **Favored Event**
+
+`dice: [](athlete-mot.md#^favored-event)`
 
 | dice: d8 | Favored Event |
 |----------|---------------|
@@ -51,6 +53,8 @@ Competition can forge strong bonds between teammates and rivals or ignite bitter
 
 **Athlete Personality Traits**
 
+`dice: [](athlete-mot.md#^athlete-personality-traits)`
+
 | dice: d8 | Personality Trait |
 |----------|-------------------|
 | 1 | I feel most at peace during physical exertion, be it exercise or battle. |
@@ -65,6 +69,8 @@ Competition can forge strong bonds between teammates and rivals or ignite bitter
 
 **Athlete Ideals**
 
+`dice: [](athlete-mot.md#^athlete-ideals)`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Competition. I strive to test myself in all things. (Chaotic) |
@@ -77,6 +83,8 @@ Competition can forge strong bonds between teammates and rivals or ignite bitter
 
 **Athlete Bonds**
 
+`dice: [](athlete-mot.md#^athlete-bonds)`
+
 | dice: d6 | Bond |
 |----------|------|
 | 1 | My teammates are my family. |
@@ -88,6 +96,8 @@ Competition can forge strong bonds between teammates and rivals or ignite bitter
 ^athlete-bonds
 
 **Athlete Flaws**
+
+`dice: [](athlete-mot.md#^athlete-flaws)`
 
 | dice: d6 | Flaw |
 |----------|------|

@@ -12,6 +12,8 @@ aliases:
 
 **Yuan-ti Flaws**
 
+`dice: [](roleplaying-a-yuan-ti-yuan-ti-flaws-vgm.md#^yuan-ti-flaws)`
+
 | dice: d6 | Flaw |
 |----------|------|
 | 1 | I feel twinges of emotion, and it shames me that I am imperfect in this way. |

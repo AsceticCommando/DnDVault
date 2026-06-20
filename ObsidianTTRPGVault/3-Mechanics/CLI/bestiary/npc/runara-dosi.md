@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Runara"
 ---
-# [Runara](3-Mechanics\CLI\bestiary\npc/runara-dosi.md)
+# [Runara](3-Mechanics/CLI/bestiary/npc/runara-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 40*  
 
 Despite her innocuous disguise and her commitment to peace, the leader of Dragon's Rest is an adult bronze dragon—a fearsome opponent or a powerful ally. Her capabilities go beyond what is presented here.
@@ -92,6 +92,6 @@ Many bronze dragons are friendly coastal dwellers who enjoy watching ships and s
     "name": "Change Shape"
 "source":
   - "DoSI"
-"image": "3-Mechanics/CLI/bestiary/npc/token/runara-dosi.webp"
+"image": "file://bestiary/tokens/DoSI/Runara.webp"
 ```
 ^statblock

@@ -15,13 +15,13 @@ aliases:
 
 
 > [!note]
-> * This item group has the same name and source as the item [potion of healing](3-Mechanics/CLI/items/potion-of-healing.md).
+> * This item group has the same name and source as the item [potion of healing](3-Mechanics/CLI/items/potion-of-healing-xdmg.md).
 
 **Items in this group:**
 
-- [Potion of Healing](3-Mechanics/CLI/items/potion-of-healing.md)
-- [Potion of Greater Healing](3-Mechanics/CLI/items/potion-of-greater-healing.md)
-- [Potion of Superior Healing](3-Mechanics/CLI/items/potion-of-superior-healing.md)
-- [Potion of Supreme Healing](3-Mechanics/CLI/items/potion-of-supreme-healing.md)
+- [Potion of Healing](3-Mechanics/CLI/items/potion-of-healing-xdmg.md)
+- [Potion of Greater Healing](3-Mechanics/CLI/items/potion-of-greater-healing-xdmg.md)
+- [Potion of Superior Healing](3-Mechanics/CLI/items/potion-of-superior-healing-xdmg.md)
+- [Potion of Supreme Healing](3-Mechanics/CLI/items/potion-of-supreme-healing-xdmg.md)
 
 *Source: Dungeon Master's Guide p. 187. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

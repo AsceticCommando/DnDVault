@@ -16,7 +16,7 @@ aliases:
 > 
 > "If you want a god to determine your fate, you must ask the god for an ordeal," Sarpedon said. "They will only grant it if they think you are worthy—whatever 'worthy' means for them. If you accomplish it, you may request a hand in your own destiny."
 
-![As with this clash between...](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/069-04-01.webp#center "As with this clash between the gods Karametra and Pharika, the quarrels of deities and demigods often spill from Nyx into the realm of mortals")
+![As with this clash between the gods Karametra and Pharika, the quarrels of deities and demigods often spill from Nyx into the realm of mortals](file://book/MOT/069-04-01.webp#center)
 
 As exemplified by the labors of Anthousa, the exploits of Haktos the Unscarred, the wondrous inventions of Dalakos, and Elspeth's escape from the Underworld, the heroes of Theros chart their own fates—and so will the player characters in your campaign.
 
@@ -51,7 +51,7 @@ In return for the gods' divine blessings, champions are expected to do the god's
 
 - The character's piety score might decrease by 1 each day, or each play session, for as long as the character continues to refuse the quest.  
 - The god might intervene to steer the champion toward the quest: Thassa could cause a storm to blow the character's ship off course, for example, bringing the champion to where the god wants them to be.  
-- In extreme instances, the god might place a magical command on the character, similar to a [geas](3-Mechanics/CLI/spells/geas.md) spell.  
+- In extreme instances, the god might place a magical command on the character, similar to a [geas](3-Mechanics/CLI/spells/geas-xphb.md) spell.  
 
 #### God-Based Campaigns
 
@@ -59,7 +59,7 @@ Each god's entry in this chapter explores the themes and events that could drive
 
 ### Villains and Monsters
 
-Just as many heroes serve as champions of the gods, many villains also serve their wills. Each god's section offers ideas for NPCs whose devotion turns their behavior in a villainous direction. It also provides suggestions for the kinds of monsters that might be associated with that god and serve as foes in an adventure. Generally, monster suggestions exclude foes that could work for most gods, like [acolytes](3-Mechanics/CLI/bestiary/humanoid/acolyte.md) and [priests](3-Mechanics/CLI/bestiary/humanoid/priest.md) from the "Monster Manual" and [oracles](3-Mechanics/CLI/bestiary/humanoid/oracle-mot.md) from "chapter 6" of this book.
+Just as many heroes serve as champions of the gods, many villains also serve their wills. Each god's section offers ideas for NPCs whose devotion turns their behavior in a villainous direction. It also provides suggestions for the kinds of monsters that might be associated with that god and serve as foes in an adventure. Generally, monster suggestions exclude foes that could work for most gods, like [acolytes](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) and [priests](3-Mechanics/CLI/bestiary/humanoid/priest-xmm.md) from the "Monster Manual" and [oracles](3-Mechanics/CLI/bestiary/humanoid/oracle-mot.md) from "chapter 6" of this book.
 
 ### Gods as Campaign Villains
 
@@ -81,9 +81,9 @@ Each god's section includes a map of an iconic location often associated with a 
 > 
 > bringing her north to the Lindus.
 
-The gods are fond of meddling in mortal affairs, and heroes sometimes call on their gods for aid in times of desperate need. Spells such as [divination](3-Mechanics/CLI/spells/divination.md) and [commune](3-Mechanics/CLI/spells/commune.md) give characters the opportunity to ask their gods for information, and clerics who beseech their gods for assistance sometimes receive miracles in answer. Heroes also have the opportunity to ask the gods for favors, after proving their worth by enduring a divine ordeal.
+The gods are fond of meddling in mortal affairs, and heroes sometimes call on their gods for aid in times of desperate need. Spells such as [divination](3-Mechanics/CLI/spells/divination-xphb.md) and [commune](3-Mechanics/CLI/spells/commune-xphb.md) give characters the opportunity to ask their gods for information, and clerics who beseech their gods for assistance sometimes receive miracles in answer. Heroes also have the opportunity to ask the gods for favors, after proving their worth by enduring a divine ordeal.
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/070-04-02.webp#center)
+![](file://book/MOT/070-04-02.webp#center)
 
 At other times, the gods take the initiative to reach out to mortal heroes, sending them on quests or meddling in their adventures. Dreams, omens, and emissaries are the most common means by which gods might make their wishes known.
 
@@ -109,16 +109,16 @@ When the lynx-constellation paces restlessly in the night sky, it is an omen tha
 
 ##### Weal and Woe
 
-The gods usually send omens as either warnings or as signs of their favor. The response to the [augury](3-Mechanics/CLI/spells/augury.md) spell takes the form of an omen foretelling weal or woe, and the gods might use omens in the same way, even without being asked to provide a sign. When a divine champion sets out on a course of action, a god might express approval or disapproval, hoping to either encourage or dissuade the mortal.
+The gods usually send omens as either warnings or as signs of their favor. The response to the [augury](3-Mechanics/CLI/spells/augury-xphb.md) spell takes the form of an omen foretelling weal or woe, and the gods might use omens in the same way, even without being asked to provide a sign. When a divine champion sets out on a course of action, a god might express approval or disapproval, hoping to either encourage or dissuade the mortal.
 
-The [augury](3-Mechanics/CLI/spells/augury.md) spell requests an omen. At your option, you can simply provide the short answers offered in the spell description—weal, woe, weal and woe, or nothing—but you can also describe more elaborate omens. The form of the response might vary depending on the method of divination used, which can go beyond the inlaid sticks, dragon bones, or ornate cards mentioned in the spell description. Diviners in Theros look for signs in the stars, in the patterns of flocks of birds in flight, in the shapes of clouds, in the organs of sacrificed animals, in the sounds of thunder, in the designs left by waves on sand, and through many other means. So if an oracle stands on a beach imploring Thassa for an augury regarding a course of action you believe to be disastrous, you might describe the waves washing over the beach—and circling around the oracle's feet, leaving them completely dry. (If necessary, though, you should clarify that the oracle knows the answer to be "woe.")
+The [augury](3-Mechanics/CLI/spells/augury-xphb.md) spell requests an omen. At your option, you can simply provide the short answers offered in the spell description—weal, woe, weal and woe, or nothing—but you can also describe more elaborate omens. The form of the response might vary depending on the method of divination used, which can go beyond the inlaid sticks, dragon bones, or ornate cards mentioned in the spell description. Diviners in Theros look for signs in the stars, in the patterns of flocks of birds in flight, in the shapes of clouds, in the organs of sacrificed animals, in the sounds of thunder, in the designs left by waves on sand, and through many other means. So if an oracle stands on a beach imploring Thassa for an augury regarding a course of action you believe to be disastrous, you might describe the waves washing over the beach—and circling around the oracle's feet, leaving them completely dry. (If necessary, though, you should clarify that the oracle knows the answer to be "woe.")
 
 - **Other Messages.** An omen can also have a more direct meaning beyond simply "weal" or "woe." You can use omens to nudge the characters to an adventure location, to lead them to an oracle who lives far from the polis, or to hint at the true identity of a villain. Nylea might cause a flock of birds to suddenly rush eastward, inviting her champion to follow in that direction, or an animal might snarl whenever the villain's name is spoken. Omens should communicate important messages from the gods, something meaningful enough that deities have deigned to interfere in mortal efforts. The gods don't provide omens to address unimportant questions (unless the characters use a spell for this purpose).  
 - **Interpreting Omens.** A degree of mystery surrounds every omen, but the more complex an omen is, the more confusing mortals might find it. In addition, it's sometimes not clear whether a strange occurrence in the natural world is the work of the gods or has some other origin.  
 
 If a character struggles to interpret the meaning of an omen, you might allow them to make a DC 14 Intelligence or Wisdom check (perhaps modified by proficiency in [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana), [Nature](3-Mechanics/CLI/rules/skills.md#Nature), or [Religion](3-Mechanics/CLI/rules/skills.md#Religion)) to determine the nature of simple omens, with a success indicating that the correct message has been gleaned. Alternatively, characters might need to seek out oracles to interpret complicated omens for them.
 
-- **Omen Examples.** The tables on the following pages provide examples of phenomena that could serve as omens of the various gods. Although they each have their own areas of concern, any god can manipulate the natural world as they please. You can choose a god to closely align the omen with and roll either a `d6` or a `d8` to get an omen associated with that god, or you can roll a `d100` to get an omen from any of the god's omen tables at random.  
+- **Omen Examples.** The tables on the following pages provide examples of phenomena that could serve as omens of the various gods. Although they each have their own areas of concern, any god can manipulate the natural world as they please. You can choose a god to closely align the omen with and roll either a `dice:d6|noform|noparens|avg` (`d6`) or a `dice:d8|noform|noparens|avg` (`d8`) to get an omen associated with that god, or you can roll a `dice:d100|noform|noparens|avg` (`d100`) to get an omen from any of the god's omen tables at random.  
 
 ![Omens of Athreos](3-Mechanics/CLI/tables/omens-of-athreos-mot.md)
 
@@ -152,13 +152,13 @@ If a character struggles to interpret the meaning of an omen, you might allow th
 
 #### Divination
 
-Clerics and oracles have spells at their disposal that allow them to ask the gods for insight. The [divination](3-Mechanics/CLI/spells/divination.md) and [commune](3-Mechanics/CLI/spells/commune.md) spells contact a god and promise a truthful reply to the caster's questions. The reply takes the form of a simple "yes" or "no," a cryptic rhyme, or an omen. It might be transmitted through a disembodied voice, a vision only the caster can see, or any other mystical manner. A verbal reply to a [divination](3-Mechanics/CLI/spells/divination.md) or [commune](3-Mechanics/CLI/spells/commune.md) spell must be truthful, but it might still be misleading. A god can't speak a deliberate lie in response to either spell, but they can be evasive while remaining within the boundaries of the truth. If a character casts one of these spells more than once in the same day, however, there is an increasing chance of receiving an unclear answer or none at all (as described in the spells' entries in the "Player's Handbook"). This might happen because another god, alerted to the connection between the caster and their god by the first casting of the spell, intercepts the second one and chooses to mislead the character. Or it could simply mean that the god is tired of the character's pestering and chooses not to answer.
+Clerics and oracles have spells at their disposal that allow them to ask the gods for insight. The [divination](3-Mechanics/CLI/spells/divination-xphb.md) and [commune](3-Mechanics/CLI/spells/commune-xphb.md) spells contact a god and promise a truthful reply to the caster's questions. The reply takes the form of a simple "yes" or "no," a cryptic rhyme, or an omen. It might be transmitted through a disembodied voice, a vision only the caster can see, or any other mystical manner. A verbal reply to a [divination](3-Mechanics/CLI/spells/divination-xphb.md) or [commune](3-Mechanics/CLI/spells/commune-xphb.md) spell must be truthful, but it might still be misleading. A god can't speak a deliberate lie in response to either spell, but they can be evasive while remaining within the boundaries of the truth. If a character casts one of these spells more than once in the same day, however, there is an increasing chance of receiving an unclear answer or none at all (as described in the spells' entries in the "Player's Handbook"). This might happen because another god, alerted to the connection between the caster and their god by the first casting of the spell, intercepts the second one and chooses to mislead the character. Or it could simply mean that the god is tired of the character's pestering and chooses not to answer.
 
 #### Dreams and Visions
 
-When mortals sleep and dream, they are said to "visit Nyx." During this time, mortals are particularly susceptible to divine contact. A god might communicate with a sleeping mortal as if by casting [dream](3-Mechanics/CLI/spells/dream.md)—including the ability to transform the mortal's dreamscape into a nightmare. Whatever form such a dream takes, they are often similar to omens, making heavy use of symbol and metaphor.
+When mortals sleep and dream, they are said to "visit Nyx." During this time, mortals are particularly susceptible to divine contact. A god might communicate with a sleeping mortal as if by casting [dream](3-Mechanics/CLI/spells/dream-xphb.md)—including the ability to transform the mortal's dreamscape into a nightmare. Whatever form such a dream takes, they are often similar to omens, making heavy use of symbol and metaphor.
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/071-04-03.webp#center)
+![](file://book/MOT/071-04-03.webp#center)
 
 ### Divine Intervention
 
@@ -201,7 +201,7 @@ You have advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perce
 
 As an action, you can imbue your eyes with enhanced vision for 10 minutes. While the blessing is active, your eyes look like the starry void of Nyx, and you can see [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) creatures and objects within 60 feet of you that are within your line of sight. Once you use this blessing, you can't use it again until the next dusk.
 
-- **Weapon of Nyx (Requires Piety 10+).** You can use a bonus action to cause one weapon you are holding to surge with divine power for 1 minute. On a hit, the weapon deals an extra `1d8` radiant damage. (Depending on your god, it might deal a different damage type—necrotic for Erebos, lightning for Keranos, or fire for Purphoros, for example.) Once you use this blessing, you can't use it again until you finish a long rest.  
+- **Weapon of Nyx (Requires Piety 10+).** You can use a bonus action to cause one weapon you are holding to surge with divine power for 1 minute. On a hit, the weapon deals an extra `dice:1d8|noform|noparens|avg` (`1d8`) radiant damage. (Depending on your god, it might deal a different damage type—necrotic for Erebos, lightning for Keranos, or fire for Purphoros, for example.) Once you use this blessing, you can't use it again until you finish a long rest.  
 
 #### Emissaries
 
@@ -216,7 +216,7 @@ While certain deities are associated with sending favored animals as their emiss
 
 As the simplest form of miracle, a god can produce the effect of any cleric spell or any spell associated with one of the god's domains, and have the spell take effect anywhere in the mortal realm. The gods' capabilities aren't limited by spell lists, though, and their miraculous intervention can have any effect you want. Direct godly intervention tends to be subtle and rare, though, as it attracts the attention of other gods and might encourage them to meddle in their own ways.
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/072-04-04.webp#center)
+![](file://book/MOT/072-04-04.webp#center)
 
 ### Divine Ordeals
 
@@ -226,7 +226,7 @@ Life as a champion of a god offers abundant opportunities to escape life's tediu
 
 The first stage of a divine ordeal is entering Nyx. Callaphe the mariner is said to have sailed her ship over the waterfall at the edge of the world and right into Nyx, where she can still be seen among the constellations. Additionally, Kruphix's Temple of Mystery at the edge of the world and the shrine of Nykthos are known to hold portals that lead to the gates of Nyx.
 
-In theory, high-level characters can use spells such as [plane shift](3-Mechanics/CLI/spells/plane-shift.md) or [gate](3-Mechanics/CLI/spells/gate.md) to move from the mortal realm to Nyx. In practice, securing the proper material component to travel to Nyx through the [plane shift](3-Mechanics/CLI/spells/plane-shift.md) spell is roughly as difficult as sailing to the edge of the world, and Kruphix can (and usually does) prevent the [gate](3-Mechanics/CLI/spells/gate.md) spell from opening a portal into Nyx.
+In theory, high-level characters can use spells such as [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md) or [gate](3-Mechanics/CLI/spells/gate-xphb.md) to move from the mortal realm to Nyx. In practice, securing the proper material component to travel to Nyx through the [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md) spell is roughly as difficult as sailing to the edge of the world, and Kruphix can (and usually does) prevent the [gate](3-Mechanics/CLI/spells/gate-xphb.md) spell from opening a portal into Nyx.
 
 There might be other ways to get into Nyx, and each one is a challenge suited for the greatest heroes.
 
@@ -249,7 +249,7 @@ An ordeal is a single encounter, which might involve combat, interaction, a seri
 You can use these guidelines to determine the appropriate degree of challenge for elements of an ordeal:
 
 - **Combat with One Creature.** Use a monster or an NPC with a challenge rating equal to half the character's level.  
-- **Combat with Multiple Creatures.** Use `2d4` creatures, each of which has a challenge rating of about one-fifth the character's level.  
+- **Combat with Multiple Creatures.** Use `dice:2d4|noform|noparens|avg` (`2d4`) creatures, each of which has a challenge rating of about one-fifth the character's level.  
 - **Ability Checks.** Set the DC at 20 for most checks and 25 for checks that are crucial to the ordeal.  
 
 #### The Reward
@@ -262,7 +262,7 @@ There's typically no penalty for failing an ordeal, but the reward for success c
 
 ## Athreos
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/073-02-03-athreos.webp#center)
+![](file://book/MOT/073-02-03-athreos.webp#center)
 
 The River Guide straddles the line between life and death, maintaining the cosmological balance with no regard for the morals and emotions of mortals. Athreos's champions seek to further his goals, and rarely do so with greater sympathy than their grim patron.
 
@@ -306,7 +306,7 @@ If Athreos were to have desires beyond his responsibilities to the dead, he woul
 
 ![Athreos's Divine Schemes](3-Mechanics/CLI/tables/athreoss-divine-schemes-mot.md)
 
-![The shores of the Rivers t...](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/074-04-05.webp#center "The shores of the Rivers that Ring the World are watched by Athreos and his servants")
+![The shores of the Rivers that Ring the World are watched by Athreos and his servants](file://book/MOT/074-04-05.webp#center)
 
 ### Underworld Crossing
 
@@ -331,8 +331,8 @@ The Underworld crossing shown in map 4.1 is made up of two halves of a bleak, br
 The temple half on the Underworld side of the river consists of twisting crypt halls that hold no bones, bodies, or other remains—only dust and guardians. These halls give way to a second sanctuary filled with somber funeral music—though there are no instruments in sight. It's said that living creatures that hear this song are driven to the depths of despair. A massive statue of Athreos watches over this chamber and the guardians who reside there.
 
 > [!gallery]
-> ![Map 4.1: Underworld Crossing](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/076-map-4-1-underworld-crossing.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/077-map-4-1-underworld-crossing-player.webp#gallery)
+> ![Map 4.1: Underworld Crossing](file://book/MOT/076-map-4.1-Underworld-Crossing.webp#gallery)
+> ![Player Version](file://book/MOT/077-map-4.1-Underworld-Crossing-player.webp#gallery)
 
 #### Underworld Crossing Villains
 
@@ -342,7 +342,7 @@ Mortals who adventure in an Underworld crossing are likely to battle foes trying
 
 ## Ephara
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/076-02-03-ephara.webp#center)
+![](file://book/MOT/076-02-03-ephara.webp#center)
 
 Serious and knowledgeable, Ephara watches over cities, protecting them from the wilds and seeing that they develop in a just and beautiful way.
 
@@ -376,7 +376,7 @@ The Ephara's Villains table suggests a variety of foes that might arise from amo
 
 Ephara isn't often associated with monsters. Even so, a few monsters common in urban settings might be involved with the deity or her worshipers. Since many of Ephara's most devout followers are scholars, they commonly use magically constructed creatures in their plans. The vast majority of villains associated with Ephara are humans: soldiers, politicians, priests, and scholars who believe that Ephara's vision of a proper city is more important than the people living in it. The Ephara's Monsters table presents just a few foes likely to serve the god's will.
 
-![Ephara's urn is a fountain of blessings](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/077-04-06.webp#center)
+![Ephara's urn is a fountain of blessings](file://book/MOT/077-04-06.webp#center)
 
 ![Ephara's Monsters](3-Mechanics/CLI/tables/epharas-monsters-mot.md)
 
@@ -394,7 +394,7 @@ Ephara's power struggles with other deities often have a ripple effect that touc
 
 ### Agora
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/078-04-07.webp#center)
+![](file://book/MOT/078-04-07.webp#center)
 
 Many settlements in Theros have a centrally located agora, or public forum, where artists perform, politicians give speeches, philosophers debate, vendors hawk their wares, and people congregate. Many agoras are surrounded by stoas, covered walkways that lead to other areas of the settlement. People in the agora might retreat beneath the awnings for privacy and shade, while others stand on the roofs of the porticos to shout messages to the assembled crowds.
 
@@ -415,8 +415,8 @@ Two stages stand at either end of the forum. One is a huge platform where perfor
 At the agora's center stands a grand fountain with a larger-than-life sculpture depicting all the gods sharing a feast. On holy days, priests invite people to wash their feet in the fountain and receive blessings from the gods.
 
 > [!gallery]
-> ![Map 4.2: Agora](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/081-map-4-2-asora.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/082-map-4-2-asora-player.webp#gallery)
+> ![Map 4.2: Agora](file://book/MOT/081-map-4.2-Asora.webp#gallery)
+> ![Player Version](file://book/MOT/082-map-4.2-Asora-player.webp#gallery)
 
 #### Agora Villains
 
@@ -426,7 +426,7 @@ An agora villain could be almost any humanoid, from a corrupt politician to a co
 
 ## Erebos
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/080-02-03-erebos.webp#center)
+![](file://book/MOT/080-02-03-erebos.webp#center)
 
 Jealous but patient, Erebos is a demanding master. His champions know that service to him lasts not just until their deaths, but beyond that.
 
@@ -458,7 +458,7 @@ Erebos has legions of fallen monsters, heroes, and villains that he can send bac
 
 ![Erebos's Monsters](3-Mechanics/CLI/tables/ereboss-monsters-mot.md)
 
-![Erebos's minions hunt the ...](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/081-04-08.webp#center "Erebos's minions hunt the Returned and warn those who consider the same folly")
+![Erebos's minions hunt the Returned and warn those who consider the same folly](file://book/MOT/081-04-08.webp#center)
 
 ### Erebos as Campaign Villain
 
@@ -474,7 +474,7 @@ When the god of death chooses to move against the other gods, the effects can be
 
 ### Graveyard Temple
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/082-04-09.webp#center)
+![](file://book/MOT/082-04-09.webp#center)
 
 Any place where the remains of the dead are interred is considered a place of worship for Erebos. A graveyard can consist of mass graves, individual burial plots, family tombs containing interment niches or urns, or a combination of all such sites honoring the dead. These places often include a shrine to the god of death, which is home to the graveyard's priests.
 
@@ -497,8 +497,8 @@ The temple's cellar holds burial and financial records, as well as tools used in
 One of the graveyard's individual plots is marked with a nameless marker. This grave plot doesn't contain a body. The most valuable treasures entrusted to the temple's care are buried in this spot.
 
 > [!gallery]
-> ![Map 4.3: Graveyard](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/086-map-4-3-graveyard.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/087-map-4-3-graveyard-player.webp#gallery)
+> ![Map 4.3: Graveyard](file://book/MOT/086-map-4.3-Graveyard.webp#gallery)
+> ![Player Version](file://book/MOT/087-map-4.3-Graveyard-player.webp#gallery)
 
 #### Graveyard Temple Villains
 
@@ -508,7 +508,7 @@ Graveyard temple villains include those seeking to control death and wealth. Exa
 
 ## Heliod
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/084-02-03-heliod.webp#center)
+![](file://book/MOT/084-02-03-heliod.webp#center)
 
 As powerful as he is arrogant, Heliod believes in his vision of a bright, orderly future and demands that his champions help bring it into being.
 
@@ -542,7 +542,7 @@ Heliod is rarely associated with deadly monsters, more often with celestial mess
 
 ![Heliod's Monsters](3-Mechanics/CLI/tables/heliods-monsters-mot.md)
 
-![Heliod's spear doles out h...](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/085-04-10.webp#center "Heliod's spear doles out his blessings as well as his wrath")
+![Heliod's spear doles out his blessings as well as his wrath](file://book/MOT/085-04-10.webp#center)
 
 ### Heliod as Campaign Villain
 
@@ -560,7 +560,7 @@ Heliod's activities among the other gods can have a wide-ranging impact on the p
 
 ### Sun Temple
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/086-04-11.webp#center)
+![](file://book/MOT/086-04-11.webp#center)
 
 These multistory towers of worship rise atop mountains, hills, and the highest ground in a settlement, bringing congregants as close as possible to the sun. Huge windows, light-reflecting stone, and art depicting legendary heroes make every sun temple a bright, inspiring space.
 
@@ -579,8 +579,8 @@ The sun temple shown in map 4.4 presents a common design for Heliod's holy sites
 Floor-to-ceiling windows on the temple's fourth level reveal a crypt with hundreds of funeral urns placed in niches on the wall and in decorative columns. Lower levels hold the personal chambers of priests, as well as quiet chambers where people can worship at small altars or seek counsel from clergy who specialize in matters of morality. The temple's ground floor contains a museum displaying heroic artifacts and accounts of epic deeds, all of which are guarded by the ghosts of heroes interred in the crypt.
 
 > [!gallery]
-> ![Map 4.4: Sun Temple](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/091-map-4-4-sun-temple.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/092-map-4-4-sun-temple-player.webp#gallery)
+> ![Map 4.4: Sun Temple](file://book/MOT/091-map-4.4-Sun-Temple.webp#gallery)
+> ![Player Version](file://book/MOT/092-map-4.4-Sun-Temple-player.webp#gallery)
 
 #### Sun Temple Villains
 
@@ -590,7 +590,7 @@ Although sun temples are places that glorify heroic deeds, they do attract villa
 
 ## Iroas
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/088-02-03-iroas.webp#center)
+![](file://book/MOT/088-02-03-iroas.webp#center)
 
 Iroas expects much of his champions. Constant training and testing oneself against the strongest foes available are the hallmarks of Iroas's champions.
 
@@ -602,7 +602,7 @@ The Iroas's Quests table suggests a few adventures the god's champions might inv
 
 ![Iroas's Quests](3-Mechanics/CLI/tables/iroass-quests-mot.md)
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/089-04-12.webp#center)
+![](file://book/MOT/089-04-12.webp#center)
 
 #### An Iroas Campaign
 
@@ -655,7 +655,7 @@ Iroas isn't much of a schemer. His view of the world is through the crystal-clea
 
 ### Arena
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/090-04-13.webp#center)
+![](file://book/MOT/090-04-13.webp#center)
 
 Across Theros, contest grounds host athletic competitions and often serve as places to worship the god Iroas. The grandest hippodrome in Akros holds thousands of spectators, but more modest stadiums can be found throughout the land, serving as proving grounds for athletes and entertainment for the rich and poor. Foot and chariot races, hurling competitions, and combat sports (wrestling, boxing, and pankration) are all common events in arenas, especially during the Iroan Games, an annual series of athletic competitions held in Akros.
 
@@ -674,8 +674,8 @@ Outside the arena and beneath the seats are open areas and alcoves where vendors
 The space under the arena holds gymnasiums, an equipment hall, and several staging areas and specialty rooms used as locker rooms, animal pens, and separate training areas for various creatures.
 
 > [!gallery]
-> ![Map 4.5: Arena](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/096-map-4-5-arena.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/097-map-4-5-arena-player.webp#gallery)
+> ![Map 4.5: Arena](file://book/MOT/096-map-4.5-arena.webp#gallery)
+> ![Player Version](file://book/MOT/097-map-4.5-arena-player.webp#gallery)
 
 #### Arena Villains
 
@@ -685,7 +685,7 @@ All sorts of unsavory elements can be found in an arena—backstabbing competito
 
 ## Karametra
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/092-02-03-karametra.webp#center)
+![](file://book/MOT/092-02-03-karametra.webp#center)
 
 All life—plant and animal—needs fertility to continue to exist, making Karametra's constancy vital to sustaining a habitable world for mortals.
 
@@ -721,7 +721,7 @@ Karametra's followers usually protect innocents from monsters, but in certain ci
 
 ![Karametra's Monsters](3-Mechanics/CLI/tables/karametras-monsters-mot.md)
 
-![Karametra's acolytes gathe...](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/093-04-14.webp#center "Karametra's acolytes gather the bounty of the wilds for the god's feasts in Setessa")
+![Karametra's acolytes gather the bounty of the wilds for the god's feasts in Setessa](file://book/MOT/093-04-14.webp#center)
 
 ### Karametra as Campaign Villain
 
@@ -737,7 +737,7 @@ The Karametra's Divine Schemes tables explores ways in which the god's whims mig
 
 ### Arbor Watchtower
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/094-04-15.webp#center)
+![](file://book/MOT/094-04-15.webp#center)
 
 Sites that are sacred to Karametra, from her grand temple in the heart of Setessa to outposts in the wilderness, combine careful construction with natural growth. The god favors towers and hanging gardens that lift the verdant natural world up toward Nyx in her honor. In the Nessian Wood, Setessans build watchtowers that serve the dual purpose of military defense and worship.
 
@@ -762,8 +762,8 @@ The fourth floor is similar to the last two, with rooms for priests and a librar
 The top floor is open to the sky and is the main sanctuary of Karametra. A statue of the god and an altar are here. Several ancient trees form a canopy, and their trunks are sculpted to look like great heroes.
 
 > [!gallery]
-> ![Map 4.6: Arbor Watchtower](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/101-map-4-6-arbor-watchtower.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/102-map-4-6-arbor-watchtower-player.webp#gallery)
+> ![Map 4.6: Arbor Watchtower](file://book/MOT/101-map-4.6-Arbor-Watchtower.webp#gallery)
+> ![Player Version](file://book/MOT/102-map-4.6-Arbor-Watchtower-player.webp#gallery)
 
 #### Watchtower Villains
 
@@ -773,7 +773,7 @@ Villains at a watchtower usually want to take over, destroy, steal from, or infi
 
 ## Keranos
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/096-02-03-keranos.webp#center)
+![](file://book/MOT/096-02-03-keranos.webp#center)
 
 Mercurial and temperamental, Keranos personifies storms. Adventuring in the service of the god of storms is often challenging but never dull.
 
@@ -809,7 +809,7 @@ Keranos is associated with creatures that act as extensions of his volatile temp
 
 ![Keranos's Monsters](3-Mechanics/CLI/tables/keranoss-monsters-mot.md)
 
-![The mountain temples of Ke...](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/097-04-16.webp#center "The mountain temples of Keranos are constantly wrapped in storm clouds")
+![The mountain temples of Keranos are constantly wrapped in storm clouds](file://book/MOT/097-04-16.webp#center)
 
 ### Keranos as Campaign Villain
 
@@ -846,8 +846,8 @@ Off the divination chamber is the observatory, which houses a telescope, an astr
 Another section contains living areas for priests and oracles, and the library which connects the living areas to the orrery room contains books that can help oracles interpret visions.
 
 > [!gallery]
-> ![Map 4.7: Oracular Conflux](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/105-map-4-7-oracular-conflux.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/106-map-4-7-oracular-conflux-player.webp#gallery)
+> ![Map 4.7: Oracular Conflux](file://book/MOT/105-map-4.7-Oracular-Conflux.webp#gallery)
+> ![Player Version](file://book/MOT/106-map-4.7-Oracular-Conflux-player.webp#gallery)
 
 #### Oracular Conflux Villains
 
@@ -857,7 +857,7 @@ A villain in an oracular shrine is likely taking advantage of or fighting agains
 
 ## Klothys
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/099-02-03-klothys.webp#center)
+![](file://book/MOT/099-02-03-klothys.webp#center)
 
 Secretive yet vindictive in enforcing her vision of destiny in Theros, Klothys not only takes umbrage at perceived slights but has also awakened a horde of terrors during her ascent from the Underworld.
 
@@ -910,7 +910,7 @@ Ultimately, Klothys holds grudges only rarely. The campaign might conclude when 
 
 Klothys has many designs for Theros and for the futures she has foretold that might never come to pass. The Klothys's Divine Schemes table provides several ways in which her foresight and fury might ensnare adventurers.
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/100-04-17.webp#center)
+![](file://book/MOT/100-04-17.webp#center)
 
 ![Klothys's Divine Schemes](3-Mechanics/CLI/tables/klothyss-divine-schemes-mot.md)
 
@@ -922,7 +922,7 @@ Every abandoned temple is distinctive, combining aspects of its patron god with 
 
 ![Abandoned Temple Condition](3-Mechanics/CLI/tables/abandoned-temple-condition-mot.md)
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/101-04-18.webp#center)
+![](file://book/MOT/101-04-18.webp#center)
 
 #### Abandoned Temple Adventures
 
@@ -939,8 +939,8 @@ The abandoned temple shown in map 4.8 is partially collapsed, with overturned pi
 The halls are streaked with burn marks. Many of the rooms in this place are rubble-strewn and ruined. A passage leads to an ancient room with scrying pools filled with blood that has barely a trace of dust. A sturdy iron door protects the temple's vault.
 
 > [!gallery]
-> ![Map 4.8: Abandoned Temple](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/110-map-4-8-abandoned-temple.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/111-map-4-8-abandoned-temple-player.webp#gallery)
+> ![Map 4.8: Abandoned Temple](file://book/MOT/110-map-4.8-Abandoned-Temple.webp#gallery)
+> ![Player Version](file://book/MOT/111-map-4.8-Abandoned-Temple-player.webp#gallery)
 
 #### Abandoned Temple Villains
 
@@ -950,7 +950,7 @@ Monsters who plot alone and criminals on the run or who engage in taboo behavior
 
 ## Kruphix
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/103-02-03-kruphix.webp#center)
+![](file://book/MOT/103-02-03-kruphix.webp#center)
 
 Enigmatic and patient, Kruphix influences the lives of his champions in ways both subtle and profound.
 
@@ -977,7 +977,7 @@ Champions of Kruphix approach their work with an impartiality that others don't 
 > Legends say that Kruphix's holiest temple of mystery stands at the edge of the world. Dominated by Kruphix's Tree, the temple overhangs Nyx itself, jutting past the vast waterfall that marks the edge of the mortal realm. The site's precise location can't be found on any map, but tales claim it is one of the few places on Theros where mortals can pass directly into Nyx. To pass beyond the waterfall anywhere else is to tumble into the Underworld.
 ^2aa
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/104-04-19.webp#center)
+![](file://book/MOT/104-04-19.webp#center)
 
 ### Kruphix's Villains
 
@@ -1009,7 +1009,7 @@ Kruphix wants to maintain the status quo rather than overturn it, so his schemes
 
 ### Temple of Mystery
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/105-04-20.webp#center)
+![](file://book/MOT/105-04-20.webp#center)
 
 A temple of mystery is an enigmatic location full of puzzles and traps, found in remote regions of Theros. It is believed that surviving and solving the mysteries of such a shrine earns Kruphix's respect. Some scholars claim the temples aren't stationary and that finding a shrine's location is the first puzzle that explorers must solve.
 
@@ -1028,8 +1028,8 @@ Exploring a temple of mystery presents the opportunity for an adventure that fea
 The temple of mystery shown in map 4.9 presents a labyrinth Kruphix might use to test followers and to protect valuable secrets of existence. The four-armed sculpture at the maze's heart is said to hold a great secret, perhaps a mysterious treasure or a riddle that the statue alone can speak. Each other chamber in the complex also holds its own unique puzzle or trap. When solved, these hazards allow one to progress, but also often impart some lesson about history, the nature of the cosmos, or the explorer themselves. While this temple exemplifies one of Kruphix's more elaborate (and potentially deadly) holy sites, no two of the god's temples are alike.
 
 > [!gallery]
-> ![Map 4.9: Temple of Mystery](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/115-map-4-9-temple-of-mystery.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/116-map-4-9-temple-of-mystery-player.webp#gallery)
+> ![Map 4.9: Temple of Mystery](file://book/MOT/115-map-4.9-Temple-of-Mystery.webp#gallery)
+> ![Player Version](file://book/MOT/116-map-4.9-Temple-of-Mystery-player.webp#gallery)
 
 #### Temple of Mystery Villains
 
@@ -1039,7 +1039,7 @@ A villain in a temple of mystery might seek information, enjoy torturing adventu
 
 ## Mogis
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/107-02-03-mogis.webp#center)
+![](file://book/MOT/107-02-03-mogis.webp#center)
 
 Mogis demands deeds, not just words, from his followers—and he is by far the most bloodthirsty god of the pantheon. As such, Mogis and his worshipers are ideal antagonists to pit heroes against. Tread carefully when using him as a patron, as his area of concern trends toward villainy rather than heroics.
 
@@ -1075,7 +1075,7 @@ Mogis is associated with vicious monsters bent on wholesale destruction. He isn'
 
 ![Mogis's Monsters](3-Mechanics/CLI/tables/mogiss-monsters-mot.md)
 
-![Temples to Mogis can be fo...](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/108-04-21.webp#center "Temples to Mogis can be found scattered across the badlands of Phoberos")
+![Temples to Mogis can be found scattered across the badlands of Phoberos](file://book/MOT/108-04-21.webp#center)
 
 ### Mogis as Campaign Villain
 
@@ -1097,7 +1097,7 @@ Aside from the other dangers of the twisting canyons of Phoberos, followers of M
 
 A journey into a canyon where Mogis is worshiped can be an adventure full of unspeakable horrors. A group of characters could come to a canyon shrine as armed escorts, or would-be rescuers of captives, or to cleanse the place of its evil. The characters might also brave such a gorge to hunt one of the many dangerous creatures that haunt the area, such as a [catoblepas](3-Mechanics/CLI/bestiary/monstrosity/catoblepas-mpmm.md) or a [chimera](3-Mechanics/CLI/bestiary/monstrosity/theran-chimera-mot.md). The Canyon Shrine Adventures table offers ideas for adventures in such a place.
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/109-04-22.webp#center)
+![](file://book/MOT/109-04-22.webp#center)
 
 ![Canyon Shrine Adventures](3-Mechanics/CLI/tables/canyon-shrine-adventures-mot.md)
 
@@ -1110,8 +1110,8 @@ The top of the canyon has a few scrubby plants, but is otherwise barren. Flying 
 A massive statue of Mogis is carved into an out-of-the-way canyon wall. Signs of a bloody battle and the stains of countless sacrifices lie before it.
 
 > [!gallery]
-> ![Map 4.10: Canyon Shrine](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/120-map-4-10-canyon-shrine.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/121-map-4-10-canyon-shrine-player.webp#gallery)
+> ![Map 4.10: Canyon Shrine](file://book/MOT/120-map-4.10-Canyon-Shrine.webp#gallery)
+> ![Player Version](file://book/MOT/121-map-4.10-Canyon-Shrine-player.webp#gallery)
 
 #### Canyon Shrine Villains
 
@@ -1121,7 +1121,7 @@ Most of the residents in a canyon shrine make excellent adversaries. The sapient
 
 ## Nylea
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/111-02-03-nylea.webp#center)
+![](file://book/MOT/111-02-03-nylea.webp#center)
 
 Wild and unpredictable, Nylea can bring both blessings and hardships to the heroes whose lives she touches.
 
@@ -1148,7 +1148,7 @@ Nylea's dictates are simple but inflexible, and her champions find that her favo
 > One day, Nylea came upon an enormous lynx lounging in the shade of an olive grove, blood on its maw, the carcass of a colossal boar beside him. The boar had been one of Nylea's favorites, and what followed was a legendary chase where the god pursued the lynx through the heart of the Nessian Wood. Whenever Nylea drew close, the great cat vanished into the forest's shadows. Seasons passed as the god loosed arrow after arrow at the lynx, but her efforts remained fruitless. Nylea eventually abandoned the hunt, only to find the feline waiting for her at the edge of a stream the next evening. The hunt resumed, but with the same outcome. It continued like that for some time, until Nylea began to grow fond of the beast. Soon, the pair started hunting together, and the lynx, which she called Halma, became one of Nylea's confidants.
 ^2c1
 
-![Nylea's sacred lynx guards...](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/112-04-23.webp#center "Nylea's sacred lynx guards those who honor the Nessian Wood and hunts those who don't")
+![Nylea's sacred lynx guards those who honor the Nessian Wood and hunts those who don't](file://book/MOT/112-04-23.webp#center)
 
 ### Nylea's Villains
 
@@ -1180,7 +1180,7 @@ The Nylea's Divine Schemes table suggests a few ways in which Nylea's whims migh
 
 Forest shrines honoring Nylea are found in the woodlands of Theros. These places have few features made of stone or steel. Instead, the druids and nymphs who care for the shrines use magic to direct the growth of plants, producing beautiful natural altars, sculptures, and shelters. These creations, wondrous as they are, don't dominate the layout of a shrine, since Nylea and her worshipers prefer to let nature flourish untamed at her holy sites.
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/113-04-24.webp#center)
+![](file://book/MOT/113-04-24.webp#center)
 
 The druids that occupy a shrine sometimes leave for days at a time to go on a mission, but they never leave the place without guardians. Beasts, plants, and nymphs are always on the lookout for intruders.
 
@@ -1201,8 +1201,8 @@ An old, twisted lemon tree grows near the hunters' quarters. Bows, spears, and o
 Several hunting blinds lie hidden in the forest surrounding the shrine. From these camouflaged posts archers keep watch for game and threats.
 
 > [!gallery]
-> ![Map 4.11: Forest Shrine](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/125-map-4-11-forest-shrine.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/126-map-4-11-forest-shrine-player.webp#gallery)
+> ![Map 4.11: Forest Shrine](file://book/MOT/125-map-4.11-Forest-Shrine.webp#gallery)
+> ![Player Version](file://book/MOT/126-map-4.11-Forest-Shrine-player.webp#gallery)
 
 #### Forest Shrine Villains
 
@@ -1212,7 +1212,7 @@ Villains in a forest shrine are likely either trying to destroy nature or using 
 
 ## Pharika
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/115-02-03-pharika.webp#center)
+![](file://book/MOT/115-02-03-pharika.webp#center)
 
 The god of affliction cares little for mortals, seeing them as test subjects whose agony, resilience, and defiance all contribute to Pharika's efforts to reveal reality's secrets.
 
@@ -1248,7 +1248,7 @@ Serpents, rare magical beings, and poisonous creatures number among Pharika's fa
 
 ![Pharika's Monsters](3-Mechanics/CLI/tables/pharikas-monsters-mot.md)
 
-![Pharika's clerics believe ...](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/116-04-25.webp#center "Pharika's clerics believe that they are better healers because they are so well acquainted with death")
+![Pharika's clerics believe that they are better healers because they are so well acquainted with death](file://book/MOT/116-04-25.webp#center)
 
 ### Pharika as Campaign Villain
 
@@ -1272,7 +1272,7 @@ Many healing pools are in remote locations that are difficult to reach, such as 
 
 Sick or injured characters might have good reason to seek out healing pools when a malady is beyond their ability to treat. Medical tests that are being conducted near healing pools could also present opportunities for adventures involving rare cures, new poisons, and experiments gone awry. The Healing Pools Adventures table suggests ideas for adventures in such a place.
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/117-04-26.webp#center)
+![](file://book/MOT/117-04-26.webp#center)
 
 ![Healing Pools Adventures](3-Mechanics/CLI/tables/healing-pools-adventures-mot.md)
 
@@ -1283,8 +1283,8 @@ The healing pools shown in map 4.12 are located in an underground cavern, access
 In crude laboratory above the pools, a stone table with restraints is used for experiments on humanoid subjects. The cages lining the walls are meant for beasts used in experiments. Secret passages connected to these chambers connects to the pools and the surface.
 
 > [!gallery]
-> ![Map 4.12: Healing Pools](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/130-map-4-12-healing-pools.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/131-map-4-12-healing-pools-player.webp#gallery)
+> ![Map 4.12: Healing Pools](file://book/MOT/130-map-4.12-Healing-Pools.webp#gallery)
+> ![Player Version](file://book/MOT/131-map-4.12-Healing-Pools-player.webp#gallery)
 
 #### Healing Pools Villains
 
@@ -1294,7 +1294,7 @@ Villains at healing pools are usually interested in healing themselves, harming 
 
 ## Phenax
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/119-02-03-phenax.webp#center)
+![](file://book/MOT/119-02-03-phenax.webp#center)
 
 Cunning and deceitful, Phenax spins innumerable plots across all of creation. He enjoys upsetting the natural order of things, either by thwarting the plans of his fellow gods or secreting away information for later use.
 
@@ -1330,7 +1330,7 @@ Phenax is often associated with monsters and individuals that use cleverness and
 
 ![Phenax's Monsters](3-Mechanics/CLI/tables/phenaxs-monsters-mot.md)
 
-![Followers of Phenax have l...](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/120-04-27.webp#center "Followers of Phenax have little respect for the rest of the pantheon")
+![Followers of Phenax have little respect for the rest of the pantheon](file://book/MOT/120-04-27.webp#center)
 
 ### Phenax as Campaign Villain
 
@@ -1348,7 +1348,7 @@ Phenax's activities can have a wide-ranging impact on both the pantheon and the 
 
 ### Amphitheater
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/121-04-28.webp#center)
+![](file://book/MOT/121-04-28.webp#center)
 
 Music, dance, poetry, drama, comedy, and satire are all performed and celebrated in the amphitheaters of Theros. These public spaces are also the scene of secret hand offs, private meetings, and espionage. The amphitheater's costumes, makeup, props, and hidden halls and entrances make it a good place for those who operate in the shadows to do so without arousing suspicion. Many performers moonlight as assassins, spies, and thieves, given their talents and resources, and as such many amphitheaters contain hidden shrines to Phenax.
 
@@ -1365,8 +1365,8 @@ Theaters make great settings for social adventures. In a place where the rich an
 The amphitheater shown in map 4.13 is set in a natural depression that provides seating for the audience. The backstage area contains dressing rooms for the performers, a prop workshop, and a storage area filled with extra set pieces. Below, secret halls include space for the games and drinking one might expect from a typical den of iniquity, but it also disguises the barracks and training hall of a thieves' guild devoted to Phenax, a shrine, and an escape tunnel for making a quick getaway.
 
 > [!gallery]
-> ![Map 4.13: Amphitheater](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/135-map-4-13-amphitheater.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/136-map-4-13-amphitheater-player.webp#gallery)
+> ![Map 4.13: Amphitheater](file://book/MOT/135-map-4.13-Amphitheater.webp#gallery)
+> ![Player Version](file://book/MOT/136-map-4.13-Amphitheater-player.webp#gallery)
 
 #### Amphitheater Villains
 
@@ -1376,7 +1376,7 @@ Liars, sneaks, and charmers often make their living as performers. Examples of s
 
 ## Purphoros
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/123-02-03-purphoros.webp#center)
+![](file://book/MOT/123-02-03-purphoros.webp#center)
 
 Impulsive and unsubtle, Purphoros is an unpredictable force in the lives of his chosen champions.
 
@@ -1412,7 +1412,7 @@ In addition to his followers, Purphoros is associated with a wide range of other
 
 ![Purphoros's Monsters](3-Mechanics/CLI/tables/purphoross-monsters-mot.md)
 
-![The oracles of Purphoros r...](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/124-04-29.webp#center "The oracles of Purphoros read the god's will in earth, fire, and volcanic fumes")
+![The oracles of Purphoros read the god's will in earth, fire, and volcanic fumes](file://book/MOT/124-04-29.webp#center)
 
 ### Purphoros as Campaign Villain
 
@@ -1428,7 +1428,7 @@ Purphoros's fits of passion can have a long-lasting impact on both gods and mort
 
 The grandest temples of Purphoros burrow into the hearts of active volcanoes, being both places of worship and workshops. The volcanic vapors inspire artisans who worship at the top of the temple, then journey down to glowing forges where they craft armor, jewelry, weapons, and other works of art. The forges in a volcano temple get so hot they can work almost any material, mundane or extraordinary. The faithful of Purphoros often work on commission or sell their works, though some create strictly for themselves.
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/125-04-30.webp#center)
+![](file://book/MOT/125-04-30.webp#center)
 
 Just like the treasures forged inside them, volcanic temples are works of art. The priests who maintain the structures carve intricate designs with metal filigree in the stone walls and craft ornamental decorations that make each temple look more like an art museum than a cave inside a mountain. The priests know that one day the volcano will erupt, destroying their work but providing an opportunity to start afresh with newly inspired ideas when the cataclysm subsides.
 
@@ -1443,8 +1443,8 @@ An adventure in a volcano temple incorporates the danger of fire, the power of d
 The volcano temple shown in map 4.14 is reached by a switchback stair carved into the side of the volcano, which leads to an ornate edifice sculpted into the face of the mountain. The temple's facade features massive pillars, two mighty statues, and a pair of towering, bronze-bound doors. The interior holds a complex of workshops, forges, barracks, and mines. The physical and spiritual heart of the place is a large cavern where a gigantic statue of Purphoros stands amid a pool of lava, with a raised altar facing a forge where smiths can complete their work in sight of their god.
 
 > [!gallery]
-> ![Map 4.14: Volcano Temple](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/140-map-4-14-volcano-temple.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/141-map-4-14-volcano-temple-player.webp#gallery)
+> ![Map 4.14: Volcano Temple](file://book/MOT/140-map-4.14-Volcano-Temple.webp#gallery)
+> ![Player Version](file://book/MOT/141-map-4.14-Volcano-Temple-player.webp#gallery)
 
 #### Volcano Temple Villains
 
@@ -1454,7 +1454,7 @@ Villains in a volcano temple are out to claim the place's treasures or harness t
 
 ## Thassa
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/127-02-03-thassa.webp#center)
+![](file://book/MOT/127-02-03-Thassa.webp#center)
 
 Thassa's influence on the lives of her champions varies wildly, often influenced by her stormy whims. A champion of the god who serves dutifully might not attract her attention for years. Those who displease her, though, or who engage with those who have earned her ire, might find themselves the uncomfortable focus of her attention for an extended period.
 
@@ -1490,7 +1490,7 @@ Any sea creature might answer Thassa's call. In addition to any aquatic beast or
 
 ![Thassa's Monsters](3-Mechanics/CLI/tables/thassas-monsters-mot.md)
 
-![The floor of the Siren Sea...](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/128-04-31.webp#center "The floor of the Siren Sea is littered with vessels that navigated the waves unwelcomed")
+![The floor of the Siren Sea is littered with vessels that navigated the waves unwelcomed](file://book/MOT/128-04-31.webp#center)
 
 ### Thassa as Campaign Villain
 
@@ -1508,7 +1508,7 @@ The Thassa's Divine Schemes tables offers examples of how the god's whims might 
 
 Thassa's temples are often located in coastal areas, to accommodate both her land-dwelling worshipers and her faithful who live beneath the waves, such as tritons. These houses of worship often make use of natural caves and coves that demonstrate the power of the sea over the passage of time. Wave-worn rocks, tidal pools, stalactites, stalagmites, coral reefs, and other marine features are all incorporated into the decor of a temple.
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/129-04-32.webp#center)
+![](file://book/MOT/129-04-32.webp#center)
 
 Most coastal temples include chambers that are underwater at high tide. Worshipers sit in these places at low tide and meditate on what the future might hold while the water rises around them. They leave offerings to Thassa in these places, which are carried out to sea as the water recedes.
 
@@ -1527,8 +1527,8 @@ Adventurers could come to a temple to clash with a group of Thassa's faithful, w
 At high tide, the coastal temple shown in map 4.15 is covered in a few inches of water, some of which gets trapped in depressions when the tide goes out. These shallow pools sometimes contain colorful fish, crabs, shells, and flotsam, any of which Thassa's followers might consider to have divine meaning. The largest cavern boasts a massive coral altar where the sea god is worshiped. Tunnels lead to priests' quarters, private meditation areas, docks, and other areas well suited to the use of both land-dwelling and aquatic worshipers.
 
 > [!gallery]
-> ![Map 4.15: Coastal Temple](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/145-map-4-15-coastal-temple.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/146-map-4-15-coastal-temple-player.webp#gallery)
+> ![Map 4.15: Coastal Temple](file://book/MOT/145-map-4.15-Coastal-Temple.webp#gallery)
+> ![Player Version](file://book/MOT/146-map-4.15-Coastal-Temple-player.webp#gallery)
 
 #### Coastal Temple Villains
 
@@ -1566,12 +1566,12 @@ Many adventures at sea start with a simple premise: get home. Whether the tale s
 In a campaign that often changes location, it can be difficult to have recurring NPCs. If you introduce characters you'd like the party to stay in touch with, consider the following options:
 
 - Aquatic or flying characters can visit the characters as they travel, appearing unexpectedly.  
-- Magic items such as [sending stones](3-Mechanics/CLI/items/sending-stones.md) and spells such as [animal messenger](3-Mechanics/CLI/spells/animal-messenger.md) allow characters to stay in touch over long distances.  
+- Magic items such as [sending stones](3-Mechanics/CLI/items/sending-stones-xdmg.md) and spells such as [animal messenger](3-Mechanics/CLI/spells/animal-messenger-xphb.md) allow characters to stay in touch over long distances.  
 - Powerful creatures might teleport to the characters' location—particularly those unable (or disinclined) to share their teleportation powers.  
 - When the characters dream, they might meet other creatures in Nyx.  
 - Some of Theros's mystical islands move around on the sea, allowing the characters to run into them and their inhabitants multiple times.  
 
-![The kraken Arixmethes carr...](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/131-04-33.webp#center "The kraken Arixmethes carries the ruins of a lost city affixed to the length of its spine")
+![The kraken Arixmethes carries the ruins of a lost city affixed to the length of its spine](file://book/MOT/131-04-33.webp#center)
 
 ### Mystical Islands
 
@@ -1585,7 +1585,7 @@ While a mystical island could be a simple spur of rock and sand jutting from the
 
 ![Island Environments](3-Mechanics/CLI/tables/island-environments-mot.md)
 
-![Upon one of the Dakra Isle...](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/132-04-34.webp#center "Upon one of the Dakra Isles, trespassers learn the truth behind the storied Curse of the Swine")
+![Upon one of the Dakra Isles, trespassers learn the truth behind the storied Curse of the Swine](file://book/MOT/132-04-34.webp#center)
 
 #### Island Inhabitants
 
@@ -1599,19 +1599,19 @@ Beyond unusual physical compositions and strange inhabitants, mystical islands m
 
 ##### Bliss Island
 
-Those who visit the island risk being enchanted so they never want to leave. At the end of each long rest it takes on this island, a visitor must succeed on a DC 10 Wisdom saving throw or be unwilling to leave the island before finishing another long rest. After failing this saving throw three times, the creature never willingly leaves the island and, if forcibly removed, does everything in its power to return. A [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good.md) spell removes this effect from the creature.
+Those who visit the island risk being enchanted so they never want to leave. At the end of each long rest it takes on this island, a visitor must succeed on a DC 10 Wisdom saving throw or be unwilling to leave the island before finishing another long rest. After failing this saving throw three times, the creature never willingly leaves the island and, if forcibly removed, does everything in its power to return. A [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md) spell removes this effect from the creature.
 
 ##### Swine Island
 
-Visitors to this island risk being afflicted by the Curse of the Swine. At the end of each long rest it takes on this island, a visitor must succeed on a DC 10 Wisdom saving throw or be affected by the [polymorph](3-Mechanics/CLI/spells/polymorph.md) spell and transformed into a pig (use the [boar](3-Mechanics/CLI/bestiary/beast/boar.md) stat block). The curse lasts until the visitor leaves the isle or until it is broken by a spell like [remove curse](3-Mechanics/CLI/spells/remove-curse.md).
+Visitors to this island risk being afflicted by the Curse of the Swine. At the end of each long rest it takes on this island, a visitor must succeed on a DC 10 Wisdom saving throw or be affected by the [polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md) spell and transformed into a pig (use the [boar](3-Mechanics/CLI/bestiary/beast/boar-xmm.md) stat block). The curse lasts until the visitor leaves the isle or until it is broken by a spell like [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md).
 
 ##### Timeless Island
 
-When characters leave the island after spending at least 1 day there, they might find that time has passed differently for the outside world. Use the Feywild Time Warp table in [chapter 2](3-Mechanics/CLI/tables/feywild-time-warp.md) of the "Dungeon Master's Guide" to determine how much time has passed.
+When characters leave the island after spending at least 1 day there, they might find that time has passed differently for the outside world. Use the Feywild Time Warp table in [chapter 2](3-Mechanics/CLI/tables/feywild-time-warp-xdmg.md) of the "Dungeon Master's Guide" to determine how much time has passed.
 
 ##### Wild Magic Island
 
-Whenever a spell is cast on the island, the caster must roll on the [Wild Magic Surge](3-Mechanics/CLI/tables/wild-magic-surge-phb.md) table from [chapter 3](3-Mechanics/CLI/classes/sorcerer-wild-magic.md) of the "Player's Handbook".
+Whenever a spell is cast on the island, the caster must roll on the [Wild Magic Surge](3-Mechanics/CLI/tables/wild-magic-surge-xphb.md) table from [chapter 3](3-Mechanics/CLI/classes/sorcerer-xphb-wild-magic-sorcery-xphb.md) of the "Player's Handbook".
 
 ### Underwater Adventures
 
@@ -1628,7 +1628,7 @@ With vast triton realms hidden beneath the waves and legendary ruins drowned in 
 
 ![Underwater Adventures](3-Mechanics/CLI/tables/underwater-adventures-mot.md)
 
-![As the people of Olantin d...](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/133-04-35.webp#center "As the people of Olantin discovered, ages of prosperity and culture mean nothing in the face of a wrathful sea")
+![As the people of Olantin discovered, ages of prosperity and culture mean nothing in the face of a wrathful sea](file://book/MOT/133-04-35.webp#center)
 
 ## Underworld Adventures
 
@@ -1667,7 +1667,7 @@ Most adventurers hope their lives come to an end with some worthy conclusion. So
 
 Consider memorable moments from the character's story and how they can be reflected in the events of their final descent. Maybe they see the souls of friends, allies, or loved ones who perished, whether their fates are good or ill. Perhaps a villain the hero slew now exists as a broken misera, giving mute testament to the hero's success. Characters who overcame their personal flaws might even be confronted with symbolic or direct examples of their past failings and rebuke their old vices in a final, crystallizing act of growth.
 
-![Funerary masks help the ne...](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/134-04-36.webp#center "Funerary masks help the newly dead resist the erosion of memory and identity in the Underworld")
+![Funerary masks help the newly dead resist the erosion of memory and identity in the Underworld](file://book/MOT/134-04-36.webp#center)
 
 #### The Soul Abides
 
@@ -1708,7 +1708,7 @@ Despite the inexorable pull of Erebos's lash, even death itself can end—or at 
 
 #### Resurrection Magic
 
-By far the simplest means of return for a dead soul is for someone who yet lives to cast a [raise dead](3-Mechanics/CLI/spells/raise-dead.md), [resurrection](3-Mechanics/CLI/spells/resurrection.md), or [true resurrection](3-Mechanics/CLI/spells/true-resurrection.md) spell. If a mortal is a frequent recipient of resurrection magic, Erebos might take a special interest in that soul. A soul in the clutches of Erebos himself isn't free, so it can't be returned to life by mortal magic.
+By far the simplest means of return for a dead soul is for someone who yet lives to cast a [raise dead](3-Mechanics/CLI/spells/raise-dead-xphb.md), [resurrection](3-Mechanics/CLI/spells/resurrection-xphb.md), or [true resurrection](3-Mechanics/CLI/spells/true-resurrection-xphb.md) spell. If a mortal is a frequent recipient of resurrection magic, Erebos might take a special interest in that soul. A soul in the clutches of Erebos himself isn't free, so it can't be returned to life by mortal magic.
 
 #### Demon Flight
 
@@ -1732,7 +1732,7 @@ Since Phenax's escape, other souls have repeated his dangerous journey. When mor
 
 The exact details of Phenax's route are unclear, and aside from forging masks and a final swim, any number of challenges among islands in the Tartyx might comprise the path.
 
-![Those who follow the Path ...](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/135-04-37.webp#center "Those who follow the Path of Phenax might return to the mortal world, but they never regain the lives they lost")
+![Those who follow the Path of Phenax might return to the mortal world, but they never regain the lives they lost](file://book/MOT/135-04-37.webp#center)
 
 ### Beyond Death
 

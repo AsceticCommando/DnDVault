@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Hollow Dragon"
 ---
-# [Hollow Dragon](3-Mechanics\CLI\bestiary\undead/hollow-dragon-ftd.md)
+# [Hollow Dragon](3-Mechanics/CLI/bestiary/undead/hollow-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 206*  
 
 Unlike dragons who explore the magic of undeath for power, some metallic dragons see undeath as a means to pursue a noble purpose. For the sake of protecting an artifact or fulfilling an oath, a dragon might transform into a hollow dragon, accepting undeath until that purpose is fulfilled.
@@ -111,6 +111,6 @@ When they fulfill their purpose, most hollow dragons embrace the death they have
     "name": "Booming Scales (Costs 3 Actions)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/undead/token/hollow-dragon-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Hollow%20Dragon.webp"
 ```
 ^statblock

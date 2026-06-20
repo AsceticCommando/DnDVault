@@ -12,7 +12,7 @@ aliases:
 
 Characters are defined by much more than their race and class. They're individuals with their own stories, interests, connections, and capabilities beyond those that class and race define. This chapter expounds on the details that distinguish characters from one another, including the basics of name and physical description, the rules of backgrounds and languages, and the finer points of personality and alignment.
 
-![](3-Mechanics/CLI/books/players-handbook-2014/img/ch4.webp#center)
+![](file://book/PHB/ch4.webp#center)
 
 ## Character Details
 
@@ -109,17 +109,17 @@ Your race indicates the languages your character can speak by default, and your 
 
 With your DM's permission, you can instead choose a language from the Exotic Languages table or a secret language, such as thieves' cant or the tongue of druids.
 
-![Dwarvish Alphabet](3-Mechanics/CLI/books/players-handbook-2014/img/c4dwarvishalphabet.webp#center)
+![Dwarvish Alphabet](file://book/PHB/c4dwarvishalphabet.webp#center)
 
 Some of these languages are actually families of languages with many dialects. For example, the Primordial language includes the Auran, Aquan, Ignan, and Terran dialects, one for each of the four elemental planes. Creatures that speak different dialects of the same language can communicate with one another.
 
-![Standard Languages](3-Mechanics/CLI/tables/standard-languages-phb.md)
+![Standard Languages](3-Mechanics/CLI/tables/choose-languages-standard-languages-xphb.md)
 
-![Elvish Alphabet](3-Mechanics/CLI/books/players-handbook-2014/img/c4elvishalphabet.webp#center)
+![Elvish Alphabet](file://book/PHB/c4elvishalphabet.webp#center)
 
-![Exotic Languages](3-Mechanics/CLI/tables/exotic-languages-phb.md)
+![Exotic Languages](3-Mechanics/CLI/tables/choose-languages-rare-languages-xphb.md)
 
-![Draconic Alphabet](3-Mechanics/CLI/books/players-handbook-2014/img/c4draconicalphabet.webp#center)
+![Draconic Alphabet](file://book/PHB/c4draconicalphabet.webp#center)
 
 ### Personal Characteristics
 
@@ -186,7 +186,7 @@ Choosing a background provides you with important story cues about your characte
 
 The sample backgrounds in this chapter provide both concrete benefits (features, proficiencies, and languages) and roleplaying suggestions.
 
-![](3-Mechanics/CLI/books/players-handbook-2014/img/c4-1.webp#center)
+![](file://book/PHB/c4-1.webp#center)
 
 ### Proficiencies
 

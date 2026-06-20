@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Witchlight Hand (Medium)"
 ---
-# [Witchlight Hand (Medium)](3-Mechanics\CLI\bestiary\humanoid/witchlight-hand-medium-wbtw.md)
+# [Witchlight Hand (Medium)](3-Mechanics/CLI/bestiary/humanoid/witchlight-hand-medium-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 27*  
 
 Witchlight hands are the backbone of the Witchlight Carnival, a motley collection of individuals who operate many of the booths, make repairs, feed and exercise the animals, keep an eye out for thieves and other miscreants, and perform other miscellaneous tasks as Mister Witch dictates. A few also work part-time as performers and attractions. Although they travel to many worlds throughout the Material Plane, Witchlight hands rarely leave the carnival grounds. The carnival is the only world they know and care about.
@@ -44,7 +44,7 @@ Most Witchlight hands are taught how to perform minor magic tricks, which they u
   - "name": "[Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)"
     "desc": "+6"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
 "senses": "passive Perception 11"
 "languages": "Common plus any one language"
 "cr": "1/8"
@@ -68,11 +68,11 @@ Most Witchlight hands are taught how to perform minor magic tricks, which they u
       \ safely to the ground, taking no damage and landing on its feet."
     "name": "Pixie Dust (1/Day)"
   - "desc": "The hand casts one of the following spells, using Charisma as the spellcasting\
-      \ ability:\n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md),\
-      \ [message](3-Mechanics/CLI/spells/message.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md)"
+      \ ability:\n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
+      \ [message](3-Mechanics/CLI/spells/message-xphb.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/witchlight-hand-medium-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Witchlight%20Hand%20%28Medium%29.webp"
 ```
 ^statblock

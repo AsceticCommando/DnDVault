@@ -12,12 +12,14 @@ statblock-link: "#^statblock"
 aliases:
 - "Swarm of Maggots"
 ---
-# [Swarm of Maggots](3-Mechanics\CLI\bestiary\beast/swarm-of-maggots-vrgr.md)
+# [Swarm of Maggots](3-Mechanics/CLI/bestiary/beast/swarm-of-maggots-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 247*  
 
 Base creatures are among the first to respond to sinister forces at work in a land. As nefarious powers grip an area, populations of maggots, scarabs, and similar scavenging insects explode and become aggressive predators. Roll on the Swarm Behavior table to see how such swarms might manifest.
 
 **Swarm Behavior**
+
+`dice: [](swarm-of-maggots-vrgr.md#^swarm-behavior)`
 
 | dice: d4 | Behavior |
 |----------|----------|
@@ -75,6 +77,6 @@ Base creatures are among the first to respond to sinister forces at work in a la
     "name": "Infestation"
 "source":
   - "VRGR"
-"image": "3-Mechanics/CLI/bestiary/beast/token/swarm-of-maggots-vrgr.webp"
+"image": "file://bestiary/tokens/VRGR/Swarm%20of%20Maggots.webp"
 ```
 ^statblock

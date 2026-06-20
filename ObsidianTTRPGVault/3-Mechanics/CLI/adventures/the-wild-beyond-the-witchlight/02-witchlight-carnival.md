@@ -14,7 +14,7 @@ The Witchlight Carnival is a fairground of kaleidoscopic tents and wagons crewed
 
 The characters are free to explore the carnival as they please. There are many paths through this chapter, so it can play out differently each time you run it.
 
-![The Witchlight Carnival vi...](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/012-01-001-chapter-splash.webp#center "The Witchlight Carnival visits a world once every eight years, bringing wonder and whimsy to the Material Plane")
+![The Witchlight Carnival visits a world once every eight years, bringing wonder and whimsy to the Material Plane](file://adventure/WBtW/012-01-001.chapter-splash.webp#center)
 
 ## Running This Chapter
 
@@ -22,7 +22,7 @@ Before running the Witchlight Carnival, follow the steps below to help make the 
 
 - Familiarize yourself with the layout of the Witchlight Carnival. The map that appears in this chapter is a smaller version of the carnival poster map.  
 - Read the chapter and familiarize yourself with the carnival's attractions. The characters can go anywhere at any time, so you need to be prepared for anything.  
-- Prepare the tracking devices described in "Carnival Map." You'll need a `d8` to track the passage of time and another token to track the carnival's mood on the poster map.  
+- Prepare the tracking devices described in "Carnival Map." You'll need a `dice:d8|noform|noparens|avg` (`d8`) to track the passage of time and another token to track the carnival's mood on the poster map.  
 
 As the characters explore the carnival, you can keep a record of key events using the adventure's Story Tracker.
 
@@ -40,7 +40,7 @@ The poster map has places to track two crucial elements: the passage of time and
 
 #### Tracking Time
 
-The Witchlight Carnival opens at dusk and runs for eight hours, ending just before dawn. When the characters enter the carnival, place a `d8` at the start of the track in the upper left corner of the poster map with the "1" facing up. Move the die to the next space at the end of each in-game hour, and turn the die so that its uppermost face shows the hour that is now beginning. Don't worry about managing things down to the minute. If the players (and their characters) seem to be having fun, you can slow down the passage of time to give them time to enjoy the carnival's attractions. If the game starts to lag or if the characters spend a lot of time engaged in the same activity, advance the die to the next hour.
+The Witchlight Carnival opens at dusk and runs for eight hours, ending just before dawn. When the characters enter the carnival, place a `dice:d8|noform|noparens|avg` (`d8`) at the start of the track in the upper left corner of the poster map with the "1" facing up. Move the die to the next space at the end of each in-game hour, and turn the die so that its uppermost face shows the hour that is now beginning. Don't worry about managing things down to the minute. If the players (and their characters) seem to be having fun, you can slow down the passage of time to give them time to enjoy the carnival's attractions. If the game starts to lag or if the characters spend a lot of time engaged in the same activity, advance the die to the next hour.
 
 Three events take place every night at a particular hour:
 
@@ -87,7 +87,7 @@ The wealthy family that owned the clock tower didn't pay Naeryx a lot of money f
 
 [Mister Witch](3-Mechanics/CLI/bestiary/npc/mister-witch-wbtw.md) looks like a distinguished gentleman, for he is always dressed in fine attire. His favorite accoutrements are a top hat and a cane, and he is never without his [Witchlight watch](3-Mechanics/CLI/items/witchlight-watch-wbtw.md), which was gifted to him by the carnival's previous owner. This unique magic item is described below.
 
-![Mister Witch](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/013-637677442905361755.webp#center)
+![Mister Witch](file://adventure/WBtW/013-637677442905361755.webp#center)
 
 ### Mister Light
 
@@ -95,7 +95,7 @@ Light, formerly known as Urmius Umbrage, belonged to a filthy rich shadar-kai fa
 
 Urmius first met Naeryx Krumple at a family dinner and didn't think much of the clock tower keeper at first. But Urmius found himself taken aback by Naeryx's ability to find even a small amount of joy in his work. He was eager to get to know Naeryx better, though it took a while for Naeryx to trust him. After getting his hands on some money, Urmius bought a sad little carnival that was camped on the outskirts of Gloomwrought and asked Naeryx to help him run it. For Urmius, the carnival was a chance to emerge from under his family's shadow and become the master of his own fate, but it also meant forsaking his inheritance in order to embrace the unconventional lifestyle, fashions, and friendships he desired.
 
-![Mister Light](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/014-637677442564423044.webp#center)
+![Mister Light](file://adventure/WBtW/014-637677442564423044.webp#center)
 
 #### Mister Light's Description
 
@@ -124,7 +124,7 @@ The Witchlight Carnival travels as a convoy of wagons, each one pulled by horses
 
 When the carnival arrives at a new destination, a [treant sapling](3-Mechanics/CLI/bestiary/plant/treant-sapling-wbtw.md) named Northwind uses its Animate Trees ability to gently relocate trees that are in the way of the unfolded wagons. A great length of blue ribbon transforms into a lazy, sparkling river, encircling the site. The river is 20 feet wide and 10 feet deep at its center.
 
-![Welcome to the Witchlight Carnival](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/015-map-1-1.webp#center)
+![Welcome to the Witchlight Carnival](file://adventure/WBtW/015-map-1.1.webp#center)
 
 ### Carnival Etiquette
 
@@ -134,13 +134,15 @@ Conversely, acts such as interrupting someone, being rude, or grumpily refusing 
 
 #### Theft and Violence
 
-Characters who are caught stealing or fighting are asked to leave the carnival; in this case, the carnival's mood lowers by 1 step as `1d6` [Witchlight hands](3-Mechanics/CLI/bestiary/humanoid/witchlight-hand-medium-wbtw.md) (chaotic good; see the stat block earlier in the chapter) escort the troublemakers to the gates.
+Characters who are caught stealing or fighting are asked to leave the carnival; in this case, the carnival's mood lowers by 1 step as `dice:1d6|noform|noparens|avg` (`1d6`) [Witchlight hands](3-Mechanics/CLI/bestiary/humanoid/witchlight-hand-medium-wbtw.md) (chaotic good; see the stat block earlier in the chapter) escort the troublemakers to the gates.
 
 ### Bringing the Carnival to Life
 
 Roll on the Carnival Scenes table to bring the carnival to life as the players explore.
 
 **Carnival Scenes**
+
+`dice: [](02-witchlight-carnival.md#^carnival-scenes)`
 
 | dice: d8 | Occurrence |
 |----------|------------|
@@ -160,7 +162,7 @@ Several meddling outsiders can be encountered at various times throughout the ev
 
 #### Kettlesteam
 
-Kettlesteam is a kenku warlock whose patron is the archfey Zybilna of Prismeer. Having sensed that something is wrong with her beloved patron, Kettlesteam has come to the carnival seeking answers. The carnival owners refuse to speak to her—and until they come clean, she is committed to causing trouble. Kettlesteam uses [disguise self](3-Mechanics/CLI/spells/disguise-self.md) to assume whatever form best enables her to mingle in crowds.
+Kettlesteam is a kenku warlock whose patron is the archfey Zybilna of Prismeer. Having sensed that something is wrong with her beloved patron, Kettlesteam has come to the carnival seeking answers. The carnival owners refuse to speak to her—and until they come clean, she is committed to causing trouble. Kettlesteam uses [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md) to assume whatever form best enables her to mingle in crowds.
 
 Characters can encounter Kettlesteam in more than one location; if they corner her, she provides valuable clues about Prismeer. For details, see "Catching Kettlesteam" later in the chapter.
 
@@ -173,8 +175,8 @@ These thieves possess a preternatural awareness of who is a carnival worker and 
 The three thieves are fiercely loyal to their hag mistresses and won't willingly reveal anything if caught. They are as follows:
 
 - [Bavlorna Blightstraw](3-Mechanics/CLI/bestiary/npc/bavlorna-blightstraw-wbtw.md)'s thief is one of her lornlings—a miniature version of herself. Use the [quickling](3-Mechanics/CLI/bestiary/fey/quickling-mpmm.md) stat block in appendix C to represent this toad-like creature.  
-- [Skabatha Nightshade](3-Mechanics/CLI/bestiary/npc/skabatha-nightshade-wbtw.md)'s thief is Sowpig, a Small [ghoul](3-Mechanics/CLI/bestiary/undead/ghoul.md) with 17 (`5d6`) hit points. She appears as a little, gray-skinned girl wearing a pig mask and holding an oversized lollipop.  
-- [Endelyn Moongrave](3-Mechanics/CLI/bestiary/npc/endelyn-moongrave-wbtw.md)'s thief is the [detached shadow](3-Mechanics/CLI/bestiary/fey/detached-shadow-wbtw.md) of Gleam, a high elf acrobat who wears a crescent moon mask. (Gleam herself has vanished from the carnival. The characters won't meet her until chapter 4.) Gleam's [detached shadow](3-Mechanics/CLI/bestiary/fey/detached-shadow-wbtw.md) uses the [shadow](3-Mechanics/CLI/bestiary/undead/shadow.md) stat block, except it is a Fey instead of an Undead. A creature whose Strength is reduced to 0 by the shadow's Strength Drain attack does not die but falls [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) instead. The creature regains consciousness and the reduction to its Strength score disappears after it finishes a short or long rest.  
+- [Skabatha Nightshade](3-Mechanics/CLI/bestiary/npc/skabatha-nightshade-wbtw.md)'s thief is Sowpig, a Small [ghoul](3-Mechanics/CLI/bestiary/undead/ghoul-xmm.md) with `dice:5d6|noform|noparens|avg|text(17)` (`5d6`) hit points. She appears as a little, gray-skinned girl wearing a pig mask and holding an oversized lollipop.  
+- [Endelyn Moongrave](3-Mechanics/CLI/bestiary/npc/endelyn-moongrave-wbtw.md)'s thief is the [detached shadow](3-Mechanics/CLI/bestiary/fey/detached-shadow-wbtw.md) of Gleam, a high elf acrobat who wears a crescent moon mask. (Gleam herself has vanished from the carnival. The characters won't meet her until chapter 4.) Gleam's [detached shadow](3-Mechanics/CLI/bestiary/fey/detached-shadow-wbtw.md) uses the [shadow](3-Mechanics/CLI/bestiary/undead/shadow-xmm.md) stat block, except it is a Fey instead of an Undead. A creature whose Strength is reduced to 0 by the shadow's Strength Drain attack does not die but falls [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) instead. The creature regains consciousness and the reduction to its Strength score disappears after it finishes a short or long rest.  
 
 Each thief has the following additional action options, which it uses to achieve its goals:
 
@@ -185,7 +187,7 @@ Each thief has the following additional action options, which it uses to achieve
 > **Sticky Fingers.** The thief targets one [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned) creature it can see within 5 feet of it and steals one item weighing 10 pounds or less from that creature. Whatever it steals disappears, reappearing in the space of the hag to which the thief is beholden.
 ^07d
 
-![Meet the Hourglass Coven's...](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/016-01-002-hourglass-coven.webp#center "Meet the Hourglass Coven's thieves: a lornling, Sowpig the ghoul, and Gleam's shadow")
+![Meet the Hourglass Coven's thieves: a lornling, Sowpig the ghoul, and Gleam's shadow](file://adventure/WBtW/016-01-002.hourglass-coven.webp#center)
 
 ## Carnival Locations
 
@@ -202,7 +204,7 @@ The booth where visitors buy their tickets is located at the main entrance.
 > An elderly goblin perches behind the ticket counter, peering at you quizzically through a spyglass. He lowers the spyglass and calls out to you: "Greetings, fair fairgoers!"
 ^082
 
-Visitors are expected to buy tickets at this booth. An adult's ticket costs 8 sp, and a child's ticket costs 3 sp. Instead of paying money, a visitor can try to barter with the ticketer, Nikolas Midnight, a wrinkled [goblin](3-Mechanics/CLI/bestiary/humanoid/goblin.md) (see "Bartering for a Ticket" below). For more information on Nikolas Midnight, see "Roleplaying Nikolas" below.
+Visitors are expected to buy tickets at this booth. An adult's ticket costs 8 sp, and a child's ticket costs 3 sp. Instead of paying money, a visitor can try to barter with the ticketer, Nikolas Midnight, a wrinkled [goblin](3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) (see "Bartering for a Ticket" below). For more information on Nikolas Midnight, see "Roleplaying Nikolas" below.
 
 Under the ticket counter is an ornate wooden box with a silver clasp and the monogram N.M. It contains one prepaid ticket for each visiting character. These tickets were purchased by Ellywick Tumblestrum, but Tumblestrum has asked Nikolas not to divulge this information. Instead, Nikolas claims that these tickets were paid for by "an anonymous benefactor."
 
@@ -216,7 +218,7 @@ Nikolas explains that each ticket is good for eight attractions; characters who 
 > 
 > The carnival issues fake butterfly wings to every visitor who receives a ticket. Visitors are expected to wear their wings, or at least carry them around, while inside the carnival. The tickets and fake wings are theirs to keep.
 > 
-> Any character who tries to sneak into the carnival without a set of fake butterfly wings must succeed on a DC 15 Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) check or be spotted and approached by `1d3` [Witchlight hands](3-Mechanics/CLI/bestiary/humanoid/witchlight-hand-medium-wbtw.md) of any alignment (see the stat block earlier in the chapter). The hands ask to see the character's ticket; any character without a ticket is escorted to the main entrance and directed to the ticket booth. If the character runs away from the Witchlight hands, the hands don't bother giving chase, but the carnival's mood lowers by one step (see "Tracking Mood" earlier in this chapter). A character without butterfly wings who successfully sneaks into the carnival must repeat the check at the end of each hour.
+> Any character who tries to sneak into the carnival without a set of fake butterfly wings must succeed on a DC 15 Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) check or be spotted and approached by `dice:1d3|noform|noparens|avg` (`1d3`) [Witchlight hands](3-Mechanics/CLI/bestiary/humanoid/witchlight-hand-medium-wbtw.md) of any alignment (see the stat block earlier in the chapter). The hands ask to see the character's ticket; any character without a ticket is escorted to the main entrance and directed to the ticket booth. If the character runs away from the Witchlight hands, the hands don't bother giving chase, but the carnival's mood lowers by one step (see "Tracking Mood" earlier in this chapter). A character without butterfly wings who successfully sneaks into the carnival must repeat the check at the end of each hour.
 ^sneaking-inside
 
 #### Bartering for a Ticket
@@ -226,6 +228,8 @@ Any visitor who can't afford the price of a ticket or who doesn't want to pay fo
 Any character who fulfills the conditions of a pact should be a strong contender for the title of Witchlight Monarch. A character who doesn't abide by the pact loses their ticket, which transforms into an ordinary bat and flaps away. In addition, the carnival's mood lowers by 1 step (see "Tracking Mood" earlier in the chapter).
 
 **Ticket Pacts**
+
+`dice: [](02-witchlight-carnival.md#^ticket-pacts)`
 
 | dice: d8 | Pact |
 |----------|------|
@@ -243,7 +247,7 @@ Any character who fulfills the conditions of a pact should be a strong contender
 
 Nikolas (lawful neutral) carries a spyglass and an ear horn, which he uses when talking to patrons. Nikolas plays on the fact that he is old when using these items, but it's all a ruse; he is as sharp as a thorn, and his instruments allow him to get the true measure of guests. In his hands, the spyglass and ear horn grant Nikolas advantage on Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) checks to discern lies and determine true intent. Characters who attempt to deceive Nikolas must succeed on a Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception)) check contested by the goblin's Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check.
 
-If one or more characters seem intent on disrupting the carnival, Nikolas scribbles a brief note to that effect and hands it to an [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) [pixie](3-Mechanics/CLI/bestiary/fey/pixie.md) that lurks under the ticket counter. The pixie delivers Nikolas's message to [Mister Witch](3-Mechanics/CLI/bestiary/npc/mister-witch-wbtw.md), who informs the carnival staff to keep a close eye on the group, and the carnival's mood lowers by 1 step (see "Tracking Mood" earlier in the chapter).
+If one or more characters seem intent on disrupting the carnival, Nikolas scribbles a brief note to that effect and hands it to an [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) [pixie](3-Mechanics/CLI/bestiary/fey/pixie-xmm.md) that lurks under the ticket counter. The pixie delivers Nikolas's message to [Mister Witch](3-Mechanics/CLI/bestiary/npc/mister-witch-wbtw.md), who informs the carnival staff to keep a close eye on the group, and the carnival's mood lowers by 1 step (see "Tracking Mood" earlier in the chapter).
 
 ### Big Top
 
@@ -259,6 +263,8 @@ The Big Top is the setting for two main events: the Big Top Extravaganza and the
 Aside from those scheduled events, a variety of entertainers perform here. Colorful orbs of light dance in the lofts of the tent while magic spotlights highlight performers. Spectators watch the acts from rows of tiered wooden seats encircling the ring. You can randomly determine an act by rolling on the Big Top Acts table, or you can create new acts using the table's entries as inspiration.
 
 **Big Top Acts**
+
+`dice: [](02-witchlight-carnival.md#^big-top-acts)`
 
 | dice: d8 | Act |
 |----------|-----|
@@ -285,6 +291,8 @@ If a character searches the dressing room for something fun, roll on the Costume
 
 **Costumes and Accessories**
 
+`dice: [](02-witchlight-carnival.md#^costumes-and-accessories)`
+
 | dice: d8 | Costume or Accessory |
 |----------|----------------------|
 | 1 | Wire headband fitted with a sparkling paper unicorn horn |
@@ -297,7 +305,7 @@ If a character searches the dressing room for something fun, roll on the Costume
 | 8 | Clown costume with fake butterfly wings |
 ^costumes-and-accessories
 
-![A tiefling fire-breather e...](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/017-01-003-fire-breather.webp#center "A tiefling fire-breather entertains the crowd under the Big Top")
+![A tiefling fire-breather entertains the crowd under the Big Top](file://adventure/WBtW/017-01-003.fire-breather.webp#center)
 
 ### Bubble-Pop Teapot
 
@@ -325,7 +333,7 @@ If a character engages with Treaclewise in rhyming slang, he chuckles and gifts 
 
 #### Scatterleaf Tea
 
-As an action, a creature can scatter these tea leaves on the ground in a 5-foot-radius circle, duplicating the effect of a [protection from evil and good](3-Mechanics/CLI/spells/protection-from-evil-and-good.md) spell that lasts for 10 minutes. To gain the spell's protection, a creature must stand in the circle of tea leaves. In addition, a cup of hot, delicious tea magically appears in the protected creature's hands. A pouch contains enough leaves for one use.
+As an action, a creature can scatter these tea leaves on the ground in a 5-foot-radius circle, duplicating the effect of a [protection from evil and good](3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md) spell that lasts for 10 minutes. To gain the spell's protection, a creature must stand in the circle of tea leaves. In addition, a cup of hot, delicious tea magically appears in the protected creature's hands. A pouch contains enough leaves for one use.
 
 #### Taking a Bubble Ride
 
@@ -342,7 +350,7 @@ A character suspended in the bubble can make a DC 10 Dexterity ([Acrobatics](3-M
 
 The calliope can be heard throughout the carnival and is magically linked to the carnival's mood. When people are happy, it pipes along merrily, but it plays discordantly when the mood is low. Each of the calliope's whistles is imbued with magical gusts of wind, allowing it to play without end.
 
-Ernest the monkey turns the handle of a piano roll; the punched holes in the roll of parchment provide the melody. Ernest has the mind of a middle-aged human, the result of a prank involving the organ grinder, his pet monkey, a leprechaun, and a great quantity of brambleberry wine. The organ grinder's mind was swapped with his monkey's, but the jest turned to disaster when his body ran off with the monkey's mind inside, never to be seen again. Ernest uses the [baboon](3-Mechanics/CLI/bestiary/beast/baboon.md) stat block, but his Intelligence and Charisma are 10, and he can speak Common. His alignment is neutral good.
+Ernest the monkey turns the handle of a piano roll; the punched holes in the roll of parchment provide the melody. Ernest has the mind of a middle-aged human, the result of a prank involving the organ grinder, his pet monkey, a leprechaun, and a great quantity of brambleberry wine. The organ grinder's mind was swapped with his monkey's, but the jest turned to disaster when his body ran off with the monkey's mind inside, never to be seen again. Ernest uses the [baboon](3-Mechanics/CLI/bestiary/beast/baboon-xmm.md) stat block, but his Intelligence and Charisma are 10, and he can speak Common. His alignment is neutral good.
 
 Ernest likes to collect buttons from the carnival's guests to sew onto his cloak. He has a rhyme for requesting them:
 
@@ -376,7 +384,7 @@ The individual who checks tickets and operates the carousel is named Diana Clopp
 
 Diana greets patrons with good humor, but there's a sadness behind her eyes. She's quick to correct anyone who calls her a centaur, saying that she's "a human who made a bad deal." If Diana discovers that the characters are investigating the carnival for their own reasons, she tells them how a hag made good on a promise to reunite Diana with her missing horse; however, due to the nature of her bargain with the hag, there are several things that Diana can't talk about:
 
-![Diana Cloppington](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/018-01-004-diana-cloppington.webp#center)
+![Diana Cloppington](file://adventure/WBtW/018-01-004.diana-cloppington.webp#center)
 
 - The Hourglass Coven  
 - Zybilna's current predicament  
@@ -424,15 +432,15 @@ If you used the "Warlock's Quest" adventure hook, a character receives the follo
 > Near the entrance, a small, smiling tree turns your way and beckons you over. A red squirrel clings to its leafy canopy, peering at you suspiciously.
 ^09b
 
-Northwind, a Prismeer native, is a carefree [treant sapling](3-Mechanics/CLI/bestiary/plant/treant-sapling-wbtw.md) (see the accompanying stat block). Appendix D contains additional roleplaying notes for Northwind. Northwind's squirrel companion, Red, sizes up guests while keeping at least one beady eye on Northwind's acorns. Red is the beneficiary of a druid's [awaken](3-Mechanics/CLI/spells/awaken.md) spell; he uses the [weasel](3-Mechanics/CLI/bestiary/beast/weasel.md) stat block but has an Intelligence of 10 and speaks Common.
+Northwind, a Prismeer native, is a carefree [treant sapling](3-Mechanics/CLI/bestiary/plant/treant-sapling-wbtw.md) (see the accompanying stat block). Appendix D contains additional roleplaying notes for Northwind. Northwind's squirrel companion, Red, sizes up guests while keeping at least one beady eye on Northwind's acorns. Red is the beneficiary of a druid's [awaken](3-Mechanics/CLI/spells/awaken-xphb.md) spell; he uses the [weasel](3-Mechanics/CLI/bestiary/beast/weasel-xmm.md) stat block but has an Intelligence of 10 and speaks Common.
 
-![Treant Sapling](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/019-637677446430863372.webp#center)
+![Treant Sapling](file://adventure/WBtW/019-637677446430863372.webp#center)
 
 #### Dragonfly Riding
 
 Riding a dragonfly costs 1 ticket punch. There are eight [giant dragonflies](3-Mechanics/CLI/bestiary/beast/giant-dragonfly-wbtw.md) (see appendix C), which are trained to fly their riders in a lazy figure eight around the carnival's thoroughfare, at a height of 20 feet. A character who tries to steer their dragonfly off course must succeed on a DC 12 Wisdom ([Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling)) check to do so. On the Story Tracker, jot down the names of any characters who succeed on the Wisdom ([Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling)) check to redirect a giant dragonfly; these characters have a talent that might benefit them in chapter 4 (see area M20).
 
-As the characters' first ride begins, shouts of alarm erupt from a nearby lily pad. A giant dragonfly has just taken off prematurely with a patron on its back: a middle-aged dwarf with a bright blue beard sits unfastened in his harness. Kettlesteam, a kenku warlock, used a [speak with animals](3-Mechanics/CLI/spells/speak-with-animals.md) spell to panic the dragonfly. Characters can spot Kettlesteam before she slips away with a successful Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check contested by the kenku's Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception)) check. See "Catching Kettlesteam" later in the chapter if the characters try to confront her.
+As the characters' first ride begins, shouts of alarm erupt from a nearby lily pad. A giant dragonfly has just taken off prematurely with a patron on its back: a middle-aged dwarf with a bright blue beard sits unfastened in his harness. Kettlesteam, a kenku warlock, used a [speak with animals](3-Mechanics/CLI/spells/speak-with-animals-xphb.md) spell to panic the dragonfly. Characters can spot Kettlesteam before she slips away with a successful Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check contested by the kenku's Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception)) check. See "Catching Kettlesteam" later in the chapter if the characters try to confront her.
 
 A character can calm the startled mount and guide it back to a lily pad with a successful DC 14 Wisdom ([Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling)) check. The carnival's mood rises by 1 step (see "Tracking Mood" earlier in the chapter) if a character succeeds on this check. If the characters fail to rescue the dwarf, he tumbles from the dragonfly's back; luckily, his fall is cushioned by a tent awning, and though he isn't badly hurt, the mood of the carnival lowers by 1 step.
 
@@ -459,17 +467,17 @@ The Feasting Orchard bustles all through the night with the activity of storytel
 
 This contest runs repeatedly throughout the evening and costs 1 ticket punch to enter. The contest table is piled high with small, glazed cupcakes, each filled with a dollop of berry custard. The goal is simple: eat as many cupcakes as you can within 60 seconds.
 
-A contestant can swallow a cupcake in about 3 seconds and safely eat as many cupcakes as 3 + its Constitution modifier; for each additional cake eaten, the contestant must succeed on a DC 10 Constitution saving throw or take `1d8` custard damage. Subtract custard damage from the contestant's hit points as normal. Any contestant reduced to 0 hit points by custard damage is unable to continue, loses the contest, and has custard splattered all over them. At the end of the contest, all contestants regain the hit points they lost from taking custard damage.
+A contestant can swallow a cupcake in about 3 seconds and safely eat as many cupcakes as 3 + its Constitution modifier; for each additional cake eaten, the contestant must succeed on a DC 10 Constitution saving throw or take `dice:1d8|noform|noparens|avg` (`1d8`) custard damage. Subtract custard damage from the contestant's hit points as normal. Any contestant reduced to 0 hit points by custard damage is unable to continue, loses the contest, and has custard splattered all over them. At the end of the contest, all contestants regain the hit points they lost from taking custard damage.
 
 ##### Treasure
 
-The prize for winning the contest is a cupcake that functions like a [potion of invisibility](3-Mechanics/CLI/items/potion-of-invisibility.md). The whole cupcake must be eaten to gain its benefit.
+The prize for winning the contest is a cupcake that functions like a [potion of invisibility](3-Mechanics/CLI/items/potion-of-invisibility-xdmg.md). The whole cupcake must be eaten to gain its benefit.
 
 #### Ellywick Tumblestrum
 
 This gnome bard ("Tumblestrum" to her friends) is in the Feasting Orchard when the characters first arrive. She sits on a swing that hangs from the branch of a pear tree, plucking the strings on her lute while eyeing the characters. If the characters happen to mention their free tickets, she reveals that she was the one who paid for them. When pressed for more information, she cryptically assures the characters that they're exactly where and when they're supposed to be but says no more.
 
-![Ellywick Tumblestrum](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/020-01-005-ellywick-tumblestrum.webp#center)
+![Ellywick Tumblestrum](file://adventure/WBtW/020-01-005.ellywick-tumblestrum.webp#center)
 
 As the night progresses, Tumblestrum can reappear to provide hints about what the group needs to do; she can even guide the characters to Prismeer if all of their plans fall through (see "Tumblestrum's Intervention" in the "Timed Events" section later in the chapter). If she is threatened, she disappears in a flashy yet harmless pyrotechnic display. No stat block for Tumblestrum is necessary, since she won't harm or hinder the characters and can't be seriously harmed by them. Her thoughts are likewise hidden, since no magic can read them.
 
@@ -484,7 +492,7 @@ Tumblestrum is meant to be an enigma to the player characters. In truth, she is 
 
 Riding a gondola costs 1 ticket punch. Each ride is an hour long; it starts and ends at the jetty, and the gondola follows the river that marks the perimeter of the carnival.
 
-Each gondola is pulled by a [giant swan](3-Mechanics/CLI/bestiary/beast/giant-swan-wbtw.md), which has the statistics of a [giant eagle](3-Mechanics/CLI/bestiary/beast/giant-eagle.md) except that it has no talons, can attack twice with its beak as an action, and speaks Common and Auran. If the characters approach the swan at the end of the jetty, she bows her head, introduces herself as Feathereen, and explains that she can take the characters along the river that encircles the carnival. Each gondola holds up to eight Medium creatures.
+Each gondola is pulled by a [giant swan](3-Mechanics/CLI/bestiary/beast/giant-swan-wbtw.md), which has the statistics of a [giant eagle](3-Mechanics/CLI/bestiary/celestial/giant-eagle-xmm.md) except that it has no talons, can attack twice with its beak as an action, and speaks Common and Auran. If the characters approach the swan at the end of the jetty, she bows her head, introduces herself as Feathereen, and explains that she can take the characters along the river that encircles the carnival. Each gondola holds up to eight Medium creatures.
 
 Feathereen is erudite and haughty. She asks the characters several metaphysical questions as they travel, such as these:
 
@@ -516,9 +524,9 @@ A glass cabinet stands near the entrance to this tent. If the characters approac
 > A halfling couple holds hands as they approach the glass cabinet. One of the halflings is wearing butterfly face paint. As he drops to one knee and pulls a small box from his pocket, his sweetheart bursts into laughter and begins rolling on the ground. The halfling in face paint begins sobbing and darts into the nearby tent without getting his ticket punched.
 ^0a7
 
-Characters who succeed on a DC 15 Intelligence ([History](3-Mechanics/CLI/rules/skills.md#History)) check recall that Tasha was one of the names reputedly used by [Iggwilv the Witch Queen](3-Mechanics/CLI/bestiary/npc/iggwilv-the-witch-queen-wbtw.md), a legendary archmage. Any creature that comes within 10 feet of the mannequin must succeed on a DC 13 Wisdom saving throw or be affected as if by a [Tasha's hideous laughter](3-Mechanics/CLI/spells/tashas-hideous-laughter.md) spell. Whether the saving throw succeeds or fails, the creature can't be affected by the mannequin again.
+Characters who succeed on a DC 15 Intelligence ([History](3-Mechanics/CLI/rules/skills.md#History)) check recall that Tasha was one of the names reputedly used by [Iggwilv the Witch Queen](3-Mechanics/CLI/bestiary/npc/iggwilv-the-witch-queen-wbtw.md), a legendary archmage. Any creature that comes within 10 feet of the mannequin must succeed on a DC 13 Wisdom saving throw or be affected as if by a [Tasha's hideous laughter](3-Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md) spell. Whether the saving throw succeeds or fails, the creature can't be affected by the mannequin again.
 
-The halfling in face paint is Rubin Sugarwood, and his halfling sweetheart is named Ween Sundapple; both are [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner.md) (lawful good). Ween got too close to the glass cabinet and fell victim to its spell. If one or more characters follow Rubin into the Hall of Illusions, see "Chasing Rubin" below.
+The halfling in face paint is Rubin Sugarwood, and his halfling sweetheart is named Ween Sundapple; both are [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) (lawful good). Ween got too close to the glass cabinet and fell victim to its spell. If one or more characters follow Rubin into the Hall of Illusions, see "Chasing Rubin" below.
 
 After recovering from the cabinet's spell, Ween remains outside the tent and calls out for Rubin, hoping he will return.
 
@@ -535,7 +543,7 @@ The veil between the Material Plane and the Feywild is thinnest inside this hall
 
 #### Candlefoot the Mime
 
-![Candlefoot](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/021-01-006-candlefoot.webp#center)
+![Candlefoot](file://adventure/WBtW/021-01-006.candlefoot.webp#center)
 
 Candlefoot, a [Witchlight hand](3-Mechanics/CLI/bestiary/humanoid/witchlight-hand-medium-wbtw.md) (neutral good; see the stat block earlier in the chapter), is the reluctant ticket-puncher at the Hall of Illusions, and he does all he can to avoid entering the hall. All the color has leached out of his skin, hair, eyes, and apparel, giving him a strangely monochromatic look. And his problems don't end there.
 
@@ -549,7 +557,7 @@ When the mermaid Palasha (see "Silversong Lake" later in the chapter) joined the
 
 Here's a fantastic opportunity for you to explore your hidden talents as a mime. To indicate that he has lost his voice, Candlefoot might move his lips, then shake his head while holding a hand up to one ear. He might bob his head and flap his arms like a bird to indicate that Kettlesteam is the culprit. He doesn't know where the kenku is, but he knows she has been causing mischief throughout the carnival and sometimes uses magic to conceal her true form.
 
-If the characters agree to help Candlefoot, he performs a few delightful magic tricks for their amusement using his [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md) cantrip, which he can cast without the verbal component.
+If the characters agree to help Candlefoot, he performs a few delightful magic tricks for their amusement using his [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md) cantrip, which he can cast without the verbal component.
 
 #### Inside the Hall of Illusions
 
@@ -578,13 +586,13 @@ If the characters reunite the halfling couple, Ween accepts Rubin's proposal, an
 > Outside the lost property wagon is a large feline creature with midnight-blue fur. It has a pair of tentacles extending from its shoulders and wears fake butterfly wings. Hanging from its collar is a small wooden keg. The creature roughhouses with two young boys. One boy squeals, "Again, Dirla, again!" while the other hangs onto the creature's neck.
 ^0b1
 
-Dirlagraun is a gray-whiskered [displacer beast](3-Mechanics/CLI/bestiary/monstrosity/displacer-beast.md) that looks after stray children until they can be reunited with their parents. The keg fastened to its collar is filled with toffee apple juice and fitted with a spigot for easy pouring. The juice never fails to console an upset child.
+Dirlagraun is a gray-whiskered [displacer beast](3-Mechanics/CLI/bestiary/monstrosity/displacer-beast-xmm.md) that looks after stray children until they can be reunited with their parents. The keg fastened to its collar is filled with toffee apple juice and fitted with a spigot for easy pouring. The juice never fails to console an upset child.
 
 When the characters arrive, the displacer beast is minding two boys named Viro and Allowin while their mother fetches food and drink. The displacer beast is unusual both in disposition and in its ability to speak Elvish and Sylvan. Appendix D contains additional roleplaying notes for Dirlagraun.
 
 #### Missing Child
 
-![Dirlagraun](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/022-01-007-dirlagraun.webp#center)
+![Dirlagraun](file://adventure/WBtW/022-01-007.dirlagraun.webp#center)
 
 If the characters question Dirlagraun, it quietly cautions them that some things go missing from the Witchlight Carnival and never come back. Before it can say more, Viro, the older of the two boys, picks up a mirrored ball from the lost property wagon. In a rare moment of anger, Dirlagraun snatches the ball back with a snarl and a flick of its tentacle, causing Viro to dash away in fright.
 
@@ -609,7 +617,7 @@ Dirlagraun is concerned that [Mister Witch](3-Mechanics/CLI/bestiary/npc/mister-
 
 This ride costs 1 ticket punch.
 
-The mine is the brainchild of an eccentric dwarf named Zephixo—the same individual standing outside it. He uses the [mage](3-Mechanics/CLI/bestiary/humanoid/mage.md) stat block, with the following changes:
+The mine is the brainchild of an eccentric dwarf named Zephixo—the same individual standing outside it. He uses the [mage](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) stat block, with the following changes:
 
 - Zephixo (chaotic good) speaks Common, Dwarvish, Gnomish, and Sylvan.  
 - He has [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 60 feet, resistance to poison damage, and advantage on saving throws against poison.  
@@ -626,7 +634,7 @@ Each of the cart's riders must make a DC 12 Wisdom saving throw as each illusion
 
 Any character who succeeds on all the saving throws gains advantage on all Charisma-based ability checks made at the carnival. This effect lasts until the crowning of the Witchlight Monarch (see "Timed Events" toward the end of the chapter).
 
-Any character who fails three or more of the ride's saving throws is haunted by nightmares for `1d8` days. Until the nightmares end, the character must succeed on a DC 12 Wisdom saving throw after finishing a long rest or gain `1d3` levels of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion). On the Story Tracker, record the character's name and the number of days remaining until the nightmares cease, reducing that number by 1 after each long rest. Any spell that ends a curse rids the character of these nightmares but doesn't remove levels of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) gained as a result of them.
+Any character who fails three or more of the ride's saving throws is haunted by nightmares for `dice:1d8|noform|noparens|avg` (`1d8`) days. Until the nightmares end, the character must succeed on a DC 12 Wisdom saving throw after finishing a long rest or gain `dice:1d3|noform|noparens|avg` (`1d3`) levels of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion). On the Story Tracker, record the character's name and the number of days remaining until the nightmares cease, reducing that number by 1 after each long rest. Any spell that ends a curse rids the character of these nightmares but doesn't remove levels of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) gained as a result of them.
 
 ### Pixie Kingdom
 
@@ -635,11 +643,13 @@ Any character who fails three or more of the ride's saving throws is haunted by 
 > A copse of oak trees shelters a miniaturized fairground. At its heart, a hamster runs inside a tiny Ferris wheel, encircled by minuscule wagons and candy stalls. A pixie sits cross-legged in the hollow of a tree at the entrance to this realm.
 ^0b8
 
-The [pixie](3-Mechanics/CLI/bestiary/fey/pixie.md) introduces himself as Jeremy Plum and does his best to persuade the characters that the Pixie Kingdom is the best attraction the carnival has to offer. Entry to the attraction costs 1 ticket punch.
+The [pixie](3-Mechanics/CLI/bestiary/fey/pixie-xmm.md) introduces himself as Jeremy Plum and does his best to persuade the characters that the Pixie Kingdom is the best attraction the carnival has to offer. Entry to the attraction costs 1 ticket punch.
 
 Jeremy encourages the characters to adopt pixie names before entering; refer to the table below for ideas. The carnival's mood rises by 1 step (see "Tracking Mood" earlier in the chapter) if all the characters use their adopted pixie names while in the attraction.
 
 #### Pixie Names
+
+`dice: [](02-witchlight-carnival.md#^name)`
 
 | dice: d8 | Name |
 |----------|------|
@@ -653,7 +663,7 @@ Jeremy encourages the characters to adopt pixie names before entering; refer to 
 | 8 | Toadhop |
 ^name
 
-Whether or not the characters agree to adopt their pixie names, Jeremy sprinkles [pixie dust](3-Mechanics/CLI/items/pixie-dust-wbtw.md) (see appendix A) on them. Jeremy also presents each character with a potion that, when consumed within the boundary of the Pixie Kingdom, reduces the imbiber's size to Tiny for 1 hour, or until the imbiber wants the effect to end. Until the effect ends, the Tiny character has disadvantage on Strength checks and Strength saving throws, and the character's weapons deal `2d4` less damage (this change can't reduce the damage below 1).
+Whether or not the characters agree to adopt their pixie names, Jeremy sprinkles [pixie dust](3-Mechanics/CLI/items/pixie-dust-wbtw.md) (see appendix A) on them. Jeremy also presents each character with a potion that, when consumed within the boundary of the Pixie Kingdom, reduces the imbiber's size to Tiny for 1 hour, or until the imbiber wants the effect to end. Until the effect ends, the Tiny character has disadvantage on Strength checks and Strength saving throws, and the character's weapons deal `dice:2d4|noform|noparens|avg` (`2d4`) less damage (this change can't reduce the damage below 1).
 
 #### Exploring the Kingdom
 
@@ -662,12 +672,12 @@ Whether or not the characters agree to adopt their pixie names, Jeremy sprinkles
 > The Pixie Kingdom is a tranquil oasis compared to the rest of the bustling carnival. The air is filled with the aroma of blackberry wine and flower blossoms. Eight brightly painted doorways are nestled in the bark at the bases of the surrounding trees.
 ^0bb
 
-Twelve [pixies](3-Mechanics/CLI/bestiary/fey/pixie.md) reside here during carnival hours. They are friendly, curious, and eager to ask new arrivals all sorts of questions. The characters are free to explore the kingdom and experience the following wonders:
+Twelve [pixies](3-Mechanics/CLI/bestiary/fey/pixie-xmm.md) reside here during carnival hours. They are friendly, curious, and eager to ask new arrivals all sorts of questions. The characters are free to explore the kingdom and experience the following wonders:
 
 - One character at a time can ride Pinecone, an excitable pug that listens only to pixies.  
 - The kingdom's centerpiece is a pixie palace made entirely of old cocoon husks beautifully woven together.  
 - Characters can dine on cucamelon sandwiches and thimbleberry tarts inside one of the pixie cottages.  
-- Characters can ride the wheel, which is powered by a talkative hamster named Biscuit. An [awaken](3-Mechanics/CLI/spells/awaken.md) spell cast on the hamster gives it an Intelligence of 10 and the ability to speak Common.  
+- Characters can ride the wheel, which is powered by a talkative hamster named Biscuit. An [awaken](3-Mechanics/CLI/spells/awaken-xphb.md) spell cast on the hamster gives it an Intelligence of 10 and the ability to speak Common.  
 
 Characters who spend time talking to the pixies or Biscuit learn the following rumors:
 
@@ -677,7 +687,7 @@ Characters who spend time talking to the pixies or Biscuit learn the following r
 
 #### Playing Hide-and-seek
 
-After a short while, the characters are invited to play a game of hide-and-seek, organized by two [pixies](3-Mechanics/CLI/bestiary/fey/pixie.md): the game's friendly supervisor, Honeymint, and a seeker named Starbug. On the Story Tracker, jot down the names of any characters who play hide-and-seek with the pixies; this experience might prove useful in chapter 3 (see area L5).
+After a short while, the characters are invited to play a game of hide-and-seek, organized by two [pixies](3-Mechanics/CLI/bestiary/fey/pixie-xmm.md): the game's friendly supervisor, Honeymint, and a seeker named Starbug. On the Story Tracker, jot down the names of any characters who play hide-and-seek with the pixies; this experience might prove useful in chapter 3 (see area L5).
 
 Each character who plays the game makes a Wisdom ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) check to hide (see the "Player's Handbook" for rules on skills with different abilities). Starbug finds the character who has the lowest check result, at which point all the remaining characters move to new hiding places and make another check. The game continues until only one character remains hidden; this character is declared the winner and is awarded a packet of [pixie dust](3-Mechanics/CLI/items/pixie-dust-wbtw.md) (see appendix A), with two leaves as the propeller blades. No character can win this prize more than once.
 
@@ -696,19 +706,19 @@ Any character who tries to hide in one of these locations must succeed on a DC 1
 > Mist gathers at the banks of a shimmering lake. Near its center, a mermaid lounges in a giant bowl, singing a glorious, haunting song that captivates spectators on the lakeshore. In response, the lake water coalesces into magical sculptures that whirl around her as she performs.
 ^0be
 
-![Palasha](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/023-01-008-palasha.webp#center)
+![Palasha](file://adventure/WBtW/023-01-008.palasha.webp#center)
 
-It costs nothing to visit the lake and behold its star attraction: the [merfolk](3-Mechanics/CLI/bestiary/humanoid/merfolk.md) Palasha (chaotic good). Audiences crowd the lakeside just to witness her beauty and hear her song.
+It costs nothing to visit the lake and behold its star attraction: the [merfolk](3-Mechanics/CLI/bestiary/elemental/merfolk-skirmisher-xmm.md) Palasha (chaotic good). Audiences crowd the lakeside just to witness her beauty and hear her song.
 
-Palasha is no ordinary mermaid. Her singing has the ability to emulate the effects of a [control water](3-Mechanics/CLI/spells/control-water.md) spell. Once per day, as an action, she can also summon a [swarm of Quippers](3-Mechanics/CLI/bestiary/beast/swarm-of-quippers.md) that obeys her commands until it disappears after 1 minute.
+Palasha is no ordinary mermaid. Her singing has the ability to emulate the effects of a [control water](3-Mechanics/CLI/spells/control-water-xphb.md) spell. Once per day, as an action, she can also summon a [swarm of Quippers](3-Mechanics/CLI/bestiary/beast/swarm-of-piranhas-xmm.md) that obeys her commands until it disappears after 1 minute.
 
 Palasha is in love with Candlefoot (see "Hall of Illusions") but finds it tragic that he has lost his voice. She can't face seeing him after his very public marriage proposal went awry. The mermaid is also fiercely devoted to the carnival. "We are an impossibility in an impossible universe," she tells colleagues and strangers alike, with great pride. Appendix D contains additional roleplaying notes for Palasha.
 
 #### Feathered Heckler
 
-This event occurs the first time the characters watch Palasha perform. Kettlesteam, the kenku warlock, snakes through the crowd, using [disguise self](3-Mechanics/CLI/spells/disguise-self.md) and Mimicry to pose as different hecklers. After three mean-spirited jeers, the mermaid falters in mid-song, leaps out of her bowl, and darts off, heading downriver. Her abrupt departure causes the carnival's mood to lower by 1 step (see "Tracking Mood" earlier in the chapter).
+This event occurs the first time the characters watch Palasha perform. Kettlesteam, the kenku warlock, snakes through the crowd, using [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md) and Mimicry to pose as different hecklers. After three mean-spirited jeers, the mermaid falters in mid-song, leaps out of her bowl, and darts off, heading downriver. Her abrupt departure causes the carnival's mood to lower by 1 step (see "Tracking Mood" earlier in the chapter).
 
-![Guess the Number of Feathers](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/024-01-009-guess-the-number-of-feathers.webp#center)
+![Guess the Number of Feathers](file://adventure/WBtW/024-01-009.guess-the-number-of-feathers.webp#center)
 
 Characters who try to identify the hecklers can spot Kettlesteam in her current guise with a successful Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check contested by the kenku's Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception)) check. See "Catching Kettlesteam" later in the chapter if the characters try to corner her.
 
@@ -720,7 +730,7 @@ If the characters persuade Palasha to return to the lake and resume her performa
 
 ### Small Stalls
 
-![Catch the Dragon by the Tail](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/025-01-010-catch-the-dragon-by-the-tail.webp#center)
+![Catch the Dragon by the Tail](file://adventure/WBtW/025-01-010.catch-the-dragon-by-the-tail.webp#center)
 
 The fair boasts several small stalls, each run by a [Witchlight hand](3-Mechanics/CLI/bestiary/humanoid/witchlight-hand-medium-wbtw.md) (variable alignments; see the stat block earlier in the chapter). Some of the stalls sell sweet snacks and drinks. For 1 ticket punch, a customer can buy a snack served on a large flower petal or a beverage served in a fist-sized snail shell. The offerings include:
 
@@ -747,23 +757,25 @@ The remaining stalls offer games and contests that cost 1 ticket punch apiece. A
 | Outstare the Cyclops | Constitution |
 ^carnival-games
 
-If a character wins a prize playing a game, roll a `d8` on the Carnival Prizes table to determine the prize.
+If a character wins a prize playing a game, roll a `dice:d8|noform|noparens|avg` (`d8`) on the Carnival Prizes table to determine the prize.
 
 **Carnival Prizes**
+
+`dice: [](02-witchlight-carnival.md#^carnival-prizes)`
 
 | dice: d8 | Prize |
 |----------|-------|
 | 1 | Trinket (determined by rolling on the Feywild Trinkets table in the introduction). |
-| 2 | Wooden wand with 8 charges. As an action, you can expend 1 of the wand's charges to cast the [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md) cantrip. This wand can't be recharged. |
+| 2 | Wooden wand with 8 charges. As an action, you can expend 1 of the wand's charges to cast the [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md) cantrip. This wand can't be recharged. |
 | 3 | Packet of [pixie dust](3-Mechanics/CLI/items/pixie-dust-wbtw.md) (see appendix A). |
 | 4 | Bottle of Witchlight wine. While the bottle is uncorked, it plays calliope music until the bottle is emptied of wine. |
 | 5 | Replica unicorn horn filled with candy. |
-| 6 | Single application of magic face paint. As an action, you can apply the face paint to yourself or another creature. The recipient gains the benefit of a [disguise self](3-Mechanics/CLI/spells/disguise-self.md) spell that lasts for 1 hour or until the recipient chooses to end the effect. |
-| 7 | Cuddly toy spider. As an action, you can stroke the spider to gain the benefit of a [spider climb](3-Mechanics/CLI/spells/spider-climb.md) spell that lasts for 1 hour. Once used, the toy turns into a real spider and crawls away. |
-| 8 | Glove puppet in the shape of a wizard. As an action, you can move the puppet's arms to cast the [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md) cantrip. After three uses, the puppet disappears in a puff of smoke. |
+| 6 | Single application of magic face paint. As an action, you can apply the face paint to yourself or another creature. The recipient gains the benefit of a [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md) spell that lasts for 1 hour or until the recipient chooses to end the effect. |
+| 7 | Cuddly toy spider. As an action, you can stroke the spider to gain the benefit of a [spider climb](3-Mechanics/CLI/spells/spider-climb-xphb.md) spell that lasts for 1 hour. Once used, the toy turns into a real spider and crawls away. |
+| 8 | Glove puppet in the shape of a wizard. As an action, you can move the puppet's arms to cast the [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md) cantrip. After three uses, the puppet disappears in a puff of smoke. |
 ^carnival-prizes
 
-![Almiraj Ring Toss](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/026-01-011-almiraj-ring-toss.webp#center)
+![Almiraj Ring Toss](file://adventure/WBtW/026-01-011.almiraj-ring-toss.webp#center)
 
 #### Almiraj Ring Toss
 
@@ -781,7 +793,7 @@ This game involves tossing rings over the horn of a wooden statuette of an almir
 > "Prizes! Prizes! Prizes! Catch the faerie dragon by the tail and win a piece of its hoard!"
 ^0c5
 
-While blindfolded and standing in a booth, a participant must grab the tail of an elusive, giggling [red faerie dragon](3-Mechanics/CLI/bestiary/dragon/faerie-dragon-red.md) that flutters around them. The participant has three chances to succeed on a DC 18 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. Someone who succeeds on the check catches the dragon by the tail and rolls once on the Carnival Prizes table, or twice if the successful check occurs on the first attempt.
+While blindfolded and standing in a booth, a participant must grab the tail of an elusive, giggling [red faerie dragon](3-Mechanics/CLI/bestiary/dragon/faerie-dragon-youth-xmm.md) that flutters around them. The participant has three chances to succeed on a DC 18 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. Someone who succeeds on the check catches the dragon by the tail and rolls once on the Carnival Prizes table, or twice if the successful check occurs on the first attempt.
 
 #### Gnome Poetry Contest
 
@@ -790,7 +802,7 @@ While blindfolded and standing in a booth, a participant must grab the tail of a
 > "Sound the chime, it's time to rhyme! You bring the poem! We'll bring the gno-em!"
 ^0c7
 
-![Gnome Poetry Contest](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/027-01-012-gnome-poetry-contest.webp#center)
+![Gnome Poetry Contest](file://adventure/WBtW/027-01-012.gnome-poetry-contest.webp#center)
 
 A participant must outperform a gnome in a best-of-five poetry contest. Doing so requires three successful DC 15 Charisma ([Performance](3-Mechanics/CLI/rules/skills.md#Performance)) checks in five or fewer attempts. Someone who wins the contest rolls once on the Carnival Prizes table, or twice if they succeeded three times without failing a check.
 
@@ -801,7 +813,7 @@ A participant must outperform a gnome in a best-of-five poetry contest. Doing so
 > "Strong folks! Test your mettle in a goblin wrestle!"
 ^0c9
 
-A Small participant has to pin an unarmed [goblin](3-Mechanics/CLI/bestiary/humanoid/goblin.md) (lawful good), while a Medium participant has to pin one goblin while wrestling two of them. Winning the game requires a successful Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check contested by the goblin; two goblins working together make one check with advantage. Resolve a tie by rerolling. A victorious participant earns one roll on the Carnival Prizes table.
+A Small participant has to pin an unarmed [goblin](3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) (lawful good), while a Medium participant has to pin one goblin while wrestling two of them. Winning the game requires a successful Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check contested by the goblin; two goblins working together make one check with advantage. Resolve a tie by rerolling. A victorious participant earns one roll on the Carnival Prizes table.
 
 #### Guess the Number of Feathers
 
@@ -810,7 +822,7 @@ A Small participant has to pin an unarmed [goblin](3-Mechanics/CLI/bestiary/huma
 > "Birds of a feather? How about feathers of a bird? Step right up and guess how many feathers festoon this fiendish fowl!"
 ^0cb
 
-A participant gets three tries to guess the number of feathers on one of a group of caged [cockatrices](3-Mechanics/CLI/bestiary/monstrosity/cockatrice.md). Someone who succeeds on a DC 18 Intelligence check guesses correctly and earns one roll on the Carnival Prizes table, or two rolls if the successful check occurs on the first attempt.
+A participant gets three tries to guess the number of feathers on one of a group of caged [cockatrices](3-Mechanics/CLI/bestiary/monstrosity/cockatrice-xmm.md). Someone who succeeds on a DC 18 Intelligence check guesses correctly and earns one roll on the Carnival Prizes table, or two rolls if the successful check occurs on the first attempt.
 
 #### Outstare the Cyclops
 
@@ -821,7 +833,7 @@ A participant gets three tries to guess the number of feathers on one of a group
 
 Winning this game requires a participant to outstare an illusory cyclops. Whoever blinks first loses. To win the game, the contestant must succeed on a DC 14 Constitution check. Someone who wins the game receives a prize, determined by rolling once on the Carnival Prizes table.
 
-![Outstare the Cyclops](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/028-01-013-outstare-the-cyclops.webp#center)
+![Outstare the Cyclops](file://adventure/WBtW/028-01-013.outstare-the-cyclops.webp#center)
 
 ### Snail Racing
 
@@ -838,7 +850,7 @@ If at least half the characters participate in a snail race, the carnival's mood
 
 #### Snails and Pixies
 
-Each of the eight [giant snails](3-Mechanics/CLI/bestiary/beast/giant-snail-wbtw.md) (see appendix C) is assigned a crew of three [pixies](3-Mechanics/CLI/bestiary/fey/pixie.md) to prepare it for a race. The snails are unusually fast, wear colored caparisons, and have numbered saddles strapped to their shells. Their racing numbers, names, and team colors are given in the Giant Snails table.
+Each of the eight [giant snails](3-Mechanics/CLI/bestiary/beast/giant-snail-wbtw.md) (see appendix C) is assigned a crew of three [pixies](3-Mechanics/CLI/bestiary/fey/pixie-xmm.md) to prepare it for a race. The snails are unusually fast, wear colored caparisons, and have numbered saddles strapped to their shells. Their racing numbers, names, and team colors are given in the Giant Snails table.
 
 **Giant Snails**
 
@@ -854,11 +866,11 @@ Each of the eight [giant snails](3-Mechanics/CLI/bestiary/beast/giant-snail-wbtw
 | 8 | Queen's Majesty | Black |
 ^giant-snails
 
-![The giant snail race is on...](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/029-01-014-snail-racing.webp#center "The giant snail race is one of the carnival's most popular attractions.")
+![The giant snail race is one of the carnival's most popular attractions.](file://adventure/WBtW/029-01-014.snail-racing.webp#center)
 
 #### Snail Racing Rules
 
-Every snail needs a jockey, and any saddles not filled by characters are filled by other attendees (use the [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md) stat block to represent these NPCs). All the snails and their riders begin at the start line; fireworks signal the start of the race, after which the riders race their snails to the finish line.
+Every snail needs a jockey, and any saddles not filled by characters are filled by other attendees (use the [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) stat block to represent these NPCs). All the snails and their riders begin at the start line; fireworks signal the start of the race, after which the riders race their snails to the finish line.
 
 On a whiteboard or notepad, jot down the giant snails, their numbers, and their riders. Next to the names, keep a running total of how far each snail travels in feet during the race. The course is 480 feet long.
 
@@ -868,15 +880,17 @@ The race is divided into 6-second rounds. Once the race begins, the snails move 
 
 Initiative rolls are unnecessary. Once per round, each jockey can make a DC 12 Wisdom ([Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling)) check. On a successful check, the jockey's snail moves an extra 10 feet that round, or 20 feet if the check succeeds by 5 or more. On a failed check, the jockey's snail moves 10 feet slower that round, or 20 feet slower if the check fails by 5 or more. The race ends when one or more snails travel the 480 feet needed to cross the finish line.
 
-If two or more snails cross the finish line in the same round, determine the winner of the race by having those snails' jockeys each roll a `d20`. The highest roll determines the winner, with one snail narrowly claiming victory. If the roll for first place is tied, the race ends in a tie, and each winning jockey receives the first-place prize (see "Prizes" below).
+If two or more snails cross the finish line in the same round, determine the winner of the race by having those snails' jockeys each roll a `dice:d20|noform|noparens|avg` (`d20`). The highest roll determines the winner, with one snail narrowly claiming victory. If the roll for first place is tied, the race ends in a tie, and each winning jockey receives the first-place prize (see "Prizes" below).
 
-Signs posted in the stands and along the racetrack warn that neither jockeys nor spectators may influence the outcome of a race by using magic or by harming other jockeys or snails. Any jockey who openly does so is disqualified, as is the jockey's snail. A spectator caught doing so is escorted from the carnival by `1d4` [goblins](3-Mechanics/CLI/bestiary/humanoid/goblin.md) (lawful good) who are watching the crowd closely for troublemakers.
+Signs posted in the stands and along the racetrack warn that neither jockeys nor spectators may influence the outcome of a race by using magic or by harming other jockeys or snails. Any jockey who openly does so is disqualified, as is the jockey's snail. A spectator caught doing so is escorted from the carnival by `dice:1d4|noform|noparens|avg` (`1d4`) [goblins](3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) (lawful good) who are watching the crowd closely for troublemakers.
 
 ##### Surprises
 
-At the start of each round after the first, roll a `d8` and consult the Snail Race Surprises table to determine if something unexpected happens that round. When a surprise occurs, determine which snail is affected by rolling a `d8`.
+At the start of each round after the first, roll a `dice:d8|noform|noparens|avg` (`d8`) and consult the Snail Race Surprises table to determine if something unexpected happens that round. When a surprise occurs, determine which snail is affected by rolling a `dice:d8|noform|noparens|avg` (`d8`).
 
 **Snail Race Surprises**
+
+`dice: [](02-witchlight-carnival.md#^snail-race-surprises)`
 
 | dice: d8 | Surprise |
 |----------|----------|
@@ -889,7 +903,7 @@ At the start of each round after the first, roll a `d8` and consult the Snail Ra
 
 ##### Prizes
 
-The jockey whose snail wins the race receives a [potion of advantage](3-Mechanics/CLI/items/potion-of-advantage-wbtw.md) (see appendix A). The jockey whose snail comes in last receives a consolation prize, provided they weren't disqualified. The consolation prize is a magic wand that allows its holder to cast the [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md) cantrip once. Once used to cast this spell, the wand turns into a tulip.
+The jockey whose snail wins the race receives a [potion of advantage](3-Mechanics/CLI/items/potion-of-advantage-wbtw.md) (see appendix A). The jockey whose snail comes in last receives a consolation prize, provided they weren't disqualified. The consolation prize is a magic wand that allows its holder to cast the [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md) cantrip once. Once used to cast this spell, the wand turns into a tulip.
 
 ### Staff Area
 
@@ -900,15 +914,15 @@ The jockey whose snail wins the race receives a [potion of advantage](3-Mechanic
 
 The carnival's wagons are located behind the Big Top, protected by a 20-foot-high, 5-foot-thick wall of thorns. When a member of the carnival staff stands within 1 foot of the wall, the thorns part to form an 8-foot-high, 4-foot-wide doorway in front of the staff member. This door remains open for 10 seconds, then disappears as thorny vines fill the opening once more. The wall is magical and also impervious to damage. The wall grants three-quarters cover to creatures behind it.
 
-A creature can move through the wall of thorns, albeit slowly and painfully. It costs 8 feet of movement to move through 1 foot of the wall. The first time a creature enters the wall on a turn or ends its turn there, it must make a DC 15 Dexterity saving throw, taking 4 (`1d8`) piercing damage on a failed save, or half as much damage on a successful one. Whenever a creature ends its turn in the wall, trumpet-shaped flowers burst from the brambles nearby and honk an alarm that is audible up to 50 feet away.
+A creature can move through the wall of thorns, albeit slowly and painfully. It costs 8 feet of movement to move through 1 foot of the wall. The first time a creature enters the wall on a turn or ends its turn there, it must make a DC 15 Dexterity saving throw, taking `dice:1d8|noform|noparens|avg|text(4)` (`1d8`) piercing damage on a failed save, or half as much damage on a successful one. Whenever a creature ends its turn in the wall, trumpet-shaped flowers burst from the brambles nearby and honk an alarm that is audible up to 50 feet away.
 
 #### Circle of Wagons
 
 Enclosed by the wall of thorns is a circle of eight brightly painted wagons, one of which is a glass-enclosed water tank for Palasha the mermaid. The fanciest of the remaining seven wagons belongs to [Mister Witch](3-Mechanics/CLI/bestiary/npc/mister-witch-wbtw.md) and [Mister Light](3-Mechanics/CLI/bestiary/npc/mister-light-wbtw.md).
 
-![Burly](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/030-01-015-burly.webp#center)
+![Burly](file://adventure/WBtW/030-01-015.burly.webp#center)
 
-The perimeter inside the wall of thorns and outside the circle of wagons is patrolled by a [bugbear](3-Mechanics/CLI/bestiary/humanoid/bugbear.md) named Burly (neutral good), who leaves his post once during the evening to participate in the Big Top Extravaganza (see "Timed Events" later in the chapter). While on patrol, Burly wears a large jack-o'-lantern on his head, as one would wear a helmet, in addition to his dungarees and fake fairy wings.
+The perimeter inside the wall of thorns and outside the circle of wagons is patrolled by a [bugbear](3-Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md) named Burly (neutral good), who leaves his post once during the evening to participate in the Big Top Extravaganza (see "Timed Events" later in the chapter). While on patrol, Burly wears a large jack-o'-lantern on his head, as one would wear a helmet, in addition to his dungarees and fake fairy wings.
 
 The central area enclosed by the wagons is guarded by Thaco the clown, a human [Witchlight hand](3-Mechanics/CLI/bestiary/humanoid/witchlight-hand-medium-wbtw.md) (chaotic neutral; see the stat block earlier in the chapter) who is loyal only to [Mister Witch](3-Mechanics/CLI/bestiary/npc/mister-witch-wbtw.md). He usually sits right outside the door to Witch and Light's wagon, blowing bubbles with his bubble pipe.
 
@@ -941,7 +955,7 @@ Characters who sneak up to the wagon while it's occupied can overhear Witch and 
 
 From there, the conversation shifts to the current mood of the carnival and ideas for new carnival acts or attractions ("The catoblepas didn't work out, but maybe we can buy a giraffe and paint it blue. Or we could teach Northwind how to play the fiddle.") Then it turns to the mysterious disappearance of Burly's unruly brother, Hurly (in hushed tones that suggest Witch or Light might have had a hand in it, although neither admits any involvement). Hurly's fate is revealed in chapter 4 (see area M5).
 
-![Thaco](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/031-01-016-thaco.webp#center)
+![Thaco](file://adventure/WBtW/031-01-016.thaco.webp#center)
 
 If the characters disturb Witch and Light in their wagon without being invited, jump ahead to the "Meeting Witch and Light" encounter described later in the chapter, skipping over the lead-in with Burly and Thaco.
 
@@ -949,11 +963,11 @@ If the characters disturb Witch and Light in their wagon without being invited, 
 
 [Mister Witch](3-Mechanics/CLI/bestiary/npc/mister-witch-wbtw.md)'s bunk is neat and unadorned. [Mister Light](3-Mechanics/CLI/bestiary/npc/mister-light-wbtw.md)'s bunk is gaudy and messy, with costumes strewn everywhere. Characters who search through the gear find a hatbox containing the crown of the Witchlight Monarch; this splendid crown of gold butterflies teleports back to its hatbox at the end of each evening and is ceremoniously produced from its box during the monarch's coronation (see "Timed Events" later in the chapter).
 
-Any character who searches the wagon for secret compartments finds one with a successful DC 15 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check. The compartment is located in a bench and contains a tiny, bejeweled chest worth 50 gp. This chest is a replica of a much larger chest hidden on the Ethereal Plane (with the help of a [Leomund's secret chest](3-Mechanics/CLI/spells/leomunds-secret-chest.md) spell). While holding the replica chest, [Mister Witch](3-Mechanics/CLI/bestiary/npc/mister-witch-wbtw.md) can use an action to summon the larger chest. He can send the larger chest back to the Ethereal Plane by using an action and touching both the chest and the replica.
+Any character who searches the wagon for secret compartments finds one with a successful DC 15 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check. The compartment is located in a bench and contains a tiny, bejeweled chest worth 50 gp. This chest is a replica of a much larger chest hidden on the Ethereal Plane (with the help of a [Leomund's secret chest](3-Mechanics/CLI/spells/leomunds-secret-chest-xphb.md) spell). While holding the replica chest, [Mister Witch](3-Mechanics/CLI/bestiary/npc/mister-witch-wbtw.md) can use an action to summon the larger chest. He can send the larger chest back to the Ethereal Plane by using an action and touching both the chest and the replica.
 
 ##### Treasure
 
-The chest hidden on the Ethereal Plane (which is worth 5,000 gp) contains recent earnings (210 sp and 70 gp), a [potion of diminution](3-Mechanics/CLI/items/potion-of-diminution.md), a [potion of growth](3-Mechanics/CLI/items/potion-of-growth.md), and a [potion of advantage](3-Mechanics/CLI/items/potion-of-advantage-wbtw.md) (see appendix A). The potions are not labeled, but [Mister Witch](3-Mechanics/CLI/bestiary/npc/mister-witch-wbtw.md) knows which is which.
+The chest hidden on the Ethereal Plane (which is worth 5,000 gp) contains recent earnings (210 sp and 70 gp), a [potion of diminution](3-Mechanics/CLI/items/potion-of-diminution-xdmg.md), a [potion of growth](3-Mechanics/CLI/items/potion-of-growth-xdmg.md), and a [potion of advantage](3-Mechanics/CLI/items/potion-of-advantage-wbtw.md) (see appendix A). The potions are not labeled, but [Mister Witch](3-Mechanics/CLI/bestiary/npc/mister-witch-wbtw.md) knows which is which.
 
 ## Carnival Events
 
@@ -963,7 +977,7 @@ This section describes special events that occur during the characters' visit to
 
 The characters receive an invitation to meet privately with [Mister Witch](3-Mechanics/CLI/bestiary/npc/mister-witch-wbtw.md) and [Mister Light](3-Mechanics/CLI/bestiary/npc/mister-light-wbtw.md) when the carnival's mood reaches either end of the track (see "Tracking Mood" earlier in the chapter) or if the characters impress [Mister Light](3-Mechanics/CLI/bestiary/npc/mister-light-wbtw.md) during the Big Top Extravaganza (see "Timed Events" later in the chapter).
 
-Witch and Light send Burly the [bugbear](3-Mechanics/CLI/bestiary/humanoid/bugbear.md) (neutral good) to fetch the characters:
+Witch and Light send Burly the [bugbear](3-Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md) (neutral good) to fetch the characters:
 
 > [!readaloud] 
 > 
@@ -981,7 +995,7 @@ If the characters follow Burly, read:
 
 The clown is Thaco, a human [Witchlight hand](3-Mechanics/CLI/bestiary/humanoid/witchlight-hand-medium-wbtw.md) (chaotic neutral; see the stat block earlier in the chapter) and over-the-hill carnival attraction. Appendix D contains additional roleplaying notes for Thaco.
 
-![Mister Witch and Mister Li...](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/032-01-017-witch-and-light.webp#center "Mister Witch and Mister Light don't like strangers eavesdropping on their private conversations")
+![Mister Witch and Mister Light don't like strangers eavesdropping on their private conversations](file://adventure/WBtW/032-01-017.witch-and-light.webp#center)
 
 #### Inside the Wagon
 
@@ -1041,13 +1055,13 @@ If the characters rob [Mister Witch](3-Mechanics/CLI/bestiary/npc/mister-witch-w
 
 ### Catching Kettlesteam
 
-[Kettlesteam](3-Mechanics/CLI/bestiary/npc/kettlesteam-the-kenku-wbtw.md) (see the accompanying stat block) snoops around the carnival under the cover of a [disguise self](3-Mechanics/CLI/spells/disguise-self.md) spell, looking to cause trouble. The kenku has stolen the voice of a human mime named Candlefoot (see "Hall of Illusions" earlier in the chapter). While this prize remains in her possession, Kettlesteam can speak clearly in Candlefoot's soft, silky voice.
+[Kettlesteam](3-Mechanics/CLI/bestiary/npc/kettlesteam-the-kenku-wbtw.md) (see the accompanying stat block) snoops around the carnival under the cover of a [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md) spell, looking to cause trouble. The kenku has stolen the voice of a human mime named Candlefoot (see "Hall of Illusions" earlier in the chapter). While this prize remains in her possession, Kettlesteam can speak clearly in Candlefoot's soft, silky voice.
 
 If Kettlesteam has not already been caught, a character who spends 1 hour searching for the disguised kenku can, with a successful DC 13 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check, see through her disguise while moving through crowds and paying close attention to suspicious-looking folks. If discovered, Kettlesteam tries to flee from the main thoroughfare, using tents and other carnival features to break line of sight to her. She's willing to cautiously parley with characters who claim they are investigating the carnival for their own reasons.
 
 Appendix D contains additional roleplaying notes for Kettlesteam.
 
-![Kettlesteam the Kenku](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/033-637677441694763205.webp#center)
+![Kettlesteam the Kenku](file://adventure/WBtW/033-637677441694763205.webp#center)
 
 #### Talking with Kettlesteam
 
@@ -1092,7 +1106,7 @@ The tree is Northwind, a [treant sapling](3-Mechanics/CLI/bestiary/plant/treant-
 
 ##### Sycamore Seeds
 
-A creature can attempt to catch a falling sycamore seed before it touches the ground, doing so with a successful DC 10 Dexterity check. Any creature that catches a seed before it touches the ground receives a gift, determined by rolling a `d8` and consulting the Welcome Gifts table. A creature that receives one of these gifts can't gain another one for 24 hours.
+A creature can attempt to catch a falling sycamore seed before it touches the ground, doing so with a successful DC 10 Dexterity check. Any creature that catches a seed before it touches the ground receives a gift, determined by rolling a `dice:d8|noform|noparens|avg` (`d8`) and consulting the Welcome Gifts table. A creature that receives one of these gifts can't gain another one for 24 hours.
 
 ##### Dandelion Seeds
 
@@ -1100,12 +1114,14 @@ A character can make a wish while blowing their dandelion's seeds into the air. 
 
 **Welcome Gifts**
 
+`dice: [](02-witchlight-carnival.md#^welcome-gifts)`
+
 | dice: d8 | Gift |
 |----------|------|
 | 1–3 | The creature gains the following personality trait until dawn: "I am easily amused." Any conflicting character trait is suppressed in the meantime. |
-| 4 | The creature gains a die, a `d4`, which it can add to one ability check it makes before the next dawn. |
+| 4 | The creature gains a die, a `dice:d4\|noform\|noparens\|avg` (`d4`), which it can add to one ability check it makes before the next dawn. |
 | 5–7 | The seed turns into a gold piece. |
-| 8 | The creature gains a die, a `d8`, which it can add to one ability check it makes before the next dawn. |
+| 8 | The creature gains a die, a `dice:d8\|noform\|noparens\|avg` (`d8`), which it can add to one ability check it makes before the next dawn. |
 ^welcome-gifts
 
 #### Hour 4: Big Top Extravaganza
@@ -1156,7 +1172,7 @@ The Witchlight Monarch gains the following charm (see ""Supernatural Gifts"" in 
 
 If one of the characters becomes the Witchlight Monarch, note this fact on the Story Tracker. Even after the charm wears off, a character retains the title of Witchlight Monarch forever, and this title bears great weight in Prismeer. Fey creatures in the domain will not attack a Witchlight Monarch unless the monarch attacks them first. Moreover, Fey creatures in Prismeer treat a Witchlight Monarch with great reverence, addressing the character as "Your Majesty" or "Your Highness." The characters don't become aware of these benefits until they arrive in Prismeer and interact with its inhabitants.
 
-![The Feywild awaits!](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/034-01-018-the-feywild-awaits.webp#center)
+![The Feywild awaits!](file://adventure/WBtW/034-01-018.the-feywild-awaits.webp#center)
 
 ### Through the Looking Glass
 

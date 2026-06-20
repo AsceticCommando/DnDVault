@@ -11,12 +11,12 @@ aliases:
 
 ## Cantrip
 
-- [Mage Hand](3-Mechanics/CLI/spells/mage-hand.md "PHB") as 2nd-level, at class level 3
+- [Mage Hand](3-Mechanics/CLI/spells/mage-hand-xphb.md "XPHB") as cantrip
 
 ## 1st Level
 
-- [Burning Hands](3-Mechanics/CLI/spells/burning-hands.md "PHB") as 2nd-level, at class level 3
+- [Burning Hands](3-Mechanics/CLI/spells/burning-hands-xphb.md "XPHB") as 2nd-level, at class level 3
 
 ## 2nd Level
 
-- [Flame Blade](3-Mechanics/CLI/spells/flame-blade.md "PHB") as 2nd-level, at class level 3
+- [Flame Blade](3-Mechanics/CLI/spells/flame-blade-xphb.md "XPHB") at class level 5

@@ -14,16 +14,16 @@ aliases:
 
 | Class | Ability Check |
 |-------|---------------|
-| [Barbarian](3-Mechanics/CLI/classes/barbarian.md) | Strength, Dexterity, or Wisdom |
-| [Bard](3-Mechanics/CLI/classes/bard.md) | Any one |
-| [Cleric](3-Mechanics/CLI/classes/cleric.md) | Intelligence, Wisdom, or Charisma |
-| [Druid](3-Mechanics/CLI/classes/druid.md) | Intelligence or Wisdom |
-| [Fighter](3-Mechanics/CLI/classes/fighter.md) | Strength, Dexterity, or Wisdom |
-| [Monk](3-Mechanics/CLI/classes/monk.md) | Strength, Dexterity, or Intelligence |
-| [Paladin](3-Mechanics/CLI/classes/paladin.md) | Strength, Wisdom, or Charisma |
-| [Ranger](3-Mechanics/CLI/classes/ranger.md) | Strength, Dexterity, or Wisdom |
-| [Rogue](3-Mechanics/CLI/classes/rogue.md) | Dexterity, Intelligence, Wisdom, or Charisma |
-| [Sorcerer](3-Mechanics/CLI/classes/sorcerer.md) | Intelligence or Charisma |
-| [Warlock](3-Mechanics/CLI/classes/warlock.md) | Intelligence or Charisma |
-| [Wizard](3-Mechanics/CLI/classes/wizard.md) | Intelligence or Wisdom |
+| [Barbarian](3-Mechanics/CLI/classes/barbarian-xphb.md) | Strength, Dexterity, or Wisdom |
+| [Bard](3-Mechanics/CLI/classes/bard-xphb.md) | Any one |
+| [Cleric](3-Mechanics/CLI/classes/cleric-xphb.md) | Intelligence, Wisdom, or Charisma |
+| [Druid](3-Mechanics/CLI/classes/druid-xphb.md) | Intelligence or Wisdom |
+| [Fighter](3-Mechanics/CLI/classes/fighter-xphb.md) | Strength, Dexterity, or Wisdom |
+| [Monk](3-Mechanics/CLI/classes/monk-xphb.md) | Strength, Dexterity, or Intelligence |
+| [Paladin](3-Mechanics/CLI/classes/paladin-xphb.md) | Strength, Wisdom, or Charisma |
+| [Ranger](3-Mechanics/CLI/classes/ranger-xphb.md) | Strength, Dexterity, or Wisdom |
+| [Rogue](3-Mechanics/CLI/classes/rogue-xphb.md) | Dexterity, Intelligence, Wisdom, or Charisma |
+| [Sorcerer](3-Mechanics/CLI/classes/sorcerer-xphb.md) | Intelligence or Charisma |
+| [Warlock](3-Mechanics/CLI/classes/warlock-xphb.md) | Intelligence or Charisma |
+| [Wizard](3-Mechanics/CLI/classes/wizard-xphb.md) | Intelligence or Wisdom |
 ^ability-check-proficiency-by-class

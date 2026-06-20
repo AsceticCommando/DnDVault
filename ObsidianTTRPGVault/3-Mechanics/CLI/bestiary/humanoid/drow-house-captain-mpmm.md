@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Drow House Captain"
 ---
-# [Drow House Captain](3-Mechanics\CLI\bestiary\humanoid/drow-house-captain-mpmm.md)
+# [Drow House Captain](3-Mechanics/CLI/bestiary/humanoid/drow-house-captain-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 101, Mordenkainen's Tome of Foes p. 184*  
 
 > [!quote] A quote from Tasha  
@@ -31,7 +31,7 @@ Among Lolth's devotees in the city of Menzoberranzan in the Forgotten Realms, ea
 "subtype": "Drow elf"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "[chain mail](3-Mechanics/CLI/items/chain-mail.md)"
+"ac_class": "[chain mail](3-Mechanics/CLI/items/chain-mail-xphb.md)"
 "hp": !!int "162"
 "hit_dice": "25d8 + 50"
 "modifier": !!int "4"
@@ -53,9 +53,9 @@ Among Lolth's devotees in the city of Menzoberranzan in the Forgotten Realms, ea
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+8"
 "gear":
-  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow.md)"
-  - "[scimitar](3-Mechanics/CLI/items/scimitar.md)"
-  - "[whip](3-Mechanics/CLI/items/whip.md)"
+  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow-xphb.md)"
+  - "[scimitar](3-Mechanics/CLI/items/scimitar-xphb.md)"
+  - "[whip](3-Mechanics/CLI/items/whip-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
   \ Perception 16"
 "languages": "Elvish, Undercommon"
@@ -87,9 +87,10 @@ Among Lolth's devotees in the city of Menzoberranzan in the Forgotten Realms, ea
     "name": "Hand Crossbow"
   - "desc": "The drow casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 13):\n\n**At\
-      \ will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md)\n\n**1/day\
-      \ each:** [darkness](3-Mechanics/CLI/spells/darkness.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md),\
-      \ [levitate](3-Mechanics/CLI/spells/levitate.md) (self only)"
+      \ will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md)\n\n\
+      **1/day each:** [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [faerie\
+      \ fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md), [levitate](3-Mechanics/CLI/spells/levitate-xphb.md)\
+      \ (self only)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "Choose one creature within 30 feet of the drow that the drow can see.\
@@ -104,7 +105,7 @@ Among Lolth's devotees in the city of Menzoberranzan in the Forgotten Realms, ea
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/drow-house-captain-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Drow%20House%20Captain.webp"
 ```
 ^statblock
 

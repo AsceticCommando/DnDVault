@@ -12,6 +12,8 @@ aliases:
 
 **Dragon Echo Characteristics**
 
+`dice: [](echoes-across-the-worlds-dragon-echo-characteristics-ftd.md#^dragon-echo-characteristics)`
+
 | dice: d8 | Echo Characteristics |
 |----------|----------------------|
 | 1 | Same dragon kind and age, differing only in physical appearance |

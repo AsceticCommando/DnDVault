@@ -12,6 +12,8 @@ aliases:
 
 **Brass Dragon Ideals**
 
+`dice: [](creating-a-brass-dragon-brass-dragon-ideals-ftd.md#^brass-dragon-ideals)`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Curiosity. The best way to show you value others is to learn as much as you can about them. (Good) |

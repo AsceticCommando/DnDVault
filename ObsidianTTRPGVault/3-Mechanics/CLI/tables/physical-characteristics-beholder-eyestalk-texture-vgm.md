@@ -12,6 +12,8 @@ aliases:
 
 **Beholder Eyestalk Texture**
 
+`dice: [](physical-characteristics-beholder-eyestalk-texture-vgm.md#^beholder-eyestalk-texture)`
+
 | dice: d6 | Eyestalk Texture |
 |----------|------------------|
 | 1-2 | Smooth |

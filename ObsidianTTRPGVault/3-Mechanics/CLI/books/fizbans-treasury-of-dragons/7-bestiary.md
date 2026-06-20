@@ -14,7 +14,7 @@ Across the worlds of the Material Plane and beyond, draconic creatures appear in
 
 These monsters are arranged in alphabetical order. For guidance on how to use a creature's stat block, consult the "introduction" of the "Monster Manual".
 
-![A rampaging blue greatwyrm...](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/057-06-001-chapter-splash.webp#center "A rampaging blue greatwyrm threatens a world's existence, and Bahamut stands alongside the world's greatest heroes")
+![A rampaging blue greatwyrm threatens a world's existence, and Bahamut stands alongside the world's greatest heroes](file://book/FTD/057-06-001.chapter-splash.webp#center)
 
 [Ancient Amethyst Dragon](3-Mechanics/CLI/bestiary/dragon/ancient-amethyst-dragon-ftd.md)
 
@@ -48,13 +48,13 @@ These monsters are arranged in alphabetical order. For guidance on how to use a 
 
 [Crystal Dragon Wyrmling](3-Mechanics/CLI/bestiary/dragon/crystal-dragon-wyrmling-ftd.md)
 
-[Ancient Deep Dragon](3-Mechanics/CLI/bestiary/dragon/ancient-deep-dragon-ftd.md)
+[Ancient Deep Dragon](3-Mechanics/CLI/bestiary/dragon/ancient-deep-dragon-fraif.md)
 
-[Adult Deep Dragon](3-Mechanics/CLI/bestiary/dragon/adult-deep-dragon-ftd.md)
+[Adult Deep Dragon](3-Mechanics/CLI/bestiary/dragon/adult-deep-dragon-fraif.md)
 
-[Young Deep Dragon](3-Mechanics/CLI/bestiary/dragon/young-deep-dragon-ftd.md)
+[Young Deep Dragon](3-Mechanics/CLI/bestiary/dragon/young-deep-dragon-fraif.md)
 
-[Deep Dragon Wyrmling](3-Mechanics/CLI/bestiary/dragon/deep-dragon-wyrmling-ftd.md)
+[Deep Dragon Wyrmling](3-Mechanics/CLI/bestiary/dragon/deep-dragon-wyrmling-fraif.md)
 
 [Dracohydra](3-Mechanics/CLI/bestiary/monstrosity/dracohydra-ftd.md)
 
@@ -92,7 +92,7 @@ These monsters are arranged in alphabetical order. For guidance on how to use a 
 
 [Dragonnel](3-Mechanics/CLI/bestiary/dragon/dragonnel-ftd.md)
 
-[Dragon Turtle](3-Mechanics/CLI/bestiary/dragon/dragon-turtle.md)
+[Dragon Turtle](3-Mechanics/CLI/bestiary/dragon/dragon-turtle-xmm.md)
 
 [Ancient Dragon Turtle](3-Mechanics/CLI/bestiary/dragon/ancient-dragon-turtle-ftd.md)
 
@@ -104,7 +104,7 @@ These monsters are arranged in alphabetical order. For guidance on how to use a 
 
 [Egg Hunter Adult](3-Mechanics/CLI/bestiary/monstrosity/egg-hunter-adult-ftd.md)
 
-[Mind Flayer](3-Mechanics/CLI/bestiary/aberration/mind-flayer.md)
+[Mind Flayer](3-Mechanics/CLI/bestiary/aberration/mind-flayer-xmm.md)
 
 [Elder Brain](3-Mechanics/CLI/bestiary/aberration/elder-brain-mpmm.md)
 
@@ -118,7 +118,7 @@ These monsters are arranged in alphabetical order. For guidance on how to use a 
 
 [Emerald Dragon Wyrmling](3-Mechanics/CLI/bestiary/dragon/emerald-dragon-wyrmling-ftd.md)
 
-[Beholder](3-Mechanics/CLI/bestiary/aberration/beholder.md)
+[Beholder](3-Mechanics/CLI/bestiary/aberration/beholder-xmm.md)
 
 [Eyedrake](3-Mechanics/CLI/bestiary/aberration/eyedrake-ftd.md)
 
@@ -136,7 +136,7 @@ These monsters are arranged in alphabetical order. For guidance on how to use a 
 
 [Ghost Dragon](3-Mechanics/CLI/bestiary/undead/ghost-dragon-ftd.md)
 
-[Mimic](3-Mechanics/CLI/bestiary/monstrosity/mimic.md)
+[Mimic](3-Mechanics/CLI/bestiary/monstrosity/mimic-xmm.md)
 
 [Hoard Mimic](3-Mechanics/CLI/bestiary/monstrosity/hoard-mimic-ftd.md)
 

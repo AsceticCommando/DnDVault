@@ -12,6 +12,8 @@ aliases:
 
 **Middle-Class Carousing Complications**
 
+`dice: [](middle-class-carousing-complications-xge.md#^middle-class-carousing-complications)`
+
 | dice: d8 | Complication |
 |----------|--------------|
 | 1 | You accidentally insulted a guild master, and only a public apology will let you do business with the guild again.* |

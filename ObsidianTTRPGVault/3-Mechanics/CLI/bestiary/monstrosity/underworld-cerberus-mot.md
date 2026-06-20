@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Underworld Cerberus"
 ---
-# [Underworld Cerberus](3-Mechanics\CLI\bestiary\monstrosity/underworld-cerberus-mot.md)
+# [Underworld Cerberus](3-Mechanics/CLI/bestiary/monstrosity/underworld-cerberus-mot.md)
 *Source: Mythic Odysseys of Theros p. 215*  
 
 Three-headed cerberi dwell deep in the Underworld. Terrifying and cunning, they guard portals between the wards of the Underworld, Erebos's greatest treasures, and noteworthy souls who might attempt to escape the realm of the dead. Three-headed cerberi commonly serve demons, but if left to their own devices, they often herd wily souls into labyrinthine Underworld wildernesses, then hunt them for sport.
@@ -80,6 +80,6 @@ Feared by the living and the dead, cerberi patrol both banks of the Tartyx River
     "name": "Breath Weapon (Recharge 5-6)"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/underworld-cerberus-mot.webp"
+"image": "file://bestiary/tokens/MOT/Underworld%20Cerberus.webp"
 ```
 ^statblock

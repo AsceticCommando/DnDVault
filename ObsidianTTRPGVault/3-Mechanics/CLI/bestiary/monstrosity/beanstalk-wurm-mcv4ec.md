@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Beanstalk Wurm"
 ---
-# [Beanstalk Wurm](3-Mechanics\CLI\bestiary\monstrosity/beanstalk-wurm-mcv4ec.md)
+# [Beanstalk Wurm](3-Mechanics/CLI/bestiary/monstrosity/beanstalk-wurm-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 Wurms are enormous creatures that resemble limbless, wingless dragons, though they lack a dragon's breath weapons and keen intelligence. On the world of Eldraine, many wurms have adapted to life among the world's skyscraping beanstalks. These beanstalk wurms sport leafy growths, sustaining themselves on a mixture of natural photosynthesis and a carnivorous diet.
@@ -82,6 +82,6 @@ Cloud-dwelling giants often use beanstalk wurms as a first line of defense again
     "name": "Bite"
 "source":
   - "MCV4EC"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/beanstalk-wurm-mcv4ec.webp"
+"image": "file://bestiary/tokens/MCV4EC/Beanstalk%20Wurm.webp"
 ```
 ^statblock

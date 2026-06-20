@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-DM Toolkit/THE WEFT/THE WEFT - Campaign Bible.md",
+                "file": "2-World/Galaxies/The Weft.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "THE WEFT - Campaign Bible"
+              "title": "The Weft"
             }
           }
         ],
@@ -203,8 +203,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-view"
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           },
           {
@@ -223,8 +223,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-view"
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           },
           {
@@ -233,8 +233,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           },
           {
@@ -257,8 +257,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-view"
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           },
           {
@@ -267,8 +267,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           },
           {
@@ -277,8 +277,8 @@
             "state": {
               "type": "help-mate",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "help-mate"
+              "icon": "life-buoy",
+              "title": "HelpMate"
             }
           },
           {
@@ -359,36 +359,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c908b37bc65e0cb7",
+  "active": "2911de48d50d504c",
   "lastOpenFiles": [
-    "1-DM Toolkit/THE WEFT/THE WEFT - Knowledge Tree (generated).md",
-    "2-World/Quests/The Peripeteia.md",
-    "2-World/Sapient Species/The Editions.md",
-    "2-World/Regions/The Unravelling Thread.md",
-    "2-World/Quests/The Prologos.md",
-    "2-World/Quests/The Parodos.md",
-    "2-World/Quests/The Exodos.md",
-    "2-World/Quests/The Anagnorisis.md",
+    "3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/dragonlance-shadow-of-the-dragon-queen.md",
+    "3-Mechanics/CLI/adventures/dragon-delves-before-the-storm/dragon-delves-before-the-storm.md",
+    "3-Mechanics/CLI/adventures/dragon-delves-before-the-storm/3-credits.md",
+    "3-Mechanics/CLI/adventures/dragon-delves-before-the-storm/2-before-the-storm.md",
+    "3-Mechanics/CLI/adventures/dragon-delves-before-the-storm/1-introduction.md",
+    "3-Mechanics/CLI/adventures/dragon-delves-before-the-storm",
+    "3-Mechanics/CLI/adventures/dragon-delves-bakers-doesnt/dragon-delves-bakers-doesnt.md",
+    "3-Mechanics/CLI/adventures/dragon-delves-bakers-doesnt/2-bakers-doesnt.md",
+    "3-Mechanics/CLI/adventures/dragon-delves-bakers-doesnt/3-credits.md",
+    "3-Mechanics/CLI/adventures/dragon-delves-bakers-doesnt/1-introduction.md",
+    "3-Mechanics/CLI/adventures/dragon-delves-bakers-doesnt",
+    "3-Mechanics/CLI/adventures/dragon-delves-a-copper-for-a-song/dragon-delves-a-copper-for-a-song.md",
+    "3-Mechanics/CLI/adventures/dragon-delves-a-copper-for-a-song/1-introduction.md",
+    "3-Mechanics/CLI/adventures/dragon-delves-a-copper-for-a-song/3-credits.md",
+    "3-Mechanics/CLI/adventures/dragon-delves-a-copper-for-a-song/2-a-copper-for-a-song.md",
+    "3-Mechanics/CLI/adventures/dragon-delves-a-copper-for-a-song",
+    "3-Mechanics/CLI/adventures/chains-of-asmodeus/chains-of-asmodeus.md",
+    "3-Mechanics/CLI/adventures/chains-of-asmodeus/20-credits.md",
+    "3-Mechanics/CLI/adventures/chains-of-asmodeus/19-appendix-f-player-handouts.md",
+    "3-Mechanics/CLI/adventures/chains-of-asmodeus/18-appendix-e-corruption.md",
+    "3-Mechanics/CLI/adventures/chains-of-asmodeus/17-appendix-d-infernal-magic-items.md",
+    "3-Mechanics/CLI/adventures/chains-of-asmodeus/16-appendix-c-non-player-characters.md",
+    "3-Mechanics/CLI/adventures/chains-of-asmodeus/15-appendix-b-monsters.md",
+    "3-Mechanics/CLI/adventures/chains-of-asmodeus/14-appendix-a-lords-of-the-nine.md",
+    "3-Mechanics/CLI/adventures/chains-of-asmodeus/13-chapter-12-nessus-the-bastion-of-asmodeus.md",
+    "3-Mechanics/CLI/adventures/chains-of-asmodeus/12-chapter-11-hunted-by-the-dukes.md",
+    "3-Mechanics/CLI/adventures/chains-of-asmodeus/11-chapter-10-cania-the-relentless-cold.md",
+    "3-Mechanics/CLI/adventures/chains-of-asmodeus/10-chapter-9-maladomini-the-domain-of-ruined-cities.md",
+    "3-Mechanics/CLI/adventures/chains-of-asmodeus/09-chapter-8-malbolge-the-realm-of-decay.md",
+    "3-Mechanics/CLI/adventures/chains-of-asmodeus",
+    "3-Mechanics/CLI/adventures/borderlands-quest-goblin-trouble",
+    "3-Mechanics/CLI/adventures/borderlands-quest-dagger-danger",
     "1-DM Toolkit/THE WEFT/THE WEFT - Knowledge Graph.json",
-    "2-World/Points of Interest/The Underdrop.md",
-    "2-World/Points of Interest/The Anthology.md",
-    "2-World/Places/The Tally-Car.md",
-    "2-World/Places/The Vintner's Car.md",
-    "2-World/People/al-ʿUzzā.md",
-    "2-World/Hubs/The Slack-Tide.md",
-    "2-World/Galaxies/The Weft.md",
     "1-DM Toolkit/THE WEFT/~$E_WEFT_Peripeteia.docx",
-    "1-DM Toolkit/THE WEFT/THE WEFT - Campaign Bible.md",
-    "1-DM Toolkit/Home.md",
-    "2-World/People/Oresh.md",
-    "2-World/People/Dushara.md",
-    "2-World/People/al-Kutbā.md",
-    "2-World/Groups/The Tethyne.md",
-    "2-World/Groups/The Tehom.md",
-    "2-World/Groups/The Sijill.md",
-    "2-World/Groups/The Raijin.md",
-    "2-World/Groups/The Nifling.md",
-    "2-World/Groups/The Evocade.md",
     "1-DM Toolkit/THE WEFT/THE_WEFT_Peripeteia.docx",
     "1-DM Toolkit/THE WEFT",
     "3-Mechanics/CLI/bestiary/humanoid/img/weretiger.webp",
@@ -401,12 +407,6 @@
     "3-Mechanics/CLI/bestiary/humanoid/img/wereboar.webp",
     "3-Mechanics/CLI/bestiary/humanoid/img/wereraven-2.webp",
     "3-Mechanics/CLI/bestiary/humanoid/img/werebear.webp",
-    "3-Mechanics/CLI/bestiary/humanoid/img",
-    "z_Assets/Decks/Tarot",
-    "z_Assets/Decks/Standard",
-    "3-Mechanics/CLI/vehicles/token",
-    "3-Mechanics/CLI/vehicles/img",
-    "3-Mechanics/CLI/vehicles",
     "0-Scratch Notes/Untitled.canvas",
     "0-Scratch Notes/MoC - Canvas Home Page.canvas",
     "Untitled.canvas"

@@ -16,6 +16,8 @@ aliases:
 
 **Trinkets from Sarlona**
 
+`dice: [](sarlona-trinket-erlw.md#^trinkets-from-sarlona)`
+
 | dice: d8 | Trinket |
 |----------|---------|
 | 1 | A polished crystal sphere; when you clutch it in your fist, a telepathic voice recites a story in your mind |

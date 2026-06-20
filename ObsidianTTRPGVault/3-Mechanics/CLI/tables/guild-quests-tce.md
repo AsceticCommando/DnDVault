@@ -12,6 +12,8 @@ aliases:
 
 **Guild Quests**
 
+`dice: [](guild-quests-tce.md#^guild-quests)`
+
 | dice: d6 | Quest |
 |----------|-------|
 | 1 | **Deliver Goods**. You need to deliver an order to an important customer or partner of the guild. The delivery must arrive by a critical deadline—regardless of who or what tries to stop you. |

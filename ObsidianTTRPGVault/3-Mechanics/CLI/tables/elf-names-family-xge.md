@@ -12,6 +12,8 @@ aliases:
 
 **Elf Names – Family**
 
+`dice: [](elf-names-family-xge.md#^elf-names-family)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Aloro |

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Eigeron's Ghost"
 ---
-# [Eigeron's Ghost](3-Mechanics\CLI\bestiary\npc/eigerons-ghost-skt.md)
+# [Eigeron's Ghost](3-Mechanics/CLI/bestiary/npc/eigerons-ghost-skt.md)
 *Source: Storm King's Thunder p. 129*  
 
 ```statblock
@@ -75,7 +75,7 @@ aliases:
       \ uses the possessed target's statistics, but doesn't gain access to the target's\
       \ knowledge, class features, or proficiencies.\n\nThe possession lasts until\
       \ the body drops to 0 hit points, the ghost ends it as a bonus action, or the\
-      \ ghost is turned or forced out by an effect like the [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good.md)\
+      \ ghost is turned or forced out by an effect like the [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md)\
       \ spell. When the possession ends, the ghost reappears in an unoccupied space\
       \ within 5 feet of the body. The target is immune to this ghost's Possession\
       \ for 24 hours after succeeding on the saving throw or after the possession\
@@ -85,6 +85,6 @@ aliases:
     "name": "Possession (Recharge 6)"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/eigerons-ghost-skt.webp"
+"image": "file://bestiary/tokens/SKT/Eigeron%27s%20Ghost.webp"
 ```
 ^statblock

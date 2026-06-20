@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Banderhobb"
 ---
-# [Banderhobb](3-Mechanics\CLI\bestiary\monstrosity/banderhobb-mpmm.md)
+# [Banderhobb](3-Mechanics/CLI/bestiary/monstrosity/banderhobb-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 56, Volo's Guide to Monsters p. 122*  
 
 A banderhobb is a hybrid of shadow and flesh. Through vile magic, these components take on an enormous and horrific upright shape resembling a bipedal toad. In this form, a banderhobb temporarily serves its creator as a thug, a thief, and a kidnapper that swallows the unwary.
@@ -97,7 +97,7 @@ A banderhobb fulfills its duties until its existence ends. When it expires, usua
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/banderhobb-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Banderhobb.webp"
 ```
 ^statblock
 

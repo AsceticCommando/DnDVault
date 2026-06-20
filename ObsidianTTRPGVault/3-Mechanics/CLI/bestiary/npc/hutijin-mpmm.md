@@ -12,12 +12,12 @@ statblock-link: "#^statblock"
 aliases:
 - "Hutijin"
 ---
-# [Hutijin](3-Mechanics\CLI\bestiary\npc/hutijin-mpmm.md)
+# [Hutijin](3-Mechanics/CLI/bestiary/npc/hutijin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 157, Mordenkainen's Tome of Foes p. 175*  
 
 Politics in the Nine Hells are anything but predictable. Alliances form all the time, but most wind up unraveling due to treachery. Nevertheless, for all their backbiting and betrayal, devils do occasionally display loyalty, offering unwavering service to their masters. One such example is Hutijin, a duke of Cania and loyal servant of Mephistopheles.
 
-Across the Hells, Hutijin's name fills lesser devils with fear and loathing, for this duke commands two companies of [pit fiends](3-Mechanics/CLI/bestiary/fiend/pit-fiend.md). With such soldiers under his command, Hutijin can easily crush any rival who gets in his way while also defending Mephistopheles against armies seeking to contest his dominion. Hutijin has amassed enough power to challenge the lord of Cania, but he has never wavered in his support for his master—suggesting, perhaps, that Mephistopheles has some hold over him.
+Across the Hells, Hutijin's name fills lesser devils with fear and loathing, for this duke commands two companies of [pit fiends](3-Mechanics/CLI/bestiary/fiend/pit-fiend-xmm.md). With such soldiers under his command, Hutijin can easily crush any rival who gets in his way while also defending Mephistopheles against armies seeking to contest his dominion. Hutijin has amassed enough power to challenge the lord of Cania, but he has never wavered in his support for his master—suggesting, perhaps, that Mephistopheles has some hold over him.
 
 Outside the Nine Hells, Hutijin is a relatively obscure figure, known only to the most learned infernal scholars. He has no cults of his own, and his servants are few in number. The reason is simple: Hutijin hates mortals. When summoned from the Hells, he repays the instigator with a long and agonizing death.
 
@@ -57,7 +57,7 @@ Mephistopheles forbids Hutijin from making too many forays into the Material Pla
 "condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
   \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
 "gear":
-  - "[mace](3-Mechanics/CLI/items/mace.md)"
+  - "[mace](3-Mechanics/CLI/items/mace-xphb.md)"
 "senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
   \ Perception 21"
 "languages": "all, telepathy 120 ft."
@@ -102,12 +102,12 @@ Mephistopheles forbids Hutijin from making too many forays into the Material Pla
     "name": "Teleport"
   - "desc": "Hutijin casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 22):\n\n**At\
-      \ will:** [alter self](3-Mechanics/CLI/spells/alter-self.md) (can become Medium\
-      \ when changing his appearance), [detect magic](3-Mechanics/CLI/spells/detect-magic.md),\
-      \ [hold monster](3-Mechanics/CLI/spells/hold-monster.md), [invisibility](3-Mechanics/CLI/spells/invisibility.md)\
-      \ (self only), [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt.md), [suggestion](3-Mechanics/CLI/spells/suggestion.md),\
-      \ [wall of fire](3-Mechanics/CLI/spells/wall-of-fire.md)\n\n**3/day:** [dispel\
-      \ magic](3-Mechanics/CLI/spells/dispel-magic.md)"
+      \ will:** [alter self](3-Mechanics/CLI/spells/alter-self-xphb.md) (can become\
+      \ Medium when changing his appearance), [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [hold monster](3-Mechanics/CLI/spells/hold-monster-xphb.md), [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md)\
+      \ (self only), [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt-xphb.md),\
+      \ [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md), [wall of fire](3-Mechanics/CLI/spells/wall-of-fire-xphb.md)\n\
+      \n**3/day:** [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "In response to taking damage, Hutijin utters a dreadful word of power.\
@@ -133,6 +133,6 @@ Mephistopheles forbids Hutijin from making too many forays into the Material Pla
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/npc/token/hutijin-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Hutijin.webp"
 ```
 ^statblock

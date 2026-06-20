@@ -12,6 +12,8 @@ aliases:
 
 **Silver Dragon Ideals**
 
+`dice: [](creating-a-silver-dragon-silver-dragon-ideals-ftd.md#^silver-dragon-ideals)`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Sensualism. I savor the world and consume its myriad delights with appropriate gratitude. (Any) |

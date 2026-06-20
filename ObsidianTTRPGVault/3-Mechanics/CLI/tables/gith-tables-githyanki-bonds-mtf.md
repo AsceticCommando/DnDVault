@@ -12,6 +12,8 @@ aliases:
 
 **Githyanki Bonds**
 
+`dice: [](gith-tables-githyanki-bonds-mtf.md#^githyanki-bonds)`
+
 | dice: d4 | Bond |
 |----------|------|
 | 1 | There is no greater duty than to serve the Revered Queen. |

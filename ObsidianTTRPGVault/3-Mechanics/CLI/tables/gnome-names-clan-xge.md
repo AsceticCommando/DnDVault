@@ -12,6 +12,8 @@ aliases:
 
 **Gnome Names – Clan**
 
+`dice: [](gnome-names-clan-xge.md#^gnome-names-clan)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Albaratie |

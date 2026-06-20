@@ -12,6 +12,8 @@ aliases:
 
 **Cataclysmic Disasters**
 
+`dice: [](cataclysmic-disasters.md#^cataclysmic-disasters)`
+
 | dice: d10 | Cataclysmic Disaster |
 |-----------|----------------------|
 | 1 | Earthquake |

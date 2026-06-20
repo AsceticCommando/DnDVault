@@ -12,6 +12,8 @@ aliases:
 
 **Lord of Blades Adventure Hooks**
 
+`dice: [](lord-of-blades-adventure-hooks-erlw.md#^lord-of-blades-adventure-hooks)`
+
 | dice: d6 | Adventure Hook |
 |----------|----------------|
 | 1 | A newly awakened [docent](3-Mechanics/CLI/items/docent-erlw.md) (see "chapter 5") tells its new owner that [the Lord of Blades](3-Mechanics/CLI/bestiary/npc/the-lord-of-blades-erlw.md) is the only hope for averting a coming catastrophe. |

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Axe of Mirabar Soldier"
 ---
-# [Axe of Mirabar Soldier](3-Mechanics\CLI\bestiary\humanoid/axe-of-mirabar-soldier-skt.md)
+# [Axe of Mirabar Soldier](3-Mechanics/CLI/bestiary/humanoid/axe-of-mirabar-soldier-skt.md)
 *Source: Storm King's Thunder p. 98*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "18"
-"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor.md)"
+"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "67"
 "hit_dice": "9d8 + 27"
 "modifier": !!int "1"
@@ -41,9 +41,9 @@ aliases:
     "desc": "+2"
 "damage_resistances": "poison"
 "gear":
-  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow.md)"
-  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow-xphb.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 12"
 "languages": "Common, Dwarvish"
@@ -66,6 +66,6 @@ aliases:
     "name": "Heavy Crossbow"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/axe-of-mirabar-soldier-skt.webp"
+"image": "file://bestiary/tokens/SKT/Axe%20of%20Mirabar%20Soldier.webp"
 ```
 ^statblock

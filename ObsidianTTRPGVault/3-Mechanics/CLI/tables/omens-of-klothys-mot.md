@@ -12,6 +12,8 @@ aliases:
 
 **Omens of Klothys**
 
+`dice: [](omens-of-klothys-mot.md#^omens-of-klothys)`
+
 | dice: d6 | dice: d100 | Omen of Klothys |
 |----------|------------|-----------------|
 | 1 | 47 | A character experiences an extended episode of déjà vu. |

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Juiblex"
 ---
-# [Juiblex](3-Mechanics\CLI\bestiary\npc/juiblex-mpmm.md)
+# [Juiblex](3-Mechanics/CLI/bestiary/npc/juiblex-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 160, Mordenkainen's Tome of Foes p. 151*  
 
 Called the Faceless Lord and the Oozing Hunger in ancient grimoires, Juiblex is demon lord of slime and ooze, a noxious creature that doesn't care about the plots and schemes of others of its kind. It exists only to consume, digesting and transforming living matter into more of itself.
@@ -102,17 +102,17 @@ Juiblex's challenge rating is 24 (62,000 XP) when encountered in its lair.
       \ takes a permanent −1 penalty to damage rolls. The penalty worsens each time\
       \ a target is subjected to this effect. If the penalty on an object drops to\
       \ −5, the object is destroyed. The penalty on an object can be removed by the\
-      \ [mending](3-Mechanics/CLI/spells/mending.md) spell."
+      \ [mending](3-Mechanics/CLI/spells/mending-xphb.md) spell."
     "name": "Eject Slime (Recharge 5-6)"
   - "desc": "Juiblex casts one of the following spells, requiring no material components\
       \ and using Wisdom as the spellcasting ability (spell save DC 20):\n\n**At will:**\
-      \ [detect magic](3-Mechanics/CLI/spells/detect-magic.md)\n\n**3/day each:**\
-      \ [contagion](3-Mechanics/CLI/spells/contagion.md), [gaseous form](3-Mechanics/CLI/spells/gaseous-form.md)"
+      \ [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md)\n\n**3/day each:**\
+      \ [contagion](3-Mechanics/CLI/spells/contagion-xphb.md), [gaseous form](3-Mechanics/CLI/spells/gaseous-form-xphb.md)"
     "name": "Spellcasting"
 "lair_actions":
   - "desc": "On initiative count 20 (losing initiative ties), Juiblex can take one\
       \ of the following lair actions; it can't take the same lair action two rounds\
-      \ in a row:\n\n- **Green Slime.** A [green slime](3-Mechanics/CLI/traps-hazards/green-slime.md)\
+      \ in a row:\n\n- **Green Slime.** A [green slime](3-Mechanics/CLI/traps-hazards/green-slime-xdmg.md)\
       \ (see the \"Dungeon Master's Guide\") appears on a spot on the ceiling that\
       \ Juiblex chooses within the lair. The slime disintegrates after 1 hour.  \n\
       - **Slippery Slime.** Juiblex slimes a square area of ground it can see within\
@@ -165,6 +165,6 @@ Juiblex's challenge rating is 24 (62,000 XP) when encountered in its lair.
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/npc/token/juiblex-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Juiblex.webp"
 ```
 ^statblock

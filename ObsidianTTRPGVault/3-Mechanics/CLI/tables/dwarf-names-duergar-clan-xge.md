@@ -12,6 +12,8 @@ aliases:
 
 **Dwarf Names – Duergar Clan**
 
+`dice: [](dwarf-names-duergar-clan-xge.md#^dwarf-names-duergar-clan)`
+
 | dice: d12 | Name |
 |-----------|------|
 | 1 | Ashlord |

@@ -12,6 +12,8 @@ aliases:
 
 **Dungeon: Tomb**
 
+`dice: [](chamber-purpose-dungeon-tomb.md#^dungeon-tomb)`
+
 | dice: d20 | Purpose |
 |-----------|---------|
 | 1 | Antechamber for those that have come to pay respect to the dead or prepare themselves for burial rituals |

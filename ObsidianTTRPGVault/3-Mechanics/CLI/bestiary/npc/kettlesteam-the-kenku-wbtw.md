@@ -13,10 +13,10 @@ statblock-link: "#^statblock"
 aliases:
 - "Kettlesteam the Kenku"
 ---
-# [Kettlesteam the Kenku](3-Mechanics\CLI\bestiary\npc/kettlesteam-the-kenku-wbtw.md)
+# [Kettlesteam the Kenku](3-Mechanics/CLI/bestiary/npc/kettlesteam-the-kenku-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 52*  
 
-Kettlesteam the kenku snoops around the carnival under the cover of a [disguise self](3-Mechanics/CLI/spells/disguise-self.md) spell, looking to cause trouble. The kenku has stolen the voice of a human mime named Candlefoot (see "Hall of Illusions "earlier in the chapter). While this prize remains in her possession, Kettlesteam can speak clearly in Candlefoot's soft, silky voice.
+Kettlesteam the kenku snoops around the carnival under the cover of a [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md) spell, looking to cause trouble. The kenku has stolen the voice of a human mime named Candlefoot (see "Hall of Illusions "earlier in the chapter). While this prize remains in her possession, Kettlesteam can speak clearly in Candlefoot's soft, silky voice.
 
 ```statblock
 "name": "Kettlesteam the Kenku (WBtW)"
@@ -53,7 +53,7 @@ Kettlesteam the kenku snoops around the carnival under the cover of a [disguise 
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "understands Auran and Common but speaks only through the use of her\
   \ Mimicry trait"
@@ -76,14 +76,14 @@ Kettlesteam the kenku snoops around the carnival under the cover of a [disguise 
       \ takes damage, or if someone uses an action to shake or slap the sleeper awake."
     "name": "Twilight Sleep (2/Day)"
   - "desc": "Kettlesteam casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 13):\n\n**At will:** [disguise self](3-Mechanics/CLI/spells/disguise-self.md),\
-      \ [friends](3-Mechanics/CLI/spells/friends.md), [mage hand](3-Mechanics/CLI/spells/mage-hand.md),\
-      \ [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md)\n\n**1/day each:**\
-      \ [bestow curse](3-Mechanics/CLI/spells/bestow-curse.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md),\
-      \ [speak with animals](3-Mechanics/CLI/spells/speak-with-animals.md)"
+      \ spellcasting ability (spell save DC 13):\n\n**At will:** [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md),\
+      \ [friends](3-Mechanics/CLI/spells/friends-xphb.md), [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\n**1/day\
+      \ each:** [bestow curse](3-Mechanics/CLI/spells/bestow-curse-xphb.md), [faerie\
+      \ fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md), [speak with animals](3-Mechanics/CLI/spells/speak-with-animals-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/npc/token/kettlesteam-the-kenku-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Kettlesteam%20the%20Kenku.webp"
 ```
 ^statblock

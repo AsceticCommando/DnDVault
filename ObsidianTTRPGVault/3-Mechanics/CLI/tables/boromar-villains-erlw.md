@@ -12,6 +12,8 @@ aliases:
 
 **Boromar Villains**
 
+`dice: [](boromar-villains-erlw.md#^boromar-villains)`
+
 | dice: d6 | Villain |
 |----------|---------|
 | 1 | A halfling dreamlily dealer (an excoriate of House Ghallanda) smooth-talks new customers into sampling her wares. If pressed, she can call in favors from a number of dangerous clients. |

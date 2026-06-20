@@ -12,6 +12,8 @@ aliases:
 
 **Scale Color**
 
+`dice: [](physical-variations-scale-color-vgm.md#^scale-color)`
+
 | dice: d100 | Scale Color |
 |------------|-------------|
 | 1-5 | Black |

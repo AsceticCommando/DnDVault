@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Zarak"
 ---
-# [Zarak](3-Mechanics\CLI\bestiary\npc/zarak-wbtw.md)
+# [Zarak](3-Mechanics/CLI/bestiary/npc/zarak-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 222*  
 
 Zarak is an assassin without honor or conscience. Unusually short of stature for someone of orcish heritage, he might pass for an ugly, beardless dwarf were it not for his rotting tusks and grayish pallor. The only thing he loves is money, and he wouldn't hesitate to stab allies in the back if they came between him and the riches he covets.
@@ -24,7 +24,7 @@ Zarak is an assassin without honor or conscience. Unusually short of stature for
 "subtype": "orc"
 "alignment": "Chaotic Evil"
 "ac": !!int "14"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "37"
 "hit_dice": "5d8 + 15"
 "modifier": !!int "3"
@@ -49,13 +49,13 @@ Zarak is an assassin without honor or conscience. Unusually short of stature for
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+7"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60, passive Perception\
   \ 16"
 "languages": "Common, Orc"
 "cr": "2"
 "traits":
-  - "desc": "Zarak carries a [potion of invisibility](3-Mechanics/CLI/items/potion-of-invisibility.md)."
+  - "desc": "Zarak carries a [potion of invisibility](3-Mechanics/CLI/items/potion-of-invisibility-xdmg.md)."
     "name": "Special Equipment"
 "actions":
   - "desc": "Zarak makes two Dagger attacks."
@@ -81,6 +81,6 @@ Zarak is an assassin without honor or conscience. Unusually short of stature for
     "name": "Uncanny Dodge"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/npc/token/zarak-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Zarak.webp"
 ```
 ^statblock

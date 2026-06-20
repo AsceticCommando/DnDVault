@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Four-Armed Troll"
 ---
-# [Four-Armed Troll](3-Mechanics\CLI\bestiary\giant/four-armed-troll-hotdq.md)
+# [Four-Armed Troll](3-Mechanics/CLI/bestiary/giant/four-armed-troll-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 65, Tyranny of Dragons p. 81*  
 
 Sometimes when a troll loses a limb, it regenerates two limbs to replace the one it lost. This can result in trolls with multiple arms. A four-armed troll uses the troll stat block, except that it is a Challenge Rating 6 monster (2,300 XP) and has alternate action options to suit.
@@ -65,6 +65,6 @@ Sometimes when a troll loses a limb, it regenerates two limbs to replace the one
 "source":
   - "HotDQ"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/giant/token/four-armed-troll-hotdq.webp"
+"image": "file://bestiary/tokens/HotDQ/Four-Armed%20Troll.webp"
 ```
 ^statblock

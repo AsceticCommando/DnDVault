@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Star Spawn Hulk"
 ---
-# [Star Spawn Hulk](3-Mechanics\CLI\bestiary\aberration/star-spawn-hulk-mpmm.md)
+# [Star Spawn Hulk](3-Mechanics/CLI/bestiary/aberration/star-spawn-hulk-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 227, Mordenkainen's Tome of Foes p. 234*  
 
 The hulk is one of the largest of the known star spawn, with glistening, translucent skin. Pale and seemingly lidless eyes glare balefully from a face distorted by too many teeth and too little nose. Hulks are seldom encountered without a commanding star spawn seer (also in this book) nearby. A hulk appears to have little will of its own and is driven to protect its master.
@@ -92,6 +92,6 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/star-spawn-hulk-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Star%20Spawn%20Hulk.webp"
 ```
 ^statblock

@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Xvart Warlock of Raxivort"
 ---
-# [Xvart Warlock of Raxivort](3-Mechanics\CLI\bestiary\monstrosity/xvart-warlock-of-raxivort-mpmm.md)
+# [Xvart Warlock of Raxivort](3-Mechanics/CLI/bestiary/monstrosity/xvart-warlock-of-raxivort-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 267, Volo's Guide to Monsters p. 200*  
 
 Some xvarts are spawned with a trace of Raxivort's divine energy. These xvarts usually form a pact with him and wield magic in his service as warlocks.
@@ -46,7 +46,7 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+3"
 "gear":
-  - "[scimitar](3-Mechanics/CLI/items/scimitar.md)"
+  - "[scimitar](3-Mechanics/CLI/items/scimitar-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 30 ft., passive\
   \ Perception 10"
 "languages": "Abyssal"
@@ -55,9 +55,9 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
   - "desc": "When the xvart reduces an enemy to 0 hit points, the xvart gains 4 temporary\
       \ hit points."
     "name": "Raxivort's Blessing"
-  - "desc": "The xvart can communicate with ordinary [bats](3-Mechanics/CLI/bestiary/beast/bat.md)\
-      \ and [rats](3-Mechanics/CLI/bestiary/beast/rat.md), as well as [giant bats](3-Mechanics/CLI/bestiary/beast/giant-bat.md)\
-      \ and [giant rats](3-Mechanics/CLI/bestiary/beast/giant-rat.md)."
+  - "desc": "The xvart can communicate with ordinary [bats](3-Mechanics/CLI/bestiary/beast/bat-xmm.md)\
+      \ and [rats](3-Mechanics/CLI/bestiary/beast/rat-xmm.md), as well as [giant bats](3-Mechanics/CLI/bestiary/beast/giant-bat-xmm.md)\
+      \ and [giant rats](3-Mechanics/CLI/bestiary/beast/giant-rat-xmm.md)."
     "name": "Raxivort's Tongue"
 "actions":
   - "desc": "The xvart makes two Scimitar or Raxivort's Bite attacks."
@@ -70,10 +70,11 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
     "name": "Raxivort's Bite"
   - "desc": "The xvart casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 11):\n\n**At\
-      \ will:** [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [mage armor](3-Mechanics/CLI/spells/mage-armor.md)\
-      \ (self only), [mage hand](3-Mechanics/CLI/spells/mage-hand.md), [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md),\
-      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md)\n\n**1/day\
-      \ each:** [burning hands](3-Mechanics/CLI/spells/burning-hands.md), [invisibility](3-Mechanics/CLI/spells/invisibility.md)"
+      \ will:** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [mage\
+      \ armor](3-Mechanics/CLI/spells/mage-armor-xphb.md) (self only), [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
+      \n**1/day each:** [burning hands](3-Mechanics/CLI/spells/burning-hands-xphb.md),\
+      \ [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The xvart takes the [Disengage](3-Mechanics/CLI/rules/actions.md#Disengage)\
@@ -82,7 +83,7 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/xvart-warlock-of-raxivort-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Xvart%20Warlock%20of%20Raxivort.webp"
 ```
 ^statblock
 

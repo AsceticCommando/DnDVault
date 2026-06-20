@@ -22,6 +22,6 @@ When you use a Metamagic option on a spell while you are holding or wearing the 
 
 ## Property
 
-You create a wave of water that bursts out from you in a 10-foot radius. Each creature of your choice that you can see in that area takes `2d6` cold damage and must succeed on a Strength saving throw against your spell save DC or be pushed 10 feet away from you and fall [prone](3-Mechanics/CLI/rules/conditions.md#Prone).
+You create a wave of water that bursts out from you in a 10-foot radius. Each creature of your choice that you can see in that area takes `dice:2d6|noform|noparens|avg` (`2d6`) cold damage and must succeed on a Strength saving throw against your spell save DC or be pushed 10 feet away from you and fall [prone](3-Mechanics/CLI/rules/conditions.md#Prone).
 
 *Source: Tasha's Cauldron of Everything p. 127*

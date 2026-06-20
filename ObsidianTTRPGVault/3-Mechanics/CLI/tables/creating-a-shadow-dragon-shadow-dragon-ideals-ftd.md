@@ -12,6 +12,8 @@ aliases:
 
 **Shadow Dragon Ideals**
 
+`dice: [](creating-a-shadow-dragon-shadow-dragon-ideals-ftd.md#^shadow-dragon-ideals)`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Merciless. Life doesn't offer second chances, and neither do I. (Lawful) |

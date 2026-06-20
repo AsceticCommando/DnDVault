@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Ayik Ur (10th Level)"
 ---
-# [Ayik Ur (10th Level)](3-Mechanics\CLI\bestiary\npc/ayik-ur-10th-level-dsotdq.md)
+# [Ayik Ur (10th Level)](3-Mechanics/CLI/bestiary/npc/ayik-ur-10th-level-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 211*  
 
 ```statblock
@@ -22,8 +22,8 @@ aliases:
 "subtype": "human"
 "alignment": "Neutral Good"
 "ac": !!int "18"
-"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor.md), improved\
-  \ defense"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md),\
+  \ improved defense"
 "hp": !!int "60"
 "hit_dice": "11d8 + 11"
 "modifier": !!int "5"
@@ -49,8 +49,8 @@ aliases:
   - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+5"
 "gear":
-  - "[longbow](3-Mechanics/CLI/items/longbow.md)"
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[longbow](3-Mechanics/CLI/items/longbow-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "passive Perception 19"
 "languages": "Common"
 "traits":

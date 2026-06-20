@@ -12,6 +12,8 @@ aliases:
 
 **Dark Fantasy Adventure Sites**
 
+`dice: [](dark-fantasy-adventure-sites-vrgr.md#^dark-fantasy-adventure-sites)`
+
 | dice: d8 | Adventure Site |
 |----------|----------------|
 | 1 | An expanding labyrinth that grows to protect the evil imprisoned at its heart |

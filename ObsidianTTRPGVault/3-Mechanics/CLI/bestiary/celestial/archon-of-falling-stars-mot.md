@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Archon of Falling Stars"
 ---
-# [Archon of Falling Stars](3-Mechanics\CLI\bestiary\celestial/archon-of-falling-stars-mot.md)
+# [Archon of Falling Stars](3-Mechanics/CLI/bestiary/celestial/archon-of-falling-stars-mot.md)
 *Source: Mythic Odysseys of Theros p. 212*  
 
 The epic accounting of the world's earliest histories called *The Cosmogony* recounts the battle between a group of the gods' champions and a mighty archon, which took place at the mysterious eastern edge of the world. Defeated, the falling archon is said to have met the rising sun. But Heliod showed mercy to the penitent archon, who swore to uphold justice and righteousness in the world's wildest places. As a sign of his mercy, Heliod gave the archon a spear that rivaled his own in its brilliance. This was the first archon of falling stars.
@@ -27,7 +27,7 @@ Even though the age of archons is long past, many wonder if the few surviving ar
 "type": "celestial"
 "alignment": "Lawful Good"
 "ac": !!int "18"
-"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor.md)"
+"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "144"
 "hit_dice": "17d8 + 68"
 "modifier": !!int "2"
@@ -63,10 +63,10 @@ Even though the age of archons is long past, many wonder if the few surviving ar
 "traits":
   - "desc": "The archon's spellcasting ability is Wisdom (spell save DC 17, +9 to\
       \ hit with spell attacks). The archon can innately cast the following spells,\
-      \ requiring no material components:\n\n**At will:** [command](3-Mechanics/CLI/spells/command.md),\
-      \ [guiding bolt](3-Mechanics/CLI/spells/guiding-bolt.md), [spare the dying](3-Mechanics/CLI/spells/spare-the-dying.md)\n\
-      \n**1/day each:** [crusader's mantle](3-Mechanics/CLI/spells/crusaders-mantle.md),\
-      \ [spirit guardians](3-Mechanics/CLI/spells/spirit-guardians.md)"
+      \ requiring no material components:\n\n**At will:** [command](3-Mechanics/CLI/spells/command-xphb.md),\
+      \ [guiding bolt](3-Mechanics/CLI/spells/guiding-bolt-xphb.md), [spare the dying](3-Mechanics/CLI/spells/spare-the-dying-xphb.md)\n\
+      \n**1/day each:** [crusader's mantle](3-Mechanics/CLI/spells/crusaders-mantle-xphb.md),\
+      \ [spirit guardians](3-Mechanics/CLI/spells/spirit-guardians-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "The archon has advantage on saving throws against spells and other magical\
       \ effects."
@@ -98,7 +98,7 @@ Even though the age of archons is long past, many wonder if the few surviving ar
   \ actions. The archon of falling stars regains all expended uses at the start of\
   \ each of its turns."
 "legendary_actions":
-  - "desc": "The archon makes a radiant spear attack or casts [guiding bolt](3-Mechanics/CLI/spells/guiding-bolt.md)."
+  - "desc": "The archon makes a radiant spear attack or casts [guiding bolt](3-Mechanics/CLI/spells/guiding-bolt-xphb.md)."
     "name": "Attack"
   - "desc": "The archon makes a radiant spear attack, and then its mount can use its\
       \ reaction to make a melee weapon attack."
@@ -111,6 +111,6 @@ Even though the age of archons is long past, many wonder if the few surviving ar
     "name": "Return to Nyx (Costs 3 Actions)"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/celestial/token/archon-of-falling-stars-mot.webp"
+"image": "file://bestiary/tokens/MOT/Archon%20of%20Falling%20Stars.webp"
 ```
 ^statblock

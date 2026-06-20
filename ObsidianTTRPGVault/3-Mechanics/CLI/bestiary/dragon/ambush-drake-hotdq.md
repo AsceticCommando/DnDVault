@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Ambush Drake"
 ---
-# [Ambush Drake](3-Mechanics\CLI\bestiary\dragon/ambush-drake-hotdq.md)
+# [Ambush Drake](3-Mechanics/CLI/bestiary/dragon/ambush-drake-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 88, Tyranny of Dragons p. 180*  
 
 ```statblock
@@ -58,6 +58,6 @@ aliases:
 "source":
   - "HotDQ"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/ambush-drake-hotdq.webp"
+"image": "file://bestiary/tokens/HotDQ/Ambush%20Drake.webp"
 ```
 ^statblock

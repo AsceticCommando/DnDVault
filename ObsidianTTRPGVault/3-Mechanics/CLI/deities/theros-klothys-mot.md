@@ -12,7 +12,7 @@ aliases:
 ---
 # Klothys
 *Source: Mythic Odysseys of Theros p. 58* 
-![](3-Mechanics/CLI/deities/img/mot-038-02-03-klothys.webp#symbol)
+![](file://deities/MOT/038-02-03-klothys.webp#symbol)
 
 - **Alignment**: Neutral
 - **Domains**: Knowledge, War
@@ -52,7 +52,7 @@ Of course, Klothys trusts no other god as much as she does Kruphix, who also rec
 
 Klothys doesn't trace her origins to mortal devotion, and she has languished in obscurity for almost the whole of human history. Unlike the other gods (except Kruphix), she doesn't need worship to sustain or empower her, and she doesn't seek out reverence or demand it. By and large, mortals are irrelevant to her, except insofar as they have played a role in tangling the strands of destiny by defying nature's order.
 
-![](3-Mechanics/CLI/deities/img/mot-039-02-11.webp#center)
+![](file://deities/MOT/039-02-11.webp#center)
 
 > [!readaloud] Myths of Klothys
 > 
@@ -90,6 +90,8 @@ Klothys hasn't had a mortal champion before. Upon emerging from the Underworld, 
 
 **Klothys's Favor**
 
+`dice: [](theros-klothys-mot.md#^klothyss-favor)`
+
 | dice: d6 | Circumstance |
 |----------|--------------|
 | 1 | Your family suffered during the rise of Xenagos, leaving you with unresolved rage. |
@@ -105,6 +107,8 @@ Klothys hasn't had a mortal champion before. Upon emerging from the Underworld, 
 To follow Klothys is to accept the natural order of the cosmos and your place in it. It means accepting your destiny even as you strive against the bonds of fate. As a follower of Klothys, consider the ideals on the Klothys's Ideals table as alternatives to those suggested for your background.
 
 **Klothys's Ideals**
+
+`dice: [](theros-klothys-mot.md#^klothyss-ideals)`
 
 | dice: d6 | Ideal |
 |----------|-------|

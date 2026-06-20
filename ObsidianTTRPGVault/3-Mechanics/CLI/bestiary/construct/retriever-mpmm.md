@@ -15,7 +15,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Retriever"
 ---
-# [Retriever](3-Mechanics\CLI\bestiary\construct/retriever-mpmm.md)
+# [Retriever](3-Mechanics/CLI/bestiary/construct/retriever-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 209, Mordenkainen's Tome of Foes p. 222*  
 
 The retriever is a potent, spider-like Construct conceived and built by Underdark followers of Lolth for one original purpose—to prowl the Abyss and capture demons for these cultists to enslave or use in their rituals. The automatons proved so effective and so fearsome that they now perform many different missions.
@@ -87,14 +87,14 @@ Though retrievers were created to operate only in the Abyss, they are sometimes 
     "name": "Paralyzing Beam (Recharge 5-6)"
   - "desc": "The retriever casts one of the following spells, requiring no material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 13):\n\
-      \n**3/day each:** [plane shift](3-Mechanics/CLI/spells/plane-shift.md) (only\
-      \ self and up to one incapacitated creature, which is considered willing for\
-      \ the spell), [web](3-Mechanics/CLI/spells/web.md)"
+      \n**3/day each:** [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md)\
+      \ (only self and up to one incapacitated creature, which is considered willing\
+      \ for the spell), [web](3-Mechanics/CLI/spells/web-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/construct/token/retriever-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Retriever.webp"
 ```
 ^statblock
 

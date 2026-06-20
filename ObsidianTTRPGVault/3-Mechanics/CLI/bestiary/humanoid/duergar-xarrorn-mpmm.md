@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Duergar Xarrorn"
 ---
-# [Duergar Xarrorn](3-Mechanics\CLI\bestiary\humanoid/duergar-xarrorn-mpmm.md)
+# [Duergar Xarrorn](3-Mechanics/CLI/bestiary/humanoid/duergar-xarrorn-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 111, Mordenkainen's Tome of Foes p. 193*  
 
 Xarrorn are specialists who construct weapons using a mixture of alchemy and psionics.
@@ -46,7 +46,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "subtype": "dwarf"
 "alignment": "Any alignment"
 "ac": !!int "18"
-"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor.md)"
+"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "26"
 "hit_dice": "4d8 + 8"
 "modifier": !!int "0"
@@ -100,7 +100,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/duergar-xarrorn-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Duergar%20Xarrorn.webp"
 ```
 ^statblock
 

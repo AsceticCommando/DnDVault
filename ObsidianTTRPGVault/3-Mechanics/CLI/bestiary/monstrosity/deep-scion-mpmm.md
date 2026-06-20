@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Deep Scion"
 ---
-# [Deep Scion](3-Mechanics\CLI\bestiary\monstrosity/deep-scion-mpmm.md)
+# [Deep Scion](3-Mechanics/CLI/bestiary/monstrosity/deep-scion-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 88, Volo's Guide to Monsters p. 135*  
 
 Deep scions began life as people who were stolen from shore or saved from sinking ships and offered a terrible bargain by an undersea power: surrender, body and soul, or drown. Those who submit are subjected to an ancient ritual widespread among evil aquatic creatures. Its methods are painful and the result never certain, but when it works, the magic transforms an air-breathing person into a shapeshifter that can take on an aquatic form.
@@ -53,7 +53,7 @@ The training to which a deep scion is subjected rids it of empathy for those the
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+3"
 "gear":
-  - "[battleaxe](3-Mechanics/CLI/items/battleaxe.md)"
+  - "[battleaxe](3-Mechanics/CLI/items/battleaxe-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
   \ Perception 11"
 "languages": "Aquan, Common, thieves' cant"
@@ -90,7 +90,7 @@ The training to which a deep scion is subjected rids it of empathy for those the
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/deep-scion-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Deep%20Scion.webp"
 ```
 ^statblock
 

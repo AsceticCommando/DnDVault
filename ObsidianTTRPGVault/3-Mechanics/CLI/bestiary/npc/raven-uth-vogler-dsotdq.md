@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Raven Uth Vogler"
 ---
-# [Raven Uth Vogler](3-Mechanics\CLI\bestiary\npc/raven-uth-vogler-dsotdq.md)
+# [Raven Uth Vogler](3-Mechanics/CLI/bestiary/npc/raven-uth-vogler-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 53*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "human"
 "alignment": "Neutral Good"
 "ac": !!int "13"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "16"
 "hit_dice": "3d8 + 3"
 "modifier": !!int "2"
@@ -44,8 +44,8 @@ aliases:
   - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+5"
 "gear":
-  - "[longbow](3-Mechanics/CLI/items/longbow.md)"
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[longbow](3-Mechanics/CLI/items/longbow-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "passive Perception 15"
 "languages": "any one language (usually Common)"
 "cr": "1/2"
@@ -64,6 +64,6 @@ aliases:
     "name": "Longbow"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/npc/token/raven-uth-vogler-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Raven%20Uth%20Vogler.webp"
 ```
 ^statblock

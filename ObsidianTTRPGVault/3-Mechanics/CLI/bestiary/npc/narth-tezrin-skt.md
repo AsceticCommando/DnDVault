@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Narth Tezrin"
 ---
-# [Narth Tezrin](3-Mechanics\CLI\bestiary\npc/narth-tezrin-skt.md)
+# [Narth Tezrin](3-Mechanics/CLI/bestiary/npc/narth-tezrin-skt.md)
 *Source: Storm King's Thunder p. 254*  
 
 Narth sells gear to adventurers, and he also has an adventurous spirit. The Lionshield Coster pays him well, but he longs to make a name for himself. At the same time, he runs a business with his partner Alaestra and knows she wouldn't forgive him if he ran off and never returned.
@@ -51,8 +51,8 @@ Flaw:"I'll risk life and limb to become a legend."
   - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+5"
 "gear":
-  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow.md)"
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "passive Perception 16"
 "languages": "Common, Dwarvish"
 "traits":
@@ -77,6 +77,6 @@ Flaw:"I'll risk life and limb to become a legend."
     "name": "Hand Crossbow"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/narth-tezrin-skt.webp"
+"image": "file://bestiary/tokens/SKT/Narth%20Tezrin.webp"
 ```
 ^statblock

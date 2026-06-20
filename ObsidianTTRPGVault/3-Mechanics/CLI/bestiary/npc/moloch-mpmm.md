@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Moloch"
 ---
-# [Moloch](3-Mechanics\CLI\bestiary\npc/moloch-mpmm.md)
+# [Moloch](3-Mechanics/CLI/bestiary/npc/moloch-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 183, Mordenkainen's Tome of Foes p. 177*  
 
 > [!quote] A quote from Mordenkainen  
@@ -25,7 +25,7 @@ For eons, Moloch ruled his domain, vying against the other archdevils as he soug
 
 Moloch wasted no time in preparing for his return. He amassed an army of devils and monsters and left them to make final preparations for invading the Nine Hells, while he ventured to the Material Plane in search of an artifact that would ensure his success. But while there, he became trapped, leaving his armies at the mercy of his enemies. They were destroyed in short order.
 
-Moloch was rendered nearly powerless by this failure. He schemes of ways to reclaim his former status, but every time he enters the Nine Hells, he is demoted to an [imp](3-Mechanics/CLI/bestiary/fiend/imp.md) and can't regain his normal powers until he leaves. Thus, he lives a split existence, sometimes plotting in Malbolge or other layers of the Hells and at other times wandering the planes in search of magical might or secrets that might help him win back his title.
+Moloch was rendered nearly powerless by this failure. He schemes of ways to reclaim his former status, but every time he enters the Nine Hells, he is demoted to an [imp](3-Mechanics/CLI/bestiary/fiend/imp-xmm.md) and can't regain his normal powers until he leaves. Thus, he lives a split existence, sometimes plotting in Malbolge or other layers of the Hells and at other times wandering the planes in search of magical might or secrets that might help him win back his title.
 
 Rumors suggest that he can often be found in Sigil, where he bargains with yugoloths to build yet another army with which he might invade Malbolge and wrest the throne from Glasya. Bereft as he is, he has little to offer in exchange, so he might bargain with mortals to gain their aid in acquiring coin, jewels, and other riches in return for knowledge about the Nine Hells and the other planes.
 
@@ -113,11 +113,11 @@ Most of Moloch's cultists have switched allegiance to one of the other archdevil
     "name": "Teleport"
   - "desc": "Moloch casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 21):\n\n**At\
-      \ will:** [alter self](3-Mechanics/CLI/spells/alter-self.md) (can become Medium\
-      \ when changing his appearance), [confusion](3-Mechanics/CLI/spells/confusion.md),\
-      \ [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [fly](3-Mechanics/CLI/spells/fly.md),\
-      \ [major image](3-Mechanics/CLI/spells/major-image.md), [stinking cloud](3-Mechanics/CLI/spells/stinking-cloud.md),\
-      \ [suggestion](3-Mechanics/CLI/spells/suggestion.md), [wall of fire](3-Mechanics/CLI/spells/wall-of-fire.md)"
+      \ will:** [alter self](3-Mechanics/CLI/spells/alter-self-xphb.md) (can become\
+      \ Medium when changing his appearance), [confusion](3-Mechanics/CLI/spells/confusion-xphb.md),\
+      \ [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [fly](3-Mechanics/CLI/spells/fly-xphb.md),\
+      \ [major image](3-Mechanics/CLI/spells/major-image-xphb.md), [stinking cloud](3-Mechanics/CLI/spells/stinking-cloud-xphb.md),\
+      \ [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md), [wall of fire](3-Mechanics/CLI/spells/wall-of-fire-xphb.md)"
     "name": "Spellcasting"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, Moloch can expend a use to take one of the following actions. Moloch regains\
@@ -132,6 +132,6 @@ Most of Moloch's cultists have switched allegiance to one of the other archdevil
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/npc/token/moloch-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Moloch.webp"
 ```
 ^statblock

@@ -11,7 +11,7 @@ aliases:
 ---
 # Helm of Disjunction
 *Wondrous item, legendary (requires attunement by a sorcerer)*  
-![](3-Mechanics/CLI/items/img/helm-of-disjunction.webp#right)
+![](file://items/HAT-LMI/Helm%20of%20Disjunction.webp#right)
 
 
 The wizard Mordenkainen crafted this sleek, golden helmet. If he created other helms of disjunction, they have yet to be found.
@@ -30,6 +30,6 @@ Any ongoing spell ends if the creature, object, or area affected by it is even p
 
 The antimagic pulse is strong enough to knock down creatures close to you. Each creature within 30 feet of you must succeed on a DC 15 Strength saving throw or have the [prone](3-Mechanics/CLI/rules/conditions.md#Prone) condition.
 
-Once you use the helm's property, it can't be used again until `1d4` days have passed.
+Once you use the helm's property, it can't be used again until `dice:1d4|noform|noparens|avg` (`1d4`) days have passed.
 
 *Source: Honor Among Thieves: Legendary Magic Items*

@@ -68,12 +68,12 @@ aliases:
 ---
 # Hellfire Weapon
 *Uncommon*  
-![](3-Mechanics/CLI/items/img/hellfire-weapon.webp#right)
+![](file://items/BGDIA/Hellfire%20Weapon.webp#right)
 
 
 This weapon is fashioned from infernal iron and traced with veins of hellfire that shed dim light in a 5-foot-radius.
 
-Any humanoid killed by an attack made with this weapon has its soul funneled into the River Styx, where it's reborn instantly as a [lemure](3-Mechanics/CLI/bestiary/fiend/lemure.md) devil.
+Any humanoid killed by an attack made with this weapon has its soul funneled into the River Styx, where it's reborn instantly as a [lemure](3-Mechanics/CLI/bestiary/fiend/lemure-xmm.md) devil.
 
 **Variants**:
 - [Hellfire Antimatter Rifle](#Hellfire%20Antimatter%20Rifle)

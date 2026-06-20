@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Othovir"
 ---
-# [Othovir](3-Mechanics\CLI\bestiary\npc/othovir-skt.md)
+# [Othovir](3-Mechanics/CLI/bestiary/npc/othovir-skt.md)
 *Source: Storm King's Thunder p. 255*  
 
 Othovir is a gifted harness-maker who doesn't talk about his family or where he came from. He cares about his business, his clients, and his good name.
@@ -30,7 +30,7 @@ Flaw:"I get angry when others pry into my private life."
 "subtype": "Illuskan human"
 "alignment": "Lawful Neutral"
 "ac": !!int "10"
-"ac_class": "13 with [mage armor](3-Mechanics/CLI/spells/mage-armor.md)"
+"ac_class": "13 with [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
 "hp": !!int "16"
 "hit_dice": "3d8 + 3"
 "modifier": !!int "0"
@@ -50,7 +50,7 @@ Flaw:"I get angry when others pry into my private life."
   - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+5"
 "gear":
-  - "[rapier](3-Mechanics/CLI/items/rapier.md)"
+  - "[rapier](3-Mechanics/CLI/items/rapier-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Common, Elvish"
 "traits":
@@ -66,9 +66,10 @@ Flaw:"I get angry when others pry into my private life."
     "name": "Rapier"
   - "desc": "Othovir casts one of the following spells, using Charisma as the spellcasting\
       \ ability (spell save DC 13; +5 to hit with spell attacks):\n\n**At will:**\
-      \ [fire bolt](3-Mechanics/CLI/spells/fire-bolt.md) (1d10 fire damage), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md)\n\
-      \n**1/day each:** [mage armor](3-Mechanics/CLI/spells/mage-armor.md), [thunderwave](3-Mechanics/CLI/spells/thunderwave.md),\
-      \ [witch bolt](3-Mechanics/CLI/spells/witch-bolt.md)"
+      \ [fire bolt](3-Mechanics/CLI/spells/fire-bolt-xphb.md) (1d10 fire damage),\
+      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n**1/day\
+      \ each:** [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md), [thunderwave](3-Mechanics/CLI/spells/thunderwave-xphb.md),\
+      \ [witch bolt](3-Mechanics/CLI/spells/witch-bolt-xphb.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "Othovir adds 2 to its AC against one melee attack that would hit him.\
@@ -76,6 +77,6 @@ Flaw:"I get angry when others pry into my private life."
     "name": "Parry"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/othovir-skt.webp"
+"image": "file://bestiary/tokens/SKT/Othovir.webp"
 ```
 ^statblock

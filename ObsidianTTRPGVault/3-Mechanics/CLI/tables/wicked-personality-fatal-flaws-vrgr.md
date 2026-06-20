@@ -12,6 +12,8 @@ aliases:
 
 **Fatal Flaws**
 
+`dice: [](wicked-personality-fatal-flaws-vrgr.md#^fatal-flaws)`
+
 | dice: d10 | Flaw |
 |-----------|------|
 | 1 | Once someone questions me, I won't stop until I befriend them and then betray them. |

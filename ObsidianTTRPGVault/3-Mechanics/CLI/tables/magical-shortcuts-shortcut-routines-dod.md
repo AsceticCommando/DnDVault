@@ -12,13 +12,15 @@ aliases:
 
 **Shortcut Routines**
 
+`dice: [](magical-shortcuts-shortcut-routines-dod.md#^shortcut-routines)`
+
 | dice: d8 | Routine |
 |----------|---------|
 | 1 | Picking petals from a flower while walking toward a beckoning sunset |
-| 2 | Playing "Ode to the Summer Queen" on a [lute](3-Mechanics/CLI/items/lute.md) while skipping counterclockwise around a tree |
+| 2 | Playing "Ode to the Summer Queen" on a [lute](3-Mechanics/CLI/items/lute-xphb.md) while skipping counterclockwise around a tree |
 | 3 | Eating a mushroom while gazing at one's own reflection in a clear pool or stream of water |
 | 4 | Doing a headstand in a ring of stones |
-| 5 | Staring at firelight while playing a [flute](3-Mechanics/CLI/items/flute.md) or singing about a fond memory |
+| 5 | Staring at firelight while playing a [flute](3-Mechanics/CLI/items/flute-xphb.md) or singing about a fond memory |
 | 6 | Sitting by a creek while lost in childlike wonder |
 | 7 | Whistling a tune while walking backward |
 | 8 | Holding hands and dancing around a tree at twilight |

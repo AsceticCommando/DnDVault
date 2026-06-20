@@ -16,7 +16,7 @@ aliases:
 > 
 > Heliod joined with Nylea, God of the Hunt, who cast vines beneath the hydra's body to ease its harsh entrance into the world. The hydra materialized in the valley and was momentarily stunned into stillness. Though much diminished in size, the hydra could still destroy every human city unless it was immediately contained. Together the gods trapped the hydra inside a cavern deep under the Nessian Forest.
 
-![Arasta of the Endless Web ...](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/149-06-01.webp#center "Arasta of the Endless Web exacts her undying revenge upon two more champions of the gods")
+![Arasta of the Endless Web exacts her undying revenge upon two more champions of the gods](file://book/MOT/149-06-01.webp#center)
 
 This chapter provides stat blocks for a variety of creatures unique to Theros, including mythic monsters—legendary beings intended to serve as peerless threats. It also includes lore relevant to monsters from the "Monster Manual" that appear on Theros.
 
@@ -46,7 +46,7 @@ This section explores Theros's most noteworthy monstrous myths and curiosities u
 
 Legends told among the worshipers of Pharika describe how the god hid a treasure trove of secrets in basilisk blood, inspiring her followers to seek ways to reveal the truths hidden among organs and scales. Healers dilute the blood to use in potions, and oracles employ it in divination rituals.
 
-[Basilisks](3-Mechanics/CLI/bestiary/monstrosity/basilisk.md) on Theros have only four legs but are statistically identical to the monster described in the "Monster Manual".
+[Basilisks](3-Mechanics/CLI/bestiary/monstrosity/basilisk-xmm.md) on Theros have only four legs but are statistically identical to the monster described in the "Monster Manual".
 
 ### Catoblepas
 
@@ -60,7 +60,7 @@ The human polis of Akros maintains an outpost in the Katachthon Mountains to kee
 
 Similarly, cyclopes who prey on sheep learn never to eat the shepherd. Like the pit of a fruit, a discarded shepherd will eventually "grow" a new flock to feed the cyclopes.
 
-![Cyclopes would rather stea...](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/150-06-02.webp#center "Cyclopes would rather steal the bounty of smaller beings than toil themselves")
+![Cyclopes would rather steal the bounty of smaller beings than toil themselves](file://book/MOT/150-06-02.webp#center)
 
 ### Dragon
 
@@ -86,7 +86,7 @@ Krakens number among the most terrifying denizens of the sea, their wrath capabl
 
 The largest and most devastating krakens, nadir krakens, dwell in the deepest ocean trenches. These krakens are unique beings, of which the terrifying [Tromokratis](3-Mechanics/CLI/bestiary/npc/tromokratis-mot.md) (described in the ""Mythic Monsters"" section of this chapter) numbers among the most feared. When a nadir kraken breaks free of its sea lock and rises to the surface, continents are redrawn, civilizations collapse, and eras end.
 
-![Unleashed from the darkest...](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/151-06-03.webp#center "Unleashed from the darkest ocean depths, each nadir kraken is a unique aquatic nightmare")
+![Unleashed from the darkest ocean depths, each nadir kraken is a unique aquatic nightmare](file://book/MOT/151-06-03.webp#center)
 
 ### Lamia
 
@@ -100,7 +100,7 @@ The medusas of Theros differ from those in the "Monster Manual" in that they hav
 
 #### Constrict
 
-*Melee Weapon Attack:* `+3` to hit, reach 10 ft., one target. *Hit:* 7 (`2d6`) bludgeoning damage, and the target is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 11) if it is a Large or smaller creature. Until this grapple ends, the target is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained), and the [medusa](3-Mechanics/CLI/bestiary/monstrosity/medusa-mot.md) can't constrict another target.
+*Melee Weapon Attack:* `dice:1d20+3|noform|noparens|text(+3)` to hit, reach 10 ft., one target. *Hit:* `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) bludgeoning damage, and the target is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 11) if it is a Large or smaller creature. Until this grapple ends, the target is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained), and the [medusa](3-Mechanics/CLI/bestiary/monstrosity/medusa-mot.md) can't constrict another target.
 
 - **Multiattack.** The [medusa](3-Mechanics/CLI/bestiary/monstrosity/medusa-mot.md) makes either three melee attacks—one with its snake hair, one to constrict, and one with its shortsword—or two ranged attacks with its longbow.  
 
@@ -110,7 +110,7 @@ Night hags on Theros appear as leathery-faced crones that hold their single eye 
 
 A night hag senses the world around her with sensitive fingers, keen hearing, and the single eye she typically holds in her mouth. When a night hag uses her powers to transform, her eye often becomes a bauble or piece of jewelry she keeps close at all times.
 
-![From the foulest reaches o...](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/152-06-04.webp#center "From the foulest reaches of the Underworld, night hags invade the dreams of mortals")
+![From the foulest reaches of the Underworld, night hags invade the dreams of mortals](file://book/MOT/152-06-04.webp#center)
 
 ### Sphinx
 
@@ -130,7 +130,7 @@ A sphinx might ask riddles to explore the cleverness, thought processes, and hum
 
 Throughout history, the wise and ancient androsphinx Medomai has appeared in Meletis during moments of historical import, such as religious ceremonies, coronations, and the onset of wars. For decades, he has brought his cryptic knowledge of future events to the people, but since his predictions tend to be dire, his arrival is generally viewed as a bad omen.
 
-![Although they possess grea...](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/153-06-05.webp#center "Although they possess great wisdom, sphinxes won't share their secrets with just anyone")
+![Although they possess great wisdom, sphinxes won't share their secrets with just anyone](file://book/MOT/153-06-05.webp#center)
 
 ### Unicorn
 
@@ -143,7 +143,7 @@ The following pages include descriptions and stat blocks for inhabitants of Ther
 - [Abhorrent Overlord](3-Mechanics/CLI/bestiary/fiend/abhorrent-overlord-mot.md)  
 - [Akroan Hoplite](3-Mechanics/CLI/bestiary/humanoid/akroan-hoplite-mot.md)  
 - [Alseid](3-Mechanics/CLI/bestiary/fey/alseid-mot.md)  
-- Amphisbaena  
+- [Amphisbaena](3-Mechanics/CLI/bestiary/monstrosity/amphisbaena-gos.md)  
 - [Anvilwrought Raptor](3-Mechanics/CLI/bestiary/construct/anvilwrought-raptor-mot.md)  
 - [Aphemia](3-Mechanics/CLI/bestiary/monstrosity/aphemia-mot.md)  
 - [Archon of Falling Stars](3-Mechanics/CLI/bestiary/celestial/archon-of-falling-stars-mot.md)  
@@ -194,7 +194,7 @@ This section describes three of Theros's most infamous terrors, beings whose mig
 
 Mythic traits transform battles into truly legendary confrontations, well suited to the climactic battles at the ends of adventures or whole campaigns. Mythic traits are optional; they don't need to be used during combat with these monsters. If you so choose, you may simply ignore a monster's mythic trait and mythic actions. If you wish to increase a battle's stakes, though, using a monster's mythic trait results in some mid-battle twist that changes the way the monster behaves, restores its resources, or provides it with new actions to use. As a result, the battle becomes deadlier and rages on for longer than most combat encounters. Each monster features an "As a Mythic Encounter" section that highlights its mythic trait, notes how using it changes the difficulty of the encounter and the rewards, and includes read-aloud text you can use mid-battle to signal a terrifying shift in the conflict.
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/190-06-32.webp#center)
+![](file://book/MOT/190-06-32.webp#center)
 
 ### Arasta of the Endless Web
 
@@ -215,16 +215,16 @@ But those who enter her domain unbidden almost never go unnoticed, for [Arasta](
 - **Lair Actions.** On initiative count 20 (losing initiative ties), [Arasta](3-Mechanics/CLI/bestiary/npc/arasta-mot.md) can take a lair action to cause one of the following effects. She can't use the same effect two rounds in a row.  
 
 - [Arasta](3-Mechanics/CLI/bestiary/npc/arasta-mot.md) learns about any creature touching her webs. Each creature [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) by a web or [Arasta](3-Mechanics/CLI/bestiary/npc/arasta-mot.md)'s Web of Hair must make a DC 21 Intelligence saving throw. On a failed save, [Arasta](3-Mechanics/CLI/bestiary/npc/arasta-mot.md) gains knowledge of a creature's name, race, where they consider home, and what brought them to her web.  
-- [Arasta](3-Mechanics/CLI/bestiary/npc/arasta-mot.md) casts the [giant insect](3-Mechanics/CLI/spells/giant-insect.md) spell (spiders only). It lasts until she uses this lair action again or until she dies.  
+- [Arasta](3-Mechanics/CLI/bestiary/npc/arasta-mot.md) casts the [giant insect](3-Mechanics/CLI/spells/giant-insect-xphb.md) spell (spiders only). It lasts until she uses this lair action again or until she dies.  
 
 - **Regional Effects.** The region containing [Arasta](3-Mechanics/CLI/bestiary/npc/arasta-mot.md)'s lair is warped by her presence, which creates one or more of the following effects:  
 
 - Spiders and insects within 1 mile of [Arasta](3-Mechanics/CLI/bestiary/npc/arasta-mot.md)'s lair serve as her eyes and ears. Birds and other flying creatures are absent from the skies and occasionally found trapped in webs.  
 - Within 1 mile of [Arasta](3-Mechanics/CLI/bestiary/npc/arasta-mot.md)'s lair, webs fill all 10-foot cubes of open space, so long as the webs can be anchored between two solid masses (such as walls or trees). The webs are flammable. Any webs exposed to fire burn away in 1 round. Any destroyed webs are magically repaired at the next dawn.  
 
-If [Arasta](3-Mechanics/CLI/bestiary/npc/arasta-mot.md) dies, the spiders and insects lose their supernatural link to her. The webs remain, but they dissolve within `1d10` days.
+If [Arasta](3-Mechanics/CLI/bestiary/npc/arasta-mot.md) dies, the spiders and insects lose their supernatural link to her. The webs remain, but they dissolve within `dice:1d10|noform|noparens|avg` (`1d10`) days.
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/191-06-33.webp#center)
+![](file://book/MOT/191-06-33.webp#center)
 
 #### Arasta as a Mythic Encounter
 
@@ -241,7 +241,7 @@ Fighting [Arasta](3-Mechanics/CLI/bestiary/npc/arasta-mot.md) as a mythic encoun
 
 ### Hythonia the Cruel
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/192-06-34.webp#center)
+![](file://book/MOT/192-06-34.webp#center)
 
 Theros's reclusive medusas often delight in collecting and expanding their galleries of [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified) victims. Unlike other medusas, [Hythonia](3-Mechanics/CLI/bestiary/npc/hythonia-mot.md) isn't merely a collector; she's an artist.
 
@@ -256,8 +256,8 @@ While the [medusa](3-Mechanics/CLI/bestiary/monstrosity/medusa-mot.md)'s victims
 - **Island of Potent Magic.** Although Skathos's location remains a mystery, stories tell of the island's magical plants and [Hythonia](3-Mechanics/CLI/bestiary/npc/hythonia-mot.md)'s various treasures. [Hythonia](3-Mechanics/CLI/bestiary/npc/hythonia-mot.md) encourages such rumors by letting lone survivors escape her realm, letting the ravings of survivors tempt more playthings into her clutches.  
 - **Lair Actions.** On initiative count 20 (losing initiative ties), [Hythonia](3-Mechanics/CLI/bestiary/npc/hythonia-mot.md) can take a lair action to cause one of the following effects. She can't use the same effect two rounds in a row:  
 
-- [Hythonia](3-Mechanics/CLI/bestiary/npc/hythonia-mot.md) briefly animates creatures that have been [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified) by her gaze. Each statue attacks one creature within 5 feet of it, with a +11 bonus to hit and dealing 10 (`3d6`) bludgeoning damage on a hit. If a Medium or smaller creature takes this damage, it is also [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 15).  
-- [Hythonia](3-Mechanics/CLI/bestiary/npc/hythonia-mot.md) causes spectral snakes to erupt from a point she can see within 150 feet of her. Each creature within 20 feet of that point must succeed on a DC 19 Constitution saving throw or take 5 (`2d4`) piercing damage and become [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) until the end of its next turn. While [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) in this way, the creature has disadvantage on Intelligence checks and Intelligence saving throws, and it behaves as if under the effect of the [confusion](3-Mechanics/CLI/spells/confusion.md) spell.  
+- [Hythonia](3-Mechanics/CLI/bestiary/npc/hythonia-mot.md) briefly animates creatures that have been [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified) by her gaze. Each statue attacks one creature within 5 feet of it, with a `dice:1d20+11|noform|noparens|text(+11)` bonus to hit and dealing `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) bludgeoning damage on a hit. If a Medium or smaller creature takes this damage, it is also [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 15).  
+- [Hythonia](3-Mechanics/CLI/bestiary/npc/hythonia-mot.md) causes spectral snakes to erupt from a point she can see within 150 feet of her. Each creature within 20 feet of that point must succeed on a DC 19 Constitution saving throw or take `dice:2d4|noform|noparens|avg|text(5)` (`2d4`) piercing damage and become [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) until the end of its next turn. While [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) in this way, the creature has disadvantage on Intelligence checks and Intelligence saving throws, and it behaves as if under the effect of the [confusion](3-Mechanics/CLI/spells/confusion-xphb.md) spell.  
 
 - **Regional Effects.** The region containing [Hythonia](3-Mechanics/CLI/bestiary/npc/hythonia-mot.md)'s lair is warped by her presence, which creates one or more of the following effects:  
 
@@ -265,7 +265,7 @@ While the [medusa](3-Mechanics/CLI/bestiary/monstrosity/medusa-mot.md)'s victims
 - Trees within 1 mile of the lair are petrified wood. Plants that stay within 500 feet of the lair for 1 day turn to stone.  
 - Small bodies of water within 1 mile of the lair become poisonous. A creature that drinks the water must succeed on a DC 19 Constitution saving throw or become [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) for 8 hours. An affected creature can repeat the saving throw at the end of each hour.  
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/193-06-35.webp#center)
+![](file://book/MOT/193-06-35.webp#center)
 
 #### Hythonia as a Mythic Encounter
 
@@ -282,7 +282,7 @@ Fighting [Hythonia](3-Mechanics/CLI/bestiary/npc/hythonia-mot.md) as a mythic en
 
 ### Tromokratis
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/194-06-36.webp#center)
+![](file://book/MOT/194-06-36.webp#center)
 
 Most krakens roam the seas, shattering hulls and scattering fleets, but the kraken [Tromokratis](3-Mechanics/CLI/bestiary/npc/tromokratis-mot.md) notoriously vents its wrath on coastal settlements. Whether it acts at the command of the god Thassa or to sate its own hunger, [Tromokratis](3-Mechanics/CLI/bestiary/npc/tromokratis-mot.md) numbers among the most feared threats in the sea, having no fixed lair and wandering where it will. In recent memory, the massive menace rose from the waves to topple the Pyrgnos, Meletis's great repository of scholarly knowledge. Since that day, the polis keeps a watch specifically for [Tromokratis](3-Mechanics/CLI/bestiary/npc/tromokratis-mot.md).
 

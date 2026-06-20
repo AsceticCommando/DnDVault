@@ -12,8 +12,8 @@ aliases:
 - "Greater Silver Sword"
 ---
 # Greater Silver Sword
-*Weapon ([greatsword](3-Mechanics/CLI/items/greatsword.md)), legendary (requires attunement by a creature that has psionic ability)*  
-![](3-Mechanics/CLI/items/img/greater-silver-sword.webp#right)
+*Weapon ([greatsword](3-Mechanics/CLI/items/greatsword-xphb.md)), legendary (requires attunement by a creature that has psionic ability)*  
+![](file://items/MTF/Greater%20Silver%20Sword.webp#right)
 
 - **Damage**: 2d6 slashing
 - **Properties**: [Heavy](3-Mechanics/CLI/rules/item-properties.md#Heavy), [Two-Handed](3-Mechanics/CLI/rules/item-properties.md#Two-Handed)

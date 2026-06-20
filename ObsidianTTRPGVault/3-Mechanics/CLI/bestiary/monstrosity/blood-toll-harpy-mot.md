@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Blood-Toll Harpy"
 ---
-# [Blood-Toll Harpy](3-Mechanics\CLI\bestiary\monstrosity/blood-toll-harpy-mot.md)
+# [Blood-Toll Harpy](3-Mechanics/CLI/bestiary/monstrosity/blood-toll-harpy-mot.md)
 *Source: Mythic Odysseys of Theros p. 227*  
 
 Murderous gangs of harpies collect in grim places across Theros, preying on any who pass by. Many merchants face regular losses at the harpies' claws, common casualties often referred to as a "blood toll."
@@ -61,6 +61,6 @@ Cruel, corpse-eating creatures, harpies endlessly seek their next meal, careless
     "name": "Claws"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/blood-toll-harpy-mot.webp"
+"image": "file://bestiary/tokens/MOT/Blood-Toll%20Harpy.webp"
 ```
 ^statblock

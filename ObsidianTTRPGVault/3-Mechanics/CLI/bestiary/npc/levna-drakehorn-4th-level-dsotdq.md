@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Levna Drakehorn (4th Level)"
 ---
-# [Levna Drakehorn (4th Level)](3-Mechanics\CLI\bestiary\npc/levna-drakehorn-4th-level-dsotdq.md)
+# [Levna Drakehorn (4th Level)](3-Mechanics/CLI/bestiary/npc/levna-drakehorn-4th-level-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 213*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "human"
 "alignment": "Lawful Good"
 "ac": !!int "18"
-"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor.md)"
+"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "32"
 "hit_dice": "5d8 + 10"
 "modifier": !!int "0"
@@ -44,7 +44,7 @@ aliases:
   - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
 "gear":
-  - "[greatsword](3-Mechanics/CLI/items/greatsword.md)"
+  - "[greatsword](3-Mechanics/CLI/items/greatsword-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Common"
 "traits":

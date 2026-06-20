@@ -12,7 +12,7 @@ aliases:
 ---
 # Purphoros
 *Source: Mythic Odysseys of Theros p. 76* 
-![](3-Mechanics/CLI/deities/img/mot-050-02-03-purphoros.webp#symbol)
+![](file://deities/MOT/050-02-03-purphoros.webp#symbol)
 
 - **Alignment**: Chaotic Neutral
 - **Domains**: Forge, Knowledge
@@ -56,7 +56,7 @@ Purphoros holds dominion over everything that springs from mortal ingenuity. Mos
 
 Naturally, Purphoros is strongly associated with the forge, and nearly every smithy on Theros is a sort of ad hoc temple to him. Charms and idols of Purphoros hang from the walls in such places, intended both to inspire the artisans and protect them against accidents. Regardless of their professions, worshipers of Purphoros often light small fires in the god's honor, burning wooden crafts or drawings of their inventions to gain his favor.
 
-![](3-Mechanics/CLI/deities/img/mot-051-02-17.webp#center)
+![](file://deities/MOT/051-02-17.webp#center)
 
 > [!readaloud] Myths of Purphoros
 > 
@@ -100,6 +100,8 @@ Purphoros's mood is highly changeable, and having his favor doesn't always mean 
 
 **Purphoros's Favor**
 
+`dice: [](theros-purphoros-mot.md#^purphoross-favor)`
+
 | dice: d6 | Circumstance |
 |----------|--------------|
 | 1 | Mount Velus erupted at the moment of your birth, signifying Purphoros's blessing of the event. |
@@ -115,6 +117,8 @@ Purphoros's mood is highly changeable, and having his favor doesn't always mean 
 Purphoros encourages freedom and self-expression, so it is only natural that his champions follow him for many different reasons. As a follower of Purphoros, consider the ideals on the Purphoros's Ideals table as alternatives to those suggested for your background.
 
 **Purphoros's Ideals**
+
+`dice: [](theros-purphoros-mot.md#^purphoross-ideals)`
 
 | dice: d6 | Ideal |
 |----------|-------|

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Pig"
 ---
-# [Pig](3-Mechanics\CLI\bestiary\beast/pig-skt.md)
+# [Pig](3-Mechanics/CLI/bestiary/beast/pig-skt.md)
 *Source: Storm King's Thunder p. 143*  
 
 ```statblock
@@ -38,6 +38,6 @@ aliases:
 "cr": "0"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/beast/token/pig-skt.webp"
+"image": "file://bestiary/tokens/SKT/Pig.webp"
 ```
 ^statblock

@@ -12,6 +12,8 @@ aliases:
 
 **Current Chamber State**
 
+`dice: [](current-chamber-state.md#^current-chamber-state)`
+
 | dice: d20 | Features |
 |-----------|----------|
 | 1-3 | Rubble, ceiling partially collapsed |

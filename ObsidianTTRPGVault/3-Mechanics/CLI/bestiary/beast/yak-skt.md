@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Yak"
 ---
-# [Yak](3-Mechanics\CLI\bestiary\beast/yak-skt.md)
+# [Yak](3-Mechanics/CLI/bestiary/beast/yak-skt.md)
 *Source: Storm King's Thunder p. 172*  
 
 ```statblock
@@ -50,6 +50,6 @@ aliases:
     "name": "Hooves"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/beast/token/yak-skt.webp"
+"image": "file://bestiary/tokens/SKT/Yak.webp"
 ```
 ^statblock

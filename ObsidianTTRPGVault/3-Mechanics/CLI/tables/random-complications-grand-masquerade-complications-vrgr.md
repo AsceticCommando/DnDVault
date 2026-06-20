@@ -12,6 +12,8 @@ aliases:
 
 **Grand Masquerade Complications**
 
+`dice: [](random-complications-grand-masquerade-complications-vrgr.md#^grand-masquerade-complications)`
+
 | dice: d6 | Complication |
 |----------|--------------|
 | 1 | An angry guest with a costume identical to a character's accuses them of stealing the idea. |

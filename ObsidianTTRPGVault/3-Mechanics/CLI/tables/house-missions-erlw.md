@@ -12,6 +12,8 @@ aliases:
 
 **House Missions**
 
+`dice: [](house-missions-erlw.md#^house-missions)`
+
 | dice: d12 | House | Mission 1 | Mission 2 | Mission 3 |
 |-----------|-------|-----------|-----------|-----------|
 | 1 | Cannith | Escort a valuable shipment of goods | Track down rare materials | Advance the cause of one branch of the family at the expense of the other two |

@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Yagnoloth"
 ---
-# [Yagnoloth](3-Mechanics\CLI\bestiary\fiend/yagnoloth-mpmm.md)
+# [Yagnoloth](3-Mechanics/CLI/bestiary/fiend/yagnoloth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 268, Mordenkainen's Tome of Foes p. 252*  
 
 Anyone who would contract yugoloths for a task usually ends up dealing with a yagnoloth. Cunning negotiators, these strange Fiends handle the writing of contracts for their fellow yugoloths. Once a yagnoloth is hired, it communicates its employer's desires to the yugoloths it commands.
@@ -96,15 +96,15 @@ A yagnoloth has one arm of human size and one giant-sized arm. During negotiatio
     "name": "Teleport"
   - "desc": "The yagnoloth casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 16):\n\
-      \n**At will:** [darkness](3-Mechanics/CLI/spells/darkness.md), [detect magic](3-Mechanics/CLI/spells/detect-magic.md),\
-      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), [invisibility](3-Mechanics/CLI/spells/invisibility.md)\
-      \ (self only), [suggestion](3-Mechanics/CLI/spells/suggestion.md)\n\n**3/day:**\
-      \ [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt.md)"
+      \n**At will:** [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [detect\
+      \ magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
+      \ [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md) (self only), [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md)\n\
+      \n**3/day:** [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/yagnoloth-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Yagnoloth.webp"
 ```
 ^statblock
 

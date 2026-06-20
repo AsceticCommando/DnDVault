@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Irda Seeker"
 ---
-# [Irda Seeker](3-Mechanics\CLI\bestiary\giant/irda-seeker-mcv2dc.md)
+# [Irda Seeker](3-Mechanics/CLI/bestiary/giant/irda-seeker-mcv2dc.md)
 *Source: Monstrous Compendium Volume 2: Dragonlance Creatures p. 8*  
 
 Irda seekers are skilled spies who use their magic to disguise themselves and gather intelligence for their allies. In combat, irda seekers can momentarily cloak themselves as they dart around the battlefield.
@@ -83,6 +83,6 @@ Distantly related to oni, ogres, and other giant folk, irda have shimmering skin
     "name": "Veil Walk (Recharge 4-6)"
 "source":
   - "MCV2DC"
-"image": "3-Mechanics/CLI/bestiary/giant/token/irda-seeker-mcv2dc.webp"
+"image": "file://bestiary/tokens/MCV2DC/Irda%20Seeker.webp"
 ```
 ^statblock

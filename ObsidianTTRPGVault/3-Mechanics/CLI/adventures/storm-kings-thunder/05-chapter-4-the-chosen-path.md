@@ -10,7 +10,7 @@ aliases:
 # Chapter 4: The Chosen Path
 *Source: Storm King's Thunder, p. 121* 
 
-![](3-Mechanics/CLI/adventures/storm-kings-thunder/img/055-skt04-01.webp#center)
+![](file://adventure/SKT/055-skt04-01.webp#center)
 
 Guided by [Harshnag](3-Mechanics/CLI/bestiary/npc/harshnag-skt.md) the frost giant, the adventurers travel to the Spine of the World, scaling icy mountains to reach a temple built by the giant lords of Ostoria. Within this complex, they find the Eye of the All-Father, a chamber that the ancient giants used as an oracle. Here, the characters eventually choose a path that leads them to the storm giants of Maelstrom, who hold the key to restoring order among giants.
 
@@ -31,8 +31,8 @@ The Eye of the All-Father is an underground complex built by giants (see map 4.1
 Everything within the dungeon is built to giant scale. [Harshnag](3-Mechanics/CLI/bestiary/npc/harshnag-skt.md) is familiar with the general features and layout of the complex (except for area 9), but not its traps or current denizens.
 
 > [!gallery]
-> ![Map 4.1: Eye of the All-Father](3-Mechanics/CLI/adventures/storm-kings-thunder/img/056-skt04-eye.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/storm-kings-thunder/img/057-401.webp#gallery)
+> ![Map 4.1: Eye of the All-Father](file://adventure/SKT/056-skt04-eye.webp#gallery)
+> ![Player Version](file://adventure/SKT/057-401.webp#gallery)
 
 ### 1. Domed Entrance
 
@@ -70,7 +70,7 @@ At the back of the dome, a 40-foot-wide, 40-foot-high hallway heads into the mou
 
 If the characters haven't confronted the Uthgardt barbarians in area 4, they hear the barbarians' grunts when they reach this point. The tunnel is 40 feet wide, 40 feet tall, and level. Characters who have a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 14 or higher notice gaps in the ceiling, suggesting the presence of two hanging blocks of stone. Characters who search for traps and succeed on a DC 14 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check also notice these blocks, which constitute the temple's outer defenses.
 
-Each block is a 40-foot-tall, 40-foot-wide, 20-foot-thick slab held up by mechanisms buried in the mountainside. When the lever in area 2A is moved to the down position, the block of stone closer to the entrance (area 1) falls, sealing off the tunnel. When the lever in area 2B is moved to the down position, the inner block does the same thing. Each block takes about 6 seconds to drop to the floor, allowing time for creatures to get out of the way. Any creature that doesn't get out of the way takes 132 (`24d10`) bludgeoning damage and is knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone) and pinned underneath the block, or crushed to a pulp if the damage reduces its hit points to 0. A creature pinned under a block is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) until the block is lifted (by raising the appropriate lever). [Knock](3-Mechanics/CLI/spells/knock.md) spells and similar magic have no effect on these gigantic barricades.
+Each block is a 40-foot-tall, 40-foot-wide, 20-foot-thick slab held up by mechanisms buried in the mountainside. When the lever in area 2A is moved to the down position, the block of stone closer to the entrance (area 1) falls, sealing off the tunnel. When the lever in area 2B is moved to the down position, the inner block does the same thing. Each block takes about 6 seconds to drop to the floor, allowing time for creatures to get out of the way. Any creature that doesn't get out of the way takes `dice:24d10|noform|noparens|avg|text(132)` (`24d10`) bludgeoning damage and is knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone) and pinned underneath the block, or crushed to a pulp if the damage reduces its hit points to 0. A creature pinned under a block is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) until the block is lifted (by raising the appropriate lever). [Knock](3-Mechanics/CLI/spells/knock-xphb.md) spells and similar magic have no effect on these gigantic barricades.
 
 #### 2A. Northwest Guard Room
 
@@ -88,7 +88,7 @@ The ceiling in this hall is 60 feet high, sloping down to 40 feet as it moves to
 
 Overlooking the hall to the north and south are unguarded 20-foot-high ledges that have no railings or battlements. Giants once stood atop these ledges, ready to hurl rocks at interlopers that passed below.
 
-Five niches are carved into the back wall of each ledge. Each one holds an iron sconce that radiates a faint aura of conjuration magic under the scrutiny of a [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell. Touching a sconce with an open flame causes a spectral fire to materialize above the sconce. This flame sheds light and heat like a normal torch, and it burns until smothered. If a sconce is taken from its niche, it loses its magic forever. Lighting a sconce in this hall alerts the berserkers in area 4, who investigate.
+Five niches are carved into the back wall of each ledge. Each one holds an iron sconce that radiates a faint aura of conjuration magic under the scrutiny of a [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell. Touching a sconce with an open flame causes a spectral fire to materialize above the sconce. This flame sheds light and heat like a normal torch, and it burns until smothered. If a sconce is taken from its niche, it loses its magic forever. Lighting a sconce in this hall alerts the berserkers in area 4, who investigate.
 
 #### Barbarians at the Gate
 
@@ -96,15 +96,15 @@ As the characters cross this hall from west to east, they see the flickering lig
 
 ### 4. Giant Doors
 
-A 40-foot-long flight of steps leading east ascends 20 feet to a landing, next to which stands a pair of 30-foot-tall granite doors carved with images of giant gods locked in battle with dragons. The doors are impervious to all types of damage and coated with ice on the inside. Any Huge or larger creature with a Strength of 23 or higher can throw its weight against the doors and force them open. If [Harshnag](3-Mechanics/CLI/bestiary/npc/harshnag-skt.md) is with the party, he does exactly that if given the chance. Smaller creatures can't open the doors until the ice on the other side is chipped away or melted (see area 6). [Knock](3-Mechanics/CLI/spells/knock.md) spells and similar magic are likewise ineffective until the ice is removed.
+A 40-foot-long flight of steps leading east ascends 20 feet to a landing, next to which stands a pair of 30-foot-tall granite doors carved with images of giant gods locked in battle with dragons. The doors are impervious to all types of damage and coated with ice on the inside. Any Huge or larger creature with a Strength of 23 or higher can throw its weight against the doors and force them open. If [Harshnag](3-Mechanics/CLI/bestiary/npc/harshnag-skt.md) is with the party, he does exactly that if given the chance. Smaller creatures can't open the doors until the ice on the other side is chipped away or melted (see area 6). [Knock](3-Mechanics/CLI/spells/knock-xphb.md) spells and similar magic are likewise ineffective until the ice is removed.
 
-Pushing on the doors are six [berserkers](3-Mechanics/CLI/bestiary/humanoid/berserker.md) (CE male and female Uthgardt humans) of the Great Worm tribe. Overseeing them is Wormblod, a bloodthirsty [berserker](3-Mechanics/CLI/bestiary/humanoid/berserker.md) (CE male Uthgardt human with 90 hit points) who is also the Great Chief of the Great Worm tribe. He keeps an enslaved [white dragon wyrmling](3-Mechanics/CLI/bestiary/dragon/white-dragon-wyrmling.md) for a pet and a female [Uthgardt shaman](3-Mechanics/CLI/bestiary/humanoid/uthgardt-shaman-skt.md) (see appendix C) of the Great Worm tribe as an advisor. She carries a lit torch in one hand and has a sacred bundle slung over her back.
+Pushing on the doors are six [berserkers](3-Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) (CE male and female Uthgardt humans) of the Great Worm tribe. Overseeing them is Wormblod, a bloodthirsty [berserker](3-Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) (CE male Uthgardt human with 90 hit points) who is also the Great Chief of the Great Worm tribe. He keeps an enslaved [white dragon wyrmling](3-Mechanics/CLI/bestiary/dragon/white-dragon-wyrmling-xmm.md) for a pet and a female [Uthgardt shaman](3-Mechanics/CLI/bestiary/humanoid/uthgardt-shaman-skt.md) (see appendix C) of the Great Worm tribe as an advisor. She carries a lit torch in one hand and has a sacred bundle slung over her back.
 
 Wormblod and his barbarians have come to the Eye of the All-Father to find a missing member of their tribe (see area 9A). The chieftain is secretly hoping to use this opportunity as an excuse to plunder the temple of its treasures, but his berserkers have been unable to get through these doors. The Uthgardt and their leader are hostile toward anyone who isn't a member of their tribe, and they fight to the death. This is true even if the characters open the doors or offer to do so.
 
 #### Treasure
 
-Wormblod wears an [amulet of proof against detection and location](3-Mechanics/CLI/items/amulet-of-proof-against-detection-and-location.md). Tied to his belt is a sack containing seven 100 gp gemstones.
+Wormblod wears an [amulet of proof against detection and location](3-Mechanics/CLI/items/amulet-of-proof-against-detection-and-location-xdmg.md). Tied to his belt is a sack containing seven 100 gp gemstones.
 
 #### Development
 
@@ -112,7 +112,7 @@ If the characters kill Wormblod, they can use his severed head or one of his pos
 
 ### 5. Portcullises
 
-A heavy iron portcullis 20 feet wide by 30 feet tall, with a 30-foot-high wall above it, blocks this 60-foot-high passage. The portcullis can be lifted with a successful DC 25 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. It can also be raised with a [knock](3-Mechanics/CLI/spells/knock.md) spell or by moving an iron lever hidden in one of two secret rooms (area 5A or 5B, whichever is closer). The bars of the portcullis are ice cold to the touch and spaced far enough apart that a Small creature can squeeze between them.
+A heavy iron portcullis 20 feet wide by 30 feet tall, with a 30-foot-high wall above it, blocks this 60-foot-high passage. The portcullis can be lifted with a successful DC 25 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. It can also be raised with a [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell or by moving an iron lever hidden in one of two secret rooms (area 5A or 5B, whichever is closer). The bars of the portcullis are ice cold to the touch and spaced far enough apart that a Small creature can squeeze between them.
 
 #### 5A. Northeast Guard Room
 
@@ -140,11 +140,11 @@ The archway can be further described as follows:
 > The archway is 40 feet wide and 40 feet tall. Six different runes are carved into it, each one inlaid with mithral, and a glowing mist fills the arch. Niches in the walls on either side of it contain empty, ice-covered sconces made of iron.
 ^2a2
 
-The double doors that lead to this chamber are 30 feet tall and open into the room. The double doors leading to areas 4 and 7 are covered with a 4-inch-thick layer of ice that must be chipped away or melted before the doors can be pulled open from this side (either physically or with the aid of knock spells or a chime of opening). A [fireball](3-Mechanics/CLI/spells/fireball.md) spell produces enough heat to melt the ice on one set of doors. Otherwise, it takes a character using a weapon, a pick, or a similar tool 1 hour to chip away the ice covering one set of doors, or 1 hour to melt the ice with a torch. Multiple characters working together to remove the ice shorten the time proportionately.
+The double doors that lead to this chamber are 30 feet tall and open into the room. The double doors leading to areas 4 and 7 are covered with a 4-inch-thick layer of ice that must be chipped away or melted before the doors can be pulled open from this side (either physically or with the aid of knock spells or a chime of opening). A [fireball](3-Mechanics/CLI/spells/fireball-xphb.md) spell produces enough heat to melt the ice on one set of doors. Otherwise, it takes a character using a weapon, a pick, or a similar tool 1 hour to chip away the ice covering one set of doors, or 1 hour to melt the ice with a torch. Multiple characters working together to remove the ice shorten the time proportionately.
 
 Characters who search the temple for secret doors and succeed on a DC 20 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check find two secret doors behind the frost that covers the west wall. These slabs of stone are 40 feet tall by 20 feet wide, and each pushes open to reveal a chamber beyond (area 5A or 5B). Each secret door requires a successful DC 20 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check to open or close.
 
-The iron sconces are bolted to their niches and radiate faint auras of conjuration magic under the scrutiny of a [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell. Touching a sconce with an open flame causes a spectral fire to appear above the sconce. This flame sheds light and heat like a normal torch, and it burns until smothered. If a sconce is taken from its niche, it loses its magic forever.
+The iron sconces are bolted to their niches and radiate faint auras of conjuration magic under the scrutiny of a [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell. Touching a sconce with an open flame causes a spectral fire to appear above the sconce. This flame sheds light and heat like a normal torch, and it burns until smothered. If a sconce is taken from its niche, it loses its magic forever.
 
 #### Statues
 
@@ -168,30 +168,30 @@ Each statue has AC 20, a damage threshold of 10, and immunity to poison and psyc
 
 #### Archway and Runes
 
-![Figure 4.1: Archway Runes](3-Mechanics/CLI/adventures/storm-kings-thunder/img/058-skt04-runes.webp#center)
+![Figure 4.1: Archway Runes](file://adventure/SKT/058-skt04-runes.webp#center)
 
 Six mithral-inlaid runes empower the archway. Prying out the mithral or defacing the runes causes the archway's mist to fade away and renders the archway inoperable. The runes are arranged in an arc around the opening, as shown in figure 4.1.
 
-The six runes include a haug (hill) rune, a stein (stone) rune, an ise (frost) rune, an ild (fire) rune, a skye (cloud) rune, and an uvar (storm) rune. The characters have to figure out which rune is which through trial and error, or with the aid of magic such as the [divination](3-Mechanics/CLI/spells/divination.md) spell. A character who has proficiency in the [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana) skill can tell that the runes are magical, but not what the runes mean. [Harshnag](3-Mechanics/CLI/bestiary/npc/harshnag-skt.md) is familiar with the ise rune and can identify it; the other runes are unknown to him. [Iymrith](3-Mechanics/CLI/bestiary/npc/iymrith-skt.md), [Klauth](3-Mechanics/CLI/bestiary/npc/klauth-skt.md), [Claugiyliamatar](3-Mechanics/CLI/bestiary/npc/claugiyliamatar-skt.md), and most other ancient dragons know all of these runes by name and appearance.
+The six runes include a haug (hill) rune, a stein (stone) rune, an ise (frost) rune, an ild (fire) rune, a skye (cloud) rune, and an uvar (storm) rune. The characters have to figure out which rune is which through trial and error, or with the aid of magic such as the [divination](3-Mechanics/CLI/spells/divination-xphb.md) spell. A character who has proficiency in the [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana) skill can tell that the runes are magical, but not what the runes mean. [Harshnag](3-Mechanics/CLI/bestiary/npc/harshnag-skt.md) is familiar with the ise rune and can identify it; the other runes are unknown to him. [Iymrith](3-Mechanics/CLI/bestiary/npc/iymrith-skt.md), [Klauth](3-Mechanics/CLI/bestiary/npc/klauth-skt.md), [Claugiyliamatar](3-Mechanics/CLI/bestiary/npc/claugiyliamatar-skt.md), and most other ancient dragons know all of these runes by name and appearance.
 
-The mist in the archway dimly illuminates the temple. A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals an aura of conjuration magic around the archway, but nothing happens when something enters the mist While the archway is inactive, cold rock wall can be felt beyond the churning mist.
+The mist in the archway dimly illuminates the temple. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of conjuration magic around the archway, but nothing happens when something enters the mist While the archway is inactive, cold rock wall can be felt beyond the churning mist.
 
 The archway is a portal that connects the temple to the divine oracle (area 11), allowing instantaneous two-way travel once it is activated. To activate the portal, a giant of the hill, stone, frost, fire, cloud, or storm variety (or a creature polymorphed into one of these forms) must take a weapon from one of the statues of the six lesser giant gods and touch it to the appropriate rune on the archway. The wielder must use the weapon belonging to the god that corresponds to the wielder's physical form; for example, [Harshnag](3-Mechanics/CLI/bestiary/npc/harshnag-skt.md) (a frost giant) can activate the portal only by using Thrym's steel greataxe, and only by touching it to the ise (frost) rune. As soon as the archway activates, the weapon vanishes and reappears in the hands of the statue it came from, unless that statue has been destroyed, in which case the weapon disappears.
 
 Touching a rune with the wrong weapon triggers a spell effect, as described in the Rune Traps table. The effect also occurs when a non-giant touches a rune.
 
-When the portal activates, the glowing mist transforms into churning thunderclouds lit by flashing but harmless lightning, and creatures can see another room (area 11) beyond the clouds. The sound of rolling thunder fills the temple, loud enough to be heard throughout the complex. Any creature that steps into the archway appears in area 11. The archway remains active for 1 hour. Any creature still in area 11 when the archway becomes inactive again is trapped there unless it has some means of escape (such as a [teleport](3-Mechanics/CLI/spells/teleport.md) spell). If the portal closes, it can be reopened from the temple side.
+When the portal activates, the glowing mist transforms into churning thunderclouds lit by flashing but harmless lightning, and creatures can see another room (area 11) beyond the clouds. The sound of rolling thunder fills the temple, loud enough to be heard throughout the complex. Any creature that steps into the archway appears in area 11. The archway remains active for 1 hour. Any creature still in area 11 when the archway becomes inactive again is trapped there unless it has some means of escape (such as a [teleport](3-Mechanics/CLI/spells/teleport-xphb.md) spell). If the portal closes, it can be reopened from the temple side.
 
 #### Rune Traps
 
 | Rune | Giant Type | Spell Effect |
 |------|------------|--------------|
-| Haug | Hill | Multiple [confusion](3-Mechanics/CLI/spells/confusion.md) spells activate (save DC 15), such that each creature in the room is targeted once. |
-| Stein | Stone | Four [conjure elemental](3-Mechanics/CLI/spells/conjure-elemental.md) spells activate, causing four [earth elementals](3-Mechanics/CLI/bestiary/elemental/earth-elemental.md) to rise up from the floor—one in each quadrant of the room. They attack any other creatures they detect, but can't leave the temple's confines. They disappear when destroyed or after 1 hour. |
-| Ise | Frost | Every creature in the room is within the area of one [ice storm](3-Mechanics/CLI/spells/ice-storm.md) spell (save DC 15). |
-| Ild | Fire | A [meteor swarm](3-Mechanics/CLI/spells/meteor-swarm.md) spell activates. Every creature in the room is subject to the spell's effect (save DC 15). |
-| Skye | Cloud | A [reverse gravity](3-Mechanics/CLI/spells/reverse-gravity.md) spell activates (save DC 15), affecting the entire room. Creatures and objects that aren't anchored fall upward. The spell remains in effect for 1 minute, after which time creatures and objects on the ceiling fall back down to the floor. The giant statues and their weapons are considered anchored. |
-| Uvar | Storm | A [storm of vengeance](3-Mechanics/CLI/spells/storm-of-vengeance.md) spell activates, affecting the entire room (save DC 15). No other area is affected. The storm lasts for 10 rounds. |
+| Haug | Hill | Multiple [confusion](3-Mechanics/CLI/spells/confusion-xphb.md) spells activate (save DC 15), such that each creature in the room is targeted once. |
+| Stein | Stone | Four [conjure elemental](3-Mechanics/CLI/spells/conjure-elemental-xphb.md) spells activate, causing four [earth elementals](3-Mechanics/CLI/bestiary/elemental/earth-elemental-xmm.md) to rise up from the floor—one in each quadrant of the room. They attack any other creatures they detect, but can't leave the temple's confines. They disappear when destroyed or after 1 hour. |
+| Ise | Frost | Every creature in the room is within the area of one [ice storm](3-Mechanics/CLI/spells/ice-storm-xphb.md) spell (save DC 15). |
+| Ild | Fire | A [meteor swarm](3-Mechanics/CLI/spells/meteor-swarm-xphb.md) spell activates. Every creature in the room is subject to the spell's effect (save DC 15). |
+| Skye | Cloud | A [reverse gravity](3-Mechanics/CLI/spells/reverse-gravity-xphb.md) spell activates (save DC 15), affecting the entire room. Creatures and objects that aren't anchored fall upward. The spell remains in effect for 1 minute, after which time creatures and objects on the ceiling fall back down to the floor. The giant statues and their weapons are considered anchored. |
+| Uvar | Storm | A [storm of vengeance](3-Mechanics/CLI/spells/storm-of-vengeance-xphb.md) spell activates, affecting the entire room (save DC 15). No other area is affected. The storm lasts for 10 rounds. |
 ^rune-giant-type-spell-effect
 
 #### Development
@@ -202,9 +202,9 @@ When the portal activates, the glowing mist transforms into churning thunderclou
 
 The double doors that lead to this room are coated with ice and can't be pulled open until the ice is chipped away or melted (see area 6 for details). The room is 240 feet wide by 440 feet deep, with a 200-foot-wide alcove in the center of the east wall. Six pillars, each 20 feet in diameter and 60 feet tall, support the vaulted ceiling. The walls are lined with niches and sconces identical to the ones in areas 3 and 6.
 
-A hungry [remorhaz](3-Mechanics/CLI/bestiary/monstrosity/remorhaz.md) is curled up in the alcove until one or more party members enter the room, at which point it uncoils and rushes forward to attack.
+A hungry [remorhaz](3-Mechanics/CLI/bestiary/monstrosity/remorhaz-xmm.md) is curled up in the alcove until one or more party members enter the room, at which point it uncoils and rushes forward to attack.
 
-The room is warm, dry, and brightly lit. The source of the light and the heat is a raging fire contained within a bowl-shaped basin in the center of the chamber. Natural gas escaping through holes in the basin feeds the fire, sustaining it indefinitely. Any creature that enters the fire or starts its turn there takes 10 (`3d6`) fire damage.
+The room is warm, dry, and brightly lit. The source of the light and the heat is a raging fire contained within a bowl-shaped basin in the center of the chamber. Natural gas escaping through holes in the basin feeds the fire, sustaining it indefinitely. Any creature that enters the fire or starts its turn there takes `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) fire damage.
 
 Arranged about the fire pit are six tables carved out of granite, with matching benches, and two 9-foot-tall stone slabs stained with blood and grease. Atop the southernmost slab are neat stacks of plates and goblets made of beaten copper, all green and black with age. The stacks of plates and goblets on the northernmost slab have been knocked over, creating a mess.
 
@@ -218,26 +218,26 @@ This part of the temple contains quarters where visiting giants used to rest, wi
 
 A 60-foot-high hall stretches northward. The hall is inclined at a slight angle, so that the floor in the north end of the hall is higher than in the south end. The slope isn't so great that the frost on the floor presents a hazard. Fourteen 30-foot-tall archways spaced along the west and east walls lead to 60-foot-square chambers furnished with frost-covered stone couches that serve as beds. Some of these beds have tattered furs atop them. A fissure in the back wall of the center room on the west side leads to a network of natural tunnels (area 9).
 
-This hallway contains a magical trap, and a [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell can reveal certain clues, as described in areas 8A and 8B. The trap triggers when one or more creatures that aren't giants enter area 8B, a 40-foot-square section of the hallway. It triggers even if they fly over or move invisibly through that area. [Harshnag](3-Mechanics/CLI/bestiary/npc/harshnag-skt.md) is unaware of this trap and can't warn the party about it.
+This hallway contains a magical trap, and a [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell can reveal certain clues, as described in areas 8A and 8B. The trap triggers when one or more creatures that aren't giants enter area 8B, a 40-foot-square section of the hallway. It triggers even if they fly over or move invisibly through that area. [Harshnag](3-Mechanics/CLI/bestiary/npc/harshnag-skt.md) is unaware of this trap and can't warn the party about it.
 
-When the trap activates, walls of stone (created by [wall of stone](3-Mechanics/CLI/spells/wall-of-stone.md) spells) seal off the archways along the west and east walls. When that happens, all creatures in the hallway or the adjacent rooms must roll initiative. On initiative count 15, a 40-foot-diameter sphere of solid granite phases out of the north wall at area 8C and rolls southward down the corridor. It rolls 200 feet on each of its turns until it reaches the end of the hall. The sphere can move through creatures' spaces, and creatures can move through its space, treating it as difficult terrain. Whenever the sphere enters a creature's space or a creature enters its space while it's rolling, that creature must succeed on a DC 12 Dexterity saving throw or take 55 (`10d10`) bludgeoning damage and be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone). The sphere can't harm creatures above it.
+When the trap activates, walls of stone (created by [wall of stone](3-Mechanics/CLI/spells/wall-of-stone-xphb.md) spells) seal off the archways along the west and east walls. When that happens, all creatures in the hallway or the adjacent rooms must roll initiative. On initiative count 15, a 40-foot-diameter sphere of solid granite phases out of the north wall at area 8C and rolls southward down the corridor. It rolls 200 feet on each of its turns until it reaches the end of the hall. The sphere can move through creatures' spaces, and creatures can move through its space, treating it as difficult terrain. Whenever the sphere enters a creature's space or a creature enters its space while it's rolling, that creature must succeed on a DC 12 Dexterity saving throw or take `dice:10d10|noform|noparens|avg|text(55)` (`10d10`) bludgeoning damage and be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone). The sphere can't harm creatures above it.
 
 When the sphere reaches the south end of the hallway, the [stone giant statue](3-Mechanics/CLI/bestiary/construct/stone-giant-statue-skt.md) (area 8A) animates and uses its outstretched arms to stop the sphere before it slams into the wall around the alcove. Each round thereafter on initiative count 15, the statue moves 20 feet northward, rolling the sphere ahead of it. The statue and sphere move slowly enough that creatures can easily get out of the way. When the statue reaches the north end of the hallway, it pushes the sphere back into the wall (the sphere melds with the stone as it comes into contact with it). The statue then lumbers back toward its alcove, moving 60 feet on each of its turns. While the giant is out of its alcove, the magic trap is disabled. The trap resets when the statue returns to its alcove. The walls of stone disappear when the trap resets.
 
 #### 8A. Stone Giant Statue
 
-Standing in an alcove at the eastern end of the hall is a life-size statue of a stone giant that radiates an aura of transmutation magic under the scrutiny of a [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell. Its arms are lifted up with hands outstretched and palms facing the west end of the hall.
+Standing in an alcove at the eastern end of the hall is a life-size statue of a stone giant that radiates an aura of transmutation magic under the scrutiny of a [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell. Its arms are lifted up with hands outstretched and palms facing the west end of the hall.
 
-The [statue](3-Mechanics/CLI/bestiary/construct/stone-giant-statue-skt.md) is immobile until activated and has the statistics of a [stone golem](3-Mechanics/CLI/bestiary/construct/stone-golem.md), with the following changes:
+The [statue](3-Mechanics/CLI/bestiary/construct/stone-giant-statue-skt.md) is immobile until activated and has the statistics of a [stone golem](3-Mechanics/CLI/bestiary/construct/stone-golem-xmm.md), with the following changes:
 
-- It is Huge and has 195 (`17d12 + 85`) hit points.  
+- It is Huge and has `dice:17d12+85|noform|noparens|avg|text(195)` (`17d12 + 85`) hit points.  
 - It knows no languages and ignores communication.  
 - It lacks the Multiattack, Slam, and Slow actions.  
 - It has a challenge rating of 0 (0 XP).  
 
 #### 8B. Magical Trap
 
-A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals conjuration magic filling this 40-foot section of hallway. Successfully casting [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md) (DC 18) on the area disables the trap.
+A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals conjuration magic filling this 40-foot section of hallway. Successfully casting [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) (DC 18) on the area disables the trap.
 
 #### 8C. Stone Sphere
 
@@ -247,7 +247,7 @@ When it is fully within the wall, this 40-foot-diameter stone sphere is undetect
 
 [Harshnag](3-Mechanics/CLI/bestiary/npc/harshnag-skt.md) doesn't know about these tunnels and caves, which were formed by earth tremors and aren't part of the dungeon's original construction. In recent years, they have become a haunt for ice spiders. Ice spiders have red eyes and white fur covering their bodies, and they weave liquid webs that crystallize quickly, forming frosty sheets and icy cocoons.
 
-The tunnels are 10-foot-high, 5-foot-wide cracks in the mountain rock (too narrow for [Harshnag](3-Mechanics/CLI/bestiary/npc/harshnag-skt.md)). Due to the icy and uneven floors, the tunnels are difficult terrain. Creatures that have the Spider Climb trait (or that are under the effect of a [spider climb](3-Mechanics/CLI/spells/spider-climb.md) spell) can move through the tunnels at a normal pace. A thin layer of frost coats the walls, floor, and ceiling throughout.
+The tunnels are 10-foot-high, 5-foot-wide cracks in the mountain rock (too narrow for [Harshnag](3-Mechanics/CLI/bestiary/npc/harshnag-skt.md)). Due to the icy and uneven floors, the tunnels are difficult terrain. Creatures that have the Spider Climb trait (or that are under the effect of a [spider climb](3-Mechanics/CLI/spells/spider-climb-xphb.md) spell) can move through the tunnels at a normal pace. A thin layer of frost coats the walls, floor, and ceiling throughout.
 
 The westernmost tunnel branch opens high upon the mountainside. The slope is so steep that a creature falling from this height would tumble almost 400 feet down the mountainside before landing on any sort of ledge. Although there are abundant handholds, the slope is icy and treacherous, requiring a successful DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check to climb without gear. There is no view of the entrance (area 1) from this tunnel exit.
 
@@ -255,7 +255,7 @@ The easternmost tunnel branch opens into the back wall of a giant dormitory (are
 
 #### Tunnel Intersections
 
-The first time one or more party members reach a tunnel intersection, four [ice spiders](3-Mechanics/CLI/bestiary/beast/ice-spider-skt.md) come crawling out of the darkness and attack. Use the [giant spider](3-Mechanics/CLI/bestiary/beast/giant-spider.md) statistics, with the following changes:
+The first time one or more party members reach a tunnel intersection, four [ice spiders](3-Mechanics/CLI/bestiary/beast/ice-spider-skt.md) come crawling out of the darkness and attack. Use the [giant spider](3-Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) statistics, with the following changes:
 
 - Ice spiders have resistance to cold damage.  
 - While [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) in an [ice spider](3-Mechanics/CLI/bestiary/beast/ice-spider-skt.md)'s web, a creature takes 1 cold damage at the start of each of its turns.  
@@ -267,7 +267,7 @@ This natural cave has a 30-foot-high ceiling supported by five rocky columns. Th
 
 Although they're made of ice, the webs are sticky (like frozen metal). They use the same rules as normal webs (see the ""Dungeon Hazards"" section in chapter 5 of the *Dungeon Master's Guide*) except that they are brittle and thus lack immunity to bludgeoning damage.
 
-Characters who smash or burn their way through the webs can reach the cocoons, of which there are three. The first one contains the exsanguinated corpse of a mountain goat. The second one holds a dead shield dwarf prospector wearing a tattered fur cloak and clutching a miner's pick close to his chest. The third one contains a living Uthgardt barbarian of the Great Worm tribe named [Noori](3-Mechanics/CLI/bestiary/npc/noori-skt.md), a [berserker](3-Mechanics/CLI/bestiary/humanoid/berserker.md) with the following changes:
+Characters who smash or burn their way through the webs can reach the cocoons, of which there are three. The first one contains the exsanguinated corpse of a mountain goat. The second one holds a dead shield dwarf prospector wearing a tattered fur cloak and clutching a miner's pick close to his chest. The third one contains a living Uthgardt barbarian of the Great Worm tribe named [Noori](3-Mechanics/CLI/bestiary/npc/noori-skt.md), a [berserker](3-Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) with the following changes:
 
 - Her alignment is chaotic evil.  
 - She has 0 hit points and is [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) but stable.  
@@ -281,18 +281,18 @@ If [Noori](3-Mechanics/CLI/bestiary/npc/noori-skt.md) rejoins her tribe, she sha
 
 #### 9B. Nest
 
-This egg-shaped chamber has a flat floor, which is normal terrain. A single column supports a domed ceiling 20 feet overhead. Curtains of icy webbing stretch from the column to the walls, creating an enclosure that holds an [ice spider queen](3-Mechanics/CLI/bestiary/beast/ice-spider-queen-skt.md), a [giant spider](3-Mechanics/CLI/bestiary/beast/giant-spider.md) with the following changes:
+This egg-shaped chamber has a flat floor, which is normal terrain. A single column supports a domed ceiling 20 feet overhead. Curtains of icy webbing stretch from the column to the walls, creating an enclosure that holds an [ice spider queen](3-Mechanics/CLI/bestiary/beast/ice-spider-queen-skt.md), a [giant spider](3-Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) with the following changes:
 
 - It has 44 hit points and a challenge rating of 2 (450 XP).  
 - It has resistance to cold damage.  
-- Any creature that starts its turn within 5 feet of the queen takes 5 (`2d4`) cold damage.  
-- While [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) in the [ice spider](3-Mechanics/CLI/bestiary/beast/ice-spider-skt.md) queen's web, a creature takes 2 (`1d4`) cold damage at the start of each of its turns. [Ice spider](3-Mechanics/CLI/bestiary/beast/ice-spider-skt.md) webbing doesn't have immunity to bludgeoning damage.  
+- Any creature that starts its turn within 5 feet of the queen takes `dice:2d4|noform|noparens|avg|text(5)` (`2d4`) cold damage.  
+- While [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) in the [ice spider](3-Mechanics/CLI/bestiary/beast/ice-spider-skt.md) queen's web, a creature takes `dice:1d4|noform|noparens|avg|text(2)` (`1d4`) cold damage at the start of each of its turns. [Ice spider](3-Mechanics/CLI/bestiary/beast/ice-spider-skt.md) webbing doesn't have immunity to bludgeoning damage.  
 
-The queen sits atop a cluster of thirty-two [ice spider](3-Mechanics/CLI/bestiary/beast/ice-spider-skt.md) eggs, each one as big as a grapefruit. If the queen dies, the eggs immediately hatch, and the newborn spiders form a [swarm of insects](3-Mechanics/CLI/bestiary/beast/swarm-of-insects.md) (spiders) that acts on the queen's initiative count. The swarm has resistance to cold damage. If there are no foes for the swarm to attack, it begins devouring the corpse of its mother.
+The queen sits atop a cluster of thirty-two [ice spider](3-Mechanics/CLI/bestiary/beast/ice-spider-skt.md) eggs, each one as big as a grapefruit. If the queen dies, the eggs immediately hatch, and the newborn spiders form a [swarm of insects (spiders)](3-Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm.md) that acts on the queen's initiative count. The swarm has resistance to cold damage. If there are no foes for the swarm to attack, it begins devouring the corpse of its mother.
 
 ##### Treasure
 
-Lying next to the [ice spider](3-Mechanics/CLI/bestiary/beast/ice-spider-skt.md) eggs is a frozen [potion of climbing](3-Mechanics/CLI/items/potion-of-climbing.md) and a warhammer with a sapphire (worth 1,000 gp) set into the end of its haft. The potion must be thawed before it can be quaffed. It takes 1 minute to thaw the potion over a torch or campfire. A character can forgo the thawing process by breaking the potion flask and eating the potion in ice form.
+Lying next to the [ice spider](3-Mechanics/CLI/bestiary/beast/ice-spider-skt.md) eggs is a frozen [potion of climbing](3-Mechanics/CLI/items/potion-of-climbing-xdmg.md) and a warhammer with a sapphire (worth 1,000 gp) set into the end of its haft. The potion must be thawed before it can be quaffed. It takes 1 minute to thaw the potion over a torch or campfire. A character can forgo the thawing process by breaking the potion flask and eating the potion in ice form.
 
 ### 10. Upstairs Quarters
 
@@ -304,7 +304,7 @@ This room contains a pair of sculpted stone couches that double as beds. Frost c
 
 ##### Treasure
 
-Characters who search this room find a stitched leather sack on one of the beds. The sack has been here for months, left behind by an old and forgetful frost giant. It contains `1d4` mundane items determined by rolling on the Items in a Giant's Bag table in the introduction. The sack also contains a [shard of the ise rune](3-Mechanics/CLI/items/shard-of-the-ise-rune-skt.md) (see appendix B) and three severed, frozen dwarf heads (two male and one female). One of the heads has ten gold teeth (worth 1 gp each).
+Characters who search this room find a stitched leather sack on one of the beds. The sack has been here for months, left behind by an old and forgetful frost giant. It contains `dice:1d4|noform|noparens|avg` (`1d4`) mundane items determined by rolling on the Items in a Giant's Bag table in the introduction. The sack also contains a [shard of the ise rune](3-Mechanics/CLI/items/shard-of-the-ise-rune-skt.md) (see appendix B) and three severed, frozen dwarf heads (two male and one female). One of the heads has ten gold teeth (worth 1 gp each).
 
 ### 11. Eye of Annam
 
@@ -317,7 +317,7 @@ When the characters pass through the archway, read:
 > Beyond the thundering archway lies a hexagonal chamber whose walls rise 50 feet before tapering to a 90-foot-high apex. Standing in each corner of the room is a life-size statue of a giant holding up a heavy, iron lantern with one raised arm. Each type of giant is represented: hill, stone, frost, fire, cloud, and storm. A cold, magical light radiates from each lantern, illuminating a giant corpse lying on the floor beneath a shroud of frost in the middle of the room. The corpse looks like it has been here for some time, preserved by the cold. Next to the body rests a giant, frost-covered morningstar.
 ^2b8
 
-This chamber allows communion with a divine proxy of Annam the All-Father. It's called the Eye of Annam because ancient giants thought the chamber enabled them to gain wisdom from him directly. Casting [detect magic](3-Mechanics/CLI/spells/detect-magic.md) reveals an aura of divination magic in the room.
+This chamber allows communion with a divine proxy of Annam the All-Father. It's called the Eye of Annam because ancient giants thought the chamber enabled them to gain wisdom from him directly. Casting [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) reveals an aura of divination magic in the room.
 
 The corpse belongs to a [young cloud giant](3-Mechanics/CLI/bestiary/giant/young-cloud-giant-skt.md) named Eigeron, whose father, Blagothkus, betrayed and murdered him. If the characters disturb Eigeron's body or come within 10 feet of it, the giant's ghost rises up from the corpse (see "[Eigeron's Ghost](3-Mechanics/CLI/bestiary/npc/eigerons-ghost-skt.md)").
 
@@ -325,9 +325,9 @@ The dead giant wears a golden breastplate (see "Treasure"). His morningstar is n
 
 The teleportation archway looks much the same as it does when viewed from area 6, except it bears no runes, and it can't be activated from this side. Characters who study the arch and succeed on a DC 17 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check can sense that the archway will remain open for a short time only, perhaps as long as an hour.
 
-The statues are impressive and harmless. The lights in their lanterns are created by [continual flame](3-Mechanics/CLI/spells/continual-flame.md) spells.
+The statues are impressive and harmless. The lights in their lanterns are created by [continual flame](3-Mechanics/CLI/spells/continual-flame-xphb.md) spells.
 
-![](3-Mechanics/CLI/adventures/storm-kings-thunder/img/059-skt04-03.webp#center)
+![](file://adventure/SKT/059-skt04-03.webp#center)
 
 #### Eigeron's Ghost
 
@@ -335,10 +335,10 @@ Like many giants before them, Eigeron and his father, Blagothkus, came to the Ey
 
 Eigeron manifests as the spirit of a cloud giant. He wants to know why the characters have come and tries to be helpful. He knows how the oracle works and can explain what the characters must say to contact it (see "Words of the Divine Oracle"). After he gives this information, he asks the characters to avenge his death by killing his evil father, Blagothkus (see "Development").
 
-If the party attacks the ghost, it fights back. Eigeron's spirit is a [ghost](3-Mechanics/CLI/bestiary/undead/ghost.md), with the following changes:
+If the party attacks the ghost, it fights back. Eigeron's spirit is a [ghost](3-Mechanics/CLI/bestiary/undead/ghost-xmm.md), with the following changes:
 
 - It is neutral good.  
-- It is Huge and has 65 (`10d12`) hit points.  
+- It is Huge and has `dice:10d12|noform|noparens|avg|text(65)` (`10d12`) hit points.  
 - It speaks Common and Giant.  
 - It lacks the Horrifying Visage action option.  
 - It can possess giants as well as humanoids, though its ability is limited; it can't leave this chamber. If a creature possessed by the ghost is forcibly removed from the Eye of Annam, the ghost is expelled from its host and re-forms in the middle of this room.  
@@ -346,7 +346,7 @@ If the party attacks the ghost, it fights back. Eigeron's spirit is a [ghost](3-
 
 #### Treasure
 
-The dead cloud giant wears a [+2 breastplate](3-Mechanics/CLI/items/2-armor.md) that resizes to fit its wearer and has an [opal of the ild rune](3-Mechanics/CLI/items/opal-of-the-ild-rune-skt.md) (see appendix B) clutched in its frozen right hand. The ghost doesn't object if one of the characters takes the armor or the opal.
+The dead cloud giant wears a [+2 breastplate](3-Mechanics/CLI/items/2-armor-xdmg.md) that resizes to fit its wearer and has an [opal of the ild rune](3-Mechanics/CLI/items/opal-of-the-ild-rune-skt.md) (see appendix B) clutched in its frozen right hand. The ghost doesn't object if one of the characters takes the armor or the opal.
 
 #### Development
 
@@ -362,7 +362,7 @@ Etched into the floor of area 11 and hidden under a thin layer of frost is a 20-
 
 The oracle has 6 charges. Any creature in the circle that asks a question receives a truthful, thundering answer in the Giant tongue (even if the question was asked in another language). Each answer the oracle gives expends 1 charge and causes one of the six lanterns in the room to go out. The oracle regains all expended charges at dawn, whereupon the lanterns relight. If a question is asked and the oracle lacks charges, it gives no answer.
 
-The oracle's power is similar to a [divination](3-Mechanics/CLI/spells/divination.md) spell. If creatures ask different questions simultaneously, the oracle chooses one of them at random to answer.
+The oracle's power is similar to a [divination](3-Mechanics/CLI/spells/divination-xphb.md) spell. If creatures ask different questions simultaneously, the oracle chooses one of them at random to answer.
 
 Answers to several likely questions are presented here, although you can tweak these answers to make them more clear or cryptic, as you see fit.
 
@@ -426,7 +426,7 @@ The Lost Giant Relics table summarizes which relics are buried where, and which 
 
 [Harshnag](3-Mechanics/CLI/bestiary/npc/harshnag-skt.md) declines to accompany the characters on their quest to retrieve the giant relics, opting instead to wait for them in Annam's temple (area 6) and guard the portal. Before the characters leave, he cautions them that defiling the Uthgardt spirit mounds will likely bring the party into conflict with one or more barbarian tribes.
 
-![Map 4.2: Harshnag's Map](3-Mechanics/CLI/adventures/storm-kings-thunder/img/060-skt04-harshnagsmap.webp#center)
+![Map 4.2: Harshnag's Map](file://adventure/SKT/060-skt04-harshnagsmap.webp#center)
 
 > [!note] Hekaton's Conchs
 > 
@@ -487,8 +487,8 @@ This encounter introduces the characters to an unlikely band of allies and occur
 [Klauth](3-Mechanics/CLI/bestiary/npc/klauth-skt.md) has brought members of the Cult of the Dragon to his vale. (For more information on [Klauth](3-Mechanics/CLI/bestiary/npc/klauth-skt.md)'s lair, see the "Klauthen Vale" entry in chapter 3.) The cultists are in awe of the great dragon and follow his orders without question. On this occasion, [Klauth](3-Mechanics/CLI/bestiary/npc/klauth-skt.md) has ordered the cultists to deliver a special gift to the characters: an airship to help expedite their travels.
 
 > [!gallery]
-> ![Map 4.3: Dragon Cult Airship](3-Mechanics/CLI/adventures/storm-kings-thunder/img/061-skt04-05.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/storm-kings-thunder/img/062-402.webp#gallery)
+> ![Map 4.3: Dragon Cult Airship](file://adventure/SKT/061-skt04-05.webp#gallery)
+> ![Player Version](file://adventure/SKT/062-402.webp#gallery)
 
 ### Need a Lift?
 
@@ -501,7 +501,7 @@ The dragon cultists' airship flies from Klauthen Vale to the Eye of the All-Fath
 
 The airship drops two 50-foot-long rope ladders over the sides of the ship so that the characters can climb aboard without the vehicle landing. Characters can fly up to the ship if they have the means to do so. If they decline to board the vessel, the crew signals for them to come aboard. If they still decline, the airship lands so that the dragon cultists can reveal who sent them and why.
 
-The ship's crew consists of eight members of the Cult of the Dragon (NE male and female human [cultists](3-Mechanics/CLI/bestiary/humanoid/cultist.md) of various ethnicities), all wearing black leather armor and black leather masks. The cultists are a humorless but resolute bunch. Their names are Delsephine, Nyzroth, Brassik, Laz, Oriskus, Perella, Tralt, and Zalthia. Delsephine is their leader. Four are on duty at any time (two to crew the ship and two standing watch) while the others rest. A party member who observes one or more cultists operating the airship for an entire day can, with a successful DC 15 Intelligence check, learn enough about the ship's operation to take the place of a cultist on the crew. For their part, the cultists are willing to crew the vessel so that the characters can focus on navigation, as well as loading, aiming, and firing the onboard weapons.
+The ship's crew consists of eight members of the Cult of the Dragon (NE male and female human [cultists](3-Mechanics/CLI/bestiary/humanoid/cultist-xmm.md) of various ethnicities), all wearing black leather armor and black leather masks. The cultists are a humorless but resolute bunch. Their names are Delsephine, Nyzroth, Brassik, Laz, Oriskus, Perella, Tralt, and Zalthia. Delsephine is their leader. Four are on duty at any time (two to crew the ship and two standing watch) while the others rest. A party member who observes one or more cultists operating the airship for an entire day can, with a successful DC 15 Intelligence check, learn enough about the ship's operation to take the place of a cultist on the crew. For their part, the cultists are willing to crew the vessel so that the characters can focus on navigation, as well as loading, aiming, and firing the onboard weapons.
 
 The cultists' orders are to steer the ship as the characters direct and help the characters defend it. They don't assist the characters otherwise and avoid putting themselves in harm's way. Characters can leave the cultists behind if they wish, but the cultists are quick to point out that the characters will find it impossible to operate the ship on their own. [Klauth](3-Mechanics/CLI/bestiary/npc/klauth-skt.md) doesn't care what becomes of the cultists once the airship is delivered to the party, nor does he care exactly what the characters do with the airship once it comes into their possession. He does, however, expect the cultists to relay the following message to the characters when the two groups first meet.
 
@@ -526,7 +526,7 @@ The balloon is roped to a gondola that has been fitted with steel runners. The a
 
 The airship can hold up to 1 ton of cargo and requires a crew of two, one to operate the propeller and one to operate the furnace. If the ship has fewer than two crew members on duty, its speed can't be controlled, and it moves in a random direction, carried by the wind, until control is regained or until it collides with something.
 
-The gondola and the balloon are separate targets. The gondola has AC 13, 250 hit points, and a damage threshold of 10. The balloon has AC 11 and 50 hit points. Both have immunity to poison and psychic damage. If the balloon drops to 0 hit points, it bursts, and the ship loses the ability to fly. While the balloon or gondola has at least 1 hit point, it can be repaired. Repairing 1 hit point of damage to either the balloon or the gondola requires 1 day and costs 20 gp. ([Mending](3-Mechanics/CLI/spells/mending.md) spells can repair superficial damage but can't restore hit points.)
+The gondola and the balloon are separate targets. The gondola has AC 13, 250 hit points, and a damage threshold of 10. The balloon has AC 11 and 50 hit points. Both have immunity to poison and psychic damage. If the balloon drops to 0 hit points, it bursts, and the ship loses the ability to fly. While the balloon or gondola has at least 1 hit point, it can be repaired. Repairing 1 hit point of damage to either the balloon or the gondola requires 1 day and costs 20 gp. ([Mending](3-Mechanics/CLI/spells/mending-xphb.md) spells can repair superficial damage but can't restore hit points.)
 
 ### Airship Locations
 
@@ -534,9 +534,9 @@ The following locations are identified on map 4.3.
 
 #### 1. Furnace
 
-In the middle of the upper deck is a 10-foot-tall, cylindrical bronze furnace with a [fire elemental](3-Mechanics/CLI/bestiary/elemental/fire-elemental.md) magically trapped inside it. A narrow hatch in the front of the furnace has a small grill through which the elemental can be seen, and the heat pouring out through the grill helps keep the deck crew warm on cold days and nights. An iron wheel on the starboard side of the furnace opens and closes a bronze valve at the top of the cylinder, which has the effect of increasing or reducing the size of the fire spilling out of the furnace. The more heat that is allowed to fill the balloon, the higher the ship can rise.
+In the middle of the upper deck is a 10-foot-tall, cylindrical bronze furnace with a [fire elemental](3-Mechanics/CLI/bestiary/elemental/fire-elemental-xmm.md) magically trapped inside it. A narrow hatch in the front of the furnace has a small grill through which the elemental can be seen, and the heat pouring out through the grill helps keep the deck crew warm on cold days and nights. An iron wheel on the starboard side of the furnace opens and closes a bronze valve at the top of the cylinder, which has the effect of increasing or reducing the size of the fire spilling out of the furnace. The more heat that is allowed to fill the balloon, the higher the ship can rise.
 
-Opening the hatch or the valve doesn't release the fire elemental, but destroying the furnace does, as does successfully casting [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md) (DC 19) on it. The furnace has AC 15, 30 hit points, a damage threshold of 10, and immunity to fire, poison, and psychic damage. The fire elemental goes berserk if released, attacking all other creatures it sees. Inside or outside the furnace, it can be banished using a [banishment](3-Mechanics/CLI/spells/banishment.md) spell or similar magic, or trapped inside an [iron flask](3-Mechanics/CLI/items/iron-flask.md) or a similar device. If the furnace is destroyed or the elemental released from within it, the air inside the balloon cools, causing the airship to descend at a rate of 10 feet per round.
+Opening the hatch or the valve doesn't release the fire elemental, but destroying the furnace does, as does successfully casting [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) (DC 19) on it. The furnace has AC 15, 30 hit points, a damage threshold of 10, and immunity to fire, poison, and psychic damage. The fire elemental goes berserk if released, attacking all other creatures it sees. Inside or outside the furnace, it can be banished using a [banishment](3-Mechanics/CLI/spells/banishment-xphb.md) spell or similar magic, or trapped inside an [iron flask](3-Mechanics/CLI/items/iron-flask-xdmg.md) or a similar device. If the furnace is destroyed or the elemental released from within it, the air inside the balloon cools, causing the airship to descend at a rate of 10 feet per round.
 
 While the furnace chamber is intact, a fire elemental under the control of another creature can be trapped in the furnace, until it is released as described above. The furnace can contain only one fire elemental at a time.
 
@@ -544,7 +544,7 @@ While the furnace chamber is intact, a fire elemental under the control of anoth
 
 A spring-loaded harpoon gun, fashioned from burnished bronze with iron fittings, is bolted to the forward upper deck. It has a 90-degree arc of fire (side to side, as well as up and down). The gun comes with a winch, a 500-foot coil of rope, and ten steel-tipped harpoons. Although it fires harpoons instead of bolts, the gun is considered a ballista (see the ""Siege Equipment"" section in chapter 8 of the "Dungeon Master's Guide").
 
-Tying a rope to a harpoon, if desired, takes an action. In addition to dealing 16 (`3d10`) piercing damage on a hit, a harpoon impales its target. While impaled, the target can't take any action on its turn other than trying to free itself from the harpoon, which requires a successful DC 15 Strength check. If the check succeeds, the target takes 5 (`1d10`) piercing damage as the harpoon is pulled free and is no longer impaled. If a harpoon is attached to the gun by a rope, a creature impaled on that harpoon can't move farther away from the gun or increase its altitude until it frees itself. A creature within reach of the gun's winch can use its action to reel in a harpooned creature, pulling it up to 20 feet closer to the gun.
+Tying a rope to a harpoon, if desired, takes an action. In addition to dealing `dice:3d10|noform|noparens|avg|text(16)` (`3d10`) piercing damage on a hit, a harpoon impales its target. While impaled, the target can't take any action on its turn other than trying to free itself from the harpoon, which requires a successful DC 15 Strength check. If the check succeeds, the target takes `dice:1d10|noform|noparens|avg|text(5)` (`1d10`) piercing damage as the harpoon is pulled free and is no longer impaled. If a harpoon is attached to the gun by a rope, a creature impaled on that harpoon can't move farther away from the gun or increase its altitude until it frees itself. A creature within reach of the gun's winch can use its action to reel in a harpooned creature, pulling it up to 20 feet closer to the gun.
 
 #### 3. Ballista
 
@@ -554,7 +554,7 @@ A wooden ballista is mounted on an iron swivel on the aft castle. It has a 90-de
 
 A wooden door behind the furnace (area 1) on the upper deck pushes open to reveal stairs leading down to the lower deck. Portholes on the landings look out to port and starboard. The porthole windows are latched shut from the inside, and each porthole is wide enough for a Medium creature to squeeze through.
 
-At the foot of the stairs is a steel hatch bolted shut from the outside, with two horizontal-sliding iron levers in the adjacent wall. One lever is labeled Thrust, the other Direction (in Common). Behind the hatch is a steel-walled compartment that holds a magically bound [air elemental](3-Mechanics/CLI/bestiary/elemental/air-elemental.md). The air elemental powers the aft propeller. Moving the Thrust lever to the left opens valves that allow wind from the elemental to spin the propeller. Moving the lever to the right closes the valves, and the propeller stops turning. Moving the Direction lever to the left or right causes the propeller to pivot in that direction, allowing the ship to turn while the propeller is operating. When the Direction lever is centered, the propeller moves the vessel straight ahead. Opening the hatch frees the elemental, whereupon it attacks any creature it sees. Without the air elemental to propel it, the ship can't push itself across ice or snow and, if aloft, it moves in accordance with the prevailing wind.
+At the foot of the stairs is a steel hatch bolted shut from the outside, with two horizontal-sliding iron levers in the adjacent wall. One lever is labeled Thrust, the other Direction (in Common). Behind the hatch is a steel-walled compartment that holds a magically bound [air elemental](3-Mechanics/CLI/bestiary/elemental/air-elemental-xmm.md). The air elemental powers the aft propeller. Moving the Thrust lever to the left opens valves that allow wind from the elemental to spin the propeller. Moving the lever to the right closes the valves, and the propeller stops turning. Moving the Direction lever to the left or right causes the propeller to pivot in that direction, allowing the ship to turn while the propeller is operating. When the Direction lever is centered, the propeller moves the vessel straight ahead. Opening the hatch frees the elemental, whereupon it attacks any creature it sees. Without the air elemental to propel it, the ship can't push itself across ice or snow and, if aloft, it moves in accordance with the prevailing wind.
 
 Any air elemental under the control of another creature can be commanded to enter the compartment. If the compartment's hatch is then closed and locked, the elemental becomes trapped inside.
 
@@ -590,44 +590,46 @@ The Travel Distances in Miles table shows the distances between the various Uthg
 | Shining White (SW) | 150 | 300 | 110 | 270 | 140 | 160 | 245 | 265 | 300 | — |
 ^from-to-eye-bw-fr-gt-gw-mm-os-rr-ss-sw
 
-Although the characters have no planned encounters in the air, you can add an encounter whenever it suits you. Roll a `d20` and consult the Random Aerial Encounters table. You can also use the Weather table in chapter 5 of the "Dungeon Master's Guide" to determine the prevailing weather conditions. Under clear skies, characters on deck or in the crow's nest spot approaching creatures automatically, giving the crew time to load and aim the ship's weapons before the creatures get close.
+Although the characters have no planned encounters in the air, you can add an encounter whenever it suits you. Roll a `dice:d20|noform|noparens|avg` (`d20`) and consult the Random Aerial Encounters table. You can also use the Weather table in chapter 5 of the "Dungeon Master's Guide" to determine the prevailing weather conditions. Under clear skies, characters on deck or in the crow's nest spot approaching creatures automatically, giving the crew time to load and aim the ship's weapons before the creatures get close.
 
 A downside of traveling by airship is that the vessel is easily spotted. Characters can't surprise hostile creatures while traveling in the airship unless they are guiding the vessel through thick fog or heavy falling snow.
 
 #### Random Aerial Encounters
 
+`dice: [](05-chapter-4-the-chosen-path.md#^encounter)`
+
 | dice: d20 | Encounter |
 |-----------|-----------|
-| 1–5 | `2d6` [aarakocra](3-Mechanics/CLI/bestiary/humanoid/aarakocra.md) |
-| 6–9 | `1d4 + 1` [manticores](3-Mechanics/CLI/bestiary/monstrosity/manticore.md) |
-| 10–11 | Mounted [storm giant](3-Mechanics/CLI/bestiary/giant/storm-giant.md) |
+| 1–5 | `dice:2d6\|noform\|noparens\|avg` (`2d6`) [aarakocra](3-Mechanics/CLI/bestiary/elemental/aarakocra-skirmisher-xmm.md) |
+| 6–9 | `dice:1d4+1\|noform\|noparens\|avg` (`1d4 + 1`) [manticores](3-Mechanics/CLI/bestiary/monstrosity/manticore-xmm.md) |
+| 10–11 | Mounted [storm giant](3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md) |
 | 12–13 | Mounted Uthgardt |
 | 14–17 | Strong winds |
-| 18–19 | 1 [young green dragon](3-Mechanics/CLI/bestiary/dragon/young-green-dragon.md) |
-| 20 | 1 [young silver dragon](3-Mechanics/CLI/bestiary/dragon/young-silver-dragon.md) |
+| 18–19 | 1 [young green dragon](3-Mechanics/CLI/bestiary/dragon/young-green-dragon-xmm.md) |
+| 20 | 1 [young silver dragon](3-Mechanics/CLI/bestiary/dragon/young-silver-dragon-xmm.md) |
 ^encounter
 
 #### Aarakocra
 
-These intelligent avians fly close to the airship to get a better look. They have had several deadly run-ins with the Cult of the Dragon and recognize the cultists from their attire. If they spot one or more uniformed cultists on the deck of the airship or in the crow's nest, they attack. Otherwise, the aarakocra fight only in self-defense. If at least five aarakocra are present, they try to perform an aerial dance to summon an [air elemental](3-Mechanics/CLI/bestiary/elemental/air-elemental.md) for assistance. Characters can negotiate a truce with the aarakocra by succeeding on a DC 15 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check, but only if they refrain from attacking and communicate in a language that the aarakocra understand.
+These intelligent avians fly close to the airship to get a better look. They have had several deadly run-ins with the Cult of the Dragon and recognize the cultists from their attire. If they spot one or more uniformed cultists on the deck of the airship or in the crow's nest, they attack. Otherwise, the aarakocra fight only in self-defense. If at least five aarakocra are present, they try to perform an aerial dance to summon an [air elemental](3-Mechanics/CLI/bestiary/elemental/air-elemental-xmm.md) for assistance. Characters can negotiate a truce with the aarakocra by succeeding on a DC 15 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check, but only if they refrain from attacking and communicate in a language that the aarakocra understand.
 
 #### Manticores
 
-A [manticore](3-Mechanics/CLI/bestiary/monstrosity/manticore.md) flings its tail spikes at creatures on deck or in the crow's nest. If it sees no one, it flings its tail spikes at the balloon, hoping to bring down the ship.
+A [manticore](3-Mechanics/CLI/bestiary/monstrosity/manticore-xmm.md) flings its tail spikes at creatures on deck or in the crow's nest. If it sees no one, it flings its tail spikes at the balloon, hoping to bring down the ship.
 
 #### Mounted Storm Giant
 
-The characters spot a [storm giant](3-Mechanics/CLI/bestiary/giant/storm-giant.md) riding a [roc](3-Mechanics/CLI/bestiary/monstrosity/roc.md). The two are looking for clues to [King Hekaton](3-Mechanics/CLI/bestiary/npc/king-hekaton-skt.md)'s whereabouts. The giant concludes that the ship contains nothing of interest and steers the roc away, staying at least a quarter of a mile away. The giant has no interest in involving "small folk" in its investigation. It avoids combat and ignores signals from the airship.
+The characters spot a [storm giant](3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md) riding a [roc](3-Mechanics/CLI/bestiary/monstrosity/roc-xmm.md). The two are looking for clues to [King Hekaton](3-Mechanics/CLI/bestiary/npc/king-hekaton-skt.md)'s whereabouts. The giant concludes that the ship contains nothing of interest and steers the roc away, staying at least a quarter of a mile away. The giant has no interest in involving "small folk" in its investigation. It avoids combat and ignores signals from the airship.
 
 #### Mounted Uthgardt
 
-Characters on the upper deck or in the crow's nest spot `1d4 + 2` [berserkers](3-Mechanics/CLI/bestiary/humanoid/berserker.md) (CE male and female Uthgardt humans) who belong to either the Black Raven tribe or the Griffon tribe. Each berserker rides a trained [giant raven](3-Mechanics/CLI/bestiary/beast/giant-raven-skt.md) (use the [giant vulture](3-Mechanics/CLI/bestiary/beast/giant-vulture.md)) or a [griffon](3-Mechanics/CLI/bestiary/monstrosity/griffon.md), as appropriate.
+Characters on the upper deck or in the crow's nest spot `dice:1d4+2|noform|noparens|avg` (`1d4 + 2`) [berserkers](3-Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) (CE male and female Uthgardt humans) who belong to either the Black Raven tribe or the Griffon tribe. Each berserker rides a trained [giant raven](3-Mechanics/CLI/bestiary/beast/giant-raven-skt.md) (use the [giant vulture](3-Mechanics/CLI/bestiary/monstrosity/giant-vulture-xmm.md)) or a [griffon](3-Mechanics/CLI/bestiary/monstrosity/griffon-xmm.md), as appropriate.
 
 The barbarians guide their mounts next to the airship, then leap onto the deck and attack all aboard. Riderless mounts withdraw from the battlefield immediately.
 
 #### Strong Winds
 
-The ship is at the mercy of strong winds for `1d4` hours. At the end of that time, it has been blown off course far enough to add `2d4 × 10` miles to the current journey.
+The ship is at the mercy of strong winds for `dice:1d4|noform|noparens|avg` (`1d4`) hours. At the end of that time, it has been blown off course far enough to add `2d4 × 10` miles to the current journey.
 
 #### Young Green Dragon
 
@@ -643,7 +645,7 @@ The silver dragon encounter occurs once. If you roll it again, choose a differen
 
 This encounter takes place after the adventurers return to area 6 from area 11, having delivered one or more giant relics and chosen a giant lord to defeat. [Iymrith](3-Mechanics/CLI/bestiary/npc/iymrith-skt.md) appears as they prepare to exit the temple for the last time.
 
-The blue dragon has come to the Eye of the All-Father to consult with the oracle and learn how far along the giant lords' plots are. She arrives in dragon form and enters the temple through the giant doors (area 4). If the characters have an airship outside, she ignores it and makes her way inside, expecting to run into trouble. If the airship's crew deals damage to her, she destroys the airship's balloon with her breath weapon and casts [ice storm](3-Mechanics/CLI/spells/ice-storm.md) on the crew. The dragon cultists, if they're still aboard the airship, recognize her and stay out of her way. They know the following information about her:
+The blue dragon has come to the Eye of the All-Father to consult with the oracle and learn how far along the giant lords' plots are. She arrives in dragon form and enters the temple through the giant doors (area 4). If the characters have an airship outside, she ignores it and makes her way inside, expecting to run into trouble. If the airship's crew deals damage to her, she destroys the airship's balloon with her breath weapon and casts [ice storm](3-Mechanics/CLI/spells/ice-storm-xphb.md) on the crew. The dragon cultists, if they're still aboard the airship, recognize her and stay out of her way. They know the following information about her:
 
 - [Iymrith](3-Mechanics/CLI/bestiary/npc/iymrith-skt.md) lives in the desert of Anauroch and is known as the Doom of the Desert.  
 - The dragon is a spellcaster and a shapechanger.  
@@ -658,7 +660,7 @@ When [Iymrith](3-Mechanics/CLI/bestiary/npc/iymrith-skt.md) confronts the charac
 > You hear the crunch of frost under heavy feet as an enormous blue dragon bursts through the main doors of the temple. The great wyrm pays no mind to the statues here. Instead, it fixes its hateful gaze on you.
 ^2e2
 
-[Iymrith](3-Mechanics/CLI/bestiary/npc/iymrith-skt.md) is an [ancient blue dragon](3-Mechanics/CLI/bestiary/dragon/ancient-blue-dragon.md) (see appendix C). If the characters aren't with [Harshnag](3-Mechanics/CLI/bestiary/npc/harshnag-skt.md) when she appears, they must confront the dragon by themselves. Her initial assessment of them is that they pose no threat. If they negotiate for safe passage, she lets them leave if they do so immediately. If they antagonize her or deal any damage to her, she tries to kill them, ignoring those who slip away and any who take refuge in the narrow [ice spider](3-Mechanics/CLI/bestiary/beast/ice-spider-skt.md) tunnels (area 9). To reach the Eye of Annam, she assumes the form of a storm giant and uses Stronmaus's trident to activate the temple's portal (see area 6).
+[Iymrith](3-Mechanics/CLI/bestiary/npc/iymrith-skt.md) is an [ancient blue dragon](3-Mechanics/CLI/bestiary/dragon/ancient-blue-dragon-xmm.md) (see appendix C). If the characters aren't with [Harshnag](3-Mechanics/CLI/bestiary/npc/harshnag-skt.md) when she appears, they must confront the dragon by themselves. Her initial assessment of them is that they pose no threat. If they negotiate for safe passage, she lets them leave if they do so immediately. If they antagonize her or deal any damage to her, she tries to kill them, ignoring those who slip away and any who take refuge in the narrow [ice spider](3-Mechanics/CLI/bestiary/beast/ice-spider-skt.md) tunnels (area 9). To reach the Eye of Annam, she assumes the form of a storm giant and uses Stronmaus's trident to activate the temple's portal (see area 6).
 
 If [Harshnag](3-Mechanics/CLI/bestiary/npc/harshnag-skt.md) is with the party, he attacks the dragon. He hopes to distract her long enough for the characters to escape. Ideally, this scene unfolds in area 6.
 
@@ -673,11 +675,11 @@ If [Harshnag](3-Mechanics/CLI/bestiary/npc/harshnag-skt.md) encounters [Iymrith]
 > Seeing his warnings fall on deaf ears, [Harshnag](3-Mechanics/CLI/bestiary/npc/harshnag-skt.md) swings his greataxe at the statue of Annam the All-Father and chips it. The entire temple shudders. The frost giant scowls, dodges the dragon, and strikes the statue once more, this time breaking off a large chunk. This act of desecration causes cracks to form in the ceiling, and the mountain begins to fall down around you. "Flee!" yells [Harshnag](3-Mechanics/CLI/bestiary/npc/harshnag-skt.md). "Your fate lies elsewhere!"
 ^2e4
 
-[Harshnag](3-Mechanics/CLI/bestiary/npc/harshnag-skt.md)'s desecration of the statue of Annam dooms the temple. On initiative count 0, each creature in area 6 must make a DC 20 Dexterity saving throw, taking 21 (`6d6`) bludgeoning damage from falling debris on a failed save, or half as much damage on a successful one.
+[Harshnag](3-Mechanics/CLI/bestiary/npc/harshnag-skt.md)'s desecration of the statue of Annam dooms the temple. On initiative count 0, each creature in area 6 must make a DC 20 Dexterity saving throw, taking `dice:6d6|noform|noparens|avg|text(21)` (`6d6`) bludgeoning damage from falling debris on a failed save, or half as much damage on a successful one.
 
 [Harshnag](3-Mechanics/CLI/bestiary/npc/harshnag-skt.md) refuses to leave and does his utmost to keep [Iymrith](3-Mechanics/CLI/bestiary/npc/iymrith-skt.md) from fleeing by attempting to grapple her on later turns. After falling debris deals damage for 2 rounds, the ceiling collapses the next time initiative reaches 0, killing and burying anyone inside the temple.
 
-[Iymrith](3-Mechanics/CLI/bestiary/npc/iymrith-skt.md) escapes the cave-in with the aid of her [teleport](3-Mechanics/CLI/spells/teleport.md) spell. [Harshnag](3-Mechanics/CLI/bestiary/npc/harshnag-skt.md)'s fate is uncertain. Either he is killed in the collapse, or he manages to retreat to a safe location (such as area 11) at the last possible moment. In either case, the characters are unlikely to encounter him again unless he makes a surprise reappearance (see the "Hekaton Returns!" sidebar in chapter 12).
+[Iymrith](3-Mechanics/CLI/bestiary/npc/iymrith-skt.md) escapes the cave-in with the aid of her [teleport](3-Mechanics/CLI/spells/teleport-xphb.md) spell. [Harshnag](3-Mechanics/CLI/bestiary/npc/harshnag-skt.md)'s fate is uncertain. Either he is killed in the collapse, or he manages to retreat to a safe location (such as area 11) at the last possible moment. In either case, the characters are unlikely to encounter him again unless he makes a surprise reappearance (see the "Hekaton Returns!" sidebar in chapter 12).
 
 Whether or not [Iymrith](3-Mechanics/CLI/bestiary/npc/iymrith-skt.md)'s efforts to reach the oracle succeed, the adventurers meet her again at Maelstrom (see chapter 10, "Hold of the Storm Giants").
 

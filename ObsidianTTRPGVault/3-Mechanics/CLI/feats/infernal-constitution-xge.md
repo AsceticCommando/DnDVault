@@ -11,7 +11,7 @@ aliases:
 # Infernal Constitution
 *Source: Xanathar's Guide to Everything p. 75*  
 
-**Prerequisite**: [Tiefling](3-Mechanics/CLI/races/tiefling.md)
+**Prerequisite**: [Tiefling](3-Mechanics/CLI/races/tiefling-xphb.md)
 
 Fiendish blood runs strong in you, unlocking a resilience akin to that possessed by some fiends. You gain the following benefits:
 

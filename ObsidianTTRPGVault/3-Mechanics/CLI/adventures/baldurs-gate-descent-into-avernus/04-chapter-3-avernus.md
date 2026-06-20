@@ -10,7 +10,7 @@ aliases:
 # Chapter 3: Avernus
 *Source: Baldur's Gate: Descent Into Avernus, p. 74* 
 
-![](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/046-ugtxa-03-01.webp#center)
+![](file://adventure/BGDIA/046-ugtxa-03-01.webp#center)
 
 Guided by [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) the hollyphant and discoveries made in Elturel, the characters trek across Avernus, the first layer of the Nine Hells, to recover the [Sword of Zariel](3-Mechanics/CLI/items/sword-of-zariel-bgdia.md) and free Elturel from its chains. Navigating the wastelands of Avernus might seem like a difficult proposition, but thankfully the characters have the map given to them by [Sylvira Savikas](3-Mechanics/CLI/bestiary/npc/sylvira-savikas-bgdia.md) in chapter 1. For more information on how to use the Avernus poster map, see "Using the Poster Map".
 
@@ -40,7 +40,7 @@ Anyone entering Avernus finds a battlefield unlike anywhere else in existence. E
 
 Most devils in Avernus serve Zariel, though other Lords of the Nine send forces here to help repel demonic invaders. Devils who are not part of Zariel's legions serve as emissaries from the other layers or as spies for archdevils seeking signs of weakness that they can exploit to further their dreams of power.
 
-![Diagram 3.1: Chapter 3 Flowchart](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/047-ygrsa-flowchart-3-1.webp#center)
+![Diagram 3.1: Chapter 3 Flowchart](file://adventure/BGDIA/047-ygrsa-flowchart-3-1.webp#center)
 
 ### Visitors to Avernus
 
@@ -74,7 +74,7 @@ Under constant pressure from both the Abyss and her infernal peers, Zariel and h
 > - 1 cohort = 10 lances, commanded by a signifier  
 > - 1 lance = 10 devils, commanded by an optio  
 > 
-> Ranks of miserable [lemures](3-Mechanics/CLI/bestiary/fiend/lemure.md) and [nupperibos](3-Mechanics/CLI/bestiary/fiend/nupperibo-mpmm.md) compose the base of dreg legions, while [bearded devils](3-Mechanics/CLI/bestiary/fiend/bearded-devil.md) and [merregons](3-Mechanics/CLI/bestiary/fiend/merregon-mpmm.md) make up the bulk of regular legions. Each legion sports a unique name, usually denoting its purpose and numerical designation. Examples include the following:
+> Ranks of miserable [lemures](3-Mechanics/CLI/bestiary/fiend/lemure-xmm.md) and [nupperibos](3-Mechanics/CLI/bestiary/fiend/nupperibo-mpmm.md) compose the base of dreg legions, while [bearded devils](3-Mechanics/CLI/bestiary/fiend/bearded-devil-xmm.md) and [merregons](3-Mechanics/CLI/bestiary/fiend/merregon-mpmm.md) make up the bulk of regular legions. Each legion sports a unique name, usually denoting its purpose and numerical designation. Examples include the following:
 > 
 > - 5th Infantry Legion, "Infernal Absolution"  
 > - 13th Cavalry Legion, "[Bel](3-Mechanics/CLI/bestiary/npc/bel-bgdia.md)'s Fury"  
@@ -93,11 +93,11 @@ Biting flies, hellwasps, and blood-sucking stirges patrol the air, hunting for a
 
 The River Styx courses through the Lower Planes, frustrating every attempt to map it or predict its course. Getting lost while sailing the Styx isn't the only danger the river presents. Simply tasting or touching its waters can shatter a creature's intellect and personality, as well as strip away its memories. Certain fiends are immune to the river's effects, but most creatures have no defense against it.
 
-Unless immune to the river's effects, a creature that drinks from the Styx or enters the river is targeted by a [feeblemind](3-Mechanics/CLI/spells/feeblemind.md) spell (save DC 20). A creature must repeat the saving throw whenever it starts its turn in the river, until it fails the save. A feebleminded creature can drink from the Styx and swim in its waters without suffering any additional deleterious effects.
+Unless immune to the river's effects, a creature that drinks from the Styx or enters the river is targeted by a [feeblemind](3-Mechanics/CLI/spells/befuddlement-xphb.md) spell (save DC 20). A creature must repeat the saving throw whenever it starts its turn in the river, until it fails the save. A feebleminded creature can drink from the Styx and swim in its waters without suffering any additional deleterious effects.
 
-If a creature fails its saving throw and remains under the spell's effect for 30 consecutive days, the effect becomes permanent (no save) and the creature loses all its memories, becoming a near-mindless shell of its former self. At that point, nothing short of a [wish](3-Mechanics/CLI/spells/wish.md) spell or divine intervention can undo the effect.
+If a creature fails its saving throw and remains under the spell's effect for 30 consecutive days, the effect becomes permanent (no save) and the creature loses all its memories, becoming a near-mindless shell of its former self. At that point, nothing short of a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell or divine intervention can undo the effect.
 
-Water taken from the River Styx loses its potency after 24 hours, becoming a harmless, foul-tasting liquid. However, [arcanaloths](3-Mechanics/CLI/bestiary/fiend/arcanaloth.md), [night hags](3-Mechanics/CLI/bestiary/fiend/night-hag.md), and other fell creatures might know rituals that can prolong the water's potency, at your discretion.
+Water taken from the River Styx loses its potency after 24 hours, becoming a harmless, foul-tasting liquid. However, [arcanaloths](3-Mechanics/CLI/bestiary/fiend/arcanaloth-xmm.md), [night hags](3-Mechanics/CLI/bestiary/fiend/night-hag-xmm.md), and other fell creatures might know rituals that can prolong the water's potency, at your discretion.
 
 ### Alterations to Magic
 
@@ -107,29 +107,29 @@ Avernus is the entrance to the Nine Hells, a battlefield drenched in eldritch en
 
 At your discretion, a spell can be modified cosmetically to enhance the corrupting nature of Avernus. Here are some examples:
 
-[Bigby's Hand](3-Mechanics/CLI/spells/bigbys-hand.md). The conjured hand is a fiendish claw.
+[Bigby's Hand](3-Mechanics/CLI/spells/bigbys-hand-xphb.md). The conjured hand is a fiendish claw.
 
-[Find Familiar](3-Mechanics/CLI/spells/find-familiar.md). The familiar is an [imp](3-Mechanics/CLI/bestiary/fiend/imp.md).
+[Find Familiar](3-Mechanics/CLI/spells/find-familiar-xphb.md). The familiar is an [imp](3-Mechanics/CLI/bestiary/fiend/imp-xmm.md).
 
-[Find Steed](3-Mechanics/CLI/spells/find-steed.md). The steed is a [nightmare](3-Mechanics/CLI/bestiary/fiend/nightmare.md).
+[Find Steed](3-Mechanics/CLI/spells/find-steed-xphb.md). The steed is a [nightmare](3-Mechanics/CLI/bestiary/fiend/nightmare-xmm.md).
 
-[Find the Path](3-Mechanics/CLI/spells/find-the-path.md). An [imp](3-Mechanics/CLI/bestiary/fiend/imp.md) appears and begrudgingly guides the caster to the desired location while complaining the whole time, disappearing when the destination is reached or the spell ends.
+[Find the Path](3-Mechanics/CLI/spells/find-the-path-xphb.md). An [imp](3-Mechanics/CLI/bestiary/fiend/imp-xmm.md) appears and begrudgingly guides the caster to the desired location while complaining the whole time, disappearing when the destination is reached or the spell ends.
 
-[Fog Cloud](3-Mechanics/CLI/spells/fog-cloud.md). Moaning faces appear and fade in the yellow fog that smells like sulfur.
+[Fog Cloud](3-Mechanics/CLI/spells/fog-cloud-xphb.md). Moaning faces appear and fade in the yellow fog that smells like sulfur.
 
-[Hellish Rebuke](3-Mechanics/CLI/spells/hellish-rebuke.md). The cackling of imps accompanies the fire unleashed by this spell.
+[Hellish Rebuke](3-Mechanics/CLI/spells/hellish-rebuke-xphb.md). The cackling of imps accompanies the fire unleashed by this spell.
 
-[Mage Hand](3-Mechanics/CLI/spells/mage-hand.md). The summoned hand is shaped like a claw.
+[Mage Hand](3-Mechanics/CLI/spells/mage-hand-xphb.md). The summoned hand is shaped like a claw.
 
-[Rary's Telepathic Bond](3-Mechanics/CLI/spells/rarys-telepathic-bond.md). Characters linked together by the spell can hear vague, infernal whispering in the background, but can't make out what's being said.
+[Rary's Telepathic Bond](3-Mechanics/CLI/spells/rarys-telepathic-bond-xphb.md). Characters linked together by the spell can hear vague, infernal whispering in the background, but can't make out what's being said.
 
 #### Telepathic Communications
 
-Archdevils can eavesdrop on communication spells such as [message](3-Mechanics/CLI/spells/message.md) and [sending](3-Mechanics/CLI/spells/sending.md) sent from or within the Nine Hells. Because of this, those engaging in telepathic communication always have the feeling that they are being listened in on or watched by some infernal presence, even if an archdevil isn't eavesdropping on their communication.
+Archdevils can eavesdrop on communication spells such as [message](3-Mechanics/CLI/spells/message-xphb.md) and [sending](3-Mechanics/CLI/spells/sending-xphb.md) sent from or within the Nine Hells. Because of this, those engaging in telepathic communication always have the feeling that they are being listened in on or watched by some infernal presence, even if an archdevil isn't eavesdropping on their communication.
 
-Telepathic communications via magic items such as [sending stones](3-Mechanics/CLI/items/sending-stones.md) or a [helm of telepathy](3-Mechanics/CLI/items/helm-of-telepathy.md) can be overheard by an archdevil as well. Communicating with a [serpentine owl](3-Mechanics/CLI/items/figurine-of-wondrous-power-serpentine-owl.md), an [orb of dragonkind](3-Mechanics/CLI/items/orb-of-dragonkind.md), or a sentient weapon also runs the risk of being overheard in Avernus. [Rings of mind shielding](3-Mechanics/CLI/items/ring-of-mind-shielding.md) work the same in Avernus as they do on any other plane and are highly valuable items in the Nine Hells, coveted by all fiends to avoid the prying minds of their masters.
+Telepathic communications via magic items such as [sending stones](3-Mechanics/CLI/items/sending-stones-xdmg.md) or a [helm of telepathy](3-Mechanics/CLI/items/helm-of-telepathy-xdmg.md) can be overheard by an archdevil as well. Communicating with a [serpentine owl](3-Mechanics/CLI/items/figurine-of-wondrous-power-serpentine-owl-xdmg.md), an [orb of dragonkind](3-Mechanics/CLI/items/orb-of-dragonkind-xdmg.md), or a sentient weapon also runs the risk of being overheard in Avernus. [Rings of mind shielding](3-Mechanics/CLI/items/ring-of-mind-shielding-xdmg.md) work the same in Avernus as they do on any other plane and are highly valuable items in the Nine Hells, coveted by all fiends to avoid the prying minds of their masters.
 
-![](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/048-bgcpo-03-02.webp#center)
+![](file://adventure/BGDIA/048-bgcpo-03-02.webp#center)
 
 ### Demon Ichor
 
@@ -160,7 +160,7 @@ Here are some optional rules that you can use to reinforce the flavor of adventu
 
 Whenever a character fails a death save in the Nine Hells, an archdevil may contact that character telepathically and offer its assistance. The character must agree to perform a task for the archdevil afterward. The nature of the task is not revealed until the character agrees to these terms.
 
-A character who agrees to the archdevil's terms automatically rolls a 20 on their next death save. At the same time, the character falls under the effect of a [geas](3-Mechanics/CLI/spells/geas.md) spell (no saving throw allowed). If this spell ends prematurely, the character immediately drops to 0 hit points and is dying. The task that the character must complete is usually simple and straightforward, and always for the benefit of the archdevil who struck the deal. Sample tasks include delivering a [soul coin](3-Mechanics/CLI/items/soul-coin-bgdia.md) to one of the archdevil's minions, refusing to help someone the character is fated to meet in the future, or destroying something the archdevil abhors (such as a holy symbol).
+A character who agrees to the archdevil's terms automatically rolls a 20 on their next death save. At the same time, the character falls under the effect of a [geas](3-Mechanics/CLI/spells/geas-xphb.md) spell (no saving throw allowed). If this spell ends prematurely, the character immediately drops to 0 hit points and is dying. The task that the character must complete is usually simple and straightforward, and always for the benefit of the archdevil who struck the deal. Sample tasks include delivering a [soul coin](3-Mechanics/CLI/items/soul-coin-bgdia.md) to one of the archdevil's minions, refusing to help someone the character is fated to meet in the future, or destroying something the archdevil abhors (such as a holy symbol).
 
 #### Exhaustion
 
@@ -168,11 +168,11 @@ Avernus's combination of oppressive heat and supernatural malevolence weighs on 
 
 #### Pervasive Evil
 
-Evil pervades the Nine Hells, and visitors to this plane feel its influence. At the end of each long rest taken on this plane, a visitor that isn't evil must make a DC 10 Wisdom saving throw. On a failed save, the creature's alignment changes to lawful evil. The change becomes permanent if the creature doesn't leave the plane within `1d4` days. Otherwise, the creature's alignment reverts to normal after one day spent on a plane other than the Nine Hells. Casting the [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good.md) spell on the creature also restores its original alignment.
+Evil pervades the Nine Hells, and visitors to this plane feel its influence. At the end of each long rest taken on this plane, a visitor that isn't evil must make a DC 10 Wisdom saving throw. On a failed save, the creature's alignment changes to lawful evil. The change becomes permanent if the creature doesn't leave the plane within `dice:1d4|noform|noparens|avg` (`1d4`) days. Otherwise, the creature's alignment reverts to normal after one day spent on a plane other than the Nine Hells. Casting the [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md) spell on the creature also restores its original alignment.
 
 > [!gallery]
-> ![Map 3.1: Avernus](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/049-edgfn-map-3-1.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/050-gzik9-map-avernus-player.webp#gallery)
+> ![Map 3.1: Avernus](file://adventure/BGDIA/049-edgfn-map-3-1.webp#gallery)
+> ![Player Version](file://adventure/BGDIA/050-gzik9-map-avernus-player.webp#gallery)
 
 ## Using the Poster Map
 
@@ -197,9 +197,9 @@ Using the map to chart a course from one location to another is unreliable at be
 
 When charting a course through Avernus, ask the player whose character is overseeing navigation to roll two dice:
 
-- Roll `2d4` if the characters are traveling to an unvisited destination marked on their map.  
-- Roll `2d8` if the characters are returning to a destination they've visited previously.  
-- Roll `2d10` if a native guide is leading the characters to their destination.  
+- Roll `dice:2d4|noform|noparens|avg` (`2d4`) if the characters are traveling to an unvisited destination marked on their map.  
+- Roll `dice:2d8|noform|noparens|avg` (`2d8`) if the characters are returning to a destination they've visited previously.  
+- Roll `dice:2d10|noform|noparens|avg` (`2d10`) if a native guide is leading the characters to their destination.  
 
 If the rolls of both dice don't match, the characters arrive at their destination as intended. If the dice match, they wind up somewhere else: pick one of the other locations.
 
@@ -243,7 +243,7 @@ The following sections detail the important NPCs and creatures within Fort Knuck
 
 Use the 1-to-10 scale as a barometer for rating the overall success of the characters in dealing with the strange, intriguing, and dangerous world of [Mad Maggie](3-Mechanics/CLI/bestiary/npc/mad-maggie-bgdia.md) and the Knucklebones. Let the characters' decisions, insights, knowledge, roleplaying, successes, and failures move the slider up or down the scale as you see fit.
 
-![](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/051-d9bim-03-03.webp#center)
+![](file://adventure/BGDIA/051-d9bim-03-03.webp#center)
 
 ### Entering the Fort
 
@@ -281,11 +281,11 @@ The characters can explain their predicament, and [Mad Maggie](3-Mechanics/CLI/b
 
 While Zariel's attention is focused on the Blood War, power-hungry warlords of the Avernian wastes cobble together heavily armed gangs and lead packs of infernal war machines in brutal combat, carving out vicious fiefdoms for themselves. [Mad Maggie](3-Mechanics/CLI/bestiary/npc/mad-maggie-bgdia.md) is one such warlord.
 
-[Mad Maggie](3-Mechanics/CLI/bestiary/npc/mad-maggie-bgdia.md) is a [night hag](3-Mechanics/CLI/bestiary/fiend/night-hag.md) with the demeanor of a kindly grandmother, but her warm smile masks a cruel cunning. In addition to her *heartstone*, the hag carries a black *soul bag* (see the "Night Hag" entry in the "Monster Manual" for more information on this magic items. The bag contains nine [soul coins](3-Mechanics/CLI/items/soul-coin-bgdia.md), which [Mad Maggie](3-Mechanics/CLI/bestiary/npc/mad-maggie-bgdia.md) uses to power her infernal war machines.
+[Mad Maggie](3-Mechanics/CLI/bestiary/npc/mad-maggie-bgdia.md) is a [night hag](3-Mechanics/CLI/bestiary/fiend/night-hag-xmm.md) with the demeanor of a kindly grandmother, but her warm smile masks a cruel cunning. In addition to her *heartstone*, the hag carries a black *soul bag* (see the "Night Hag" entry in the "Monster Manual" for more information on this magic items. The bag contains nine [soul coins](3-Mechanics/CLI/items/soul-coin-bgdia.md), which [Mad Maggie](3-Mechanics/CLI/bestiary/npc/mad-maggie-bgdia.md) uses to power her infernal war machines.
 
 Years ago, a thirst to experience the ultimate misery brought the night hag to the first layer of the Nine Hells. Followed to Avernus by scores of bloodthirsty redcaps, Maggie found pieces of a beautiful tapestry that chronicled the fall of Zariel. It recounted the angel's descent into Avernus, her betrayal at the hands of the Hellriders, and her submission to Asmodeus, which led to her becoming an archdevil worthy to rule Avernus. [Mad Maggie](3-Mechanics/CLI/bestiary/npc/mad-maggie-bgdia.md) is obsessed with Zariel's cataclysmic saga and scours the wastelands of Avernus for more such relics. In the crucible of the Avernian wastelands, [Mad Maggie](3-Mechanics/CLI/bestiary/npc/mad-maggie-bgdia.md) has risen to become a respected warlord.
 
-![Mad Maggie and Mickey](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/052-vhatr-03-04.webp#center)
+![Mad Maggie and Mickey](file://adventure/BGDIA/052-vhatr-03-04.webp#center)
 
 #### Maggie's Goals
 
@@ -301,16 +301,16 @@ Maggie also can furnish the characters with one or more infernal war machines, w
 
 Maggie's band consists of [Chukka](3-Mechanics/CLI/bestiary/npc/chukka-bgdia.md), [Clonk](3-Mechanics/CLI/bestiary/npc/clonk-bgdia.md), a fiendish flesh golem named Mickey, a pair of conniving imps, a flameskull, and a host of murderous fey creatures.
 
-![Chukka and Clonk](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/053-p0ex0-03-05.webp#center)
+![Chukka and Clonk](file://adventure/BGDIA/053-p0ex0-03-05.webp#center)
 
 #### Chukka and Clonk
 
-These two [kenku](3-Mechanics/CLI/bestiary/humanoid/kenku.md) are loyal, longtime associates of [Mad Maggie](3-Mechanics/CLI/bestiary/npc/mad-maggie-bgdia.md)'s. She refers to them as the Magpies. [Clonk](3-Mechanics/CLI/bestiary/npc/clonk-bgdia.md), the bigger of the two kenku, is the strong, silent type who sometimes drives [Mad Maggie](3-Mechanics/CLI/bestiary/npc/mad-maggie-bgdia.md)'s infernal war machine. [Chukka](3-Mechanics/CLI/bestiary/npc/chukka-bgdia.md) is animated, irritable, and takes care of repairs around the fort.
+These two [kenku](3-Mechanics/CLI/bestiary/monstrosity/kenku-xmm.md) are loyal, longtime associates of [Mad Maggie](3-Mechanics/CLI/bestiary/npc/mad-maggie-bgdia.md)'s. She refers to them as the Magpies. [Clonk](3-Mechanics/CLI/bestiary/npc/clonk-bgdia.md), the bigger of the two kenku, is the strong, silent type who sometimes drives [Mad Maggie](3-Mechanics/CLI/bestiary/npc/mad-maggie-bgdia.md)'s infernal war machine. [Chukka](3-Mechanics/CLI/bestiary/npc/chukka-bgdia.md) is animated, irritable, and takes care of repairs around the fort.
 
 [Chukka](3-Mechanics/CLI/bestiary/npc/chukka-bgdia.md) and [Clonk](3-Mechanics/CLI/bestiary/npc/clonk-bgdia.md) lost their weapons and replaced them with the following weapons salvaged from infernal battlefields:
 
-- [Chukka](3-Mechanics/CLI/bestiary/npc/chukka-bgdia.md) wields a silvered pike (+2 to hit) that has a reach of 10 feet and deals 5 (`1d10`) piercing damage on a hit.  
-- [Clonk](3-Mechanics/CLI/bestiary/npc/clonk-bgdia.md) wields a *hellfire warhammer* (+2 to hit) that deals 4 (`1d8`) bludgeoning damage on a hit, or 5 (`1d10`) bludgeoning damage when used with two hands. For more information on *hellfire weapons*, see "[Hellfire Weapon](3-Mechanics/CLI/items/hellfire-weapon-bgdia.md)".  
+- [Chukka](3-Mechanics/CLI/bestiary/npc/chukka-bgdia.md) wields a [silvered pike](3-Mechanics/CLI/items/silvered-weapon-xdmg.md) (`dice:1d20+2|noform|noparens|text(+2)` to hit) that has a reach of 10 feet and deals `dice:1d10|noform|noparens|avg|text(5)` (`1d10`) piercing damage on a hit.  
+- [Clonk](3-Mechanics/CLI/bestiary/npc/clonk-bgdia.md) wields a *hellfire warhammer* (`dice:1d20+2|noform|noparens|text(+2)` to hit) that deals `dice:1d8|noform|noparens|avg|text(4)` (`1d8`) bludgeoning damage on a hit, or `dice:1d10|noform|noparens|avg|text(5)` (`1d10`) bludgeoning damage when used with two hands. For more information on *hellfire weapons*, see "[Hellfire Weapon](3-Mechanics/CLI/items/hellfire-weapon-bgdia.md)".  
 
 ##### Chukka and Clonk's Goal
 
@@ -320,7 +320,7 @@ The kenku live to build, fix, and drive infernal machines. At some point during 
 
 One of the parts in the [Demon Grinder](3-Mechanics/CLI/vehicles/demon-grinder-bgdia.md)—a spiky gear—is disrupting the flow of infernal energy through the vehicle. The gear, comprised of spikes from a hezrou demon, surges with demonic energy to cause the malfunction. A successful DC 15 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana) or [Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) by a character who spends at least 10 minutes examining the vehicle reveals which part is to blame.
 
-[Chukka](3-Mechanics/CLI/bestiary/npc/chukka-bgdia.md) and [Clonk](3-Mechanics/CLI/bestiary/npc/clonk-bgdia.md) appreciate the help in identifying the problem. Characters can further assist by finding a way to remove the demonic essence from the gear. Spells such as [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md) or [protection from evil and good](3-Mechanics/CLI/spells/protection-from-evil-and-good.md), or other methods that the characters might imagine, could make the part usable. If the characters help the pair get the infernal machine running, the kenku express their pleasure to [Mad Maggie](3-Mechanics/CLI/bestiary/npc/mad-maggie-bgdia.md), who becomes even more likely to help the characters in their quest.
+[Chukka](3-Mechanics/CLI/bestiary/npc/chukka-bgdia.md) and [Clonk](3-Mechanics/CLI/bestiary/npc/clonk-bgdia.md) appreciate the help in identifying the problem. Characters can further assist by finding a way to remove the demonic essence from the gear. Spells such as [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) or [protection from evil and good](3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md), or other methods that the characters might imagine, could make the part usable. If the characters help the pair get the infernal machine running, the kenku express their pleasure to [Mad Maggie](3-Mechanics/CLI/bestiary/npc/mad-maggie-bgdia.md), who becomes even more likely to help the characters in their quest.
 
 #### Mickey the Flesh Golem
 
@@ -332,7 +332,7 @@ Unknown to anyone else at Fort Knucklebone, Mickey has a large piece of a destro
 
 #### Pins and Needles
 
-[Mad Maggie](3-Mechanics/CLI/bestiary/npc/mad-maggie-bgdia.md) cut a deal with a pit fiend to secure the services of two shrewd but lazy [imps](3-Mechanics/CLI/bestiary/fiend/imp.md) named Pins and Needles. [Mad Maggie](3-Mechanics/CLI/bestiary/npc/mad-maggie-bgdia.md) treats them with such kindness that the imps can't imagine wanting to work for anyone else. In [Mad Maggie](3-Mechanics/CLI/bestiary/npc/mad-maggie-bgdia.md)'s presence, the imps usually assume the forms of ravens that nest in her hair or perch on her shoulders.
+[Mad Maggie](3-Mechanics/CLI/bestiary/npc/mad-maggie-bgdia.md) cut a deal with a pit fiend to secure the services of two shrewd but lazy [imps](3-Mechanics/CLI/bestiary/fiend/imp-xmm.md) named Pins and Needles. [Mad Maggie](3-Mechanics/CLI/bestiary/npc/mad-maggie-bgdia.md) treats them with such kindness that the imps can't imagine wanting to work for anyone else. In [Mad Maggie](3-Mechanics/CLI/bestiary/npc/mad-maggie-bgdia.md)'s presence, the imps usually assume the forms of ravens that nest in her hair or perch on her shoulders.
 
 When not loitering around Fort Knucklebone, Pins and Needles keep tabs on the Blood War and spy on [Mad Maggie](3-Mechanics/CLI/bestiary/npc/mad-maggie-bgdia.md)'s rivals. Unlike most devils, Pins and Needles aren't gunning for promotions. They shun the infernal hierarchy and crinkle their noses in disgust when anyone tries to foist more responsibility onto them.
 
@@ -350,7 +350,7 @@ The imps' information is sound, and the characters can take care of the problem 
 
 #### Barnabas the Flameskull
 
-Barnabas, once a powerful wizard, had his crypt defiled by an evil nemesis who stole his skull and turned it into a [flameskull](3-Mechanics/CLI/bestiary/undead/flameskull.md). [Mad Maggie](3-Mechanics/CLI/bestiary/npc/mad-maggie-bgdia.md) struck a bargain with this rival wizard and took Barnabas as payment. Now he's a part of her gang.
+Barnabas, once a powerful wizard, had his crypt defiled by an evil nemesis who stole his skull and turned it into a [flameskull](3-Mechanics/CLI/bestiary/undead/flameskull-xmm.md). [Mad Maggie](3-Mechanics/CLI/bestiary/npc/mad-maggie-bgdia.md) struck a bargain with this rival wizard and took Barnabas as payment. Now he's a part of her gang.
 
 Barnabas is forgetful and a bit pompous, but every now and then he has amazing ideas and remembers remarkably useful things from his arcane past.
 
@@ -362,7 +362,7 @@ He quietly asks the characters to help him find his missing tooth. He points out
 
 ##### Helping Barnabas
 
-Characters can question the redcaps, starting with Grubba, to find out who has the tooth. Each time they question a redcap, there is a 50 percent chance that the redcap gets angry and attacks the characters, backed up by `1d4` additional redcaps.
+Characters can question the redcaps, starting with Grubba, to find out who has the tooth. Each time they question a redcap, there is a 50 percent chance that the redcap gets angry and attacks the characters, backed up by `dice:1d4|noform|noparens|avg` (`1d4`) additional redcaps.
 
 The redcaps believe the tooth is a lucky charm, so they frequently pass it from one to the next to keep Barnabas from finding it. Because of this constant transfer of the tooth, there's little hope of the characters finding it by confronting one redcap at a time. However, a character who quietly observes the redcaps for 10 minutes can attempt a DC 11 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. On a success, the character sees one redcap passing a bloody pouch to another redcap, who tucks it in a pocket. This pouch contains Barnabas's tooth.
 
@@ -370,7 +370,7 @@ A character who moves within reach of the redcap can attempt to pick its pocket 
 
 No redcap relinquishes the pouch willingly, though it can be magically [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) into doing so. The redcap attacks any character who tries to take it by force, and twelve other redcaps join the fight on the next round. [Mad Maggie](3-Mechanics/CLI/bestiary/npc/mad-maggie-bgdia.md) won't break up such a fight unless the characters have done something nice for her, although if the dreamscape ritual has not taken place yet, she won't allow the redcaps to kill a character.
 
-![Madcap](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/054-yaoms-03-06.webp#center)
+![Madcap](file://adventure/BGDIA/054-yaoms-03-06.webp#center)
 
 #### Redcaps and Madcaps
 
@@ -413,7 +413,7 @@ Read the following boxed text when the characters first enter [Lulu](3-Mechanics
 
 Each character must make a DC 10 Intelligence saving throw. If one or more of the characters succeed, the sunny meadow fades to black as the dream sequence progresses toward the next dream.
 
-If all the characters fail the saving throw, each character takes 11 (`2d10`) psychic damage, and all of them must attempt the saving throw again. If at least one character succeeds the second time, this dream fades and the next one begins. If everyone fails the save again, all the characters take the psychic damage again. This process continues until at least one character succeeds or everyone falls [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious).
+If all the characters fail the saving throw, each character takes `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) psychic damage, and all of them must attempt the saving throw again. If at least one character succeeds the second time, this dream fades and the next one begins. If everyone fails the save again, all the characters take the psychic damage again. This process continues until at least one character succeeds or everyone falls [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious).
 
 #### Dream 2: Betrayal!
 
@@ -426,9 +426,9 @@ Characters who are conscious when the first dream ends proceed to the second dre
 > "The devils!" hisses the hag's disembodied voice. "You must defeat those devils!"
 ^1d2
 
-The characters must defend [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) and Zariel from the six [spined devils](3-Mechanics/CLI/bestiary/fiend/spined-devil.md). At this point, the characters and the devils should roll initiative. The dreamscape combat that follows pits the characters against the dream-devils. The characters begin combat at full hit points, minus any psychic damage taken in the previous dream. All damage dealt by the dream-devils converts to psychic damage. The devils let out dying screams and fall dead when reduced to 0 hit points.
+The characters must defend [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) and Zariel from the six [spined devils](3-Mechanics/CLI/bestiary/fiend/spined-devil-xmm.md). At this point, the characters and the devils should roll initiative. The dreamscape combat that follows pits the characters against the dream-devils. The characters begin combat at full hit points, minus any psychic damage taken in the previous dream. All damage dealt by the dream-devils converts to psychic damage. The devils let out dying screams and fall dead when reduced to 0 hit points.
 
-This dream ends when half of the [spined devils](3-Mechanics/CLI/bestiary/fiend/spined-devil.md) are reduced to 0 hit points. When the dream ends, the battlefield fades to black as the dream sequence proceeds with the next dream.
+This dream ends when half of the [spined devils](3-Mechanics/CLI/bestiary/fiend/spined-devil-xmm.md) are reduced to 0 hit points. When the dream ends, the battlefield fades to black as the dream sequence proceeds with the next dream.
 
 #### Dream 3: Devil Deal
 
@@ -454,11 +454,11 @@ When the fourth dream begins, read:
 > "Don't let the sludge consume you!" says [Mad Maggie](3-Mechanics/CLI/bestiary/npc/mad-maggie-bgdia.md)'s disembodied voice. "You must push through her defenses. She must look!"
 ^1d6
 
-Have the characters roll initiative for their dream-selves. Each character is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) by the black sludge. On its turn, a character must use its action to try to get free of the sludge, doing so with a successful DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) or Dexterity ([Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)) check. If at least one character accepted the devils' terms in the previous dream, [spined devils](3-Mechanics/CLI/bestiary/fiend/spined-devil.md) swoop down from the sky to help the characters pull free, granting advantage on each character's ability check.
+Have the characters roll initiative for their dream-selves. Each character is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) by the black sludge. On its turn, a character must use its action to try to get free of the sludge, doing so with a successful DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) or Dexterity ([Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)) check. If at least one character accepted the devils' terms in the previous dream, [spined devils](3-Mechanics/CLI/bestiary/fiend/spined-devil-xmm.md) swoop down from the sky to help the characters pull free, granting advantage on each character's ability check.
 
 A character who gets free of the sludge rises up into the air and quickly shakes off the sense of horrible loss. For the rest of this dream, the freed character can do nothing except use the [Help](3-Mechanics/CLI/rules/actions.md#Help) action on each of its turns to assist another character still trapped in the sludge.
 
-A character who fails the initial check to escape the sludge must repeat the check at the start of each of its turns. With each failed check after the first, the character takes 22 (`4d10`) psychic damage as the sense of horrible loss intensifies. If a character is reduced to 0 hit points by this psychic damage, its dream-self becomes completely submerged in the sludge and is lost.
+A character who fails the initial check to escape the sludge must repeat the check at the start of each of its turns. With each failed check after the first, the character takes `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) psychic damage as the sense of horrible loss intensifies. If a character is reduced to 0 hit points by this psychic damage, its dream-self becomes completely submerged in the sludge and is lost.
 
 The dreamscape can continue into the final dream provided at least one character's dream-self escapes from the sludge.
 
@@ -490,7 +490,7 @@ The manner in which the Knucklebones bid farewell to the characters depends on h
 
 #### Vengeful Pursuits
 
-If the characters take one or more infernal war machines from Fort Knucklebone without [Mad Maggie](3-Mechanics/CLI/bestiary/npc/mad-maggie-bgdia.md)'s consent, the night hag organizes a posse to run them down and get back what's hers, plus "interest." [Mad Maggie](3-Mechanics/CLI/bestiary/npc/mad-maggie-bgdia.md) chases after them in her [Scavenger](3-Mechanics/CLI/vehicles/scavenger-bgdia.md), with Mickey in the passenger seat behind her while she drives. Barnabas the flameskull operates the Grappling Claw with his [mage hand](3-Mechanics/CLI/spells/mage-hand.md) spell, [Chukka](3-Mechanics/CLI/bestiary/npc/chukka-bgdia.md) and [Clonk](3-Mechanics/CLI/bestiary/npc/clonk-bgdia.md) operate the Harpoon Flingers, and six madcaps cling to the outside hull, ready to leap onto enemy vehicles. If [Chukka](3-Mechanics/CLI/bestiary/npc/chukka-bgdia.md) and [Clonk](3-Mechanics/CLI/bestiary/npc/clonk-bgdia.md) got the broken [Demon Grinder](3-Mechanics/CLI/vehicles/demon-grinder-bgdia.md) working, that vehicle comes after the characters as well and is manned entirely by redcaps and madcaps.
+If the characters take one or more infernal war machines from Fort Knucklebone without [Mad Maggie](3-Mechanics/CLI/bestiary/npc/mad-maggie-bgdia.md)'s consent, the night hag organizes a posse to run them down and get back what's hers, plus "interest." [Mad Maggie](3-Mechanics/CLI/bestiary/npc/mad-maggie-bgdia.md) chases after them in her [Scavenger](3-Mechanics/CLI/vehicles/scavenger-bgdia.md), with Mickey in the passenger seat behind her while she drives. Barnabas the flameskull operates the Grappling Claw with his [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md) spell, [Chukka](3-Mechanics/CLI/bestiary/npc/chukka-bgdia.md) and [Clonk](3-Mechanics/CLI/bestiary/npc/clonk-bgdia.md) operate the Harpoon Flingers, and six madcaps cling to the outside hull, ready to leap onto enemy vehicles. If [Chukka](3-Mechanics/CLI/bestiary/npc/chukka-bgdia.md) and [Clonk](3-Mechanics/CLI/bestiary/npc/clonk-bgdia.md) got the broken [Demon Grinder](3-Mechanics/CLI/vehicles/demon-grinder-bgdia.md) working, that vehicle comes after the characters as well and is manned entirely by redcaps and madcaps.
 
 ## Raggadragga Attacks!
 
@@ -501,13 +501,13 @@ As the characters reach a half-mile or so away from Fort Knucklebone, trouble co
 > A plume of red dust billows in the distance, created by a large infernal war machine barreling in your direction. Its crew consists of boar-headed and rat-headed humanoids, all wearing goggles.
 ^1dc
 
-![Raggadragga](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/055-1ivlr-03-07.webp#center)
+![Raggadragga](file://adventure/BGDIA/055-1ivlr-03-07.webp#center)
 
 The incoming infernal war machine is a gore-spattered [Demon Grinder](3-Mechanics/CLI/vehicles/demon-grinder-bgdia.md) with gnashing metal teeth at the front and a wrecking ball swinging behind it. As it moves to intercept the characters, the vehicle is not trying to be stealthy.
 
 If the characters have one or more infernal war machines, they can try to outrun, outmaneuver, or destroy the approaching enemy vehicle. If they are on foot, they must find a way to disable the vehicle and defeat the creatures inside. If they do so, they can claim the [Demon Grinder](3-Mechanics/CLI/vehicles/demon-grinder-bgdia.md) for themselves.
 
-The [Demon Grinder](3-Mechanics/CLI/vehicles/demon-grinder-bgdia.md) is driven by the warlord [Raggadragga](3-Mechanics/CLI/bestiary/npc/raggadragga-bgdia.md), a [wereboar](3-Mechanics/CLI/bestiary/humanoid/wereboar.md) with 120 hit points. He leads the Goreguts Gang, which consists of two other [wereboars](3-Mechanics/CLI/bestiary/humanoid/wereboar.md) named Jibbs and Oozywog (who operate the vehicle's Chomper and Wrecking Ball stations) and two [wererats](3-Mechanics/CLI/bestiary/humanoid/wererat.md) named Finnik and Yeegha (who operate the vehicle's Harpoon Flingers). Avernus has no moons, so the Goreguts Gang isn't beholden to lunar cycles. Its members prefer their hybrid forms.
+The [Demon Grinder](3-Mechanics/CLI/vehicles/demon-grinder-bgdia.md) is driven by the warlord [Raggadragga](3-Mechanics/CLI/bestiary/npc/raggadragga-bgdia.md), a [wereboar](3-Mechanics/CLI/bestiary/monstrosity/wereboar-xmm.md) with 120 hit points. He leads the Goreguts Gang, which consists of two other [wereboars](3-Mechanics/CLI/bestiary/monstrosity/wereboar-xmm.md) named Jibbs and Oozywog (who operate the vehicle's Chomper and Wrecking Ball stations) and two [wererats](3-Mechanics/CLI/bestiary/monstrosity/wererat-xmm.md) named Finnik and Yeegha (who operate the vehicle's Harpoon Flingers). Avernus has no moons, so the Goreguts Gang isn't beholden to lunar cycles. Its members prefer their hybrid forms.
 
 If he defeats the characters, [Raggadragga](3-Mechanics/CLI/bestiary/npc/raggadragga-bgdia.md) gets whatever information he can out of them before attempting to ransom them back to [Mad Maggie](3-Mechanics/CLI/bestiary/npc/mad-maggie-bgdia.md). The night hag may or may not pay for them, depending on her disposition toward the characters when they left Fort Knucklebone.
 
@@ -515,19 +515,19 @@ If the characters defeat the Goreguts Gang, they can take possession of the [Dem
 
 ### Treasure
 
-[Raggadragga](3-Mechanics/CLI/bestiary/npc/raggadragga-bgdia.md) carries three [soul coins](3-Mechanics/CLI/items/soul-coin-bgdia.md) that he uses to fuel the [Demon Grinder](3-Mechanics/CLI/vehicles/demon-grinder-bgdia.md). He also carries a [circlet of blasting](3-Mechanics/CLI/items/circlet-of-blasting.md), which he can don and use to make ranged attacks. The other members of the Goreguts Gang have no treasure.
+[Raggadragga](3-Mechanics/CLI/bestiary/npc/raggadragga-bgdia.md) carries three [soul coins](3-Mechanics/CLI/items/soul-coin-bgdia.md) that he uses to fuel the [Demon Grinder](3-Mechanics/CLI/vehicles/demon-grinder-bgdia.md). He also carries a [circlet of blasting](3-Mechanics/CLI/items/circlet-of-blasting-xdmg.md), which he can don and use to make ranged attacks. The other members of the Goreguts Gang have no treasure.
 
-![The warlords of Avernus co...](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/056-aw9op-03-08-full.webp#center "The warlords of Avernus conquer the hellish wastelands in infernal war machines powered by souls")
+![The warlords of Avernus conquer the hellish wastelands in infernal war machines powered by souls](file://adventure/BGDIA/056-aw9op-03-08-full.webp#center)
 
 ## Warlords of the Avernian Wastelands
 
-As the characters cross the wastelands of Avernus, they will likely run afoul of petty warlords scavenging for [soul coins](3-Mechanics/CLI/items/soul-coin-bgdia.md) and scrap metal to fuel and repair their infernal war machines. [Mad Maggie](3-Mechanics/CLI/bestiary/npc/mad-maggie-bgdia.md) and [Raggadragga](3-Mechanics/CLI/bestiary/npc/raggadragga-bgdia.md) are two warlords whom the characters meet early on. The following sections describe three other warlords who prowl the Avernian wastes: a wingless [horned devil](3-Mechanics/CLI/bestiary/fiend/horned-devil.md) named [Bitter Breath](3-Mechanics/CLI/bestiary/npc/bitter-breath-bgdia.md), a human necromancer named [Feonor](3-Mechanics/CLI/bestiary/npc/feonor-bgdia.md), and a [chain devil](3-Mechanics/CLI/bestiary/fiend/chain-devil.md) named [Princeps Kovik](3-Mechanics/CLI/bestiary/npc/princeps-kovik-bgdia.md). These warlords are as cruel and merciless as the hell they inhabit. All share a "survival of the fittest" mentality.
+As the characters cross the wastelands of Avernus, they will likely run afoul of petty warlords scavenging for [soul coins](3-Mechanics/CLI/items/soul-coin-bgdia.md) and scrap metal to fuel and repair their infernal war machines. [Mad Maggie](3-Mechanics/CLI/bestiary/npc/mad-maggie-bgdia.md) and [Raggadragga](3-Mechanics/CLI/bestiary/npc/raggadragga-bgdia.md) are two warlords whom the characters meet early on. The following sections describe three other warlords who prowl the Avernian wastes: a wingless [horned devil](3-Mechanics/CLI/bestiary/fiend/horned-devil-xmm.md) named [Bitter Breath](3-Mechanics/CLI/bestiary/npc/bitter-breath-bgdia.md), a human necromancer named [Feonor](3-Mechanics/CLI/bestiary/npc/feonor-bgdia.md), and a [chain devil](3-Mechanics/CLI/bestiary/fiend/chain-devil-xmm.md) named [Princeps Kovik](3-Mechanics/CLI/bestiary/npc/princeps-kovik-bgdia.md). These warlords are as cruel and merciless as the hell they inhabit. All share a "survival of the fittest" mentality.
 
 In Avernus, a warlord's power is measured by the strength and size of its gang, and the threat posed by its infernal war machines. As one warlord bites the dust, another inevitably rises to take its place. [Bitter Breath](3-Mechanics/CLI/bestiary/npc/bitter-breath-bgdia.md), [Feonor](3-Mechanics/CLI/bestiary/npc/feonor-bgdia.md), and [Princeps Kovik](3-Mechanics/CLI/bestiary/npc/princeps-kovik-bgdia.md) are merely the latest in a long series of warlords to plague the Avernian expanse. If Zariel wasn't so busy fighting the Blood War, she would rid Avernus of these roaming pests; as things stand, she's content to let the warlords wipe each other out instead.
 
 If you need to add some excitement to the adventure, have one of these warlords show up to challenge the characters. One warlord might be after [soul coins](3-Mechanics/CLI/items/soul-coin-bgdia.md) to fuel its infernal war machines, while another might be eager to forge an alliance with a capable band of adventurers against a greater foe. With the exception of [Mad Maggie](3-Mechanics/CLI/bestiary/npc/mad-maggie-bgdia.md), these warlords have no lairs, so they can be encountered anywhere at any time.
 
-Avernus has more warlords than the ones described here. You can create new ones, each with their own gangs and infernal war machines. Don't worry about throwing too many infernal war machines at the characters. You can curtail the characters' reliance on infernal war machines by restricting their access to [soul coins](3-Mechanics/CLI/items/soul-coin-bgdia.md), which the vehicles burn as fuel. A typical warlord has `2d6` [soul coins](3-Mechanics/CLI/items/soul-coin-bgdia.md) and `2d6` flasks of demon ichor (see "Demon Ichor") at any given time.
+Avernus has more warlords than the ones described here. You can create new ones, each with their own gangs and infernal war machines. Don't worry about throwing too many infernal war machines at the characters. You can curtail the characters' reliance on infernal war machines by restricting their access to [soul coins](3-Mechanics/CLI/items/soul-coin-bgdia.md), which the vehicles burn as fuel. A typical warlord has `dice:2d6|noform|noparens|avg` (`2d6`) [soul coins](3-Mechanics/CLI/items/soul-coin-bgdia.md) and `dice:2d6|noform|noparens|avg` (`2d6`) flasks of demon ichor (see "Demon Ichor") at any given time.
 
 ### Infernal War Machine Combat
 
@@ -537,35 +537,35 @@ If a situation arises that the vehicle rules don't cover, fall back on the core 
 
 ### Bitter Breath
 
-[Bitter Breath](3-Mechanics/CLI/bestiary/npc/bitter-breath-bgdia.md) is a resentful, vindictive warlord that fell prey to the cutthroat politics of Avernus. Formerly a pit fiend named L'zeth, it strove to undermine Zariel while courting [Bel](3-Mechanics/CLI/bestiary/npc/bel-bgdia.md). Shortly after claiming rulership of Avernus, Zariel demoted L'zeth to a [horned devil](3-Mechanics/CLI/bestiary/fiend/horned-devil.md).
+[Bitter Breath](3-Mechanics/CLI/bestiary/npc/bitter-breath-bgdia.md) is a resentful, vindictive warlord that fell prey to the cutthroat politics of Avernus. Formerly a pit fiend named L'zeth, it strove to undermine Zariel while courting [Bel](3-Mechanics/CLI/bestiary/npc/bel-bgdia.md). Shortly after claiming rulership of Avernus, Zariel demoted L'zeth to a [horned devil](3-Mechanics/CLI/bestiary/fiend/horned-devil-xmm.md).
 
-![](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/057-u4jqy-03-09.webp#center)
+![](file://adventure/BGDIA/057-u4jqy-03-09.webp#center)
 
 For a while, L'zeth nursed its damaged pride. Eventually, the despondent devil reignited its ambitions and became involved in a plot to overthrow Zariel. The archdevil's spies learned of the plot. As further punishment, Zariel removed L'zeth's wings and cursed the horned devil so that it could no longer enter into deals. Any document that L'zeth signs melts away, and any words it utters turn to smoke in its mouth. Thus did L'zeth become known as [Bitter Breath](3-Mechanics/CLI/bestiary/npc/bitter-breath-bgdia.md).
 
 #### Bitter Breath's Marauders
 
-Zariel has declared that no other devil may associate with [Bitter Breath](3-Mechanics/CLI/bestiary/npc/bitter-breath-bgdia.md). However, Zariel's decree hasn't stopped the fiendish outcast from joining forces with a gang of marauding hobgoblins under the command of a battle-hardened [hobgoblin warlord](3-Mechanics/CLI/bestiary/humanoid/hobgoblin-warlord.md) named High Graj Karkajuk.
+Zariel has declared that no other devil may associate with [Bitter Breath](3-Mechanics/CLI/bestiary/npc/bitter-breath-bgdia.md). However, Zariel's decree hasn't stopped the fiendish outcast from joining forces with a gang of marauding hobgoblins under the command of a battle-hardened [hobgoblin warlord](3-Mechanics/CLI/bestiary/fey/hobgoblin-warlord-xmm.md) named High Graj Karkajuk.
 
-[Bitter Breath](3-Mechanics/CLI/bestiary/npc/bitter-breath-bgdia.md) drives a [Tormentor](3-Mechanics/CLI/vehicles/tormentor-bgdia.md) that has an Infernal Screamer (see "Infernal Screamer") instead of a Harpoon Flinger. [Hobgoblins](3-Mechanics/CLI/bestiary/humanoid/hobgoblin.md) round out the Tormentor's crew. High Graj Karkajuk drives a [Devil's Ride](3-Mechanics/CLI/vehicles/devils-ride-bgdia.md) and commands a pair of [Scavengers](3-Mechanics/CLI/vehicles/scavenger-bgdia.md) driven by [hobgoblin captains](3-Mechanics/CLI/bestiary/humanoid/hobgoblin-captain.md) and crewed by ordinary [hobgoblins](3-Mechanics/CLI/bestiary/humanoid/hobgoblin.md). See appendix B for the vehicles' stat blocks.
+[Bitter Breath](3-Mechanics/CLI/bestiary/npc/bitter-breath-bgdia.md) drives a [Tormentor](3-Mechanics/CLI/vehicles/tormentor-bgdia.md) that has an Infernal Screamer (see "Infernal Screamer") instead of a Harpoon Flinger. [Hobgoblins](3-Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md) round out the Tormentor's crew. High Graj Karkajuk drives a [Devil's Ride](3-Mechanics/CLI/vehicles/devils-ride-bgdia.md) and commands a pair of [Scavengers](3-Mechanics/CLI/vehicles/scavenger-bgdia.md) driven by [hobgoblin captains](3-Mechanics/CLI/bestiary/fey/hobgoblin-captain-xmm.md) and crewed by ordinary [hobgoblins](3-Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md). See appendix B for the vehicles' stat blocks.
 
 ### Feonor
 
-![](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/058-gyhxw-03-10.webp#center)
+![](file://adventure/BGDIA/058-gyhxw-03-10.webp#center)
 
-[Feonor](3-Mechanics/CLI/bestiary/npc/feonor-bgdia.md) is a willowy, neutral evil [archmage](3-Mechanics/CLI/bestiary/humanoid/archmage.md) with milky-white eyes and a parasol made of bones and human flesh. Her rivals know her as a powerful necromancer. They suspect that she fled the Material Plane to escape some horrible fate, but the truth is she was invited to Avernus by Mahadi, the rakshasa master of the Wandering Emporium (see "The Wandering Emporium"). During a visit to [Feonor](3-Mechanics/CLI/bestiary/npc/feonor-bgdia.md)'s world, Mahadi fell head-over-heels in love with her zombie-like indifference. Not long after arriving in Avernus, [Feonor](3-Mechanics/CLI/bestiary/npc/feonor-bgdia.md) grew bored of Mahadi's attempts to impress her. Without so much as a farewell, she took to the Avernian wastes on one of the rakshasa's infernal war machines and never looked back. Years later, Mahadi still refers to her as "the one the got away."
+[Feonor](3-Mechanics/CLI/bestiary/npc/feonor-bgdia.md) is a willowy, neutral evil [archmage](3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md) with milky-white eyes and a parasol made of bones and human flesh. Her rivals know her as a powerful necromancer. They suspect that she fled the Material Plane to escape some horrible fate, but the truth is she was invited to Avernus by Mahadi, the rakshasa master of the Wandering Emporium (see "The Wandering Emporium"). During a visit to [Feonor](3-Mechanics/CLI/bestiary/npc/feonor-bgdia.md)'s world, Mahadi fell head-over-heels in love with her zombie-like indifference. Not long after arriving in Avernus, [Feonor](3-Mechanics/CLI/bestiary/npc/feonor-bgdia.md) grew bored of Mahadi's attempts to impress her. Without so much as a farewell, she took to the Avernian wastes on one of the rakshasa's infernal war machines and never looked back. Years later, Mahadi still refers to her as "the one the got away."
 
 The scowl on [Feonor](3-Mechanics/CLI/bestiary/npc/feonor-bgdia.md)'s face hints at her constant annoyance with the multiverse around her. She prefers not to speak, and when she does, it's typically only in whispers, her short sentences interspersed and punctuated with frustrated sighs.
 
 #### Golden Doom
 
-[Feonor](3-Mechanics/CLI/bestiary/npc/feonor-bgdia.md) rides around in a [Demon Grinder](3-Mechanics/CLI/vehicles/demon-grinder-bgdia.md) called *Golden Doom*, so named because Mahadi fitted it with gilded death armor (see "Gilded Death Armor"). The vehicle is driven by a [ghast](3-Mechanics/CLI/bestiary/undead/ghast.md), and its other stations are operated by [ghouls](3-Mechanics/CLI/bestiary/undead/ghoul.md). She also commands a force of ten [crawling claws](3-Mechanics/CLI/bestiary/undead/crawling-claw.md). A pair of [Tormentors](3-Mechanics/CLI/vehicles/tormentor-bgdia.md) crewed by [mezzoloths](3-Mechanics/CLI/bestiary/fiend/mezzoloth.md) provide escort.
+[Feonor](3-Mechanics/CLI/bestiary/npc/feonor-bgdia.md) rides around in a [Demon Grinder](3-Mechanics/CLI/vehicles/demon-grinder-bgdia.md) called *Golden Doom*, so named because Mahadi fitted it with gilded death armor (see "Gilded Death Armor"). The vehicle is driven by a [ghast](3-Mechanics/CLI/bestiary/undead/ghast-xmm.md), and its other stations are operated by [ghouls](3-Mechanics/CLI/bestiary/undead/ghoul-xmm.md). She also commands a force of ten [crawling claws](3-Mechanics/CLI/bestiary/undead/crawling-claw-xmm.md). A pair of [Tormentors](3-Mechanics/CLI/vehicles/tormentor-bgdia.md) crewed by [mezzoloths](3-Mechanics/CLI/bestiary/fiend/mezzoloth-xmm.md) provide escort.
 
 ### Princeps Kovik
 
-![](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/059-kyqim-03-11.webp#center)
+![](file://adventure/BGDIA/059-kyqim-03-11.webp#center)
 
-This particularly cruel [chain devil](3-Mechanics/CLI/bestiary/fiend/chain-devil.md) commanded the Nine Hells' 8th Infantry Legion, "Terror Incarnate," which was crushed on the banks of the River Styx by the demon lord [Kostchtchie](3-Mechanics/CLI/bestiary/npc/kostchtchie-bgdia.md). Blaming its superiors for the defeat, [Princeps Kovik](3-Mechanics/CLI/bestiary/npc/princeps-kovik-bgdia.md) gathered the surviving members of its legion and formed the Eighth Remnant, a marauding gang of devils no longer beholden to the infernal hierarchy.
+This particularly cruel [chain devil](3-Mechanics/CLI/bestiary/fiend/chain-devil-xmm.md) commanded the Nine Hells' 8th Infantry Legion, "Terror Incarnate," which was crushed on the banks of the River Styx by the demon lord [Kostchtchie](3-Mechanics/CLI/bestiary/npc/kostchtchie-bgdia.md). Blaming its superiors for the defeat, [Princeps Kovik](3-Mechanics/CLI/bestiary/npc/princeps-kovik-bgdia.md) gathered the surviving members of its legion and formed the Eighth Remnant, a marauding gang of devils no longer beholden to the infernal hierarchy.
 
 The devils that serve under Kovik do so willingly because the chain devil has earned their trust. Newly disenfranchised devils regularly flock to Kovik's banner. The chain devil's emblem is the numeral 8 made out of iron chain on a crimson field. Kovik aims to gather enough strength and infernal war machines to do what no archdevil has been able to do: drive the demons back to the Abyss for good.
 
@@ -573,9 +573,9 @@ The devils that serve under Kovik do so willingly because the chain devil has ea
 
 The Eighth Remnant chases down any potential source of [soul coins](3-Mechanics/CLI/items/soul-coin-bgdia.md). Targets who give up their [soul coins](3-Mechanics/CLI/items/soul-coin-bgdia.md) freely are allowed to continue on their way without further harassment, provided there are no demons lurking among them.
 
-Kovik has a [Devil's Ride](3-Mechanics/CLI/vehicles/devils-ride-bgdia.md) and travels with two [bearded devils](3-Mechanics/CLI/bestiary/fiend/bearded-devil.md) on similar vehicles. The rest of the gang consists of four [barbed devils](3-Mechanics/CLI/bestiary/fiend/barbed-devil.md) on a [Tormentor](3-Mechanics/CLI/vehicles/tormentor-bgdia.md) and eight [bearded devils](3-Mechanics/CLI/bestiary/fiend/bearded-devil.md) on a [Demon Grinder](3-Mechanics/CLI/vehicles/demon-grinder-bgdia.md). Members of the Eighth Remnant never use demon ichor in their vehicles.
+Kovik has a [Devil's Ride](3-Mechanics/CLI/vehicles/devils-ride-bgdia.md) and travels with two [bearded devils](3-Mechanics/CLI/bestiary/fiend/bearded-devil-xmm.md) on similar vehicles. The rest of the gang consists of four [barbed devils](3-Mechanics/CLI/bestiary/fiend/barbed-devil-xmm.md) on a [Tormentor](3-Mechanics/CLI/vehicles/tormentor-bgdia.md) and eight [bearded devils](3-Mechanics/CLI/bestiary/fiend/bearded-devil-xmm.md) on a [Demon Grinder](3-Mechanics/CLI/vehicles/demon-grinder-bgdia.md). Members of the Eighth Remnant never use demon ichor in their vehicles.
 
-![](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/060-l2faf-03-12.webp#center)
+![](file://adventure/BGDIA/060-l2faf-03-12.webp#center)
 
 ## Quest for the Sword
 
@@ -600,11 +600,11 @@ Haruman's Hill is marked on map 3.1. When the characters arrive at this location
 > Wrought iron trees line a trail that leads to the summit of a steep hill. Anguished knights are impaled on the trees' metal branches, their bodies writhing in torment as bloated stirges feast on their blood.
 ^1ea
 
-Haruman, a human paladin of Helm, was one of Zariel's most devoted Hellriders. He crucified deserters to Zariel's cause on "Coward's Way," a line of tortured souls leading to this desolate hill. Each soul is pinned to a barbed, metal tree. Inscriptions above their heads attest that most of them were mortal knights who abandoned Zariel during her assault into Avernus. Flocks of [stirges](3-Mechanics/CLI/bestiary/beast/stirge.md) buzz between the branches, feasting hungrily on the screaming, crucified victims. The stirges attack the characters only if they try to free the captives (see "Haruman's Arrival" below). Roll `2d4` to determine the number of attacking stirges.
+Haruman, a human paladin of Helm, was one of Zariel's most devoted Hellriders. He crucified deserters to Zariel's cause on "Coward's Way," a line of tortured souls leading to this desolate hill. Each soul is pinned to a barbed, metal tree. Inscriptions above their heads attest that most of them were mortal knights who abandoned Zariel during her assault into Avernus. Flocks of [stirges](3-Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md) buzz between the branches, feasting hungrily on the screaming, crucified victims. The stirges attack the characters only if they try to free the captives (see "Haruman's Arrival" below). Roll `dice:2d4|noform|noparens|avg` (`2d4`) to determine the number of attacking stirges.
 
 ### Jander Sunstar
 
-Near the summit of the hill, the [vampire](3-Mechanics/CLI/bestiary/undead/vampire.md) Jander Sunstar is impaled on one of the largest iron trees. This elf warrior, cursed to an eternity of undeath, tried to redeem his corrupted soul by swearing to hunt down his own kind. Later, he volunteered to join Zariel on her crusade into the Nine Hells. Stirges now swarm back and forth from Jander's body, preserving his existence by injecting him with the blood of his traitorous companions.
+Near the summit of the hill, the [vampire](3-Mechanics/CLI/bestiary/undead/vampire-xmm.md) Jander Sunstar is impaled on one of the largest iron trees. This elf warrior, cursed to an eternity of undeath, tried to redeem his corrupted soul by swearing to hunt down his own kind. Later, he volunteered to join Zariel on her crusade into the Nine Hells. Stirges now swarm back and forth from Jander's body, preserving his existence by injecting him with the blood of his traitorous companions.
 
 Jander pleads for the characters to cut him down so that his soul can move on from this accursed place. He reveals the following information:
 
@@ -617,9 +617,9 @@ When she beholds Jander impaled on the iron tree, [Lulu](3-Mechanics/CLI/bestiar
 
 ### Haruman's Arrival
 
-If the characters free Jander or any of his companions, their bodies crumble to dust in grateful release. In response, twenty [stirges](3-Mechanics/CLI/bestiary/beast/stirge.md) attack the group. When the second round of combat begins, any crucified souls remaining on the trees wail in terror as Haruman, a [narzugon](3-Mechanics/CLI/bestiary/fiend/narzugon-mpmm.md), swoops down from the sky on his [nightmare](3-Mechanics/CLI/bestiary/fiend/nightmare.md) steed to punish the interlopers. He begins the encounter 300 feet away and orders the nightmare to close the distance between him and the adventurers as quickly as possible. As Haruman attacks, a [hellwasp](3-Mechanics/CLI/bestiary/fiend/hellwasp-bgdia.md) appears from a nearby nest and tries to grab [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) and fly off with her (see "Development" below).
+If the characters free Jander or any of his companions, their bodies crumble to dust in grateful release. In response, twenty [stirges](3-Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md) attack the group. When the second round of combat begins, any crucified souls remaining on the trees wail in terror as Haruman, a [narzugon](3-Mechanics/CLI/bestiary/fiend/narzugon-mpmm.md), swoops down from the sky on his [nightmare](3-Mechanics/CLI/bestiary/fiend/nightmare-xmm.md) steed to punish the interlopers. He begins the encounter 300 feet away and orders the nightmare to close the distance between him and the adventurers as quickly as possible. As Haruman attacks, a [hellwasp](3-Mechanics/CLI/bestiary/fiend/hellwasp-bgdia.md) appears from a nearby nest and tries to grab [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) and fly off with her (see "Development" below).
 
-![Haruman](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/061-xw7mq-03-13.webp#center)
+![Haruman](file://adventure/BGDIA/061-xw7mq-03-13.webp#center)
 
 If a character damages Haruman with an attack, a fresh tree bearing the character's name sprouts from the ground nearby, listing the character's crime as "assaulting an officer." Any character who sees their name on a tree for the first time must succeed on a DC 15 Wisdom saving throw or become [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) of Haruman for 1 minute. A character who fails this saving throw can repeat it at the end of each of their turns, ending the effect on them on a success.
 
@@ -635,7 +635,7 @@ If the characters thwart the hellwasp's abduction of [Lulu](3-Mechanics/CLI/best
 
 ## Hellwasp Nest
 
-![](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/062-eunqt-03-14.webp#center)
+![](file://adventure/BGDIA/062-eunqt-03-14.webp#center)
 
 *Fallen angels are meat for hellwasps. Steer clear, lest you nourish their young with your flesh*.
 
@@ -659,8 +659,8 @@ The following descriptions correspond to the areas marked on map 3.2. A hellwasp
 Map 3.2 shows where dead angels are entombed in the hellwasp nest's translucent walls. The angels' well-preserved corpses, which are visible to creatures inside the nest, keep the nest aloft. Removing them from the walls causes the nest to slowly sink to the ground.
 
 > [!gallery]
-> ![Map 3.2: Hellwasp Nest](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/063-wlfs9-map-3-2.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/064-ok29m-map-3-2-player.webp#gallery)
+> ![Map 3.2: Hellwasp Nest](file://adventure/BGDIA/063-wlfs9-map-3-2.webp#gallery)
+> ![Player Version](file://adventure/BGDIA/064-ok29m-map-3-2-player.webp#gallery)
 
 #### N1. Entry Level
 
@@ -668,7 +668,7 @@ The nest's entrance is on its underside, where one or more heavy chains tether t
 
 ##### Treasure
 
-Anyone searching through the junk finds a backpack containing five [healer's kits](3-Mechanics/CLI/items/healers-kit.md) and a fully charged [wand of magic missiles](3-Mechanics/CLI/items/wand-of-magic-missiles.md).
+Anyone searching through the junk finds a backpack containing five [healer's kits](3-Mechanics/CLI/items/healers-kit-xphb.md) and a fully charged [wand of magic missiles](3-Mechanics/CLI/items/wand-of-magic-missiles-xdmg.md).
 
 ##### Development
 
@@ -682,7 +682,7 @@ This level is honeycombed with octagonal cells crafted by the hellwasps from a r
 
 This level of the nest is always on high alert and contains three [hellwasps](3-Mechanics/CLI/bestiary/fiend/hellwasp-bgdia.md).
 
-Hellwasp larvae are incubating inside the angel carcasses on this level. If a character takes piercing or slashing damage within 15 feet of an angel carcass or moves within 5 feet of one, the carcass explodes and releases `2d6` hostile [hellwasp grubs](3-Mechanics/CLI/bestiary/beast/hellwasp-grub-bgdia.md) (use the [giant centipede](3-Mechanics/CLI/bestiary/beast/giant-centipede.md) stat block to represent them).
+Hellwasp larvae are incubating inside the angel carcasses on this level. If a character takes piercing or slashing damage within 15 feet of an angel carcass or moves within 5 feet of one, the carcass explodes and releases `dice:2d6|noform|noparens|avg` (`2d6`) hostile [hellwasp grubs](3-Mechanics/CLI/bestiary/beast/hellwasp-grub-bgdia.md) (use the [giant centipede](3-Mechanics/CLI/bestiary/beast/giant-centipede-xmm.md) stat block to represent them).
 
 #### N4. Larder
 
@@ -692,7 +692,7 @@ If [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) was abducted and brought t
 
 ##### Treasure
 
-Ruined gear belonging to previous abductees is scattered across the floor. Characters who search through the gear find three [soul coins](3-Mechanics/CLI/items/soul-coin-bgdia.md) and a [helm of telepathy](3-Mechanics/CLI/items/helm-of-telepathy.md).
+Ruined gear belonging to previous abductees is scattered across the floor. Characters who search through the gear find three [soul coins](3-Mechanics/CLI/items/soul-coin-bgdia.md) and a [helm of telepathy](3-Mechanics/CLI/items/helm-of-telepathy-xdmg.md).
 
 ##### Development
 

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Baaz Draconian"
 ---
-# [Baaz Draconian](3-Mechanics\CLI\bestiary\monstrosity/baaz-draconian-dsotdq.md)
+# [Baaz Draconian](3-Mechanics/CLI/bestiary/monstrosity/baaz-draconian-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 197*  
 
 Baaz draconians are fanatical foot soldiers that emerge from the eggs of brass dragons. They are the smallest of the draconians, and their slight wings are incapable of flight, though they do afford the draconians some control when falling. These wings are small enough to be hidden beneath a cloak or robe, and baaz draconians disguise themselves to spy for the Dragon Armies. The sight of dragons drives baaz draconians into a deadly furor. When baaz draconians die, their bodies turn to stone and unleash clouds of petrifying gas that turn their corpses and any nearby creatures into stone.
@@ -40,7 +40,7 @@ Draconians are bipedal monsters born from metallic dragon eggs that have been co
   - !!int "10"
 "speed": "30 ft."
 "gear":
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 9"
 "languages": "Common, Draconic"
@@ -68,6 +68,6 @@ Draconians are bipedal monsters born from metallic dragon eggs that have been co
     "name": "Shortsword"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/baaz-draconian-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Baaz%20Draconian.webp"
 ```
 ^statblock

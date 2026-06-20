@@ -12,6 +12,8 @@ aliases:
 
 **Mournland Adventure Hooks**
 
+`dice: [](adventures-and-encounters-mournland-adventure-hooks-erlw.md#^mournland-adventure-hooks)`
+
 | dice: d6 | Adventure Hook |
 |----------|----------------|
 | 1 | A Gatekeeper druid wants a rock sample from the Glass Plateau. |

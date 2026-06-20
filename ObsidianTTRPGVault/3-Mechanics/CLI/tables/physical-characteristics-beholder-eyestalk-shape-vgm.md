@@ -12,6 +12,8 @@ aliases:
 
 **Beholder Eyestalk Shape**
 
+`dice: [](physical-characteristics-beholder-eyestalk-shape-vgm.md#^beholder-eyestalk-shape)`
+
 | dice: d4 | Eyestalk Shape |
 |----------|----------------|
 | 1 | Thick and short |

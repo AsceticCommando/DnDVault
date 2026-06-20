@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Cranium Rat"
 ---
-# [Cranium Rat](3-Mechanics\CLI\bestiary\aberration/cranium-rat-mpmm.md)
+# [Cranium Rat](3-Mechanics/CLI/bestiary/aberration/cranium-rat-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 83, Volo's Guide to Monsters p. 133*  
 
 ## Cranium Rat
@@ -59,7 +59,7 @@ A single cranium rat uses its natural telepathy to communicate hunger, fear, and
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/cranium-rat-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Cranium%20Rat.webp"
 ```
 ^statblock
 

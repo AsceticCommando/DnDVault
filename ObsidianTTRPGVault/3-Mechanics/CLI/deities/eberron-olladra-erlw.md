@@ -12,7 +12,7 @@ aliases:
 ---
 # Olladra
 *Source: Eberron: Rising from the Last War p. 141* 
-![The Sovereign Host](3-Mechanics/CLI/deities/img/erlw-the-sovereign-host.webp#symbol)
+![The Sovereign Host](file://deities/ERLW/The%20Sovereign%20Host.webp#symbol)
 
 - **Alignment**: Unaligned
 - **Category**: The Sovereign Host

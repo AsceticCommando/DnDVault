@@ -13,4 +13,4 @@ aliases:
 
 **Prerequisite**: Level 7
 
-You can cast [confusion](3-Mechanics/CLI/spells/confusion.md) once using a warlock spell slot. You can't do so again until you finish a long rest.
+You can cast [confusion](3-Mechanics/CLI/spells/confusion-xphb.md) once using a warlock spell slot. You can't do so again until you finish a long rest.

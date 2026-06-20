@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Young Crystal Dragon"
 ---
-# [Young Crystal Dragon](3-Mechanics\CLI\bestiary\dragon/young-crystal-dragon-ftd.md)
+# [Young Crystal Dragon](3-Mechanics/CLI/bestiary/dragon/young-crystal-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 172*  
 
 Shimmering with radiant energy and brimming with life, crystal dragons enjoy an innate psionic connection to the Positive Plane that suffuses their bodies as well as their personalities with light. Though they prefer to live in desolate, frigid regions, many of them are among the friendliest of dragonkind, nurturing and optimistic.
@@ -39,6 +39,8 @@ Use the Crystal Dragon Personality Traits and Crystal Dragon Ideals tables to in
 
 ### Crystal Dragon Personality Traits
 
+`dice: [](young-crystal-dragon-ftd.md#^trait)`
+
 | dice: d8 | Trait |
 |----------|-------|
 | 1 | If you're not a thief or a frost giant, let's talk! |
@@ -52,6 +54,8 @@ Use the Crystal Dragon Personality Traits and Crystal Dragon Ideals tables to in
 ^trait
 
 ### Crystal Dragon Ideals
+
+`dice: [](young-crystal-dragon-ftd.md#^ideal)`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -68,6 +72,8 @@ Use the Crystal Dragon Personality Traits and Crystal Dragon Ideals tables to in
 The Crystal Dragon Adventure Hooks table offers suggestions for stories and adventures involving crystal dragons.
 
 ### Crystal Dragon Adventure Hooks
+
+`dice: [](young-crystal-dragon-ftd.md#^adventure-hook)`
 
 | dice: d8 | Adventure Hook |
 |----------|----------------|
@@ -86,6 +92,8 @@ The Crystal Dragon Adventure Hooks table offers suggestions for stories and adve
 Crystal dragons are among the most social and hospitable of dragons. They are equal parts mysterious, contemplative, and mischievous, making it difficult to know what to expect of them.
 
 ### Young Crystal Dragon Connections
+
+`dice: [](young-crystal-dragon-ftd.md#^connected-creatures)`
 
 | dice: d6 | Connected Creatures |
 |----------|---------------------|
@@ -150,12 +158,12 @@ Crystal dragons are among the most social and hospitable of dragons. They are eq
     "name": "Scintillating Breath (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 16):\n\n\
-      **At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md), [guidance](3-Mechanics/CLI/spells/guidance.md)\n\
-      \n**1/day each:** [hypnotic pattern](3-Mechanics/CLI/spells/hypnotic-pattern.md),\
-      \ [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration.md)"
+      **At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
+      \ [guidance](3-Mechanics/CLI/spells/guidance-xphb.md)\n\n**1/day each:** [hypnotic\
+      \ pattern](3-Mechanics/CLI/spells/hypnotic-pattern-xphb.md), [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md)"
     "name": "Spellcasting (Psionics)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/young-crystal-dragon-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Young%20Crystal%20Dragon.webp"
 ```
 ^statblock

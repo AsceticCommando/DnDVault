@@ -12,6 +12,8 @@ aliases:
 
 **Tiefling Names – Virtue**
 
+`dice: [](tiefling-names-virtue-xge.md#^tiefling-names-virtue)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Ambition |

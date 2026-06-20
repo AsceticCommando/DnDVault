@@ -12,6 +12,8 @@ aliases:
 
 **Hidecarved Dragons Adventure Hooks**
 
+`dice: [](hidecarved-dragons-adventure-hooks-ftd.md#^hidecarved-dragons-adventure-hooks)`
+
 | dice: d6 | Adventure Hook |
 |----------|----------------|
 | 1 | A hidecarved dragon hires the characters to undertake a quest in pursuit of the lauth's goal. |

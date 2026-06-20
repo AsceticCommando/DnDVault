@@ -20,7 +20,7 @@ aliases:
 
 Most player characters begin their adventures on the continent of Khorvaire, as shown on the poster map included with this book and on "map 2.1". Although humans make up the majority of the population in the nations of Khorvaire, the continent is home to a wide range of peoples and cultures. Once largely unified under the Kingdom of Galifar, today Khorvaire is split into many nations—some old, others newly born from the crucible of war. This chapter provides an overview of Khorvaire, a glimpse of the world that lies beyond it, and the predominant faiths of Eberron.
 
-![A Lyrandar airship venture...](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/068-2-01.webp#center "A Lyrandar airship ventures toward the dead-gray mist of the Mournland.")
+![A Lyrandar airship ventures toward the dead-gray mist of the Mournland.](file://book/ERLW/068-2-01.webp#center)
 
 ## Nations of Khorvaire
 
@@ -28,7 +28,7 @@ The following sections focus on what you need to know to create characters and N
 
 An excellent system of roads connects the central nations of Khorvaire, and travelers can always make their way by horse or coach. Major cities are linked by the lightning rail of House Orien, which allows one to avoid the perils—and tedium—of the roads. If speed is an issue, one can book passage on a House Lyrandar airship. This is the fastest way to travel, but also the most expensive. This book's introduction has more information about these and other travel options.
 
-![Map 2.1: The Continent of Khorvaire](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/069-map-khorvaire.webp#center)
+![Map 2.1: The Continent of Khorvaire](file://book/ERLW/069-map-khorvaire.webp#center)
 
 ## Aundair
 
@@ -54,7 +54,7 @@ Regardless of your Intelligence score, as an Aundairian you're sure you're the s
 
 **Arcane Talent**. If you're not going to play a magic-using class, consider creating a high elf or a human with the Magic Initiate feat. Whether you favor damage-dealing cantrips or more utilitarian ones, every Aundairian should know a little magic.
 
-**Magic Beats Mundane**. Why use your hand when you could use [mage hand](3-Mechanics/CLI/spells/mage-hand.md)? Why strain your muscles tugging on a bowstring when you could use a wand?
+**Magic Beats Mundane**. Why use your hand when you could use [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md)? Why strain your muscles tugging on a bowstring when you could use a wand?
 
 **Show Some Style**. Don't settle for common clothes and a squalid meal when you could wear [glamerweave](3-Mechanics/CLI/items/glamerweave-erlw.md) (see "chapter 5") and drink the finest wine. If you're a fighter, focus on finesse instead of crude strength. And never miss an opportunity for a clever quip.
 
@@ -62,7 +62,7 @@ Regardless of your Intelligence score, as an Aundairian you're sure you're the s
 
 Aundair intersperses pastoral farmlands between densely populated cities.
 
-![Arcanix](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/070-2-02.webp#center)
+![Arcanix](file://book/ERLW/070-2-02.webp#center)
 
 #### Arcanix
 
@@ -165,7 +165,7 @@ Built on both sides of the Howling River at a point where the river widens, the 
 
 In contrast to its welcoming countenance, Wroat casts dark shadows, and much goes on quietly behind closed doors. The absence of beggars and riffraff in the streets might also raise suspicion that Wroat is putting on appearances. The King's Dark Lanterns are ever vigilant here, and newcomers who aim to misbehave tend to disappear quickly and without so much as a whisper.
 
-![Argonth](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/071-2-03.webp#center)
+![Argonth](file://book/ERLW/071-2-03.webp#center)
 
 ### Aftermath of the Last War
 
@@ -297,7 +297,7 @@ The largest city in Darguun serves as the seat of Lhesh Haruuc Sharaat'kor. As t
 
 If you're a Ghaal'dar sailor or guild artisan, this small city—Darguun's primary seaport—could be your home. The goblinoids who live here are a sociable, rowdy lot who are also, by and large, friendly toward strangers.
 
-![Dhakaani Ruins in the Seawall Mountains](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/072-2-04.webp#center)
+![Dhakaani Ruins in the Seawall Mountains](file://book/ERLW/072-2-04.webp#center)
 
 ### Aftermath of the Last War
 
@@ -338,7 +338,7 @@ The Ghaash'kala are primarily orcs, but their numbers include a few half-orcs an
 
 The Carrion Tribes descend from explorers and refugees twisted by the evil in this realm. Explorers usually encounter these savage folk as enemies, but occasionally a hero emerges from the shadows. When creating a character from the Carrion Tribes, consider the following:
 
-![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/073-2-05.webp#center)
+![](file://book/ERLW/073-2-05.webp#center)
 
 **Sworn to an Overlord.** Your tribe is devoted to an archfiend. This can serve as the roots of a warlock's pact or the inspiration for a barbarian's rage. Are you still loyal to your dark lord, or did you break free from its influence? Either way, work with the DM to develop the details of your overlord.
 
@@ -438,7 +438,7 @@ Druidic magic is central to life in the Eldeen Reaches. Its people seek to live 
 
 - The Towering Wood is vast and untamed. The Wardens of the Wood seek to protect travelers, but swathes of forest remain entirely untouched by human or shifter. Such areas could hold giant beasts never seen in the outside world, or relics from a previous age—artifacts or ruins created by demons or the terrifying daelkyr.  
 - The fey have a strong presence in the Towering Wood. Even outside the fey stronghold of the Twilight Demesne, manifest zones tied to Thelanis (see "chapter 4") allow passage between worlds. The Eldeen Reaches are a logical origin for a character with ties to the fey.  
-- Druidic magic is a vital tool in the Eldeen Reaches. Residents use animal messengers to carry communications between villages, and beasts perform vital services. [Goodberry](3-Mechanics/CLI/spells/goodberry.md) wine takes the place of House Vadalis healing. Communities include awakened animals and plants as members.  
+- Druidic magic is a vital tool in the Eldeen Reaches. Residents use animal messengers to carry communications between villages, and beasts perform vital services. [Goodberry](3-Mechanics/CLI/spells/goodberry-xphb.md) wine takes the place of House Vadalis healing. Communities include awakened animals and plants as members.  
 
 ### Eldeen Characters
 
@@ -470,7 +470,7 @@ Located within the Towering Wood, the Twilight Demesne has close ties to the Fae
 
 The largest city in the Reaches serves as the gateway for commerce with the world beyond. Reacher merchants come from far and wide to sell their goods in the markets of Varna. All the dragonmarked houses have outposts in Varna, but as the ancestral seat of House Vadalis it houses their largest enclave.
 
-![Planar Observatory in the Eldeen Reaches](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/074-2-06.webp#center)
+![Planar Observatory in the Eldeen Reaches](file://book/ERLW/074-2-06.webp#center)
 
 ### Aftermath of the Last War
 
@@ -539,7 +539,7 @@ The capital of Karrnath is a city-fortress on the edge of the Nightwood and the 
 
 This massive forest has close ties to the Plane of Mabar. Monsters sometimes slip out of the Nightwood to threaten the surrounding regions. Criminals and fugitives who flee into the Nightwood find the dangers within deadlier than any Karrnathi executioner.
 
-![Fort Bones](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/075-2-07.webp#center)
+![Fort Bones](file://book/ERLW/075-2-07.webp#center)
 
 ### Aftermath of the Last War
 
@@ -613,7 +613,7 @@ Most of the princes are content with their domains, but ambitious rulers such as
 
 When humanity first came to Khorvaire, they found the dwarven clans of the Mror Holds locked in endless feuds. This division kept the clans from uniting against the new arrivals, and the dwarves were forced to swear fealty to Karrnath and Galifar. Over the centuries, they turned their energies to harnessing the astonishing natural resources of their mountain home. The dwarves were then reborn as merchant lords.
 
-![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/076-2-08.webp#center)
+![](file://book/ERLW/076-2-08.webp#center)
 
 In the early days of the Last War, Mror miners made an astonishing discovery: the ruins of an ancient dwarven empire, vast halls deep within the Ironroot Mountains. Explorers uncovered mines still brimming with jewels and precious ores and vaults filled with riches and powerful artifacts. The Mror restored these ancient fortresses and worked to reclaim the secrets of their ancestors. Seeing the untapped potential of the Realm Below and the broken Kingdom of Galifar, the clan lords joined together to form the Iron Council and to declare the independence and sovereignty of the Mror Holds.
 
@@ -680,7 +680,7 @@ The dwarves are also divided by their attitude toward the aberrations. Some of t
 
 Long ago, the dwarves engaged in vicious feuds that kept them from uniting as a nation. This new divide could reignite those rivalries, leading to a civil war on the surface even as evil gains strength in the depths.
 
-![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/077-2-09.webp#center)
+![](file://book/ERLW/077-2-09.webp#center)
 
 ## Q'barra
 
@@ -802,7 +802,7 @@ In the past, the tribes stood alone, but during the Last War, many halflings cam
 - The Talentan reverence for spirits derives from the fact that a variety of spirits haunt the Plains. The region contains an unusual number of manifest zones tied to Dolurrh and Thelanis (see "chapter 4" for descriptions of both). Ghosts are more likely to linger in such places, and minor fey are scattered across the Plains.  
 - Stories tell of ancient ruins that date back to the first age of the world and of a vast graveyard holding the bones of dragons.  
 
-![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/078-2-10.webp#center)
+![](file://book/ERLW/078-2-10.webp#center)
 
 ### Talentan Characters
 
@@ -867,7 +867,7 @@ As you develop a Thrane character, consider the following details:
 
 **Dealing with Darkness**. The Shadow in the Flame can tempt even the most virtuous soul. How do you react when you encounter corruption and greed? Are you a compassionate person who seeks to lead people to the light, or a zealot determined to crush all darkness?
 
-![Cathedral of the Silver Flame](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/079-2-11.webp#center)
+![Cathedral of the Silver Flame](file://book/ERLW/079-2-11.webp#center)
 
 ### Cities and Sites
 
@@ -922,7 +922,7 @@ As you develop a character or NPC from Thronehold, consider the following:
 
 **Play It Again**. If diplomats and spies have one thing in common, it's a weakness for pleasant distractions. When not playing their games of deceit, they seek out the best entertainment and companionship the island has to offer. Characters with the entertainer background can make many untrustworthy friends here.
 
-![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/080-2-12.webp#center)
+![](file://book/ERLW/080-2-12.webp#center)
 
 ### Aftermath of the Last War
 
@@ -986,13 +986,13 @@ Because of this, the nation remains on a war footing. Villages find it challengi
 
 At first glance, the homeland of the gnomes appears to be a paradise. City streets are bright and clean, the universities and libraries are the finest in Khorvaire, everyone seems happy and helpful, and crime is all but unheard of. But Zil society teems with layers of intrigue and blackmail invisible to human eyes. The Trust, a ruthless secret police force, eliminates any threat to society.
 
-![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/081-2-13.webp#center)
+![](file://book/ERLW/081-2-13.webp#center)
 
 Zilargo isn't a tyranny. Each major city has a democratically elected ruling council and a seat on the Triumvirate that governs the nation; the Trust reports to the Triumvirate. The Zil gnomes built this system, and they are quite happy with it. Their streets are safe, and as long as you play by the rules of the game, the Trust ignores you. Outsiders find this casual acceptance of preemptive assassination to be terrifying, but the Zil genuinely trust the Trust.
 
 Zil gnomes live within a web of intrigues. The Trust condones their actions, as long as they break no laws and don't threaten the state or the status quo. A gnome charlatan can connive to steal a jewel mine from another gnome—as long as the charlatan accomplishes the deed through cunning, negotiation, or deception rather than violence or outright theft, and as long as the mine stays in Zil hands. The same applies to adventurers planning schemes in Zilargo. Violence draws attention and deadly consequences from the Trust, but intrigue is perfectly acceptable.
 
-The Trust is a network of spies and assassins. Most agents of the Trust simply pass information through dead drops; some estimate that a third of the nation works for the Trust in this capacity. When the Trust identifies a threat, it acts preemptively. Trust agents prefer to solve a problem without violence—by sharing a piece of information or a whispered warning sent via a [message](3-Mechanics/CLI/spells/message.md) spell. But the Trust won't hesitate to eliminate a threat, whether with poison, spell, or blade. Typically, a target never sees the agent of their demise.
+The Trust is a network of spies and assassins. Most agents of the Trust simply pass information through dead drops; some estimate that a third of the nation works for the Trust in this capacity. When the Trust identifies a threat, it acts preemptively. Trust agents prefer to solve a problem without violence—by sharing a piece of information or a whispered warning sent via a [message](3-Mechanics/CLI/spells/message-xphb.md) spell. But the Trust won't hesitate to eliminate a threat, whether with poison, spell, or blade. Typically, a target never sees the agent of their demise.
 
 ### Interesting Things About Zilargo
 

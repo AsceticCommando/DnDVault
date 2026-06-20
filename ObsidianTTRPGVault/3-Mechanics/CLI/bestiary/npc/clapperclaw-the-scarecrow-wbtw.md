@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Clapperclaw the Scarecrow"
 ---
-# [Clapperclaw the Scarecrow](3-Mechanics\CLI\bestiary\npc/clapperclaw-the-scarecrow-wbtw.md)
+# [Clapperclaw the Scarecrow](3-Mechanics/CLI/bestiary/npc/clapperclaw-the-scarecrow-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 78*  
 
 Clapperclaw the scarecrow is 3 feet tall. Created by Granny Nightshade using a tormented child's soul she found in Gehenna, it ran away from home so that it wouldn't have to perform evil tasks for her. After fleeing Thither, Clapperclaw was waylaid by Agdon Longscarf and his harengon brigands, who stole its head, which the scarecrow describes as a most glorious stag skull. It desperately wants its head back, and it's a bit self-conscious about its replacement head: a hollow gourd that now sits askew on its shoulders. Eight copper coins are sealed inside the gourd, causing the head to rattle whenever Clapperclaw nods, turns, or shakes its head.
@@ -67,6 +67,6 @@ Clapperclaw the scarecrow is 3 feet tall. Created by Granny Nightshade using a t
     "name": "Unsettling Presence (Recharge 6)"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/npc/token/clapperclaw-the-scarecrow-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Clapperclaw%20the%20Scarecrow.webp"
 ```
 ^statblock

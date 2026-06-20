@@ -12,6 +12,8 @@ aliases:
 
 **Halfling Ideals**
 
+`dice: [](halfling-tables-halfling-ideals-mtf.md#^halfling-ideals)`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Courage. You seek to prove that the bravest heart can be contained within the smallest of packages. |

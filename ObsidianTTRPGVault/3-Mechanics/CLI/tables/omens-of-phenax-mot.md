@@ -12,6 +12,8 @@ aliases:
 
 **Omens of Phenax**
 
+`dice: [](omens-of-phenax-mot.md#^omens-of-phenax)`
+
 | dice: d6 | dice: d100 | Omen of Phenax |
 |----------|------------|----------------|
 | 1 | 79 | Shadows move independently of whatever casts them, appearing to run away. |

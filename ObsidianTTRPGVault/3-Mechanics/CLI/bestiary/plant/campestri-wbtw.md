@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Campestri"
 ---
-# [Campestri](3-Mechanics\CLI\bestiary\plant/campestri-wbtw.md)
+# [Campestri](3-Mechanics/CLI/bestiary/plant/campestri-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 232*  
 
 Campestris are happy-go-lucky mushroom-like creatures with few cares or worries. They are captivated by music, though they can't distinguish a well-played performance from a bad one. If anyone plays an instrument or sings in the campestris' vicinity, the little creatures will happily sing along, each in an obnoxiously nasal falsetto, as they dance and caper around whoever is making the music.
@@ -62,6 +62,6 @@ Campestris vary widely in color, from white to tan to dark brown, but they alway
     "name": "Spores (1/Day)"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/plant/token/campestri-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Campestri.webp"
 ```
 ^statblock

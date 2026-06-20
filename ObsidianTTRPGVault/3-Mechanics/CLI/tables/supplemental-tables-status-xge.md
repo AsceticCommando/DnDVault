@@ -12,6 +12,8 @@ aliases:
 
 **Status**
 
+`dice: [](supplemental-tables-status-xge.md#^status)`
+
 | dice: 3d6 | Status |
 |-----------|--------|
 | 3 | Dead (roll on the Cause of Death table) |

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Mend-nets"
 ---
-# [Mend-nets](3-Mechanics\CLI\bestiary\npc/mend-nets-rot.md)
+# [Mend-nets](3-Mechanics/CLI/bestiary/npc/mend-nets-rot.md)
 *Source: The Rise of Tiamat p. 32, Tyranny of Dragons p. 116*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "human"
 "alignment": "Any alignment"
 "ac": !!int "12"
-"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor.md)"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor-xphb.md)"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
 "modifier": !!int "0"
@@ -35,7 +35,7 @@ aliases:
   - !!int "8"
 "speed": "30 ft."
 "gear":
-  - "[spear](3-Mechanics/CLI/items/spear.md)"
+  - "[spear](3-Mechanics/CLI/items/spear-xphb.md)"
 "senses": "passive Perception 10"
 "languages": "any one language"
 "cr": "1/8"
@@ -52,6 +52,6 @@ aliases:
 "source":
   - "RoT"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/npc/token/mend-nets-rot.webp"
+"image": "file://bestiary/tokens/RoT/Mend-nets.webp"
 ```
 ^statblock

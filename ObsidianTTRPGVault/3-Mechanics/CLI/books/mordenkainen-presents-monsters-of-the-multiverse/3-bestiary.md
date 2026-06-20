@@ -10,7 +10,7 @@ aliases:
 # Bestiary
 *Source: Mordenkainen Presents: Monsters of the Multiverse, p. 37* 
 
-![](3-Mechanics/CLI/books/mordenkainen-presents-monsters-of-the-multiverse/img/02-001-ch2-splash.webp#center)
+![](file://book/MPMM/02-001.ch2-splash.webp#center)
 
 This bestiary provides game statistics and lore for more than 250 monsters, which are suitable for any D&D campaign. The chapter includes old favorites from past editions of the game as well as creatures created for the current edition.
 

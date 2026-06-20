@@ -12,6 +12,8 @@ aliases:
 
 **Tarkanan Contacts**
 
+`dice: [](house-tarkanan-tarkanan-contacts-erlw.md#^tarkanan-contacts)`
+
 | dice: d6 | Contact |
 |----------|---------|
 | 1 | **Rotting Bal** (human) is an assassin, an expert in unarmed combat, and a founding member of the house. |

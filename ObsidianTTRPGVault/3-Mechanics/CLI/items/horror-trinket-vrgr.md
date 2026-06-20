@@ -18,6 +18,8 @@ Before you finish making a character, roll once on the Horror Trinkets table for
 
 **Horror Trinkets**
 
+`dice: [](horror-trinket-vrgr.md#^horror-trinkets)`
+
 | dice: d100 | Trinket |
 |------------|---------|
 | 01 | A picture you drew as a child of your imaginary friend |

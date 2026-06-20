@@ -11,7 +11,7 @@ aliases:
 ---
 # Mask of the Dragon Queen
 *Wondrous item, artifact (requires attunement)*  
-![](3-Mechanics/CLI/items/img/mask-of-the-dragon-queen.webp#right)
+![](file://items/RoT/Mask%20of%20the%20Dragon%20Queen.webp#right)
 
 
 Individually, the five dragon masks resemble the dragons they are named for. When two or more of the dragon masks are assembled, however, they transform magically into the Mask of the Dragon Queen. Each mask shrinks to become the modeled head of a chromatic dragon, appearing to roar its devotion to [Tiamat](3-Mechanics/CLI/bestiary/npc/tiamat-rot.md) where all the masks brought together are arranged crown-like on the wearer's head. Below the five masks, a new mask shapes itself, granting the wearer a draconic visage that covers the face, neck, and shoulders.

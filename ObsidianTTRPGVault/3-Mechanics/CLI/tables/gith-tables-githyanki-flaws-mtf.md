@@ -12,6 +12,8 @@ aliases:
 
 **Githyanki Flaws**
 
+`dice: [](gith-tables-githyanki-flaws-mtf.md#^githyanki-flaws)`
+
 | dice: d4 | Flaw |
 |----------|------|
 | 1 | Hunger and thirst are unbearable pains to me. |

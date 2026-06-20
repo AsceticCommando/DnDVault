@@ -12,6 +12,8 @@ aliases:
 
 **Zombie Siege Climax**
 
+`dice: [](concluding-the-siege-zombie-siege-climax-vrgr.md#^zombie-siege-climax)`
+
 | dice: d4 | Climax |
 |----------|--------|
 | 1 | Breaching the river grates, zombies pour into the city via the Zapadnost River. Drakov orders thousands of gallons of oil emptied into the sewer and then lit. The zombies burn, but flames consume the districts and the river is poisoned. |

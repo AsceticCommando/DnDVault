@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Flying Rocking Horse"
 ---
-# [Flying Rocking Horse](3-Mechanics\CLI\bestiary\construct/flying-rocking-horse-wbtw.md)
+# [Flying Rocking Horse](3-Mechanics/CLI/bestiary/construct/flying-rocking-horse-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 121*  
 
 ```statblock
@@ -60,6 +60,6 @@ aliases:
     "name": "Head Butt"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/construct/token/flying-rocking-horse-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Flying%20Rocking%20Horse.webp"
 ```
 ^statblock

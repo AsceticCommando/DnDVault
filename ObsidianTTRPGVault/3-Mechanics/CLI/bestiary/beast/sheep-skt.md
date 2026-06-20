@@ -12,8 +12,8 @@ statblock-link: "#^statblock"
 aliases:
 - "Sheep"
 ---
-# [Sheep](3-Mechanics\CLI\bestiary\beast/sheep-skt.md)
-*Source: Storm King's Thunder p. 142*  
+# [Sheep](3-Mechanics/CLI/bestiary/beast/sheep-skt.md)
+*Source: Storm King's Thunder p. 142, Icewind Dale: Rime of the Frostmaiden p. 76*  
 
 ```statblock
 "name": "Sheep (SKT)"
@@ -41,6 +41,7 @@ aliases:
     "name": "Sure-Footed"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/beast/token/sheep-skt.webp"
+  - "IDRotF"
+"image": "file://bestiary/tokens/SKT/Sheep.webp"
 ```
 ^statblock

@@ -12,6 +12,8 @@ aliases:
 
 **Orc Bonds**
 
+`dice: [](roleplaying-an-orc-orc-bonds-vgm.md#^orc-bonds)`
+
 | dice: d6 | Bond |
 |----------|------|
 | 1 | I will defend my tribe to the death. |

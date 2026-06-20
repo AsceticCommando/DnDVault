@@ -39,7 +39,7 @@ You have advantage on saving throws against being [charmed](3-Mechanics/CLI/rule
 > 
 > **Skill Versatility.** You gain proficiency in two skills of your choice.
 > 
-> **Drow Magic.** You know the [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md) cantrip. When you reach 3rd level, you can cast the [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md) spell once per day; you must finish a long rest in order to cast the spell again using this trait. When you reach 5th level, you can also cast the [darkness](3-Mechanics/CLI/spells/darkness.md) spell once per day; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells.
+> **Drow Magic.** You know the [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md) cantrip. When you reach 3rd level, you can cast the [faerie fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md) spell once per day; you must finish a long rest in order to cast the spell again using this trait. When you reach 5th level, you can also cast the [darkness](3-Mechanics/CLI/spells/darkness-xphb.md) spell once per day; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells.
 ^variant-feature-choose-1
 
 ### Languages

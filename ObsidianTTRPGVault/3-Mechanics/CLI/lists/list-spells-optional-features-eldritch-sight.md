@@ -11,4 +11,4 @@ aliases:
 
 ## 1st Level
 
-- [Detect Magic](3-Mechanics/CLI/spells/detect-magic.md "PHB")
+- [Detect Magic](3-Mechanics/CLI/spells/detect-magic-xphb.md "XPHB")

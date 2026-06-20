@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Eye of Fear and Flame"
 ---
-# [Eye of Fear and Flame](3-Mechanics\CLI\bestiary\undead/eye-of-fear-and-flame-mff.md)
+# [Eye of Fear and Flame](3-Mechanics/CLI/bestiary/undead/eye-of-fear-and-flame-mff.md)
 *Source: Mordenkainen's Fiendish Folio p. 8*  
 
 An eye of fear and flame stalks the world of the living, commanding individuals to perform evil deeds of the undead's choosing or be destroyed. If its commands are not obeyed, an eye of fear and flame throws back its hood to reveal its skull—set with gems of red and black in each eye socket—then attacks.
@@ -68,9 +68,10 @@ An eye of fear and flame casts its magic powers through its gemstone eyes. In co
 "traits":
   - "desc": "The eye of fear and flame's innate spellcasting ability is Intelligence\
       \ (spell save DC 16). It can innately cast the following spells, requiring no\
-      \ components:\n\n**At will:** [detect evil and good](3-Mechanics/CLI/spells/detect-evil-and-good.md),\
-      \ [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md)\n\n**1/day each:**\
-      \ [etherealness](3-Mechanics/CLI/spells/etherealness.md), [true seeing](3-Mechanics/CLI/spells/true-seeing.md)"
+      \ components:\n\n**At will:** [detect evil and good](3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md),\
+      \ [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md)\n\n**1/day\
+      \ each:** [etherealness](3-Mechanics/CLI/spells/etherealness-xphb.md), [true\
+      \ seeing](3-Mechanics/CLI/spells/true-seeing-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "The eye of fear and flame is immune to effects that turn undead."
     "name": "Turn Immunity"
@@ -96,6 +97,6 @@ An eye of fear and flame casts its magic powers through its gemstone eyes. In co
     "name": "Gemstone Eyes"
 "source":
   - "MFF"
-"image": "3-Mechanics/CLI/bestiary/undead/token/eye-of-fear-and-flame-mff.webp"
+"image": "file://bestiary/tokens/MFF/Eye%20of%20Fear%20and%20Flame.webp"
 ```
 ^statblock

@@ -12,6 +12,8 @@ aliases:
 
 **Body Horror Adventure Sites**
 
+`dice: [](body-horror-adventure-sites-vrgr.md#^body-horror-adventure-sites)`
+
 | dice: d8 | Adventure Site |
 |----------|----------------|
 | 1 | A derelict ship, buried for mysterious reasons |

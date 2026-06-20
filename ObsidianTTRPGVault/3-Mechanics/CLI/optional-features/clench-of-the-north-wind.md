@@ -13,4 +13,4 @@ aliases:
 
 **Prerequisite**: Level 6
 
-You can spend 3 ki points to cast [hold person](3-Mechanics/CLI/spells/hold-person.md).
+You can spend 3 ki points to cast [hold person](3-Mechanics/CLI/spells/hold-person-xphb.md).

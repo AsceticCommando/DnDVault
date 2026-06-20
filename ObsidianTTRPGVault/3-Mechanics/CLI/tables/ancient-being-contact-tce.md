@@ -12,6 +12,8 @@ aliases:
 
 **Ancient Being Contact**
 
+`dice: [](ancient-being-contact-tce.md#^ancient-being-contact)`
+
 | dice: d6 | Contact |
 |----------|---------|
 | 1 | **Employer**. An established member of local society acts as the interface between you and the patron and provides the cover of legitimate employment. They could be a bartender, shopkeeper, local official, or noble. |

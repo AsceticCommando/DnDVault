@@ -14,7 +14,7 @@ aliases:
 > 
 > A bird shrieked as it took flight from a branch above her. Through the gaps in the rustling canopy, she could see the god-forms shift in and out of focus. The night sky was known as Nyx, the realm of the gods. Every night, the heavens displayed fleeting visions of gods and celestial creatures. Some lingered for just seconds. But sometimes the pantheon enacted entire scenes for mortal eyes to witness. Lidia rarely took time to step outside her home and watch the heavens, but now there was no place else to rest her eyes. Tonight the god-forms were vivid, and her heart beat faster as she watched their battle unfold.
 
-![Responding to a single sai...](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/022-02-01.webp#center "Responding to a single sailor's slight, vengeful Keranos, god of storms, sends lightning to strike a Meletian galley on the Siren Sea")
+![Responding to a single sailor's slight, vengeful Keranos, god of storms, sends lightning to strike a Meletian galley on the Siren Sea](file://book/MOT/022-02-01.webp#center)
 
 A pantheon of fifteen gods guides religious life on Theros. From the sun and agriculture to death and passage into the Underworld, the gods oversee the forces of nature and the most important aspects of mortal life. These gods are quite real to the people of Theros, who see them moving across the sky at night and sometimes encounter them face to face. Thus, most people perform rituals and devotions that honor various gods, hoping to win their favor and stave off their wrath. They tell and retell the stories of the gods' deeds—even as they watch those stories continue to play out in the vastness of the night sky.
 
@@ -36,7 +36,7 @@ The gods can assume any form they choose. They most commonly appear as humanoids
 
 When physically present in the mortal world, a god is capable of devastating physical attacks. Heliod's spear striking the polis of Olantin caused it to sink forever into the sea, and an errant blow from Purphoros's hammer shaped the mountains.
 
-The power of the gods exceeds that of any mortal being. Even so, a god killing another god—let alone a mortal attempting the task—is virtually inconceivable. Any kind of direct confrontation against a god by mortals would require the assistance of at least one other god, and ideally more than one, to have any hope of success. A group of adventurers might try to convince a group of gods to lend their aid against a god who has become a threat to the mortal world, hoping to get the gods to band together to restrain or punish the offender. Kruphix or Klothys might be able to force a god into a physical form that doesn't fill the sky (perhaps something similar to an [empyrean](3-Mechanics/CLI/bestiary/celestial/empyrean.md) or the [tarrasque](3-Mechanics/CLI/bestiary/monstrosity/tarrasque.md)), which could enable adventurers to battle the god, especially if they have access to a divine weapon like the artifacts detailed in "chapter 5". But defeating the god in that form would merely weaken the deity, allowing other members of the pantheon to capture, bind, or punish them.
+The power of the gods exceeds that of any mortal being. Even so, a god killing another god—let alone a mortal attempting the task—is virtually inconceivable. Any kind of direct confrontation against a god by mortals would require the assistance of at least one other god, and ideally more than one, to have any hope of success. A group of adventurers might try to convince a group of gods to lend their aid against a god who has become a threat to the mortal world, hoping to get the gods to band together to restrain or punish the offender. Kruphix or Klothys might be able to force a god into a physical form that doesn't fill the sky (perhaps something similar to an [empyrean](3-Mechanics/CLI/bestiary/miscellaneous/empyrean-xmm.md) or the [tarrasque](3-Mechanics/CLI/bestiary/monstrosity/tarrasque-xmm.md)), which could enable adventurers to battle the god, especially if they have access to a divine weapon like the artifacts detailed in "chapter 5". But defeating the god in that form would merely weaken the deity, allowing other members of the pantheon to capture, bind, or punish them.
 
 ### Divine Relationships
 
@@ -124,7 +124,7 @@ Your DM decides whether your new god will accept you as a champion and what you 
 
 When you change gods, you lose all the benefits granted by your old one, including rewards for piety and any other divine blessings. You no longer have a piety score to your old god, and your piety score to your new god starts at 1.
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/023-02-02.webp#center)
+![](file://book/MOT/023-02-02.webp#center)
 
 ## The Gods
 

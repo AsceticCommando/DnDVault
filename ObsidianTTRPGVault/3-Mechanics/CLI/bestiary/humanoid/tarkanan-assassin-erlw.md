@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Tarkanan Assassin"
 ---
-# [Tarkanan Assassin](3-Mechanics\CLI\bestiary\humanoid/tarkanan-assassin-erlw.md)
+# [Tarkanan Assassin](3-Mechanics/CLI/bestiary/humanoid/tarkanan-assassin-erlw.md)
 *Source: Eberron: Rising from the Last War p. 320*  
 
 Tarkanan assassins are the elite killers, spies, and thieves who work for House Tarkanan, a criminal organization specializing in theft and assassination. In addition to their deadly skill, a Tarkanan assassin possesses an aberrant dragonmark—a twisted sigil that provides them with magical power. House Tarkanan actively seeks and recruits people with aberrant dragonmarks.
@@ -21,14 +21,16 @@ Tarkanan assassins are the elite killers, spies, and thieves who work for House 
 > 
 > The power granted by an aberrant dragonmark is unpredictable. When running a Tarkanan assassin, you can roll on the Aberrant Dragonmark Innate Spells table to determine the spells gained from that NPC's aberrant mark, replacing the spells in the stat block's Innate Spellcasting trait.
 > 
+> `dice: [](tarkanan-assassin-erlw.md#^at-will-1-day)`
+> 
 > | dice: d6 | At Will | 1/Day |
 > |----------|---------|-------|
-> | 1 | [Fire bolt](3-Mechanics/CLI/spells/fire-bolt.md) (`2d10`) | [Burning hands](3-Mechanics/CLI/spells/burning-hands.md) (`3d6`) |
-> | 2 | [Shocking grasp](3-Mechanics/CLI/spells/shocking-grasp.md) (`2d8`) | [Chromatic orb](3-Mechanics/CLI/spells/chromatic-orb.md) (`4d8`) |
-> | 3 | [Poison spray](3-Mechanics/CLI/spells/poison-spray.md) (`2d12`) | [Ray of sickness](3-Mechanics/CLI/spells/ray-of-sickness.md) (`3d8`) |
-> | 4 | [Friends](3-Mechanics/CLI/spells/friends.md) | [Charm person](3-Mechanics/CLI/spells/charm-person.md) (two creatures) |
-> | 5 | [Minor illusion](3-Mechanics/CLI/spells/minor-illusion.md) | [Thunderwave](3-Mechanics/CLI/spells/thunderwave.md) (`2d8`) |
-> | 6 | [Dancing lights](3-Mechanics/CLI/spells/dancing-lights.md) | [Sleep](3-Mechanics/CLI/spells/sleep.md) (`7d8`) |
+> | 1 | [Fire bolt](3-Mechanics/CLI/spells/fire-bolt-xphb.md) (`dice:2d10\|noform\|noparens\|avg` (`2d10`)) | [Burning hands](3-Mechanics/CLI/spells/burning-hands-xphb.md) (`dice:3d6\|noform\|noparens\|avg` (`3d6`)) |
+> | 2 | [Shocking grasp](3-Mechanics/CLI/spells/shocking-grasp-xphb.md) (`dice:2d8\|noform\|noparens\|avg` (`2d8`)) | [Chromatic orb](3-Mechanics/CLI/spells/chromatic-orb-xphb.md) (`dice:4d8\|noform\|noparens\|avg` (`4d8`)) |
+> | 3 | [Poison spray](3-Mechanics/CLI/spells/poison-spray-xphb.md) (`dice:2d12\|noform\|noparens\|avg` (`2d12`)) | [Ray of sickness](3-Mechanics/CLI/spells/ray-of-sickness-xphb.md) (`dice:3d8\|noform\|noparens\|avg` (`3d8`)) |
+> | 4 | [Friends](3-Mechanics/CLI/spells/friends-xphb.md) | [Charm person](3-Mechanics/CLI/spells/charm-person-xphb.md) (two creatures) |
+> | 5 | [Minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md) | [Thunderwave](3-Mechanics/CLI/spells/thunderwave-xphb.md) (`dice:2d8\|noform\|noparens\|avg` (`2d8`)) |
+> | 6 | [Dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md) | [Sleep](3-Mechanics/CLI/spells/sleep-xphb.md) (`dice:7d8\|noform\|noparens\|avg` (`7d8`)) |
 > ^at-will-1-day
 ^aberrant-dragonmark-innate-spells
 
@@ -39,7 +41,7 @@ Tarkanan assassins are the elite killers, spies, and thieves who work for House 
 "subtype": "any race"
 "alignment": "Any Non-Good alignment"
 "ac": !!int "15"
-"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor.md)"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
 "hp": !!int "45"
 "hit_dice": "7d8 + 14"
 "modifier": !!int "3"
@@ -63,7 +65,7 @@ Tarkanan assassins are the elite killers, spies, and thieves who work for House 
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
 "gear":
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 14"
 "languages": "Common, Thieves' cant"
@@ -71,8 +73,8 @@ Tarkanan assassins are the elite killers, spies, and thieves who work for House 
 "traits":
   - "desc": "The assassin's spellcasting ability is Constitution (+4 to hit with spell\
       \ attacks). It can innately cast the following spells, requiring no material\
-      \ components:\n\n**At will:** [fire bolt](3-Mechanics/CLI/spells/fire-bolt.md)\n\
-      \n**1/day:** [chromatic orb](3-Mechanics/CLI/spells/chromatic-orb.md)"
+      \ components:\n\n**At will:** [fire bolt](3-Mechanics/CLI/spells/fire-bolt-xphb.md)\n\
+      \n**1/day:** [chromatic orb](3-Mechanics/CLI/spells/chromatic-orb-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "When the assassin casts an innate spell, each creature within 10 feet\
       \ of the assassin must make a DC 12 Constitution saving throw, taking 4 (1d8)\
@@ -94,6 +96,6 @@ Tarkanan assassins are the elite killers, spies, and thieves who work for House 
     "name": "Chromatic Orb (1/Day)"
 "source":
   - "ERLW"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/tarkanan-assassin-erlw.webp"
+"image": "file://bestiary/tokens/ERLW/Tarkanan%20Assassin.webp"
 ```
 ^statblock

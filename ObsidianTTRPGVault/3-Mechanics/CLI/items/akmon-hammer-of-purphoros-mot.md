@@ -12,8 +12,8 @@ aliases:
 - "Akmon, Hammer of Purphoros"
 ---
 # Akmon, Hammer of Purphoros
-*Weapon ([warhammer](3-Mechanics/CLI/items/warhammer.md)), artifact (requires attunement)*  
-![](3-Mechanics/CLI/items/img/akmon-hammer-of-purphoros.webp#right)
+*Weapon ([warhammer](3-Mechanics/CLI/items/warhammer-xphb.md)), artifact (requires attunement)*  
+![](file://items/MOT/Akmon%2C%20Hammer%20of%20Purphoros.webp#right)
 
 - **Damage**:
   - One-handed: 1d8 bludgeoning
@@ -25,27 +25,27 @@ Purphoros's hammer works wonders and disasters, the god of the forge using it to
 
 ## Hammer of the Forge
 
-This magic warhammer grants a +3 bonus to attack and damage rolls made with it. When you hit with an attack using it, the target takes an extra `3d10` fire damage.
+This magic warhammer grants a +3 bonus to attack and damage rolls made with it. When you hit with an attack using it, the target takes an extra `dice:3d10|noform|noparens|avg` (`3d10`) fire damage.
 
 ## Blessing of the Forge
 
 If you are a worshiper of Purphoros, you gain all the following benefits for which you have the required piety:
 
-- **Piety 10+.** The hammer has 1 randomly determined [minor beneficial](3-Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties.md) property.  
-- **Piety 25+.** The hammer has 1 randomly determined [major beneficial](3-Mechanics/CLI/tables/artifact-properties-major-beneficial-properties.md) property.  
-- **Piety 50+.** The hammer has 1 additional randomly determined [major beneficial](3-Mechanics/CLI/tables/artifact-properties-major-beneficial-properties.md) property.  
+- **Piety 10+.** The hammer has 1 randomly determined [minor beneficial](3-Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties-xdmg.md) property.  
+- **Piety 25+.** The hammer has 1 randomly determined [major beneficial](3-Mechanics/CLI/tables/artifact-properties-major-beneficial-properties-xdmg.md) property.  
+- **Piety 50+.** The hammer has 1 additional randomly determined [major beneficial](3-Mechanics/CLI/tables/artifact-properties-major-beneficial-properties-xdmg.md) property.  
 
-If you aren't a worshiper of Purphoros, the hammer has 2 randomly determined [minor detrimental](3-Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties.md) properties.
+If you aren't a worshiper of Purphoros, the hammer has 2 randomly determined [minor detrimental](3-Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties-xdmg.md) properties.
 
 See "Artifacts" in chapter 7 of the Dungeon Master's Guide for details on randomly determined properties.
 
 ## Reforged
 
-While holding the hammer, you have resistance to fire damage and are immune to [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion). Additionally, you have proficiency with [smith's tools](3-Mechanics/CLI/items/smiths-tools.md) and have advantage on all ability checks made using them.
+While holding the hammer, you have resistance to fire damage and are immune to [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion). Additionally, you have proficiency with [smith's tools](3-Mechanics/CLI/items/smiths-tools-xphb.md) and have advantage on all ability checks made using them.
 
 ## Spells
 
-While the hammer is on your person, you can use an action to cast one of the following spells (save DC 18): [animate objects](3-Mechanics/CLI/spells/animate-objects.md), [heat metal](3-Mechanics/CLI/spells/heat-metal.md), [fabricate](3-Mechanics/CLI/spells/fabricate.md), [magic weapon](3-Mechanics/CLI/spells/magic-weapon.md), [mending](3-Mechanics/CLI/spells/mending.md), [shatter](3-Mechanics/CLI/spells/shatter.md). Once you use the hammer to cast a spell, the spell can't be cast again from it until the next dusk.
+While the hammer is on your person, you can use an action to cast one of the following spells (save DC 18): [animate objects](3-Mechanics/CLI/spells/animate-objects-xphb.md), [heat metal](3-Mechanics/CLI/spells/heat-metal-xphb.md), [fabricate](3-Mechanics/CLI/spells/fabricate-xphb.md), [magic weapon](3-Mechanics/CLI/spells/magic-weapon-xphb.md), [mending](3-Mechanics/CLI/spells/mending-xphb.md), [shatter](3-Mechanics/CLI/spells/shatter-xphb.md). Once you use the hammer to cast a spell, the spell can't be cast again from it until the next dusk.
 
 ## Destroying the Hammer
 

@@ -12,6 +12,8 @@ aliases:
 
 **Scholarly Missions**
 
+`dice: [](scholarly-missions-erlw.md#^scholarly-missions)`
+
 | dice: d6 | Mission |
 |----------|---------|
 | 1 | **Adventurous Archeology**. Your focus is on finding ancient artifacts and bringing back what you can. |

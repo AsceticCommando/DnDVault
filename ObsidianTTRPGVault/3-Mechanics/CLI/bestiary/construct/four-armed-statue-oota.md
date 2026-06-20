@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Four-Armed Statue"
 ---
-# [Four-Armed Statue](3-Mechanics\CLI\bestiary\construct/four-armed-statue-oota.md)
+# [Four-Armed Statue](3-Mechanics/CLI/bestiary/construct/four-armed-statue-oota.md)
 *Source: Out of the Abyss p. 206*  
 
 ```statblock
@@ -66,6 +66,6 @@ aliases:
     "name": "Slow (Recharge 5-6)"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/construct/token/four-armed-statue-oota.webp"
+"image": "file://bestiary/tokens/OotA/Four-Armed%20Statue.webp"
 ```
 ^statblock

@@ -11,7 +11,7 @@ aliases:
 - "Candle Mace"
 ---
 # Candle Mace
-*Weapon ([mace](3-Mechanics/CLI/items/mace.md))*  
+*Weapon ([mace](3-Mechanics/CLI/items/mace-xphb.md))*  
 
 
 - **Damage**: 1d6 bludgeoning

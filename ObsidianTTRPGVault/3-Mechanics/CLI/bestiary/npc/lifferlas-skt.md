@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Lifferlas"
 ---
-# [Lifferlas](3-Mechanics\CLI\bestiary\npc/lifferlas-skt.md)
+# [Lifferlas](3-Mechanics/CLI/bestiary/npc/lifferlas-skt.md)
 *Source: Storm King's Thunder p. 250*  
 
 A druid of the Emerald Enclave awakened the tree Lifferlas with a spell. Goldenfields is his home, its people his friends. Children like to carve their names and initials into his body and hang from his boughs, and he's happy with that.
@@ -65,6 +65,6 @@ Flaw:"I can't remember people's names and often get them mixed up."
     "name": "Slam"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/lifferlas-skt.webp"
+"image": "file://bestiary/tokens/SKT/Lifferlas.webp"
 ```
 ^statblock

@@ -12,6 +12,8 @@ aliases:
 
 **Yuan-ti Bonds**
 
+`dice: [](roleplaying-a-yuan-ti-yuan-ti-bonds-vgm.md#^yuan-ti-bonds)`
+
 | dice: d6 | Bond |
 |----------|------|
 | 1 | I will see our empire rise again and, in so doing, win the favor of the serpent gods. |

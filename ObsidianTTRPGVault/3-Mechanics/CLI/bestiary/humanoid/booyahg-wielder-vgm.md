@@ -12,10 +12,10 @@ statblock-link: "#^statblock"
 aliases:
 - "Booyahg Wielder"
 ---
-# [Booyahg Wielder](3-Mechanics\CLI\bestiary\humanoid/booyahg-wielder-vgm.md)
+# [Booyahg Wielder](3-Mechanics/CLI/bestiary/humanoid/booyahg-wielder-vgm.md)
 *Source: Volo's Guide to Monsters p. 42*  
 
-This goblin found a magic item (a [necklace of fireballs](3-Mechanics/CLI/items/necklace-of-fireballs.md), a [circlet of blasting](3-Mechanics/CLI/items/circlet-of-blasting.md), or the like) and learned how to use it.
+This goblin found a magic item (a [necklace of fireballs](3-Mechanics/CLI/items/necklace-of-fireballs-xdmg.md), a [circlet of blasting](3-Mechanics/CLI/items/circlet-of-blasting-xdmg.md), or the like) and learned how to use it.
 
 ## Booyahgs
 
@@ -32,7 +32,7 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
 "subtype": "goblinoid"
 "alignment": "Neutral Evil"
 "ac": !!int "15"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "7"
 "hit_dice": "2d6"
 "modifier": !!int "2"
@@ -48,8 +48,8 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+6"
 "gear":
-  - "[scimitar](3-Mechanics/CLI/items/scimitar.md)"
-  - "[shortbow](3-Mechanics/CLI/items/shortbow.md)"
+  - "[scimitar](3-Mechanics/CLI/items/scimitar-xphb.md)"
+  - "[shortbow](3-Mechanics/CLI/items/shortbow-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 9"
 "languages": "Common, Goblin"
@@ -59,9 +59,9 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
       \ or [Hide](3-Mechanics/CLI/rules/actions.md#Hide) action as a bonus action\
       \ on each of its turns."
     "name": "Nimble Escape"
-  - "desc": "The goblin found a magic item (a [necklace of fireballs](3-Mechanics/CLI/items/necklace-of-fireballs.md),\
-      \ a [circlet of blasting](3-Mechanics/CLI/items/circlet-of-blasting.md), or\
-      \ the like) and learned how to use it."
+  - "desc": "The goblin found a magic item (a [necklace of fireballs](3-Mechanics/CLI/items/necklace-of-fireballs-xdmg.md),\
+      \ a [circlet of blasting](3-Mechanics/CLI/items/circlet-of-blasting-xdmg.md),\
+      \ or the like) and learned how to use it."
     "name": "Special Equipment"
 "actions":
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
@@ -72,6 +72,6 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
     "name": "Shortbow"
 "source":
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/booyahg-wielder-vgm.webp"
+"image": "file://bestiary/tokens/VGM/Booyahg%20Wielder.webp"
 ```
 ^statblock

@@ -15,7 +15,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Nilbog"
 ---
-# [Nilbog](3-Mechanics\CLI\bestiary\fey/nilbog-mpmm.md)
+# [Nilbog](3-Mechanics/CLI/bestiary/fey/nilbog-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 195, Volo's Guide to Monsters p. 182*  
 
 When Maglubiyet conquered the goblin gods, a trickster deity was determined to get the last laugh. Although Maglubiyet shattered its essence, this trickster god survives in a splintered form as possessing spirits that cause disorder unless they are appeased. Goblins have no name for this deity and dare not give it one, lest Maglubiyet use its name to ensnare and crush it as he did their other deities. They call the possessing spirit, as well as the goblin possessed by it, a nilbog ("goblin" spelled backward), and they revel in the chaos a nilbog sows.
@@ -39,7 +39,7 @@ If its host is killed or the possession is ended by a spell such as hallow, magi
 "subtype": "goblinoid"
 "alignment": "Typically  Chaotic Neutral"
 "ac": !!int "13"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "7"
 "hit_dice": "2d6"
 "modifier": !!int "2"
@@ -76,8 +76,8 @@ If its host is killed or the possession is ended by a spell such as hallow, magi
       \ next turn."
     "name": "Mocking Word"
   - "desc": "The nilbog casts one of the following spells, using Charisma as the spellcasting\
-      \ ability (spell save DC 12):\n\n**At will:** [mage hand](3-Mechanics/CLI/spells/mage-hand.md),\
-      \ [Tasha's hideous laughter](3-Mechanics/CLI/spells/tashas-hideous-laughter.md)"
+      \ ability (spell save DC 12):\n\n**At will:** [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [Tasha's hideous laughter](3-Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The nilbog takes the [Disengage](3-Mechanics/CLI/rules/actions.md#Disengage)\
@@ -90,7 +90,7 @@ If its host is killed or the possession is ended by a spell such as hallow, magi
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/fey/token/nilbog-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Nilbog.webp"
 ```
 ^statblock
 

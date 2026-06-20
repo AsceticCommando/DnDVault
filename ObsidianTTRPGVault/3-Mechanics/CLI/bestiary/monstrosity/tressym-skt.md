@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Tressym"
 ---
-# [Tressym](3-Mechanics\CLI\bestiary\monstrosity/tressym-skt.md)
+# [Tressym](3-Mechanics/CLI/bestiary/monstrosity/tressym-skt.md)
 *Source: Storm King's Thunder p. 242*  
 
 A tressym is a mischievous winged cat as big as a house cat, with a wingspan of 3 feet.
@@ -23,9 +23,9 @@ Tressym feed on small rodents, birds, and insects, stalking and pouncing on prey
 
 Tressym mate with others of their kind, but they don't mate for life. A tressym can also mate with a normal cat, though only one out of every ten of their offspring will be a tressym; the others will be normal cats.
 
-Tressym have good memories, particularly when it comes to danger. For example, a tressym that sees a human use a [wand of lightning bolts](3-Mechanics/CLI/items/wand-of-lightning-bolts.md) remembers the danger of "sticks of wood held by humans" for the rest of its life. A lucky, healthy tressym can live to be 20 years old.
+Tressym have good memories, particularly when it comes to danger. For example, a tressym that sees a human use a [wand of lightning bolts](3-Mechanics/CLI/items/wand-of-lightning-bolts-xdmg.md) remembers the danger of "sticks of wood held by humans" for the rest of its life. A lucky, healthy tressym can live to be 20 years old.
 
-With the DM's permission, a person who casts the [find familiar](3-Mechanics/CLI/spells/find-familiar.md) spell can choose to conjure a tressym instead of a normal cat.
+With the DM's permission, a person who casts the [find familiar](3-Mechanics/CLI/spells/find-familiar-xphb.md) spell can choose to conjure a tressym instead of a normal cat.
 
 ```statblock
 "name": "Tressym (SKT)"
@@ -65,7 +65,7 @@ With the DM's permission, a person who casts the [find familiar](3-Mechanics/CLI
   - "desc": "The tressym can detect whether a substance is poisonous by taste, touch,\
       \ or smell."
     "name": "Poison Sense"
-  - "desc": "With the DM's permission, a person who casts the [find familiar](3-Mechanics/CLI/spells/find-familiar.md)\
+  - "desc": "With the DM's permission, a person who casts the [find familiar](3-Mechanics/CLI/spells/find-familiar-xphb.md)\
       \ spell can choose to conjure a tressym instead of a normal cat."
     "name": "Familiar"
 "actions":
@@ -74,6 +74,6 @@ With the DM's permission, a person who casts the [find familiar](3-Mechanics/CLI
     "name": "Claws"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/tressym-skt.webp"
+"image": "file://bestiary/tokens/SKT/Tressym.webp"
 ```
 ^statblock

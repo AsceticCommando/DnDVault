@@ -20,7 +20,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Meazel"
 ---
-# [Meazel](3-Mechanics\CLI\bestiary\monstrosity/meazel-mpmm.md)
+# [Meazel](3-Mechanics/CLI/bestiary/monstrosity/meazel-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 177, Mordenkainen's Tome of Foes p. 214*  
 
 Meazels are malicious hermits who fled to the Shadowfell to escape their mortal existence and contemplate their misery. There the shadows transformed them, and their bitterness made them twisted and cruel. Now hate burns in their hearts, and they resent any intrusion into their suffering, waylaying travelers who venture too close to their lairs.
@@ -52,7 +52,7 @@ Any creatures meazels draw through the shadows are cursed by the meazels' balefu
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
 "gear":
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
   \ Perception 13"
 "languages": "Common"
@@ -74,9 +74,9 @@ Any creatures meazels draw through the shadows are cursed by the meazels' balefu
       \ The destination must be a place the meazel has seen before, but it need not\
       \ be within line of sight. If the destination space is occupied, the teleportation\
       \ leads to the nearest unoccupied space.\n\nAny other creature the meazel teleports\
-      \ becomes cursed for 1 hour or until the curse is ended by [remove curse](3-Mechanics/CLI/spells/remove-curse.md)\
-      \ or [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md). Until\
-      \ this curse ends, every Undead and every creature native to the Shadowfell\
+      \ becomes cursed for 1 hour or until the curse is ended by [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md)\
+      \ or [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md).\
+      \ Until this curse ends, every Undead and every creature native to the Shadowfell\
       \ within 300 feet of the cursed creature can sense it, which prevents that creature\
       \ from hiding from them."
     "name": "Shadow Teleport (Recharge 5-6)"
@@ -87,7 +87,7 @@ Any creatures meazels draw through the shadows are cursed by the meazels' balefu
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/meazel-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Meazel.webp"
 ```
 ^statblock
 

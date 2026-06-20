@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Buppido"
 ---
-# [Buppido](3-Mechanics\CLI\bestiary\npc/buppido-oota.md)
+# [Buppido](3-Mechanics/CLI/bestiary/npc/buppido-oota.md)
 *Source: Out of the Abyss p. 6*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "derro"
 "alignment": "Chaotic Evil"
 "ac": !!int "13"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "13"
 "hit_dice": "3d6 + 3"
 "modifier": !!int "2"
@@ -66,6 +66,6 @@ aliases:
     "name": "Light Repeating Crossbow"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/buppido-oota.webp"
+"image": "file://bestiary/tokens/OotA/Buppido.webp"
 ```
 ^statblock

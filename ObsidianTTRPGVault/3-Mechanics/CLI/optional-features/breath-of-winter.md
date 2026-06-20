@@ -13,4 +13,4 @@ aliases:
 
 **Prerequisite**: Level 17
 
-You can spend 6 ki points to cast [cone of cold](3-Mechanics/CLI/spells/cone-of-cold.md).
+You can spend 6 ki points to cast [cone of cold](3-Mechanics/CLI/spells/cone-of-cold-xphb.md).

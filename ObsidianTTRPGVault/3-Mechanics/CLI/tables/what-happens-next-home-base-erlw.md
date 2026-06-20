@@ -12,6 +12,8 @@ aliases:
 
 **Home Base**
 
+`dice: [](what-happens-next-home-base-erlw.md#^home-base)`
+
 | dice: d12 | Location |
 |-----------|----------|
 | 1 | The Drunken Dragon (Clifftop, Upper Dura) is a tavern frequented by members of the Clifftop Adventurer's Guild. It has a wide selection of spirits, and its walls are covered with adventuring trophies. The owner, a middle-aged halfling named Hascal d'Ghallanda, is a former adventurer who lost an eye and a leg in Xen'drik; he always has a story to share. |

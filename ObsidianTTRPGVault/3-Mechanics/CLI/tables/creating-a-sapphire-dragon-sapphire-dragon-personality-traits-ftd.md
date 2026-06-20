@@ -12,6 +12,8 @@ aliases:
 
 **Sapphire Dragon Personality Traits**
 
+`dice: [](creating-a-sapphire-dragon-sapphire-dragon-personality-traits-ftd.md#^sapphire-dragon-personality-traits)`
+
 | dice: d8 | Trait |
 |----------|-------|
 | 1 | I often fixate on specific historical battles or wars and won't rest until my hoard contains that conflict's most significant artifacts. |

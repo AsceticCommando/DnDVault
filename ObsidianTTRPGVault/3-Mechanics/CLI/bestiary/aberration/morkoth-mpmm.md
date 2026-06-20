@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Morkoth"
 ---
-# [Morkoth](3-Mechanics\CLI\bestiary\aberration/morkoth-mpmm.md)
+# [Morkoth](3-Mechanics/CLI/bestiary/aberration/morkoth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 186, Volo's Guide to Monsters p. 177*  
 
 Ancient and devious, morkoths are voracious collectors. Each one floats through the planes on a strange, mobile island, amassing the valuables, oddities, and castoffs of the multiverse in a massive, ever-growing collection.
@@ -101,10 +101,10 @@ A morkoth encountered in its lair has a challenge rating of 12 (8,400 XP).
     "name": "Hypnosis"
   - "desc": "The morkoth casts one of the following spells, requiring no material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 17):\n\n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic.md),\
-      \ [mage hand](3-Mechanics/CLI/spells/mage-hand.md)\n\n**3/day each:** [darkness](3-Mechanics/CLI/spells/darkness.md),\
-      \ [dimension door](3-Mechanics/CLI/spells/dimension-door.md), [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md),\
-      \ [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt.md), [sending](3-Mechanics/CLI/spells/sending.md)"
+      \ DC 17):\n\n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md)\n\n**3/day each:** [darkness](3-Mechanics/CLI/spells/darkness-xphb.md),\
+      \ [dimension door](3-Mechanics/CLI/spells/dimension-door-xphb.md), [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
+      \ [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt-xphb.md), [sending](3-Mechanics/CLI/spells/sending-xphb.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "If the morkoth makes a successful saving throw against a spell or a spell\
@@ -117,8 +117,8 @@ A morkoth encountered in its lair has a challenge rating of 12 (8,400 XP).
 "lair_actions":
   - "desc": "On initiative count 20 (losing initiative ties), the morkoth can take\
       \ one of the following lair actions:\n\n- **Cast a Spell.** The morkoth casts\
-      \ [darkness](3-Mechanics/CLI/spells/darkness.md), [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md),\
-      \ or [misty step](3-Mechanics/CLI/spells/misty-step.md), using Intelligence\
+      \ [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
+      \ or [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md), using Intelligence\
       \ as its spellcasting ability and without expending a spell slot.  \n- **Hypnotize.**\
       \ The morkoth uses its Hypnosis action, originating at a point within 120 feet\
       \ of itself. It doesn't need to see the effect's point of origin.  "
@@ -157,7 +157,7 @@ A morkoth encountered in its lair has a challenge rating of 12 (8,400 XP).
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/morkoth-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Morkoth.webp"
 ```
 ^statblock
 

@@ -12,6 +12,8 @@ aliases:
 
 **NPC Class**
 
+`dice: [](dungeon-creator-npc-class.md#^npc-class)`
+
 | dice: d20 | Class |
 |-----------|-------|
 | 1 | Barbarian |

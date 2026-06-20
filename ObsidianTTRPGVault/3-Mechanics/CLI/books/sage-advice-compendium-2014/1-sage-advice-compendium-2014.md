@@ -102,23 +102,23 @@ These methods—along with any others that give you a formula for calculating yo
 
 What about a shield? A shield increases your AC by 2 while you use it. For example, if you're unarmored and use a shield, your AC is 12 + your Dexterity modifier. Keep in mind that some AC calculations, such as a monk's Unarmored Defense, prohibit the use of a shield.
 
-Once you have your base AC, it can be temporarily modified by situational bonuses and penalties. For instance, having half cover gives you a +2 bonus to your AC, and three-quarters cover gives a +5 bonus. Spells sometimes modify AC as well. [Shield of faith](3-Mechanics/CLI/spells/shield-of-faith.md), for example, grants a target a +2 bonus to AC until the spell ends.
+Once you have your base AC, it can be temporarily modified by situational bonuses and penalties. For instance, having half cover gives you a +2 bonus to your AC, and three-quarters cover gives a +5 bonus. Spells sometimes modify AC as well. [Shield of faith](3-Mechanics/CLI/spells/shield-of-faith-xphb.md), for example, grants a target a +2 bonus to AC until the spell ends.
 
-Magic items can also enhance your AC. Here are a few examples: [+1 chain mail](3-Mechanics/CLI/items/1-armor.md) gives you an AC of 17, a [ring of protection](3-Mechanics/CLI/items/ring-of-protection.md) gives you a +1 bonus to AC no matter what you're wearing, and [bracers of defense](3-Mechanics/CLI/items/bracers-of-defense.md) grant you a +2 bonus to AC if you're not wearing armor or using a shield.
+Magic items can also enhance your AC. Here are a few examples: [+1 chain mail](3-Mechanics/CLI/items/1-armor-xdmg.md) gives you an AC of 17, a [ring of protection](3-Mechanics/CLI/items/ring-of-protection-xdmg.md) gives you a +1 bonus to AC no matter what you're wearing, and [bracers of defense](3-Mechanics/CLI/items/bracers-of-defense-xdmg.md) grant you a +2 bonus to AC if you're not wearing armor or using a shield.
 
 ### Racial Traits
 
 #### Does the Trance trait allow an elf to finish a long rest in 4 hours?
 
-If an elf meditates during a long rest (as described in the [Trance](3-Mechanics/CLI/races/elf.md) trait), the elf finishes the rest after only 4 hours. A meditating elf otherwise follows all the rules for a long rest; only the duration is changed.
+If an elf meditates during a long rest (as described in the [Trance](3-Mechanics/CLI/races/elf-xphb.md) trait), the elf finishes the rest after only 4 hours. A meditating elf otherwise follows all the rules for a long rest; only the duration is changed.
 
 #### Do the lightfoot halfling and wood elf hiding racial traits allow them to hide while observed?
 
-The lightfoot halfling and wood elf traits—[Naturally Stealthy](3-Mechanics/CLI/races/halfling-lightfoot.md) and [Mask of the Wild](3-Mechanics/CLI/races/elf-wood.md)—do allow members of those subraces to try to hide in their special circumstances even when observers are nearby. Normally, you can't hide from someone if you're in full view. A lightfoot halfling, though, can try to vanish behind a creature that is at least one size larger, and a wood elf can try to hide simply by being in heavy rain, mist, falling snow, foliage, or similar natural phenomena. It's as if nature itself cloaks a wood elf from prying eyes—even eyes staring right at the elf! Both subraces are capable of hiding in situations when most other creatures can't, but neither subrace's hiding attempt is assured of success; a Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) check is required as normal, and an observant foe might later spot a hidden halfling or elf: "I see you behind that guard, you tricksy halfling!"
+The lightfoot halfling and wood elf traits—[Naturally Stealthy](3-Mechanics/CLI/races/halfling-xphb.md) and [Mask of the Wild](3-Mechanics/CLI/races/elf-xphb.md)—do allow members of those subraces to try to hide in their special circumstances even when observers are nearby. Normally, you can't hide from someone if you're in full view. A lightfoot halfling, though, can try to vanish behind a creature that is at least one size larger, and a wood elf can try to hide simply by being in heavy rain, mist, falling snow, foliage, or similar natural phenomena. It's as if nature itself cloaks a wood elf from prying eyes—even eyes staring right at the elf! Both subraces are capable of hiding in situations when most other creatures can't, but neither subrace's hiding attempt is assured of success; a Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) check is required as normal, and an observant foe might later spot a hidden halfling or elf: "I see you behind that guard, you tricksy halfling!"
 
 #### Can a dragonborn sorcerer with a draconic bloodline have two different kinds of Draconic Ancestry?
 
-A dragonborn sorcerer can choose a different ancestor for the [racial trait](3-Mechanics/CLI/races/dragonborn.md) and for the [Dragon Ancestor](3-Mechanics/CLI/classes/sorcerer-draconic-bloodline.md#Dragon%20Ancestor%20(Level%201)) feature. Your choice for the racial trait is your actual ancestor, while the choice for the class feature could be your ancestor figuratively—the type of dragon that bestowed magic upon you or your family or the kind of draconic artifact or location that filled you with magical energy.
+A dragonborn sorcerer can choose a different ancestor for the [racial trait](3-Mechanics/CLI/races/dragonborn-xphb.md) and for the Dragon Ancestor feature. Your choice for the racial trait is your actual ancestor, while the choice for the class feature could be your ancestor figuratively—the type of dragon that bestowed magic upon you or your family or the kind of draconic artifact or location that filled you with magical energy.
 
 #### How long do a shifter's temporary hit points last?
 
@@ -126,7 +126,7 @@ Unless a feature says otherwise, temporary hit points last until you finish a lo
 
 #### Does all magical darkness block darkvision?
 
-Magical darkness blocks [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) only if the rules text for a particular instance of darkness says it does. For example, the [darkness](3-Mechanics/CLI/spells/darkness.md) spell specifies that it produces a magical darkness that obstructs [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision). That obstruction is a feature of the spell, not of magical darkness in general.
+Magical darkness blocks [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) only if the rules text for a particular instance of darkness says it does. For example, the [darkness](3-Mechanics/CLI/spells/darkness-xphb.md) spell specifies that it produces a magical darkness that obstructs [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision). That obstruction is a feature of the spell, not of magical darkness in general.
 
 ### Class Features
 
@@ -138,43 +138,43 @@ Extra Attack imposes no limitation on what you use for the attacks. You can use 
 
 ##### What is the timing of Flash of Genius?
 
-You use [Flash of Genius](3-Mechanics/CLI/classes/artificer-tce.md#Flash%20of%20Genius%20(Level%207)) immediately after the triggering `d20` is rolled and before any of the effects of the roll are applied. Unless a rule tells you otherwise, a reaction occurs immediately after its trigger.
+You use Flash of Genius immediately after the triggering `dice:d20|noform|noparens|avg` (`d20`) is rolled and before any of the effects of the roll are applied. Unless a rule tells you otherwise, a reaction occurs immediately after its trigger.
 
 ##### Which action is used to activate a Spell-Storing Item?
 
-Activating a [Spell-Storing Item](3-Mechanics/CLI/classes/artificer-tce.md#Spell-Storing%20Item%20(Level%2011)) uses the [Use an Object](3-Mechanics/CLI/rules/actions.md#Use%20an%20Object) action.
+Activating a Spell-Storing Item uses the [Use an Object](3-Mechanics/CLI/rules/actions.md#Utilize) action.
 
 ##### Can an artificer dismiss one of their infusions on an object early?
 
-No. An infusion lasts until one of the circumstances described in the "Infusing an Item" section of the [Infuse Item](3-Mechanics/CLI/classes/artificer-tce.md#Infuse%20Item%20(Level%202)) feature.
+No. An infusion lasts until one of the circumstances described in the "Infusing an Item" section of the Infuse Item feature.
 
 #### Barbarian
 
 ##### Does the barbarian's Danger Sense work against breath weapons and enemies' special abilities?
 
-A barbarian's [Danger Sense](3-Mechanics/CLI/classes/barbarian.md#Danger%20Sense%20(Level%202)) benefits the Dexterity saving throw against any effect that the barbarian can see.
+A barbarian's Danger Sense benefits the Dexterity saving throw against any effect that the barbarian can see.
 
 ##### For the barbarian's Reckless Attack, do you grant advantage to all enemies, or only to the target of your attack?
 
-If you use the barbarian's [Reckless Attack](3-Mechanics/CLI/classes/barbarian.md#Reckless%20Attack%20(Level%202)), all attack rolls have advantage against you until the start of your next turn.
+If you use the barbarian's Reckless Attack, all attack rolls have advantage against you until the start of your next turn.
 
 #### Bard
 
 ##### Do the benefits from Bardic Inspiration and the guidance spell stack? Can they be applied to the same roll?
 
-Yes, different effects stack if they don't have the same name. If a creature makes an ability check while it is under the effect of a [guidance](3-Mechanics/CLI/spells/guidance.md) spell and also has a [Bardic Inspiration](3-Mechanics/CLI/classes/bard.md#Bardic%20Inspiration%20(Level%201)) die, it can roll both a `d4` and a `d6` if it so chooses.
+Yes, different effects stack if they don't have the same name. If a creature makes an ability check while it is under the effect of a [guidance](3-Mechanics/CLI/spells/guidance-xphb.md) spell and also has a Bardic Inspiration die, it can roll both a `dice:d4|noform|noparens|avg` (`d4`) and a `dice:d6|noform|noparens|avg` (`d6`) if it so chooses.
 
 ##### Is the intent that a bard gets to know the number rolled on an attack roll or ability check before using Cutting Words, or should they always guess? If used on a damage roll, does Cutting Words apply to any kind of damage roll including an auto-hit spell like magic missile?
 
-You can wait to use [Cutting Words](3-Mechanics/CLI/classes/bard-college-of-lore.md#Cutting%20Words%20(Level%203)) after the roll, but you must commit to doing so before you know for sure whether the total of the roll or check is a success or a failure. You can use [Cutting Words](3-Mechanics/CLI/classes/bard-college-of-lore.md#Cutting%20Words%20(Level%203)) to reduce the damage from any effect that calls for a damage roll (including [magic missile](3-Mechanics/CLI/spells/magic-missile.md)) even if the damage roll is not preceded by an attack roll.
+You can wait to use Cutting Words after the roll, but you must commit to doing so before you know for sure whether the total of the roll or check is a success or a failure. You can use Cutting Words to reduce the damage from any effect that calls for a damage roll (including [magic missile](3-Mechanics/CLI/spells/magic-missile-xphb.md)) even if the damage roll is not preceded by an attack roll.
 
 ##### Can a bard replace spells gained through Magical Secrets?
 
-When you gain a level in the bard class, the class's [Spellcasting](3-Mechanics/CLI/classes/bard.md#Spellcasting%20(Level%201)) feature lets you replace one bard spell you know with another bard spell of an appropriate level. A spell learned through your [Magical Secrets](3-Mechanics/CLI/classes/bard.md#Magical%20Secrets%20(Level%2010)) feature counts as a bard spell for you, so it can be replaced upon gaining a bard level later. But it must be replaced by a bard spell, according to the rule in the [Spellcasting](3-Mechanics/CLI/classes/bard.md#Spellcasting%20(Level%201)) feature.
+When you gain a level in the bard class, the class's Spellcasting feature lets you replace one bard spell you know with another bard spell of an appropriate level. A spell learned through your Magical Secrets feature counts as a bard spell for you, so it can be replaced upon gaining a bard level later. But it must be replaced by a bard spell, according to the rule in the Spellcasting feature.
 
 ##### Which spell scrolls can bards understand—spells from the bard list only, or spells from the bard list plus spells from Magical Secrets?
 
-A bard can use any [spell scroll](3-Mechanics/CLI/items/spell-scroll.md) that has a bard spell on it—including spells gained from the [Magical Secrets](3-Mechanics/CLI/classes/bard.md#Magical%20Secrets%20(Level%2010)) feature, which are treated as bard spells for that character.
+A bard can use any [spell scroll](3-Mechanics/CLI/items/spell-scroll-xdmg.md) that has a bard spell on it—including spells gained from the Magical Secrets feature, which are treated as bard spells for that character.
 
 ##### Does using College of Valor's Combat Inspiration add to the damage of an attack count as a damage die for purposes of critical hits?
 
@@ -184,11 +184,11 @@ Yes.
 
 ##### When a cleric uses the Destructive Wrath feature, does it maximize all damage getting rolled, as long as some of it is lightning or thunder?
 
-[Destructive Wrath](3-Mechanics/CLI/classes/cleric-tempest-domain.md#Channel%20Divinity%20Destructive%20Wrath%20(Level%202)) is meant to maximize lightning and thunder damage only.
+Destructive Wrath is meant to maximize lightning and thunder damage only.
 
 ##### If a Grave Domain cleric casts a spell that restores hit points to multiple creatures and one of those creatures has 0 hit points, does the spell restore the maximum number of hit points to all targets of the spell?
 
-No. Only a creature with 0 hit points benefits from the hit-point-restoration portion of the [Circle of Mortality](3-Mechanics/CLI/classes/cleric-grave-domain-xge.md#Circle%20of%20Mortality%20(Level%201)) feature.
+No. Only a creature with 0 hit points benefits from the hit-point-restoration portion of the Circle of Mortality feature.
 
 #### Druid
 
@@ -198,7 +198,7 @@ The druid explodes.
 
 Well, not actually. Druids have a taboo against wearing metal armor and wielding a metal shield. The taboo has been part of the class's story since the class first appeared in Eldritch Wizardry (1976) (https://www.dndbeyond.com/attachments/6/494/hfm79-eldritch-wizardry.png) and the original Player's Handbook (1978) (https://www.dndbeyond.com/attachments/6/493/9ukrr-players-handbook.jpg). The idea is that druids prefer to be protected by animal skins, wood, and other natural materials that aren't the worked metal that is associated with civilization. Druids don't lack the ability to wear metal armor. They choose not to wear it. This choice is part of their identity as a mystical order. Think of it in these terms: a vegetarian can eat meat, but chooses not to.
 
-A druid typically wears [leather](3-Mechanics/CLI/items/leather-armor.md), [studded leather](3-Mechanics/CLI/items/studded-leather-armor.md), or [hide](3-Mechanics/CLI/items/hide-armor.md) armor, and if a druid comes across [scale mail](3-Mechanics/CLI/items/scale-mail.md) made of a material other than metal, the druid might wear it. If you feel strongly about your druid breaking the taboo and donning metal, talk to your DM. Each class has story elements mixed with its game features; the two types of design go hand in hand in D&D, and the story parts are stronger in some classes than in others. Druids and paladins have an especially strong dose of story in their design. If you want to depart from your class's story, your DM has the final say on how far you can go and still be considered a member of the class. As long as you abide by your character's proficiencies, you're not going to break anything in the game system, but you might undermine the story and the world being created in your campaign.
+A druid typically wears [leather](3-Mechanics/CLI/items/leather-armor-xphb.md), [studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md), or [hide](3-Mechanics/CLI/items/hide-armor-xphb.md) armor, and if a druid comes across [scale mail](3-Mechanics/CLI/items/scale-mail-xphb.md) made of a material other than metal, the druid might wear it. If you feel strongly about your druid breaking the taboo and donning metal, talk to your DM. Each class has story elements mixed with its game features; the two types of design go hand in hand in D&D, and the story parts are stronger in some classes than in others. Druids and paladins have an especially strong dose of story in their design. If you want to depart from your class's story, your DM has the final say on how far you can go and still be considered a member of the class. As long as you abide by your character's proficiencies, you're not going to break anything in the game system, but you might undermine the story and the world being created in your campaign.
 
 ##### Can a bound and gagged druid simply use Wild Shape to get out? It's hard to capture someone who can turn into a mouse at will
 
@@ -206,59 +206,59 @@ Transforming into a different size can be an effective way of escaping, dependin
 
 ##### Does the druid's Elemental Wild Shape limit you to the four creatures listed, or can you turn into any creature with the elemental type?
 
-The creatures listed in [Elemental Wild Shape](3-Mechanics/CLI/classes/druid-circle-of-the-moon.md#Elemental%20Wild%20Shape%20(Level%2010))—[air](3-Mechanics/CLI/bestiary/elemental/air-elemental.md), [earth](3-Mechanics/CLI/bestiary/elemental/earth-elemental.md), [fire](3-Mechanics/CLI/bestiary/elemental/fire-elemental.md), and [water](3-Mechanics/CLI/bestiary/elemental/water-elemental.md) elementals—are specific creatures in the "Monster Manual", not creature types or subtypes. [Elemental Wild Shape](3-Mechanics/CLI/classes/druid-circle-of-the-moon.md#Elemental%20Wild%20Shape%20(Level%2010)) allows you to transform into one of those creatures.
+The creatures listed in Elemental Wild Shape—[air](3-Mechanics/CLI/bestiary/elemental/air-elemental-xmm.md), [earth](3-Mechanics/CLI/bestiary/elemental/earth-elemental-xmm.md), [fire](3-Mechanics/CLI/bestiary/elemental/fire-elemental-xmm.md), and [water](3-Mechanics/CLI/bestiary/elemental/water-elemental-xmm.md) elementals—are specific creatures in the "Monster Manual", not creature types or subtypes. Elemental Wild Shape allows you to transform into one of those creatures.
 
 ##### Can a Circle of the Moon druid speak the languages it knows while in the form of an elemental?
 
-Yes, since the elementals listed in [Elemental Wild Shape](3-Mechanics/CLI/classes/druid-circle-of-the-moon.md#Elemental%20Wild%20Shape%20(Level%2010)) can speak.
+Yes, since the elementals listed in Elemental Wild Shape can speak.
 
-A literal interpretation (RAW) of [Wild Shape](3-Mechanics/CLI/classes/druid.md#Wild%20Shape%20(Level%202)) could reasonably lead you to think that transformed druids can speak only languages that appear in an elemental's stat block, but the intent (RAI) is that druids retain their knowledge, including of languages, when they transform and can speak the languages they know if an adopted form can speak.
+A literal interpretation (RAW) of Wild Shape could reasonably lead you to think that transformed druids can speak only languages that appear in an elemental's stat block, but the intent (RAI) is that druids retain their knowledge, including of languages, when they transform and can speak the languages they know if an adopted form can speak.
 
 ##### If a druid in elemental form can speak, can the druid cast spells?
 
-A druid can cast spells in a [Wild Shape](3-Mechanics/CLI/classes/druid.md#Wild%20Shape%20(Level%202)) form only upon gaining the [Beast Spells](3-Mechanics/CLI/classes/druid.md#Beast%20Spells%20(Level%2018)) feature at 18th level.
+A druid can cast spells in a Wild Shape form only upon gaining the Beast Spells feature at 18th level.
 
 ##### If a druid takes the Magic Initiate feat and chooses detect magic as their one spell, can the druid cast that spell as a ritual?
 
-A druid's [Ritual Casting](3-Mechanics/CLI/classes/druid.md#Spellcasting%20(Level%201)) requires a ritual to be prepared. The spell from [Magic Initiate](3-Mechanics/CLI/feats/magic-initiate.md) is known but not prepared.
+A druid's Ritual Casting requires a ritual to be prepared. The spell from [Magic Initiate](3-Mechanics/CLI/feats/magic-initiate-xphb.md) is known but not prepared.
 
 #### Fighter
 
 ##### Does the fighter's Action Surge feature let you take an extra bonus action, in addition to an extra action?
 
-[Action Surge](3-Mechanics/CLI/classes/fighter.md#Action%20Surge%20(Level%202)) gives you an extra action, not an extra bonus action. (Recent printings of the "Player's Handbook" no longer include the wording that provoked this question.)
+Action Surge gives you an extra action, not an extra bonus action. (Recent printings of the "Player's Handbook" no longer include the wording that provoked this question.)
 
 ##### Can a fighter have two fighting styles active at once?
 
-[Dueling](3-Mechanics/CLI/optional-features/dueling.md) and [Defense](3-Mechanics/CLI/optional-features/defense.md), for example. You can benefit from more than one [Fighting Style](3-Mechanics/CLI/classes/fighter.md#Fighting%20Style%20(Level%201)) option at a time, as long as they don't have conflicting requirements, as [Dueling](3-Mechanics/CLI/optional-features/dueling.md) and [Great Weapon Fighting](3-Mechanics/CLI/optional-features/great-weapon-fighting.md) do.
+[Dueling](3-Mechanics/CLI/feats/dueling-xphb.md) and [Defense](3-Mechanics/CLI/feats/defense-xphb.md), for example. You can benefit from more than one Fighting Style option at a time, as long as they don't have conflicting requirements, as [Dueling](3-Mechanics/CLI/feats/dueling-xphb.md) and [Great Weapon Fighting](3-Mechanics/CLI/feats/great-weapon-fighting-xphb.md) do.
 
 ##### Does the Archery fighting style work with a melee weapon that you throw?
 
-No, the [Archery](3-Mechanics/CLI/optional-features/archery.md) feature benefits ranged weapons. A melee weapon, such as a [dagger](3-Mechanics/CLI/items/dagger.md) or [handaxe](3-Mechanics/CLI/items/handaxe.md), is still a melee weapon when you make a "ranged attack" with it.
+No, the [Archery](3-Mechanics/CLI/feats/archery-xphb.md) feature benefits ranged weapons. A melee weapon, such as a [dagger](3-Mechanics/CLI/items/dagger-xphb.md) or [handaxe](3-Mechanics/CLI/items/handaxe-xphb.md), is still a melee weapon when you make a "ranged attack" with it.
 
 ##### Is the Dueling fighting style intended to support a shield?
 
-Yes. A character with the [Dueling](3-Mechanics/CLI/optional-features/dueling.md) option usually pairs a one-handed weapon with a [shield](3-Mechanics/CLI/items/shield.md), a spellcasting focus, or a free hand.
+Yes. A character with the [Dueling](3-Mechanics/CLI/feats/dueling-xphb.md) option usually pairs a one-handed weapon with a [shield](3-Mechanics/CLI/items/shield-xphb.md), a spellcasting focus, or a free hand.
 
 ##### If you use Great Weapon Fighting with a feature like Divine Smite or a spell like hex, do you get to reroll any 1 or 2 you roll for the extra damage?
 
-The [Great Weapon Fighting](3-Mechanics/CLI/optional-features/great-weapon-fighting.md) feature—which is shared by fighters and paladins—is meant to benefit only the damage roll of the weapon used with the feature. For example, if you use a [greatsword](3-Mechanics/CLI/items/greatsword.md) with the feature, you can reroll any 1 or 2 you roll on the weapon's `2d6`. If you're a paladin and use [Divine Smite](3-Mechanics/CLI/classes/paladin.md#Divine%20Smite%20(Level%202)) with the [greatsword](3-Mechanics/CLI/items/greatsword.md), [Great Weapon Fighting](3-Mechanics/CLI/optional-features/great-weapon-fighting.md) doesn't let you reroll a 1 or 2 that you roll for the damage of [Divine Smite](3-Mechanics/CLI/classes/paladin.md#Divine%20Smite%20(Level%202)).
+The [Great Weapon Fighting](3-Mechanics/CLI/feats/great-weapon-fighting-xphb.md) feature—which is shared by fighters and paladins—is meant to benefit only the damage roll of the weapon used with the feature. For example, if you use a [greatsword](3-Mechanics/CLI/items/greatsword-xphb.md) with the feature, you can reroll any 1 or 2 you roll on the weapon's `dice:2d6|noform|noparens|avg` (`2d6`). If you're a paladin and use Divine Smite with the [greatsword](3-Mechanics/CLI/items/greatsword-xphb.md), [Great Weapon Fighting](3-Mechanics/CLI/feats/great-weapon-fighting-xphb.md) doesn't let you reroll a 1 or 2 that you roll for the damage of Divine Smite.
 
 ##### If my Battle Master fighter provokes an opportunity attack and it misses, can I use Riposte?
 
-Yes, you can use the [Riposte](3-Mechanics/CLI/optional-features/riposte.md) maneuver in response to an [opportunity attack](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack) that misses you, assuming your "reaction" is available.
+Yes, you can use the [Riposte](3-Mechanics/CLI/optional-features/riposte-xphb.md) maneuver in response to an [opportunity attack](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack) that misses you, assuming your "reaction" is available.
 
 ##### Does the "when" in the Eldritch Knight's War Magic feature mean the bonus attack comes after you cast the cantrip, or can it come before?
 
-The bonus action comes after the cantrip, since using your action to cast a cantrip is what gives you the ability to make the weapon attack as a bonus action. That said, a DM would break nothing in the system by allowing an [Eldritch Knight](3-Mechanics/CLI/classes/fighter-eldritch-knight.md) to reverse the order of the cantrip and the weapon attack.
+The bonus action comes after the cantrip, since using your action to cast a cantrip is what gives you the ability to make the weapon attack as a bonus action. That said, a DM would break nothing in the system by allowing an [Eldritch Knight](3-Mechanics/CLI/classes/fighter-xphb-eldritch-knight-xphb.md) to reverse the order of the cantrip and the weapon attack.
 
 ##### If my Eldritch Knight casts true strike and has the War Magic feature, is the attack granted by War Magic made with advantage because of true strike?
 
-No. The attack from [War Magic](3-Mechanics/CLI/classes/fighter-eldritch-knight.md#War%20Magic%20(Level%207)) is made normally, and you get the benefit of [true strike](3-Mechanics/CLI/spells/true-strike.md) on your next turn if the spell hasn't ended.
+No. The attack from War Magic is made normally, and you get the benefit of [true strike](3-Mechanics/CLI/spells/true-strike-xphb.md) on your next turn if the spell hasn't ended.
 
 ##### Can the Disarming Attack maneuver disarm a creature of a shield it has donned?
 
-No. [Disarming Attack](3-Mechanics/CLI/optional-features/disarming-attack.md) forces a creature to drop an object it is holding. Donned [shields](3-Mechanics/CLI/items/shield.md) aren't merely held.
+No. [Disarming Attack](3-Mechanics/CLI/optional-features/disarming-attack-xphb.md) forces a creature to drop an object it is holding. Donned [shields](3-Mechanics/CLI/items/shield-xphb.md) aren't merely held.
 
 #### Monk
 
@@ -268,7 +268,7 @@ Yes. A monk weapon must lack the [two-handed](3-Mechanics/CLI/rules/item-propert
 
 ##### The dart is not classified as a monk weapon, yet a monk gets 10 darts as starting equipment. Why is that?
 
-Starting equipment often lends versatility to a character. In this case, a monk's [darts](3-Mechanics/CLI/items/dart.md) provide a ranged attack option, not a [Martial Arts](3-Mechanics/CLI/classes/monk.md#Martial%20Arts%20(Level%201)) option.
+Starting equipment often lends versatility to a character. In this case, a monk's [darts](3-Mechanics/CLI/items/dart-xphb.md) provide a ranged attack option, not a Martial Arts option.
 
 ##### Does the Martial Arts feature turn monk weapons and unarmed strikes into finesse weapons?
 
@@ -276,25 +276,25 @@ No. The feature grants a benefit that is similar to the [finesse](3-Mechanics/CL
 
 ##### When a monk using Deflect Missiles catches and throws a projectile, what is the damage of the attack?
 
-A missile counts as a monk weapon if it is thrown using [Deflect Missiles](3-Mechanics/CLI/classes/monk.md#Deflect%20Missiles%20(Level%203)); it deals its damage or [Martial Arts](3-Mechanics/CLI/classes/monk.md#Martial%20Arts%20(Level%201)) damage (the monk's choice).
+A missile counts as a monk weapon if it is thrown using Deflect Missiles; it deals its damage or Martial Arts damage (the monk's choice).
 
 ##### Can a monk use Stunning Strike with an unarmed strike, even though unarmed strikes aren't weapons?
 
-Yes. [Stunning Strike](3-Mechanics/CLI/classes/monk.md#Stunning%20Strike%20(Level%205)) works with melee weapon attacks, and an unarmed strike is a special type of melee weapon attack.
+Yes. Stunning Strike works with melee weapon attacks, and an unarmed strike is a special type of melee weapon attack.
 
 The game often makes exceptions to general rules, and this is an important exception: that unarmed strikes count as melee weapon attacks despite not being weapons.
 
 ##### When a monk uses Empty Body, does the invisibility remain in effect after the monk attacks?
 
-Yes. The [invisibility](3-Mechanics/CLI/rules/conditions.md#Invisible) of the monk's [Empty Body](3-Mechanics/CLI/classes/monk.md#Empty%20Body%20(Level%2018)) isn't ended by the monk attacking.
+Yes. The [invisibility](3-Mechanics/CLI/rules/conditions.md#Invisible) of the monk's Empty Body isn't ended by the monk attacking.
 
 ##### Does a monk's Purity of Body feature grant immunity to poison damage, the poisoned condition, or both?
 
-That feature grants immunity to both. As a result, a monk with [Purity of Body](3-Mechanics/CLI/classes/monk.md#Purity%20of%20Body%20(Level%2010)) can, for example, inhale a [green dragon's](3-Mechanics/CLI/bestiary/dragon/young-green-dragon.md) poison breath unharmed. Similarly, the monk is unaffected by [ray of sickness](3-Mechanics/CLI/spells/ray-of-sickness.md), which both deals poison damage and imposes the [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) condition.
+That feature grants immunity to both. As a result, a monk with Purity of Body can, for example, inhale a [green dragon's](3-Mechanics/CLI/bestiary/dragon/young-green-dragon-xmm.md) poison breath unharmed. Similarly, the monk is unaffected by [ray of sickness](3-Mechanics/CLI/spells/ray-of-sickness-xphb.md), which both deals poison damage and imposes the [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) condition.
 
 ##### Can the monk's Open Hand Technique push a Large or larger creature or knock it prone?
 
-The [Open Hand Technique](3-Mechanics/CLI/classes/monk-way-of-the-open-hand.md#Open%20Hand%20Technique%20(Level%203)) intentionally ignores creature size. A monk's ki fuels many extraordinary effects! If a feature is limited by creature size, the feature tells you so.
+The Open Hand Technique intentionally ignores creature size. A monk's ki fuels many extraordinary effects! If a feature is limited by creature size, the feature tells you so.
 
 ##### Does a monk need to spend any ki points to cast the minor illusion cantrip granted by the Shadow Arts feature?
 
@@ -312,29 +312,29 @@ Yes. Even though you know [Elemental Attunement](3-Mechanics/CLI/optional-featur
 
 ##### Would a Paladin's Divine Sense register a tiefling due to their infernal heritage?
 
-A [tiefling](3-Mechanics/CLI/races/tiefling.md) is a humanoid, not a fiend, and therefore escapes the notice of [Divine Sense](3-Mechanics/CLI/classes/paladin.md#Divine%20Sense%20(Level%201)). The feature detects creatures that have the celestial, fiend, or undead creature type.
+A [tiefling](3-Mechanics/CLI/races/tiefling-xphb.md) is a humanoid, not a fiend, and therefore escapes the notice of Divine Sense. The feature detects creatures that have the celestial, fiend, or undead creature type.
 
 ##### Can my paladin use a smite spell along with Divine Smite? As in, I cast wrathful smite, hit, then use Divine Smite on the same attack?
 
-Yes, you can use [Divine Smite](3-Mechanics/CLI/classes/paladin.md#Divine%20Smite%20(Level%202)) on the same weapon attack that benefits from a smite spell, such as [wrathful smite](3-Mechanics/CLI/spells/wrathful-smite.md)—as long as the attack you make after casting the smite spell is a melee weapon attack. [Divine Smite](3-Mechanics/CLI/classes/paladin.md#Divine%20Smite%20(Level%202)) doesn't work with any other kind of attack.
+Yes, you can use Divine Smite on the same weapon attack that benefits from a smite spell, such as [wrathful smite](3-Mechanics/CLI/spells/wrathful-smite-xphb.md)—as long as the attack you make after casting the smite spell is a melee weapon attack. Divine Smite doesn't work with any other kind of attack.
 
 ##### Can a paladin use Divine Smite when they hit using an unarmed strike?
 
-No. [Divine Smite](3-Mechanics/CLI/classes/paladin.md#Divine%20Smite%20(Level%202)) isn't intended to work with unarmed strikes.
+No. Divine Smite isn't intended to work with unarmed strikes.
 
-[Divine Smite](3-Mechanics/CLI/classes/paladin.md#Divine%20Smite%20(Level%202)) does work with a melee weapon attack, and an unarmed strike can be used to make such an attack. But the text of [Divine Smite](3-Mechanics/CLI/classes/paladin.md#Divine%20Smite%20(Level%202)) also refers to the "weapon's damage," and an unarmed strike isn't a weapon.
+Divine Smite does work with a melee weapon attack, and an unarmed strike can be used to make such an attack. But the text of Divine Smite also refers to the "weapon's damage," and an unarmed strike isn't a weapon.
 
-If a DM decides to override this rule, no imbalance is created. Tying [Divine Smite](3-Mechanics/CLI/classes/paladin.md#Divine%20Smite%20(Level%202)) to weapons was a thematic choice on our part—paladins being traditionally associated with weapons. It was not a game balance choice.
+If a DM decides to override this rule, no imbalance is created. Tying Divine Smite to weapons was a thematic choice on our part—paladins being traditionally associated with weapons. It was not a game balance choice.
 
 #### Ranger
 
 ##### There is no component pouch option in the ranger's starting equipment. Does the class not need one, nor a focus for spells?
 
-Like other spellcasters, the ranger follows the rule on "components" in chapter 10 of the "Player's Handbook". A ranger typically uses a [component pouch](3-Mechanics/CLI/items/component-pouch.md) for the material components of spells, but doesn't start with one because rangers don't have spells at 1st level.
+Like other spellcasters, the ranger follows the rule on "components" in chapter 10 of the "Player's Handbook". A ranger typically uses a [component pouch](3-Mechanics/CLI/items/component-pouch-xphb.md) for the material components of spells, but doesn't start with one because rangers don't have spells at 1st level.
 
 ##### Can a ranger move between the attack rolls of the Whirlwind Attack feature?
 
-No. [Whirlwind Attack](3-Mechanics/CLI/classes/ranger-hunter.md#Whirlwind%20Attack%20(Level%2011)) is unusual, in that it's a single attack with multiple attack rolls. In most other instances, an attack has one attack roll. The rule on moving between attacks (*PHB*, ""Moving Between Attacks"") lets you move between weapon attacks, not between the attack rolls of an exceptional feature like [Whirlwind Attack](3-Mechanics/CLI/classes/ranger-hunter.md#Whirlwind%20Attack%20(Level%2011)).
+No. Whirlwind Attack is unusual, in that it's a single attack with multiple attack rolls. In most other instances, an attack has one attack roll. The rule on moving between attacks (*PHB*, ""Moving Between Attacks"") lets you move between weapon attacks, not between the attack rolls of an exceptional feature like Whirlwind Attack.
 
 ##### Does a Monster Slayer ranger's Supernatural Defense feature apply if a creature damages the ranger, thus causing the ranger to make a Constitution saving throw to maintain concentration on a spell?
 
@@ -344,31 +344,31 @@ Yes.
 
 ##### Can a rogue use Sneak Attack more than once per round?
 
-The [Sneak Attack](3-Mechanics/CLI/classes/rogue.md#Sneak%20Attack%20(Level%201)) description specifies that you can use the feature once per turn, but it's not limited to your turn. The feature also doesn't limit the number of times you can use it in a round.
+The Sneak Attack description specifies that you can use the feature once per turn, but it's not limited to your turn. The feature also doesn't limit the number of times you can use it in a round.
 
-You sometimes get a chance to use [Sneak Attack](3-Mechanics/CLI/classes/rogue.md#Sneak%20Attack%20(Level%201)) on someone else's turn. The most common way for this to happen is when a foe provokes an [opportunity attack](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack) from you. If the requirements for [Sneak Attack](3-Mechanics/CLI/classes/rogue.md#Sneak%20Attack%20(Level%201)) are met, your [opportunity attack](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack) can benefit from that feature. Similarly, a fighter could use [Commander's Strike](3-Mechanics/CLI/optional-features/commanders-strike.md) to grant you an attack on the fighter's turn, and if the attack qualifies, it can use [Sneak Attack](3-Mechanics/CLI/classes/rogue.md#Sneak%20Attack%20(Level%201)). Both of those options rely on the use of your reaction, so you could do only one of them in a round.
+You sometimes get a chance to use Sneak Attack on someone else's turn. The most common way for this to happen is when a foe provokes an [opportunity attack](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack) from you. If the requirements for Sneak Attack are met, your [opportunity attack](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack) can benefit from that feature. Similarly, a fighter could use [Commander's Strike](3-Mechanics/CLI/optional-features/commanders-strike-xphb.md) to grant you an attack on the fighter's turn, and if the attack qualifies, it can use Sneak Attack. Both of those options rely on the use of your reaction, so you could do only one of them in a round.
 
-Because you get only one reaction per round, you're unlikely to use [Sneak Attack](3-Mechanics/CLI/classes/rogue.md#Sneak%20Attack%20(Level%201)) more than twice in a round: once with your action and once with your reaction.
+Because you get only one reaction per round, you're unlikely to use Sneak Attack more than twice in a round: once with your action and once with your reaction.
 
 ##### For Sneak Attack, what if another enemy of your target was 10 feet away with a polearm (which has a reach of 10 feet), instead of 5 feet away? Would you still be able to use Sneak Attack?
 
-The 5-foot limitation in [Sneak Attack](3-Mechanics/CLI/classes/rogue.md#Sneak%20Attack%20(Level%201)) is unaffected by the [reach](3-Mechanics/CLI/rules/item-properties.md#Reach) of a weapon. That other enemy of the target is creating a close-up distraction, regardless of the weapon in hand.
+The 5-foot limitation in Sneak Attack is unaffected by the [reach](3-Mechanics/CLI/rules/item-properties.md#Reach) of a weapon. That other enemy of the target is creating a close-up distraction, regardless of the weapon in hand.
 
 ##### Does Uncanny Dodge work automatically against every attack a rogue or ranger gets hit by? Spell attacks too?
 
-A use of [Uncanny Dodge](3-Mechanics/CLI/classes/rogue.md#Uncanny%20Dodge%20(Level%205)) works against only one attack, since it expends your "reaction", and only if you can see the attacker. It works against attacks of all sorts, including spell attacks, but it is no help against a spell or other effect, such as [fireball](3-Mechanics/CLI/spells/fireball.md), that delivers its damage after a saving throw rather than after an attack roll.
+A use of Uncanny Dodge works against only one attack, since it expends your "reaction", and only if you can see the attacker. It works against attacks of all sorts, including spell attacks, but it is no help against a spell or other effect, such as [fireball](3-Mechanics/CLI/spells/fireball-xphb.md), that delivers its damage after a saving throw rather than after an attack roll.
 
 ##### Can a rogue use Evasion if they are surprised?
 
-The rule states that if you are [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised), you can't move or take an action. A [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised) rogue can use [Evasion](3-Mechanics/CLI/classes/rogue.md#Evasion%20(Level%207)), since that feature doesn't require the rogue to take an action or move.
+The rule states that if you are [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised), you can't move or take an action. A [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised) rogue can use Evasion, since that feature doesn't require the rogue to take an action or move.
 
 ##### Can the rogue's Reliable Talent feature be used in conjunction with Remarkable Athlete or Jack of All Trades?
 
-No. Each of these features has a precondition for its use; [Reliable Talent](3-Mechanics/CLI/classes/rogue.md#Reliable%20Talent%20(Level%2011)) activates when you make an ability check that uses your proficiency bonus, whereas the other two features activate when you make an ability check that doesn't use your proficiency bonus. In other words, a check that qualifies for [Reliable Talent](3-Mechanics/CLI/classes/rogue.md#Reliable%20Talent%20(Level%2011)) doesn't qualify for [Remarkable Athlete](3-Mechanics/CLI/classes/fighter-champion.md#Remarkable%20Athlete%20(Level%207)) or [Jack of All Trades](3-Mechanics/CLI/classes/bard.md#Jack%20of%20All%20Trades%20(Level%202)). And [Remarkable Athlete](3-Mechanics/CLI/classes/fighter-champion.md#Remarkable%20Athlete%20(Level%207)) and [Jack of All Trades](3-Mechanics/CLI/classes/bard.md#Jack%20of%20All%20Trades%20(Level%202)) don't work with each other, since you can add your proficiency bonus, or any portion thereof, only once to a roll.
+No. Each of these features has a precondition for its use; Reliable Talent activates when you make an ability check that uses your proficiency bonus, whereas the other two features activate when you make an ability check that doesn't use your proficiency bonus. In other words, a check that qualifies for Reliable Talent doesn't qualify for Remarkable Athlete or Jack of All Trades. And Remarkable Athlete and Jack of All Trades don't work with each other, since you can add your proficiency bonus, or any portion thereof, only once to a roll.
 
 ##### Can a thief use the Fast Hands feature to activate a magic item?
 
-No. One of the benefits of [Fast Hands](3-Mechanics/CLI/classes/rogue-thief.md#Fast%20Hands%20(Level%203)) is being able to take the [Use an Object](3-Mechanics/CLI/rules/actions.md#Use%20an%20Object) action as a bonus action, but using a magic item doesn't fall under [Use an Object](3-Mechanics/CLI/rules/actions.md#Use%20an%20Object), as explained in the "Dungeon Master's Guide" (see ""Activating an Item""). In contrast, using a nonmagical item, such as a [healer's kit](3-Mechanics/CLI/items/healers-kit.md), is in the domain of [Use an Object](3-Mechanics/CLI/rules/actions.md#Use%20an%20Object).
+No. One of the benefits of Fast Hands is being able to take the [Use an Object](3-Mechanics/CLI/rules/actions.md#Utilize) action as a bonus action, but using a magic item doesn't fall under [Use an Object](3-Mechanics/CLI/rules/actions.md#Utilize), as explained in the "Dungeon Master's Guide" (see ""Activating an Item""). In contrast, using a nonmagical item, such as a [healer's kit](3-Mechanics/CLI/items/healers-kit-xphb.md), is in the domain of [Use an Object](3-Mechanics/CLI/rules/actions.md#Utilize).
 
 ##### For triggering the rogue's Assassinate ability, when does a creature stop being surprised? After their turn in the round, or at the end of the round?
 
@@ -376,29 +376,29 @@ A [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised) creature stops bein
 
 ##### Does the Thief's Use Magic Device feature allow them to use spell scrolls?
 
-Yes. The intent is that a [Thief](3-Mechanics/CLI/classes/rogue-thief.md) can use [spell scrolls](3-Mechanics/CLI/items/spell-scroll.md) with [Use Magic Device](3-Mechanics/CLI/classes/rogue-thief.md#Use%20Magic%20Device%20(Level%2013)).
+Yes. The intent is that a [Thief](3-Mechanics/CLI/classes/rogue-xphb-thief-xphb.md) can use [spell scrolls](3-Mechanics/CLI/items/spell-scroll-xdmg.md) with Use Magic Device.
 
 ##### Can a Thief use Fast Hands to use or apply poisons?
 
-Yes. Administering poison uses the [Use an Object](3-Mechanics/CLI/rules/actions.md#Use%20an%20Object) action.
+Yes. Administering poison uses the [Use an Object](3-Mechanics/CLI/rules/actions.md#Utilize) action.
 
 #### Sorcerer
 
 ##### If a sorcerer casts a spell with only verbal or somatic components using Subtle Spell, can an opponent use counterspell against it?
 
-If a spell that's altered by [Subtle Spell](3-Mechanics/CLI/optional-features/subtle-spell.md) has no material component, then it's impossible for anyone to perceive the spell being cast. So, since you can't see the casting, [counterspell](3-Mechanics/CLI/spells/counterspell.md) is of no use.
+If a spell that's altered by [Subtle Spell](3-Mechanics/CLI/optional-features/subtle-spell-xphb.md) has no material component, then it's impossible for anyone to perceive the spell being cast. So, since you can't see the casting, [counterspell](3-Mechanics/CLI/spells/counterspell-xphb.md) is of no use.
 
 ##### Metamagic rules state you can't use multiple Metamagic options on a single spell. Can you use one option multiple times?
 
-A sorcerer can use one Metamagic option once in the casting of a spell, not the same option more than once. For instance, a sorcerer can't quadruple the duration of a spell by spending 2 sorcery points on [Extended Spell](3-Mechanics/CLI/optional-features/extended-spell.md).
+A sorcerer can use one Metamagic option once in the casting of a spell, not the same option more than once. For instance, a sorcerer can't quadruple the duration of a spell by spending 2 sorcery points on [Extended Spell](3-Mechanics/CLI/optional-features/extended-spell-xphb.md).
 
 ##### Elemental Affinity improves one damage roll of a spell, not multiple rolls? So with scorching ray, I don't add my Charisma modifier to each ray that hits?
 
-That's correct. [Elemental Affinity](3-Mechanics/CLI/classes/sorcerer-draconic-bloodline.md#Elemental%20Affinity%20(Level%206)) benefits one damage roll per casting of a spell, even if the spell allows more than one roll. So, for example, the feature improves one of the rays of a [scorching ray](3-Mechanics/CLI/spells/scorching-ray.md) spell or one of the beams of an [eldritch blast](3-Mechanics/CLI/spells/eldritch-blast.md) spell.
+That's correct. Elemental Affinity benefits one damage roll per casting of a spell, even if the spell allows more than one roll. So, for example, the feature improves one of the rays of a [scorching ray](3-Mechanics/CLI/spells/scorching-ray-xphb.md) spell or one of the beams of an [eldritch blast](3-Mechanics/CLI/spells/eldritch-blast-xphb.md) spell.
 
 ##### Can Empowered Spell affect all the rays of a scorching ray spell, or just one?
 
-A sorcerer's [Empowered Spell](3-Mechanics/CLI/optional-features/empowered-spell.md) could affect more than one ray of a [scorching ray](3-Mechanics/CLI/spells/scorching-ray.md), abiding by the feature's die limit. For instance, if you create three rays with the spell and you have a `+3` Charisma modifier, you could reroll one of the damage dice for each ray, or two of the damage dice for one ray and one of the damage dice for another one.
+A sorcerer's [Empowered Spell](3-Mechanics/CLI/optional-features/empowered-spell-xphb.md) could affect more than one ray of a [scorching ray](3-Mechanics/CLI/spells/scorching-ray-xphb.md), abiding by the feature's die limit. For instance, if you create three rays with the spell and you have a `dice:1d20+3|noform|noparens|text(+3)` Charisma modifier, you could reroll one of the damage dice for each ray, or two of the damage dice for one ray and one of the damage dice for another one.
 
 ##### Does Quickened Spell allow a sorcerer to cast two spells a round of 1st level or higher?
 
@@ -410,17 +410,17 @@ Yes, you can. It costs the number of sorcery points appropriate for the level of
 
 ##### Does a sorcerer's Wild Magic Surge effect replace the effect of the spell that triggered it, or do both effects happen?
 
-The spell and the [Wild Magic Surge](3-Mechanics/CLI/tables/wild-magic-surge-phb.md) effect both happen. As clarified in the errata for the "Player's Handbook", a surge effect that normally requires [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) does not require [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) in this case.
+The spell and the [Wild Magic Surge](3-Mechanics/CLI/tables/wild-magic-surge-xphb.md) effect both happen. As clarified in the errata for the "Player's Handbook", a surge effect that normally requires [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) does not require [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) in this case.
 
 ##### Can my sorcerer use Twinned Spell to affect a particular spell?
 
-You can use [Twinned Spell](3-Mechanics/CLI/optional-features/twinned-spell.md) on a spell that...
+You can use [Twinned Spell](3-Mechanics/CLI/optional-features/twinned-spell-xphb.md) on a spell that...
 
 - targets only one creature  
 - doesn't have a range of self  
 - is incapable of targeting more than one creature at the spell's current level  
 
-If you know this rule yet are still unsure whether a particular spell qualifies for [Twinned Spell](3-Mechanics/CLI/optional-features/twinned-spell.md), consult with your DM, who has the final say. If the two of you are curious about our design intent, here is the list of things that disqualify a spell for us:
+If you know this rule yet are still unsure whether a particular spell qualifies for [Twinned Spell](3-Mechanics/CLI/optional-features/twinned-spell-xphb.md), consult with your DM, who has the final say. If the two of you are curious about our design intent, here is the list of things that disqualify a spell for us:
 
 - The spell has a range of self.  
 - The spell can target an object.  
@@ -440,9 +440,9 @@ The spells granted by that feature aren't automatically known by a warlock. Thos
 
 ##### If a warlock uses Pact of the Blade to bond with a magic weapon, does that weapon have to be a melee weapon, and can the warlock change the weapon's form?
 
-The warlock's [Pact of the Blade](3-Mechanics/CLI/optional-features/pact-of-the-blade.md) feature lets you create a melee weapon out of nothing. Whenever you do so, you determine the weapon's form, choosing from the melee weapon options in the [Weapons](3-Mechanics/CLI/tables/weapons-phb.md) table in the "Player's Handbook". For example, you can create a [greataxe](3-Mechanics/CLI/items/greataxe.md), and then use the feature again to create a [javelin](3-Mechanics/CLI/items/javelin.md), which causes the [greataxe](3-Mechanics/CLI/items/greataxe.md) to disappear.
+The warlock's [Pact of the Blade](3-Mechanics/CLI/optional-features/pact-of-the-blade-xphb.md) feature lets you create a melee weapon out of nothing. Whenever you do so, you determine the weapon's form, choosing from the melee weapon options in the [Weapons](3-Mechanics/CLI/tables/weapons-xphb.md) table in the "Player's Handbook". For example, you can create a [greataxe](3-Mechanics/CLI/items/greataxe-xphb.md), and then use the feature again to create a [javelin](3-Mechanics/CLI/items/javelin-xphb.md), which causes the [greataxe](3-Mechanics/CLI/items/greataxe-xphb.md) to disappear.
 
-You can also use [Pact of the Blade](3-Mechanics/CLI/optional-features/pact-of-the-blade.md) to bond with a magic weapon, turning it into your pact weapon. This magic weapon doesn't have to be a melee weapon, so you could use the feature on a [+1 longbow](3-Mechanics/CLI/items/1-weapon.md), for instance. Once the bond is formed, the magic weapon appears whenever you call your pact weapon to you, and you can't change the magic weapon's form when it appears. For example, if you bond with a [flame tongue (longsword)](3-Mechanics/CLI/items/flame-tongue.md) and send the weapon to an extradimensional space, the weapon comes back as a longsword when you summon it. You don't get to turn it into a club. Similarly, if you bond with a [dagger of venom](3-Mechanics/CLI/items/dagger-of-venom.md), you can't summon it as a maul; it's always a dagger.
+You can also use [Pact of the Blade](3-Mechanics/CLI/optional-features/pact-of-the-blade-xphb.md) to bond with a magic weapon, turning it into your pact weapon. This magic weapon doesn't have to be a melee weapon, so you could use the feature on a [+1 longbow](3-Mechanics/CLI/items/1-weapon-xdmg.md), for instance. Once the bond is formed, the magic weapon appears whenever you call your pact weapon to you, and you can't change the magic weapon's form when it appears. For example, if you bond with a [flame tongue (longsword)](3-Mechanics/CLI/items/flame-tongue-xdmg.md) and send the weapon to an extradimensional space, the weapon comes back as a longsword when you summon it. You don't get to turn it into a club. Similarly, if you bond with a [dagger of venom](3-Mechanics/CLI/items/dagger-of-venom-xdmg.md), you can't summon it as a maul; it's always a dagger.
 
 The feature allows the conjuring forth of a melee weapon, yet we allow more versatility when it comes to magic weapons. We didn't want a narrow focus in this feature to make a warlock unhappy when a variety of magic weapons appear in a campaign. Does this versatility extend outside the melee theme of the feature? It sure does, but we're willing to occasionally bend a design concept if doing so is likely to increase a player's happiness.
 
@@ -456,39 +456,39 @@ The feature is intended to provide one-way communication. The warlock can use th
 
 ##### Does using a bonus action break invisibility from a warlock's One with Shadows invocation?
 
-Taking a bonus action breaks the [invisibility](3-Mechanics/CLI/rules/conditions.md#Invisible) of a warlock's [One with Shadows](3-Mechanics/CLI/optional-features/one-with-shadows.md). A bonus action is an action.
+Taking a bonus action breaks the [invisibility](3-Mechanics/CLI/rules/conditions.md#Invisible) of a warlock's [One with Shadows](3-Mechanics/CLI/optional-features/one-with-shadows-xphb.md). A bonus action is an action.
 
 #### Wizard
 
 ##### Is an abjurer's Arcane Ward healed only when the ward has 0 hit points?
 
-The [ward](3-Mechanics/CLI/classes/wizard-school-of-abjuration.md#Arcane%20Ward%20(Level%202)) regains hit points whenever the abjurer casts an abjuration spell of 1st level or higher, not just when the [ward](3-Mechanics/CLI/classes/wizard-school-of-abjuration.md#Arcane%20Ward%20(Level%202)) has 0 hit points. As is normal for healing, the ward can't regain more hit points than its hit point maximum: twice the wizard's level + the wizard's Intelligence modifier.
+The ward regains hit points whenever the abjurer casts an abjuration spell of 1st level or higher, not just when the ward has 0 hit points. As is normal for healing, the ward can't regain more hit points than its hit point maximum: twice the wizard's level + the wizard's Intelligence modifier.
 
 ##### Does casting alarm as a ritual heal Arcane Ward?
 
-Any abjuration spell of 1st level or higher cast by an abjurer, including a ritual, can restore hit points to the abjurer's [Arcane Ward](3-Mechanics/CLI/classes/wizard-school-of-abjuration.md#Arcane%20Ward%20(Level%202)).
+Any abjuration spell of 1st level or higher cast by an abjurer, including a ritual, can restore hit points to the abjurer's Arcane Ward.
 
 ##### How does Arcane Ward interact with temporary hit points and damage resistance that an abjurer might have?
 
-An [Arcane Ward](3-Mechanics/CLI/classes/wizard-school-of-abjuration.md#Arcane%20Ward%20(Level%202)) is not an extension of the wizard who creates it. It is a magical effect with its own hit points. Any temporary hit points, immunities, or resistances that the wizard has don't apply to the ward.
+An Arcane Ward is not an extension of the wizard who creates it. It is a magical effect with its own hit points. Any temporary hit points, immunities, or resistances that the wizard has don't apply to the ward.
 
 The ward takes damage first. Any leftover damage is taken by the wizard and goes through the following game elements in order: (1) any relevant damage immunity, (2) any relevant damage resistance, (3) any temporary hit points, and (4) real hit points.
 
 ##### An abjurer gains resistance to spell damage at 14th level. Does the abjurer's Arcane Ward gain this resistance when a spell hits the abjurer?
 
-The abjurer, not the [Arcane Ward](3-Mechanics/CLI/classes/wizard-school-of-abjuration.md#Arcane%20Ward%20(Level%202)), gains the resistance at 14th level.
+The abjurer, not the Arcane Ward, gains the resistance at 14th level.
 
 ##### Does the evoker's Potent Cantrip feature apply to cantrips with attack rolls or only to saves?
 
-[Potent Cantrip](3-Mechanics/CLI/classes/wizard-school-of-evocation.md#Potent%20Cantrip%20(Level%206)) affects only cantrips that require a saving throw, such as [acid splash](3-Mechanics/CLI/spells/acid-splash.md) and [poison spray](3-Mechanics/CLI/spells/poison-spray.md).
+Potent Cantrip affects only cantrips that require a saving throw, such as [acid splash](3-Mechanics/CLI/spells/acid-splash-xphb.md) and [poison spray](3-Mechanics/CLI/spells/poison-spray-xphb.md).
 
 ##### Does the 14th-level illusionist ability let you make something real every round, or just once?
 
-[Illusory Reality](3-Mechanics/CLI/classes/wizard-school-of-illusion.md#Illusory%20Reality%20(Level%2014)) is intended to make one illusory object real per illusion spell.
+Illusory Reality is intended to make one illusory object real per illusion spell.
 
 ##### For the Shapechanger feature of the School of Transmutation, does polymorph need to be prepared if I only want to cast it without using a spell slot?
 
-A transmuter must have [polymorph](3-Mechanics/CLI/spells/polymorph.md) prepared, as normal, to cast it with the [Shapechanger](3-Mechanics/CLI/classes/wizard-school-of-transmutation.md#Shapechanger%20(Level%2010)) feature.
+A transmuter must have [polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md) prepared, as normal, to cast it with the Shapechanger feature.
 
 ##### Can Minor Conjuration create a copy of a book, complete with all its text, if the wizard hasn't seen all the text?
 
@@ -496,7 +496,7 @@ No. In the case of a multipart object, the intent is that you must have seen all
 
 ##### Can a School of Divination wizard on the Ethereal Plane use Portent on a creature that the wizard can see on the Material Plane?
 
-Yes. [Portent](3-Mechanics/CLI/classes/wizard-school-of-divination.md#Portent%20(Level%202)) requires you to be able to see the creature, but it has no range restriction.
+Yes. Portent requires you to be able to see the creature, but it has no range restriction.
 
 ##### For a wizard to cast a ritual spell contained in their spellbook, do they need to read from the book or use it as part of the ritual?
 
@@ -516,7 +516,7 @@ If you have proficiency with it, "heavy armor" doesn't affect Dexterity saving t
 
 #### If you attack with a shield—most likely as an improvised weapon—do you keep the +2 bonus to AC?
 
-Attacking with a [shield](3-Mechanics/CLI/items/shield.md) doesn't deprive you of the shield's bonus to AC.
+Attacking with a [shield](3-Mechanics/CLI/items/shield-xphb.md) doesn't deprive you of the shield's bonus to AC.
 
 ### Multiclassing
 
@@ -536,23 +536,23 @@ If any of your classes grants you cantrips, you get all of them.
 
 A class offers various starting proficiencies that you get if it is your first class. If the class isn't your first, you get only the starting proficiencies listed for that class in the [Multiclassing Proficiencies](3-Mechanics/CLI/tables/multiclassing-proficiencies-phb.md) table. No saving throw proficiencies are included in that table.
 
-Regardless of whether a class is your first, you do gain any proficiencies that the class grants through its features. For instance, if you gain a level in [cleric](3-Mechanics/CLI/classes/cleric.md) and choose the [War Domain](3-Mechanics/CLI/classes/cleric-war-domain.md), you do benefit from the [Bonus Proficiencies](3-Mechanics/CLI/classes/cleric-war-domain.md#Bonus%20Proficiencies%20(Level%201)) feature, even if [cleric](3-Mechanics/CLI/classes/cleric.md) isn't your first class.
+Regardless of whether a class is your first, you do gain any proficiencies that the class grants through its features. For instance, if you gain a level in [cleric](3-Mechanics/CLI/classes/cleric-xphb.md) and choose the [War Domain](3-Mechanics/CLI/classes/cleric-xphb-war-domain-xphb.md), you do benefit from the Bonus Proficiencies feature, even if [cleric](3-Mechanics/CLI/classes/cleric-xphb.md) isn't your first class.
 
 #### Can a barbarian/cleric use spiritual weapon to attack while raging, if it is cast before entering rage?
 
-A barbarian's [Rage](3-Mechanics/CLI/classes/barbarian.md#Rage%20(Level%201)) feature makes [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) impossible but has no effect on spells, like [spiritual weapon](3-Mechanics/CLI/spells/spiritual-weapon.md), that don't require [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration).
+A barbarian's Rage feature makes [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) impossible but has no effect on spells, like [spiritual weapon](3-Mechanics/CLI/spells/spiritual-weapon-xphb.md), that don't require [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration).
 
 #### Can a barbarian/fighter (Battle Master) use maneuvers while raging?
 
-Nothing in the barbarian's [Rage](3-Mechanics/CLI/classes/barbarian.md#Rage%20(Level%201)) feature precludes the use of maneuvers.
+Nothing in the barbarian's Rage feature precludes the use of maneuvers.
 
 #### Can a rogue/monk use Sneak Attack with unarmed strikes?
 
-The [Sneak Attack](3-Mechanics/CLI/classes/rogue.md#Sneak%20Attack%20(Level%201)) feature works with a weapon that has the [finesse](3-Mechanics/CLI/rules/item-properties.md#Finesse) or ranged property. An unarmed strike isn't a weapon, so it doesn't qualify. In contrast, a rogue/monk can use [Sneak Attack](3-Mechanics/CLI/classes/rogue.md#Sneak%20Attack%20(Level%201)) with a monk weapon, such as a [shortsword](3-Mechanics/CLI/items/shortsword.md) or a [dagger](3-Mechanics/CLI/items/dagger.md), that has one of the required properties.
+The Sneak Attack feature works with a weapon that has the [finesse](3-Mechanics/CLI/rules/item-properties.md#Finesse) or ranged property. An unarmed strike isn't a weapon, so it doesn't qualify. In contrast, a rogue/monk can use Sneak Attack with a monk weapon, such as a [shortsword](3-Mechanics/CLI/items/shortsword-xphb.md) or a [dagger](3-Mechanics/CLI/items/dagger-xphb.md), that has one of the required properties.
 
 #### A wizard multiclasses into Wild Magic sorcerer. Do spells cast from their spellbook trigger Wild Magic Surge if they are on the sorcerer spell list, or do they have to gain them from sorcerer to trigger?
 
-From the "multiclassing rules": "Each spell you know and prepare is associated with one of your classes". This rule means only the spells gained from levels in sorcerer trigger [Wild Magic Surge](3-Mechanics/CLI/tables/wild-magic-surge-phb.md).
+From the "multiclassing rules": "Each spell you know and prepare is associated with one of your classes". This rule means only the spells gained from levels in sorcerer trigger [Wild Magic Surge](3-Mechanics/CLI/tables/wild-magic-surge-xphb.md).
 
 ### Feats
 
@@ -560,41 +560,41 @@ From the "multiclassing rules": "Each spell you know and prepare is associated w
 
 ##### If you have the Charger feat, can you make your charge attack when your mount takes the Dash action?
 
-The [Charger](3-Mechanics/CLI/feats/charger.md) feat relies on you, not your mount, taking the [Dash](3-Mechanics/CLI/rules/actions.md#Dash) action.
+The [Charger](3-Mechanics/CLI/feats/charger-xphb.md) feat relies on you, not your mount, taking the [Dash](3-Mechanics/CLI/rules/actions.md#Dash) action.
 
 #### Crossbow Expert
 
 ##### Is it intentional that the second benefit of Crossbow Expert helps ranged spell attacks?
 
-Yes, it's intentional. When you make a ranged attack roll within 5 feet of an enemy, you normally suffer disadvantage. The second benefit of [Crossbow Expert](3-Mechanics/CLI/feats/crossbow-expert.md) prevents you from suffering that disadvantage, whether or not the ranged attack is with a crossbow.
+Yes, it's intentional. When you make a ranged attack roll within 5 feet of an enemy, you normally suffer disadvantage. The second benefit of [Crossbow Expert](3-Mechanics/CLI/feats/crossbow-expert-xphb.md) prevents you from suffering that disadvantage, whether or not the ranged attack is with a crossbow.
 
-When designing a feat with a narrow use, we consider adding at least one element that can benefit a character more broadly—a bit of mastery that your character brings from one situation to another. The second benefit of [Crossbow Expert](3-Mechanics/CLI/feats/crossbow-expert.md) is such an element, as is the first benefit of [Great Weapon Master](3-Mechanics/CLI/feats/great-weapon-master.md). That element in [Crossbow Expert](3-Mechanics/CLI/feats/crossbow-expert.md) shows that some of the character's expertise with one type of thing—crossbows, in this case—transfers to other things.
+When designing a feat with a narrow use, we consider adding at least one element that can benefit a character more broadly—a bit of mastery that your character brings from one situation to another. The second benefit of [Crossbow Expert](3-Mechanics/CLI/feats/crossbow-expert-xphb.md) is such an element, as is the first benefit of [Great Weapon Master](3-Mechanics/CLI/feats/great-weapon-master-xphb.md). That element in [Crossbow Expert](3-Mechanics/CLI/feats/crossbow-expert-xphb.md) shows that some of the character's expertise with one type of thing—crossbows, in this case—transfers to other things.
 
 ##### Do the first and third benefits of Crossbow Expert turn a hand crossbow into a semiautomatic weapon?
 
 The short answer is no.
 
-The first benefit of the feat lets you ignore the [loading](3-Mechanics/CLI/rules/item-properties.md#Loading) property of the [hand crossbow](3-Mechanics/CLI/items/hand-crossbow.md) if you're proficient with that weapon. The upshot is that you can fire it more than once if you have a feature like Extra Attack. You're still limited, however, by the fact that the weapon has the [ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition) property. The latter property requires you to have a bolt to fire from the [hand crossbow](3-Mechanics/CLI/items/hand-crossbow.md), and the hand crossbow isn't going to load itself (unless it's magical or a gnomish invention). You need to load each bolt into the weapon, and doing so requires a hand.
+The first benefit of the feat lets you ignore the [loading](3-Mechanics/CLI/rules/item-properties.md#Loading) property of the [hand crossbow](3-Mechanics/CLI/items/hand-crossbow-xphb.md) if you're proficient with that weapon. The upshot is that you can fire it more than once if you have a feature like Extra Attack. You're still limited, however, by the fact that the weapon has the [ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition) property. The latter property requires you to have a bolt to fire from the [hand crossbow](3-Mechanics/CLI/items/hand-crossbow-xphb.md), and the hand crossbow isn't going to load itself (unless it's magical or a gnomish invention). You need to load each bolt into the weapon, and doing so requires a hand.
 
 To dig deeper into this point, take a look at the following sentence in the definition of the [ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition) property: "Drawing the ammunition from a quiver, case, or other container is part of the attack." The sentence tells us two important things. First, you're assumed to be drawing—that is, extracting with your hand—the ammunition from a container. Second, the act of drawing the ammunition is included in the attack and therefore doesn't require its own action and doesn't use up your free interaction with an object on your turn.
 
-What does that all mean for a [hand crossbow](3-Mechanics/CLI/items/hand-crossbow.md)? It means [Crossbow Expert](3-Mechanics/CLI/feats/crossbow-expert.md) makes it possible to fire a hand crossbow more than once with a feature like Extra Attack, provided that you have enough ammunition and you have a hand free to load it for each shot.
+What does that all mean for a [hand crossbow](3-Mechanics/CLI/items/hand-crossbow-xphb.md)? It means [Crossbow Expert](3-Mechanics/CLI/feats/crossbow-expert-xphb.md) makes it possible to fire a hand crossbow more than once with a feature like Extra Attack, provided that you have enough ammunition and you have a hand free to load it for each shot.
 
 ##### Does Crossbow Expert let you fire a hand crossbow and then fire it again as a bonus action?
 
-It does! Take a look at the feat's third benefit. It says you can attack with a [hand crossbow](3-Mechanics/CLI/items/hand-crossbow.md) as a bonus action when you use the [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action to attack with a one-handed weapon. A [hand crossbow](3-Mechanics/CLI/items/hand-crossbow.md) is a one-handed weapon, so it can, indeed, be used for both attacks, assuming you have a hand free to load the [hand crossbow](3-Mechanics/CLI/items/hand-crossbow.md) between the two attacks.
+It does! Take a look at the feat's third benefit. It says you can attack with a [hand crossbow](3-Mechanics/CLI/items/hand-crossbow-xphb.md) as a bonus action when you use the [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action to attack with a one-handed weapon. A [hand crossbow](3-Mechanics/CLI/items/hand-crossbow-xphb.md) is a one-handed weapon, so it can, indeed, be used for both attacks, assuming you have a hand free to load the [hand crossbow](3-Mechanics/CLI/items/hand-crossbow-xphb.md) between the two attacks.
 
 #### Dual Wielder
 
 ##### Can my character wield two heavy weapons if she has the Dual Wielder feat?
 
-No. The [Dual Wielder](3-Mechanics/CLI/feats/dual-wielder.md) feat lets you wield two one-handed weapons. Every [heavy](3-Mechanics/CLI/rules/item-properties.md#Heavy) weapon in the "Player's Handbook" also has the [two-handed](3-Mechanics/CLI/rules/item-properties.md#Two-Handed) property.
+No. The [Dual Wielder](3-Mechanics/CLI/feats/dual-wielder-xphb.md) feat lets you wield two one-handed weapons. Every [heavy](3-Mechanics/CLI/rules/item-properties.md#Heavy) weapon in the "Player's Handbook" also has the [two-handed](3-Mechanics/CLI/rules/item-properties.md#Two-Handed) property.
 
 #### Elemental Adept
 
 ##### Is Elemental Adept the only feat you can take more than once?
 
-[Elemental Adept](3-Mechanics/CLI/feats/elemental-adept.md) is the only feat in the "Player's Handbook" that you can take more than once.
+[Elemental Adept](3-Mechanics/CLI/feats/elemental-adept-xphb.md) is the only feat in the "Player's Handbook" that you can take more than once.
 
 #### Great Weapon Master
 
@@ -606,47 +606,47 @@ You take the bonus action on your turn, anytime after you hit with the attack th
 
 ##### How does the Lucky feat interact with advantage and disadvantage?
 
-The [Lucky](3-Mechanics/CLI/feats/lucky.md) feat represents extraordinary luck that can help you when you need it most. It lets you spend a luck point; roll an extra `d20` for an attack roll, ability check, or saving throw; and then choose which `d20` to use. This is true no matter how many d20s (`d20`) are in the mix. For example, if you have advantage or disadvantage on your attack roll, you could spend a luck point, roll a third `d20`, and then decide which of the three dice to use. You still have advantage or disadvantage, since the feat doesn't say it negates it, but you get to pick the die. The upshot of this fact is that a [rogue](3-Mechanics/CLI/classes/rogue.md), for instance, who has disadvantage on an attack roll couldn't use [Sneak Attack](3-Mechanics/CLI/classes/rogue.md#Sneak%20Attack%20(Level%201)) even if the [rogue](3-Mechanics/CLI/classes/rogue.md) uses the [Lucky](3-Mechanics/CLI/feats/lucky.md) feat to pick the die.
+The [Lucky](3-Mechanics/CLI/feats/lucky-xphb.md) feat represents extraordinary luck that can help you when you need it most. It lets you spend a luck point; roll an extra `dice:d20|noform|noparens|avg` (`d20`) for an attack roll, ability check, or saving throw; and then choose which `dice:d20|noform|noparens|avg` (`d20`) to use. This is true no matter how many `dice:d20|noform|noparens|avg|text(d20s)` (`d20`) are in the mix. For example, if you have advantage or disadvantage on your attack roll, you could spend a luck point, roll a third `dice:d20|noform|noparens|avg` (`d20`), and then decide which of the three dice to use. You still have advantage or disadvantage, since the feat doesn't say it negates it, but you get to pick the die. The upshot of this fact is that a [rogue](3-Mechanics/CLI/classes/rogue-xphb.md), for instance, who has disadvantage on an attack roll couldn't use Sneak Attack even if the [rogue](3-Mechanics/CLI/classes/rogue-xphb.md) uses the [Lucky](3-Mechanics/CLI/feats/lucky-xphb.md) feat to pick the die.
 
-The [Lucky](3-Mechanics/CLI/feats/lucky.md) feat is a great example of an exception to a general rule. The general rule in this case is the one that tells us how advantage and disadvantage work. The specific rule is the [Lucky](3-Mechanics/CLI/feats/lucky.md) feat, and we know that a specific rule trumps a general rule if they conflict with each other.
+The [Lucky](3-Mechanics/CLI/feats/lucky-xphb.md) feat is a great example of an exception to a general rule. The general rule in this case is the one that tells us how advantage and disadvantage work. The specific rule is the [Lucky](3-Mechanics/CLI/feats/lucky-xphb.md) feat, and we know that a specific rule trumps a general rule if they conflict with each other.
 
-If a DM wants advantage and disadvantage to play their normal roles even when the [Lucky](3-Mechanics/CLI/feats/lucky.md) feat is used, here's a way to do so: roll two d20s (`2d20`) for advantage/disadvantage, roll a third `d20` for [Lucky](3-Mechanics/CLI/feats/lucky.md), eliminate one of the three dice, and then use the higher (for advantage) or lower (for disadvantage) of the two dice that remain.
+If a DM wants advantage and disadvantage to play their normal roles even when the [Lucky](3-Mechanics/CLI/feats/lucky-xphb.md) feat is used, here's a way to do so: roll `dice:2d20|noform|noparens|avg|text(two d20s)` (`2d20`) for advantage/disadvantage, roll a third `dice:d20|noform|noparens|avg` (`d20`) for [Lucky](3-Mechanics/CLI/feats/lucky-xphb.md), eliminate one of the three dice, and then use the higher (for advantage) or lower (for disadvantage) of the two dice that remain.
 
 #### Magic Initiate
 
 ##### If you're a spellcaster, can you pick your own class when you gain the Magic Initiate feat?
 
-Yes, the feat doesn't say you can't. For example, if you're a [wizard](3-Mechanics/CLI/classes/wizard.md) and gain the [Magic Initiate](3-Mechanics/CLI/feats/magic-initiate.md) feat, you can choose [wizard](3-Mechanics/CLI/classes/wizard.md) and thereby learn two more wizard cantrips and another 1st-level wizard spell.
+Yes, the feat doesn't say you can't. For example, if you're a [wizard](3-Mechanics/CLI/classes/wizard-xphb.md) and gain the [Magic Initiate](3-Mechanics/CLI/feats/magic-initiate-xphb.md) feat, you can choose [wizard](3-Mechanics/CLI/classes/wizard-xphb.md) and thereby learn two more wizard cantrips and another 1st-level wizard spell.
 
 ##### If you have spell slots, can you use them to cast the 1st-level spell you learn with the Magic Initiate feat?
 
-Yes, but only if the class you pick for the feat is one of your classes. For example, if you pick sorcerer and you are a sorcerer, the Spellcasting feature for that class tells you that you can use your spell slots to cast the sorcerer spells you know, so you can use your spell slots to cast the 1st-level sorcerer spell you learn from [Magic Initiate](3-Mechanics/CLI/feats/magic-initiate.md). Similarly, if you are a wizard and pick that class for the feat, you learn a 1st-level wizard spell, which you could add to your spellbook and subsequently prepare.
+Yes, but only if the class you pick for the feat is one of your classes. For example, if you pick sorcerer and you are a sorcerer, the Spellcasting feature for that class tells you that you can use your spell slots to cast the sorcerer spells you know, so you can use your spell slots to cast the 1st-level sorcerer spell you learn from [Magic Initiate](3-Mechanics/CLI/feats/magic-initiate-xphb.md). Similarly, if you are a wizard and pick that class for the feat, you learn a 1st-level wizard spell, which you could add to your spellbook and subsequently prepare.
 
-In short, you must follow your character's normal spellcasting rules, which determine whether you can expend spell slots on the 1st-level spell you learn from [Magic Initiate](3-Mechanics/CLI/feats/magic-initiate.md).
+In short, you must follow your character's normal spellcasting rules, which determine whether you can expend spell slots on the 1st-level spell you learn from [Magic Initiate](3-Mechanics/CLI/feats/magic-initiate-xphb.md).
 
 #### Polearm Master
 
 ##### Can I add my Strength modifier to the damage of the bonus attack that Polearm Master gives me?
 
-Yes. If you have the feat and use the [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action to attack with a [glaive](3-Mechanics/CLI/items/glaive.md), [halberd](3-Mechanics/CLI/items/halberd.md), or [quarterstaff](3-Mechanics/CLI/items/quarterstaff.md), you can also strike with the weapon's opposite end as a bonus action. For that bonus attack, you add your ability modifier to the attack roll, as you do whenever you attack with that weapon, and if you hit, you add the same ability modifier to the damage roll, which is normal for weapon "damage rolls".
+Yes. If you have the feat and use the [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action to attack with a [glaive](3-Mechanics/CLI/items/glaive-xphb.md), [halberd](3-Mechanics/CLI/items/halberd-xphb.md), or [quarterstaff](3-Mechanics/CLI/items/quarterstaff-xphb.md), you can also strike with the weapon's opposite end as a bonus action. For that bonus attack, you add your ability modifier to the attack roll, as you do whenever you attack with that weapon, and if you hit, you add the same ability modifier to the damage roll, which is normal for weapon "damage rolls".
 
-A specific rule, such as the rule for [two-weapon fighting](3-Mechanics/CLI/rules/actions.md#Two-Weapon%20Fighting), might break the general rule by telling you not to add your ability modifier to the damage. [Polearm Master](3-Mechanics/CLI/feats/polearm-master.md) doesn't have such a rule.
+A specific rule, such as the rule for [two-weapon fighting](3-Mechanics/CLI/rules/actions.md#Two-Weapon%20Fighting), might break the general rule by telling you not to add your ability modifier to the damage. [Polearm Master](3-Mechanics/CLI/feats/polearm-master-xphb.md) doesn't have such a rule.
 
 ##### Does Polearm Master let me make an opportunity attack against a target that is being forced to approach me?
 
-A creature doesn't provoke an [opportunity attack](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack) if it is moved without the use of its movement, its action, or its "reaction". For example, the effect of the [antipathy/sympathy](3-Mechanics/CLI/spells/antipathy-sympathy.md) spell requires the target to use its movement, meaning that it would provoke [opportunity attacks](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack) when it does so.
+A creature doesn't provoke an [opportunity attack](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack) if it is moved without the use of its movement, its action, or its "reaction". For example, the effect of the [antipathy/sympathy](3-Mechanics/CLI/spells/antipathy-sympathy-xphb.md) spell requires the target to use its movement, meaning that it would provoke [opportunity attacks](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack) when it does so.
 
-Similarly, [dissonant whispers](3-Mechanics/CLI/spells/dissonant-whispers.md) requires the target to move using its "reaction" (if available), so that activity also provokes [opportunity attacks](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack). In contrast, a creature that's pushed by a [gust of wind](3-Mechanics/CLI/spells/gust-of-wind.md) spell does not provoke [opportunity attacks](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack).
+Similarly, [dissonant whispers](3-Mechanics/CLI/spells/dissonant-whispers-xphb.md) requires the target to move using its "reaction" (if available), so that activity also provokes [opportunity attacks](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack). In contrast, a creature that's pushed by a [gust of wind](3-Mechanics/CLI/spells/gust-of-wind-xphb.md) spell does not provoke [opportunity attacks](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack).
 
 #### Savage Attacker
 
 ##### Does the Savage Attacker feat work with unarmed strikes?
 
-No. [Savage Attacker](3-Mechanics/CLI/feats/savage-attacker.md) relies on a weapon's damage dice, and an unarmed strike isn't a weapon (a point that was clarified in the "Player's Handbook" errata).
+No. [Savage Attacker](3-Mechanics/CLI/feats/savage-attacker-xphb.md) relies on a weapon's damage dice, and an unarmed strike isn't a weapon (a point that was clarified in the "Player's Handbook" errata).
 
 ##### Does the benefit of the Savage Attacker feat apply to additional effects like the rogue's Sneak Attack or the paladin's Divine Smite?
 
-No. The benefit of [Savage Attacker](3-Mechanics/CLI/feats/savage-attacker.md) applies only to rolls of the weapon's damage dice, not to any extra damage that a feature or other ability might grant.
+No. The benefit of [Savage Attacker](3-Mechanics/CLI/feats/savage-attacker-xphb.md) applies only to rolls of the weapon's damage dice, not to any extra damage that a feature or other ability might grant.
 
 #### Sentinel
 
@@ -656,13 +656,13 @@ The bonus attack takes place after the triggering attack. Here's why: the feat d
 
 ##### How does the Sentinel feat work against an enemy that has Fancy Footwork or the Mobile feat?
 
-Does the character with the [Sentinel](3-Mechanics/CLI/feats/sentinel.md) feat still get the [opportunity attack](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack)? The second benefit of the Sentinel feat is intended to counteract the [Disengage](3-Mechanics/CLI/rules/actions.md#Disengage) action only. An enemy with the [Fancy Footwork](3-Mechanics/CLI/classes/rogue-swashbuckler-xge.md#Fancy%20Footwork%20(Level%203)) feature ("Sword Coast Adventurer's Guide") or one that has the [Mobile](3-Mechanics/CLI/feats/mobile.md) feat can avoid provoking [opportunity attacks](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack) from someone who has the [Sentinel](3-Mechanics/CLI/feats/sentinel.md) feat, as long as that enemy doesn't take the [Disengage](3-Mechanics/CLI/rules/actions.md#Disengage) action.
+Does the character with the [Sentinel](3-Mechanics/CLI/feats/sentinel-xphb.md) feat still get the [opportunity attack](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack)? The second benefit of the Sentinel feat is intended to counteract the [Disengage](3-Mechanics/CLI/rules/actions.md#Disengage) action only. An enemy with the Fancy Footwork feature ("Sword Coast Adventurer's Guide") or one that has the [Mobile](3-Mechanics/CLI/feats/speedy-xphb.md) feat can avoid provoking [opportunity attacks](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack) from someone who has the [Sentinel](3-Mechanics/CLI/feats/sentinel-xphb.md) feat, as long as that enemy doesn't take the [Disengage](3-Mechanics/CLI/rules/actions.md#Disengage) action.
 
 #### Shield Master
 
 ##### The Shield Master feat lets you shove someone as a bonus action if you take the Attack action. Can you take that bonus action before the Attack action?
 
-No. The bonus action provided by the [Shield Master](3-Mechanics/CLI/feats/shield-master.md) feat has a precondition: that you take the [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action on your turn. Intending to take that action isn't sufficient; you must actually take it before you can take the bonus action. During your turn, you do get to decide when to take the bonus action after you've taken the [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action.
+No. The bonus action provided by the [Shield Master](3-Mechanics/CLI/feats/shield-master-xphb.md) feat has a precondition: that you take the [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action on your turn. Intending to take that action isn't sufficient; you must actually take it before you can take the bonus action. During your turn, you do get to decide when to take the bonus action after you've taken the [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action.
 
 This sort of if-then setup appears in many of the game's rules. The "if" must be satisfied before the "then" comes into play.
 
@@ -670,15 +670,15 @@ This sort of if-then setup appears in many of the game's rules. The "if" must be
 
 ##### Does the Tough feat have an effect for a druid while in beast form?
 
-The intent is no. The [Tough](3-Mechanics/CLI/feats/tough.md) feat affects a druid's hit points, which are replaced by the beast's hit points while using [Wild Shape](3-Mechanics/CLI/classes/druid.md#Wild%20Shape%20(Level%202)).
+The intent is no. The [Tough](3-Mechanics/CLI/feats/tough-xphb.md) feat affects a druid's hit points, which are replaced by the beast's hit points while using Wild Shape.
 
 ### Ability Checks
 
 #### Are attack rolls and saving throws basically specialized ability checks?
 
-They aren't. It's easy to mistake the three rolls as three faces of the same thing, because they each involve rolling a `d20`, adding any modifiers, and comparing the total to a "Difficulty Class", and they're all subject to advantage and disadvantage. In short, they share the same procedure for determining success or failure.
+They aren't. It's easy to mistake the three rolls as three faces of the same thing, because they each involve rolling a `dice:d20|noform|noparens|avg` (`d20`), adding any modifiers, and comparing the total to a "Difficulty Class", and they're all subject to advantage and disadvantage. In short, they share the same procedure for determining success or failure.
 
-Despite this common procedure, the three rolls are separate from each other. If something in the game, like the [guidance](3-Mechanics/CLI/spells/guidance.md) spell, affects one of them, the other two aren't affected unless the rules specifically say so. The next few questions touch on this point again.
+Despite this common procedure, the three rolls are separate from each other. If something in the game, like the [guidance](3-Mechanics/CLI/spells/guidance-xphb.md) spell, affects one of them, the other two aren't affected unless the rules specifically say so. The next few questions touch on this point again.
 
 #### Can you get a critical hit on an ability check? For example, on a grapple attempt, does a critical win, or the highest number?
 
@@ -690,17 +690,17 @@ Rolling a 1 on an ability check or a saving throw is not an automatic failure. A
 
 #### If you cast the hex spell and choose Strength as the affected ability, does the target also have disadvantage on attack rolls and saving throws that use Strength?
 
-No, the [hex](3-Mechanics/CLI/spells/hex.md) spell's description says it affects ability checks that use the chosen ability. The description says nothing about affecting attack rolls or saving throws. This means, for example, that if you choose Constitution, the spell's target doesn't suffer disadvantage when trying to maintain [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) on a spell, since [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) requires a Constitution saving throw, not a Constitution check.
+No, the [hex](3-Mechanics/CLI/spells/hex-xphb.md) spell's description says it affects ability checks that use the chosen ability. The description says nothing about affecting attack rolls or saving throws. This means, for example, that if you choose Constitution, the spell's target doesn't suffer disadvantage when trying to maintain [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) on a spell, since [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) requires a Constitution saving throw, not a Constitution check.
 
 Curious about the spell's intent? The spell is meant to be a classic jinx—the sort seen in folklore—that is useful in and out of combat. In combat, the spell provides some extra necrotic damage. Outside combat, you could foil a cunning diplomat, for example, by casting the spell and imposing disadvantage on his or her Charisma checks.
 
 #### Does the bard's Jack of All Trades feature apply to attack rolls and saving throws that don't use the bard's proficiency bonus?
 
-No. The feature benefits only ability checks. Don't forget that initiative rolls are Dexterity checks, so [Jack of All Trades](3-Mechanics/CLI/classes/bard.md#Jack%20of%20All%20Trades%20(Level%202)) can benefit a bard's initiative, assuming the bard isn't already adding his or her proficiency bonus to it.
+No. The feature benefits only ability checks. Don't forget that initiative rolls are Dexterity checks, so Jack of All Trades can benefit a bard's initiative, assuming the bard isn't already adding his or her proficiency bonus to it.
 
 #### When you make a Strength (Athletics) check to grapple or shove someone, are you making an attack roll?
 
-No. That check is an ability check, so game effects tied to attack rolls don't apply to it. Going back to an earlier question, the [hex](3-Mechanics/CLI/spells/hex.md) spell could be used to diminish a grappler's effectiveness. And if the grappler's target is under the effect of the [Dodge](3-Mechanics/CLI/rules/actions.md#Dodge) action, that action doesn't inhibit the [grapple](3-Mechanics/CLI/rules/actions.md#Grapple), since [Dodge](3-Mechanics/CLI/rules/actions.md#Dodge) doesn't affect ability checks.
+No. That check is an ability check, so game effects tied to attack rolls don't apply to it. Going back to an earlier question, the [hex](3-Mechanics/CLI/spells/hex-xphb.md) spell could be used to diminish a grappler's effectiveness. And if the grappler's target is under the effect of the [Dodge](3-Mechanics/CLI/rules/actions.md#Dodge) action, that action doesn't inhibit the [grapple](3-Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md), since [Dodge](3-Mechanics/CLI/rules/actions.md#Dodge) doesn't affect ability checks.
 
 ### Adventuring
 
@@ -718,11 +718,11 @@ For an extensive discussion of this topic, see the question "Is the breath weapo
 
 #### What's an example of an effect that can reduce exhaustion?
 
-The [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md) spell can reduce [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion).
+The [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md) spell can reduce [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion).
 
 #### Is there a way to get lost Intelligence back, such as after an intellect devourer zeroes it?
 
-The [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md) spell can remove the reduction to an ability score.
+The [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md) spell can remove the reduction to an ability score.
 
 #### What happens after 20th level? Is there a cap to character levels?
 
@@ -744,7 +744,7 @@ No, here's how surprise works.
 
 The first step of any combat is this: the DM determines whether anyone in the combat is [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised) (reread ""Combat Step by Step"" in the "Player's Handbook"). This determination happens only once during a fight and only at the beginning. In other words, once a fight starts, you can't be [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised) again, although a hidden foe can still gain the normal benefits from being unseen (see ""Unseen Attackers and Targets"" in the "Player's Handbook").
 
-To be [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised), you must be caught off guard, usually because you failed to notice foes being stealthy or you were startled by an enemy with a special ability, such as the [gelatinous cube's](3-Mechanics/CLI/bestiary/ooze/gelatinous-cube.md) Transparent trait, that makes it exceptionally surprising. You can be [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised) even if your companions aren't, and you aren't [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised) if even one of your foes fails to catch you unawares.
+To be [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised), you must be caught off guard, usually because you failed to notice foes being stealthy or you were startled by an enemy with a special ability, such as the [gelatinous cube's](3-Mechanics/CLI/bestiary/ooze/gelatinous-cube-xmm.md) Transparent trait, that makes it exceptionally surprising. You can be [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised) even if your companions aren't, and you aren't [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised) if even one of your foes fails to catch you unawares.
 
 If anyone is [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised), no actions are taken yet. First, initiative is rolled as normal. Then, the first round of combat starts, and the [unsurprised](3-Mechanics/CLI/rules/conditions.md#Surprised) combatants act in initiative order. A [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised) creature can't move or take an action or a "reaction" until its first turn ends (remember that being unable to take an action also means you can't take a bonus action). In effect, a [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised) creature skips its first turn in a fight. Once that turn ends, the creature is no longer [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised).
 
@@ -776,7 +776,7 @@ If you have an action readied, you can make an [opportunity attack](3-Mechanics/
 
 #### Can a bonus action be used as an action or vice versa? For example, can a bard use a bonus action to grant a Bardic Inspiration die and an action to cast healing word?
 
-No. Actions and bonus actions aren't interchangeable. In the example, the bard could use [Bardic Inspiration](3-Mechanics/CLI/classes/bard.md#Bardic%20Inspiration%20(Level%201)) or [healing word](3-Mechanics/CLI/spells/healing-word.md) on a turn, not both.
+No. Actions and bonus actions aren't interchangeable. In the example, the bard could use Bardic Inspiration or [healing word](3-Mechanics/CLI/spells/healing-word-xphb.md) on a turn, not both.
 
 #### Can a flying creature without the hover trait stay in one place while airborne, or does it need to move each round?
 
@@ -794,7 +794,7 @@ The "travel pace rule" doesn't apply in combat.
 
 #### If you have a feature like Cunning Action or Step of the Wind, can you take the Dash action more than once on your turn?
 
-If you can take the [Dash](3-Mechanics/CLI/rules/actions.md#Dash) action as a bonus action, nothing in the rules prevents you from taking the [Dash](3-Mechanics/CLI/rules/actions.md#Dash) action with your regular action too. The same principle holds when you use a feature like [Action Surge](3-Mechanics/CLI/classes/fighter.md#Action%20Surge%20(Level%202)); you could use both of your actions to take the [Dash](3-Mechanics/CLI/rules/actions.md#Dash) action.
+If you can take the [Dash](3-Mechanics/CLI/rules/actions.md#Dash) action as a bonus action, nothing in the rules prevents you from taking the [Dash](3-Mechanics/CLI/rules/actions.md#Dash) action with your regular action too. The same principle holds when you use a feature like Action Surge; you could use both of your actions to take the [Dash](3-Mechanics/CLI/rules/actions.md#Dash) action.
 
 #### My rogue/wizard can get a bonus action to Dash by using Cunning Action, and I can cast expeditious retreat on myself to get a bonus action to Dash. Do I get two bonus actions to Dash?
 
@@ -810,7 +810,7 @@ Without a special ability, hiding in combat requires the [Hide](3-Mechanics/CLI/
 
 #### If I use the Ready action to deal damage to someone who's moving, do I deny the target the rest of its movement?
 
-Dealing damage to a moving target doesn't halt its movement, unless the damage is accompanied by an ability that stops movement. Things like the [Sentinel](3-Mechanics/CLI/feats/sentinel.md) feat give you such an ability. Reducing a moving creature to 0 hit points is also usually an effective way to stop it!
+Dealing damage to a moving target doesn't halt its movement, unless the damage is accompanied by an ability that stops movement. Things like the [Sentinel](3-Mechanics/CLI/feats/sentinel-xphb.md) feat give you such an ability. Reducing a moving creature to 0 hit points is also usually an effective way to stop it!
 
 #### Can you use the Ready action to take the Dash action on someone else's turn and then combine the Charger feat with it?
 
@@ -834,11 +834,11 @@ The "Player's Handbook" specifies which ability modifier to use with an attack r
 
 ![How do I know which ability modifier to use with an attack roll and its damage roll?](3-Mechanics/CLI/tables/how-do-i-know-which-ability-modifier-to-use-with-an-attack-roll-and-its-damage-roll-sac.md)
 
-For example, if you make a melee weapon attack with a longsword, you add your Strength modifier to the attack and damage rolls of the attack. In contrast, if you make the spell attack of the [fire bolt](3-Mechanics/CLI/spells/fire-bolt.md) cantrip, you add your spellcasting ability modifier to the attack roll. If you're a wizard, Intelligence is your spellcasting ability, so add your Intelligence modifier. [Fire bolt](3-Mechanics/CLI/spells/fire-bolt.md) doesn't tell you to add your modifier to its damage roll, though, so you don't.
+For example, if you make a melee weapon attack with a longsword, you add your Strength modifier to the attack and damage rolls of the attack. In contrast, if you make the spell attack of the [fire bolt](3-Mechanics/CLI/spells/fire-bolt-xphb.md) cantrip, you add your spellcasting ability modifier to the attack roll. If you're a wizard, Intelligence is your spellcasting ability, so add your Intelligence modifier. [Fire bolt](3-Mechanics/CLI/spells/fire-bolt-xphb.md) doesn't tell you to add your modifier to its damage roll, though, so you don't.
 
 Various features in the game make explicit exceptions to the rule. For example, a weapon that has the [finesse](3-Mechanics/CLI/rules/item-properties.md#Finesse) property lets you choose whether to use your Strength or Dexterity modifier with it. Another example: when you use the [two-weapon fighting](3-Mechanics/CLI/rules/actions.md#Two-Weapon%20Fighting) option in the "Player's Handbook" (*PHB* "[Two-Weapon Fighting](3-Mechanics/CLI/rules/actions.md#Two-Weapon%20Fighting)"), you don't add your ability modifier to the damage of the bonus attack, unless that modifier is negative. You do, however, still add your ability modifier to the attack roll, since the option doesn't tell you not to. In other words, you follow the general rule until an exception in the game tells you not to.
 
-What about unusual cases like the [green-flame blade](3-Mechanics/CLI/spells/green-flame-blade-tce.md) spell? The spell, which appears in the "Sword Coast Adventurer's Guide", tells you to make a melee attack with a weapon. Look at the table above, and you see that, under normal circumstances, you use your Strength modifier when you make a melee weapon attack. It doesn't matter that a spell told you to attack. If a spell expects you to make a spell attack, the spell's description says so. For examples, take a look at [fire bolt](3-Mechanics/CLI/spells/fire-bolt.md) and [ray of frost](3-Mechanics/CLI/spells/ray-of-frost.md). Both say it—"spell attack."
+What about unusual cases like the [green-flame blade](3-Mechanics/CLI/spells/green-flame-blade-tce.md) spell? The spell, which appears in the "Sword Coast Adventurer's Guide", tells you to make a melee attack with a weapon. Look at the table above, and you see that, under normal circumstances, you use your Strength modifier when you make a melee weapon attack. It doesn't matter that a spell told you to attack. If a spell expects you to make a spell attack, the spell's description says so. For examples, take a look at [fire bolt](3-Mechanics/CLI/spells/fire-bolt-xphb.md) and [ray of frost](3-Mechanics/CLI/spells/ray-of-frost-xphb.md). Both say it—"spell attack."
 
 #### What does "melee weapon attack" mean: a melee attack with a weapon or an attack with a melee weapon?
 
@@ -848,7 +848,7 @@ Here's a bit of wording minutia: we would write "melee-weapon attack" (with a hy
 
 #### How does a reach weapon work with opportunity attacks?
 
-An [opportunity attack](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack) is normally triggered when a creature you can see moves beyond your reach. If you want to make an [opportunity attack](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack) with a [reach](3-Mechanics/CLI/rules/item-properties.md#Reach) weapon, such as a [glaive](3-Mechanics/CLI/items/glaive.md) or a [halberd](3-Mechanics/CLI/items/halberd.md), you can do so when a creature leaves the reach you have with that weapon. For example, if you're wielding a [halberd](3-Mechanics/CLI/items/halberd.md), a creature that is right next to you could move 5 feet away without triggering an [opportunity attack](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack). If that creature tries to move an additional 5 feet—beyond your 10-foot reach—the creature then triggers an [opportunity attack](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack).
+An [opportunity attack](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack) is normally triggered when a creature you can see moves beyond your reach. If you want to make an [opportunity attack](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack) with a [reach](3-Mechanics/CLI/rules/item-properties.md#Reach) weapon, such as a [glaive](3-Mechanics/CLI/items/glaive-xphb.md) or a [halberd](3-Mechanics/CLI/items/halberd-xphb.md), you can do so when a creature leaves the reach you have with that weapon. For example, if you're wielding a [halberd](3-Mechanics/CLI/items/halberd-xphb.md), a creature that is right next to you could move 5 feet away without triggering an [opportunity attack](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack). If that creature tries to move an additional 5 feet—beyond your 10-foot reach—the creature then triggers an [opportunity attack](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack).
 
 #### Can a blinded creature make an opportunity attack?
 
@@ -856,13 +856,13 @@ An [opportunity attack](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack) i
 
 #### Can an opportunity attack be used to make a grapple or a shove?
 
-[Grappling](3-Mechanics/CLI/rules/actions.md#Grapple) and [shoving](3-Mechanics/CLI/rules/actions.md#Shove) are special melee attacks that require the [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action. An [opportunity attack](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack) is a special "reaction". Take the [Ready](3-Mechanics/CLI/rules/actions.md#Ready) action if you want to attempt a [grapple](3-Mechanics/CLI/rules/actions.md#Grapple) or a [shove](3-Mechanics/CLI/rules/actions.md#Shove) as a reaction.
+[Grappling](3-Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md) and [shoving](3-Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md) are special melee attacks that require the [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action. An [opportunity attack](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack) is a special "reaction". Take the [Ready](3-Mechanics/CLI/rules/actions.md#Ready) action if you want to attempt a [grapple](3-Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md) or a [shove](3-Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md) as a reaction.
 
 #### When you use two-weapon fighting, can you draw and throw two weapons on your turn?
 
 You can throw two weapons with [two-weapon fighting](3-Mechanics/CLI/rules/actions.md#Two-Weapon%20Fighting), but that rule doesn't give you the ability to draw two weapons for free.
 
-On your turn, you can "interact with one object for free", either during your move or during an action. One of the most common object interactions is drawing or stowing a weapon. Interacting with a second object on the same turn requires an action. You need a feature like the [Dual Wielder](3-Mechanics/CLI/feats/dual-wielder.md) feat to draw or stow a second weapon for free.
+On your turn, you can "interact with one object for free", either during your move or during an action. One of the most common object interactions is drawing or stowing a weapon. Interacting with a second object on the same turn requires an action. You need a feature like the [Dual Wielder](3-Mechanics/CLI/feats/dual-wielder-xphb.md) feat to draw or stow a second weapon for free.
 
 #### With two-weapon fighting, can I use both attacks (normal and bonus) to shove a creature?
 
@@ -870,17 +870,17 @@ No. [Two-weapon fighting](3-Mechanics/CLI/rules/actions.md#Two-Weapon%20Fighting
 
 #### If a creature is grappled, can it still attack and use its special abilities?
 
-The [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) condition limits movement, not attacks, spellcasting, and the like. That said, many grappling abilities, such as a [roper's](3-Mechanics/CLI/bestiary/monstrosity/roper.md) tendril attack, also deliver effects like the [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) condition.
+The [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) condition limits movement, not attacks, spellcasting, and the like. That said, many grappling abilities, such as a [roper's](3-Mechanics/CLI/bestiary/aberration/roper-xmm.md) tendril attack, also deliver effects like the [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) condition.
 
 #### Is the grappling rule in the Player's Handbook usable by a handless creature?
 
-The [grappling](3-Mechanics/CLI/rules/actions.md#Grapple) rule was written for a grappler with at least one hand, but a DM can easily adapt the rule for a handless creature that has a bite or an appendage, such as a tentacle, that could reasonably seize someone. A [wolf](3-Mechanics/CLI/bestiary/beast/wolf.md), for example, could plausibly try to seize a person with its bite, and the animal wouldn't be able to use its bite attack as long as it held onto the person.
+The [grappling](3-Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md) rule was written for a grappler with at least one hand, but a DM can easily adapt the rule for a handless creature that has a bite or an appendage, such as a tentacle, that could reasonably seize someone. A [wolf](3-Mechanics/CLI/bestiary/beast/wolf-xmm.md), for example, could plausibly try to seize a person with its bite, and the animal wouldn't be able to use its bite attack as long as it held onto the person.
 
-Keep in mind that the grappling rule in the "Player's Handbook" requires the [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action, so a creature must take that action—rather than Multiattack or another action in the creature's stat block—when it uses that rule. A monster, such as a [roper](3-Mechanics/CLI/bestiary/monstrosity/roper.md), that has a special grappling attack doesn't follow that rule when using its special attack.
+Keep in mind that the grappling rule in the "Player's Handbook" requires the [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action, so a creature must take that action—rather than Multiattack or another action in the creature's stat block—when it uses that rule. A monster, such as a [roper](3-Mechanics/CLI/bestiary/aberration/roper-xmm.md), that has a special grappling attack doesn't follow that rule when using its special attack.
 
 #### Does a grapple or a shove trigger the Tempest cleric's Wrath of the Storm or a Battle Master's Riposte?
 
-The answer to both questions is no. The [grappling](3-Mechanics/CLI/rules/actions.md#Grapple) and [shoving](3-Mechanics/CLI/rules/actions.md#Shove) options don't result in a hit or a miss.
+The answer to both questions is no. The [grappling](3-Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md) and [shoving](3-Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md) options don't result in a hit or a miss.
 
 #### Say I grapple you, then I drop prone. Are we now prone together?
 
@@ -904,11 +904,11 @@ If you reduce a creature to 0 hit points with a melee attack, you can "knock the
 
 #### Are attacks with a net always made with disadvantage?
 
-Unless you have a special ability that says otherwise, any [net](3-Mechanics/CLI/items/net.md) attack has disadvantage because you're either "within 5 feet of your target" or you're attacking at long range, which is between 5 and 15 feet for a [net](3-Mechanics/CLI/items/net.md).
+Unless you have a special ability that says otherwise, any [net](3-Mechanics/CLI/items/net-xphb.md) attack has disadvantage because you're either "within 5 feet of your target" or you're attacking at long range, which is between 5 and 15 feet for a [net](3-Mechanics/CLI/items/net-xphb.md).
 
 #### Can a non-Battle Master attempt to disarm someone?
 
-The [Disarming Attack](3-Mechanics/CLI/optional-features/disarming-attack.md) maneuver is designed for the [Battle Master](3-Mechanics/CLI/classes/fighter-battle-master.md) archetype, but anyone can try to disarm a foe. The [Disarm](3-Mechanics/CLI/rules/actions.md#Disarm) action option (*DMG*, "[Disarm](3-Mechanics/CLI/rules/actions.md#Disarm)") provides one way a DM might adjudicate the activity.
+The [Disarming Attack](3-Mechanics/CLI/optional-features/disarming-attack-xphb.md) maneuver is designed for the [Battle Master](3-Mechanics/CLI/classes/fighter-xphb-battle-master-xphb.md) archetype, but anyone can try to disarm a foe. The [Disarm](3-Mechanics/CLI/rules/actions.md#Disarm) action option (*DMG*, "[Disarm](3-Mechanics/CLI/rules/actions.md#Disarm)") provides one way a DM might adjudicate the activity.
 
 #### Are natural weapons considered weapons?
 
@@ -922,11 +922,11 @@ To use the [two-weapon fighting](3-Mechanics/CLI/rules/actions.md#Two-Weapon%20F
 
 #### Can a spellcaster cast spells off-target to minimize damage to party members from a spell like shatter?
 
-The spellcaster chooses where to place the point of origin of a spell like [shatter](3-Mechanics/CLI/spells/shatter.md) and may, therefore, choose a position that is advantageous to allies.
+The spellcaster chooses where to place the point of origin of a spell like [shatter](3-Mechanics/CLI/spells/shatter-xphb.md) and may, therefore, choose a position that is advantageous to allies.
 
 #### Can permanent magical effects be dispelled? Or are they no longer considered magical effects once permanent?
 
-If the effect of a spell becomes permanent, it can be dispelled, unless its description says otherwise (such as in the [wall of stone](3-Mechanics/CLI/spells/wall-of-stone.md) spell).
+If the effect of a spell becomes permanent, it can be dispelled, unless its description says otherwise (such as in the [wall of stone](3-Mechanics/CLI/spells/wall-of-stone-xphb.md) spell).
 
 #### Do spellcasters have to learn a ritual version of a spell apart from the normal version, or are they the same?
 
@@ -938,9 +938,9 @@ You prepare your list of spells only at the end of a long rest. You can't prepar
 
 #### Do you always know when you're under the effect of a spell?
 
-You're aware that a spell is affecting you if it has a perceptible effect or if its text says you're aware of it (see *PHB*, under ""Targets""). Most spells are obvious. For example, [fireball](3-Mechanics/CLI/spells/fireball.md) burns you, [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md) heals you, and [command](3-Mechanics/CLI/spells/command.md) forces you to suddenly do something you didn't intend. Certain spells are more subtle, yet you become aware of the spell at a time specified in the spell's description. [Charm person](3-Mechanics/CLI/spells/charm-person.md) and [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md) are examples of such spells.
+You're aware that a spell is affecting you if it has a perceptible effect or if its text says you're aware of it (see *PHB*, under ""Targets""). Most spells are obvious. For example, [fireball](3-Mechanics/CLI/spells/fireball-xphb.md) burns you, [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md) heals you, and [command](3-Mechanics/CLI/spells/command-xphb.md) forces you to suddenly do something you didn't intend. Certain spells are more subtle, yet you become aware of the spell at a time specified in the spell's description. [Charm person](3-Mechanics/CLI/spells/charm-person-xphb.md) and [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md) are examples of such spells.
 
-Some spells are so subtle that you might not know you were ever under their effects. A prime example of that sort of spell is [suggestion](3-Mechanics/CLI/spells/suggestion.md). Assuming you failed to notice the spellcaster casting the spell, you might simply remember the caster saying, "The treasure you're looking for isn't here. Go look for it in the room at the top of the next tower." You failed your saving throw, and off you went to the other tower, thinking it was your idea to go there. You and your companions might deduce that you were beguiled if evidence of the spell is found. It's ultimately up to the DM whether you discover the presence of inconspicuous spells. Discovery usually comes through the use of skills like [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana), [Investigation](3-Mechanics/CLI/rules/skills.md#Investigation), [Insight](3-Mechanics/CLI/rules/skills.md#Insight), and [Perception](3-Mechanics/CLI/rules/skills.md#Perception) or through spells like [detect magic](3-Mechanics/CLI/spells/detect-magic.md).
+Some spells are so subtle that you might not know you were ever under their effects. A prime example of that sort of spell is [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md). Assuming you failed to notice the spellcaster casting the spell, you might simply remember the caster saying, "The treasure you're looking for isn't here. Go look for it in the room at the top of the next tower." You failed your saving throw, and off you went to the other tower, thinking it was your idea to go there. You and your companions might deduce that you were beguiled if evidence of the spell is found. It's ultimately up to the DM whether you discover the presence of inconspicuous spells. Discovery usually comes through the use of skills like [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana), [Investigation](3-Mechanics/CLI/rules/skills.md#Investigation), [Insight](3-Mechanics/CLI/rules/skills.md#Insight), and [Perception](3-Mechanics/CLI/rules/skills.md#Perception) or through spells like [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md).
 
 #### If I'm concentrating on a spell and I cast another spell that requires concentration, when does my concentration on the first spell end?
 
@@ -964,21 +964,21 @@ Even though the duration of each of these spells is instantaneous, you choose th
 
 The short answer is no.
 
-As explained in the "Player's Handbook", you can take one action on your turn in combat, in addition to moving. You choose your action from the options available to everyone—options such as [Attack](3-Mechanics/CLI/rules/actions.md#Attack), [Cast a Spell](3-Mechanics/CLI/rules/actions.md#Cast%20a%20Spell), and [Dash](3-Mechanics/CLI/rules/actions.md#Dash)—or you choose from among the special actions you've gained from a class, a feat, or another source.
+As explained in the "Player's Handbook", you can take one action on your turn in combat, in addition to moving. You choose your action from the options available to everyone—options such as [Attack](3-Mechanics/CLI/rules/actions.md#Attack), [Cast a Spell](3-Mechanics/CLI/rules/actions.md#Magic), and [Dash](3-Mechanics/CLI/rules/actions.md#Dash)—or you choose from among the special actions you've gained from a class, a feat, or another source.
 
-If you want to cast a spell on your turn, you take the [Cast a Spell](3-Mechanics/CLI/rules/actions.md#Cast%20a%20Spell) action. Doing so means you're not taking the [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action or any other action. It is true that a number of spells, such as [fire bolt](3-Mechanics/CLI/spells/fire-bolt.md) and [ray of frost](3-Mechanics/CLI/spells/ray-of-frost.md), involve making an attack, but you can't make such an attack without first casting the spell that delivers it. In other words, just because something involves an attack doesn't mean the [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action is being used.
+If you want to cast a spell on your turn, you take the [Cast a Spell](3-Mechanics/CLI/rules/actions.md#Magic) action. Doing so means you're not taking the [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action or any other action. It is true that a number of spells, such as [fire bolt](3-Mechanics/CLI/spells/fire-bolt-xphb.md) and [ray of frost](3-Mechanics/CLI/spells/ray-of-frost-xphb.md), involve making an attack, but you can't make such an attack without first casting the spell that delivers it. In other words, just because something involves an attack doesn't mean the [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action is being used.
 
-By extension, the Extra Attack feature (given by several classes, including the [fighter](3-Mechanics/CLI/classes/fighter.md#Extra%20Attack%20(Level%205)) and [paladin](3-Mechanics/CLI/classes/paladin.md#Extra%20Attack%20(Level%205))) doesn't let you cast extra attack spells. That feature specifically relies on the [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action, not the [Cast a Spell](3-Mechanics/CLI/rules/actions.md#Cast%20a%20Spell) action or any other action.
+By extension, the Extra Attack feature (given by several classes, including the fighter and paladin) doesn't let you cast extra attack spells. That feature specifically relies on the [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action, not the [Cast a Spell](3-Mechanics/CLI/rules/actions.md#Magic) action or any other action.
 
 In summary, to make a spell attack, you have to first cast a spell or use a feature that creates the spell's effect. A game feature, such as Extra Attack, that lets you make an attack doesn't let you cast a spell unless it says it does.
 
 ##### Can you use a melee spell attack to make an opportunity attack?
 
-You can't if the spell attack is created by casting a spell. When a creature triggers an [opportunity attack](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack) from you, you can use your "reaction" to make a melee attack against it. The [opportunity attack](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack) doesn't suddenly give you the ability to cast a spell, such as [shocking grasp](3-Mechanics/CLI/spells/shocking-grasp.md).
+You can't if the spell attack is created by casting a spell. When a creature triggers an [opportunity attack](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack) from you, you can use your "reaction" to make a melee attack against it. The [opportunity attack](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack) doesn't suddenly give you the ability to cast a spell, such as [shocking grasp](3-Mechanics/CLI/spells/shocking-grasp-xphb.md).
 
-Each spell has a casting time. A game feature, such as an [opportunity attack](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack), doesn't let you bypass that casting time, unless the feature says otherwise. The [War Caster](3-Mechanics/CLI/feats/war-caster.md) feat is an example of a feature that does let you bypass a 1-action casting time to cast a spell in place of making an [opportunity attack](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack).
+Each spell has a casting time. A game feature, such as an [opportunity attack](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack), doesn't let you bypass that casting time, unless the feature says otherwise. The [War Caster](3-Mechanics/CLI/feats/war-caster-xphb.md) feat is an example of a feature that does let you bypass a 1-action casting time to cast a spell in place of making an [opportunity attack](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack).
 
-A few monsters can make [opportunity attacks](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack) with melee spell attacks. Here's how: certain monsters—including the [banshee](3-Mechanics/CLI/bestiary/undead/banshee.md), the [lich](3-Mechanics/CLI/bestiary/undead/lich.md), and the [specter](3-Mechanics/CLI/bestiary/undead/specter.md)—have a melee spell attack that isn't delivered by a spell. For example, the banshee's Corrupting Touch action is a melee spell attack but no spell is cast to make it. The [banshee](3-Mechanics/CLI/bestiary/undead/banshee.md) can, therefore, make [opportunity attacks](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack) with Corrupting Touch.
+A few monsters can make [opportunity attacks](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack) with melee spell attacks. Here's how: certain monsters—including the [banshee](3-Mechanics/CLI/bestiary/undead/banshee-xmm.md), the [lich](3-Mechanics/CLI/bestiary/undead/lich-xmm.md), and the [specter](3-Mechanics/CLI/bestiary/undead/specter-xmm.md)—have a melee spell attack that isn't delivered by a spell. For example, the banshee's Corrupting Touch action is a melee spell attack but no spell is cast to make it. The [banshee](3-Mechanics/CLI/bestiary/undead/banshee-xmm.md) can, therefore, make [opportunity attacks](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack) with Corrupting Touch.
 
 ##### Some spells (like eldritch blast) target a creature. Some others (like fire bolt) target objects too. Does this mean that I can't attack the door with eldritch blast?
 
@@ -986,7 +986,7 @@ The target specifications (creature, object, or something else) in spells are in
 
 ##### Does a melee spell attack count as a melee attack for Touch of Death?
 
-A melee spell attack is, indeed, a melee attack and can qualify for the Death cleric's [Touch of Death](3-Mechanics/CLI/classes/cleric-death-domain-dmg.md#Channel%20Divinity%20Touch%20of%20Death%20(Level%202)) feature.
+A melee spell attack is, indeed, a melee attack and can qualify for the Death cleric's Touch of Death feature.
 
 #### Spell Level
 
@@ -996,9 +996,9 @@ Such a spell is cast at its lowest possible level, which is the level that appea
 
 Here are some examples:
 
-- The warlock's [Chains of Carceri](3-Mechanics/CLI/optional-features/chains-of-carceri.md) feature lets a warlock cast [hold monster](3-Mechanics/CLI/spells/hold-monster.md) without using a spell slot. That casting of [hold monster](3-Mechanics/CLI/spells/hold-monster.md) is, therefore, 5th level, which is the lowest possible level for that spell.  
-- The warlock's [Thief of Five Fates](3-Mechanics/CLI/optional-features/thief-of-five-fates.md) feature lets a warlock cast [bane](3-Mechanics/CLI/spells/bane.md) using a spell slot, which means the spell is 1st level or higher, depending on the slot that the warlock expends to cast it.  
-- The monk's [Disciple of the Elements](3-Mechanics/CLI/classes/monk-way-of-the-four-elements.md#Disciple%20of%20the%20Elements%20(Level%203)) feature lets the monk spend ki points, rather than a spell slot, to increase the level of a spell.  
+- The warlock's [Chains of Carceri](3-Mechanics/CLI/optional-features/chains-of-carceri.md) feature lets a warlock cast [hold monster](3-Mechanics/CLI/spells/hold-monster-xphb.md) without using a spell slot. That casting of [hold monster](3-Mechanics/CLI/spells/hold-monster-xphb.md) is, therefore, 5th level, which is the lowest possible level for that spell.  
+- The warlock's [Thief of Five Fates](3-Mechanics/CLI/optional-features/thief-of-five-fates.md) feature lets a warlock cast [bane](3-Mechanics/CLI/spells/bane-xphb.md) using a spell slot, which means the spell is 1st level or higher, depending on the slot that the warlock expends to cast it.  
+- The monk's Disciple of the Elements feature lets the monk spend ki points, rather than a spell slot, to increase the level of a spell.  
 
 This rule is true for player characters and monsters alike, which is why the innate spellcasters in the "Monster Manual" must cast an innate spell at its lowest possible level.
 
@@ -1006,17 +1006,17 @@ This rule is true for player characters and monsters alike, which is why the inn
 
 ##### Is there a limit on the number of spells you can cast on your turn?
 
-There's no rule that says you can cast only X number of spells on your turn, but there are some practical limits. The main limiting factor is your action. Most spells require an action to cast, and unless you use a feature like the fighter's [Action Surge](3-Mechanics/CLI/classes/fighter.md#Action%20Surge%20(Level%202)), you have only one action on your turn.
+There's no rule that says you can cast only X number of spells on your turn, but there are some practical limits. The main limiting factor is your action. Most spells require an action to cast, and unless you use a feature like the fighter's Action Surge, you have only one action on your turn.
 
-If you cast a spell, such as [healing word](3-Mechanics/CLI/spells/healing-word.md), with a bonus action, you can cast another spell with your action, but that other spell must be a cantrip. Keep in mind that this particular limit is specific to spells that use a bonus action. For instance, if you cast a second spell using [Action Surge](3-Mechanics/CLI/classes/fighter.md#Action%20Surge%20(Level%202)), you aren't limited to casting a cantrip with it.
+If you cast a spell, such as [healing word](3-Mechanics/CLI/spells/healing-word-xphb.md), with a bonus action, you can cast another spell with your action, but that other spell must be a cantrip. Keep in mind that this particular limit is specific to spells that use a bonus action. For instance, if you cast a second spell using Action Surge, you aren't limited to casting a cantrip with it.
 
 ##### Does the rule on casting a bonus action spell apply when you take a bonus action granted by a spell?
 
-The rule on "casting a spell as a bonus action" applies only on the turn you cast the spell. For example, [spiritual weapon](3-Mechanics/CLI/spells/spiritual-weapon.md) can be cast as a bonus action, and it lasts for 1 minute. On the turn you cast it, you can't cast another spell before or after it, unless that spell is a cantrip with a casting time of 1 action. Until [spiritual weapon](3-Mechanics/CLI/spells/spiritual-weapon.md) ends, it gives you the option of controlling its spectral weapon as a bonus action. That bonus action does not involve casting a spell, despite the fact that it's granted by a spell, so you can control the weapon and cast whatever spell you like on the same turn.
+The rule on "casting a spell as a bonus action" applies only on the turn you cast the spell. For example, [spiritual weapon](3-Mechanics/CLI/spells/spiritual-weapon-xphb.md) can be cast as a bonus action, and it lasts for 1 minute. On the turn you cast it, you can't cast another spell before or after it, unless that spell is a cantrip with a casting time of 1 action. Until [spiritual weapon](3-Mechanics/CLI/spells/spiritual-weapon-xphb.md) ends, it gives you the option of controlling its spectral weapon as a bonus action. That bonus action does not involve casting a spell, despite the fact that it's granted by a spell, so you can control the weapon and cast whatever spell you like on the same turn.
 
 ##### Can you cast a reaction spell on your turn?
 
-You sure can! Here's a common way for it to happen: Cornelius the wizard is casting [fireball](3-Mechanics/CLI/spells/fireball.md) on his turn, and his foe casts [counterspell](3-Mechanics/CLI/spells/counterspell.md) on him. Cornelius also has [counterspell](3-Mechanics/CLI/spells/counterspell.md) prepared, so he uses his "reaction" to cast it and break his foe's [counterspell](3-Mechanics/CLI/spells/counterspell.md) before it can stop [fireball](3-Mechanics/CLI/spells/fireball.md).
+You sure can! Here's a common way for it to happen: Cornelius the wizard is casting [fireball](3-Mechanics/CLI/spells/fireball-xphb.md) on his turn, and his foe casts [counterspell](3-Mechanics/CLI/spells/counterspell-xphb.md) on him. Cornelius also has [counterspell](3-Mechanics/CLI/spells/counterspell-xphb.md) prepared, so he uses his "reaction" to cast it and break his foe's [counterspell](3-Mechanics/CLI/spells/counterspell-xphb.md) before it can stop [fireball](3-Mechanics/CLI/spells/fireball-xphb.md).
 
 ##### Does casting a spell as a ritual require concentration if the spell doesn't normally require it?
 
@@ -1026,7 +1026,7 @@ You sure can! Here's a common way for it to happen: Cornelius the wizard is cast
 
 ##### Does a spell consume its material components?
 
-A spell doesn't consume its material components unless its description says it does. For example, the pearl required by the [identify](3-Mechanics/CLI/spells/identify.md) spell isn't consumed, whereas the diamond required by [raise dead](3-Mechanics/CLI/spells/raise-dead.md) is used up when you cast the spell.
+A spell doesn't consume its material components unless its description says it does. For example, the pearl required by the [identify](3-Mechanics/CLI/spells/identify-xphb.md) spell isn't consumed, whereas the diamond required by [raise dead](3-Mechanics/CLI/spells/raise-dead-xphb.md) is used up when you cast the spell.
 
 ##### If a spell's material components are consumed, can a spellcasting focus still be used in place of the consumed component?
 
@@ -1036,11 +1036,11 @@ No. A spellcasting focus can be used in place of a material component only if th
 
 If a spell has a material component, you need to handle that "component" when you cast the spell. The same rule applies if you're using a spellcasting focus as the material component.
 
-If a spell has a somatic component, you can use the hand that performs the somatic component to also handle the material component. For example, a wizard who uses an [orb](3-Mechanics/CLI/items/orb.md) as a spellcasting focus could hold a [quarterstaff](3-Mechanics/CLI/items/quarterstaff.md) in one hand and the orb in the other, and he could cast [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt.md) by using the orb as the spell's material component and the orb hand to perform the spell's somatic component.
+If a spell has a somatic component, you can use the hand that performs the somatic component to also handle the material component. For example, a wizard who uses an [orb](3-Mechanics/CLI/items/orb-xphb.md) as a spellcasting focus could hold a [quarterstaff](3-Mechanics/CLI/items/quarterstaff-xphb.md) in one hand and the orb in the other, and he could cast [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt-xphb.md) by using the orb as the spell's material component and the orb hand to perform the spell's somatic component.
 
-Another example: a cleric's [holy symbol](3-Mechanics/CLI/items/holy-symbol.md) is emblazoned on her [shield](3-Mechanics/CLI/items/shield.md). She likes to wade into melee combat with a [mace](3-Mechanics/CLI/items/mace.md) in one hand and a [shield](3-Mechanics/CLI/items/shield.md) in the other. She uses the [holy symbol](3-Mechanics/CLI/items/holy-symbol.md) as her spellcasting focus, so she needs to have the [shield](3-Mechanics/CLI/items/shield.md) in hand when she casts a cleric spell that has a material component. If the spell, such as [aid](3-Mechanics/CLI/spells/aid.md), also has a somatic component, she can perform that component with the [shield](3-Mechanics/CLI/items/shield.md) hand and keep holding the mace in the other.
+Another example: a cleric's [holy symbol](3-Mechanics/CLI/items/holy-symbol-xphb.md) is emblazoned on her [shield](3-Mechanics/CLI/items/shield-xphb.md). She likes to wade into melee combat with a [mace](3-Mechanics/CLI/items/mace-xphb.md) in one hand and a [shield](3-Mechanics/CLI/items/shield-xphb.md) in the other. She uses the [holy symbol](3-Mechanics/CLI/items/holy-symbol-xphb.md) as her spellcasting focus, so she needs to have the [shield](3-Mechanics/CLI/items/shield-xphb.md) in hand when she casts a cleric spell that has a material component. If the spell, such as [aid](3-Mechanics/CLI/spells/aid-xphb.md), also has a somatic component, she can perform that component with the [shield](3-Mechanics/CLI/items/shield-xphb.md) hand and keep holding the mace in the other.
 
-If the same cleric casts [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md), she needs to put the [mace](3-Mechanics/CLI/items/mace.md) or the [shield](3-Mechanics/CLI/items/shield.md) away, because that spell doesn't have a material component but does have a somatic component. She's going to need a free hand to make the spell's gestures. If she had the [War Caster](3-Mechanics/CLI/feats/war-caster.md) feat, she could ignore this restriction.
+If the same cleric casts [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md), she needs to put the [mace](3-Mechanics/CLI/items/mace-xphb.md) or the [shield](3-Mechanics/CLI/items/shield-xphb.md) away, because that spell doesn't have a material component but does have a somatic component. She's going to need a free hand to make the spell's gestures. If she had the [War Caster](3-Mechanics/CLI/feats/war-caster-xphb.md) feat, she could ignore this restriction.
 
 #### Duration
 
@@ -1052,31 +1052,31 @@ You don't need to be within line of sight or within range to maintain [concentra
 
 The DC is 15 in that case. When temporary hit points absorb damage for you, you're still taking damage, just not to your real hit points.
 
-In contrast, a feature like the wizard's [Arcane Ward](3-Mechanics/CLI/classes/wizard-school-of-abjuration.md#Arcane%20Ward%20(Level%202)) can take damage for you, potentially eliminating the need to make a Constitution saving throw or, at least, lowering the DC of that save.
+In contrast, a feature like the wizard's Arcane Ward can take damage for you, potentially eliminating the need to make a Constitution saving throw or, at least, lowering the DC of that save.
 
 ##### Can a spellcaster dismiss a spell after casting it?
 
-You can't normally dismiss a spell that you cast unless (a) its description says you can or (b) it requires [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) and you decide to end your [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) on it. Otherwise, a spell's magic is unleashed on the environment, and if you want to end it, you need to cast [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md) on it.
+You can't normally dismiss a spell that you cast unless (a) its description says you can or (b) it requires [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) and you decide to end your [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) on it. Otherwise, a spell's magic is unleashed on the environment, and if you want to end it, you need to cast [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) on it.
 
 #### Specific Spells
 
 ##### Can I cast animate dead on the humanoid-shaped corpse of an undead creature such as a zombie or a ghast?
 
-When [animate dead](3-Mechanics/CLI/spells/animate-dead.md) targets a corpse, the body must have belonged to a creature of the humanoid creature type. If the spell targets a pile of bones, there is no creature type restriction; the bones become a [skeleton](3-Mechanics/CLI/bestiary/undead/skeleton.md).
+When [animate dead](3-Mechanics/CLI/spells/animate-dead-xphb.md) targets a corpse, the body must have belonged to a creature of the humanoid creature type. If the spell targets a pile of bones, there is no creature type restriction; the bones become a [skeleton](3-Mechanics/CLI/bestiary/undead/skeleton-xmm.md).
 
 ##### Does casting animate objects during a time stop spell end the time stop?
 
-No. Commanding the newly created creatures with your bonus action does end [time stop](3-Mechanics/CLI/spells/time-stop.md), however.
+No. Commanding the newly created creatures with your bonus action does end [time stop](3-Mechanics/CLI/spells/time-stop-xphb.md), however.
 
 ##### Can you extend the duration of armor of Agathys by gaining more temporary hit points?
 
 The spell is meant to work only as long as you have the temporary hit points that the spell grants. When those temporary hit points are gone, the spell is done.
 
-Keep in mind that temporary hit points aren't cumulative. If you have temporary hit points and receive more of them, you don't add them together, unless a game feature says you can. You decide which temporary hit points to keep. As an example, let's say you're a warlock with the [Dark One's Blessing](3-Mechanics/CLI/classes/warlock-the-fiend.md#Dark%20One's%20Blessing%20(Level%201)) feature, which gives you temporary hit points when you reduce a creature to 0 hit points. You currently have 2 temporary hit points remaining from [armor of Agathys](3-Mechanics/CLI/spells/armor-of-agathys.md), you just slew a monster, and your [Dark One's Blessing](3-Mechanics/CLI/classes/warlock-the-fiend.md#Dark%20One's%20Blessing%20(Level%201)) can now give you 4 temporary hit points. If you take those temporary hit points, they replace the ones from [armor of Agathys](3-Mechanics/CLI/spells/armor-of-agathys.md) and end that spell, so you might not want to take them and keep the spell going instead, so as to continue benefiting from the cold damage it delivers.
+Keep in mind that temporary hit points aren't cumulative. If you have temporary hit points and receive more of them, you don't add them together, unless a game feature says you can. You decide which temporary hit points to keep. As an example, let's say you're a warlock with the Dark One's Blessing feature, which gives you temporary hit points when you reduce a creature to 0 hit points. You currently have 2 temporary hit points remaining from [armor of Agathys](3-Mechanics/CLI/spells/armor-of-agathys-xphb.md), you just slew a monster, and your Dark One's Blessing can now give you 4 temporary hit points. If you take those temporary hit points, they replace the ones from [armor of Agathys](3-Mechanics/CLI/spells/armor-of-agathys-xphb.md) and end that spell, so you might not want to take them and keep the spell going instead, so as to continue benefiting from the cold damage it delivers.
 
 ##### How does barkskin work with shields, cover, and other modifiers to AC?
 
-[Barkskin](3-Mechanics/CLI/spells/barkskin.md) specifies that your AC can't be lower than 16 while you are affected by the spell. This means you effectively ignore any modifiers to your AC—including your Dexterity modifier, your armor, a shield, and cover—unless your AC is higher than 16. For example, if your AC is normally 14, it's 16 while [barkskin](3-Mechanics/CLI/spells/barkskin.md) is on you. If your AC is normally 15 and you have half cover, your AC is 17; [barkskin](3-Mechanics/CLI/spells/barkskin.md) isn't relevant in this case.
+[Barkskin](3-Mechanics/CLI/spells/barkskin-xphb.md) specifies that your AC can't be lower than 16 while you are affected by the spell. This means you effectively ignore any modifiers to your AC—including your Dexterity modifier, your armor, a shield, and cover—unless your AC is higher than 16. For example, if your AC is normally 14, it's 16 while [barkskin](3-Mechanics/CLI/spells/barkskin-xphb.md) is on you. If your AC is normally 15 and you have half cover, your AC is 17; [barkskin](3-Mechanics/CLI/spells/barkskin-xphb.md) isn't relevant in this case.
 
 ##### Does the blinding smite spell deal extra radiant damage on every successful attack I make while I'm concentrating on the spell, or only on the first one?
 
@@ -1084,11 +1084,11 @@ Keep in mind that temporary hit points aren't cumulative. If you have temporary 
 
 ##### Is the chill touch spell intended as a way of foiling any creature that has Regeneration?
 
-[Chill touch](3-Mechanics/CLI/spells/chill-touch.md) does, indeed, stop the target it hits from regaining hit points until the spell ends. This is true even if the target takes none of the necrotic damage, whether because of immunity or some other reason.
+[Chill touch](3-Mechanics/CLI/spells/chill-touch-xphb.md) does, indeed, stop the target it hits from regaining hit points until the spell ends. This is true even if the target takes none of the necrotic damage, whether because of immunity or some other reason.
 
 ##### Using 5-foot squares, does cloud of daggers affect a single square?
 
-[Cloud of daggers](3-Mechanics/CLI/spells/cloud-of-daggers.md) (5 ft. cube) can affect more than one square on a grid, unless the DM says effects snap to the grid. There are many ways to position that cube.
+[Cloud of daggers](3-Mechanics/CLI/spells/cloud-of-daggers-xphb.md) (5 ft. cube) can affect more than one square on a grid, unless the DM says effects snap to the grid. There are many ways to position that cube.
 
 ##### Can a creature under the effect of compelled duel teleport more than 30 feet away from the caster?
 
@@ -1104,11 +1104,11 @@ No. Conjure animals summons individual creatures, and swarms are groups of creat
 
 ##### When you cast a spell like conjure woodland beings, does the spellcaster or the DM choose the creatures that are conjured?
 
-A number of spells in the game let you summon creatures. [Conjure animals](3-Mechanics/CLI/spells/conjure-animals.md), [conjure celestial](3-Mechanics/CLI/spells/conjure-celestial.md), [conjure minor elementals](3-Mechanics/CLI/spells/conjure-minor-elementals.md), and [conjure woodland beings](3-Mechanics/CLI/spells/conjure-woodland-beings.md) are just a few examples.
+A number of spells in the game let you summon creatures. [Conjure animals](3-Mechanics/CLI/spells/conjure-animals-xphb.md), [conjure celestial](3-Mechanics/CLI/spells/conjure-celestial-xphb.md), [conjure minor elementals](3-Mechanics/CLI/spells/conjure-minor-elementals-xphb.md), and [conjure woodland beings](3-Mechanics/CLI/spells/conjure-woodland-beings-xphb.md) are just a few examples.
 
-Some spells of this sort specify that the spellcaster chooses the creature conjured. For example, [find familiar](3-Mechanics/CLI/spells/find-familiar.md) gives the caster a list of animals to choose from.
+Some spells of this sort specify that the spellcaster chooses the creature conjured. For example, [find familiar](3-Mechanics/CLI/spells/find-familiar-xphb.md) gives the caster a list of animals to choose from.
 
-Other spells of this sort let the spellcaster choose from among several broad options. For example, [conjure minor elementals](3-Mechanics/CLI/spells/conjure-minor-elementals.md) offers four options. Here are the first two:
+Other spells of this sort let the spellcaster choose from among several broad options. For example, [conjure minor elementals](3-Mechanics/CLI/spells/conjure-minor-elementals-xphb.md) offers four options. Here are the first two:
 
 - One elemental of challenge rating 2 or lower  
 - Two elementals of challenge rating 1 or lower  
@@ -1119,7 +1119,7 @@ A spellcaster can certainly express a preference for what creatures shows up, bu
 
 ##### Does counterspell target the caster or the spell you're trying to counter?
 
-[Counterspell](3-Mechanics/CLI/spells/counterspell.md) targets the other spellcaster.
+[Counterspell](3-Mechanics/CLI/spells/counterspell-xphb.md) targets the other spellcaster.
 
 ##### If a wizard with Inured to Undeath spends Hit Dice to raise the hit point maximum of a homunculus created by the create homunculus spell, does it still decrease the wizard's hit point maximum?
 
@@ -1127,91 +1127,91 @@ Spending the Hit Dice affects the homunculus as described in the spell, but the 
 
 ##### Can you cast darkness with a higher-level slot to end a spell of 3rd level or higher that creates light?
 
-No. The [darkness](3-Mechanics/CLI/spells/darkness.md) spell can dispel only a light-creating spell of 2nd level or lower, no matter what spell slot is used for [darkness](3-Mechanics/CLI/spells/darkness.md). Similarly, the [daylight](3-Mechanics/CLI/spells/daylight.md) spell can dispel only a darkness-creating spell of 3rd level or lower, regardless of the spell slot used.
+No. The [darkness](3-Mechanics/CLI/spells/darkness-xphb.md) spell can dispel only a light-creating spell of 2nd level or lower, no matter what spell slot is used for [darkness](3-Mechanics/CLI/spells/darkness-xphb.md). Similarly, the [daylight](3-Mechanics/CLI/spells/daylight-xphb.md) spell can dispel only a darkness-creating spell of 3rd level or lower, regardless of the spell slot used.
 
 ##### If the damage from disintegrate reduces a half-orc to 0 hit points, can Relentless Endurance prevent the orc from turning to ash?
 
-Yes. The [disintegrate](3-Mechanics/CLI/spells/disintegrate.md) spell turns you into dust only if the spell's damage leaves you with 0 hit points. If you're a [half-orc](3-Mechanics/CLI/races/half-orc.md), Relentless Endurance can turn the 0 into a 1 before the spell can disintegrate you.
+Yes. The [disintegrate](3-Mechanics/CLI/spells/disintegrate-xphb.md) spell turns you into dust only if the spell's damage leaves you with 0 hit points. If you're a [half-orc](3-Mechanics/CLI/races/half-orc.md), Relentless Endurance can turn the 0 into a 1 before the spell can disintegrate you.
 
 ##### What happens if a druid using Wild Shape is reduced to 0 hit points by disintegrate? Does the druid simply leave beast form?
 
-The druid leaves beast form. As usual, any leftover damage then applies to the druid's normal hit points. If the leftover damage leaves the druid with 0 hit points, the druid is [disintegrated](3-Mechanics/CLI/spells/disintegrate.md).
+The druid leaves beast form. As usual, any leftover damage then applies to the druid's normal hit points. If the leftover damage leaves the druid with 0 hit points, the druid is [disintegrated](3-Mechanics/CLI/spells/disintegrate-xphb.md).
 
 ##### Can you use dispel magic to dispel a magical effect like a vampire's Charm ability or a druid's Wild Shape?
 
-[Dispel magic](3-Mechanics/CLI/spells/dispel-magic.md) has a particular purpose: to break other spells. It has no effect on a [vampire's](3-Mechanics/CLI/bestiary/undead/vampire.md) Charm ability or any other magical effect that isn't a spell. It also does nothing to the properties of a magic item. It can, however, end a spell cast from a magic item or from another source. Spells—they're what [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md) is about. For example, if you cast [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md) on a [staff of power](3-Mechanics/CLI/items/staff-of-power.md), the spell fails to disrupt the staff's magical properties, but if the staff's wielder casts [hold monster](3-Mechanics/CLI/spells/hold-monster.md) from the staff, [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md) can end that spell if cast on the target of [hold monster](3-Mechanics/CLI/spells/hold-monster.md).
+[Dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) has a particular purpose: to break other spells. It has no effect on a [vampire's](3-Mechanics/CLI/bestiary/undead/vampire-xmm.md) Charm ability or any other magical effect that isn't a spell. It also does nothing to the properties of a magic item. It can, however, end a spell cast from a magic item or from another source. Spells—they're what [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) is about. For example, if you cast [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) on a [staff of power](3-Mechanics/CLI/items/staff-of-power-xdmg.md), the spell fails to disrupt the staff's magical properties, but if the staff's wielder casts [hold monster](3-Mechanics/CLI/spells/hold-monster-xphb.md) from the staff, [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) can end that spell if cast on the target of [hold monster](3-Mechanics/CLI/spells/hold-monster-xphb.md).
 
-There are abilities and other spells that can end or suspend magical effects that aren't spells. For example, the [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md) spell can end a charm effect of any sort on a target (such as a [vampire's](3-Mechanics/CLI/bestiary/undead/vampire.md) Charm or a [dryad's](3-Mechanics/CLI/bestiary/fey/dryad.md) Fey Charm), and a paladin's [Aura of Devotion](3-Mechanics/CLI/classes/paladin-oath-of-devotion.md#Aura%20of%20Devotion%20(Level%207)) can prevent or suspend such an effect.
+There are abilities and other spells that can end or suspend magical effects that aren't spells. For example, the [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md) spell can end a charm effect of any sort on a target (such as a [vampire's](3-Mechanics/CLI/bestiary/undead/vampire-xmm.md) Charm or a [dryad's](3-Mechanics/CLI/bestiary/fey/dryad-xmm.md) Fey Charm), and a paladin's Aura of Devotion can prevent or suspend such an effect.
 
-Three of the most versatile spells for ending certain magical effects are [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration.md), [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md), and [remove curse](3-Mechanics/CLI/spells/remove-curse.md).
+Three of the most versatile spells for ending certain magical effects are [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md), [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md), and [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md).
 
 ##### Can you use dispel magic on the creations of a spell like animate dead or affect those creations with antimagic field?
 
-Whenever you wonder whether a spell's effects can be dispelled or suspended, you need to answer one question: is the spell's duration instantaneous? If the answer is yes, there is nothing to dispel or suspend. Here's why: the effects of an "instantaneous spell" are brought into being by magic, but the effects aren't sustained by magic. The magic flares for a split second and then vanishes. For example, the instantaneous spell [animate dead](3-Mechanics/CLI/spells/animate-dead.md) harnesses magical energy to turn a corpse or a pile of bones into an undead creature. That necromantic magic is present for an instant and is then gone. The resulting undead now exists without the magic's help. Casting [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md) on the creature can't end its mockery of life, and the undead can wander into an [antimagic field](3-Mechanics/CLI/spells/antimagic-field.md) with no adverse effect.
+Whenever you wonder whether a spell's effects can be dispelled or suspended, you need to answer one question: is the spell's duration instantaneous? If the answer is yes, there is nothing to dispel or suspend. Here's why: the effects of an "instantaneous spell" are brought into being by magic, but the effects aren't sustained by magic. The magic flares for a split second and then vanishes. For example, the instantaneous spell [animate dead](3-Mechanics/CLI/spells/animate-dead-xphb.md) harnesses magical energy to turn a corpse or a pile of bones into an undead creature. That necromantic magic is present for an instant and is then gone. The resulting undead now exists without the magic's help. Casting [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) on the creature can't end its mockery of life, and the undead can wander into an [antimagic field](3-Mechanics/CLI/spells/antimagic-field-xphb.md) with no adverse effect.
 
-Another example: [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md) instantaneously restores hit points to a creature. Because the spell's duration is instantaneous, the restoration can't be later dispelled. And you don't suddenly lose hit points if you step into an [antimagic field](3-Mechanics/CLI/spells/antimagic-field.md)!
+Another example: [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md) instantaneously restores hit points to a creature. Because the spell's duration is instantaneous, the restoration can't be later dispelled. And you don't suddenly lose hit points if you step into an [antimagic field](3-Mechanics/CLI/spells/antimagic-field-xphb.md)!
 
-In contrast, a spell like [conjure woodland beings](3-Mechanics/CLI/spells/conjure-woodland-beings.md) has a non-instantaneous duration, which means its creations can be ended by [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md) and they temporarily disappear within an [antimagic field](3-Mechanics/CLI/spells/antimagic-field.md).
+In contrast, a spell like [conjure woodland beings](3-Mechanics/CLI/spells/conjure-woodland-beings-xphb.md) has a non-instantaneous duration, which means its creations can be ended by [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) and they temporarily disappear within an [antimagic field](3-Mechanics/CLI/spells/antimagic-field-xphb.md).
 
 ##### Can you ready dispel magic to stop another spell from taking effect?
 
-The easiest way to stop a spell is to cast [counterspell](3-Mechanics/CLI/spells/counterspell.md) on its caster while it's being cast. If successful, [counterspell](3-Mechanics/CLI/spells/counterspell.md) interrupts the other spell's casting, and that spell fails to take effect. [Counterspell](3-Mechanics/CLI/spells/counterspell.md) works against any spell, regardless of a spell's casting time or duration.
+The easiest way to stop a spell is to cast [counterspell](3-Mechanics/CLI/spells/counterspell-xphb.md) on its caster while it's being cast. If successful, [counterspell](3-Mechanics/CLI/spells/counterspell-xphb.md) interrupts the other spell's casting, and that spell fails to take effect. [Counterspell](3-Mechanics/CLI/spells/counterspell-xphb.md) works against any spell, regardless of a spell's casting time or duration.
 
-With the [Ready](3-Mechanics/CLI/rules/actions.md#Ready) action, [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md) can be cast in response to another spell being cast, yet [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md) can't substitute for [counterspell](3-Mechanics/CLI/spells/counterspell.md). The main reason is that [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md) removes a spell that is already on a target, whether that target is a creature, an object, or some other phenomenon. [Dispel magic](3-Mechanics/CLI/spells/dispel-magic.md) can't dispel something in advance. If a spell isn't already present on a target, [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md) does nothing to that target. The best that a readied [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md) can do is dispel a spell immediately after the spell has been cast to prevent it from having any effect after the action used to cast it. For example, on your turn you could say something like this: "I ready [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), and if the high priest casts a spell on anyone, I cast [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md) on the target if the spell takes hold." If the high priest then cast [hold person](3-Mechanics/CLI/spells/hold-person.md) on your companion who fails the save against it, you could unleash your readied [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md) and end [hold person](3-Mechanics/CLI/spells/hold-person.md).
+With the [Ready](3-Mechanics/CLI/rules/actions.md#Ready) action, [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) can be cast in response to another spell being cast, yet [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) can't substitute for [counterspell](3-Mechanics/CLI/spells/counterspell-xphb.md). The main reason is that [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) removes a spell that is already on a target, whether that target is a creature, an object, or some other phenomenon. [Dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) can't dispel something in advance. If a spell isn't already present on a target, [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) does nothing to that target. The best that a readied [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) can do is dispel a spell immediately after the spell has been cast to prevent it from having any effect after the action used to cast it. For example, on your turn you could say something like this: "I ready [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), and if the high priest casts a spell on anyone, I cast [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) on the target if the spell takes hold." If the high priest then cast [hold person](3-Mechanics/CLI/spells/hold-person-xphb.md) on your companion who fails the save against it, you could unleash your readied [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) and end [hold person](3-Mechanics/CLI/spells/hold-person-xphb.md).
 
 ##### Can dispel magic end globe of invulnerability?
 
-Yes, [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md) can dispel the barrier created by [globe of invulnerability](3-Mechanics/CLI/spells/globe-of-invulnerability.md), but not any magical effects that are active inside the barrier.
+Yes, [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) can dispel the barrier created by [globe of invulnerability](3-Mechanics/CLI/spells/globe-of-invulnerability-xphb.md), but not any magical effects that are active inside the barrier.
 
 ##### If dispel magic targets the magical effect from bless cast by a cleric, does it remove the effect on all the targets?
 
-[Dispel magic](3-Mechanics/CLI/spells/dispel-magic.md) ends a spell on one target. It doesn't end the same spell on other targets.
+[Dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) ends a spell on one target. It doesn't end the same spell on other targets.
 
 ##### Can the familiar you conjure with the find familiar spell use the Help action to grant you advantage on your attack roll?
 
-A [familiar](3-Mechanics/CLI/spells/find-familiar.md) can't attack, but it can take non-attack actions, including [Help](3-Mechanics/CLI/rules/actions.md#Help). As the text of the [Help](3-Mechanics/CLI/rules/actions.md#Help) action indicates, the action doesn't require you to be able to attack; you simply need to be able to provide some sort of distraction.
+A [familiar](3-Mechanics/CLI/spells/find-familiar-xphb.md) can't attack, but it can take non-attack actions, including [Help](3-Mechanics/CLI/rules/actions.md#Help). As the text of the [Help](3-Mechanics/CLI/rules/actions.md#Help) action indicates, the action doesn't require you to be able to attack; you simply need to be able to provide some sort of distraction.
 
 ##### Does the familiar of find familiar count as an ally for the purposes of Sneak Attack?
 
-A [familiar](3-Mechanics/CLI/spells/find-familiar.md) is an allied creature. Its proximity to a target can allow you to use the [Sneak Attack](3-Mechanics/CLI/classes/rogue.md#Sneak%20Attack%20(Level%201)) feature or any other feature that requires the presence of an ally.
+A [familiar](3-Mechanics/CLI/spells/find-familiar-xphb.md) is an allied creature. Its proximity to a target can allow you to use the Sneak Attack feature or any other feature that requires the presence of an ally.
 
 ##### When you dismiss the familiar you conjure with the find familiar spell to its pocket dimension, can it take any objects it's wearing or carrying with it?
 
-No, the intent of [find familiar](3-Mechanics/CLI/spells/find-familiar.md) is that any objects are left behind when the familiar vanishes. This intent will be reflected in future printings of the "Player's Handbook".
+No, the intent of [find familiar](3-Mechanics/CLI/spells/find-familiar-xphb.md) is that any objects are left behind when the familiar vanishes. This intent will be reflected in future printings of the "Player's Handbook".
 
 ##### Can a spell such as fireball go past its 20-foot radius if the point of origin is set in an enclosed space that's less than 40 feet across?
 
-The fire of the [fireball](3-Mechanics/CLI/spells/fireball.md) spell can spread around corners, but it's limited by the spell's 20-foot radius. It doesn't extend farther than 20 feet from the point of origin no matter where it is cast.
+The fire of the [fireball](3-Mechanics/CLI/spells/fireball-xphb.md) spell can spread around corners, but it's limited by the spell's 20-foot radius. It doesn't extend farther than 20 feet from the point of origin no matter where it is cast.
 
 ##### If I'm a cleric/druid with the Disciple of Life feature, does the goodberry spell benefit from the feature?
 
-Yes. The [Disciple of Life](3-Mechanics/CLI/classes/cleric-life-domain.md#Disciple%20of%20Life%20(Level%201)) feature would make each berry restore 4 hit points, instead of 1, assuming you cast [goodberry](3-Mechanics/CLI/spells/goodberry.md) with a 1st-level spell slot.
+Yes. The Disciple of Life feature would make each berry restore 4 hit points, instead of 1, assuming you cast [goodberry](3-Mechanics/CLI/spells/goodberry-xphb.md) with a 1st-level spell slot.
 
 ##### Can you use green-flame blade and booming blade with Extra Attack, opportunity attacks, Sneak Attack, and other weapon attack options?
 
 Introduced in the "Sword Coast Adventurer's Guide", the [green-flame blade](3-Mechanics/CLI/spells/green-flame-blade-tce.md) and [booming blade](3-Mechanics/CLI/spells/booming-blade-tce.md) spells pose a number of questions, because they each do something unusual: require you to make a melee attack with a weapon as part of the spell's casting.
 
-First, each of these spells involves a normal melee weapon attack, not a spell attack, so you use whatever ability modifier you normally use with the weapon. (A spell tells you if it includes a spell attack, and neither of these spells do.) For example, if you use a [longsword](3-Mechanics/CLI/items/longsword.md) with [green-flame blade](3-Mechanics/CLI/spells/green-flame-blade-tce.md), you use your Strength modifier for the weapon's attack and damage rolls.
+First, each of these spells involves a normal melee weapon attack, not a spell attack, so you use whatever ability modifier you normally use with the weapon. (A spell tells you if it includes a spell attack, and neither of these spells do.) For example, if you use a [longsword](3-Mechanics/CLI/items/longsword-xphb.md) with [green-flame blade](3-Mechanics/CLI/spells/green-flame-blade-tce.md), you use your Strength modifier for the weapon's attack and damage rolls.
 
-Second, neither [green-flame blade](3-Mechanics/CLI/spells/green-flame-blade-tce.md) nor [booming blade](3-Mechanics/CLI/spells/booming-blade-tce.md) works with Extra Attack or any other feature that requires the [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action. Like other spells, these cantrips require the [Cast a Spell](3-Mechanics/CLI/rules/actions.md#Cast%20a%20Spell) action, not the [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action, and they can't be used to make an [opportunity attack](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack), unless a special feature allows you to do so.
+Second, neither [green-flame blade](3-Mechanics/CLI/spells/green-flame-blade-tce.md) nor [booming blade](3-Mechanics/CLI/spells/booming-blade-tce.md) works with Extra Attack or any other feature that requires the [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action. Like other spells, these cantrips require the [Cast a Spell](3-Mechanics/CLI/rules/actions.md#Magic) action, not the [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action, and they can't be used to make an [opportunity attack](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack), unless a special feature allows you to do so.
 
-Third, these weapon attacks work with [Sneak Attack](3-Mechanics/CLI/classes/rogue.md#Sneak%20Attack%20(Level%201)) if they fulfill the normal requirements for that feature. For example, if you have the [Sneak Attack](3-Mechanics/CLI/classes/rogue.md#Sneak%20Attack%20(Level%201)) feature and cast [green-flame blade](3-Mechanics/CLI/spells/green-flame-blade-tce.md) with a [finesse](3-Mechanics/CLI/rules/item-properties.md#Finesse) weapon, you can deal [Sneak Attack](3-Mechanics/CLI/classes/rogue.md#Sneak%20Attack%20(Level%201)) damage to the target of the weapon attack if you have advantage on the attack roll and hit.
+Third, these weapon attacks work with Sneak Attack if they fulfill the normal requirements for that feature. For example, if you have the Sneak Attack feature and cast [green-flame blade](3-Mechanics/CLI/spells/green-flame-blade-tce.md) with a [finesse](3-Mechanics/CLI/rules/item-properties.md#Finesse) weapon, you can deal Sneak Attack damage to the target of the weapon attack if you have advantage on the attack roll and hit.
 
 ##### When a creature successfully saves against guardian of faith and takes 10 radiant damage, how much damage does that count against the total amount of damage the spell can deal? Is it 20 because that's how much it dealt or 10 because that's how much the target took?
 
-It dealt 10 damage to the creature, so 10 is subtracted from the total. ([guardian of faith](3-Mechanics/CLI/spells/guardian-of-faith.md))
+It dealt 10 damage to the creature, so 10 is subtracted from the total. ([guardian of faith](3-Mechanics/CLI/spells/guardian-of-faith-xphb.md))
 
 ##### For the spell hail of thorns, does it last for the initial attack or as long as you maintain concentration?
 
-[Hail of thorns](3-Mechanics/CLI/spells/hail-of-thorns.md) lasts until you hit a creature with a ranged weapon attack or your [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) ends, whichever comes first.
+[Hail of thorns](3-Mechanics/CLI/spells/hail-of-thorns-xphb.md) lasts until you hit a creature with a ranged weapon attack or your [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) ends, whichever comes first.
 
 ##### Can the extra action granted by haste be used to activate a magic item?
 
-No. Activating a magic item isn't a function of the [Use an Object](3-Mechanics/CLI/rules/actions.md#Use%20an%20Object) action (*DMG*, ""Activating an Item"").
+No. Activating a magic item isn't a function of the [Use an Object](3-Mechanics/CLI/rules/actions.md#Utilize) action (*DMG*, ""Activating an Item"").
 
 ##### Does the heroes' feast spell grant immunity to poison damage or just the poison condition?
 
-The [heroes' feast](3-Mechanics/CLI/spells/heroes-feast.md) spell grants immunity to poison in any form—damage and the [condition](3-Mechanics/CLI/rules/conditions.md#Poisoned).
+The [heroes' feast](3-Mechanics/CLI/spells/heroes-feast-xphb.md) spell grants immunity to poison in any form—damage and the [condition](3-Mechanics/CLI/rules/conditions.md#Poisoned).
 
 ##### Do the temporary hit points from heroism accumulate each round?
 
@@ -1219,41 +1219,41 @@ Temporary hit points aren't cumulative. The spell would tell you if you were mea
 
 ##### If the heroism spell is cast on a character that is already frightened, does it remove the frightened effect?
 
-The [heroism](3-Mechanics/CLI/spells/heroism.md) spell would suppress a frightening effect that was already on its target. When the spell ends, the target's immunity goes away and the frightening effect resumes if it has not expired or been removed.
+The [heroism](3-Mechanics/CLI/spells/heroism-xphb.md) spell would suppress a frightening effect that was already on its target. When the spell ends, the target's immunity goes away and the frightening effect resumes if it has not expired or been removed.
 
 ##### Does the extra damage from hex only apply if there is an attack roll?
 
-The extra damage in the [hex](3-Mechanics/CLI/spells/hex.md) spell requires an attack that hits.
+The extra damage in the [hex](3-Mechanics/CLI/spells/hex-xphb.md) spell requires an attack that hits.
 
 ##### Since resting identifies magic items, and the identify spell doesn't spot curses, what is the role of the identify spell?
 
-The most important factors are time and convenience. During a short rest, which takes at least 1 hour, a character who meets the qualifications can determine the properties of one magic item (see ""Identifying a Magic Item"" in the "Dungeon Master's Guide"). In contrast, casting the [identify](3-Mechanics/CLI/spells/identify.md) spell takes only 1 minute (or 11 minutes if it is cast as a ritual) and can be done when a quick determination is needed.
+The most important factors are time and convenience. During a short rest, which takes at least 1 hour, a character who meets the qualifications can determine the properties of one magic item (see ""Identifying a Magic Item"" in the "Dungeon Master's Guide"). In contrast, casting the [identify](3-Mechanics/CLI/spells/identify-xphb.md) spell takes only 1 minute (or 11 minutes if it is cast as a ritual) and can be done when a quick determination is needed.
 
 ##### What happens when a jump spell gives a creature a jump distance greater than its walking speed?
 
 Your jump is limited by how far you can move; each foot jumped uses a foot of movement. You can take the [Dash](3-Mechanics/CLI/rules/actions.md#Dash) action if you want to extend how far you can move on your turn.
 
-For example, if you have a Strength score of 15, you can normally leap 15 feet when you make a long jump if you move at least 10 feet immediately beforehand. If the [jump](3-Mechanics/CLI/spells/jump.md) spell is cast on you, that potential jump distance is tripled. That's a jump of 45 feet! If your speed is 30 feet, you can use only 30 feet of that jump distance on your turn, unless you take the [Dash](3-Mechanics/CLI/rules/actions.md#Dash) action, which allows you to leap the full 45 feet.
+For example, if you have a Strength score of 15, you can normally leap 15 feet when you make a long jump if you move at least 10 feet immediately beforehand. If the [jump](3-Mechanics/CLI/spells/jump-xphb.md) spell is cast on you, that potential jump distance is tripled. That's a jump of 45 feet! If your speed is 30 feet, you can use only 30 feet of that jump distance on your turn, unless you take the [Dash](3-Mechanics/CLI/rules/actions.md#Dash) action, which allows you to leap the full 45 feet.
 
 ##### Can you use a shield with mage armor?
 
-[Mage armor](3-Mechanics/CLI/spells/mage-armor.md) works with a [shield](3-Mechanics/CLI/items/shield.md). Shields are grouped with armor in the equipment rules in the "Player's Handbook", but various game features distinguish between the armor you wear and a shield you wield. Take a look at the monk's [Unarmored Defense](3-Mechanics/CLI/classes/monk.md#Unarmored%20Defense%20(Level%201)) feature and compare it to the [barbarian's version](3-Mechanics/CLI/classes/barbarian.md#Unarmored%20Defense%20(Level%201)). In the monk's version, you must both forgo wearing armor and forgo wielding a [shield](3-Mechanics/CLI/items/shield.md) if you want to benefit from the feature, whereas a barbarian must only forgo wearing armor.
+[Mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md) works with a [shield](3-Mechanics/CLI/items/shield-xphb.md). Shields are grouped with armor in the equipment rules in the "Player's Handbook", but various game features distinguish between the armor you wear and a shield you wield. Take a look at the monk's Unarmored Defense feature and compare it to the barbarian's version. In the monk's version, you must both forgo wearing armor and forgo wielding a [shield](3-Mechanics/CLI/items/shield-xphb.md) if you want to benefit from the feature, whereas a barbarian must only forgo wearing armor.
 
 ##### Does Unarmored Defense work with a spell like mage armor?
 
-Unarmored Defense doesn't work with [mage armor](3-Mechanics/CLI/spells/mage-armor.md). You might be asking yourself, "Why don't they work together? [Mage armor](3-Mechanics/CLI/spells/mage-armor.md) specifies that it works on a creature who isn't wearing armor." It's true that the target of [mage armor](3-Mechanics/CLI/spells/mage-armor.md) must be unarmored, but [mage armor](3-Mechanics/CLI/spells/mage-armor.md) gives you a new way to calculate your AC (13 + your Dexterity modifier) and is therefore incompatible with Unarmored Defense or any other feature that provides an AC calculation.
+Unarmored Defense doesn't work with [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md). You might be asking yourself, "Why don't they work together? [Mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md) specifies that it works on a creature who isn't wearing armor." It's true that the target of [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md) must be unarmored, but [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md) gives you a new way to calculate your AC (13 + your Dexterity modifier) and is therefore incompatible with Unarmored Defense or any other feature that provides an AC calculation.
 
 ##### I find it confusing that the mage armor spell is named that when it doesn't count as armor
 
-Some spells and class features have figurative, not literal, names. The text of the spell or class feature explains what it does. In this case, [mage armor](3-Mechanics/CLI/spells/mage-armor.md) surrounds the target with "protective magical force"; the spell doesn't provide armor.
+Some spells and class features have figurative, not literal, names. The text of the spell or class feature explains what it does. In this case, [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md) surrounds the target with "protective magical force"; the spell doesn't provide armor.
 
 ##### Can an object created with minor illusion move? For example, a wall sliding down a corridor?
 
-An illusory object created by [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md) doesn't move. Compare to spells like [major image](3-Mechanics/CLI/spells/major-image.md) and [mislead](3-Mechanics/CLI/spells/mislead.md), which talk about moving.
+An illusory object created by [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md) doesn't move. Compare to spells like [major image](3-Mechanics/CLI/spells/major-image-xphb.md) and [mislead](3-Mechanics/CLI/spells/mislead-xphb.md), which talk about moving.
 
 ##### Could minor illusion create a fog cloud? If so, would shooting an arrow through it cancel the illusion?
 
-An illusory object made by [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md) is meant to be like a stool or a rock, not an atmospheric effect.
+An illusory object made by [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md) is meant to be like a stool or a rock, not an atmospheric effect.
 
 ##### Misty step doesn't say the caster can bring worn or carried equipment with them. Are they intended to leave everything, including their clothes, behind?
 
@@ -1265,36 +1265,36 @@ Some teleportation effects do specify that you teleport with your gear; such spe
 
 The answer to both questions is no. Here's some elaboration on that answer.
 
-Some spells and other game features create an area of effect that does something when a creature enters that area for the first time on a turn or when a creature starts its turn in that area. On the turn when you cast such a spell, you're primarily setting up hurt for your foes on later turns. [Moonbeam](3-Mechanics/CLI/spells/moonbeam.md), for example, creates a beam of light that can damage a creature who enters the beam or who starts its turn in the beam.
+Some spells and other game features create an area of effect that does something when a creature enters that area for the first time on a turn or when a creature starts its turn in that area. On the turn when you cast such a spell, you're primarily setting up hurt for your foes on later turns. [Moonbeam](3-Mechanics/CLI/spells/moonbeam-xphb.md), for example, creates a beam of light that can damage a creature who enters the beam or who starts its turn in the beam.
 
-Here are some spells with the same timing as [moonbeam](3-Mechanics/CLI/spells/moonbeam.md) for their areas of effect:
+Here are some spells with the same timing as [moonbeam](3-Mechanics/CLI/spells/moonbeam-xphb.md) for their areas of effect:
 
-- [blade barrier](3-Mechanics/CLI/spells/blade-barrier.md)  
-- [cloudkill](3-Mechanics/CLI/spells/cloudkill.md)  
-- [cloud of daggers](3-Mechanics/CLI/spells/cloud-of-daggers.md)  
-- [Evard's black tentacles](3-Mechanics/CLI/spells/evards-black-tentacles.md)  
-- [forbiddance](3-Mechanics/CLI/spells/forbiddance.md)  
-- [moonbeam](3-Mechanics/CLI/spells/moonbeam.md)  
-- [sleet storm](3-Mechanics/CLI/spells/sleet-storm.md)  
-- [spirit guardians](3-Mechanics/CLI/spells/spirit-guardians.md)  
+- [blade barrier](3-Mechanics/CLI/spells/blade-barrier-xphb.md)  
+- [cloudkill](3-Mechanics/CLI/spells/cloudkill-xphb.md)  
+- [cloud of daggers](3-Mechanics/CLI/spells/cloud-of-daggers-xphb.md)  
+- [Evard's black tentacles](3-Mechanics/CLI/spells/evards-black-tentacles-xphb.md)  
+- [forbiddance](3-Mechanics/CLI/spells/forbiddance-xphb.md)  
+- [moonbeam](3-Mechanics/CLI/spells/moonbeam-xphb.md)  
+- [sleet storm](3-Mechanics/CLI/spells/sleet-storm-xphb.md)  
+- [spirit guardians](3-Mechanics/CLI/spells/spirit-guardians-xphb.md)  
 
-Reading the description of any of those spells, you might wonder whether a creature is considered to be entering the spell's area of effect if the area is created on the creature's space. And if the area of effect can be moved—as the beam of [moonbeam](3-Mechanics/CLI/spells/moonbeam.md) can—does moving it into a creature's space count as the creature entering the area? Our design intent for such spells is this: a creature enters the area of effect when the creature passes into it. Creating the area of effect on the creature or moving it onto the creature doesn't count. If the creature is still in the area at the start of its turn, it is subjected to the area's effect.
+Reading the description of any of those spells, you might wonder whether a creature is considered to be entering the spell's area of effect if the area is created on the creature's space. And if the area of effect can be moved—as the beam of [moonbeam](3-Mechanics/CLI/spells/moonbeam-xphb.md) can—does moving it into a creature's space count as the creature entering the area? Our design intent for such spells is this: a creature enters the area of effect when the creature passes into it. Creating the area of effect on the creature or moving it onto the creature doesn't count. If the creature is still in the area at the start of its turn, it is subjected to the area's effect.
 
-Entering such an area of effect needn't be voluntary, unless a spell says otherwise. You can, therefore, hurl a creature into the area with a spell like [thunderwave](3-Mechanics/CLI/spells/thunderwave.md). We consider that clever play, not an imbalance, so hurl away! Keep in mind, however, that a creature is subjected to such an area of effect only the first time it enters the area on a turn. You can't move a creature in and out of it to damage it over and over again on the same turn.
+Entering such an area of effect needn't be voluntary, unless a spell says otherwise. You can, therefore, hurl a creature into the area with a spell like [thunderwave](3-Mechanics/CLI/spells/thunderwave-xphb.md). We consider that clever play, not an imbalance, so hurl away! Keep in mind, however, that a creature is subjected to such an area of effect only the first time it enters the area on a turn. You can't move a creature in and out of it to damage it over and over again on the same turn.
 
-In summary, a spell like [moonbeam](3-Mechanics/CLI/spells/moonbeam.md) affects a creature when the creature passes into the spell's area of effect and when the creature starts its turn there. You're essentially creating a hazard on the battlefield.
+In summary, a spell like [moonbeam](3-Mechanics/CLI/spells/moonbeam-xphb.md) affects a creature when the creature passes into the spell's area of effect and when the creature starts its turn there. You're essentially creating a hazard on the battlefield.
 
 ##### What happens to objects brought inside and left inside Mordenkainen's magnificent mansion when the spell ends?
 
-The intent is that the objects are ejected from the [mansion](3-Mechanics/CLI/spells/mordenkainens-magnificent-mansion.md) when the spell ends and appear in unoccupied spaces closest to where the door was. This intent will be reflected in future printings of the "Player's Handbook".
+The intent is that the objects are ejected from the [mansion](3-Mechanics/CLI/spells/mordenkainens-magnificent-mansion-xphb.md) when the spell ends and appear in unoccupied spaces closest to where the door was. This intent will be reflected in future printings of the "Player's Handbook".
 
 ##### Does planar binding summon the creature to be bound, or is that done separately?
 
-[Planar binding](3-Mechanics/CLI/spells/planar-binding.md) doesn't summon a creature. It attempts to bind a creature that is within the spell's range.
+[Planar binding](3-Mechanics/CLI/spells/planar-binding-xphb.md) doesn't summon a creature. It attempts to bind a creature that is within the spell's range.
 
 ##### Can you concentrate on a spell while transformed by polymorph?
 
-You can't cast spells while you're transformed by [polymorph](3-Mechanics/CLI/spells/polymorph.md), but nothing in the spell prevents you from [concentrating](3-Mechanics/CLI/rules/conditions.md#Concentration) on a spell that you previously cast before being transformed.
+You can't cast spells while you're transformed by [polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md), but nothing in the spell prevents you from [concentrating](3-Mechanics/CLI/rules/conditions.md#Concentration) on a spell that you previously cast before being transformed.
 
 ##### Does a willing creature under the effects of polymorph have to take the mental stats of the new form?
 
@@ -1302,23 +1302,23 @@ Yes. Unless a spell tells you otherwise, its effect is no different for a willin
 
 ##### If a creature under the effects of polymorph takes enough fire damage to revert to its true form and that form has fire resistance, does the true form take the full remaining damage or only half due to resistance?
 
-When the creature reverts to its true form, any leftover damage is subject to that form's damage resistances, if any. ([polymorph](3-Mechanics/CLI/spells/polymorph.md))
+When the creature reverts to its true form, any leftover damage is subject to that form's damage resistances, if any. ([polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md))
 
 ##### Can a creature under the effects of polymorph have other spell effects on them, or are those game statistics also replaced by the those of the beast form?
 
-[Polymorph](3-Mechanics/CLI/spells/polymorph.md) replaces only the target's character sheet or stat block with the stat block of the chosen form. Other effects, such as other spells, still exist.
+[Polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md) replaces only the target's character sheet or stat block with the stat block of the chosen form. Other effects, such as other spells, still exist.
 
 ##### What happens if I'm polymorphed or Wild Shaped into a creature with fewer than 100 hit points and then I'm targeted by power word kill?
 
-You die. ([power word kill](3-Mechanics/CLI/spells/power-word-kill.md))
+You die. ([power word kill](3-Mechanics/CLI/spells/power-word-kill-xphb.md))
 
 ##### What kinds of things count as "nonmagical trinkets" for prestidigitation?
 
-[Prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md) can create a little bauble, the nature of which is up to the spellcaster and the DM. See the [Trinkets table](3-Mechanics/CLI/items/trinket.md) in the "Player's Handbook" for examples.
+[Prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md) can create a little bauble, the nature of which is up to the spellcaster and the DM. See the [Trinkets table](3-Mechanics/CLI/items/trinket-xphb.md) in the "Player's Handbook" for examples.
 
 ##### If you grapple or shove an enemy creature, does that end a sanctuary spell cast on you?
 
-If you use the [grapple](3-Mechanics/CLI/rules/actions.md#Grapple) or [shove](3-Mechanics/CLI/rules/actions.md#Shove) option in the combat rules, the [sanctuary](3-Mechanics/CLI/spells/sanctuary.md) spell does end on you, since you have made an attack.
+If you use the [grapple](3-Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md) or [shove](3-Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md) option in the combat rules, the [sanctuary](3-Mechanics/CLI/spells/sanctuary-xphb.md) spell does end on you, since you have made an attack.
 
 ##### Can I hand a shadow blade to another PC?
 
@@ -1326,43 +1326,43 @@ It only says the blade dissipates as I throw or drop it. No. The intent is the b
 
 ##### If I cast shillelagh on my quarterstaff and have the Polearm Master feat, does the bonus attack use a d4 or a d8 for damage?
 
-The benefit from [Polearm Master](3-Mechanics/CLI/feats/polearm-master.md) applies to the opposite end of the weapon and always uses a `d4` for damage rather than the weapon's normal damage die. This is true for a [quarterstaff](3-Mechanics/CLI/items/quarterstaff.md) enhanced with [shillelagh](3-Mechanics/CLI/spells/shillelagh.md) just as it is for a normal one.
+The benefit from [Polearm Master](3-Mechanics/CLI/feats/polearm-master-xphb.md) applies to the opposite end of the weapon and always uses a `dice:d4|noform|noparens|avg` (`d4`) for damage rather than the weapon's normal damage die. This is true for a [quarterstaff](3-Mechanics/CLI/items/quarterstaff-xphb.md) enhanced with [shillelagh](3-Mechanics/CLI/spells/shillelagh-xphb.md) just as it is for a normal one.
 
 ##### If a spellcaster is affected by slow and takes two turns to finish casting a spell, what happens if their target has moved out of range or out of sight?
 
-You choose the targets of a spell when you complete casting a spell, not when you start. ([slow](3-Mechanics/CLI/spells/slow.md))
+You choose the targets of a spell when you complete casting a spell, not when you start. ([slow](3-Mechanics/CLI/spells/slow-xphb.md))
 
 ##### The stinking cloud spell says that a creature wastes its action on a failed save. So can it still use a move or a bonus action or a reaction?
 
-Correct. The gas doesn't immobilize a creature or prevent it from acting altogether, but the effect of the spell does limit what it can accomplish while the [cloud](3-Mechanics/CLI/spells/stinking-cloud.md) lingers.
+Correct. The gas doesn't immobilize a creature or prevent it from acting altogether, but the effect of the spell does limit what it can accomplish while the [cloud](3-Mechanics/CLI/spells/stinking-cloud-xphb.md) lingers.
 
 ##### Do the effects of storm of vengeance stack? Or do the effects change each turn?
 
-In the spell [storm of vengeance](3-Mechanics/CLI/spells/storm-of-vengeance.md), each new effect replaces the effect of the previous round.
+In the spell [storm of vengeance](3-Mechanics/CLI/spells/storm-of-vengeance-xphb.md), each new effect replaces the effect of the previous round.
 
 ##### Is the sentence of suggestion in the suggestion spell the verbal component, or is the verbal component separate?
 
-"Verbal components" are mystic words, not normal speech. The spell's suggestion is an intelligible utterance that is separate from the verbal component. The [command](3-Mechanics/CLI/spells/command.md) spell is the simplest example of this principle. The utterance of the verbal component is separate from, and precedes, any verbal utterance that would bring about the spell's effect.
+"Verbal components" are mystic words, not normal speech. The spell's suggestion is an intelligible utterance that is separate from the verbal component. The [command](3-Mechanics/CLI/spells/command-xphb.md) spell is the simplest example of this principle. The utterance of the verbal component is separate from, and precedes, any verbal utterance that would bring about the spell's effect.
 
 ##### The wording in Tasha's hideous laughter implies that the incapacitated effect applies only if the target is made prone. Is this right?
 
-Failing a save against [Tasha's hideous laughter](3-Mechanics/CLI/spells/tashas-hideous-laughter.md) means you're [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) even if you can't fall [prone](3-Mechanics/CLI/rules/conditions.md#Prone).
+Failing a save against [Tasha's hideous laughter](3-Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md) means you're [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) even if you can't fall [prone](3-Mechanics/CLI/rules/conditions.md#Prone).
 
 ##### If you are affecting a target with telekinesis and an ally put you inside Otiluke's resilient sphere, can you continue affecting the target or other targets with the existing telekinesis spell?
 
-You can maintain your [telekinetic](3-Mechanics/CLI/spells/telekinesis.md) grip on a target you were already affecting, but you can't affect a new target. The [sphere](3-Mechanics/CLI/spells/otilukes-resilient-sphere.md) provides total cover that stops you from targeting anything outside it.
+You can maintain your [telekinetic](3-Mechanics/CLI/spells/telekinesis-xphb.md) grip on a target you were already affecting, but you can't affect a new target. The [sphere](3-Mechanics/CLI/spells/otilukes-resilient-sphere-xphb.md) provides total cover that stops you from targeting anything outside it.
 
 ##### If two creatures are under the effect of tether essence and they are both damaged by an area effect such as a dragon's breath, do they each take the damage twice?
 
-Yes. (tether essence)
+Yes. ([tether essence](3-Mechanics/CLI/spells/tether-essence-egw.md))
 
 ##### Can I use unseen servant to act as an ally when using a class feature like Sneak Attack?
 
-[Unseen servant](3-Mechanics/CLI/spells/unseen-servant.md) creates "an [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible), mindless, shapeless force". In combat, it doesn't act as a creature, an enemy, or an ally.
+[Unseen servant](3-Mechanics/CLI/spells/unseen-servant-xphb.md) creates "an [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible), mindless, shapeless force". In combat, it doesn't act as a creature, an enemy, or an ally.
 
 ##### Whenever you cast wish, do you always have a 33 percent chance of never casting it again?
 
-If you cast [wish](3-Mechanics/CLI/spells/wish.md) to duplicate a spell of level 0–8, there are no detrimental effects. However, if you do anything other than duplicate a spell of level 0–8, you suffer the stress described in the final paragraph of the spell. As soon as that stress affects you, there is a 33 percent chance that you are unable to cast [wish](3-Mechanics/CLI/spells/wish.md) again.
+If you cast [wish](3-Mechanics/CLI/spells/wish-xphb.md) to duplicate a spell of level 0–8, there are no detrimental effects. However, if you do anything other than duplicate a spell of level 0–8, you suffer the stress described in the final paragraph of the spell. As soon as that stress affects you, there is a 33 percent chance that you are unable to cast [wish](3-Mechanics/CLI/spells/wish-xphb.md) again.
 
 ### Monsters
 
@@ -1384,7 +1384,7 @@ A monster follows the normal [opportunity attack rules](3-Mechanics/CLI/rules/ac
 
 #### The bite attacks of ghouls and ghasts don't appear to have proficiency bonus added in. Intentional or mistake?
 
-Intentional; it's a [ghoul](3-Mechanics/CLI/bestiary/undead/ghoul.md)/[ghast](3-Mechanics/CLI/bestiary/undead/ghast.md) thing. They're exceptionally bad at biting, compared to their claw attacks. Monsters sometimes have stat quirks like that.
+Intentional; it's a [ghoul](3-Mechanics/CLI/bestiary/undead/ghoul-xmm.md)/[ghast](3-Mechanics/CLI/bestiary/undead/ghast-xmm.md) thing. They're exceptionally bad at biting, compared to their claw attacks. Monsters sometimes have stat quirks like that.
 
 #### The Monster Manual says gnolls speak Gnoll, but the Player's Handbook doesn't mention that language. What is correct?
 
@@ -1400,11 +1400,11 @@ A weapon doesn't have the [finesse](3-Mechanics/CLI/rules/item-properties.md#Fin
 
 #### The Monster Manual notes that a Mezzoloth exhales toxic fumes that can choke and kill whole groups of creatures. However, its cloudkill is listed under Innate Spellcasting. Because of that, would a paladin's Aura of Warding resist it?
 
-Yes, because [cloudkill](3-Mechanics/CLI/spells/cloudkill.md) is a spell, [Aura of Warding](3-Mechanics/CLI/classes/paladin-oath-of-the-ancients.md#Aura%20of%20Warding%20(Level%207)) would be able to grant you and friendly creatures within 10 feet of you resistance to it.
+Yes, because [cloudkill](3-Mechanics/CLI/spells/cloudkill-xphb.md) is a spell, Aura of Warding would be able to grant you and friendly creatures within 10 feet of you resistance to it.
 
 #### Is the breath weapon of a dragon magical?
 
-If you cast [antimagic field](3-Mechanics/CLI/spells/antimagic-field.md), don [armor of invulnerability](3-Mechanics/CLI/items/armor-of-invulnerability.md), or use another feature of the game that protects against magical or nonmagical effects, you might ask yourself, "Will this protect me against a dragon's breath?" The breath weapon of a typical dragon isn't considered magical, so [antimagic field](3-Mechanics/CLI/spells/antimagic-field.md) won't help you but [armor of invulnerability](3-Mechanics/CLI/items/armor-of-invulnerability.md) will.
+If you cast [antimagic field](3-Mechanics/CLI/spells/antimagic-field-xphb.md), don [armor of invulnerability](3-Mechanics/CLI/items/armor-of-invulnerability-xdmg.md), or use another feature of the game that protects against magical or nonmagical effects, you might ask yourself, "Will this protect me against a dragon's breath?" The breath weapon of a typical dragon isn't considered magical, so [antimagic field](3-Mechanics/CLI/spells/antimagic-field-xphb.md) won't help you but [armor of invulnerability](3-Mechanics/CLI/items/armor-of-invulnerability-xdmg.md) will.
 
 You might be thinking, "Dragons seem pretty magical to me." And yes, they are extraordinary! Their description even says they're magical. But our game makes a distinction between two types of magic:
 
@@ -1421,7 +1421,7 @@ In D&D, the first type of magic is part of nature. It is no more dispellable tha
 
 If your answer to any of those questions is yes, the feature is magical.
 
-Let's look at a [white dragon's](3-Mechanics/CLI/bestiary/dragon/adult-white-dragon.md) Cold Breath and ask ourselves those questions. First, Cold Breath isn't a magic item. Second, its description mentions no spell. Third, it's not a spell attack. Fourth, the word "magical" appears nowhere in its description. Our conclusion: Cold Breath is not considered a magical game effect, even though we know that dragons are amazing, supernatural beings.
+Let's look at a [white dragon's](3-Mechanics/CLI/bestiary/dragon/adult-white-dragon-xmm.md) Cold Breath and ask ourselves those questions. First, Cold Breath isn't a magic item. Second, its description mentions no spell. Third, it's not a spell attack. Fourth, the word "magical" appears nowhere in its description. Our conclusion: Cold Breath is not considered a magical game effect, even though we know that dragons are amazing, supernatural beings.
 
 #### Does the movement from a dragon's Wing Attack legendary action draw attacks of opportunity if it moves out of reach?
 
@@ -1429,15 +1429,15 @@ Yes. Wing Attack does not protect the dragon from [opportunity attacks](3-Mechan
 
 #### Does a creature with Magic Resistance have advantage on saving throws against Channel Divinity abilities, such as Turn the Faithless?
 
-[Channel Divinity](3-Mechanics/CLI/classes/cleric.md#Channel%20Divinity%20(Level%202)) creates magical effects (as stated in both the [cleric](3-Mechanics/CLI/classes/cleric.md#Channel%20Divinity%20(Level%202)) and the [paladin](3-Mechanics/CLI/classes/paladin.md#Channel%20Divinity%20(Level%203))). Magic Resistance applies.
+Channel Divinity creates magical effects (as stated in both the cleric and the paladin). Magic Resistance applies.
 
 #### Do air, fire, and water elementals suffer any penalties for fighting or using skills while they are squeezing into a space that's 5 feet wide or less?
 
-An [air](3-Mechanics/CLI/bestiary/elemental/air-elemental.md)/[fire](3-Mechanics/CLI/bestiary/elemental/fire-elemental.md)/[water elemental](3-Mechanics/CLI/bestiary/elemental/water-elemental.md) ignores the movement part of the "squeezing rule" in a 1+ inch space, as a result of its special trait, Air Form, Fire Form, or Water Form.
+An [air](3-Mechanics/CLI/bestiary/elemental/air-elemental-xmm.md)/[fire](3-Mechanics/CLI/bestiary/elemental/fire-elemental-xmm.md)/[water elemental](3-Mechanics/CLI/bestiary/elemental/water-elemental-xmm.md) ignores the movement part of the "squeezing rule" in a 1+ inch space, as a result of its special trait, Air Form, Fire Form, or Water Form.
 
 #### Can an earth elemental grapple with a creature and then pull it underground and leave it there to die?
 
-No. An [earth elemental's](3-Mechanics/CLI/bestiary/elemental/earth-elemental.md) Earth Glide is meant to apply to itself only. The elemental doesn't take other creatures with it when it moves in this way.
+No. An [earth elemental's](3-Mechanics/CLI/bestiary/elemental/earth-elemental-xmm.md) Earth Glide is meant to apply to itself only. The elemental doesn't take other creatures with it when it moves in this way.
 
 #### Does the lich's Disrupt Life ability affect animated objects and other constructs?
 
@@ -1445,19 +1445,19 @@ The ability targets creatures that aren't undead, so yes, it does affect constru
 
 #### If a shadow rolls a critical hit, does it reduce the target's Strength by 2d4, as well dealing the extra necrotic damage?
 
-No. A critical hit lets you roll damage dice twice. An effect that deals damage is one that reduces the target's hit points. The [shadow's](3-Mechanics/CLI/bestiary/undead/shadow.md) Strength reduction isn't damage, because it has no effect on the target's hit points.
+No. A critical hit lets you roll damage dice twice. An effect that deals damage is one that reduces the target's hit points. The [shadow's](3-Mechanics/CLI/bestiary/undead/shadow-xmm.md) Strength reduction isn't damage, because it has no effect on the target's hit points.
 
 #### Since game features of the same name don't stack, does that mean a target can't be affected by a shadow's Strength Drain more than once between rests?
 
-The intended function of Strength Drain is that it stacks with itself, as signaled by the fact that you die if your Strength is reduced to 0 by it. ([shadow](3-Mechanics/CLI/bestiary/undead/shadow.md))
+The intended function of Strength Drain is that it stacks with itself, as signaled by the fact that you die if your Strength is reduced to 0 by it. ([shadow](3-Mechanics/CLI/bestiary/undead/shadow-xmm.md))
 
 #### Is a vampire affected by hold person or calm emotions?
 
-Many spells affect not just any creatures, but only certain types, as specified in the spell. [Hold person](3-Mechanics/CLI/spells/hold-person.md) and [calm emotions](3-Mechanics/CLI/spells/calm-emotions.md) work only on humanoids, and a [vampire](3-Mechanics/CLI/bestiary/undead/vampire.md) is not a humanoid.
+Many spells affect not just any creatures, but only certain types, as specified in the spell. [Hold person](3-Mechanics/CLI/spells/hold-person-xphb.md) and [calm emotions](3-Mechanics/CLI/spells/calm-emotions-xphb.md) work only on humanoids, and a [vampire](3-Mechanics/CLI/bestiary/undead/vampire-xmm.md) is not a humanoid.
 
 #### Is there a limit to the number of creatures a vampire can charm at once?
 
-No, there is no limit on the number of creatures a [vampire](3-Mechanics/CLI/bestiary/undead/vampire.md) can have charmed at once. A vampire can target a different humanoid each time it uses its Charm action, potentially causing an entire group of enemies to become [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) if their saving throws aren't successful.
+No, there is no limit on the number of creatures a [vampire](3-Mechanics/CLI/bestiary/undead/vampire-xmm.md) can have charmed at once. A vampire can target a different humanoid each time it uses its Charm action, potentially causing an entire group of enemies to become [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) if their saving throws aren't successful.
 
 #### How does a monster's Leadership ability work?
 
@@ -1469,11 +1469,11 @@ No. ([gauth](3-Mechanics/CLI/bestiary/aberration/gauth-mpmm.md))
 
 #### Can a creature that burrows grapple a target and drag them into the ground by burrowing?
 
-No. A burrowing creature can drag another creature with them only if they have the ability to leave a tunnel. For example, a [purple worm](3-Mechanics/CLI/bestiary/monstrosity/purple-worm.md) has the Tunneler trait, so it can drag a [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) creature into a tunnel it creates when burrowing. Conversely, an [earth elemental](3-Mechanics/CLI/bestiary/elemental/earth-elemental.md) can't drag a creature into the ground with it.
+No. A burrowing creature can drag another creature with them only if they have the ability to leave a tunnel. For example, a [purple worm](3-Mechanics/CLI/bestiary/monstrosity/purple-worm-xmm.md) has the Tunneler trait, so it can drag a [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) creature into a tunnel it creates when burrowing. Conversely, an [earth elemental](3-Mechanics/CLI/bestiary/elemental/earth-elemental-xmm.md) can't drag a creature into the ground with it.
 
 #### Can a hydra use Reactive Heads to make multiple opportunity attacks against one creature at the same time when it provokes?
 
-Yes. For that reason, we recommend taking the [Disengage](3-Mechanics/CLI/rules/actions.md#Disengage) action when you're going to move away from a [hydra](3-Mechanics/CLI/bestiary/monstrosity/hydra.md).
+Yes. For that reason, we recommend taking the [Disengage](3-Mechanics/CLI/rules/actions.md#Disengage) action when you're going to move away from a [hydra](3-Mechanics/CLI/bestiary/monstrosity/hydra-xmm.md).
 
 ### Magic Items
 
@@ -1491,19 +1491,19 @@ Use your spellcasting ability modifier to set the DC. If you don't have a spellc
 
 #### Which is correct in the Dungeon Master's Guide, the rule for scrolls or the rule for a spell scroll?
 
-They're both correct. The rule for scrolls (*DMG* ""Scrolls"") is for scrolls in general, including a [scroll of protection](3-Mechanics/CLI/items/scroll-of-protection.md), and it allows you to try to activate a spell if you're literate. The rule for a [spell scroll](3-Mechanics/CLI/items/spell-scroll.md) is specific to that type of scroll and introduces an additional requirement: the spell on the scroll must be on your class's spell list for you to read the scroll.
+They're both correct. The rule for scrolls (*DMG* ""Scrolls"") is for scrolls in general, including a [scroll of protection](3-Mechanics/CLI/items/scroll-of-protection-xdmg.md), and it allows you to try to activate a spell if you're literate. The rule for a [spell scroll](3-Mechanics/CLI/items/spell-scroll-xdmg.md) is specific to that type of scroll and introduces an additional requirement: the spell on the scroll must be on your class's spell list for you to read the scroll.
 
-A [spell scroll](3-Mechanics/CLI/items/spell-scroll.md) can be named in a variety of ways: [spell scroll](3-Mechanics/CLI/items/spell-scroll.md), [scroll of X](3-Mechanics/CLI/items/spell-scroll.md) (where X is the name of a spell), or [spell scroll of X](3-Mechanics/CLI/items/spell-scroll.md) (where X, again, is the name of a spell). No matter how its name appears, a [spell scroll](3-Mechanics/CLI/items/spell-scroll.md) follows the same rule.
+A [spell scroll](3-Mechanics/CLI/items/spell-scroll-xdmg.md) can be named in a variety of ways: [spell scroll](3-Mechanics/CLI/items/spell-scroll-xdmg.md), [scroll of X](3-Mechanics/CLI/items/spell-scroll-xdmg.md) (where X is the name of a spell), or [spell scroll of X](3-Mechanics/CLI/items/spell-scroll-xdmg.md) (where X, again, is the name of a spell). No matter how its name appears, a [spell scroll](3-Mechanics/CLI/items/spell-scroll-xdmg.md) follows the same rule.
 
-For you to meet a [spell scroll's](3-Mechanics/CLI/items/spell-scroll.md) requirement, the spell on the scroll needs to be on whatever spell list is used by your class. Here are two examples. If you're a [cleric](3-Mechanics/CLI/classes/cleric.md), the spell must be on the cleric spell list, and if you're a [fighter](3-Mechanics/CLI/classes/fighter.md) with the [Eldritch Knight](3-Mechanics/CLI/classes/fighter-eldritch-knight.md) archetype, the spell must be on the [wizard](3-Mechanics/CLI/classes/wizard.md) spell list, because that is the spell list used by your class.
+For you to meet a [spell scroll's](3-Mechanics/CLI/items/spell-scroll-xdmg.md) requirement, the spell on the scroll needs to be on whatever spell list is used by your class. Here are two examples. If you're a [cleric](3-Mechanics/CLI/classes/cleric-xphb.md), the spell must be on the cleric spell list, and if you're a [fighter](3-Mechanics/CLI/classes/fighter-xphb.md) with the [Eldritch Knight](3-Mechanics/CLI/classes/fighter-xphb-eldritch-knight-xphb.md) archetype, the spell must be on the [wizard](3-Mechanics/CLI/classes/wizard-xphb.md) spell list, because that is the spell list used by your class.
 
 #### Do the AC bonuses from a ring of protection and bracers of defense stack?
 
-Yes. In general, bonuses stack, unless they're from the same spell (see ""Combining Magical Effects"" in the "Player's Handbook"). You also can't benefit from more than one [ring of protection](3-Mechanics/CLI/items/ring-of-protection.md), for instance, since you can't attune to more than one copy of an item at a time.
+Yes. In general, bonuses stack, unless they're from the same spell (see ""Combining Magical Effects"" in the "Player's Handbook"). You also can't benefit from more than one [ring of protection](3-Mechanics/CLI/items/ring-of-protection-xdmg.md), for instance, since you can't attune to more than one copy of an item at a time.
 
 #### Do magic weapons give you a bonus to attack and damage rolls?
 
-A magic weapon gives you a bonus to attack rolls and damage rolls only if its description says it does. Every magic weapon can bypass resistances and immunities to damage from nonmagical attacks, but only certain magic weapons are more accurate and damaging than their nonmagical counterparts. For example, a [+1 longsword](3-Mechanics/CLI/items/1-weapon.md) and a [giant slayer](3-Mechanics/CLI/items/giant-slayer.md) both give you a +1 bonus to attack rolls and damage rolls, whereas neither a [flame tongue](3-Mechanics/CLI/items/flame-tongue.md) nor a [frost brand](3-Mechanics/CLI/items/frost-brand.md) provides such a bonus. All four weapons, however, can bypass an [earth elemental's](3-Mechanics/CLI/bestiary/elemental/earth-elemental.md) resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.
+A magic weapon gives you a bonus to attack rolls and damage rolls only if its description says it does. Every magic weapon can bypass resistances and immunities to damage from nonmagical attacks, but only certain magic weapons are more accurate and damaging than their nonmagical counterparts. For example, a [+1 longsword](3-Mechanics/CLI/items/1-weapon-xdmg.md) and a [giant slayer](3-Mechanics/CLI/items/giant-slayer-xdmg.md) both give you a +1 bonus to attack rolls and damage rolls, whereas neither a [flame tongue](3-Mechanics/CLI/items/flame-tongue-xdmg.md) nor a [frost brand](3-Mechanics/CLI/items/frost-brand-xdmg.md) provides such a bonus. All four weapons, however, can bypass an [earth elemental's](3-Mechanics/CLI/bestiary/elemental/earth-elemental-xmm.md) resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.
 
 In short, a bonus to attack rolls and damage rolls is considered a special property of a magic weapon, not something that all magic weapons provide automatically.
 
@@ -1513,50 +1513,50 @@ The attacks made by a magical ranged weapon are magical, even if the ammunition 
 
 #### Are magic weapons with the thrown property (javelins and the like) assumed to return to their owner after being thrown?
 
-If a magic weapon returns to you after you throw it, its description says so, as in the [dwarven thrower](3-Mechanics/CLI/items/dwarven-thrower.md).
+If a magic weapon returns to you after you throw it, its description says so, as in the [dwarven thrower](3-Mechanics/CLI/items/dwarven-thrower-xdmg.md).
 
 #### If a rogue with the Assassinate feature uses a vorpal sword, isn't the surprise attack an instant kill?
 
-No. A [vorpal sword](3-Mechanics/CLI/items/vorpal-sword.md) requires you to roll a 20 on the attack roll to decapitate someone. A rogue with the [Assassin](3-Mechanics/CLI/classes/rogue-assassin.md) archetype that attacks a [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised) target using a [vorpal sword](3-Mechanics/CLI/items/vorpal-sword.md) scores an automatic critical hit if the attack roll is successful, but unless the attack roll was a 20, the target gets to keep its head.
+No. A [vorpal sword](3-Mechanics/CLI/items/vorpal-sword-xdmg.md) requires you to roll a 20 on the attack roll to decapitate someone. A rogue with the [Assassin](3-Mechanics/CLI/classes/rogue-xphb-assassin-xphb.md) archetype that attacks a [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised) target using a [vorpal sword](3-Mechanics/CLI/items/vorpal-sword-xdmg.md) scores an automatic critical hit if the attack roll is successful, but unless the attack roll was a 20, the target gets to keep its head.
 
 #### Would an elf get a saving throw versus a philter of love as it's a charm? The description implies there is no save
 
-There is no save against the [philter of love](3-Mechanics/CLI/items/philter-of-love.md). The love is just that strong.
+There is no save against the [philter of love](3-Mechanics/CLI/items/philter-of-love-xdmg.md). The love is just that strong.
 
 #### Does the ring of the ram use spell attacks or weapon attacks?
 
-The text doesn't specify. The attack of the [ring of the ram](3-Mechanics/CLI/items/ring-of-the-ram.md) is a ranged spell attack. Future printings of the "Dungeon Master's Guide" will reflect that intent.
+The text doesn't specify. The attack of the [ring of the ram](3-Mechanics/CLI/items/ring-of-the-ram-xdmg.md) is a ranged spell attack. Future printings of the "Dungeon Master's Guide" will reflect that intent.
 
 #### When using a rope of entanglement, do I keep holding one end in my hand, or does the entire rope wrap around the target?
 
-You are still holding the [rope](3-Mechanics/CLI/items/rope-of-entanglement.md) while the other end entangles the target.
+You are still holding the [rope](3-Mechanics/CLI/items/rope-of-entanglement-xdmg.md) while the other end entangles the target.
 
 #### Can a sphere of annihilation enter a Leomund's tiny hut?
 
-Yes. The [sphere](3-Mechanics/CLI/items/sphere-of-annihilation.md) destroys the dome. ([Leomund's Tiny Hut](3-Mechanics/CLI/spells/leomunds-tiny-hut.md))
+Yes. The [sphere](3-Mechanics/CLI/items/sphere-of-annihilation-xdmg.md) destroys the dome. ([Leomund's Tiny Hut](3-Mechanics/CLI/spells/leomunds-tiny-hut-xphb.md))
 
 #### Can you gain the magical bonus of a +2 shield if you are holding the shield without taking an action to don it?
 
-Yes, but only the magical +2, which says you gain it when holding the [shield](3-Mechanics/CLI/items/2-shield.md). You gain the shield's base AC bonus only if you use your action to don the shield as normal (see ""Getting Into and Out of Armor"" in chapter 5 of the "Player's Handbook").
+Yes, but only the magical +2, which says you gain it when holding the [shield](3-Mechanics/CLI/items/2-shield-xdmg.md). You gain the shield's base AC bonus only if you use your action to don the shield as normal (see ""Getting Into and Out of Armor"" in chapter 5 of the "Player's Handbook").
 
 #### If a character hits a monk with a dwarven thrower and the monk uses Deflect Missiles, does the hammer return to the attacker first, or can the monk catch it?
 
-The monk can catch it. ([dwarven thrower](3-Mechanics/CLI/items/dwarven-thrower.md), [Deflect Missiles](3-Mechanics/CLI/classes/monk.md#Deflect%20Missiles%20(Level%203)))
+The monk can catch it. ([dwarven thrower](3-Mechanics/CLI/items/dwarven-thrower-xdmg.md), Deflect Missiles)
 
 ### Rules Questions
 
 #### Recent books include monster stat blocks—like the dragon blessed in Fizban's Treasury of Dragons and the Silverquill apprentice in Strixhaven: A Curriculum of Chaos—that contain actions designated as spell attacks, rather than weapon attacks. What was the motivation for adding this type of action to the game?
 
-This type of action isn't new. Monsters have had spell attacks since the "Monster Manual" (2014). See the [lich's](3-Mechanics/CLI/bestiary/undead/lich.md) Paralyzing Touch action and the [cambion's](3-Mechanics/CLI/bestiary/fiend/cambion.md) Fire Ray action for other examples of actions that are spell attacks. As discussed in the "introduction" of the "Monster Manual", a monster's attack action is designated as either a weapon attack or a spell attack.
+This type of action isn't new. Monsters have had spell attacks since the "Monster Manual" (2014). See the [lich's](3-Mechanics/CLI/bestiary/undead/lich-xmm.md) Paralyzing Touch action and the [cambion's](3-Mechanics/CLI/bestiary/fiend/cambion-xmm.md) Fire Ray action for other examples of actions that are spell attacks. As discussed in the "introduction" of the "Monster Manual", a monster's attack action is designated as either a weapon attack or a spell attack.
 
 #### Is a spell attack a spell?
 
-No. The game has two types of attacks—weapon attacks and spell attacks—so a spell attack is a type of attack, not a type of spell. Sometimes a spell attack is part of a spell, as in the [fire bolt](3-Mechanics/CLI/spells/fire-bolt.md) spell, but other times a spell attack occurs outside a spell, as in the [specter's](3-Mechanics/CLI/bestiary/undead/specter.md) Life Drain attack in the "Monster Manual".
+No. The game has two types of attacks—weapon attacks and spell attacks—so a spell attack is a type of attack, not a type of spell. Sometimes a spell attack is part of a spell, as in the [fire bolt](3-Mechanics/CLI/spells/fire-bolt-xphb.md) spell, but other times a spell attack occurs outside a spell, as in the [specter's](3-Mechanics/CLI/bestiary/undead/specter-xmm.md) Life Drain attack in the "Monster Manual".
 
 #### When a monster casts a spell without using spell slots, how do I know the spell's level?
 
-A spell's level is specified in the spell's description. For example, the description of [fireball](3-Mechanics/CLI/spells/fireball.md) says it's a 3rd-level spell. If you cast spells using spell slots, you get the additional option of temporarily increasing a spell's level by expending a spell lot of a higher level to cast the spell.
+A spell's level is specified in the spell's description. For example, the description of [fireball](3-Mechanics/CLI/spells/fireball-xphb.md) says it's a 3rd-level spell. If you cast spells using spell slots, you get the additional option of temporarily increasing a spell's level by expending a spell lot of a higher level to cast the spell.
 
 #### Can the silvery barbs spell in Strixhaven affect Legendary Resistance?
 
-No. When a creature uses Legendary Resistance, the creature turns a failed saving throw into a success, regardless of the number rolled on the `d20`. Forcing that creature to reroll the `d20` afterward doesn't change the fact that the save succeeded as a result of Legendary Resistance. No amount of rerolling will undo that success.
+No. When a creature uses Legendary Resistance, the creature turns a failed saving throw into a success, regardless of the number rolled on the `dice:d20|noform|noparens|avg` (`d20`). Forcing that creature to reroll the `dice:d20|noform|noparens|avg` (`d20`) afterward doesn't change the fact that the save succeeded as a result of Legendary Resistance. No amount of rerolling will undo that success.

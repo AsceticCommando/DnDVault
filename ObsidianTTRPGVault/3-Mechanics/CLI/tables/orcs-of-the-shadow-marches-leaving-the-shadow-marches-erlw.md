@@ -12,6 +12,8 @@ aliases:
 
 **Leaving the Shadow Marches**
 
+`dice: [](orcs-of-the-shadow-marches-leaving-the-shadow-marches-erlw.md#^leaving-the-shadow-marches)`
+
 | dice: d8 | Reason for Leaving |
 |----------|--------------------|
 | 1 | You're associated with the Gatekeepers, and you're on a quest to combat a daelkyr-related threat beyond the bounds of the Shadow Marches. |

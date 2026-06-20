@@ -12,6 +12,8 @@ aliases:
 
 **Temple of Mystery Adventures**
 
+`dice: [](temple-of-mystery-adventures-mot.md#^temple-of-mystery-adventures)`
+
 | dice: d12 | Adventure Goal |
 |-----------|----------------|
 | 1 | Find and repair one of the temple's challenges that has malfunctioned. |

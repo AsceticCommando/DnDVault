@@ -10,7 +10,7 @@ aliases:
 # Feywild Overview
 *Source: Domains of Delight, p. 3* 
 
-![](3-Mechanics/CLI/books/domains-of-delight/img/001.webp#center)
+![](file://book/DoD/001.webp#center)
 
 Domains of Delight are to the Feywild what Domains of Dread are to the Shadowfell: sequestered realms governed by powerful beings. Whereas a Domain of Dread is ruled by a Darklord, a Domain of Delight is ruled by an archfey—the most powerful of Fey creatures. An archfey gives form to their Domain of Delight, shaping it in ways unique to their personality. Some Domains of Delight are bright and cheery, while others are gloomy, but each one reflects the emotional state of its ruler. A Domain of Delight can be as small as a few acres or as big as a country.
 
@@ -44,7 +44,7 @@ The Summer Court and the Gloaming Court have nothing akin to a mutual defense pa
 
 If you choose to align your domain and its archfey with one of the two courts, guidelines for how they're differentiated are given below.
 
-![The Queen of Air and Darkn...](3-Mechanics/CLI/books/domains-of-delight/img/002.webp#center "The Queen of Air and Darkness floats above her throne, attended by her quickling spies and satyr spymaster.")
+![The Queen of Air and Darkness floats above her throne, attended by her quickling spies and satyr spymaster.](file://book/DoD/002.webp#center)
 
 #### Summer Court (Seelie Fey)
 
@@ -62,7 +62,7 @@ If you choose to align your domain and its archfey with one of the two courts, g
 
 ### Spells in the Feywild
 
-Spells that manifest one way in the Material Plane might do so differently in the Feywild. A [magic missile](3-Mechanics/CLI/spells/magic-missile.md) spell might take the form of a giggling sprite that materializes next to the caster, fires off a barrage of tiny, glowing arrows, and disappears in a puff of sparkling fairy dust. Here are some other examples of how spells can be cosmetically reinterpreted in the Feywild:
+Spells that manifest one way in the Material Plane might do so differently in the Feywild. A [magic missile](3-Mechanics/CLI/spells/magic-missile-xphb.md) spell might take the form of a giggling sprite that materializes next to the caster, fires off a barrage of tiny, glowing arrows, and disappears in a puff of sparkling fairy dust. Here are some other examples of how spells can be cosmetically reinterpreted in the Feywild:
 
 #### Crown of Madness
 
@@ -108,7 +108,7 @@ The Feywild has its own illogical logic that visitors from other planes can neve
 
 Use the Feywild Guide Names, Feywild Guide Identities, and Feywild Guide Quirks tables to create Fey guides on the fly.
 
-![The borders of Baba Yaga's...](3-Mechanics/CLI/books/domains-of-delight/img/003.webp#center "The borders of Baba Yaga's domain are patrolled by her dancing hut, which doesn't dance so much as stomp trespassers into the ground.")
+![The borders of Baba Yaga's domain are patrolled by her dancing hut, which doesn't dance so much as stomp trespassers into the ground.](file://book/DoD/003.webp#center)
 
 ![Feywild Guides; Feywild Guide Names](3-Mechanics/CLI/tables/feywild-guides-feywild-guide-names-dod.md)
 
@@ -154,7 +154,7 @@ A fey contract is formed when a creature receives a gift (or the promise of a gi
 
 #### Accidental Fey Contracts
 
-A creature can accidentally stumble into a fey contract in a number of ways. The one bit of good news for the novice Feywild explorer is that most fey contracts can be broken with a [remove curse](3-Mechanics/CLI/spells/remove-curse.md) spell or similar magic. Only the most powerful fey contracts are hard to break—ones woven by ancient hags, the queens of the Seelie and Unseelie Courts, and other powerful archfey. Such contracts usually require a [wish](3-Mechanics/CLI/spells/wish.md) spell or an elaborate ritual to negate.
+A creature can accidentally stumble into a fey contract in a number of ways. The one bit of good news for the novice Feywild explorer is that most fey contracts can be broken with a [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md) spell or similar magic. Only the most powerful fey contracts are hard to break—ones woven by ancient hags, the queens of the Seelie and Unseelie Courts, and other powerful archfey. Such contracts usually require a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell or an elaborate ritual to negate.
 
 Here are a few ways one might become unwittingly bound to a fey contract:
 
@@ -172,7 +172,7 @@ To accept a gift from a Fey is to enter into a contract with it, especially if t
 
 Even if a Fey creature is unaware something has been stolen from them, they sense that they have been deprived of something. This nagging sense doesn't go away until the Fey figures out what they lost and who has the stolen item. Moreover, the Fey might not want the stolen thing back, but rather something of equal or greater perceived value.
 
-![A satyr hopes to find the ...](3-Mechanics/CLI/books/domains-of-delight/img/004.webp#center "A satyr hopes to find the perfect gift at a faerie bazaar.")
+![A satyr hopes to find the perfect gift at a faerie bazaar.](file://book/DoD/004.webp#center)
 
 ##### Taking a Life in Debt
 
@@ -185,19 +185,19 @@ Fey are understandably cautious when collecting debts from a person who is prone
 Fey contracts can be divided into two categories: greater contracts and lesser contracts. Greater contracts are made with archfey, ancient hags, and other powerful Fey spellcasters. Lesser contracts are made with Fey of all other sorts. Here are some examples of gifts Fey can bestow as part of a greater or lesser contract:
 
 - **Audience.** You and your companions gain a private audience with the Summer Queen, the Queen of Air and Darkness, or both.  
-- **Major.** You gain a very rare magic item that is yours to keep, or a legendary magic item for `5d12` days.  
+- **Major.** You gain a very rare magic item that is yours to keep, or a legendary magic item for `dice:5d12|noform|noparens|avg` (`5d12`) days.  
 - **Safety.** One creature that previously regarded you as an enemy no longer remembers you at all.  
 - **Time.** You and your companions can return to the Material Plane up to fifty years from now without having aged a day.  
 - **Title.** You gain an important title and all the rewards that come with it (see "Marks of Prestige" in the Dungeon Master's Guide).  
 - **Wealth.** You receive up to 50,000 gp worth of coins, jewelry, or property.  
 
 - **Charm.** You gain a charm of your choice, subject to the DM's approval (see "Supernatural Gifts" in the Dungeon Master's Guide).  
-- **Fey Kinship.** For `5d6` days, you gain either the Fey Ancestry trait common among elves or the Speak with Small Beasts trait common among forest gnomes.  
+- **Fey Kinship.** For `dice:5d6|noform|noparens|avg` (`5d6`) days, you gain either the Fey Ancestry trait common among elves or the Speak with Small Beasts trait common among forest gnomes.  
 - **Guide.** You and your companions receive help from a guide who can guarantee safe passage through a particular region of the Feywild (such as a Domain of Delight).  
-- **Inspiration.** You gain inspiration each day at dawn for `2d4` days.  
+- **Inspiration.** You gain inspiration each day at dawn for `dice:2d4|noform|noparens|avg` (`2d4`) days.  
 - **Invitation.** You receive an invitation to the Summer Court or the Gloaming Court (though this invitation does not guarantee an audience with the Summer Queen or the Queen of Air and Darkness).  
-- **Minor Magic Item.** You gain a common magic item that is yours to keep, or an uncommon magic item for `5d6` days.  
-- **Proficiency.** You gain proficiency in a skill of your choice for `2d4` days.  
+- **Minor Magic Item.** You gain a common magic item that is yours to keep, or an uncommon magic item for `dice:5d6|noform|noparens|avg` (`5d6`) days.  
+- **Proficiency.** You gain proficiency in a skill of your choice for `dice:2d4|noform|noparens|avg` (`2d4`) days.  
 - **Spellcasting.** You gain the ability to cast a spell of 4th level or lower once, without material components. You choose the spell, and your spellcasting ability for it is Charisma.  
 
 #### Price of a Contract
@@ -212,7 +212,7 @@ To collect something intangible, such as a creature's singing voice or the color
 
 #### Breaking a Contract
 
-The Feywild can punish a creature for breaking a fey contract, but the creature must be on the plane to be affected. The penalty imposed on a creature who breaks a lesser contract can be removed by any magic that ends a curse; a [wish](3-Mechanics/CLI/spells/wish.md) spell is needed to remove the penalty for breaking a greater contract.
+The Feywild can punish a creature for breaking a fey contract, but the creature must be on the plane to be affected. The penalty imposed on a creature who breaks a lesser contract can be removed by any magic that ends a curse; a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell is needed to remove the penalty for breaking a greater contract.
 
 The Breaking a Greater Contract and Breaking a Lesser Contract tables can be used to determine the magical penalty of breaking a fey contract.
 
@@ -232,11 +232,11 @@ You can determine the curse's effect by rolling on the Fey Curses table.
 
 ![Fey Curses](3-Mechanics/CLI/tables/fey-curses-dod.md)
 
-A [remove curse](3-Mechanics/CLI/spells/remove-curse.md) spell or similar magic is usually enough to end a Fey curse on a creature, but some Fey curses are tenacious and resistant to all magic except a [wish](3-Mechanics/CLI/spells/wish.md) spell. A creature can also remove such a curse on itself by learning and performing a specific task or ritual, determined by rolling on the Ending the Curse table.
+A [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md) spell or similar magic is usually enough to end a Fey curse on a creature, but some Fey curses are tenacious and resistant to all magic except a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell. A creature can also remove such a curse on itself by learning and performing a specific task or ritual, determined by rolling on the Ending the Curse table.
 
 ![Fey Curses; Ending the Curse](3-Mechanics/CLI/tables/fey-curses-ending-the-curse-dod.md)
 
-![One way to end a curse on ...](3-Mechanics/CLI/books/domains-of-delight/img/005.webp#center "One way to end a curse on yourself is to get bitten by a faerie dragon of a particular color.")
+![One way to end a curse on yourself is to get bitten by a faerie dragon of a particular color.](file://book/DoD/005.webp#center)
 
 ### Fey Abodes
 

@@ -12,6 +12,8 @@ aliases:
 
 **Dark Fantasy Settings**
 
+`dice: [](dark-fantasy-settings-vrgr.md#^dark-fantasy-settings)`
+
 | dice: d8 | Setting |
 |----------|---------|
 | 1 | A land where towering stents pierce magical leylines, allowing their power to be drained |

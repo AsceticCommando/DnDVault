@@ -5,14 +5,15 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/spell/class/artificer
-- ttrpg-cli/spell/class/bard/magical-secrets
+- ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/sorcerer
 - ttrpg-cli/spell/class/wizard
+- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
 - ttrpg-cli/spell/level/5th-level
 - ttrpg-cli/spell/school/transmutation
 classes:
 - Artificer
-- Bard (Magical Secrets)
+- Bard
 - Sorcerer
 - Wizard
 aliases:
@@ -31,6 +32,6 @@ Your magic deepens a creature's understanding of its own talent. You touch one w
 
 You must choose a skill in which the target is proficient and that isn't already benefiting from an effect, such as Expertise, that doubles its proficiency bonus.
 
-**Classes**: [Artificer](3-Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Artificer](3-Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 165*

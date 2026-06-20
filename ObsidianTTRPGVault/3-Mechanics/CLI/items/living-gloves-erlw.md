@@ -19,9 +19,9 @@ These symbiotic gloves—made of thin chitin and sinew—pulse with a life of th
 While attuned to these gloves, you gain one of the following proficiencies (your choice when you attune to the gloves):
 
 - [Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)  
-- [Thieves' tools](3-Mechanics/CLI/items/thieves-tools.md)  
-- One kind of [artisan's tools](3-Mechanics/CLI/items/artisans-tools.md) of your choice  
-- One kind of [musical instrument](3-Mechanics/CLI/items/musical-instrument.md) of your choice  
+- [Thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md)  
+- One kind of [artisan's tools](3-Mechanics/CLI/items/artisans-tools-xphb.md) of your choice  
+- One kind of [musical instrument](3-Mechanics/CLI/items/musical-instrument-xphb.md) of your choice  
 
 When you make an ability check using the chosen proficiency, you add double your proficiency bonus to the check, instead of your normal proficiency bonus.
 

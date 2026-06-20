@@ -12,6 +12,8 @@ aliases:
 
 **Trick Objects**
 
+`dice: [](random-tricks-trick-objects.md#^trick-objects)`
+
 | dice: d20 | Object |
 |-----------|--------|
 | 1 | Book |

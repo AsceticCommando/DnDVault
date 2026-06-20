@@ -12,6 +12,8 @@ aliases:
 
 **Darkon Allies**
 
+`dice: [](darkon-allies-vrgr.md#^darkon-allies)`
+
 | dice: d6 | Ally |
 |----------|------|
 | 1 | Irik Zal'honan, the mournful spirit of Azalin's son |
@@ -19,5 +21,5 @@ aliases:
 | 3 | Cardinna Artazas of the Eternal Order |
 | 4 | Doctor Ingrid van Richten, a scholarly spirit who haunts Richten House near Rivalis |
 | 5 | The Ray Agency, investigators based in Martira Bay |
-| 6 | Skeever, Azalin's [imp](3-Mechanics/CLI/bestiary/fiend/imp.md) familiar |
+| 6 | Skeever, Azalin's [imp](3-Mechanics/CLI/bestiary/fiend/imp-xmm.md) familiar |
 ^darkon-allies

@@ -12,6 +12,8 @@ aliases:
 
 **Purphoros's Quests**
 
+`dice: [](purphoross-quests-mot.md#^purphoross-quests)`
+
 | dice: d6 | Adventure Goal |
 |----------|----------------|
 | 1 | Clear out a monster-infested mine and help procure precious iron ore for a master smith. |

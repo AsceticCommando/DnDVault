@@ -12,6 +12,8 @@ aliases:
 
 **Karametra's Divine Schemes**
 
+`dice: [](karametras-divine-schemes-mot.md#^karametras-divine-schemes)`
+
 | dice: d4 | Scheme |
 |----------|--------|
 | 1 | Karametra's statues have covered their faces as if in despair, and nothing will grow. No one seems to know what has caused the god of fertility to withdraw her blessings from the world, but the problem must be solved if life is to endure. |

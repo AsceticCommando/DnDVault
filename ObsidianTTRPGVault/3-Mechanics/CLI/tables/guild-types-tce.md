@@ -12,6 +12,8 @@ aliases:
 
 **Guild Types**
 
+`dice: [](guild-types-tce.md#^guild-types)`
+
 | dice: d6 | Guild |
 |----------|-------|
 | 1 | **Crafters' Guild**. This conglomerate of artisans pools its resources and influence to ensure a steady exchange of gold for its crafts. |

@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Quickling"
 ---
-# [Quickling](3-Mechanics\CLI\bestiary\fey/quickling-mpmm.md)
+# [Quickling](3-Mechanics/CLI/bestiary/fey/quickling-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 207, Volo's Guide to Monsters p. 187*  
 
 Quicklings rocket through twisted forests where the unseelie fey hold sway, both in the Feywild and in the world. These slender Fey resemble miniature elves with feral features and cold eyes that gleam like jewels. Racing faster than the eye can track, they appear as little more than blurry waverings in the air.
@@ -55,7 +55,7 @@ Tricks of that sort are hardly the limit of quicklings' artful malice, however. 
   - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 15"
 "languages": "Common, Sylvan"
@@ -77,7 +77,7 @@ Tricks of that sort are hardly the limit of quicklings' artful malice, however. 
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/fey/token/quickling-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Quickling.webp"
 ```
 ^statblock
 

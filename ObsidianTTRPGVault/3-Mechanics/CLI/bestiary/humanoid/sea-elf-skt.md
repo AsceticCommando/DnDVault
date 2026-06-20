@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Sea Elf"
 ---
-# [Sea Elf](3-Mechanics\CLI\bestiary\humanoid/sea-elf-skt.md)
+# [Sea Elf](3-Mechanics/CLI/bestiary/humanoid/sea-elf-skt.md)
 *Source: Storm King's Thunder p. 70*  
 
 ```statblock
@@ -37,7 +37,7 @@ aliases:
   - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
 "gear":
-  - "[spear](3-Mechanics/CLI/items/spear.md)"
+  - "[spear](3-Mechanics/CLI/items/spear-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 12"
 "languages": "Common, Elvish"
@@ -55,6 +55,6 @@ aliases:
     "name": "Spear"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/sea-elf-skt.webp"
+"image": "file://bestiary/tokens/SKT/Sea%20Elf.webp"
 ```
 ^statblock

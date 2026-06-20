@@ -12,6 +12,8 @@ aliases:
 
 **Amphitheater Adventures**
 
+`dice: [](amphitheater-adventures-mot.md#^amphitheater-adventures)`
+
 | dice: d10 | Adventure Goal |
 |-----------|----------------|
 | 1 | Steal an item from an audience member. |

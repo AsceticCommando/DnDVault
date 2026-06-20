@@ -12,6 +12,8 @@ aliases:
 
 **Dragon Mannerisms**
 
+`dice: [](dragon-characters-dragon-mannerisms-ftd.md#^dragon-mannerisms)`
+
 | dice: d20 | Mannerism |
 |-----------|-----------|
 | 1 | Rotates head from side to side when listening or speaking |

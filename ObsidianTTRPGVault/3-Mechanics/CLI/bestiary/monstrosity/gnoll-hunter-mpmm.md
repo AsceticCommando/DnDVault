@@ -16,7 +16,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Gnoll Hunter"
 ---
-# [Gnoll Hunter](3-Mechanics\CLI\bestiary\monstrosity/gnoll-hunter-mpmm.md)
+# [Gnoll Hunter](3-Mechanics/CLI/bestiary/monstrosity/gnoll-hunter-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 144, Volo's Guide to Monsters p. 154*  
 
 Hunters are the stealthiest gnolls in a war band. In the vanguard, they creep around, picking off isolated opposition while clearing the way for the rest of the force to advance.
@@ -33,7 +33,7 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
 "type": "monstrosity"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "13"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "22"
 "hit_dice": "4d8 + 4"
 "modifier": !!int "2"
@@ -51,8 +51,8 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "gear":
-  - "[longbow](3-Mechanics/CLI/items/longbow.md)"
-  - "[spear](3-Mechanics/CLI/items/spear.md)"
+  - "[longbow](3-Mechanics/CLI/items/longbow-xphb.md)"
+  - "[spear](3-Mechanics/CLI/items/spear-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 13"
 "languages": "Gnoll"
@@ -78,7 +78,7 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/gnoll-hunter-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Gnoll%20Hunter.webp"
 ```
 ^statblock
 

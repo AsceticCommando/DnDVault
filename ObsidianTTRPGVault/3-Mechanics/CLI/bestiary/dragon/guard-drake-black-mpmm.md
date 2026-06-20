@@ -19,8 +19,8 @@ statblock-link: "#^statblock"
 aliases:
 - "Guard Drake (Black)"
 ---
-# [Guard Drake (Black)](3-Mechanics\CLI\bestiary\dragon/guard-drake-black-mpmm.md)
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 151*  
+# [Guard Drake (Black)](3-Mechanics/CLI/bestiary/dragon/guard-drake-black-mpmm.md)
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 151, Hoard of the Dragon Queen p. 91*  
 
 ```statblock
 "name": "Guard Drake (Black) (MPMM)"
@@ -62,6 +62,7 @@ aliases:
     "name": "Tail"
 "source":
   - "MPMM"
+  - "HotDQ"
 ```
 ^statblock
 

@@ -12,6 +12,8 @@ aliases:
 
 **Defining Mission**
 
+`dice: [](defining-mission-erlw.md#^defining-mission)`
+
 | dice: d6 | Mission |
 |----------|---------|
 | 1 | **Heroic Stand**. You knew if you took one step back from the line, all would be lost. When relief arrived days later, you had not budged. |

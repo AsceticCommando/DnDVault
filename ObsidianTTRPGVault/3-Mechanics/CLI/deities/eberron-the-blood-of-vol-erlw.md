@@ -12,7 +12,7 @@ aliases:
 ---
 # The Blood of Vol
 *Source: Eberron: Rising from the Last War p. 141* 
-![](3-Mechanics/CLI/deities/img/erlw-the-blood-of-vol.webp#symbol)
+![](file://deities/ERLW/The%20Blood%20of%20Vol.webp#symbol)
 
 - **Alignment**: Unaligned
 - **Category**: Other Faiths of Eberron

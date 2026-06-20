@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Sergeant"
 ---
-# [Sergeant](3-Mechanics\CLI\bestiary\humanoid/sergeant-erlw.md)
+# [Sergeant](3-Mechanics/CLI/bestiary/humanoid/sergeant-erlw.md)
 *Source: Eberron: Rising from the Last War p. 197*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "[chain shirt](3-Mechanics/CLI/items/chain-shirt.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[chain shirt](3-Mechanics/CLI/items/chain-shirt-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
 "modifier": !!int "1"
@@ -38,7 +38,7 @@ aliases:
   - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
 "gear":
-  - "[spear](3-Mechanics/CLI/items/spear.md)"
+  - "[spear](3-Mechanics/CLI/items/spear-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "any one language (usually Common)"
 "cr": "1/8"
@@ -49,6 +49,6 @@ aliases:
     "name": "Spear"
 "source":
   - "ERLW"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/sergeant-erlw.webp"
+"image": "file://bestiary/tokens/ERLW/Sergeant.webp"
 ```
 ^statblock

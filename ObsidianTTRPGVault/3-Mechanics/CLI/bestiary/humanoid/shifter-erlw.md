@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Shifter"
 ---
-# [Shifter](3-Mechanics\CLI\bestiary\humanoid/shifter-erlw.md)
+# [Shifter](3-Mechanics/CLI/bestiary/humanoid/shifter-erlw.md)
 *Source: Eberron: Rising from the Last War p. 319*  
 
 Shifters are tied to primal spirits, which most of them refer to as the beast within. They are lithe of form and have bestial features: large eyes, flat noses, pointed ears, and light fur over much of their bodies. When a shifter fully embraces the beast within by "shifting," these features become even more pronounced.
@@ -24,7 +24,7 @@ Shifters are tied to primal spirits, which most of them refer to as the beast wi
 "subtype": "shifter"
 "alignment": "Any alignment"
 "ac": !!int "14"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "19"
 "hit_dice": "3d8 + 6"
 "modifier": !!int "3"
@@ -46,7 +46,7 @@ Shifters are tied to primal spirits, which most of them refer to as the beast wi
   - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
 "gear":
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 14"
 "languages": "Common"
@@ -66,6 +66,6 @@ Shifters are tied to primal spirits, which most of them refer to as the beast wi
     "name": "Bite"
 "source":
   - "ERLW"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/shifter-erlw.webp"
+"image": "file://bestiary/tokens/ERLW/Shifter.webp"
 ```
 ^statblock

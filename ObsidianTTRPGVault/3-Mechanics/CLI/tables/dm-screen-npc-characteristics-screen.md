@@ -12,6 +12,8 @@ aliases:
 
 **NPC Characteristics**
 
+`dice: [](dm-screen-npc-characteristics-screen.md#^npc-characteristics)`
+
 | dice: d20 | Characteristic |
 |-----------|----------------|
 | 1 | Absentminded |

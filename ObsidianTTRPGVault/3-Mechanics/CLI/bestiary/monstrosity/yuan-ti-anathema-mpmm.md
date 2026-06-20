@@ -15,7 +15,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Yuan-ti Anathema"
 ---
-# [Yuan-ti Anathema](3-Mechanics\CLI\bestiary\monstrosity/yuan-ti-anathema-mpmm.md)
+# [Yuan-ti Anathema](3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-anathema-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 272, Volo's Guide to Monsters p. 202*  
 
 As part of their quest for godhood, a yuan-ti abomination might perform a ritual that, if successful, transforms them into an even greater form: a yuan-ti anathema. This ritual demands the sacrifice of hundreds of snakes and requires the abomination to bathe in the blood of their enemies. The transformation is quick but painful.
@@ -91,10 +91,10 @@ Anathemas don't age, allowing them to pursue their goals until the end of days. 
     "name": "Constrict (Snake Form Only)"
   - "desc": "The anathema casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 17):\n\
-      \n**At will:** [animal friendship](3-Mechanics/CLI/spells/animal-friendship.md)\
-      \ (snakes only)\n\n**3/day each:** [darkness](3-Mechanics/CLI/spells/darkness.md),\
-      \ [entangle](3-Mechanics/CLI/spells/entangle.md), [fear](3-Mechanics/CLI/spells/fear.md),\
-      \ [polymorph](3-Mechanics/CLI/spells/polymorph.md), [suggestion](3-Mechanics/CLI/spells/suggestion.md)"
+      \n**At will:** [animal friendship](3-Mechanics/CLI/spells/animal-friendship-xphb.md)\
+      \ (snakes only)\n\n**3/day each:** [darkness](3-Mechanics/CLI/spells/darkness-xphb.md),\
+      \ [entangle](3-Mechanics/CLI/spells/entangle-xphb.md), [fear](3-Mechanics/CLI/spells/fear-xphb.md),\
+      \ [polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md), [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md)"
     "name": "Spellcasting (Anathema Form Only)"
 "bonus_actions":
   - "desc": "The anathema transforms into a Huge constrictor snake or back into its\
@@ -104,7 +104,7 @@ Anathemas don't age, allowing them to pursue their goals until the end of days. 
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/yuan-ti-anathema-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Yuan-ti%20Anathema.webp"
 ```
 ^statblock
 

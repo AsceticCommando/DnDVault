@@ -12,6 +12,8 @@ aliases:
 
 **Cosmic Horror Settings**
 
+`dice: [](cosmic-horror-settings-vrgr.md#^cosmic-horror-settings)`
+
 | dice: d8 | Setting |
 |----------|---------|
 | 1 | A wind-blasted dimension of indigo sand and eyeless statues |

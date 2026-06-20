@@ -12,6 +12,8 @@ aliases:
 
 **Heirs of Dhakaan Adventure Hooks**
 
+`dice: [](heirs-of-dhakaan-adventure-hooks-erlw.md#^heirs-of-dhakaan-adventure-hooks)`
+
 | dice: d12 | Adventure Hook |
 |-----------|----------------|
 | 1 | A scout patrol has gone missing near the border of Darguun. |

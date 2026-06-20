@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Princess Serissa"
 ---
-# [Princess Serissa](3-Mechanics\CLI\bestiary\npc/princess-serissa-skt.md)
+# [Princess Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md)
 *Source: Storm King's Thunder p. 209*  
 
 ```statblock
@@ -21,7 +21,7 @@ aliases:
 "type": "giant"
 "alignment": "Chaotic Good"
 "ac": !!int "14"
-"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor.md)"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor-xphb.md)"
 "hp": !!int "200"
 "hit_dice": "20d12 + 100"
 "modifier": !!int "2"
@@ -50,17 +50,17 @@ aliases:
 "damage_resistances": "cold"
 "damage_immunities": "lightning, thunder"
 "gear":
-  - "[greatsword](3-Mechanics/CLI/items/greatsword.md)"
+  - "[greatsword](3-Mechanics/CLI/items/greatsword-xphb.md)"
 "senses": "passive Perception 19"
 "languages": "Common, Giant"
 "cr": "13"
 "traits":
   - "desc": "Serissa's innate spellcasting ability is Charisma (spell save DC 17).\
       \ It can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [feather\
-      \ fall](3-Mechanics/CLI/spells/feather-fall.md), [levitate](3-Mechanics/CLI/spells/levitate.md),\
-      \ [light](3-Mechanics/CLI/spells/light.md)\n\n**3/day each:** [control weather](3-Mechanics/CLI/spells/control-weather.md),\
-      \ [water breathing](3-Mechanics/CLI/spells/water-breathing.md)"
+      \n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [feather fall](3-Mechanics/CLI/spells/feather-fall-xphb.md), [levitate](3-Mechanics/CLI/spells/levitate-xphb.md),\
+      \ [light](3-Mechanics/CLI/spells/light-xphb.md)\n\n**3/day each:** [control\
+      \ weather](3-Mechanics/CLI/spells/control-weather-xphb.md), [water breathing](3-Mechanics/CLI/spells/water-breathing-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "Serissa can breathe air and water."
     "name": "Amphibious"
@@ -80,6 +80,6 @@ aliases:
     "name": "Lightning Strike (Recharge 5-6)"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/princess-serissa-skt.webp"
+"image": "file://bestiary/tokens/SKT/Princess%20Serissa.webp"
 ```
 ^statblock

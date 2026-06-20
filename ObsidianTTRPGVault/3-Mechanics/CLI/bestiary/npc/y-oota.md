@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Y"
 ---
-# [Y](3-Mechanics\CLI\bestiary\npc/y-oota.md)
+# [Y](3-Mechanics/CLI/bestiary/npc/y-oota.md)
 *Source: Out of the Abyss p. 29*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "derro"
 "alignment": "Neutral"
 "ac": !!int "13"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "49"
 "hit_dice": "11d6 + 11"
 "modifier": !!int "2"
@@ -45,7 +45,7 @@ aliases:
 "languages": "Dwarvish, Undercommon, Elvish"
 "cr": "3"
 "traits":
-  - "desc": "Y can innately cast can cast the [teleport](3-Mechanics/CLI/spells/teleport.md)\
+  - "desc": "Y can innately cast can cast the [teleport](3-Mechanics/CLI/spells/teleport-xphb.md)\
       \ spell once per day, but the intended destination must be within 30 feet of\
       \ another society member. This teleport effect can be disrupted (see \"Faerzress\"\
       ), which is how society members sometimes end up in far corners of the Underdark,\
@@ -53,13 +53,14 @@ aliases:
     "name": "Innate Spellcasting"
   - "desc": "Y is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell\
       \ save DC 12, +4 to hit with spell attacks). The derro knows the following sorcerer\
-      \ spells:\n\n**Cantrips (at will):** [acid splash](3-Mechanics/CLI/spells/acid-splash.md),\
-      \ [mage hand](3-Mechanics/CLI/spells/mage-hand.md), [message](3-Mechanics/CLI/spells/message.md),\
-      \ [ray of frost](3-Mechanics/CLI/spells/ray-of-frost.md)\n\n**1st level (4 slots):**\
-      \ [burning hands](3-Mechanics/CLI/spells/burning-hands.md), [chromatic orb](3-Mechanics/CLI/spells/chromatic-orb.md),\
-      \ [sleep](3-Mechanics/CLI/spells/sleep.md)\n\n**2nd level (3 slots):** [invisibility](3-Mechanics/CLI/spells/invisibility.md),\
-      \ [spider climb](3-Mechanics/CLI/spells/spider-climb.md)\n\n**3rd level (2 slots):**\
-      \ [blink](3-Mechanics/CLI/spells/blink.md), [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt.md)"
+      \ spells:\n\n**Cantrips (at will):** [acid splash](3-Mechanics/CLI/spells/acid-splash-xphb.md),\
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [message](3-Mechanics/CLI/spells/message-xphb.md),\
+      \ [ray of frost](3-Mechanics/CLI/spells/ray-of-frost-xphb.md)\n\n**1st level\
+      \ (4 slots):** [burning hands](3-Mechanics/CLI/spells/burning-hands-xphb.md),\
+      \ [chromatic orb](3-Mechanics/CLI/spells/chromatic-orb-xphb.md), [sleep](3-Mechanics/CLI/spells/sleep-xphb.md)\n\
+      \n**2nd level (3 slots):** [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md),\
+      \ [spider climb](3-Mechanics/CLI/spells/spider-climb-xphb.md)\n\n**3rd level\
+      \ (2 slots):** [blink](3-Mechanics/CLI/spells/blink-xphb.md), [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt-xphb.md)"
     "name": "Spellcasting"
   - "desc": "The derro has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
       \ or [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)."
@@ -82,6 +83,6 @@ aliases:
     "name": "Light Repeating Crossbow"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/y-oota.webp"
+"image": "file://bestiary/tokens/OotA/Y.webp"
 ```
 ^statblock

@@ -12,6 +12,8 @@ aliases:
 
 **Body Horror Torments**
 
+`dice: [](body-horror-torments-vrgr.md#^body-horror-torments)`
+
 | dice: d8 | Torment |
 |----------|---------|
 | 1 | The Darklord is pockmarked with eyes that never close and never allow for sleep. |

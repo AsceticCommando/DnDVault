@@ -12,6 +12,8 @@ aliases:
 
 **Lauth Goals**
 
+`dice: [](common-purpose-lauth-goals-ftd.md#^lauth-goals)`
+
 | dice: d6 | Goal |
 |----------|------|
 | 1 | Support the establishment of a powerful empire to maintain order in the lauth's territory |

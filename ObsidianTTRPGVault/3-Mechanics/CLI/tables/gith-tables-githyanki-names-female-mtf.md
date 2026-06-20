@@ -12,6 +12,8 @@ aliases:
 
 **Githyanki Names, Female**
 
+`dice: [](gith-tables-githyanki-names-female-mtf.md#^githyanki-names-female)`
+
 | dice: d10 | Name |
 |-----------|------|
 | 1 | Aaryl |

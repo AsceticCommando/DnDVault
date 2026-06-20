@@ -10,12 +10,12 @@ aliases:
 ---
 # Witchlight Hand
 *Source: The Wild Beyond the Witchlight p. 11*  
-![](3-Mechanics/CLI/backgrounds/img/witchlight-hand.webp#right)
+![](file://backgrounds/WBtW/Witchlight%20Hand.webp#right)
 
 - **Skill Proficiencies.** [Performance](3-Mechanics/CLI/rules/skills.md#Performance), [Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)  
-- **Tool Proficiencies.** [Disguise kit](3-Mechanics/CLI/items/disguise-kit.md) or one type of musical Instrument  
+- **Tool Proficiencies.** [Disguise kit](3-Mechanics/CLI/items/disguise-kit-xphb.md) or one type of musical Instrument  
 - **Languages.** One of your choice  
-- **Equipment.** A [disguise kit](3-Mechanics/CLI/items/disguise-kit.md) or a musical instrument of your choice, a deck of cards, a carnival uniform or [costume](3-Mechanics/CLI/items/costume-clothes.md), one trinket (determined by rolling on the [Feywild Trinkets](3-Mechanics/CLI/items/feywild-trinket-wbtw.md)), and a [pouch](3-Mechanics/CLI/items/pouch.md) containing 8 gp  
+- **Equipment.** A [disguise kit](3-Mechanics/CLI/items/disguise-kit-xphb.md) or a musical instrument of your choice, a deck of cards, a carnival uniform or [costume](3-Mechanics/CLI/items/costume-xphb.md), one trinket (determined by rolling on the [Feywild Trinkets](3-Mechanics/CLI/items/feywild-trinket-wbtw.md)), and a [pouch](3-Mechanics/CLI/items/pouch-xphb.md) containing 8 gp  
 
 You crept into the Witchlight Carnival as a child or youth and never looked back, earning a place among those who work behind the scenes to keep the carnival in business. As a hand, you work hard and party hard. The carnival has borne you to many fantastic worlds, circling back around to your home world once every eight years, but you know almost nothing about these worlds because you spend all your time in the carnival. You know the other hands well, but the carnival's owners—Mister Witch and Mister Light—remain mysterious to you even after all these years.
 
@@ -27,11 +27,13 @@ The Witchlight Carnival provides you with free, modest lodging and food. In addi
 
 ## Carnival Companion
 
-Over the years, you have earned the friendship of another carnival fixture. Roll a `d8` and consult the Carnival Companion table to determine whom or what you've befriended, or you can choose an option that you like. Work with your DM to flesh out this friendship. This companion hangs around you while you're in the carnival, but it won't voluntarily leave the carnival.
+Over the years, you have earned the friendship of another carnival fixture. Roll a `dice:d8|noform|noparens|avg` (`d8`) and consult the Carnival Companion table to determine whom or what you've befriended, or you can choose an option that you like. Work with your DM to flesh out this friendship. This companion hangs around you while you're in the carnival, but it won't voluntarily leave the carnival.
 
 The DM can use the [Witchlight hand](3-Mechanics/CLI/bestiary/humanoid/witchlight-hand-medium-wbtw.md) stat block in chapter 1 to represent hands, performers, and animal trainers who serve as carnival companions. Statistics for the other companions appear in the "Monster Manual".
 
 **Carnival Companion**
+
+`dice: [](witchlight-hand-wbtw.md#^carnival-companion)`
 
 | dice: d8 | Companion |
 |----------|-----------|
@@ -40,8 +42,8 @@ The DM can use the [Witchlight hand](3-Mechanics/CLI/bestiary/humanoid/witchligh
 | 3 | Performer (such as an acrobat, a clown, or a musician) |
 | 4 | Retired performer |
 | 5 | Seasoned animal trainer |
-| 6 | Old [blink dog](3-Mechanics/CLI/bestiary/fey/blink-dog.md) |
-| 7 | Cheery [sprite](3-Mechanics/CLI/bestiary/fey/sprite.md) |
+| 6 | Old [blink dog](3-Mechanics/CLI/bestiary/fey/blink-dog-xmm.md) |
+| 7 | Cheery [sprite](3-Mechanics/CLI/bestiary/fey/sprite-xmm.md) |
 | 8 | Harmless, magical wisp of light (no stat block required) that has a flying speed of 30 feet, can hover, and sheds bright light in a 5-foot radius and dim light for an additional 5 feet |
 ^carnival-companion
 
@@ -52,6 +54,8 @@ As the players choose backgrounds for their characters, they can use the followi
 These tables, while optional, are well suited to Feywild-themed adventures and are ideal for any character who has the feylost or Witchlight hand background.
 
 **Personality Traits**
+
+`dice: [](witchlight-hand-wbtw.md#^personality-traits)`
 
 | dice: d8 | Trait |
 |----------|-------|
@@ -67,6 +71,8 @@ These tables, while optional, are well suited to Feywild-themed adventures and a
 
 **Ideals**
 
+`dice: [](witchlight-hand-wbtw.md#^ideals)`
+
 | dice: d8 | Ideal |
 |----------|-------|
 | 1 | Friendship. I never leave a friend behind. (Good) |
@@ -81,6 +87,8 @@ These tables, while optional, are well suited to Feywild-themed adventures and a
 
 **Bonds**
 
+`dice: [](witchlight-hand-wbtw.md#^bonds)`
+
 | dice: d8 | Bond |
 |----------|------|
 | 1 | I would never break my word. |
@@ -94,6 +102,8 @@ These tables, while optional, are well suited to Feywild-themed adventures and a
 ^bonds
 
 **Flaws**
+
+`dice: [](witchlight-hand-wbtw.md#^flaws)`
 
 | dice: d8 | Flaw |
 |----------|------|

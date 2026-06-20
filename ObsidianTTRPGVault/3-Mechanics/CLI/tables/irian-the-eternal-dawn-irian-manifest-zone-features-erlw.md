@@ -12,6 +12,8 @@ aliases:
 
 **Irian Manifest Zone Features**
 
+`dice: [](irian-the-eternal-dawn-irian-manifest-zone-features-erlw.md#^irian-manifest-zone-features)`
+
 | dice: d4 | Feature |
 |----------|---------|
 | 1 | The waters of a spring hold curative powers—curing disease, healing wounds, even restoring lost senses. |

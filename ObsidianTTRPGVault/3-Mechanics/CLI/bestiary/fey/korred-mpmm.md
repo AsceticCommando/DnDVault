@@ -13,12 +13,12 @@ statblock-link: "#^statblock"
 aliases:
 - "Korred"
 ---
-# [Korred](3-Mechanics\CLI\bestiary\fey/korred-mpmm.md)
+# [Korred](3-Mechanics/CLI/bestiary/fey/korred-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 166, Volo's Guide to Monsters p. 168*  
 
 Korreds are unpredictable, secretive Fey with strong ties to earth and stone. Because of their magical hair and mystical understanding of minerals, they are sought after by treasure-hunting dwarves and others who desire wealth beneath the earth.
 
-Korreds prefer to keep their own company but occasionally consort with creatures of elemental earth such as [galeb duhr](3-Mechanics/CLI/bestiary/elemental/galeb-duhr.md). They often gather with other korreds to perform ceremonial dances, beating out rhythms on stone with their hooves and clubs. In the depths of the Material Plane, korreds typically flee from other creatures, but they become aggressive when they feel insulted or are annoyed by the sounds of mining.
+Korreds prefer to keep their own company but occasionally consort with creatures of elemental earth such as [galeb duhr](3-Mechanics/CLI/bestiary/elemental/galeb-duhr-xmm.md). They often gather with other korreds to perform ceremonial dances, beating out rhythms on stone with their hooves and clubs. In the depths of the Material Plane, korreds typically flee from other creatures, but they become aggressive when they feel insulted or are annoyed by the sounds of mining.
 
 Korreds can hurl boulders far larger than it seems they should be able to, shape stone as though it were clay, and swim through rock. They also gain supernatural strength just from standing on the ground.
 
@@ -53,7 +53,7 @@ Korreds have hair all over their bodies, but the hair that grows from their head
     "desc": "+5"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "gear":
-  - "[greatclub](3-Mechanics/CLI/items/greatclub.md)"
+  - "[greatclub](3-Mechanics/CLI/items/greatclub-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., tremorsense\
   \ 120 ft., passive Perception 15"
 "languages": "Dwarvish, Gnomish, Sylvan, Terran, Undercommon"
@@ -75,10 +75,10 @@ Korreds have hair all over their bodies, but the hair that grows from their head
     "name": "Rock"
   - "desc": "The korred casts one of the following spells, requiring no spell components\
       \ and using Wisdom as the spellcasting ability (spell save DC 13):\n\n**At will:**\
-      \ [commune with nature](3-Mechanics/CLI/spells/commune-with-nature.md) (as an\
-      \ action), [meld into stone](3-Mechanics/CLI/spells/meld-into-stone.md), [stone\
-      \ shape](3-Mechanics/CLI/spells/stone-shape.md)\n\n**1/day:** [Otto's irresistible\
-      \ dance](3-Mechanics/CLI/spells/ottos-irresistible-dance.md)"
+      \ [commune with nature](3-Mechanics/CLI/spells/commune-with-nature-xphb.md)\
+      \ (as an action), [meld into stone](3-Mechanics/CLI/spells/meld-into-stone-xphb.md),\
+      \ [stone shape](3-Mechanics/CLI/spells/stone-shape-xphb.md)\n\n**1/day:** [Otto's\
+      \ irresistible dance](3-Mechanics/CLI/spells/ottos-irresistible-dance-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The korred has at least one 50-foot-long rope woven out of its hair.\
@@ -95,7 +95,7 @@ Korreds have hair all over their bodies, but the hair that grows from their head
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/fey/token/korred-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Korred.webp"
 ```
 ^statblock
 

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Belashyrra"
 ---
-# [Belashyrra](3-Mechanics\CLI\bestiary\npc/belashyrra-erlw.md)
+# [Belashyrra](3-Mechanics/CLI/bestiary/npc/belashyrra-erlw.md)
 *Source: Eberron: Rising from the Last War p. 286*  
 
 Belashyrra is the Lord of Eyes, also known to its cultists as the All-Seer or the Glorious Eye. Stories told of Belashyrra in the Shadow Marches whisper that the Lord of Eyes can see every evil deed a person commits, and that those touched by this daelkyr suffer terrible hallucinations that inevitably drive them to violence or death.
@@ -38,6 +38,8 @@ Some beholderkin serve Belashyrra as guards and agents, while others spend their
 If a creature goes mad in Belashyrra's lair or while it can see the daelkyr, it gains a form of indefinite madness. Roll on the Madness of Belashyrra table to determine the nature of this madness, which takes the form of a character flaw that lasts until cured. Chapter 8 of the "Dungeon Master's Guide" has more information on madness.
 
 **Madness of Belashyrra**
+
+`dice: [](belashyrra-erlw.md#^madness-of-belashyrra)`
 
 | dice: d6 | Flaw (lasts until cured) |
 |----------|--------------------------|
@@ -121,9 +123,9 @@ If a creature goes mad in Belashyrra's lair or while it can see the daelkyr, it 
       \ If this damage reduces a creature to 0 hit points, it dies and transforms\
       \ into a spectator under Belashyrra's control and acts immediately after Belashyrra\
       \ in the initiative order. The target can't be returned to its original form\
-      \ by any means short of a [wish](3-Mechanics/CLI/spells/wish.md) spell.  \n\
-      - **2. Domination Ray.** The target must succeed on a DC 22 Wisdom saving throw\
-      \ or be [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) by Belashyrra\
+      \ by any means short of a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell.\
+      \  \n- **2. Domination Ray.** The target must succeed on a DC 22 Wisdom saving\
+      \ throw or be [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) by Belashyrra\
       \ for 1 minute or until the target takes damage. Belashyrra can issue telepathic\
       \ commands to the [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) creature\
       \ (no action required), which it does its best to obey.  \n- **3. Mind-Weakening\
@@ -145,7 +147,7 @@ If a creature goes mad in Belashyrra's lair or while it can see the daelkyr, it 
       \ can't use the same effect two rounds in a row:\n\n- An eye opens on a solid\
       \ surface within 60 feet of Belashyrra. One random eye ray of Belashyrra's shoots\
       \ from that eye at a target of Belashyrra's choice that it can see. The eye\
-      \ then closes and disappears.  \n- Belashyrra creates a [wave](3-Mechanics/CLI/items/wave.md)\
+      \ then closes and disappears.  \n- Belashyrra creates a [wave](3-Mechanics/CLI/items/wave-xdmg.md)\
       \ of madness. Each creature it can see within its lair must succeed on a DC\
       \ 22 Wisdom saving throw or be [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
       \ for 1 minute. While [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
@@ -194,6 +196,6 @@ If a creature goes mad in Belashyrra's lair or while it can see the daelkyr, it 
     "name": "Rend Reality (Costs 3 Actions)"
 "source":
   - "ERLW"
-"image": "3-Mechanics/CLI/bestiary/npc/token/belashyrra-erlw.webp"
+"image": "file://bestiary/tokens/ERLW/Belashyrra.webp"
 ```
 ^statblock

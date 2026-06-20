@@ -12,6 +12,8 @@ aliases:
 
 **Wyrmling Goals**
 
+`dice: [](wyrmlings-wyrmling-goals-ftd.md#^wyrmling-goals)`
+
 | dice: d6 | Goal |
 |----------|------|
 | 1 | Establish independence from adult dragons (or other powerful creatures) |

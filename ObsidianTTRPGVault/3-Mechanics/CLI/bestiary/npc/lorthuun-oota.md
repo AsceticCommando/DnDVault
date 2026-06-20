@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Lorthuun"
 ---
-# [Lorthuun](3-Mechanics\CLI\bestiary\npc/lorthuun-oota.md)
+# [Lorthuun](3-Mechanics/CLI/bestiary/npc/lorthuun-oota.md)
 *Source: Out of the Abyss p. 141*  
 
 ```statblock
@@ -47,10 +47,10 @@ aliases:
 "cr": "9"
 "traits":
   - "desc": "Lorthuun's central eye creates an area of antimagic, as in the [antimagic\
-      \ field](3-Mechanics/CLI/spells/antimagic-field.md) spell, in a 150-foot cone.\
-      \ At the start of each of its turns, Lorthuun decides which way the cone faces\
-      \ and whether the cone is active. The area works against Lorthuun's own eye\
-      \ rays."
+      \ field](3-Mechanics/CLI/spells/antimagic-field-xphb.md) spell, in a 150-foot\
+      \ cone. At the start of each of its turns, Lorthuun decides which way the cone\
+      \ faces and whether the cone is active. The area works against Lorthuun's own\
+      \ eye rays."
     "name": "Antimagic Cone"
 "actions":
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 14\
@@ -94,6 +94,6 @@ aliases:
     "name": "Eye Ray"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/lorthuun-oota.webp"
+"image": "file://bestiary/tokens/OotA/Lorthuun.webp"
 ```
 ^statblock

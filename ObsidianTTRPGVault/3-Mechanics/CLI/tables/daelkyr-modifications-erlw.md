@@ -12,6 +12,8 @@ aliases:
 
 **Daelkyr Modifications**
 
+`dice: [](daelkyr-modifications-erlw.md#^daelkyr-modifications)`
+
 | dice: d10 | Modification |
 |-----------|--------------|
 | 1 | The creature is fused with another creature or object. |

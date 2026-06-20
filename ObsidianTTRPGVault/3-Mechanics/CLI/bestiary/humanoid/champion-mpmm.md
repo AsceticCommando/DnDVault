@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Champion"
 ---
-# [Champion](3-Mechanics\CLI\bestiary\humanoid/champion-mpmm.md)
+# [Champion](3-Mechanics/CLI/bestiary/humanoid/champion-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 74, Volo's Guide to Monsters p. 212*  
 
 > [!quote] A quote from Mordenkainen  
@@ -26,6 +26,8 @@ Champions are mighty warriors who have honed their fighting skills in wars or gl
 A typical champion bears a coat of arms, heraldry that is associated with the champion far and wide. You may create a coat of arms for a champion or roll on the Champion's Coats of Arms table to determine it.
 
 **Champion's Coat of Arms**
+
+`dice: [](champion-mpmm.md#^champions-coat-of-arms)`
 
 | dice: d12 | Coat of Arms |
 |-----------|--------------|
@@ -49,7 +51,7 @@ A typical champion bears a coat of arms, heraldry that is associated with the ch
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "18"
-"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor.md)"
+"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "143"
 "hit_dice": "22d8 + 44"
 "modifier": !!int "2"
@@ -72,8 +74,8 @@ A typical champion bears a coat of arms, heraldry that is associated with the ch
   - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
 "gear":
-  - "[greatsword](3-Mechanics/CLI/items/greatsword.md)"
-  - "[shortbow](3-Mechanics/CLI/items/shortbow.md)"
+  - "[greatsword](3-Mechanics/CLI/items/greatsword-xphb.md)"
+  - "[shortbow](3-Mechanics/CLI/items/shortbow-xphb.md)"
 "senses": "passive Perception 16"
 "languages": "any one language (usually Common)"
 "cr": "9"
@@ -97,7 +99,7 @@ A typical champion bears a coat of arms, heraldry that is associated with the ch
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/champion-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Champion.webp"
 ```
 ^statblock
 

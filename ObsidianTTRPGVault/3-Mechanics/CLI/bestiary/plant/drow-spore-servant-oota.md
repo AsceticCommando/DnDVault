@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Drow Spore Servant"
 ---
-# [Drow Spore Servant](3-Mechanics\CLI\bestiary\plant/drow-spore-servant-oota.md)
+# [Drow Spore Servant](3-Mechanics/CLI/bestiary/plant/drow-spore-servant-oota.md)
 *Source: Out of the Abyss p. 229*  
 
 ```statblock
@@ -21,7 +21,7 @@ aliases:
 "type": "plant"
 "alignment": "Unaligned"
 "ac": !!int "15"
-"ac_class": "[chain shirt](3-Mechanics/CLI/items/chain-shirt.md)"
+"ac_class": "[chain shirt](3-Mechanics/CLI/items/chain-shirt-xphb.md)"
 "hp": !!int "13"
 "hit_dice": "3d8"
 "modifier": !!int "2"
@@ -36,7 +36,7 @@ aliases:
 "condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
   \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)"
 "gear":
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 30 ft. (blind\
   \ beyond this radius), passive Perception 8"
 "languages": ""
@@ -47,6 +47,6 @@ aliases:
     "name": "Shortsword"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/plant/token/drow-spore-servant-oota.webp"
+"image": "file://bestiary/tokens/OotA/Drow%20Spore%20Servant.webp"
 ```
 ^statblock

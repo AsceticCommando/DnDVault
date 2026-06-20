@@ -12,6 +12,8 @@ aliases:
 
 **Starting Area**
 
+`dice: [](starting-area.md#^starting-area)`
+
 | dice: d10 | Configuration |
 |-----------|---------------|
 | 1 | Square, 20 × 20 ft.; passage on each wall |

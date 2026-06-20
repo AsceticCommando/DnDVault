@@ -12,6 +12,8 @@ aliases:
 
 **Moonstone Dragon Art Objects**
 
+`dice: [](moonstone-dragon-treasures-moonstone-dragon-art-objects-ftd.md#^moonstone-dragon-art-objects)`
+
 | dice: d8 | Object |
 |----------|--------|
 | 1 | A statue of a beautiful Fey who appears to be laughing, crying, or scowling, depending on the viewer's mood; the dragon requires all who visit to describe the face and sends away anyone who sees an angry visage |

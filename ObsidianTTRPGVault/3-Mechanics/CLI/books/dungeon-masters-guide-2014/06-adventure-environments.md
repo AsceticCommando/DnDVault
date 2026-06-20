@@ -20,6 +20,8 @@ Villages, towns, and cities are cradles of civilization in a dangerous world, bu
 
 This chapter provides an overview of these three environments plus a few unusual environments, taking you through the process of creating an adventure location, with plenty of random tables to inspire you.
 
+![](file://book/DMG/5-1.webp#center)
+
 ## Dungeons
 
 Some dungeons are old strongholds abandoned by the folk who built them. Others are natural caves or weird lairs carved out by foul monsters. They attract evil cults, monster tribes, and reclusive creatures. Dungeons are also home to ancient treasures: coins, gems, magic items, and other valuables hidden away in the darkness, often guarded by traps or jealously kept by the monsters that have collected them.
@@ -57,6 +59,8 @@ The Dungeon Creator table includes creatures that typically build dungeons. You 
 Except in the case of a natural cavern, a dungeon is crafted and inhabited for a specific purpose that influences its design and features. You can choose a purpose from the Dungeon Purpose table, roll one at random, or use your own ideas.
 
 ![Dungeon Purpose](3-Mechanics/CLI/tables/dungeon-purpose.md)
+
+![](file://book/DMG/5-2.webp#center)
 
 ##### Death Trap
 
@@ -153,6 +157,8 @@ If you need help creating a dungeon map from scratch, see appendix A.
 
 The atmosphere and physical characteristics of dungeons vary as widely as their origins. An old crypt might have stone walls and loose wooden doors, an odor of decay, and no light other than what adventurers bring with them. A volcanic lair might have smooth stone walls hollowed out by past eruptions, doors of magically reinforced brass, a smell of sulfur, and light provided by jets of flame in every hall and room.
 
+![](file://book/DMG/5-3.webp#center)
+
 #### Walls
 
 Some dungeons have walls of masonry. Others have walls of solid rock, hewn with tools to give them a rough, chiseled look, or worn smooth by the passage of water or lava. An aboveground dungeon might be made of wood or composite materials.
@@ -167,9 +173,11 @@ Dungeon doorways might be set within plain arches and lintels. They might be fes
 
 Dungeon doors often become stuck when not used frequently. Opening a stuck door requires a successful Strength check. Chapter 8, "Running the Game," provides guidelines for setting the DC.
 
+![](file://book/DMG/5-4.webp#center)
+
 ##### Locked Doors
 
-Characters who don't have the key to a locked door can pick the lock with a successful Dexterity check (doing so requires [thieves' tools](3-Mechanics/CLI/items/thieves-tools.md) and proficiency in their use). They can also force the door with a successful Strength check, smash the door to pieces by dealing enough damage to it, or use a knock spell or similar magic. Chapter 8 provides guidelines for setting the DCs and assigning statistics to doors and other objects.
+Characters who don't have the key to a locked door can pick the lock with a successful Dexterity check (doing so requires [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md) and proficiency in their use). They can also force the door with a successful Strength check, smash the door to pieces by dealing enough damage to it, or use a knock spell or similar magic. Chapter 8 provides guidelines for setting the DCs and assigning statistics to doors and other objects.
 
 ##### Barred Doors
 
@@ -265,6 +273,8 @@ A good way to keep wilderness encounters from becoming stale is to make sure the
 
 Reward characters for searching while they travel by providing things for them to find. Broken statues, tracks, abandoned campsites, and other finds can add flavor to your world, foreshadow future encounters or events, or provide hooks for further adventures. A wilderness journey might take multiple sessions to play out. That said, if the wilderness journey includes long periods with no encounters, use the travel-montage approach to bridge gaps between encounters.
 
+![](file://book/DMG/5-5.webp#center)
+
 ## Mapping a Wilderness
 
 In contrast to a dungeon, an outdoor setting presents seemingly limitless options. The adventurers can move in any direction over a trackless desert or an open grassland, so how do you as the DM deal with all the possible locations and events that might make up a wilderness campaign? What if you design an encounter in a desert oasis, but the characters miss the oasis because they wander off course? How do you avoid creating a boring play session of uninterrupted slogging across a rocky wasteland?
@@ -325,11 +335,13 @@ Adventuring in the wilderness presents a host of perils beyond the threats of mo
 
 You can pick weather to fit your campaign or roll on the Weather table to determine the weather for a given day, adjusting for the terrain and season as appropriate.
 
-![Weather](3-Mechanics/CLI/tables/weather.md)
+![Weather](3-Mechanics/CLI/tables/weather-xdmg.md)
 
 ![Weather; Wind](3-Mechanics/CLI/tables/weather-wind.md)
 
-![Weather; Precipitation](3-Mechanics/CLI/tables/weather-precipitation.md)
+![Weather; Precipitation](3-Mechanics/CLI/tables/weather-xdmg.md)
+
+![](file://book/DMG/5-6.webp#center)
 
 #### Extreme Cold
 
@@ -357,6 +369,8 @@ Traveling at altitudes of 10,000 feet or higher above sea level is taxing for a 
 
 Breathing creatures can become acclimated to a high altitude by spending 30 days or more at this elevation. Breathing creatures can't become acclimated to elevations above 20,000 feet unless they are native to such environments.
 
+![](file://book/DMG/5-7.webp#center)
+
 ### Wilderness Hazards
 
 This section describes a few examples of hazards that adventurers might encounter in the wilderness.
@@ -367,11 +381,11 @@ The other hazards presented here can be identified with a successful Intelligenc
 
 #### Desecrated Ground
 
-Some cemeteries and catacombs are imbued with the unseen traces of ancient evil. An area of desecrated ground can be any size, and a [detect evil and good](3-Mechanics/CLI/spells/detect-evil-and-good.md) spell cast within range reveals its presence.
+Some cemeteries and catacombs are imbued with the unseen traces of ancient evil. An area of desecrated ground can be any size, and a [detect evil and good](3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md) spell cast within range reveals its presence.
 
 Undead standing on desecrated ground have advantage on all saving throws.
 
-A vial of [holy water](3-Mechanics/CLI/items/holy-water-flask.md) purifies a 10-foot-square area of desecrated ground when sprinkled on it, and a [hallow](3-Mechanics/CLI/spells/hallow.md) spell purifies desecrated ground within its area.
+A vial of [holy water](3-Mechanics/CLI/items/holy-water-xphb.md) purifies a 10-foot-square area of desecrated ground when sprinkled on it, and a [hallow](3-Mechanics/CLI/spells/hallow-xphb.md) spell purifies desecrated ground within its area.
 
 #### Frigid Water
 
@@ -379,7 +393,7 @@ A creature can be immersed in frigid water for a number of minutes equal to its 
 
 #### Quicksand
 
-A quicksand pit covers the ground in roughly a 10-foot square area and is usually 10 feet deep. When a creature enters the area, it sinks `1d4+1` feet into the quicksand and becomes [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained). At the start of each of the creature's turns, it sinks another `1d4` feet. As long as the creature isn't completely submerged in quicksand, it can escape by using its action and succeeding on a Strength check. The DC is 10 plus the number of feet the creature has sunk into the quicksand. A creature that is completely submerged in quicksand can't breathe (see the "suffocation" rules in the *Player's Handbook*).
+A quicksand pit covers the ground in roughly a 10-foot square area and is usually 10 feet deep. When a creature enters the area, it sinks `dice:1d4+1|noform|noparens|avg` (`1d4+1`) feet into the quicksand and becomes [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained). At the start of each of the creature's turns, it sinks another `dice:1d4|noform|noparens|avg` (`1d4`) feet. As long as the creature isn't completely submerged in quicksand, it can escape by using its action and succeeding on a Strength check. The DC is 10 plus the number of feet the creature has sunk into the quicksand. A creature that is completely submerged in quicksand can't breathe (see the "suffocation" rules in the *Player's Handbook*).
 
 A creature can pull another creature within its reach out of a quicksand pit by using its action and succeeding on a Strength check. The DC is 5 plus the number of feet the target creature has sunk into the quicksand.
 
@@ -387,7 +401,7 @@ A creature can pull another creature within its reach out of a quicksand pit by 
 
 Razorvine is a plant that grows in wild tangles and hedges. It also clings to the sides of buildings and other surfaces as ivy does. A 10-foot-high, 10-foot-wide, 5-foot-thick wall or hedge of razorvine has AC 11, 25 hit points, and immunity to bludgeoning, piercing, and psychic damage.
 
-When a creature comes into direct contact with razorvine for the first time on a turn, the creature must succeed on a DC 10 Dexterity saving throw or take 5 (`1d10`) slashing damage from the razorvine's bladelike thorns.
+When a creature comes into direct contact with razorvine for the first time on a turn, the creature must succeed on a DC 10 Dexterity saving throw or take `dice:1d10|noform|noparens|avg|text(5)` (`1d10`) slashing damage from the razorvine's bladelike thorns.
 
 #### Slippery Ice
 
@@ -403,7 +417,7 @@ Characters can gather food and water as the party travels at a normal or slow pa
 
 ![Foraging DCs](3-Mechanics/CLI/tables/foraging-dcs.md)
 
-If multiple characters forage, each character makes a separate check. A foraging character finds nothing on a failed check. On a successful check, roll `1d6` + the character's Wisdom modifier to determine how much food (in pounds) the character finds, then repeat the roll for water (in gallons).
+If multiple characters forage, each character makes a separate check. A foraging character finds nothing on a failed check. On a successful check, roll `dice:1d6|noform|noparens|avg` (`1d6`) + the character's Wisdom modifier to determine how much food (in pounds) the character finds, then repeat the roll for water (in gallons).
 
 #### Food and Water
 
@@ -415,7 +429,7 @@ The food and water requirements noted in the Player's Handbook are for character
 
 Unless they are following a path, or something like it, adventurers traveling in the wilderness run the risk of becoming lost. The party's navigator makes a Wisdom ([Survival](3-Mechanics/CLI/rules/skills.md#Survival)) check when you decide it's appropriate, against a DC determined by the prevailing terrain, as shown on the Wilderness Navigation table. If the party is moving at a slow pace, the navigator gains a +5 bonus to the check, and a fast pace imposes a -5 penalty. If the party has an accurate map of the region or can see the sun or stars, the navigator has advantage on the check.
 
-If the Wisdom ([Survival](3-Mechanics/CLI/rules/skills.md#Survival)) check succeeds, the party travels in the desired direction without becoming lost. If the check fails, the party inadvertently travels in the wrong direction and becomes lost. The party's navigator can repeat the check after the party spends `1d6` hours trying to get back on course.
+If the Wisdom ([Survival](3-Mechanics/CLI/rules/skills.md#Survival)) check succeeds, the party travels in the desired direction without becoming lost. If the check fails, the party inadvertently travels in the wrong direction and becomes lost. The party's navigator can repeat the check after the party spends `dice:1d6|noform|noparens|avg` (`1d6`) hours trying to get back on course.
 
 ![Becoming Lost; Wilderness Navigation](3-Mechanics/CLI/tables/becoming-lost-wilderness-navigation.md)
 
@@ -428,6 +442,8 @@ When creating a settlement for your campaign, focus on the locations that are mo
 ### Random Settlements
 
 The following tables allow you to quickly create a settlement. They assume that you've already determined its size and its basic form of government.
+
+![](file://book/DMG/5-8.webp#center)
 
 ![Random Settlements; Race Relations](3-Mechanics/CLI/tables/random-settlements-race-relations.md)
 
@@ -467,6 +483,8 @@ For a village, sketch out the roads, including trade routes leading beyond the v
 
 For towns and cities, note major roads and waterways as well as surrounding terrain. Outline the walls and mark the locations of features you know will be important: the lord's keep, significant temples, and the like. For cities, add internal walls and think about the personality of each ward. Give the wards names reflecting their personalities, which also identify the kinds of trades that dominate the neighborhood (Tannery Square, Temple Row), a geographical characteristic (Hilltop, Riverside), or a dominant site (the Lords' Quarter).
 
+![](file://book/DMG/5-9.webp#center)
+
 ## Urban Encounters
 
 Although they hold the promise of safety, cities and towns can be just as dangerous as the darkest dungeon. Evil hides in plain sight or in dark corners. Sewers, shadowy alleys, slums, smoke-filled taverns, dilapidated tenements, and crowded marketplaces can quickly turn into battlegrounds. On top of that, adventurers must learn to behave themselves, lest they attract unwanted attention from local authorities.
@@ -505,7 +523,7 @@ A brawl erupts near the adventurers. It could be a tavern brawl; a battle betwee
 
 #### Bullies
 
-The characters witness `1d4 + 2` bullies harassing an out-of-towner (use the commoner statistics in the Monster Manual for all of them). A bully flees as soon as he or she takes any amount of damage.
+The characters witness `dice:1d4+2|noform|noparens|avg` (`1d4 + 2`) bullies harassing an out-of-towner (use the commoner statistics in the Monster Manual for all of them). A bully flees as soon as he or she takes any amount of damage.
 
 #### Companion
 
@@ -535,11 +553,11 @@ A fire breaks out, and the characters have a chance to help put out the flames b
 
 The characters find a random trinket.
 
-You can determine the trinket by rolling on the [Trinkets table](3-Mechanics/CLI/items/trinket.md) in the *Player's Handbook*.
+You can determine the trinket by rolling on the [Trinkets table](3-Mechanics/CLI/items/trinket-xphb.md) in the *Player's Handbook*.
 
 #### Guard Harassment
 
-The adventurers are cornered by `1d4 + 1` guards eager to throw their weight around. If threatened, the guards call out for help and might attract the attention of other guards or citizens nearby.
+The adventurers are cornered by `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) guards eager to throw their weight around. If threatened, the guards call out for help and might attract the attention of other guards or citizens nearby.
 
 #### Pickpocket
 
@@ -584,6 +602,8 @@ See chapter 9 of the Player's Handbook for rules on underwater combat.
 You can check for random undersea encounters as often as you would check for them on land (see chapter 3). The Random Undersea Encounters table presents several intriguing options. You can either roll on the table for a random result or choose whichever one works best.
 
 ![Random Undersea Encounters](3-Mechanics/CLI/tables/random-undersea-encounters.md)
+
+![](file://book/DMG/5-10.webp#center)
 
 #### Swimming
 
@@ -632,6 +652,8 @@ If weather conditions indicate both a strong wind and heavy rain, they combine t
 
 In a dead calm (no wind), ships can't move under sail and must be rowed. A ship sailing against a strong wind moves at half speed.
 
+![](file://book/DMG/5-11.webp#center)
+
 #### Visibility
 
 A relatively calm sea offers great visibility. From a crow's nest, a lookout can spot another ship or a coastline up to 10 miles away, assuming clear skies. Overcast skies reduce that distance by half. Rain and fog reduce visibility just as they do on land.
@@ -678,6 +700,8 @@ As adventurers travel through the air, check for random encounters as you normal
 
 Characters have normal chances to spot creatures on the ground and can decide whether to engage them.
 
+![](file://book/DMG/5-12.webp#center)
+
 ## Traps
 
 Traps can be found almost anywhere. One wrong step in an ancient tomb might trigger a series of scything blades, which cleave through armor and bone. The seemingly innocuous vines that hang over a cave entrance might grasp and choke anyone who pushes through them. A net hidden among the trees might drop on travelers who pass underneath. In the D&D game, unwary adventurers can fall to their deaths, be burned alive, or fall under a fusillade of poisoned darts.
@@ -696,7 +720,9 @@ Most traps are triggered when a creature goes somewhere or touches something tha
 
 Usually, some element of a trap is visible to careful inspection. Characters might notice an uneven flagstone that conceals a pressure plate, spot the gleam of light off a trip wire, notice small holes in the walls from which jets of flame will erupt, or otherwise detect something that points to a trap's presence.
 
-A trap's description specifies the checks and DCs needed to detect it, disable it, or both. A character actively looking for a trap can attempt a Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check against the trap's DC. You can also compare the DC to detect the trap with each character's passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score to determine whether anyone in the party notices the trap in passing. If the adventurers detect a trap before triggering it, they might be able to disarm it, either permanently or long enough to move past it. You might call for an Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check for a character to deduce what needs to be done, followed by a Dexterity check using [thieves' tools](3-Mechanics/CLI/items/thieves-tools.md) to perform the necessary sabotage.
+![](file://book/DMG/5-13.webp#center)
+
+A trap's description specifies the checks and DCs needed to detect it, disable it, or both. A character actively looking for a trap can attempt a Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check against the trap's DC. You can also compare the DC to detect the trap with each character's passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score to determine whether anyone in the party notices the trap in passing. If the adventurers detect a trap before triggering it, they might be able to disarm it, either permanently or long enough to move past it. You might call for an Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check for a character to deduce what needs to be done, followed by a Dexterity check using [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md) to perform the necessary sabotage.
 
 Any character can attempt an Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check to detect or disarm a magic trap, in addition to any other checks noted in the trap's description. The DCs are the same regardless of the check used. In addition, dispel magic has a chance of disabling most magic traps. A magic trap's description provides the DC for the ability check made when you use dispel magic.
 
@@ -727,6 +753,8 @@ Complex traps work like standard traps, except once activated they execute a ser
 When a complex trap activates, it rolls initiative. The trap's description includes an initiative bonus. On its turn, the trap activates again, often taking an action. It might make successive attacks against intruders, create an effect that changes over time, or otherwise produce a dynamic challenge. Otherwise, the complex trap can be detected and disabled or bypassed in the usual ways.
 
 For example, a trap that causes a room to slowly flood works best as a complex trap. On the trap's turn, the water level rises. After several rounds, the room is completely flooded.
+
+![](file://book/DMG/5-14.webp#center)
 
 ### Sample Traps
 

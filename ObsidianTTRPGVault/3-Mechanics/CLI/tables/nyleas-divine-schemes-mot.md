@@ -12,6 +12,8 @@ aliases:
 
 **Nylea's Divine Schemes**
 
+`dice: [](nyleas-divine-schemes-mot.md#^nyleas-divine-schemes)`
+
 | dice: d4 | Scheme |
 |----------|--------|
 | 1 | When the polis of Meletis expands, clearing new land for houses and crops, Nylea decides to punish the polis and destroy it if necessary. Animated trees topple the walls, and Nyxborn beasts invade the city. |

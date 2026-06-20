@@ -12,6 +12,8 @@ aliases:
 
 **Githzerai Bonds**
 
+`dice: [](gith-tables-githzerai-bonds-mtf.md#^githzerai-bonds)`
+
 | dice: d4 | Bond |
 |----------|------|
 | 1 | Zerthimon provides an example of conduct that I strive to duplicate. |

@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Raggadragga"
 ---
-# [Raggadragga](3-Mechanics\CLI\bestiary\npc/raggadragga-bgdia.md)
+# [Raggadragga](3-Mechanics/CLI/bestiary/npc/raggadragga-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 87*  
 
 ```statblock
@@ -41,7 +41,7 @@ aliases:
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't silvered"
 "gear":
-  - "[maul](3-Mechanics/CLI/items/maul.md)"
+  - "[maul](3-Mechanics/CLI/items/maul-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Common (can't speak in boar form)"
 "cr": "4"
@@ -67,10 +67,10 @@ aliases:
     "name": "Maul (Humanoid or Hybrid Form Only)"
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (2d6 + 3) slashing damage. If the target is a humanoid, it must succeed on\
-      \ a DC 12 Constitution saving throw or be cursed with wereboar lycanthropy."
+      \ a DC 12 Constitution saving throw or be cursed with wereboar [lycanthropy](3-Mechanics/CLI/rules/variant-rules/player-characters-as-lycanthropes-mm.md)."
     "name": "Tusks (Boar or Hybrid Form Only)"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/raggadragga-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Raggadragga.webp"
 ```
 ^statblock

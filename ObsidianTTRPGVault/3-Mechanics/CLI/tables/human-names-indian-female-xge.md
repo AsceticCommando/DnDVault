@@ -12,6 +12,8 @@ aliases:
 
 **Human Names – Indian, Female**
 
+`dice: [](human-names-indian-female-xge.md#^human-names-indian-female)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Abha |

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Dire Corby"
 ---
-# [Dire Corby](3-Mechanics\CLI\bestiary\humanoid/dire-corby-mff.md)
+# [Dire Corby](3-Mechanics/CLI/bestiary/humanoid/dire-corby-mff.md)
 *Source: Mordenkainen's Fiendish Folio p. 7*  
 
 Heralded by the ominous, deep rumbling of their strange song, great packs of dire corbies range across the Underdark, stripping the tunnels and caverns they traverse of all living things. Even the mightiest creatures of the Underdark hide within fortified lairs or step aside from a dire corby flock, knowing of how these creatures' bizarre song disrupts, disorients, and ultimately overwhelms their prey.
@@ -79,6 +79,6 @@ As old pathways become impassable or a flock sustains heavy losses in a particul
     "name": "Claw"
 "source":
   - "MFF"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/dire-corby-mff.webp"
+"image": "file://bestiary/tokens/MFF/Dire%20Corby.webp"
 ```
 ^statblock

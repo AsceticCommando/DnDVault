@@ -12,6 +12,8 @@ aliases:
 
 **Sentient Magic Item Senses**
 
+`dice: [](sentient-magic-item-senses.md#^sentient-magic-item-senses)`
+
 | dice: d4 | Senses |
 |----------|--------|
 | 1 | Hearing and normal vision out to 30 feet. |

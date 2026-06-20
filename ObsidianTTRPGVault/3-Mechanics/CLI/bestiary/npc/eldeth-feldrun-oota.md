@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Eldeth Feldrun"
 ---
-# [Eldeth Feldrun](3-Mechanics\CLI\bestiary\npc/eldeth-feldrun-oota.md)
+# [Eldeth Feldrun](3-Mechanics/CLI/bestiary/npc/eldeth-feldrun-oota.md)
 *Source: Out of the Abyss p. 6*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "13"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "16"
 "hit_dice": "3d8 + 3"
 "modifier": !!int "2"
@@ -45,8 +45,8 @@ aliases:
     "desc": "+5"
 "damage_resistances": "poison"
 "gear":
-  - "[longbow](3-Mechanics/CLI/items/longbow.md)"
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[longbow](3-Mechanics/CLI/items/longbow-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 15"
 "languages": "any one language (usually Common), Dwarvish"
@@ -68,6 +68,6 @@ aliases:
     "name": "Longbow"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/eldeth-feldrun-oota.webp"
+"image": "file://bestiary/tokens/OotA/Eldeth%20Feldrun.webp"
 ```
 ^statblock

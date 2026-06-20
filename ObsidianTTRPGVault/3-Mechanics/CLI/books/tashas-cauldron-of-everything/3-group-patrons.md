@@ -14,7 +14,7 @@ Each adventuring group is bound together by the quests it embarks on and by the 
 
 During character creation, every player has the opportunity to weave connections between their character and the other members of their party. Rather than (or in addition to) creating a web of established relationships, players can work with the DM to choose a group patron. And if you're interested in being your own patron, see the "Being Your Own Patron" section at the end of the chapter.
 
-![A group of wizards pledges...](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/059-02-001.webp#center "A group of wizards pledges themselves to their patron, Tasha, the Witch Queen")
+![A group of wizards pledges themselves to their patron, Tasha, the Witch Queen](file://book/TCE/059-02-001.webp#center)
 
 ## How Patrons Work
 
@@ -67,7 +67,7 @@ Roll or pick from the Academy Type table to determine the institution with which
 
 ![Academy Type](3-Mechanics/CLI/tables/academy-type-tce.md)
 
-![Wizardly boyfriends relax ...](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/060-02-002.webp#center "Wizardly boyfriends relax while their classmates practice magic at an arcane enclave")
+![Wizardly boyfriends relax while their classmates practice magic at an arcane enclave](file://book/TCE/060-02-002.webp#center)
 
 #### Academy Perks
 
@@ -137,11 +137,11 @@ Roll or pick from the Ancient Being table to determine the being your group serv
 
 With the ancient being as your group's patron, you gain the following perks.
 
-![Azalin, the lich, spies on Castle Ravenloft](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/061-02-003.webp#center)
+![Azalin, the lich, spies on Castle Ravenloft](file://book/TCE/061-02-003.webp#center)
 
 ##### Equipment
 
-Your patron's network has access to certain magic items. You can purchase common magic items from your patron contact. The DM determines the available stock or can call for a group Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check to ascertain if the ancient being's network can successfully locate a desired item. The DC for this check is 10 in a city, 15 in a town, and 20 in a village. If the check fails, `1d8` days must pass before the same item can be searched for again in that community.
+Your patron's network has access to certain magic items. You can purchase common magic items from your patron contact. The DM determines the available stock or can call for a group Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check to ascertain if the ancient being's network can successfully locate a desired item. The DC for this check is 10 in a city, 15 in a town, and 20 in a village. If the check fails, `dice:1d8|noform|noparens|avg` (`1d8`) days must pass before the same item can be searched for again in that community.
 
 The DM sets the price of a common magic item or determines it randomly: `2d4 × 10` gp, or half as much for a consumable item such as a potion or scroll.
 
@@ -199,7 +199,7 @@ Roll or pick from the Aristocrat Types table to determine what kind of noble you
 
 With an aristocrat as your group's patron, you gain the following perks.
 
-![A Wood Elf Aristocrat](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/062-02-004.webp#center)
+![A Wood Elf Aristocrat](file://book/TCE/062-02-004.webp#center)
 
 ##### Expenses
 
@@ -291,7 +291,7 @@ Roll or pick from the Syndicate Contact table to determine your contact within a
 
 ![Criminal Syndicate Contact; Syndicate Contact](3-Mechanics/CLI/tables/criminal-syndicate-contact-syndicate-contact-tce.md)
 
-![Ott Steeltoes holds aloft ...](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/063-02-005.webp#center "Ott Steeltoes holds aloft Sylgar, the infamous fish of the crime lord Xanathar")
+![Ott Steeltoes holds aloft Sylgar, the infamous fish of the crime lord Xanathar](file://book/TCE/063-02-005.webp#center)
 
 #### Criminal Syndicate Members
 
@@ -325,7 +325,7 @@ Roll or pick from the Guild Types table to determine the general sort of organiz
 
 ![Guild Types](3-Mechanics/CLI/tables/guild-types-tce.md)
 
-![A hero fights the bullywug...](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/064-02-006.webp#center "A hero fights the bullywug who guards the villainous master of the bakers' guild")
+![A hero fights the bullywug who guards the villainous master of the bakers' guild](file://book/TCE/064-02-006.webp#center)
 
 #### Guild Perks
 
@@ -391,7 +391,7 @@ Roll or pick from the Military Force Types table to determine the general type o
 
 With a military force as your group's patron, you gain the following perks.
 
-![A Dragonborn Messenger of ...](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/065-02-007.webp#center "A Dragonborn Messenger of the Purple Dragon Knights")
+![A Dragonborn Messenger of the Purple Dragon Knights](file://book/TCE/065-02-007.webp#center)
 
 ##### Armory
 
@@ -453,7 +453,7 @@ Roll or pick from the Religious Order Types table to determine the type of relig
 
 ![Religious Order Types](3-Mechanics/CLI/tables/religious-order-types-tce.md)
 
-![Acolytes prepare for a couatl festival](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/066-02-008.webp#center)
+![Acolytes prepare for a couatl festival](file://book/TCE/066-02-008.webp#center)
 
 #### Religious Order Perks
 
@@ -515,7 +515,7 @@ Roll or pick from the Sovereign Types table to determine what sort of liege you 
 
 #### Sovereign Perks
 
-![A Merfolk Sovereign](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/067-02-009.webp#center)
+![A Merfolk Sovereign](file://book/TCE/067-02-009.webp#center)
 
 With the sovereign as your group's patron, you gain the following perks.
 
@@ -561,7 +561,7 @@ The Sovereign Quests table presents a few of the sorts of missions you undertake
 
 ## Being Your Own Patron
 
-![In the city of Sigil, Guil...](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/068-02-010.webp#center "In the city of Sigil, Guildmaster Rhys realizes that finding capable recruits is one of the main challenges of being a patron")
+![In the city of Sigil, Guildmaster Rhys realizes that finding capable recruits is one of the main challenges of being a patron](file://book/TCE/068-02-010.webp#center)
 
 For some players, the idea of running a crime syndicate, mercenary company, arcane scholars' collective, or other organization is far more exciting than working for someone else. Founding your own organization offers a greater degree of autonomy, though potentially at the cost of support and reliable work.
 

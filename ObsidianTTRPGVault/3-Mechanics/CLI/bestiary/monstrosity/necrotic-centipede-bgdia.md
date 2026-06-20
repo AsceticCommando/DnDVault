@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Necrotic Centipede"
 ---
-# [Necrotic Centipede](3-Mechanics\CLI\bestiary\monstrosity/necrotic-centipede-bgdia.md)
+# [Necrotic Centipede](3-Mechanics/CLI/bestiary/monstrosity/necrotic-centipede-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 119*  
 
 ```statblock
@@ -64,6 +64,6 @@ aliases:
     "name": "Swallow"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/necrotic-centipede-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Necrotic%20Centipede.webp"
 ```
 ^statblock

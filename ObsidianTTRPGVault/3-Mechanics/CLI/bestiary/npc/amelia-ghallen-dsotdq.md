@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Amelia Ghallen"
 ---
-# [Amelia Ghallen](3-Mechanics\CLI\bestiary\npc/amelia-ghallen-dsotdq.md)
+# [Amelia Ghallen](3-Mechanics/CLI/bestiary/npc/amelia-ghallen-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 180*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "human"
 "alignment": "Neutral Good"
 "ac": !!int "17"
-"ac_class": "[splint armor](3-Mechanics/CLI/items/splint-armor.md)"
+"ac_class": "[splint armor](3-Mechanics/CLI/items/splint-armor-xphb.md)"
 "hp": !!int "58"
 "hit_dice": "9d8 + 18"
 "modifier": !!int "1"
@@ -40,9 +40,9 @@ aliases:
   - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
 "gear":
-  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow.md)"
-  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow-xphb.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "any one language (usually Common)"
 "cr": "3"
@@ -61,6 +61,6 @@ aliases:
     "name": "Heavy Crossbow"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/npc/token/amelia-ghallen-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Amelia%20Ghallen.webp"
 ```
 ^statblock

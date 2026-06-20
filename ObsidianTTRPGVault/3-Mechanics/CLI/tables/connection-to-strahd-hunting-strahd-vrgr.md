@@ -12,6 +12,8 @@ aliases:
 
 **Hunting Strahd**
 
+`dice: [](connection-to-strahd-hunting-strahd-vrgr.md#^hunting-strahd)`
+
 | dice: d10 | Hunting Method |
 |-----------|----------------|
 | 1 | The incarnation seeks to become the greatest monster hunter ever, training constantly so they're prepared when Strahd eventually appears. |

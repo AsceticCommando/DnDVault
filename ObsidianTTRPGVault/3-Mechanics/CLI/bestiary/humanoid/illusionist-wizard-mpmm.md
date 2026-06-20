@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Illusionist Wizard"
 ---
-# [Illusionist Wizard](3-Mechanics\CLI\bestiary\humanoid/illusionist-wizard-mpmm.md)
+# [Illusionist Wizard](3-Mechanics/CLI/bestiary/humanoid/illusionist-wizard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 263, Volo's Guide to Monsters p. 214*  
 
 Illusionists twist light, sound, and even thought to create illusory effects. Some illusionists are delightful entertainers, while others are devilish tricksters.
@@ -28,7 +28,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "12"
-"ac_class": "15 with [mage armor](3-Mechanics/CLI/spells/mage-armor.md)"
+"ac_class": "15 with [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
 "hp": !!int "44"
 "hit_dice": "8d8 + 8"
 "modifier": !!int "2"
@@ -58,12 +58,12 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
       \ ft., one target. *Hit:* 14 (2d10 + 3) psychic damage."
     "name": "Arcane Burst"
   - "desc": "The illusionist casts one of the following spells, using Intelligence\
-      \ as the spellcasting ability (spell save DC 13):\n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md),\
-      \ [mage hand](3-Mechanics/CLI/spells/mage-hand.md), [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md)\n\
-      \n**2/day each:** [disguise self](3-Mechanics/CLI/spells/disguise-self.md),\
-      \ [invisibility](3-Mechanics/CLI/spells/invisibility.md), [mage armor](3-Mechanics/CLI/spells/mage-armor.md),\
-      \ [major image](3-Mechanics/CLI/spells/major-image.md), [phantasmal force](3-Mechanics/CLI/spells/phantasmal-force.md),\
-      \ [phantom steed](3-Mechanics/CLI/spells/phantom-steed.md)"
+      \ as the spellcasting ability (spell save DC 13):\n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\
+      \n**2/day each:** [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md),\
+      \ [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md), [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md),\
+      \ [major image](3-Mechanics/CLI/spells/major-image-xphb.md), [phantasmal force](3-Mechanics/CLI/spells/phantasmal-force-xphb.md),\
+      \ [phantom steed](3-Mechanics/CLI/spells/phantom-steed-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The illusionist projects an illusion that makes the illusionist appear\
@@ -76,7 +76,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/illusionist-wizard-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Illusionist%20Wizard.webp"
 ```
 ^statblock
 

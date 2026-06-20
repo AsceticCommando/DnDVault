@@ -14,7 +14,7 @@ When the domain of Prismeer was divided among the hags of the Hourglass Coven, [
 
 Deep in Hither is Downfall, a shantytown built around an ancient well. Bullywugs occupy this settlement, which surrounds Bavlorna's ghastly cottage.
 
-![Adventurers escape in one ...](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/035-02-001-chapter-splash.webp#center "Adventurers escape in one of Bavlorna Blightstraw's swamp gas balloons")
+![Adventurers escape in one of Bavlorna Blightstraw's swamp gas balloons](file://adventure/WBtW/035-02-001.chapter-splash.webp#center)
 
 ## Running This Chapter
 
@@ -52,7 +52,7 @@ Prismeer was a single Feywild domain until the Hourglass Coven broke it into thr
 
 General information about Prismeer is presented in this chapter, since Hither is where the characters take their first steps in this fractured Feywild domain.
 
-![The Domain of Prismeer](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/036-map-2-1.webp#center)
+![The Domain of Prismeer](file://adventure/WBtW/036-map-2.1.webp#center)
 
 ### A Domain Divided
 
@@ -60,7 +60,7 @@ The poster map of Prismeer shows the Feywild domain divided into four sections: 
 
 The hags of the Hourglass Coven and their minions can travel freely between Hither, Thither, Yon, and the Palace of Heart's Desire simply by walking into or flying over the border mist, whereupon they are instantly transported to the border of whichever part of Prismeer contains their intended destination. Most other creatures—including the characters—are forbidden from leaving one part of Prismeer and entering another. Upon reaching the edge of Hither, Thither, Yon, or the palace, they find all paths forward blocked by the mist, which disorients them and sends them back the way they came. Those who try to fly above the mist never get where they intend to go, their destination always appearing to be miles away.
 
-The outer borders of Prismeer are blocked by similar walls of mist through which no creature can pass without Zybilna's consent (which she can't give while frozen in time). Even the hags of the Hourglass Coven are bound by this restriction; they must use [plane shift](3-Mechanics/CLI/spells/plane-shift.md) spells to leave Prismeer or reenter it. Other creatures capable of casting the spell can do the same.
+The outer borders of Prismeer are blocked by similar walls of mist through which no creature can pass without Zybilna's consent (which she can't give while frozen in time). Even the hags of the Hourglass Coven are bound by this restriction; they must use [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md) spells to leave Prismeer or reenter it. Other creatures capable of casting the spell can do the same.
 
 ### Friendly Guides
 
@@ -102,6 +102,8 @@ If Zybilna is released from her temporal stasis, the ability of other creatures 
 
 **Domain Transformation**
 
+`dice: [](03-hither.md#^domain-transformation)`
+
 | dice: d8 | Reaction to a Positive Emotion | Reaction to a Negative Emotion |
 |----------|--------------------------------|--------------------------------|
 | 1 | Birds sing or crickets chirp merrily nearby. | Wood creaks and groans nearby. |
@@ -110,23 +112,25 @@ If Zybilna is released from her temporal stasis, the ability of other creatures 
 | 4 | An inanimate object nearby appears to smile. | An inanimate object nearby appears to frown. |
 | 5 | Clouds shaped like little hearts appear in the sky above you. | A cloud above you takes the form of an old woman's sad face. |
 | 6 | A gentle breeze carries a sweet scent. | A chill wind carries a rotten stench. |
-| 7 | The croak of a nearby [frog](3-Mechanics/CLI/bestiary/beast/frog.md) sounds an awful lot like "I love you." | A nearby [raven](3-Mechanics/CLI/bestiary/beast/raven.md) mocks you by imitating the sound of a baby crying. |
-| 8 | You find a golden acorn. If you bury it in the ground, an [awakened shrub](3-Mechanics/CLI/bestiary/plant/awakened-shrub.md) that is friendly toward you instantly sprouts from the ground in that spot. | You find a golden acorn. If you bury it in the ground, a [twig blight](3-Mechanics/CLI/bestiary/plant/twig-blight.md) that is hostile toward you instantly sprouts from the ground in that spot. |
+| 7 | The croak of a nearby [frog](3-Mechanics/CLI/bestiary/beast/frog-xmm.md) sounds an awful lot like "I love you." | A nearby [raven](3-Mechanics/CLI/bestiary/beast/raven-xmm.md) mocks you by imitating the sound of a baby crying. |
+| 8 | You find a golden acorn. If you bury it in the ground, an [awakened shrub](3-Mechanics/CLI/bestiary/plant/awakened-shrub-xmm.md) that is friendly toward you instantly sprouts from the ground in that spot. | You find a golden acorn. If you bury it in the ground, a [twig blight](3-Mechanics/CLI/bestiary/plant/twig-blight-xmm.md) that is hostile toward you instantly sprouts from the ground in that spot. |
 ^domain-transformation
 
 ### Death in Prismeer
 
-Whenever a creature—including a player character—dies in Prismeer, its death has a chance of triggering one of several magical effects put in place by Zybilna. The effect is determined by rolling a `d8` and referring to the Death Effects table.
+Whenever a creature—including a player character—dies in Prismeer, its death has a chance of triggering one of several magical effects put in place by Zybilna. The effect is determined by rolling a `dice:d8|noform|noparens|avg` (`d8`) and referring to the Death Effects table.
 
 **Death Effects**
+
+`dice: [](03-hither.md#^death-effects)`
 
 | dice: d8 | Effect |
 |----------|--------|
 | 1 | The creature's corpse turns to stone. |
 | 2 | The creature's corpse decays at an accelerated rate, becoming nothing but bones after 1 minute. |
 | 3–6 | No additional effect. |
-| 7 | The creature's corpse is preserved for 10 days, as though affected by a [gentle repose](3-Mechanics/CLI/spells/gentle-repose.md) spell. While preserved in this way, the corpse is encased in an opalescent film like the skin of a bubble. Any further damage to the corpse breaks the spell. |
-| 8 | The creature instantly returns to life with 1 hit point, as though affected by a [revivify](3-Mechanics/CLI/spells/revivify.md) spell. |
+| 7 | The creature's corpse is preserved for 10 days, as though affected by a [gentle repose](3-Mechanics/CLI/spells/gentle-repose-xphb.md) spell. While preserved in this way, the corpse is encased in an opalescent film like the skin of a bubble. Any further damage to the corpse breaks the spell. |
+| 8 | The creature instantly returns to life with 1 hit point, as though affected by a [revivify](3-Mechanics/CLI/spells/revivify-xphb.md) spell. |
 ^death-effects
 
 ### Foraging in Prismeer
@@ -137,6 +141,8 @@ Foraging for food is even easier. Any character who spends at least 1 hour forag
 
 **Feywild Treats**
 
+`dice: [](03-hither.md#^feywild-treats)`
+
 | dice: d8 | Treats |
 |----------|--------|
 | 1 | Three gingerbread cookies shaped like elves and stacked on a wooden plate |
@@ -146,7 +152,7 @@ Foraging for food is even easier. Any character who spends at least 1 hour forag
 | 5 | A wisp of sweet, candied mist (similar in consistency and taste to cotton candy) |
 | 6 | A brilliantly colored sunrise flower, which, when plucked, sheds light like a lantern for 8 hours (it also tastes like spicy honey) |
 | 7 | A small, flaky meat pie wrapped in a colorful cloth (the pie is hearty and delicious) |
-| 8 | A gourd shaped like a plump little dragon (any creature that eats more than half of the gourd's innards gains `2d4 + 2` temporary hit points) |
+| 8 | A gourd shaped like a plump little dragon (any creature that eats more than half of the gourd's innards gains `dice:2d4+2\|noform\|noparens\|avg` (`2d4 + 2`) temporary hit points) |
 ^feywild-treats
 
 ## Features of Hither
@@ -154,14 +160,14 @@ Foraging for food is even easier. Any character who spends at least 1 hour forag
 The portion of Prismeer known as Hither is an enormous swamp containing huge tangles of mangrove roots, expanses of thick marsh, and mysterious sites half-sunk in the muck. Weird and haunting creatures call Hither home, and the land is dotted with old wells that belch out and slurp up the sludgy water that saturates the land. At its heart, the hag [Bavlorna Blightstraw](3-Mechanics/CLI/bestiary/npc/bavlorna-blightstraw-wbtw.md) makes her lair in Downfall.
 
 > [!gallery]
-> ![Hither](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/037-map-2-2-hither.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/038-map-2-2-hither-player.webp#gallery)
+> ![Hither](file://adventure/WBtW/037-map-2.2-hither.webp#gallery)
+> ![Player Version](file://adventure/WBtW/038-map-2.2-hither-player.webp#gallery)
 
 ### Fluctuating Swamp Waters
 
 Hither's fetid waters rise and fall sporadically. In minutes, neck-deep murk might recede to reveal a soggy landscape of squelching mud and skeletal mangrove roots, but only until the waters ooze back into the swamp to fill it once again in an hour or three. The ebb and flow have a supernatural origin: Hither is dotted with ancient stone wells, known as o'-wells, which drink up and spew out the swamp water (see "O'-wells" below for more information).
 
-The denizens of Hither are accustomed to the ever-changing water level, but newcomers might find it alarming at first and then perhaps annoying. The water level changes whenever you want it to, taking `1d10` minutes to go from high to low or vice versa.
+The denizens of Hither are accustomed to the ever-changing water level, but newcomers might find it alarming at first and then perhaps annoying. The water level changes whenever you want it to, taking `dice:1d10|noform|noparens|avg` (`1d10`) minutes to go from high to low or vice versa.
 
 #### High Water Features
 
@@ -179,11 +185,11 @@ These magic wells are scattered throughout Hither. Their builders and their orig
 
 When the Hourglass Coven took over, Bavlorna corrupted the wells with her magic so that vile water burbled up to saturate Hither and transform it into a festering swamp. Today, the wells fluctuate between spewing out the foul water and drinking it back in, such that the landscape changes from a flooded marsh to a muddy morass at irregular intervals.
 
-Each well is ringed by hewn stone, is 10 feet in diameter, and rises `3d10` feet above ground level. Each well is inhabited by `1d4` [will-o'-wisps](3-Mechanics/CLI/bestiary/undead/will-o-wells-wbtw.md) that float up to greet new arrivals. These will-o'-wisps are chaotic good instead of evil. They are the spirits of creatures that drowned when Bavlorna flooded their realm. Consequently, they both fear and shun the hag. The will-o'-wisps ask the characters to identify themselves and state their intentions. If the characters express interest in undoing the damage wrought by Bavlorna, the will-o'-wisps are cheerful at the prospect of Bavlorna's ruin. They are unable to move more than a few hundred yards from their well, but they're eager to help strangers who are willing and able to avenge them. These will-o'-wisps have the following additional action option, which they use to grant boons to those who promise to oppose Bavlorna:
+Each well is ringed by hewn stone, is 10 feet in diameter, and rises `dice:3d10|noform|noparens|avg` (`3d10`) feet above ground level. Each well is inhabited by `dice:1d4|noform|noparens|avg` (`1d4`) [will-o'-wisps](3-Mechanics/CLI/bestiary/undead/will-o-wells-wbtw.md) that float up to greet new arrivals. These will-o'-wisps are chaotic good instead of evil. They are the spirits of creatures that drowned when Bavlorna flooded their realm. Consequently, they both fear and shun the hag. The will-o'-wisps ask the characters to identify themselves and state their intentions. If the characters express interest in undoing the damage wrought by Bavlorna, the will-o'-wisps are cheerful at the prospect of Bavlorna's ruin. They are unable to move more than a few hundred yards from their well, but they're eager to help strangers who are willing and able to avenge them. These will-o'-wisps have the following additional action option, which they use to grant boons to those who promise to oppose Bavlorna:
 
 > [!note] 
 > 
-> **Magic Boon (Recharges after a Long Rest).** The will-o'-wisp grants a boon to one creature it can see within 5 feet of it that isn't an Undead. The boon's recipient gains a `d4` and can, at any time within the next 24 hours, roll this die and add the number rolled to one ability check, attack roll, or saving throw made by it. No creature can have more than one of these magic boons at a time.
+> **Magic Boon (Recharges after a Long Rest).** The will-o'-wisp grants a boon to one creature it can see within 5 feet of it that isn't an Undead. The boon's recipient gains a `dice:d4|noform|noparens|avg` (`d4`) and can, at any time within the next 24 hours, roll this die and add the number rolled to one ability check, attack roll, or saving throw made by it. No creature can have more than one of these magic boons at a time.
 ^10f
 
 ## Arrival in Hither
@@ -201,7 +207,7 @@ The characters are on an isolated section of the Queen's Way (shown on the accom
 
 The highway is 20 feet wide and 100 feet above the swamp. The section supporting the characters is west of Slanty Tower on the map. Large, colorful shelf mushrooms cling to the lower half of each support pillar. The marshland surrounding the pillars is hidden under a 10-foot-thick blanket of fog that heavily obscures all creatures inside it.
 
-Handholds and footholds carved into each pillar lead down to the mushrooms. Characters can use the handholds, footholds, and shelf mushrooms to descend a pillar safely, or they can accomplish the same feat using climbing gear (no ability checks required in either case). [Feather fall](3-Mechanics/CLI/spells/feather-fall.md), [spider climb](3-Mechanics/CLI/spells/spider-climb.md), and similar spells also enable characters to reach the ground safely. Any character who tries to climb a pillar without using handholds, footholds, climbing gear, or magic must succeed on a DC 13 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check or fall, taking damage as normal.
+Handholds and footholds carved into each pillar lead down to the mushrooms. Characters can use the handholds, footholds, and shelf mushrooms to descend a pillar safely, or they can accomplish the same feat using climbing gear (no ability checks required in either case). [Feather fall](3-Mechanics/CLI/spells/feather-fall-xphb.md), [spider climb](3-Mechanics/CLI/spells/spider-climb-xphb.md), and similar spells also enable characters to reach the ground safely. Any character who tries to climb a pillar without using handholds, footholds, climbing gear, or magic must succeed on a DC 13 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check or fall, taking damage as normal.
 
 ### Balloon Crash
 
@@ -216,7 +222,7 @@ The doomed balloon crashes into Slanty Tower, which the characters can't see thr
 
 ### Reaching the Bottom
 
-The swamp beneath the Queen's Way is presently at a low water level (see "Fluctuating Swamp Waters" earlier in the chapter). As the last character reaches the marshy ground, a giant crane (use the [pteranodon](3-Mechanics/CLI/bestiary/beast/pteranodon.md) stat block) previously hidden by the fog emerges and takes flight. The giant crane poses no threat, but its sudden movement alerts a band of brigands lurking nearby.
+The swamp beneath the Queen's Way is presently at a low water level (see "Fluctuating Swamp Waters" earlier in the chapter). As the last character reaches the marshy ground, a giant crane (use the [pteranodon](3-Mechanics/CLI/bestiary/beast/pteranodon-xmm.md) stat block) previously hidden by the fog emerges and takes flight. The giant crane poses no threat, but its sudden movement alerts a band of brigands lurking nearby.
 
 After the giant crane flies off, read the following boxed text aloud:
 
@@ -270,9 +276,11 @@ Jebbek's gourd was a gift to [Agdon Longscarf](3-Mechanics/CLI/bestiary/npc/agdo
 
 Use random encounters to bring the swamp to life or to present the characters with more opportunities to interact with the setting. You can also use random encounters to convey information that the players might have missed earlier in the story.
 
-A random encounter occurs whenever you want one to. To determine what the characters find, roll a `d8` and consult the Random Encounters in Hither table. If you roll on the table, get the same result as a previous roll, and don't like the repetition, choose a different encounter that you think would be fun.
+A random encounter occurs whenever you want one to. To determine what the characters find, roll a `dice:d8|noform|noparens|avg` (`d8`) and consult the Random Encounters in Hither table. If you roll on the table, get the same result as a previous roll, and don't like the repetition, choose a different encounter that you think would be fun.
 
 **Random Encounters in Hither**
+
+`dice: [](03-hither.md#^random-encounters-in-hither)`
 
 | dice: d8 | Encounter |
 |----------|-----------|
@@ -292,13 +300,13 @@ The characters find an abandoned, 8-foot-square wooden raft that can support up 
 
 #### Gushing O'-well
 
-The characters hear the rush of water in the distance. If they investigate, they come to an o'-well that is 10 feet tall and 5 feet in diameter. A steady geyser of water shoots from the well, rising to a height of 30 feet above the well. Characters who have a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 13 or higher see `1d4` Feywild trinkets bobbing in the water at the top of the geyser. (Roll on the Feywild Trinkets table in the introduction to determine each one in turn.) For each trinket, one [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) [will-o'-wisp](3-Mechanics/CLI/bestiary/undead/will-o-wisp.md) hovers within 5 feet of the geyser.
+The characters hear the rush of water in the distance. If they investigate, they come to an o'-well that is 10 feet tall and 5 feet in diameter. A steady geyser of water shoots from the well, rising to a height of 30 feet above the well. Characters who have a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 13 or higher see `dice:1d4|noform|noparens|avg` (`1d4`) Feywild trinkets bobbing in the water at the top of the geyser. (Roll on the Feywild Trinkets table in the introduction to determine each one in turn.) For each trinket, one [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) [will-o'-wisp](3-Mechanics/CLI/bestiary/undead/will-o-wisp-xmm.md) hovers within 5 feet of the geyser.
 
 The geyser is powerful enough to lift up to 300 pounds into the air, and the flow of water can be stopped if the well is covered by something weighing more than 300 pounds. If the water is prevented from erupting, anything being lifted by the geyser plummets to the ground within 5 feet of the base of the well.
 
 The will-o'-wisps are the spirits of creatures who owned the trinkets in life. If a character tries to take one or more of the trinkets, the will-o'-wisps turn visible, accuse the character of being a dishonorable thief, and insist that the stolen items be returned to the well at once. The will-o'-wisps will also accept a different trinket as payment for one that was stolen. They attack if the character fails to return the stolen trinkets or provide worthy substitutes.
 
-![The Inn at the End of the Road](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/039-02-002-the-inn.webp#center)
+![The Inn at the End of the Road](file://adventure/WBtW/039-02-002.the-inn.webp#center)
 
 #### Inn at the End of the Road
 
@@ -314,7 +322,7 @@ For the inn's interior, use the inn map in "appendix C" of the "Dungeon Master's
 
 ##### Innkeeper
 
-Tsu Harabax, an elderly female human [druid](3-Mechanics/CLI/bestiary/humanoid/druid.md) (neutral), has been running the Inn at the End of the Road by herself since before the Hourglass Coven seized control of Prismeer. She has heard rumors that Zybilna is trapped in her palace, but she doesn't know any details. Tsu would love to see Zybilna restored to power, if only so she can escape the swampy morass of Hither.
+Tsu Harabax, an elderly female human [druid](3-Mechanics/CLI/bestiary/humanoid/druid-xmm.md) (neutral), has been running the Inn at the End of the Road by herself since before the Hourglass Coven seized control of Prismeer. She has heard rumors that Zybilna is trapped in her palace, but she doesn't know any details. Tsu would love to see Zybilna restored to power, if only so she can escape the swampy morass of Hither.
 
 Tsu despises Bavlorna. If the characters mention the hag or the Hourglass Coven, the druid spits and mutters, "In Zybilna's time, this inn was the talk of Prismeer." She speaks about Zybilna reverently, though her tone remains morose.
 
@@ -332,6 +340,8 @@ Anyone within 10 feet of a bursting bubble must succeed on a DC 10 Constitution 
 
 **Marsh Gas**
 
+`dice: [](03-hither.md#^marsh-gas)`
+
 | dice: d8 | Gas Type |
 |----------|----------|
 | 1–3 | Babble Gas. Whenever the character speaks, their words come out as gibberish that only the character and others affected by the gas can understand. This effect does not impede the character's ability to cast spells that have verbal components. |
@@ -342,23 +352,25 @@ Anyone within 10 feet of a bursting bubble must succeed on a DC 10 Constitution 
 
 #### Mud Mephits
 
-This encounter can occur when the swamp's water level is low. Five [mud mephits](3-Mechanics/CLI/bestiary/elemental/mud-mephit.md) emerge from the muck around the characters and threaten to drag them down into it unless they can guess the mephits' favorite food. The answer, of course, is mud pie. Each character gets one guess. If a character guesses correctly, the mephits cackle maniacally, dive back under the muck, and disappear. If no character guesses correctly, one mephit blurts out the answer as they attack. If two or more mephits are killed in the ensuing fracas, the rest dive into the muck on their next turn and disappear.
+This encounter can occur when the swamp's water level is low. Five [mud mephits](3-Mechanics/CLI/bestiary/elemental/mud-mephit-xmm.md) emerge from the muck around the characters and threaten to drag them down into it unless they can guess the mephits' favorite food. The answer, of course, is mud pie. Each character gets one guess. If a character guesses correctly, the mephits cackle maniacally, dive back under the muck, and disappear. If no character guesses correctly, one mephit blurts out the answer as they attack. If two or more mephits are killed in the ensuing fracas, the rest dive into the muck on their next turn and disappear.
 
 #### Stilt Walkers
 
 This encounter takes place in a mist-veiled field of tall swamp grass dotted with clusters of cattails. It begins when the characters hear rustling in the vegetation ahead of them. The sound foreshadows the arrival of six Humanoid creatures on stilts. The stilts allow these creatures to move more easily through the muck and to stay above the water. Their walking speed on stilts is 30 feet, and this movement is not reduced by mud or water.
 
-![Stilt Walker](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/040-02-003-stilt-walker.webp#center)
+![Stilt Walker](file://adventure/WBtW/040-02-003.stilt-walker.webp#center)
 
-As the stilt walkers advance, the characters recognize them as six [hobgoblins](3-Mechanics/CLI/bestiary/humanoid/hobgoblin.md) (lawful neutral) who are wearing patchwork rags and furs (AC 12). Strapped to the back of each stilt walker is a wire cage padded with straw and filled with `1d20` eggs of various sizes and colors. These hobgoblins scour the swamp for the eggs of reptiles and birds, which they either eat or trade to the bullywugs of the Soggy Court (described later in the chapter). The hobgoblins are not violent toward strangers.
+As the stilt walkers advance, the characters recognize them as six [hobgoblins](3-Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md) (lawful neutral) who are wearing patchwork rags and furs (AC 12). Strapped to the back of each stilt walker is a wire cage padded with straw and filled with `dice:1d20|noform|noparens|avg` (`1d20`) eggs of various sizes and colors. These hobgoblins scour the swamp for the eggs of reptiles and birds, which they either eat or trade to the bullywugs of the Soggy Court (described later in the chapter). The hobgoblins are not violent toward strangers.
 
 If they are left alone, the stilt walkers pass by the characters without so much as a greeting. If the characters try to communicate, the stilt walkers stop and regard them silently for a moment before prompting them to continue. If asked about what they're doing, the stilt walkers explain (in Goblin or, if necessary, in Common) that they are gathering eggs for trading in Downfall. They know in which direction Downfall is located and share that information freely. If the characters attack the stilt walkers, the hobgoblins flee.
 
 #### Stream of Visions
 
-When the water level of the swamp is low, the characters chance upon a 10-foot-wide stream. Unknown to them, the stream flows from Downfall, and any character who looks into the water's reflective surface catches a glimpse of an event transpiring in Downfall at that very moment. Each character who looks might see something different. Roll a `d8` and consult the Stream of Visions table to determine what each character sees. Each character can receive only one such vision.
+When the water level of the swamp is low, the characters chance upon a 10-foot-wide stream. Unknown to them, the stream flows from Downfall, and any character who looks into the water's reflective surface catches a glimpse of an event transpiring in Downfall at that very moment. Each character who looks might see something different. Roll a `dice:d8|noform|noparens|avg` (`d8`) and consult the Stream of Visions table to determine what each character sees. Each character can receive only one such vision.
 
 **Stream of Visions**
+
+`dice: [](03-hither.md#^stream-of-visions)`
 
 | dice: d8 | Scene |
 |----------|-------|
@@ -374,7 +386,7 @@ When the water level of the swamp is low, the characters chance upon a 10-foot-w
 
 #### Waterlogged Battlefield
 
-The characters come upon a bog that was the site of a battle between elves and fomorians long ago. The area is littered with rusted and broken weapons and armor, along with the bones of the dead. If the characters enter the area, two suits of [animated armor](3-Mechanics/CLI/bestiary/construct/animated-armor.md) stand up from the detritus. The suits are clearly of elven design, their helmets shaped like stylized owl heads. Both suits are 20 feet away from the party at the start of the encounter.
+The characters come upon a bog that was the site of a battle between elves and fomorians long ago. The area is littered with rusted and broken weapons and armor, along with the bones of the dead. If the characters enter the area, two suits of [animated armor](3-Mechanics/CLI/bestiary/construct/animated-armor-xmm.md) stand up from the detritus. The suits are clearly of elven design, their helmets shaped like stylized owl heads. Both suits are 20 feet away from the party at the start of the encounter.
 
 Each suit of animated armor mimics the movements of the character closest to it. For example, if the character closest to a suit of armor swings a sword, the armor makes a similar gesture, though it wields no weapons. If the character casts a spell, the suit uses its action to mimic the somatic component of casting a spell on its next turn, though it lacks the ability to cast spells. If one or both suits are attacked, they stop mimicking the characters and defend themselves. Otherwise, they are harmless. They can't leave the battlefield.
 
@@ -427,25 +439,25 @@ If the characters speak in raised voices, [Sir Talavar](3-Mechanics/CLI/bestiary
 
 See "Snakes" below for more information about the two serpents.
 
-The characters can't see [Sir Talavar](3-Mechanics/CLI/bestiary/npc/sir-talavar-wbtw.md) from the ground, because he is locked in a birdcage inside the basket that dangles from the tower's peak. Characters on the roof of the tower can look down into the basket and see the corpse of Wigglewog, the balloon's bullywug pilot, who died in the crash. At the bottom of the basket, a silver birdcage lies on its side with [Sir Talavar](3-Mechanics/CLI/bestiary/npc/sir-talavar-wbtw.md) inside. He is a [violet faerie dragon](3-Mechanics/CLI/bestiary/dragon/faerie-dragon-violet.md) who speaks Common, Draconic, Elvish, and Sylvan. [Sir Talavar](3-Mechanics/CLI/bestiary/npc/sir-talavar-wbtw.md) carries a magic sword and has the following additional action option:
+The characters can't see [Sir Talavar](3-Mechanics/CLI/bestiary/npc/sir-talavar-wbtw.md) from the ground, because he is locked in a birdcage inside the basket that dangles from the tower's peak. Characters on the roof of the tower can look down into the basket and see the corpse of Wigglewog, the balloon's bullywug pilot, who died in the crash. At the bottom of the basket, a silver birdcage lies on its side with [Sir Talavar](3-Mechanics/CLI/bestiary/npc/sir-talavar-wbtw.md) inside. He is a [violet faerie dragon](3-Mechanics/CLI/bestiary/dragon/faerie-dragon-adult-xmm.md) who speaks Common, Draconic, Elvish, and Sylvan. [Sir Talavar](3-Mechanics/CLI/bestiary/npc/sir-talavar-wbtw.md) carries a magic sword and has the following additional action option:
 
 > [!note] 
 > 
-> **+1 Tiny Sword.** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (`1d4 + 6`) piercing damage.
+> **+1 Tiny Sword.** Melee Weapon Attack: `dice:1d20+8|noform|noparens|text(+8)` to hit, reach 5 ft., one target. Hit: `dice:1d4+6|noform|noparens|avg|text(8)` (`1d4 + 6`) piercing damage.
 ^12f
 
-A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals an aura of abjuration magic around the birdcage. While [Sir Talavar](3-Mechanics/CLI/bestiary/npc/sir-talavar-wbtw.md) is in it, he can't cast spells, but he can use his Euphoria Breath. The cage is locked and can't be destroyed, and its lock can't be picked. A [knock](3-Mechanics/CLI/spells/knock.md) spell or similar magic opens it, however.
+A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of abjuration magic around the birdcage. While [Sir Talavar](3-Mechanics/CLI/bestiary/npc/sir-talavar-wbtw.md) is in it, he can't cast spells, but he can use his Euphoria Breath. The cage is locked and can't be destroyed, and its lock can't be picked. A [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell or similar magic opens it, however.
 
 > [!note] The Calamitous Flight of Sir Talavar and Wigglewog
 > 
 > Prior to the events of this adventure, [Sir Talavar](3-Mechanics/CLI/bestiary/npc/sir-talavar-wbtw.md), a noble faerie dragon and emissary of Titania the Summer Queen, traveled to Prismeer to persuade Zybilna to ally with the Seelie Court against its hated enemies, the fomorians. [Sir Talavar](3-Mechanics/CLI/bestiary/npc/sir-talavar-wbtw.md) soon discovered that Prismeer had been seized by the hags of the Hourglass Coven. Before he could return with news of their treachery, Bavlorna trapped him in an enchanted silver birdcage that inhibits his magic.
 > 
-> A sympathetic bullywug named Wigglewog stole [Sir Talavar](3-Mechanics/CLI/bestiary/npc/sir-talavar-wbtw.md)'s cage and fled with it in one of Bavlorna's balloons. Soon after, the balloon was attacked by a malicious wind ([air elemental](3-Mechanics/CLI/bestiary/elemental/air-elemental.md)) that sent it careening into an ancient, crumbling tower in the middle of Hither's swamp. The bullywug died in the crash, and [Sir Talavar](3-Mechanics/CLI/bestiary/npc/sir-talavar-wbtw.md) (still in his cage) has been stranded since then in the dangling wreckage of the balloon.
+> A sympathetic bullywug named Wigglewog stole [Sir Talavar](3-Mechanics/CLI/bestiary/npc/sir-talavar-wbtw.md)'s cage and fled with it in one of Bavlorna's balloons. Soon after, the balloon was attacked by a malicious wind ([air elemental](3-Mechanics/CLI/bestiary/elemental/air-elemental-xmm.md)) that sent it careening into an ancient, crumbling tower in the middle of Hither's swamp. The bullywug died in the crash, and [Sir Talavar](3-Mechanics/CLI/bestiary/npc/sir-talavar-wbtw.md) (still in his cage) has been stranded since then in the dangling wreckage of the balloon.
 > 
 > A pair of serpents in Bavlorna's service caught up to the balloon, but they are too lazy to climb up the tower to reach it. They have since fallen asleep near the base of the tower.
 ^the-calamitous-flight-of-sir-talavar-and-wigglewog
 
-![Sir Talavar](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/041-02-004-sir-talavar.webp#center)
+![Sir Talavar](file://adventure/WBtW/041-02-004.sir-talavar.webp#center)
 
 #### Roleplaying Sir Talavar
 
@@ -464,13 +476,13 @@ If the characters are unable to open the birdcage on their own, [Sir Talavar](3-
 
 #### Snakes
 
-Outside the tower, about 10 feet from the door, two [giant constrictor snakes](3-Mechanics/CLI/bestiary/beast/giant-constrictor-snake.md) lie together, asleep. Characters who have a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 15 or higher spot the snakes, which can move through the brambles with no reduction to their speed.
+Outside the tower, about 10 feet from the door, two [giant constrictor snakes](3-Mechanics/CLI/bestiary/beast/giant-constrictor-snake-xmm.md) lie together, asleep. Characters who have a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 15 or higher spot the snakes, which can move through the brambles with no reduction to their speed.
 
-Characters can converse with the snakes using a [speak with animals](3-Mechanics/CLI/spells/speak-with-animals.md) spell or similar magic. In the course of any such conversation, a character can try to change the snakes' attitude from hostile to indifferent, doing so with a successful DC 12 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check. If the snakes are made to feel indifferent, they give up their mission and slither away.
+Characters can converse with the snakes using a [speak with animals](3-Mechanics/CLI/spells/speak-with-animals-xphb.md) spell or similar magic. In the course of any such conversation, a character can try to change the snakes' attitude from hostile to indifferent, doing so with a successful DC 12 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check. If the snakes are made to feel indifferent, they give up their mission and slither away.
 
 #### Development
 
-If the characters free him from his cage, [Sir Talavar](3-Mechanics/CLI/bestiary/npc/sir-talavar-wbtw.md) gifts them with his tiny sword, which functions as a [+1 dagger](3-Mechanics/CLI/items/1-weapon.md) in the hands of a Small or Medium creature. He then bids them a fond farewell, adding, "Your valor will not be forgotten!" He then flies away. As a show of her favor, after hearing [Sir Talavar](3-Mechanics/CLI/bestiary/npc/sir-talavar-wbtw.md)'s story, the Summer Queen leaves a gift for the characters on the threshold of the Palace of Heart's Desire (see chapter 5). Note this gift on the Story Tracker.
+If the characters free him from his cage, [Sir Talavar](3-Mechanics/CLI/bestiary/npc/sir-talavar-wbtw.md) gifts them with his tiny sword, which functions as a [+1 dagger](3-Mechanics/CLI/items/1-weapon-xdmg.md) in the hands of a Small or Medium creature. He then bids them a fond farewell, adding, "Your valor will not be forgotten!" He then flies away. As a show of her favor, after hearing [Sir Talavar](3-Mechanics/CLI/bestiary/npc/sir-talavar-wbtw.md)'s story, the Summer Queen leaves a gift for the characters on the threshold of the Palace of Heart's Desire (see chapter 5). Note this gift on the Story Tracker.
 
 If the characters don't save [Sir Talavar](3-Mechanics/CLI/bestiary/npc/sir-talavar-wbtw.md), one of the frayed ropes suspending the basket snaps after a few hours, causing it to tip enough that [Sir Talavar](3-Mechanics/CLI/bestiary/npc/sir-talavar-wbtw.md)'s birdcage tumbles out and falls to the ground, where it is either swallowed by one of Bavlorna's snakes or found by harengon brigands. In either event, [Sir Talavar](3-Mechanics/CLI/bestiary/npc/sir-talavar-wbtw.md) is returned to Downfall and handed over to Bavlorna, in which case the characters can find him in area B5, still locked in the silver birdcage.
 
@@ -491,9 +503,9 @@ Telemy Hill is skirted in mist. When the characters pass through the mist and se
 > You are greeted by the scent of sweet-smelling fruit. Damp, downy, silvery-green moss blankets a gentle upward slope before giving way to a craggy ridge that marks the top of the hill. Dozens of enormous willow trees dot the hillside, swaying as though in a breeze despite the absence of one.
 ^137
 
-Telemy Hill is approximately half a square mile wide. A narrow game trail leads to [Jingle Jangle](3-Mechanics/CLI/bestiary/npc/jingle-jangle-wbtw.md)'s den at the pinnacle of the hill. The willows that grow on the hill are [awakened trees](3-Mechanics/CLI/bestiary/plant/awakened-tree.md) that speak Common in low, rumbling voices. Telemy Hill uses the trees to communicate, rather than speaking itself.
+Telemy Hill is approximately half a square mile wide. A narrow game trail leads to [Jingle Jangle](3-Mechanics/CLI/bestiary/npc/jingle-jangle-wbtw.md)'s den at the pinnacle of the hill. The willows that grow on the hill are [awakened trees](3-Mechanics/CLI/bestiary/plant/awakened-tree-xmm.md) that speak Common in low, rumbling voices. Telemy Hill uses the trees to communicate, rather than speaking itself.
 
-As the characters move up the hill, `1d4 + 1` awakened trees approach them, stopping when the two groups are 10 feet apart. One of them welcomes the characters to Telemy Hill and asks how long they plan to stay.
+As the characters move up the hill, `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) awakened trees approach them, stopping when the two groups are 10 feet apart. One of them welcomes the characters to Telemy Hill and asks how long they plan to stay.
 
 If asked about [Jingle Jangle](3-Mechanics/CLI/bestiary/npc/jingle-jangle-wbtw.md), the awakened trees share the following information:
 
@@ -501,7 +513,7 @@ If asked about [Jingle Jangle](3-Mechanics/CLI/bestiary/npc/jingle-jangle-wbtw.m
 - She wears a coat of keys that jingle and jangle when she walks—hence her name.  
 - Three days ago, while rooting through the swamp for truffles, she was attacked and robbed by brigands. She hasn't left her hilltop den since returning to the hill and must be pretty hungry by now.  
 
-If the characters are hostile, the trees do what they can to drive the invaders off the hill. If the trees are not met with violence, they shepherd the characters up the hill to [Jingle Jangle](3-Mechanics/CLI/bestiary/npc/jingle-jangle-wbtw.md)'s den, waving them on with their branches. Characters who stray from the path are met by `1d6` additional awakened trees. These trees don't attack but join in coaxing the characters up the hill.
+If the characters are hostile, the trees do what they can to drive the invaders off the hill. If the trees are not met with violence, they shepherd the characters up the hill to [Jingle Jangle](3-Mechanics/CLI/bestiary/npc/jingle-jangle-wbtw.md)'s den, waving them on with their branches. Characters who stray from the path are met by `dice:1d6|noform|noparens|avg` (`1d6`) additional awakened trees. These trees don't attack but join in coaxing the characters up the hill.
 
 At the top of the hill, the characters find [Jingle Jangle](3-Mechanics/CLI/bestiary/npc/jingle-jangle-wbtw.md)'s den: a cave with an entryway shaped like a keyhole.
 
@@ -518,11 +530,11 @@ If one or more characters enter [Jingle Jangle](3-Mechanics/CLI/bestiary/npc/jin
 
 The oval-shaped den is 20 feet wide, 30 feet long, and 6 feet tall, with a smaller chamber at the back where [Jingle Jangle](3-Mechanics/CLI/bestiary/npc/jingle-jangle-wbtw.md) sleeps.
 
-[Jingle Jangle](3-Mechanics/CLI/bestiary/npc/jingle-jangle-wbtw.md) is a [goblin](3-Mechanics/CLI/bestiary/humanoid/goblin.md) (chaotic good) who refers to herself in the third person. Replace her normal weapon attacks with the following action option:
+[Jingle Jangle](3-Mechanics/CLI/bestiary/npc/jingle-jangle-wbtw.md) is a [goblin](3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) (chaotic good) who refers to herself in the third person. Replace her normal weapon attacks with the following action option:
 
 > [!note] 
 > 
-> **Flail of Locks.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (`3d4`) bludgeoning damage.
+> **Flail of Locks.** Melee Weapon Attack: `dice:1d20+5|noform|noparens|text(+5)` to hit, reach 5 ft., one target. Hit: `dice:3d4|noform|noparens|avg|text(7)` (`3d4`) bludgeoning damage.
 ^13a
 
 One of the keys in [Jingle Jangle](3-Mechanics/CLI/bestiary/npc/jingle-jangle-wbtw.md)'s collection is the silver key that unlocks [Sir Talavar](3-Mechanics/CLI/bestiary/npc/sir-talavar-wbtw.md)'s birdcage. If the characters want this key, [Jingle Jangle](3-Mechanics/CLI/bestiary/npc/jingle-jangle-wbtw.md) offers it freely, saying, "Better you should have it than those long-eared brigands. First they stole [Jingle Jangle](3-Mechanics/CLI/bestiary/npc/jingle-jangle-wbtw.md)'s truffles. Next, they'll want [Jingle Jangle](3-Mechanics/CLI/bestiary/npc/jingle-jangle-wbtw.md)'s keys. Someone ought to give them a good shaking down so they know what it feels like!"
@@ -540,7 +552,7 @@ If the characters seem interested in hearing more about her recent altercation, 
 > "[Jingle Jangle](3-Mechanics/CLI/bestiary/npc/jingle-jangle-wbtw.md) was digging for truffles in the swamp when a bunch of harengons leapt out from behind the reeds and shrubbery. They took [Jingle Jangle](3-Mechanics/CLI/bestiary/npc/jingle-jangle-wbtw.md)'s truffles, threw [Jingle Jangle](3-Mechanics/CLI/bestiary/npc/jingle-jangle-wbtw.md) down in the mud, and whacked [Jingle Jangle](3-Mechanics/CLI/bestiary/npc/jingle-jangle-wbtw.md) with their wooden clubs."
 ^13d
 
-![Jingle Jangle](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/042-02-005-jingle-jangle.webp#center)
+![Jingle Jangle](file://adventure/WBtW/042-02-005.jingle-jangle.webp#center)
 
 [Jingle Jangle](3-Mechanics/CLI/bestiary/npc/jingle-jangle-wbtw.md) knows that Telemy Hill is well defended, so she's not concerned about her own well-being at the moment. However, she happily accepts any or all of the following as payment for the key to [Sir Talavar](3-Mechanics/CLI/bestiary/npc/sir-talavar-wbtw.md)'s cage:
 
@@ -564,13 +576,13 @@ If the characters lift [Jingle Jangle](3-Mechanics/CLI/bestiary/npc/jingle-jangl
 
 ##### Harming Jingle Jangle
 
-If the characters harm [Jingle Jangle](3-Mechanics/CLI/bestiary/npc/jingle-jangle-wbtw.md), Telemy Hill commands `1d4` [awakened trees](3-Mechanics/CLI/bestiary/plant/awakened-tree.md) to attack the characters as they emerge from the goblin's den. Whenever a tree is felled, another arrives to take its place until ten trees are killed, at which point Telemy Hill gives up the fight.
+If the characters harm [Jingle Jangle](3-Mechanics/CLI/bestiary/npc/jingle-jangle-wbtw.md), Telemy Hill commands `dice:1d4|noform|noparens|avg` (`1d4`) [awakened trees](3-Mechanics/CLI/bestiary/plant/awakened-tree-xmm.md) to attack the characters as they emerge from the goblin's den. Whenever a tree is felled, another arrives to take its place until ten trees are killed, at which point Telemy Hill gives up the fight.
 
 ### Brigands' Tollway
 
 The Brigands' Tollway is the headquarters of [Agdon Longscarf](3-Mechanics/CLI/bestiary/npc/agdon-longscarf-wbtw.md) and his gang of harengon brigands. It is also where the brigands collect tolls from travelers trying to reach Downfall. The brigands' base is located on an enormous tree stump, 80 feet in diameter and 30 feet above the surface of the bog. Crisscrossing causeways of wooden planks converge on the stump, bringing travelers toward the brigands from all directions.
 
-![Agdon Longscarf, the Most ...](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/043-02-006-agdon-longscarf.webp#center "Agdon Longscarf, the Most Notorious Brigand in Prismeer")
+![Agdon Longscarf, the Most Notorious Brigand in Prismeer](file://adventure/WBtW/043-02-006.agdon-longscarf.webp#center)
 
 #### Approaching the Tollway
 
@@ -579,7 +591,7 @@ The Brigands' Tollway is the headquarters of [Agdon Longscarf](3-Mechanics/CLI/b
 > A foggy marsh stretches out before you. Rickety causeways made of wooden planks form a wide, web-like structure above the bog. Three hundred feet away, many of these causeways converge on an enormous, ivy-covered tree stump that rises a good ten feet above the twenty-foot-high fog bank that enshrouds it.
 ^143
 
-The wooden causeways are 5 feet wide and in poor shape. Characters who walk across the planks are assumed to be taking care to avoid unsafe areas. If a character runs across the planks, roll a `d8` at the end of the character's turn. On a 7 or 8, part of the causeway falls away beneath the character, who must succeed on a DC 10 Dexterity saving throw to avoid falling off the plank and into the bog. While [prone](3-Mechanics/CLI/rules/conditions.md#Prone) in the muck, the character is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained). A character can use an action to try to free itself or another creature from the muck, doing so with a successful DC 10 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check.
+The wooden causeways are 5 feet wide and in poor shape. Characters who walk across the planks are assumed to be taking care to avoid unsafe areas. If a character runs across the planks, roll a `dice:d8|noform|noparens|avg` (`d8`) at the end of the character's turn. On a 7 or 8, part of the causeway falls away beneath the character, who must succeed on a DC 10 Dexterity saving throw to avoid falling off the plank and into the bog. While [prone](3-Mechanics/CLI/rules/conditions.md#Prone) in the muck, the character is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained). A character can use an action to try to free itself or another creature from the muck, doing so with a successful DC 10 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check.
 
 #### Most Notorious Brigand in Prismeer
 
@@ -634,7 +646,7 @@ The harengons have set up camp atop the 30-foot-high, 80-foot-wide tree stump. W
 
 The brigands' encampment is a circle of twelve patchwork tents surrounding a carved wooden throne where [Agdon Longscarf](3-Mechanics/CLI/bestiary/npc/agdon-longscarf-wbtw.md) holds court. Piled around Agdon's throne are scores of worthless trinkets stolen from travelers. If the characters want to examine the trinkets, describe a few of them, using the entries in the Feywild Trinkets table in the introduction for inspiration. Lying amid the trinkets is a small bag of truffles (the same ones the brigands stole from [Jingle Jangle](3-Mechanics/CLI/bestiary/npc/jingle-jangle-wbtw.md)).
 
-At any given time, `1d4` [harengon brigands](3-Mechanics/CLI/bestiary/humanoid/harengon-brigand-wbtw.md) and `1d4` [harengon snipers](3-Mechanics/CLI/bestiary/humanoid/harengon-sniper-wbtw.md) (see appendix C for their stat blocks) occupy the camp. These harengons defend their turf only if they outnumber intruders; otherwise, they scatter and hide.
+At any given time, `dice:1d4|noform|noparens|avg` (`1d4`) [harengon brigands](3-Mechanics/CLI/bestiary/humanoid/harengon-brigand-wbtw.md) and `dice:1d4|noform|noparens|avg` (`1d4`) [harengon snipers](3-Mechanics/CLI/bestiary/humanoid/harengon-sniper-wbtw.md) (see appendix C for their stat blocks) occupy the camp. These harengons defend their turf only if they outnumber intruders; otherwise, they scatter and hide.
 
 ## Downfall
 
@@ -650,13 +662,15 @@ The characters first encounter the hag in her study (area B10). After that, she 
 
 The Soggy Court is a community of neutral bullywugs who have an overdeveloped sense of grandeur. They are preoccupied with pomp and courtesies, and they possess an insatiable lust for courtly intrigue. A monarch presides over the group, though regime changes are frequent and often bloody. The current leader is Gullop XIX, who won the throne by boiling his predecessor, Molubb XVI, in oil.
 
-The community is small, but plots abound. A violent coup is always just around the corner. Whenever there's a commotion anywhere in Downfall, bullywug courtiers clamor to find out what's happening. If a loud noise occurs, such as the clangor of combat or raised voices, `1d6 + 1` [bullywugs](3-Mechanics/CLI/bestiary/humanoid/bullywug.md) converge on the source. These bullywugs crave gossip, not violence, and are indifferent toward strangers. They will defend themselves and Downfall if they deem it necessary or politically advantageous.
+The community is small, but plots abound. A violent coup is always just around the corner. Whenever there's a commotion anywhere in Downfall, bullywug courtiers clamor to find out what's happening. If a loud noise occurs, such as the clangor of combat or raised voices, `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) [bullywugs](3-Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm.md) converge on the source. These bullywugs crave gossip, not violence, and are indifferent toward strangers. They will defend themselves and Downfall if they deem it necessary or politically advantageous.
 
 Bullywugs of the Soggy Court speak Bullywug, Common, and Sylvan.
 
 Use the Bullywug Names table and the Soggy Court Honorifics table to make members of the court distinctive, as you see fit.
 
 **Bullywug Names**
+
+`dice: [](03-hither.md#^bullywug-names)`
 
 | dice: d8 | Name |
 |----------|------|
@@ -671,6 +685,8 @@ Use the Bullywug Names table and the Soggy Court Honorifics table to make member
 ^bullywug-names
 
 **Soggy Court Honorifics**
+
+`dice: [](03-hither.md#^soggy-court-honorifics)`
 
 | dice: d8 | Name |
 |----------|------|
@@ -689,8 +705,8 @@ Use the Bullywug Names table and the Soggy Court Honorifics table to make member
 The following locations are keyed to the map of Downfall.
 
 > [!gallery]
-> ![Downfall](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/044-map-2-3-downfall.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/045-map-2-3-downfall-player.webp#gallery)
+> ![Downfall](file://adventure/WBtW/044-map-2.3-downfall.webp#gallery)
+> ![Player Version](file://adventure/WBtW/045-map-2.3-downfall-player.webp#gallery)
 
 #### D1. Channel
 
@@ -701,11 +717,11 @@ The characters will likely arrive by skiff, rowboat, or raft, by way of this cha
 > Thick fog hangs heavy in the air, obscuring the area around you so that the world appears to have shrunk to only twenty feet in all directions. Before you, the waterway widens and the current slows, giving the impression that you have entered a lake. Croaking voices penetrate the fog, through which dark shapes appear, resolving into two rowboats. Manning the oars of each rowboat are two bullywugs.
 ^150
 
-The four [bullywugs](3-Mechanics/CLI/bestiary/humanoid/bullywug.md) (neutral) are enjoying a boat ride on the lake. All four are dressed in soiled garb typical of members of the Soggy Court. In croaking Sylvan, they say, "Welcome to Downfall, travelers."
+The four [bullywugs](3-Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm.md) (neutral) are enjoying a boat ride on the lake. All four are dressed in soiled garb typical of members of the Soggy Court. In croaking Sylvan, they say, "Welcome to Downfall, travelers."
 
 If the characters don't attack immediately, the bullywugs explain that their king, Gullop XIX, would be honored to make the characters' acquaintance. They suggest that the characters head to the small dock nearby (next to area D2), then make their way across the stepping stones (area D3), through the balloon factory (area D4), and across the bridge of chattering heads (area D5) to the gazebo where Gullop XIX holds court (area D6). If the characters ask about Bavlorna, the bullywugs insist that the characters see the king first, saying that he'll know how to help them.
 
-If the characters attack the bullywugs, they croak loudly enough to alert the two guards atop the watchtower (area D19). These guards sound the alarm with loud croaks of their own. One minute later, six armed [bullywugs](3-Mechanics/CLI/bestiary/humanoid/bullywug.md) (neutral) rally at the base of the watchtower before setting out to subdue the characters and bring them before Gullop XIX for questioning.
+If the characters attack the bullywugs, they croak loudly enough to alert the two guards atop the watchtower (area D19). These guards sound the alarm with loud croaks of their own. One minute later, six armed [bullywugs](3-Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm.md) (neutral) rally at the base of the watchtower before setting out to subdue the characters and bring them before Gullop XIX for questioning.
 
 > [!note] Swamp Gas Balloons
 > 
@@ -728,7 +744,7 @@ If the characters attack the bullywugs, they croak loudly enough to alert the tw
 > Looming above a ramshackle wooden pier is a balloon anchored by four thick ropes tied around wooden posts driven deep into the mire. The balloon's bladder expands and sags at irregular intervals as swamp gas fills it briefly before leaking out through various tears in its patchwork fabric. A bullywug stands near the top of a ladders and is using a long silver needle and a spool of catgut to sew up one of the openings. A second bullywug stands at the foot of the ladder to steady it. Huddled nearby are three giant frogs whose long tongues snap up passing insects.
 ^153
 
-The two [bullywugs](3-Mechanics/CLI/bestiary/humanoid/bullywug.md) (neutral) watch the characters warily but pose no threat. The three [giant frogs](3-Mechanics/CLI/bestiary/beast/giant-frog.md) are here to prevent anyone from stealing the balloon. (Another one of Bavlorna's balloons was stolen recently. Characters encountered what was left of it at Slanty Tower earlier in the chapter.)
+The two [bullywugs](3-Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm.md) (neutral) watch the characters warily but pose no threat. The three [giant frogs](3-Mechanics/CLI/bestiary/beast/giant-frog-xmm.md) are here to prevent anyone from stealing the balloon. (Another one of Bavlorna's balloons was stolen recently. Characters encountered what was left of it at Slanty Tower earlier in the chapter.)
 
 If the characters strike up a conversation with the bullywugs, the one on the ground responds in Sylvan, "Hmmm. You should probably see the king," regardless of what the characters say.
 
@@ -745,11 +761,11 @@ This vehicle is operational, albeit damaged. The balloon itself has 10 hit point
 
 The water around the stepstones is only 4 feet deep, but the bottom is not visible through the murk.
 
-Four of the five stepstones are boulders sunk deep in the mire. The middle stepstone is actually the top of a [galeb duhr](3-Mechanics/CLI/bestiary/elemental/galeb-duhr.md). If someone steps on it, the galeb duhr takes offense, grumbling about ingratitude. An apology accompanied by a successful DC 12 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check satisfies the galeb duhr. On a failed check, the galeb duhr gives the offending character one more chance, allowing the character to repeat the check provided the apology is sung with feeling. On a second failed check or if the character refuses to sing, the galeb duhr uses its Animate Boulders action to affect the two boulders closest to it, and the three of them move 15 feet to the west, leaving a 20-foot gap in the path formed by the stepstones. Any character who was standing atop one of the stones is dumped into the water.
+Four of the five stepstones are boulders sunk deep in the mire. The middle stepstone is actually the top of a [galeb duhr](3-Mechanics/CLI/bestiary/elemental/galeb-duhr-xmm.md). If someone steps on it, the galeb duhr takes offense, grumbling about ingratitude. An apology accompanied by a successful DC 12 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check satisfies the galeb duhr. On a failed check, the galeb duhr gives the offending character one more chance, allowing the character to repeat the check provided the apology is sung with feeling. On a second failed check or if the character refuses to sing, the galeb duhr uses its Animate Boulders action to affect the two boulders closest to it, and the three of them move 15 feet to the west, leaving a 20-foot gap in the path formed by the stepstones. Any character who was standing atop one of the stones is dumped into the water.
 
 ##### Predators Below
 
-Two [merrow](3-Mechanics/CLI/bestiary/monstrosity/merrow.md) lurk in the water east of the crossing. They dislike the taste of bullywugs and ignore them, but they attack any non-bullywugs that enter the water. If the characters find themselves in battle with the merrow, `1d4 + 1` [bullywugs](3-Mechanics/CLI/bestiary/humanoid/bullywug.md) (neutral) arrive immediately after each merrow has taken two turns. The bullywugs hurl spears at the merrow, frightening them away (at least for a while). These bullywugs are glad to be of help and happily point characters in the direction of their king, Gullop XIX (at area D6). If the characters offer the bullywugs nothing in return for their help, the bullywugs take no offense. They don't expect foreigners to honor the rule of reciprocity (see "Rules of Conduct" earlier in the chapter).
+Two [merrow](3-Mechanics/CLI/bestiary/monstrosity/merrow-xmm.md) lurk in the water east of the crossing. They dislike the taste of bullywugs and ignore them, but they attack any non-bullywugs that enter the water. If the characters find themselves in battle with the merrow, `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) [bullywugs](3-Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm.md) (neutral) arrive immediately after each merrow has taken two turns. The bullywugs hurl spears at the merrow, frightening them away (at least for a while). These bullywugs are glad to be of help and happily point characters in the direction of their king, Gullop XIX (at area D6). If the characters offer the bullywugs nothing in return for their help, the bullywugs take no offense. They don't expect foreigners to honor the rule of reciprocity (see "Rules of Conduct" earlier in the chapter).
 
 #### D4. Burned-out Balloon Factory
 
@@ -771,7 +787,7 @@ The building is accessible by ramps from areas D3 and D5, as well as stairs that
 
 This is where Bavlorna's swamp gas balloons are manufactured. Two bullywugs recently set fire to the place, destroying most of the supplies as a consequence. One of the culprits was Wigglewog, [Sir Talavar](3-Mechanics/CLI/bestiary/npc/sir-talavar-wbtw.md)'s pilot (now deceased). The other was Morgort, the former Knight of Warts, who was captured before she could make her escape and is now being held prisoner in area D9.
 
-A [bullywug](3-Mechanics/CLI/bestiary/humanoid/bullywug.md) (neutral) named Duke Ickrind is overseeing the repair of the factory, but new fires keep popping up thanks to the persistence of the animated coals that were used to start the fire originally. When the characters enter the place, Duke Ickrind yells in Sylvan, "Grab a bucket! We have to make sure the fires are out!"
+A [bullywug](3-Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm.md) (neutral) named Duke Ickrind is overseeing the repair of the factory, but new fires keep popping up thanks to the persistence of the animated coals that were used to start the fire originally. When the characters enter the place, Duke Ickrind yells in Sylvan, "Grab a bucket! We have to make sure the fires are out!"
 
 A low workbench—the only piece of undamaged furniture in the room—has three wooden buckets on it. Two of them are filled with water.
 
@@ -779,13 +795,13 @@ If the characters help Duke Ickrind extinguish the coals, he gives them a brass 
 
 ##### Animated Coals
 
-Typically used to heat Bavlorna's cauldron in area D18, six of these coals were brought to the balloon factory by saboteurs who wanted to burn it down. The coals are Tiny animated objects that skip and bounce around. Each one has AC 18; 6 hit points; a speed of 30 feet; and immunity to fire, poison, and psychic damage. A coal's Dexterity is 20, its Constitution is 10, and its other ability scores are 1. Throwing a bucket of water on a coal requires a successful ranged attack, and the bucket is treated as an improvised weapon. A bucket of water deals `1d6` damage to a coal. An animated coal that is submerged in water takes the damage at the start of each of its turns until it is no longer submerged. A coal reduced to 0 hit points is inanimate and harmless.
+Typically used to heat Bavlorna's cauldron in area D18, six of these coals were brought to the balloon factory by saboteurs who wanted to burn it down. The coals are Tiny animated objects that skip and bounce around. Each one has AC 18; 6 hit points; a speed of 30 feet; and immunity to fire, poison, and psychic damage. A coal's Dexterity is 20, its Constitution is 10, and its other ability scores are 1. Throwing a bucket of water on a coal requires a successful ranged attack, and the bucket is treated as an improvised weapon. A bucket of water deals `dice:1d6|noform|noparens|avg` (`1d6`) damage to a coal. An animated coal that is submerged in water takes the damage at the start of each of its turns until it is no longer submerged. A coal reduced to 0 hit points is inanimate and harmless.
 
 Each coal can take the following action on its turn:
 
 > [!note] 
 > 
-> **Kindle.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 2 (`1d4`) fire damage, and the target catches fire if it is flammable. Until a creature takes an action to douse the fire, the target takes 2 (`1d4`) fire damage at the start of each of its turns.
+> **Kindle.** Melee Weapon Attack: `dice:1d20+7|noform|noparens|text(+7)` to hit, reach 5 ft., one target. Hit: `dice:1d4|noform|noparens|avg|text(2)` (`1d4`) fire damage, and the target catches fire if it is flammable. Until a creature takes an action to douse the fire, the target takes `dice:1d4|noform|noparens|avg|text(2)` (`1d4`) fire damage at the start of each of its turns.
 ^15f
 
 #### D5. Chattering Heads
@@ -821,7 +837,7 @@ Clapperclaw carries a sailcloth sack filled with moldy straw. If the scarecrow g
 
 Appendix D has additional roleplaying notes for Clapperclaw.
 
-![Clapperclaw the Scarecrow](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/046-637677437801975332.webp#center)
+![Clapperclaw the Scarecrow](file://adventure/WBtW/046-637677437801975332.webp#center)
 
 #### D6. His Royal Majesty Gullop XIX
 
@@ -834,7 +850,7 @@ Appendix D has additional roleplaying notes for Clapperclaw.
 > Sleepy bullywug guards standing around their monarch snap to attention and ready their weapons.
 ^167
 
-King Gullop XIX, a bullywug royal (neutral) is accompanied by a baby crocodile (a Small noncombatant) named Snoodle and protected by five [bullywug knights](3-Mechanics/CLI/bestiary/humanoid/bullywug-knight-wbtw.md) (neutral; see appendix C for their stat blocks). The knights are stationed around the edge of the gazebo's interior. Eight unarmed bullywugs (noncombatants) lounge at the king's feet, eating insects from platters as they gossip among themselves. The king treats visitors as honored guests in accordance with the rule of hospitality (see "Rules of Conduct" earlier in the chapter), but he expects a measure of kindness in return. If a fight breaks out, Gullop XIX flees to area D11 and makes his final stand there, counting on the bullywug knights to cover his escape. As the king flees, Snoodle and the unarmed bullywugs jump into the lake and swim to safety.
+King Gullop XIX, a [bullywug royal](3-Mechanics/CLI/bestiary/humanoid/bullywug-royal-gos.md) (neutral) is accompanied by a baby crocodile (a Small noncombatant) named Snoodle and protected by five [bullywug knights](3-Mechanics/CLI/bestiary/humanoid/bullywug-knight-wbtw.md) (neutral; see appendix C for their stat blocks). The knights are stationed around the edge of the gazebo's interior. Eight unarmed bullywugs (noncombatants) lounge at the king's feet, eating insects from platters as they gossip among themselves. The king treats visitors as honored guests in accordance with the rule of hospitality (see "Rules of Conduct" earlier in the chapter), but he expects a measure of kindness in return. If a fight breaks out, Gullop XIX flees to area D11 and makes his final stand there, counting on the bullywug knights to cover his escape. As the king flees, Snoodle and the unarmed bullywugs jump into the lake and swim to safety.
 
 ##### Scheming King
 
@@ -848,13 +864,13 @@ If the characters show hostility or refuse to join the Soggy Court, Gullop comma
 
 ##### Secret Note
 
-As the king addresses the characters, one of the bullywug noncombatants passes a wine goblet to one randomly determined character. Inside the cup is a scrap of parchment with words written on it in Sylvan. The message reads, "Find Illig, the Baron of Muckstump, at once. The revolution lives!" Illig is an ambitious noble looking to take Gullop's crown by force, and conspirators are gathering at his home in area D16. Whenever a character asks a friendly bullywug of the Soggy Court about Illig's whereabouts, roll a `d8`. On a roll of 1–3, the bullywug doesn't know where Illig is. On a roll of 4–6, the bullywug assumes (incorrectly) that Illig is somewhere in the Sinking Palace (area D11). On a roll of 7 or 8, the bullywug knows and shares Illig's actual location.
+As the king addresses the characters, one of the bullywug noncombatants passes a wine goblet to one randomly determined character. Inside the cup is a scrap of parchment with words written on it in Sylvan. The message reads, "Find Illig, the Baron of Muckstump, at once. The revolution lives!" Illig is an ambitious noble looking to take Gullop's crown by force, and conspirators are gathering at his home in area D16. Whenever a character asks a friendly bullywug of the Soggy Court about Illig's whereabouts, roll a `dice:d8|noform|noparens|avg` (`d8`). On a roll of 1–3, the bullywug doesn't know where Illig is. On a roll of 4–6, the bullywug assumes (incorrectly) that Illig is somewhere in the Sinking Palace (area D11). On a roll of 7 or 8, the bullywug knows and shares Illig's actual location.
 
-![King Gullop XIX and Friends](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/047-02-007-king-gullop.webp#center)
+![King Gullop XIX and Friends](file://adventure/WBtW/047-02-007.king-gullop.webp#center)
 
 #### D7. Murky Lake
 
-Downfall is built around a 20-foot-deep body of standing water called Murky Lake. A blanket of thick fog and a layer of pond scum cover the lake's surface. Heavily obscured by the fog are `2d6` bullywugs (noncombatants) spread out across several large lily pads and relaxing in rowboats. Some read to each other, and others nap or play music. When they see the characters, they wave in a friendly manner. If the characters ask for directions, one of the bullywugs tries to be helpful while the others gaze about listlessly. If the characters require any further assistance or information, the helpful bullywug suggests that they speak to King Gullop XIX and points the way to his Royal Majesty (area D6). Each lily pad can hold up to 250 pounds without sinking.
+Downfall is built around a 20-foot-deep body of standing water called Murky Lake. A blanket of thick fog and a layer of pond scum cover the lake's surface. Heavily obscured by the fog are `dice:2d6|noform|noparens|avg` (`2d6`) bullywugs (noncombatants) spread out across several large lily pads and relaxing in rowboats. Some read to each other, and others nap or play music. When they see the characters, they wave in a friendly manner. If the characters ask for directions, one of the bullywugs tries to be helpful while the others gaze about listlessly. If the characters require any further assistance or information, the helpful bullywug suggests that they speak to King Gullop XIX and points the way to his Royal Majesty (area D6). Each lily pad can hold up to 250 pounds without sinking.
 
 ##### Bavlorna's Cottage
 
@@ -902,7 +918,7 @@ A trial by combat is a procedure by which wrongs can be redressed in the Soggy C
 
 ##### Development
 
-One hour after the characters are imprisoned in area D9, four armed [bullywugs](3-Mechanics/CLI/bestiary/humanoid/bullywug.md) (neutral) come to get them and Morgort. The guards instruct the characters to choose a champion from among them to represent the group in the trial. The guards nominate someone if the characters don't choose a champion. The champion and Morgort are each chained to the tree and given a club. The rest of the characters are kept at the edge of the proving grounds, held at spearpoint to prevent them from interfering.
+One hour after the characters are imprisoned in area D9, four armed [bullywugs](3-Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm.md) (neutral) come to get them and Morgort. The guards instruct the characters to choose a champion from among them to represent the group in the trial. The guards nominate someone if the characters don't choose a champion. The champion and Morgort are each chained to the tree and given a club. The rest of the characters are kept at the edge of the proving grounds, held at spearpoint to prevent them from interfering.
 
 King Gullop XIX presides over the trial, instructing the combatants to fight for their innocence. Morgort pretends to be slain after any successful attack made against her, putting on quite a performance as she drops to the mud. The characters' champion is declared victorious, and the characters are decreed to be innocent.
 
@@ -944,7 +960,7 @@ A sign hanging below the counter lists the following items for sale:
 > Moonlight monocle (no more fumbling in the dark)
 ^available-for-a-limited-time-only
 
-Most of the items for sale are nonmagical goods of little or no value, the exception being the moonlight monocle, which is a magic eyepiece that Charm acquired some time ago. It has the same properties as [goggles of night](3-Mechanics/CLI/items/goggles-of-night.md).
+Most of the items for sale are nonmagical goods of little or no value, the exception being the moonlight monocle, which is a magic eyepiece that Charm acquired some time ago. It has the same properties as [goggles of night](3-Mechanics/CLI/items/goggles-of-night-xdmg.md).
 
 ##### Unicorn Horn
 
@@ -968,11 +984,11 @@ The vessel has two separate parts: the wooden basket that doubles as the merchan
 
 Repairing 1 hit point of damage to the basket requires 1 day and appropriate supplies, which can be salvaged from area D4 or taken from area B3. The balloon can't be repaired, but as long as it has at least 1 hit point, it regains all lost hit points when it is fully recharged.
 
-![Trinket, Bauble, and Charm's Rain Cloud Balloon](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/048-02-008-rain-cloud-balloon.webp#center)
+![Trinket, Bauble, and Charm's Rain Cloud Balloon](file://adventure/WBtW/048-02-008.rain-cloud-balloon.webp#center)
 
 #### D11. Sinking Palace
 
-The palace has two entrances: one on high ground to the northwest, the other overlooking the docks. Each entrance has two [bullywugs](3-Mechanics/CLI/bestiary/humanoid/bullywug.md) (neutral) and a [crocodile](3-Mechanics/CLI/bestiary/beast/crocodile.md) guarding it. These sentries deny entry to anyone who doesn't have an invitation from the bullywug king.
+The palace has two entrances: one on high ground to the northwest, the other overlooking the docks. Each entrance has two [bullywugs](3-Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm.md) (neutral) and a [crocodile](3-Mechanics/CLI/bestiary/beast/crocodile-xmm.md) guarding it. These sentries deny entry to anyone who doesn't have an invitation from the bullywug king.
 
 > [!readaloud] 
 > 
@@ -981,7 +997,7 @@ The palace has two entrances: one on high ground to the northwest, the other ove
 
 The palace has two levels:
 
-- **Upper Level.** The upper level is built around the trunk of a tree. Gathered here at any given time are `2d4` unarmed and unarmored bullywug courtiers, some of them reclining on pillows. Among these noncombatants are three [bullywugs](3-Mechanics/CLI/bestiary/humanoid/bullywug.md) (neutral) who would defend their honor if they thought it besmirched by hostile interlopers.  
+- **Upper Level.** The upper level is built around the trunk of a tree. Gathered here at any given time are `dice:2d4|noform|noparens|avg` (`2d4`) unarmed and unarmored bullywug courtiers, some of them reclining on pillows. Among these noncombatants are three [bullywugs](3-Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm.md) (neutral) who would defend their honor if they thought it besmirched by hostile interlopers.  
 - **Lower Level.** The lower level is submerged in 3 inches of swamp water. More bullywug courtiers fill this space as a trio of bullywug musicians play an upbeat tune on stringed instruments. These bullywugs are also noncombatants.  
 
 ##### Clothesline
@@ -999,7 +1015,7 @@ Four flights of wooden steps rise out of the swamp, ending at a trapdoor in the 
 > Several holes dot the trunk of a gnarled old tree that grows on the shore of the lake. The tree has lost all its bark, and a few withered leaves cling to the ends of its twisted, knotted branches. One end of a clothesline is tied to a high branch on the northwest side of the tree. Several old garments hang from the clothesline, the other end of which disappears into the fog hovering over the lake.
 ^186
 
-Big Barkless is a tree blight, a carnivorous, ambulatory Plant of menacing disposition (see the accompanying stat block). While it remains motionless, it easily passes for a dead tree. Four [sprites](3-Mechanics/CLI/bestiary/fey/sprite.md) live in hollow cavities in its trunk. Their names are Bitzi, Dandy, Mintleaf, and Timpella. The sprites are a bitter bunch, taunting those who come close by spewing forth insulting words and tiny arrows. They hope to provoke the characters into damaging Big Barkless, thus prompting the blight to fight back. While ridiculing the characters from their hollows, the sprites have three-quarters cover.
+Big Barkless is a [tree blight](3-Mechanics/CLI/bestiary/plant/tree-blight-xmm.md), a carnivorous, ambulatory Plant of menacing disposition (see the accompanying stat block). While it remains motionless, it easily passes for a dead tree. Four [sprites](3-Mechanics/CLI/bestiary/fey/sprite-xmm.md) live in hollow cavities in its trunk. Their names are Bitzi, Dandy, Mintleaf, and Timpella. The sprites are a bitter bunch, taunting those who come close by spewing forth insulting words and tiny arrows. They hope to provoke the characters into damaging Big Barkless, thus prompting the blight to fight back. While ridiculing the characters from their hollows, the sprites have three-quarters cover.
 
 Big Barkless remains rooted to the spot until it's required to act in its own defense, whereupon it uproots itself and attacks all creatures it perceives as threatening. That doesn't include the sprites, even if the sprites instigated the conflict. The blight will not chase prey into the lake but can move on land as far as it wants.
 
@@ -1027,16 +1043,16 @@ The flutist is a wood elf named Octavian Meliamne, who came to Bavlorna seeking 
 
 Octavian is truthful with the characters about what happened to him. He knows what Bavlorna did was wrong, but he can't seem to get worked up about it. He suspects the hag is keeping his heart as a trophy. Unbeknownst to Octavian, Bavlorna is using his heart to keep her meat locker cold (see area B12).
 
-Use the [scout](3-Mechanics/CLI/bestiary/humanoid/scout.md) stat block to represent Octavian, with the following changes:
+Use the [scout](3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md) stat block to represent Octavian, with the following changes:
 
 - Octavian is a wood elf (chaotic good) who speaks Common and Elvish. He has [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 60 feet.  
 - He has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), and magic can't put him to sleep.  
 
 ##### Treasure
 
-If the characters return his original heart to him, Octavian reciprocates by giving them his [pipes of haunting](3-Mechanics/CLI/items/pipes-of-haunting.md).
+If the characters return his original heart to him, Octavian reciprocates by giving them his [pipes of haunting](3-Mechanics/CLI/items/pipes-of-haunting-xdmg.md).
 
-While Octavian and his true heart are within 5 feet of one another, any spell that ends a curse can swap the goat's heart in Octavian's chest with his still-beating true heart. When Octavian regains his true heart, the goat's heart appears at his feet as a dead, desiccated lump of tissue. A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals an aura of abjuration magic around the goat's heart after it is removed from Octavian's body, and an [identify](3-Mechanics/CLI/spells/identify.md) spell or similar magic reveals what it does. A creature that eats more than half of the goat's heart gains the benefit of a [potion of invulnerability](3-Mechanics/CLI/items/potion-of-invulnerability.md).
+While Octavian and his true heart are within 5 feet of one another, any spell that ends a curse can swap the goat's heart in Octavian's chest with his still-beating true heart. When Octavian regains his true heart, the goat's heart appears at his feet as a dead, desiccated lump of tissue. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of abjuration magic around the goat's heart after it is removed from Octavian's body, and an [identify](3-Mechanics/CLI/spells/identify-xphb.md) spell or similar magic reveals what it does. A creature that eats more than half of the goat's heart gains the benefit of a [potion of invulnerability](3-Mechanics/CLI/items/potion-of-invulnerability-xdmg.md).
 
 ##### Development
 
@@ -1057,9 +1073,9 @@ No bullywugs are present.
 
 ##### Treasure
 
-The small wooden chest contains cookware, spices, old fish bones, and a mummified toad. A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals an aura of evocation magic around the toad, and an [identify](3-Mechanics/CLI/spells/identify.md) spell or similar magic reveals what it does.
+The small wooden chest contains cookware, spices, old fish bones, and a mummified toad. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of evocation magic around the toad, and an [identify](3-Mechanics/CLI/spells/identify-xphb.md) spell or similar magic reveals what it does.
 
-If the mummified toad is tossed into a pot or kettle of water, it disappears and produces a [darkness](3-Mechanics/CLI/spells/darkness.md) spell that emanates from the container and lasts for 10 minutes.
+If the mummified toad is tossed into a pot or kettle of water, it disappears and produces a [darkness](3-Mechanics/CLI/spells/darkness-xphb.md) spell that emanates from the container and lasts for 10 minutes.
 
 #### D16. Bullywug Hut
 
@@ -1072,7 +1088,7 @@ When the characters peer inside, read:
 > Standing just inside the door is a jittery bullywug with a spear, and behind this guard is a wooden crate with hunting gear piled atop it. Huddled in the back of the hut are four more bullywugs. Tension hangs heavy in the air as one of the huddled bullywugs signals you to enter and join their conversation.
 ^194
 
-This dwelling provides shelter to a group of bullywugs that is plotting to overthrow King Gullop XIX. Their leader is a [bullywug knight](3-Mechanics/CLI/bestiary/humanoid/bullywug-knight-wbtw.md) (neutral evil; see appendix C) named Illig, Baron of Muckstump. The other four [bullywugs](3-Mechanics/CLI/bestiary/humanoid/bullywug.md) (neutral evil) are Illig loyalists named Glorig, Grundelkrantz, Gullibek, and Voolp.
+This dwelling provides shelter to a group of bullywugs that is plotting to overthrow King Gullop XIX. Their leader is a [bullywug knight](3-Mechanics/CLI/bestiary/humanoid/bullywug-knight-wbtw.md) (neutral evil; see appendix C) named Illig, Baron of Muckstump. The other four [bullywugs](3-Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm.md) (neutral evil) are Illig loyalists named Glorig, Grundelkrantz, Gullibek, and Voolp.
 
 Illig regards Gullop XIX as a witless buffoon unworthy of the crown and plans to declare himself the rightful king. He proudly shows off a drawing on the mud floor that depicts a crude image of Gullop XIX with a dagger in his eye. Illig's plot is straightforward: he intends to approach Gullop XIX while the king sits on his throne, pretend to trip into him, and "accidentally" stick him in the eye with the dagger. If Illig views the characters as co-conspirators, he's eager to hear what they think of his cunning plan. If they have a better one, he wants to hear it.
 
@@ -1099,7 +1115,7 @@ The wooden door to this dwelling is closed but not locked.
 > A frayed rope tethers a giant toad to a wooden post in the middle of this hut. The toad looks uncomfortable as a pair of sticky, webbed hands push their way out of its mouth. The toad's jaws open wide as it regurgitates a bullywug, who falls prone on the floor.
 ^199
 
-The [giant toad](3-Mechanics/CLI/bestiary/beast/giant-toad.md) is Gullop XIX's mount. The regurgitated [bullywug](3-Mechanics/CLI/bestiary/humanoid/bullywug.md) (neutral) is the toad's handler, Vlonk. "Swallow the guard" is a game the toad likes to play, and Gullop has ordered Vlonk to let himself get swallowed whenever the toad wants to "play."
+The [giant toad](3-Mechanics/CLI/bestiary/beast/giant-toad-xmm.md) is Gullop XIX's mount. The regurgitated [bullywug](3-Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm.md) (neutral) is the toad's handler, Vlonk. "Swallow the guard" is a game the toad likes to play, and Gullop has ordered Vlonk to let himself get swallowed whenever the toad wants to "play."
 
 Vlonk and the toad are indifferent toward the characters. If the characters seem friendly, Vlonk asks them to mind the toad while he goes for a swim to wash the toad's saliva off his skin. If the characters agree to toad-sit, Vlonk returns 10 minutes later to resume his duties. During Vlonk's absence, the toad tries to swallow at least one of the characters. However, it can't reach anyone more than 5 feet away from the wooden post to which it is tethered.
 
@@ -1110,15 +1126,15 @@ Vlonk and the toad are indifferent toward the characters. If the characters seem
 > A bulbous, green-black cauldron with a thick lid sits above a bed of hot coals on six sturdy iron legs that protrude from its curved bottom like the extremities of a crab. A wooden ladle hangs from a lanyard looped around the lid's knob.
 ^19b
 
-Bavlorna's cauldron is 4 feet in diameter and 3 feet tall. The cauldron is hot to the touch, because it is being heated by the coals. The cauldron's lid is held shut by an [arcane lock](3-Mechanics/CLI/spells/arcane-lock.md) spell, the password for which is "spittlespew." If anyone tries to remove the lid without first speaking the password, the cauldron scuttles away; it has a walking speed of 30 feet and returns to its spot over the coals after 10 minutes.
+Bavlorna's cauldron is 4 feet in diameter and 3 feet tall. The cauldron is hot to the touch, because it is being heated by the coals. The cauldron's lid is held shut by an [arcane lock](3-Mechanics/CLI/spells/arcane-lock-xphb.md) spell, the password for which is "spittlespew." If anyone tries to remove the lid without first speaking the password, the cauldron scuttles away; it has a walking speed of 30 feet and returns to its spot over the coals after 10 minutes.
 
-If the cauldron scuttles away, a [magmin](3-Mechanics/CLI/bestiary/elemental/magmin.md) emerges from within the pile of hot coals. It introduces itself as the coal tender and asks the characters, in Ignan, "You want in that cauldron?" He offers to give them the password in exchange for some dry wood (he loves the sound that dry wood makes when it burns). If the characters give him a bundle of dry wood (which can be obtained from the darklings in area D10), the magmin shares the password. The magmin lingers until the cauldron returns, at which point the magmin dives under the coals and disappears.
+If the cauldron scuttles away, a [magmin](3-Mechanics/CLI/bestiary/elemental/magmin-xmm.md) emerges from within the pile of hot coals. It introduces itself as the coal tender and asks the characters, in Ignan, "You want in that cauldron?" He offers to give them the password in exchange for some dry wood (he loves the sound that dry wood makes when it burns). If the characters give him a bundle of dry wood (which can be obtained from the darklings in area D10), the magmin shares the password. The magmin lingers until the cauldron returns, at which point the magmin dives under the coals and disappears.
 
 - **Animated Coals.** If the characters attack the magmin, eight of the coals from the bed spring to life and come to the magmin's defense. See the "Animated Coals" section in the description of area D4.  
 
 ##### What's Cooking
 
-Inside the cauldron is a bubbling, frothy, gray-black liquid that radiates an aura of transmutation magic under the scrutiny of a detect magic spell. Any creature that drinks a pint or more of the liquid is targeted by a [polymorph](3-Mechanics/CLI/spells/polymorph.md) spell (save DC 14) that lasts for 1 hour. The creature is transformed into either a [giant frog](3-Mechanics/CLI/bestiary/beast/giant-frog.md) (75 percent chance) or a [giant dragonfly](3-Mechanics/CLI/bestiary/beast/giant-dragonfly-wbtw.md) (25 percent chance; see appendix C).
+Inside the cauldron is a bubbling, frothy, gray-black liquid that radiates an aura of transmutation magic under the scrutiny of a detect magic spell. Any creature that drinks a pint or more of the liquid is targeted by a [polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md) spell (save DC 14) that lasts for 1 hour. The creature is transformed into either a [giant frog](3-Mechanics/CLI/bestiary/beast/giant-frog-xmm.md) (75 percent chance) or a [giant dragonfly](3-Mechanics/CLI/bestiary/beast/giant-dragonfly-wbtw.md) (25 percent chance; see appendix C).
 
 ##### Unicorn Horn
 
@@ -1135,7 +1151,7 @@ A wood plank path leads up to this location from the nearby dwellings (areas D16
 > A frayed clothesline attached to one corner of the watch tower is festooned with patchwork garments. The line stretches out toward the nearby lake before disappearing in the fog.
 ^1a0
 
-The mound on which the platform is built is 10 feet above water level at its highest point. The slippery slope around the platform is "difficult terrain". No ladder or rope leads to the platform, since the bullywugs can simply leap to the top of the mound. The two [bullywugs](3-Mechanics/CLI/bestiary/humanoid/bullywug.md) (neutral) stationed on the platform use the swiveling spyglass to keep an eye out for danger, though the device does not help them see through the thick fog.
+The mound on which the platform is built is 10 feet above water level at its highest point. The slippery slope around the platform is "difficult terrain". No ladder or rope leads to the platform, since the bullywugs can simply leap to the top of the mound. The two [bullywugs](3-Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm.md) (neutral) stationed on the platform use the swiveling spyglass to keep an eye out for danger, though the device does not help them see through the thick fog.
 
 ##### Clothesline
 
@@ -1165,8 +1181,8 @@ The cottage's physical features are as follows:
 The following locations are keyed to the map of Bavlorna's cottage.
 
 > [!gallery]
-> ![Bavlornas Cottage](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/049-map-2-4-bavlornas-cottage.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/050-map-2-4-bavlornas-cottage-player.webp#gallery)
+> ![Bavlornas Cottage](file://adventure/WBtW/049-map-2.4-bavlornas-cottage.webp#gallery)
+> ![Player Version](file://adventure/WBtW/050-map-2.4-bavlornas-cottage-player.webp#gallery)
 
 ##### B1. Preservation Pool
 
@@ -1181,17 +1197,17 @@ This location is accessible through the cottage's trapdoor entrance that leads u
 
 ###### Dress Dummies
 
-Seven humanoid-shaped dressing dummies stand in the corner—four of Medium size and three of Small size. Six of them are adorned with Bavlorna's shoddy, home-stitched garments. The other one is bare except for an ugly, black pointed hat that is, in fact, a [darkmantle](3-Mechanics/CLI/bestiary/monstrosity/darkmantle.md). It attacks anyone other than Bavlorna who touches it. If it makes a successful melee attack against a creature that happens to be wearing a helm, a hat, or some other kind of headwear, the darkmantle grabs and removes the headwear and flees with it rather than dealing damage to the target or enveloping its head.
+Seven humanoid-shaped dressing dummies stand in the corner—four of Medium size and three of Small size. Six of them are adorned with Bavlorna's shoddy, home-stitched garments. The other one is bare except for an ugly, black pointed hat that is, in fact, a [darkmantle](3-Mechanics/CLI/bestiary/aberration/darkmantle-xmm.md). It attacks anyone other than Bavlorna who touches it. If it makes a successful melee attack against a creature that happens to be wearing a helm, a hat, or some other kind of headwear, the darkmantle grabs and removes the headwear and flees with it rather than dealing damage to the target or enveloping its head.
 
 ###### Magic Mirror
 
-A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals an aura of conjuration magic around the freestanding mirror, which acts as a portal. Touching the reflective surface of the mirror while speaking the command word, "bandersnatch," causes the surface to become a swirling vortex of mist. A creature that steps into this vortex is instantly transported to the Hall of Illusions in the Witchlight Carnival (see chapter 1). In the Hall of Illusions, the portal resembles an oval doorway of swirling mist that remains active for 1 minute. While the portal is active, a creature in the Hall of Illusions can pass through it and reappear in front of the mirror or in the nearest unoccupied space. Once the portal closes, it can't be reopened except by touching the mirror's surface and speaking the password again.
+A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of conjuration magic around the freestanding mirror, which acts as a portal. Touching the reflective surface of the mirror while speaking the command word, "bandersnatch," causes the surface to become a swirling vortex of mist. A creature that steps into this vortex is instantly transported to the Hall of Illusions in the Witchlight Carnival (see chapter 1). In the Hall of Illusions, the portal resembles an oval doorway of swirling mist that remains active for 1 minute. While the portal is active, a creature in the Hall of Illusions can pass through it and reappear in front of the mirror or in the nearest unoccupied space. Once the portal closes, it can't be reopened except by touching the mirror's surface and speaking the password again.
 
 Breaking the mirror renders it nonmagical and closes the portal instantly. The mirror is a Medium object with AC 13, 4 hit points, and immunity to poison and psychic damage.
 
 ###### Pool
 
-Stairs lead down into the pool from one corner of the surrounding walkway. Bavlorna tries to bathe in the pool once a day to keep her skin from drying out and cracking, but the well that supplies the water has stopped working. Characters who peer into the well can see that it is filled with calm water almost to the brim. Bavlorna doesn't know it, but the cause of the faulty well is a 10-foot-high gelatinous cylinder (use the [gelatinous cube](3-Mechanics/CLI/bestiary/ooze/gelatinous-cube.md) stat block) that's blocking the normal flow of water. The creature's presence has also contaminated the water above it, rendering it mildly acidic—not enough to cause damage, but enough to make one's skin tingle uncomfortably. A character who experiences this tingling can, with a successful DC 15 Intelligence ([Nature](3-Mechanics/CLI/rules/skills.md#Nature)) check, ascertain that something akin to a gelatinous cube has lodged itself in the well.
+Stairs lead down into the pool from one corner of the surrounding walkway. Bavlorna tries to bathe in the pool once a day to keep her skin from drying out and cracking, but the well that supplies the water has stopped working. Characters who peer into the well can see that it is filled with calm water almost to the brim. Bavlorna doesn't know it, but the cause of the faulty well is a 10-foot-high gelatinous cylinder (use the [gelatinous cube](3-Mechanics/CLI/bestiary/ooze/gelatinous-cube-xmm.md) stat block) that's blocking the normal flow of water. The creature's presence has also contaminated the water above it, rendering it mildly acidic—not enough to cause damage, but enough to make one's skin tingle uncomfortably. A character who experiences this tingling can, with a successful DC 15 Intelligence ([Nature](3-Mechanics/CLI/rules/skills.md#Nature)) check, ascertain that something akin to a gelatinous cube has lodged itself in the well.
 
 The gelatinous cylinder lurks 10 feet down inside the well and is [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) in the water. It attacks any creature and dissolves any organic material that comes in contact with it. If a creature lowers itself into the water, attacks the ooze from above, and then exits the well, the gelatinous cylinder squirms up the shaft in pursuit, emerging from the well and thus unplugging it. The cylinder is 10 feet high and 10 feet in diameter. When it is lured out of the well or killed, the flow of water resumes in a torrent, filling the pool to a depth of 3 feet in 1 minute.
 
@@ -1238,7 +1254,7 @@ This outdoor stairway connects area B1 on the first floor with area B13 on the s
 
 ###### Wasp Nest
 
-A 7-foot-long, 5-foot-wide wasp nest clings to a shadowy corner above the door at the top of the stairs, outside area B13. The nest is a Medium object with AC 11, 12 hit points, and immunity to poison and psychic damage. It holds a [swarm of insects (wasps)](3-Mechanics/CLI/bestiary/beast/swarm-of-wasps.md) that is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) and remains so until the nest is disturbed or damaged. Part of the nest overlaps the door, and opening the door disturbs the nest.
+A 7-foot-long, 5-foot-wide wasp nest clings to a shadowy corner above the door at the top of the stairs, outside area B13. The nest is a Medium object with AC 11, 12 hit points, and immunity to poison and psychic damage. It holds a [swarm of insects (wasps)](3-Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm.md) that is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) and remains so until the nest is disturbed or damaged. Part of the nest overlaps the door, and opening the door disturbs the nest.
 
 While the wasps are in the nest, any damage dealt to the nest applies to the swarm as well. Once it emerges from the nest, the swarm is hostile toward all other creatures on the stairs. The swarm pursues creatures that flee into the cottage, but not creatures that jump or fall into the lake.
 
@@ -1275,7 +1291,7 @@ Bavlorna keeps various mementos and trinkets in the cupboard, including:
 > This ten-foot-wide balcony runs almost the length of the cottage and is covered from end to end with living frogs. At each end of the balcony, attached to one corner of the cottage just beyond easy reach, is a clothesline draped with patchwork garments. The two lines stretch out over the lake and disappear into the thick fog.
 ^1b8
 
-If anyone steps onto the balcony, the hundreds of harmless [frogs](3-Mechanics/CLI/bestiary/beast/frog.md) on the balcony croak in unison, alerting Bavlorna wherever she happens to be in the cottage. If one or more of the frogs are killed, the rest leap into the lake below.
+If anyone steps onto the balcony, the hundreds of harmless [frogs](3-Mechanics/CLI/bestiary/beast/frog-xmm.md) on the balcony croak in unison, alerting Bavlorna wherever she happens to be in the cottage. If one or more of the frogs are killed, the rest leap into the lake below.
 
 If she hears the croaking frogs, Bavlorna sends three of her lornlings (use the [quickling](3-Mechanics/CLI/bestiary/fey/quickling-mpmm.md) stat block in appendix C) to investigate and report back to her. They avoid combat.
 
@@ -1294,9 +1310,9 @@ The hall has closed doors leading to areas B8, B10, and B16.
 
 ###### Oval Mirror and Secret Door
 
-A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals an aura of transmutation magic around this mirror. The mirror's frame is stuck to the wall with [sovereign glue](3-Mechanics/CLI/items/sovereign-glue.md), and the mirror can't be removed without destroying it. The mirror alters the reflection of any creature that gazes into it, rendering the reflection bereft of expression or emotion, except if a creature smiles into the mirror. In that case, the creature's reflection also smiles, and a secret door in the wall holding the mirror swings inward, revealing a hidden passage (area B9).
+A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of transmutation magic around this mirror. The mirror's frame is stuck to the wall with [sovereign glue](3-Mechanics/CLI/items/sovereign-glue-xdmg.md), and the mirror can't be removed without destroying it. The mirror alters the reflection of any creature that gazes into it, rendering the reflection bereft of expression or emotion, except if a creature smiles into the mirror. In that case, the creature's reflection also smiles, and a secret door in the wall holding the mirror swings inward, revealing a hidden passage (area B9).
 
-Any character who examines the wall behind the mirror and succeeds on a DC 10 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check sees the edges of the secret door, which can also be forced open with a [knock](3-Mechanics/CLI/spells/knock.md) spell or similar magic. Bavlorna can open the secret door without having to smile or use magic.
+Any character who examines the wall behind the mirror and succeeds on a DC 10 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check sees the edges of the secret door, which can also be forced open with a [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell or similar magic. Bavlorna can open the secret door without having to smile or use magic.
 
 ##### B8. Guest Room
 
@@ -1311,11 +1327,11 @@ Bavlorna has forgotten about this secret passage, which connects areas B7 and B1
 > A moldy scent hangs in the air in this dark, L-shaped hallway.
 ^1be
 
-The secret door leading to area B7 is easily spotted from this side but requires a [knock](3-Mechanics/CLI/spells/knock.md) spell or similar magic to open. Only Bavlorna can open the secret door without using magic.
+The secret door leading to area B7 is easily spotted from this side but requires a [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell or similar magic to open. Only Bavlorna can open the secret door without using magic.
 
 ###### Shrinking Effect
 
-Creatures and objects in the hallway magically shrink in size as they get closer to area B10. They are normal size at the end of the hall closest to area B7, one-half their normal size at the bend in the hallway, and one-twentieth their normal size at the end of the hall closest to area B10. Shrunken creatures have disadvantage on Strength checks and Strength saving throws, and their weapons deal `1d4` less damage at one-half to one-tenth size, or `2d6` less damage at smaller than one-tenth size (minimum damage of 1 in either case).
+Creatures and objects in the hallway magically shrink in size as they get closer to area B10. They are normal size at the end of the hall closest to area B7, one-half their normal size at the bend in the hallway, and one-twentieth their normal size at the end of the hall closest to area B10. Shrunken creatures have disadvantage on Strength checks and Strength saving throws, and their weapons deal `dice:1d4|noform|noparens|avg` (`1d4`) less damage at one-half to one-tenth size, or `dice:2d6|noform|noparens|avg` (`2d6`) less damage at smaller than one-tenth size (minimum damage of 1 in either case).
 
 One minute after a creature or an object leaves the tunnel, the shrinking effect on it ends, whereupon it returns to its normal size.
 
@@ -1349,7 +1365,7 @@ Bavlorna has an iron key tucked in one of the pockets of her garment; this key u
 
 The tall, slender figure in black is Charm, a [darkling elder](3-Mechanics/CLI/bestiary/fey/darkling-elder-mpmm.md) (see appendix C) who works for [Endelyn Moongrave](3-Mechanics/CLI/bestiary/npc/endelyn-moongrave-wbtw.md) as a thief but poses as a traveling merchant. When the characters arrive, Charm is gossiping with Bavlorna about the hag's sisters, Endelyn and Skabatha. The conversation is a distraction, buying time for Charm's shadow to perpetrate a heist in area B19. Characters who have a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 13 or higher notice that the black-clad figure doesn't cast a shadow. This is not a trait that darklings possess, but rather the result of Endelyn's using her [scissors of shadow snipping](3-Mechanics/CLI/items/scissors-of-shadow-snipping-wbtw.md) (see appendix A) to cut loose Charm's shadow and transform it into a separate creature. See chapter 4 for more information on Endelyn and her magic scissors.
 
-![Charm, a darkling elder, s...](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/051-02-009-charm.webp#center "Charm, a darkling elder, sips tea in Bavlorna's cottage")
+![Charm, a darkling elder, sips tea in Bavlorna's cottage](file://adventure/WBtW/051-02-009.charm.webp#center)
 
 ###### Dealing with Bavlorna
 
@@ -1387,8 +1403,8 @@ The cabinet in the corner is made of wood that is still covered with bark and pa
 
 The cabinet contains two shelves:
 
-- The bottom shelf holds three magic potions with labels in Elvish: a [potion of diminution](3-Mechanics/CLI/items/potion-of-diminution.md) labeled "Shrink," a [potion of growth](3-Mechanics/CLI/items/potion-of-growth.md) labeled "Grow," and a [potion of invisibility](3-Mechanics/CLI/items/potion-of-invisibility.md) labeled "Vanish."  
-- The top shelf holds a stuffed cat that shambles to life when the cabinet is opened. The cat formerly belonged to Bavlorna's sister, Endelyn. (She suspects Bavlorna stole the cat, but she has no proof.) The cat, [Gloam](3-Mechanics/CLI/bestiary/npc/gloam-wbtw.md), is hostile toward all creatures except Bavlorna. It uses the [cat](3-Mechanics/CLI/bestiary/beast/cat.md) stat block, except it is an Undead, has immunity to poison damage, and is immune to [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) and the [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) condition. On its first turn in combat or when it is reduced to 0 hit points, the cat expels a cloud of dust that acts as [dust of sneezing and choking](3-Mechanics/CLI/items/dust-of-sneezing-and-choking.md).  
+- The bottom shelf holds three magic potions with labels in Elvish: a [potion of diminution](3-Mechanics/CLI/items/potion-of-diminution-xdmg.md) labeled "Shrink," a [potion of growth](3-Mechanics/CLI/items/potion-of-growth-xdmg.md) labeled "Grow," and a [potion of invisibility](3-Mechanics/CLI/items/potion-of-invisibility-xdmg.md) labeled "Vanish."  
+- The top shelf holds a stuffed cat that shambles to life when the cabinet is opened. The cat formerly belonged to Bavlorna's sister, Endelyn. (She suspects Bavlorna stole the cat, but she has no proof.) The cat, [Gloam](3-Mechanics/CLI/bestiary/npc/gloam-wbtw.md), is hostile toward all creatures except Bavlorna. It uses the [cat](3-Mechanics/CLI/bestiary/beast/cat-xmm.md) stat block, except it is an Undead, has immunity to poison damage, and is immune to [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) and the [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) condition. On its first turn in combat or when it is reduced to 0 hit points, the cat expels a cloud of dust that acts as [dust of sneezing and choking](3-Mechanics/CLI/items/dust-of-sneezing-and-choking-xdmg.md).  
 
 ###### Tiny Door
 
@@ -1403,7 +1419,7 @@ Characters who look underneath the potion cabinet see a tiny door built into a 2
 
 This is Bavlorna's aviary, where she uses taxidermy birds to send and receive messages from her coven sisters. Outside two of the room's windows are small wooden balconies, each one corresponding to a sister. The word "Thither" is scrawled above the window to the east balcony, while the word "Yon" is scrawled above the window to the north balcony. Messages meant for a particular sister are sent from the corresponding balcony.
 
-On the pedestals are cages that hold seven birds, each of which has the head of one avian species and the body of another. They squawk and flutter about anxiously if the drapes covering their cages are removed. Each bird uses the [hawk](3-Mechanics/CLI/bestiary/beast/hawk.md) stat block, except it is an Undead, has immunity to poison damage, and is immune to [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) and the [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) condition.
+On the pedestals are cages that hold seven birds, each of which has the head of one avian species and the body of another. They squawk and flutter about anxiously if the drapes covering their cages are removed. Each bird uses the [hawk](3-Mechanics/CLI/bestiary/beast/hawk-xmm.md) stat block, except it is an Undead, has immunity to poison damage, and is immune to [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) and the [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) condition.
 
 ##### B12. Meat Locker
 
@@ -1431,7 +1447,7 @@ Any character who listens at one of the doors hears a loud ruckus coming from in
 
 The butcher's block is a slab of blood-encrusted wood that occupies the middle of the kitchen. Dirty cutlery and mismatched plates and pots balance in precarious piles in and around a wooden wash basin.
 
-The small figure is a female [redcap](3-Mechanics/CLI/bestiary/fey/redcap-mpmm.md) (see appendix C) named Bloody Toes. She was carving up some meat when two [vultures](3-Mechanics/CLI/bestiary/beast/vulture.md) flew in through the door to the balcony (area B14). The characters' presence doesn't alarm or bother her. In fact, she asks the characters for help in getting rid of the vultures.
+The small figure is a female [redcap](3-Mechanics/CLI/bestiary/fey/redcap-mpmm.md) (see appendix C) named Bloody Toes. She was carving up some meat when two [vultures](3-Mechanics/CLI/bestiary/beast/vulture-xmm.md) flew in through the door to the balcony (area B14). The characters' presence doesn't alarm or bother her. In fact, she asks the characters for help in getting rid of the vultures.
 
 Bloody Toes serves Bavlorna as a chef and butcher. The hag has forbidden the redcap from attacking or murdering guests, so Bloody Toes fights only in self-defense. The redcap despises everyone and everything, but she hates Bavlorna most of all. If the characters claim to be at odds with Bavlorna, the redcap reveals that Bavlorna has a weakness: she is allergic to seeing anyone run widdershins (in tight counterclockwise circles) near her. Such a sight causes the hag to sneeze uncontrollably.
 
@@ -1446,11 +1462,11 @@ If the characters are offered to Bavlorna as prisoners, they are locked up here.
 
 These iron cages are used to store soon-to-be-butchered meat. Each cage can hold up to two Medium creatures, and each beam can be hoisted up over the balcony using a crank that is attached to the railing. A character can use an action to try to bend the bars of a cage, doing so with a successful DC 25 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check, or use thieves' tools to try to pick a cage's lock, doing so with a successful DC 15 Dexterity check.
 
-The [satyr](3-Mechanics/CLI/bestiary/fey/satyr.md), Vansel, is not wearing any clothes. Harengon brigands stole his clothes while he was bathing. When he chased them, he ended up trapped in a net and was brought to Bavlorna. He's in good spirits despite his current situation, believing everything will work out and he'll have quite a story to tell afterward. If the characters release him, he searches the kitchen (area B13) for something to wear and finds a grease-stained tablecloth he can use as a robe. He also finds a bottle of wine and guzzles it down. Appendix D has additional roleplaying notes for Vansel.
+The [satyr](3-Mechanics/CLI/bestiary/fey/satyr-xmm.md), Vansel, is not wearing any clothes. Harengon brigands stole his clothes while he was bathing. When he chased them, he ended up trapped in a net and was brought to Bavlorna. He's in good spirits despite his current situation, believing everything will work out and he'll have quite a story to tell afterward. If the characters release him, he searches the kitchen (area B13) for something to wear and finds a grease-stained tablecloth he can use as a robe. He also finds a bottle of wine and guzzles it down. Appendix D has additional roleplaying notes for Vansel.
 
 ###### Treasure
 
-Vansel stays close to his rescuers until he's clear of Bavlorna's cottage, at which point he thanks the characters and bids them adieu. Then, suddenly remembering the rule of reciprocity (see "Rules of Conduct" earlier in the chapter), he picks up a stick, whispers to it, and hands it to one of the characters. If a character accepts the gift, a tiny flower blooms at one end of the stick. Until this flower wilts and falls off 24 hours later, the stick has the properties of a [stone of good luck](3-Mechanics/CLI/items/stone-of-good-luck.md) that doesn't require attunement.
+Vansel stays close to his rescuers until he's clear of Bavlorna's cottage, at which point he thanks the characters and bids them adieu. Then, suddenly remembering the rule of reciprocity (see "Rules of Conduct" earlier in the chapter), he picks up a stick, whispers to it, and hands it to one of the characters. If a character accepts the gift, a tiny flower blooms at one end of the stick. Until this flower wilts and falls off 24 hours later, the stick has the properties of a [stone of good luck](3-Mechanics/CLI/items/stone-of-good-luck-xdmg.md) that doesn't require attunement.
 
 ##### B15. Pantry
 
@@ -1476,7 +1492,7 @@ These lornlings know that Bavlorna has a magic mirror (in area B1) that can tran
 
 Bavlorna distills her supply of mushroom-based alcohol here. The complex network of copper tubes takes up much of the room. Six buckets collect the stinking alcohol. The barrels are filled with this homemade brew, and each one weighs 250 pounds.
 
-The still's structural integrity is on the brink of failure. Any creature that disturbs the distillery must succeed on a DC 12 Dexterity saving throw or knock something loose or out of alignment. On a failed save, roll a `d8`. On a 1, the still explodes, blowing out the glass window but leaving the barrels intact. When the explosion occurs, each creature in the room must make a DC 15 Dexterity saving throw, taking 10 (`3d6`) fire damage on a failed save, or half as much damage on a successful one.
+The still's structural integrity is on the brink of failure. Any creature that disturbs the distillery must succeed on a DC 12 Dexterity saving throw or knock something loose or out of alignment. On a failed save, roll a `dice:d8|noform|noparens|avg` (`d8`). On a 1, the still explodes, blowing out the glass window but leaving the barrels intact. When the explosion occurs, each creature in the room must make a DC 15 Dexterity saving throw, taking `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) fire damage on a failed save, or half as much damage on a successful one.
 
 ##### B18. Bavlorna's Bedroom
 
@@ -1489,7 +1505,7 @@ The stairs in area B10 lead up into this room.
 > A bed that occupies one corner of the room has a pile of straw in place of a mattress. In the opposite corner stands a squat chest of drawers with a watering can resting atop it. The only other furnishing of note is a stocky wooden chest with a sturdy iron padlock. It sits in another corner between two closed doors.
 ^1d9
 
-The ball of light floating near the 20-foot-high ceiling is a [will-o'-wisp](3-Mechanics/CLI/bestiary/undead/will-o-wisp.md), which drifts down toward the characters if they move into the room. It attacks only if they try to remove the chest or any of its contents from the room without first opening the chest using the proper key (see "Thirsty Plants" and "Treasure" below). If reduced to 10 hit points or fewer, the will-o'-wisp turns [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) and tries to flee; if it escapes, it flies to Bavlorna and warns her about the intruders in her bedchamber.
+The ball of light floating near the 20-foot-high ceiling is a [will-o'-wisp](3-Mechanics/CLI/bestiary/undead/will-o-wisp-xmm.md), which drifts down toward the characters if they move into the room. It attacks only if they try to remove the chest or any of its contents from the room without first opening the chest using the proper key (see "Thirsty Plants" and "Treasure" below). If reduced to 10 hit points or fewer, the will-o'-wisp turns [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) and tries to flee; if it escapes, it flies to Bavlorna and warns her about the intruders in her bedchamber.
 
 ###### Chest of Drawers
 
@@ -1507,17 +1523,17 @@ This door leads to a small, empty balcony that looks out over Murky Lake (area D
 
 ###### Thirsty Plants
 
-There are four dead plants in tipped-over pots. Each one is a [twig blight](3-Mechanics/CLI/bestiary/plant/twig-blight.md) with a speed of 0 feet because it is rooted to its pot. The twig blights are thirsty but unable to reach the watering can resting on the chest of drawers. If the characters help the twig blights by standing them upright and watering them, one of them pulls a black-enameled iron key out of the dirt in its pot and gives it to the characters. This key unlocks the wooden chest in this room (see "Treasure" below).
+There are four dead plants in tipped-over pots. Each one is a [twig blight](3-Mechanics/CLI/bestiary/plant/twig-blight-xmm.md) with a speed of 0 feet because it is rooted to its pot. The twig blights are thirsty but unable to reach the watering can resting on the chest of drawers. If the characters help the twig blights by standing them upright and watering them, one of them pulls a black-enameled iron key out of the dirt in its pot and gives it to the characters. This key unlocks the wooden chest in this room (see "Treasure" below).
 
 ###### Treasure
 
-The padlocked chest has clawed iron feet and the initials B.B. crudely carved into its lid. It takes 1 minute and a successful DC 15 Dexterity check using thieves' tools to pick the padlock. On a check that fails by 5 or more, or if the lock is smashed off, the chest transforms into a Small animated object and attacks whoever tried to open it (see the [animate objects](3-Mechanics/CLI/spells/animate-objects.md) spell for its statistics).
+The padlocked chest has clawed iron feet and the initials B.B. crudely carved into its lid. It takes 1 minute and a successful DC 15 Dexterity check using thieves' tools to pick the padlock. On a check that fails by 5 or more, or if the lock is smashed off, the chest transforms into a Small animated object and attacks whoever tried to open it (see the [animate objects](3-Mechanics/CLI/spells/animate-objects-xphb.md) spell for its statistics).
 
 The chest contains the following items:
 
 - A 12-inch-tall marionette that Bavlorna stole from her sister, Endelyn. It has faces on opposite sides of its head. One face is a moon, and the other is a sun. As an art object, the marionette is worth 25 gp.  
 - An unpunched ticket from the Witchlight Carnival. The ticket is signed by Isolde, the carnival's original owner.  
-- Three [spell scrolls](3-Mechanics/CLI/items/spell-scroll.md) of [identify](3-Mechanics/CLI/spells/identify.md) tied together with a lute string.  
+- Three [spell scrolls](3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [identify](3-Mechanics/CLI/spells/identify-xphb.md) tied together with a lute string.  
 
 ##### B19. Bavlorna's Hoard
 
@@ -1547,7 +1563,7 @@ Bavlorna's "treasure hoard" consists of worthless junk and the following special
 
 - A stag's skull hangs on a wall hook 5 feet above the floor. This skull is Clapperclaw's missing head (see area D5 for details).  
 - A porcelain jar made of varnished white clay rests on a wooden table. The jar has legs that have been painted to look like the legs of a chicken. Inside the jar are two broken pieces of a wishbone. If the characters touch the two pieces together, they hear Bavlorna's voice in their heads say, "Skabatha forgets the first creature she sees when she wakes up, although her memory of it returns each night when she sleeps. A creature forgotten by Skabatha in this manner is [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) to her."  
-- A wooden mannequin wears a [helm of telepathy](3-Mechanics/CLI/items/helm-of-telepathy.md). If the helm is removed from the mannequin, the mannequin animates and tries to get the helm back by attacking whoever has it. The mannequin uses the [animated armor](3-Mechanics/CLI/bestiary/construct/animated-armor.md) stat block but has AC 15. If it reacquires the helm, the mannequin dons the helm and reverts to its inanimate state until the helm is removed again. Placing a different piece of headgear on its bare head has the effect of rendering the mannequin inanimate permanently.  
+- A wooden mannequin wears a [helm of telepathy](3-Mechanics/CLI/items/helm-of-telepathy-xdmg.md). If the helm is removed from the mannequin, the mannequin animates and tries to get the helm back by attacking whoever has it. The mannequin uses the [animated armor](3-Mechanics/CLI/bestiary/construct/animated-armor-xmm.md) stat block but has AC 15. If it reacquires the helm, the mannequin dons the helm and reverts to its inanimate state until the helm is removed again. Placing a different piece of headgear on its bare head has the effect of rendering the mannequin inanimate permanently.  
 
 ###### Bronze Frog Statue
 
@@ -1562,7 +1578,7 @@ To grab hold of something and pull it from the statue's mouth, a character must 
 
 The bronze frog statue weighs 750 pounds and is a Medium object with AC 19, 32 hit points, and immunity to poison and psychic damage. If the statue is destroyed, the extradimensional space collapses, and everything once contained there becomes lost in the Astral Plane.
 
-![What treasures are hidden ...](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/052-02-010-treasures.webp#center "What treasures are hidden in the mouth of the bronze frog? There's only one way to find out!")
+![What treasures are hidden in the mouth of the bronze frog? There's only one way to find out!](file://adventure/WBtW/052-02-010.treasures.webp#center)
 
 ###### Development
 

@@ -12,6 +12,8 @@ aliases:
 
 **Dungeon: Maze**
 
+`dice: [](chamber-purpose-dungeon-maze.md#^dungeon-maze)`
+
 | dice: d20 | Purpose |
 |-----------|---------|
 | 1 | Conjuring room, used to summon creatures that guard the maze |

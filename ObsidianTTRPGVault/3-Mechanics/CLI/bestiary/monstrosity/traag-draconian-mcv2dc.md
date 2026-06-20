@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Traag Draconian"
 ---
-# [Traag Draconian](3-Mechanics\CLI\bestiary\monstrosity/traag-draconian-mcv2dc.md)
+# [Traag Draconian](3-Mechanics/CLI/bestiary/monstrosity/traag-draconian-mcv2dc.md)
 *Source: Monstrous Compendium Volume 2: Dragonlance Creatures p. 13*  
 
 In their experimentation with corrupting dragon eggs, the Dragon Armies created traag draconians, the precursor to what would become baaz draconian foot soldiers. Unlike their draconian brethren, traag draconians are little more than bloodthirsty engines of carnage. Few commanders have successfully used a traag draconian's reckless violence to their advantage in battle; for most, a traag draconian is as much of a danger to its allies as it is to its enemies. Even magic cannot tame a traag draconian's thirst for violence.
@@ -81,6 +81,6 @@ A traag draconian's vestigial wings lack the strength to support its hulking bod
     "name": "Violent Retaliation"
 "source":
   - "MCV2DC"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/traag-draconian-mcv2dc.webp"
+"image": "file://bestiary/tokens/MCV2DC/Traag%20Draconian.webp"
 ```
 ^statblock

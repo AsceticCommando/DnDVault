@@ -12,6 +12,8 @@ aliases:
 
 **Order Contact**
 
+`dice: [](religious-order-contacts-order-contact-erlw.md#^order-contact)`
+
 | dice: d8 | Contact |
 |----------|---------|
 | 1 | A cloistered priest with little worldly experience who doesn't really understand what you do but seems to approve of it anyway |

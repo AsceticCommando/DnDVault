@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Harkina Hunt"
 ---
-# [Harkina Hunt](3-Mechanics\CLI\bestiary\npc/harkina-hunt-bgdia.md)
+# [Harkina Hunt](3-Mechanics/CLI/bestiary/npc/harkina-hunt-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 53*  
 
 ```statblock
@@ -34,7 +34,7 @@ aliases:
   - !!int "10"
 "speed": "30 ft."
 "gear":
-  - "[club](3-Mechanics/CLI/items/club.md)"
+  - "[club](3-Mechanics/CLI/items/club-xphb.md)"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "0"
@@ -47,6 +47,6 @@ aliases:
     "name": "Longbow"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/harkina-hunt-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Harkina%20Hunt.webp"
 ```
 ^statblock

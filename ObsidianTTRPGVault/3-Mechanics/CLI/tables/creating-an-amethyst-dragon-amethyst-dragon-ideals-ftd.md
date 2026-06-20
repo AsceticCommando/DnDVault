@@ -12,6 +12,8 @@ aliases:
 
 **Amethyst Dragon Ideals**
 
+`dice: [](creating-an-amethyst-dragon-amethyst-dragon-ideals-ftd.md#^amethyst-dragon-ideals)`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Balance. Everything is a complex interaction of forces that must be kept in a delicate and carefully maintained balance. (Neutral) |

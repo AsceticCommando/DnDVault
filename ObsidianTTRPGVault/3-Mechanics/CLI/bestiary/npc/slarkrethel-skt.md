@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Slarkrethel"
 ---
-# [Slarkrethel](3-Mechanics\CLI\bestiary\npc/slarkrethel-skt.md)
+# [Slarkrethel](3-Mechanics/CLI/bestiary/npc/slarkrethel-skt.md)
 *Source: Storm King's Thunder p. 224*  
 
 Beneath the waves, the kraken sleeps for untold ages, awaiting some fell sign or calling. Land-born mortals who sail the open sea forget the reasons their ancestors dreaded the ocean, even as the races of the deep ignore strange gaps in their histories when their civilizations nearly vanished after the appearance of the tentacled horror.
@@ -113,17 +113,17 @@ A kraken lives in dark depths, usually a sunken rift or a cavern filled with det
     "name": "Lightning Storm"
   - "desc": "Slarkrethel casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 22):\n\n\
-      **At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [detect\
-      \ thoughts](3-Mechanics/CLI/spells/detect-thoughts.md), [sending](3-Mechanics/CLI/spells/sending.md)\n\
-      \n**2/day each:** [control weather](3-Mechanics/CLI/spells/control-weather.md)\
-      \ (cast as 1 action), [fly](3-Mechanics/CLI/spells/fly.md), [ice storm](3-Mechanics/CLI/spells/ice-storm.md)\n\
-      \n**1/day each:** [arcane eye](3-Mechanics/CLI/spells/arcane-eye.md), [chain\
-      \ lightning](3-Mechanics/CLI/spells/chain-lightning.md), [feeblemind](3-Mechanics/CLI/spells/feeblemind.md),\
-      \ [foresight](3-Mechanics/CLI/spells/foresight.md), [locate creature](3-Mechanics/CLI/spells/locate-creature.md),\
-      \ [mass suggestion](3-Mechanics/CLI/spells/mass-suggestion.md), [nondetection](3-Mechanics/CLI/spells/nondetection.md),\
-      \ [power word kill](3-Mechanics/CLI/spells/power-word-kill.md), [scrying](3-Mechanics/CLI/spells/scrying.md)\
-      \ (cast as 1 action), [sequester](3-Mechanics/CLI/spells/sequester.md), [telekinesis](3-Mechanics/CLI/spells/telekinesis.md),\
-      \ [teleport](3-Mechanics/CLI/spells/teleport.md)"
+      **At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [detect\
+      \ thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md), [sending](3-Mechanics/CLI/spells/sending-xphb.md)\n\
+      \n**2/day each:** [control weather](3-Mechanics/CLI/spells/control-weather-xphb.md)\
+      \ (cast as 1 action), [fly](3-Mechanics/CLI/spells/fly-xphb.md), [ice storm](3-Mechanics/CLI/spells/ice-storm-xphb.md)\n\
+      \n**1/day each:** [arcane eye](3-Mechanics/CLI/spells/arcane-eye-xphb.md), [chain\
+      \ lightning](3-Mechanics/CLI/spells/chain-lightning-xphb.md), [feeblemind](3-Mechanics/CLI/spells/befuddlement-xphb.md),\
+      \ [foresight](3-Mechanics/CLI/spells/foresight-xphb.md), [locate creature](3-Mechanics/CLI/spells/locate-creature-xphb.md),\
+      \ [mass suggestion](3-Mechanics/CLI/spells/mass-suggestion-xphb.md), [nondetection](3-Mechanics/CLI/spells/nondetection-xphb.md),\
+      \ [power word kill](3-Mechanics/CLI/spells/power-word-kill-xphb.md), [scrying](3-Mechanics/CLI/spells/scrying-xphb.md)\
+      \ (cast as 1 action), [sequester](3-Mechanics/CLI/spells/sequester-xphb.md),\
+      \ [telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md), [teleport](3-Mechanics/CLI/spells/teleport-xphb.md)"
     "name": "Spellcasting"
 "lair_actions":
   - "desc": "On initiative count 20 (losing initiative ties), the kraken takes a lair\
@@ -142,7 +142,7 @@ A kraken lives in dark depths, usually a sunken rift or a cavern filled with det
   - "desc": "The region containing a kraken's lair is warped by the creature's blasphemous\
       \ presence, creating the following magical effects:\n\n- The kraken can alter\
       \ the weather at will in a 6-mile radius centered on its lair. The effect is\
-      \ identical to the [control weather](3-Mechanics/CLI/spells/control-weather.md)\
+      \ identical to the [control weather](3-Mechanics/CLI/spells/control-weather-xphb.md)\
       \ spell.  \n- Water elementals coalesce within 6 miles of the lair. These elementals\
       \ can't leave the water and have Intelligence and Charisma scores of 1 (-5).\
       \  \n- Aquatic creatures within 6 miles of the lair that have an Intelligence\
@@ -168,6 +168,6 @@ A kraken lives in dark depths, usually a sunken rift or a cavern filled with det
     "name": "Ink Cloud (Costs 3 Actions)"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/slarkrethel-skt.webp"
+"image": "file://bestiary/tokens/SKT/Slarkrethel.webp"
 ```
 ^statblock

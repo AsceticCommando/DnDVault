@@ -16,7 +16,7 @@ aliases:
 |--------|------|------------|
 | Common | [Illuminator's Tattoo](3-Mechanics/CLI/items/illuminators-tattoo-tce.md) | Yes |
 | Common | [Masquerade Tattoo](3-Mechanics/CLI/items/masquerade-tattoo-tce.md) | Yes |
-| Common | [Prosthetic Limb](3-Mechanics/CLI/items/prosthetic-limb-tce.md) | No |
+| Common | [Prosthetic Limb](3-Mechanics/CLI/items/prosthetic-limb-xdmg.md) | No |
 | Common+ | [Spellwrought Tattoo](3-Mechanics/CLI/items/spellwrought-tattoo-tce.md) | No |
 | Uncommon+ | [All-Purpose Tool](3-Mechanics/CLI/items/1-all-purpose-tool-tce.md) | Yes |
 | Uncommon+ | [Amulet of the Devout](3-Mechanics/CLI/items/1-amulet-of-the-devout-tce.md) | Yes |
@@ -28,7 +28,7 @@ aliases:
 | Uncommon | [Feywild Shard](3-Mechanics/CLI/items/feywild-shard-tce.md) | Yes |
 | Uncommon | [Guardian Emblem](3-Mechanics/CLI/items/guardian-emblem-tce.md) | Yes |
 | Uncommon+ | [Moon Sickle](3-Mechanics/CLI/items/1-moon-sickle-tce.md) | Yes |
-| Uncommon | [Nature's Mantle](3-Mechanics/CLI/items/natures-mantle-tce.md) | Yes |
+| Uncommon | [Nature's Mantle](3-Mechanics/CLI/items/natures-mantle-xdmg.md) | Yes |
 | Uncommon+ | [Rhythm-Maker's Drum](3-Mechanics/CLI/items/1-rhythm-makers-drum-tce.md) | Yes |
 | Rare | [Alchemical Compendium](3-Mechanics/CLI/items/alchemical-compendium-tce.md) | Yes |
 | Rare | [Astral Shard](3-Mechanics/CLI/items/astral-shard-tce.md) | Yes |
@@ -50,14 +50,14 @@ aliases:
 | Rare | [Shadowfell Brand Tattoo](3-Mechanics/CLI/items/shadowfell-brand-tattoo-tce.md) | Yes |
 | Rare | [Shadowfell Shard](3-Mechanics/CLI/items/shadowfell-shard-tce.md) | Yes |
 | Very Rare | [Absorbing Tattoo](3-Mechanics/CLI/items/absorbing-tattoo-tce.md) | Yes |
-| Very Rare | [Cauldron of Rebirth](3-Mechanics/CLI/items/cauldron-of-rebirth-tce.md) | Yes |
+| Very Rare | [Cauldron of Rebirth](3-Mechanics/CLI/items/cauldron-of-rebirth-xdmg.md) | Yes |
 | Very Rare | [Crystalline Chronicle](3-Mechanics/CLI/items/crystalline-chronicle-tce.md) | Yes |
 | Very Rare | [Ghost Step Tattoo](3-Mechanics/CLI/items/ghost-step-tattoo-tce.md) | Yes |
 | Very Rare | [Lifewell Tattoo](3-Mechanics/CLI/items/lifewell-tattoo-tce.md) | Yes |
 | Legendary | [Blood Fury Tattoo](3-Mechanics/CLI/items/blood-fury-tattoo-tce.md) | Yes |
 | Artifact | [Baba Yaga's Mortar and Pestle](3-Mechanics/CLI/items/baba-yagas-mortar-and-pestle-tce.md) | Yes |
 | Artifact | [Crook of Rao](3-Mechanics/CLI/items/crook-of-rao-tce.md) | Yes |
-| Artifact | [Demonomicon of Iggwilv](3-Mechanics/CLI/items/demonomicon-of-iggwilv-tce.md) | Yes |
+| Artifact | [Demonomicon of Iggwilv](3-Mechanics/CLI/items/demonomicon-of-iggwilv-xdmg.md) | Yes |
 | Artifact | [Luba's Tarokka of Souls](3-Mechanics/CLI/items/lubas-tarokka-of-souls-tce.md) | Yes |
 | Artifact | [Mighty Servant of Leuk-o](3-Mechanics/CLI/items/mighty-servant-of-leuk-o-tce.md) | Yes |
 | Artifact | [Teeth of Dahlver-Nar](3-Mechanics/CLI/items/teeth-of-dahlver-nar-tce.md) | Yes |

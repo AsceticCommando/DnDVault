@@ -4,12 +4,12 @@ cssclasses:
 - json5e-spell
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/spell/class/bard/magical-secrets
+- ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/druid
 - ttrpg-cli/spell/level/6th-level
 - ttrpg-cli/spell/school/abjuration
 classes:
-- Bard (Magical Secrets)
+- Bard
 - Druid
 aliases:
 - "Primordial Ward"
@@ -27,6 +27,6 @@ You have resistance to acid, cold, fire, lightning, and thunder damage for the s
 
 When you take damage of one of those types, you can use your reaction to gain immunity to that type of damage, including against the triggering damage. If you do so, the resistances end, and you have the immunity until the end of your next turn, at which time the spell ends.
 
-**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md)
+**Classes**: [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md)
 
-*Source: Xanathar's Guide to Everything p. 163*
+*Source: Xanathar's Guide to Everything p. 163, Elemental Evil Player's Companion p. 21*

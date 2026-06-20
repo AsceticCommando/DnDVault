@@ -12,6 +12,8 @@ aliases:
 
 **Shadow Dragon Art Objects**
 
+`dice: [](shadow-dragon-treasures-shadow-dragon-art-objects-ftd.md#^shadow-dragon-art-objects)`
+
 | dice: d10 | Object |
 |-----------|--------|
 | 1 | An ornate scepter marred by soot and grime |

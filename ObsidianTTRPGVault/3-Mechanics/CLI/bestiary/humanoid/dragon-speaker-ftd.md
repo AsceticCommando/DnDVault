@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Dragon Speaker"
 ---
-# [Dragon Speaker](3-Mechanics\CLI\bestiary\humanoid/dragon-speaker-ftd.md)
+# [Dragon Speaker](3-Mechanics/CLI/bestiary/humanoid/dragon-speaker-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 189*  
 
 Dragon speakers are charismatic and persuasive orators who serve as a dragon's ambassadors among other folk. Dragon speakers have loud and authoritative voices, which they use to gain valuable resources, diplomatic connections, and donations of treasure and magic for their dragons—as well as to weave magic both subtle and thundering. They use their commanding presence to instill awe and fear into the hearts of friends and foes alike.
@@ -29,7 +29,7 @@ Dragon followers might serve and revere any kind of dragon, and their behavior a
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "13"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "36"
 "hit_dice": "8d6 + 8"
 "modifier": !!int "2"
@@ -62,10 +62,10 @@ Dragon followers might serve and revere any kind of dragon, and their behavior a
       \ up to 10 feet away from the speaker."
     "name": "Thunder Bolt"
   - "desc": "The speaker casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 13):\n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md)\n\
-      \n**1/day each:** [calm emotions](3-Mechanics/CLI/spells/calm-emotions.md),\
-      \ [charm person](3-Mechanics/CLI/spells/charm-person.md), [command](3-Mechanics/CLI/spells/command.md),\
-      \ [comprehend languages](3-Mechanics/CLI/spells/comprehend-languages.md)"
+      \ spellcasting ability (spell save DC 13):\n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md)\n\
+      \n**1/day each:** [calm emotions](3-Mechanics/CLI/spells/calm-emotions-xphb.md),\
+      \ [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md), [command](3-Mechanics/CLI/spells/command-xphb.md),\
+      \ [comprehend languages](3-Mechanics/CLI/spells/comprehend-languages-xphb.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "When a creature the speaker can see within 60 feet of it makes a damage\
@@ -74,6 +74,6 @@ Dragon followers might serve and revere any kind of dragon, and their behavior a
     "name": "Disarming Words (3/Day)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/dragon-speaker-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Dragon%20Speaker.webp"
 ```
 ^statblock

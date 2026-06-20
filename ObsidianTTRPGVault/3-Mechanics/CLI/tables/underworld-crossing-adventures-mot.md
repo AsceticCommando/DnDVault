@@ -12,6 +12,8 @@ aliases:
 
 **Underworld Crossing Adventures**
 
+`dice: [](underworld-crossing-adventures-mot.md#^underworld-crossing-adventures)`
+
 | dice: d12 | Adventure Goal |
 |-----------|----------------|
 | 1 | Enter the Underworld without alerting Athreos to your presence. |

@@ -12,6 +12,8 @@ aliases:
 
 **Amethyst Dragon Personality Traits**
 
+`dice: [](creating-an-amethyst-dragon-amethyst-dragon-personality-traits-ftd.md#^amethyst-dragon-personality-traits)`
+
 | dice: d8 | Trait |
 |----------|-------|
 | 1 | I am never so content as when contemplating the beauty and wonders of the multiverse. |

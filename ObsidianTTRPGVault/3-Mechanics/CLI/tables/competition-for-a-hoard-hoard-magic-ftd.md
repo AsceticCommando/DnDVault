@@ -12,6 +12,8 @@ aliases:
 
 **Hoard Magic**
 
+`dice: [](competition-for-a-hoard-hoard-magic-ftd.md#^hoard-magic)`
+
 | dice: d6 | Magical Motivation |
 |----------|--------------------|
 | 1 | Create a permanent protective ward covering a city-state or small kingdom |

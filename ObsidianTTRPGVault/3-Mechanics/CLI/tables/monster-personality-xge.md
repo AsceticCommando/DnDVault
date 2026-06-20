@@ -12,6 +12,8 @@ aliases:
 
 **Monster Personality**
 
+`dice: [](monster-personality-xge.md#^monster-personality)`
+
 | dice: d8 | Personality |
 |----------|-------------|
 | 1 | Cowardly; looking to surrender |

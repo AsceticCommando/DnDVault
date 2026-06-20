@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Darrett Highwater"
 ---
-# [Darrett Highwater](3-Mechanics\CLI\bestiary\npc/darrett-highwater-dsotdq.md)
+# [Darrett Highwater](3-Mechanics/CLI/bestiary/npc/darrett-highwater-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 59*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "human"
 "alignment": "Lawful Good"
 "ac": !!int "18"
-"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor.md)"
+"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "52"
 "hit_dice": "8d8 + 16"
 "modifier": !!int "0"
@@ -38,8 +38,8 @@ aliases:
   - "constitution": !!int "4"
   - "wisdom": !!int "2"
 "gear":
-  - "[greatsword](3-Mechanics/CLI/items/greatsword.md)"
-  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow.md)"
+  - "[greatsword](3-Mechanics/CLI/items/greatsword-xphb.md)"
+  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow-xphb.md)"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "3"
@@ -67,6 +67,6 @@ aliases:
     "name": "Parry"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/npc/token/darrett-highwater-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Darrett%20Highwater.webp"
 ```
 ^statblock

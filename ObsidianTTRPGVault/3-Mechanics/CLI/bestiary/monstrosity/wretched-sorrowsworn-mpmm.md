@@ -15,7 +15,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Wretched Sorrowsworn"
 ---
-# [Wretched Sorrowsworn](3-Mechanics\CLI\bestiary\monstrosity/wretched-sorrowsworn-mpmm.md)
+# [Wretched Sorrowsworn](3-Mechanics/CLI/bestiary/monstrosity/wretched-sorrowsworn-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 224, Mordenkainen's Tome of Foes p. 233*  
 
 Horrid little monsters, wretched sorrowsworn—or the Wretched—gather in packs to scour the Shadowfell for prey. These desperate entities subsist on life force; when they find a creature, they surge forward to sink their fangs into their victims and drink deep.
@@ -66,7 +66,7 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/wretched-sorrowsworn-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Wretched%20Sorrowsworn.webp"
 ```
 ^statblock
 

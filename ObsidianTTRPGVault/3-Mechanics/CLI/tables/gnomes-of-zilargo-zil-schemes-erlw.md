@@ -12,10 +12,12 @@ aliases:
 
 **Zil Schemes**
 
+`dice: [](gnomes-of-zilargo-zil-schemes-erlw.md#^zil-schemes)`
+
 | dice: d10 | Scheme |
 |-----------|--------|
 | 1 | Your family is working on a new form of elemental binding, but they need a lot of Khyber dragonshards. |
-| 2 | You have an anonymous contact who sends you missions via the [sending](3-Mechanics/CLI/spells/sending.md) spell. When you do as you're asked, you receive handsome rewards. |
+| 2 | You have an anonymous contact who sends you missions via the [sending](3-Mechanics/CLI/spells/sending-xphb.md) spell. When you do as you're asked, you receive handsome rewards. |
 | 3 | You've inherited a plot of land in Q'barra. If you don't visit within a year, you'll lose the claim. |
 | 4 | Due to an unusual twist of Triumvirate law, you share the same name with a number of other Zil, and you're all legally considered to be the same person. |
 | 5 | You've acquired a [spellshard](3-Mechanics/CLI/items/spellshard-erlw.md) (described in "chapter 5") that contains a vast amount of text in a strange code. |

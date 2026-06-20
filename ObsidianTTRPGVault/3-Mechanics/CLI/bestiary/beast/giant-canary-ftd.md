@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Giant Canary"
 ---
-# [Giant Canary](3-Mechanics\CLI\bestiary\beast/giant-canary-ftd.md)
+# [Giant Canary](3-Mechanics/CLI/bestiary/beast/giant-canary-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 23*  
 
 ```statblock
@@ -41,6 +41,6 @@ aliases:
     "name": "Peck"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/beast/token/giant-canary-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Giant%20Canary.webp"
 ```
 ^statblock

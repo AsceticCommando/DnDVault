@@ -12,6 +12,8 @@ aliases:
 
 **Human Names – Greek, Female**
 
+`dice: [](human-names-greek-female-xge.md#^human-names-greek-female)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Acantha |

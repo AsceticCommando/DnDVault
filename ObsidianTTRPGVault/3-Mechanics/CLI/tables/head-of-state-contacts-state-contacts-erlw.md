@@ -12,6 +12,8 @@ aliases:
 
 **State Contacts**
 
+`dice: [](head-of-state-contacts-state-contacts-erlw.md#^state-contacts)`
+
 | dice: d8 | Contact |
 |----------|---------|
 | 1 | A disapproving courtier who finds your extrajudicial work highly distasteful |

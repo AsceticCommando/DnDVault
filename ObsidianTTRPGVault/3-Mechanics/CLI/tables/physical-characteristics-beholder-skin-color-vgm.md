@@ -12,6 +12,8 @@ aliases:
 
 **Beholder Skin Color**
 
+`dice: [](physical-characteristics-beholder-skin-color-vgm.md#^beholder-skin-color)`
+
 | dice: d12 | Skin Color |
 |-----------|------------|
 | 1 | Brown |

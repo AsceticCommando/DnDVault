@@ -12,6 +12,8 @@ aliases:
 
 **Orc Epithets**
 
+`dice: [](orc-names-orc-epithets-vgm.md#^orc-epithets)`
+
 | dice: d12 | Epithet |
 |-----------|---------|
 | 1 | The Filthy |

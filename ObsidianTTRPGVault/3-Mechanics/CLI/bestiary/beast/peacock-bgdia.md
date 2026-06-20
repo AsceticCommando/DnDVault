@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Peacock"
 ---
-# [Peacock](3-Mechanics\CLI\bestiary\beast/peacock-bgdia.md)
+# [Peacock](3-Mechanics/CLI/bestiary/beast/peacock-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 195*  
 
 ```statblock
@@ -52,6 +52,6 @@ aliases:
     "name": "Beak"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/beast/token/peacock-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Peacock.webp"
 ```
 ^statblock

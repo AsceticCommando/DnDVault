@@ -12,6 +12,8 @@ aliases:
 
 **Gnoll Names**
 
+`dice: [](gnoll-names-vgm.md#^gnoll-names)`
+
 | dice: d12 | Name |
 |-----------|------|
 | 1 | Aargab |

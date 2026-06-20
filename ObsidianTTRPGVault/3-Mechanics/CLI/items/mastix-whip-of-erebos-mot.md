@@ -12,8 +12,8 @@ aliases:
 - "Mastix, Whip of Erebos"
 ---
 # Mastix, Whip of Erebos
-*Weapon ([whip](3-Mechanics/CLI/items/whip.md)), artifact (requires attunement)*  
-![](3-Mechanics/CLI/items/img/mastix-whip-of-erebos.webp#right)
+*Weapon ([whip](3-Mechanics/CLI/items/whip-xphb.md)), artifact (requires attunement)*  
+![](file://items/MOT/Mastix%2C%20Whip%20of%20Erebos.webp#right)
 
 - **Damage**: 1d4 slashing
 - **Properties**: [Finesse](3-Mechanics/CLI/rules/item-properties.md#Finesse), [Reach](3-Mechanics/CLI/rules/item-properties.md#Reach)
@@ -23,7 +23,7 @@ Erebos wields Mastix, a whip capable of extending like an impossibly long shadow
 
 ## Whip of the Dead
 
-Erebos's whip seethes with the enervating energy of the Underworld. This magic whip grants a +3 bonus to attack and damage rolls made with it. When you hit with an attack using this whip, the target takes an extra `2d8` necrotic damage and you regain hit points equal to half the amount of necrotic damage dealt.
+Erebos's whip seethes with the enervating energy of the Underworld. This magic whip grants a +3 bonus to attack and damage rolls made with it. When you hit with an attack using this whip, the target takes an extra `dice:2d8|noform|noparens|avg` (`2d8`) necrotic damage and you regain hit points equal to half the amount of necrotic damage dealt.
 
 Additionally, when you make an attack with the whip on your turn, you can increase the range of the attack to 300 feet. This property of the weapon can't be used again until the next dusk.
 
@@ -31,17 +31,17 @@ Additionally, when you make an attack with the whip on your turn, you can increa
 
 If you are a worshiper of Erebos, you gain all the following benefits for which you have the required piety:
 
-- **Piety 1+.** The whip has 1 randomly determined [minor detrimental](3-Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties.md) property—a burden Erebos imposes to test his faithful.  
-- **Piety 25+.** The whip has 1 randomly determined [major beneficial](3-Mechanics/CLI/tables/artifact-properties-major-beneficial-properties.md) property.  
-- **Piety 50+.** The whip has 1 additional randomly determined [major beneficial](3-Mechanics/CLI/tables/artifact-properties-major-beneficial-properties.md) property.  
+- **Piety 1+.** The whip has 1 randomly determined [minor detrimental](3-Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties-xdmg.md) property—a burden Erebos imposes to test his faithful.  
+- **Piety 25+.** The whip has 1 randomly determined [major beneficial](3-Mechanics/CLI/tables/artifact-properties-major-beneficial-properties-xdmg.md) property.  
+- **Piety 50+.** The whip has 1 additional randomly determined [major beneficial](3-Mechanics/CLI/tables/artifact-properties-major-beneficial-properties-xdmg.md) property.  
 
-If you aren't a worshiper of Erebos, the whip has 2 randomly determined [major detrimental](3-Mechanics/CLI/tables/artifact-properties-major-detrimental-properties.md) properties.
+If you aren't a worshiper of Erebos, the whip has 2 randomly determined [major detrimental](3-Mechanics/CLI/tables/artifact-properties-major-detrimental-properties-xdmg.md) properties.
 
 See "Artifacts" in chapter 7 of the Dungeon Master's Guide for details on randomly determined properties.
 
 ## Erebos's Claim
 
-While carrying the whip, you can use an action to cast either [circle of death](3-Mechanics/CLI/spells/circle-of-death.md) or [dominate monster](3-Mechanics/CLI/spells/dominate-monster.md) (targeting only undead) from the whip. The save DC for these spells is 18. Once you use the whip to cast a spell, that spell can't be cast from it again until the next dusk.
+While carrying the whip, you can use an action to cast either [circle of death](3-Mechanics/CLI/spells/circle-of-death-xphb.md) or [dominate monster](3-Mechanics/CLI/spells/dominate-monster-xphb.md) (targeting only undead) from the whip. The save DC for these spells is 18. Once you use the whip to cast a spell, that spell can't be cast from it again until the next dusk.
 
 ## Destroying the Whip
 

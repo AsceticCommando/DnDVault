@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Chief Guh"
 ---
-# [Chief Guh](3-Mechanics\CLI\bestiary\npc/chief-guh-skt.md)
+# [Chief Guh](3-Mechanics/CLI/bestiary/npc/chief-guh-skt.md)
 *Source: Storm King's Thunder p. 140*  
 
 Hill giants are selfish, dimwitted brutes that hunt, forage, and raid in constant search of food. They blunder through hills and forests devouring what they can,bullying smaller creatures into feeding them. Their laziness and dullness would long ago have spelled their end if not for their formidable size and strength.
@@ -99,7 +99,7 @@ Some giants abandon their own gods and fall prey to demon cults, paying homage t
   - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
 "gear":
-  - "[greatclub](3-Mechanics/CLI/items/greatclub.md)"
+  - "[greatclub](3-Mechanics/CLI/items/greatclub-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Common, Giant, Goblin"
 "cr": "5"
@@ -117,6 +117,6 @@ Some giants abandon their own gods and fall prey to demon cults, paying homage t
     "name": "Rock"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/chief-guh-skt.webp"
+"image": "file://bestiary/tokens/SKT/Chief%20Guh.webp"
 ```
 ^statblock

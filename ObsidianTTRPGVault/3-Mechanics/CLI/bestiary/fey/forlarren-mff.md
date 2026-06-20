@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Forlarren"
 ---
-# [Forlarren](3-Mechanics\CLI\bestiary\fey/forlarren-mff.md)
+# [Forlarren](3-Mechanics/CLI/bestiary/fey/forlarren-mff.md)
 *Source: Mordenkainen's Fiendish Folio p. 9*  
 
 The descendants of satyrs corrupted by infernal power, forlarren are miserable creatures—an unhappy union between the rigid demands of the Nine Hells and the impulsive hedonism of the Feywild. Driven by dramatic and unpredictable emotions, these feral creatures wreak havoc wherever they go.
@@ -65,13 +65,13 @@ Several ballads of the Feywild recount the dramatic fall of valiant forlarren. I
 "traits":
   - "desc": "The forlarren's innate spellcasting ability is Charisma (spell save DC\
       \ 14). It can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [expeditious retreat](3-Mechanics/CLI/spells/expeditious-retreat.md),\
-      \ [false life](3-Mechanics/CLI/spells/false-life.md), [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md),\
-      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md)\n\n**3/day\
-      \ each:** [aid](3-Mechanics/CLI/spells/aid.md), [misty step](3-Mechanics/CLI/spells/misty-step.md),\
-      \ [Tasha's hideous laughter](3-Mechanics/CLI/spells/tashas-hideous-laughter.md)\n\
-      \n**1/day each:** [heal](3-Mechanics/CLI/spells/heal.md), [heat metal](3-Mechanics/CLI/spells/heat-metal.md),\
-      \ [mirror image](3-Mechanics/CLI/spells/mirror-image.md)"
+      \n**At will:** [expeditious retreat](3-Mechanics/CLI/spells/expeditious-retreat-xphb.md),\
+      \ [false life](3-Mechanics/CLI/spells/false-life-xphb.md), [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md),\
+      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n**3/day\
+      \ each:** [aid](3-Mechanics/CLI/spells/aid-xphb.md), [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md),\
+      \ [Tasha's hideous laughter](3-Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md)\n\
+      \n**1/day each:** [heal](3-Mechanics/CLI/spells/heal-xphb.md), [heat metal](3-Mechanics/CLI/spells/heat-metal-xphb.md),\
+      \ [mirror image](3-Mechanics/CLI/spells/mirror-image-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "The forlarren has advantage on saving throws against spells and other\
       \ magical effects."
@@ -91,6 +91,6 @@ Several ballads of the Feywild recount the dramatic fall of valiant forlarren. I
     "name": "Chromatic Ray"
 "source":
   - "MFF"
-"image": "3-Mechanics/CLI/bestiary/fey/token/forlarren-mff.webp"
+"image": "file://bestiary/tokens/MFF/Forlarren.webp"
 ```
 ^statblock

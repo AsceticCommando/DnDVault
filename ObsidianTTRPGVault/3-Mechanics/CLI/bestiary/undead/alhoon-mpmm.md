@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Alhoon"
 ---
-# [Alhoon](3-Mechanics\CLI\bestiary\undead/alhoon-mpmm.md)
+# [Alhoon](3-Mechanics/CLI/bestiary/undead/alhoon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 43, Volo's Guide to Monsters p. 172*  
 
 > [!quote] A quote from Mordenkainen  
@@ -113,14 +113,15 @@ Destroying a periapt of mind trapping consigns those trapped within it to oblivi
     "name": "Mind Blast (Recharge 5-6)"
   - "desc": "The alhoon casts one of the following spells, requiring no material components\
       \ and using Intelligence as the spellcasting ability (spell save DC 16):\n\n\
-      **At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md), [detect\
-      \ magic](3-Mechanics/CLI/spells/detect-magic.md), [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md),\
-      \ [disguise self](3-Mechanics/CLI/spells/disguise-self.md), [mage hand](3-Mechanics/CLI/spells/mage-hand.md),\
-      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md)\n\n**1/day\
-      \ each:** [dominate monster](3-Mechanics/CLI/spells/dominate-monster.md), [globe\
-      \ of invulnerability](3-Mechanics/CLI/spells/globe-of-invulnerability.md), [invisibility](3-Mechanics/CLI/spells/invisibility.md),\
-      \ [modify memory](3-Mechanics/CLI/spells/modify-memory.md), [plane shift](3-Mechanics/CLI/spells/plane-shift.md)\
-      \ (self only), [wall of force](3-Mechanics/CLI/spells/wall-of-force.md)"
+      **At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
+      \ [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md), [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n**1/day\
+      \ each:** [dominate monster](3-Mechanics/CLI/spells/dominate-monster-xphb.md),\
+      \ [globe of invulnerability](3-Mechanics/CLI/spells/globe-of-invulnerability-xphb.md),\
+      \ [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md), [modify memory](3-Mechanics/CLI/spells/modify-memory-xphb.md),\
+      \ [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md) (self only), [wall\
+      \ of force](3-Mechanics/CLI/spells/wall-of-force-xphb.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "The alhoon targets one creature it can see within 60 feet of it that\
@@ -130,7 +131,7 @@ Destroying a periapt of mind trapping consigns those trapped within it to oblivi
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/undead/token/alhoon-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Alhoon.webp"
 ```
 ^statblock
 

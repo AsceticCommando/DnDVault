@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Sea Elf Scout"
 ---
-# [Sea Elf Scout](3-Mechanics\CLI\bestiary\humanoid/sea-elf-scout-dsotdq.md)
+# [Sea Elf Scout](3-Mechanics/CLI/bestiary/humanoid/sea-elf-scout-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 114*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "elf"
 "alignment": "Any alignment"
 "ac": !!int "13"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "16"
 "hit_dice": "3d8 + 3"
 "modifier": !!int "2"
@@ -44,8 +44,8 @@ aliases:
   - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+5"
 "gear":
-  - "[longbow](3-Mechanics/CLI/items/longbow.md)"
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[longbow](3-Mechanics/CLI/items/longbow-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 15"
 "languages": "Any one language (usually Common)"
@@ -70,6 +70,6 @@ aliases:
     "name": "Longbow"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/sea-elf-scout-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Sea%20Elf%20Scout.webp"
 ```
 ^statblock

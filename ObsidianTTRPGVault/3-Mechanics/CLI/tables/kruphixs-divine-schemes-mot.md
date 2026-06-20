@@ -12,6 +12,8 @@ aliases:
 
 **Kruphix's Divine Schemes**
 
+`dice: [](kruphixs-divine-schemes-mot.md#^kruphixs-divine-schemes)`
+
 | dice: d4 | Scheme |
 |----------|--------|
 | 1 | Shadowy forces steal a holy artifact, thought to be a part of the sun, from Heliod's followers. The priesthood blames Phenax or Erebos, but Kruphix is behind the theft. The sun stone holds a terrible secret power, and Kruphix seeks to remove it from the mortal world before it does great harm. |

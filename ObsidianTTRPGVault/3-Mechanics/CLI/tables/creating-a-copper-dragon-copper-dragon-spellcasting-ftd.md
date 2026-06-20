@@ -14,7 +14,7 @@ aliases:
 
 | Age | Spell Save DC | Spells Known |
 |-----|---------------|--------------|
-| [Young](3-Mechanics/CLI/bestiary/dragon/young-copper-dragon.md) | 13 | [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration.md), [phantasmal force](3-Mechanics/CLI/spells/phantasmal-force.md) |
-| [Adult](3-Mechanics/CLI/bestiary/dragon/adult-copper-dragon.md) | 16 | [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration.md), [phantasmal force](3-Mechanics/CLI/spells/phantasmal-force.md), [stone shape](3-Mechanics/CLI/spells/stone-shape.md) |
-| [Ancient](3-Mechanics/CLI/bestiary/dragon/ancient-copper-dragon.md) | 19 | [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration.md), [move earth](3-Mechanics/CLI/spells/move-earth.md), [phantasmal force](3-Mechanics/CLI/spells/phantasmal-force.md), [stone shape](3-Mechanics/CLI/spells/stone-shape.md) |
+| [Young](3-Mechanics/CLI/bestiary/dragon/young-copper-dragon-xmm.md) | 13 | [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md), [phantasmal force](3-Mechanics/CLI/spells/phantasmal-force-xphb.md) |
+| [Adult](3-Mechanics/CLI/bestiary/dragon/adult-copper-dragon-xmm.md) | 16 | [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md), [phantasmal force](3-Mechanics/CLI/spells/phantasmal-force-xphb.md), [stone shape](3-Mechanics/CLI/spells/stone-shape-xphb.md) |
+| [Ancient](3-Mechanics/CLI/bestiary/dragon/ancient-copper-dragon-xmm.md) | 19 | [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md), [move earth](3-Mechanics/CLI/spells/move-earth-xphb.md), [phantasmal force](3-Mechanics/CLI/spells/phantasmal-force-xphb.md), [stone shape](3-Mechanics/CLI/spells/stone-shape-xphb.md) |
 ^copper-dragon-spellcasting

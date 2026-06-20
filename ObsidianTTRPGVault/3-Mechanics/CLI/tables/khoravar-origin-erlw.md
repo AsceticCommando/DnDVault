@@ -12,6 +12,8 @@ aliases:
 
 **Khoravar Origin**
 
+`dice: [](khoravar-origin-erlw.md#^khoravar-origin)`
+
 | dice: d10 | Origin |
 |-----------|--------|
 | 1 | You're the linchpin of a Khoravar community in a major city, hosting unity meals and maintaining connections with every half-elf in the city. |

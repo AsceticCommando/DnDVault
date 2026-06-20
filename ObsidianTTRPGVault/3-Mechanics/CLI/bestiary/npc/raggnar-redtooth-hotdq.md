@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Raggnar Redtooth"
 ---
-# [Raggnar Redtooth](3-Mechanics\CLI\bestiary\npc/raggnar-redtooth-hotdq.md)
+# [Raggnar Redtooth](3-Mechanics/CLI/bestiary/npc/raggnar-redtooth-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 74, Tyranny of Dragons p. 90*  
 
 ```statblock
@@ -39,9 +39,9 @@ aliases:
   - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
 "gear":
-  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow.md)"
-  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow-xphb.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "any one language (usually Common)"
 "cr": "3"
@@ -61,6 +61,6 @@ aliases:
 "source":
   - "HotDQ"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/npc/token/raggnar-redtooth-hotdq.webp"
+"image": "file://bestiary/tokens/HotDQ/Raggnar%20Redtooth.webp"
 ```
 ^statblock

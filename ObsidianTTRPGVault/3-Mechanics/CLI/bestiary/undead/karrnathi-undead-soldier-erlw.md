@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Karrnathi Undead Soldier"
 ---
-# [Karrnathi Undead Soldier](3-Mechanics\CLI\bestiary\undead/karrnathi-undead-soldier-erlw.md)
+# [Karrnathi Undead Soldier](3-Mechanics/CLI/bestiary/undead/karrnathi-undead-soldier-erlw.md)
 *Source: Eberron: Rising from the Last War p. 295*  
 
 Undead soldiers form the elite core of the army of Karrnath. Fearless and tireless, they are a terrifying sight on the battlefield. With the end of the Last War, most Karrnathi undead have been sealed in vaults below the city of Atur. However, the Karrnathi army keeps numerous undead in its service, while others have been commandeered by the malevolent Order of the Emerald Claw.
@@ -43,7 +43,7 @@ A Karrnathi undead soldier doesn't require air, food, drink, or sleep.
 "type": "undead"
 "alignment": "Lawful Evil"
 "ac": !!int "17"
-"ac_class": "[half plate armor](3-Mechanics/CLI/items/half-plate-armor.md)"
+"ac_class": "[half plate armor](3-Mechanics/CLI/items/half-plate-armor-xphb.md)"
 "hp": !!int "52"
 "hit_dice": "7d8 + 21"
 "modifier": !!int "2"
@@ -64,8 +64,8 @@ A Karrnathi undead soldier doesn't require air, food, drink, or sleep.
 "condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
   \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
 "gear":
-  - "[longbow](3-Mechanics/CLI/items/longbow.md)"
-  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
+  - "[longbow](3-Mechanics/CLI/items/longbow-xphb.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 13"
 "languages": "Common"
@@ -94,6 +94,6 @@ A Karrnathi undead soldier doesn't require air, food, drink, or sleep.
     "name": "Parry"
 "source":
   - "ERLW"
-"image": "3-Mechanics/CLI/bestiary/undead/token/karrnathi-undead-soldier-erlw.webp"
+"image": "file://bestiary/tokens/ERLW/Karrnathi%20Undead%20Soldier.webp"
 ```
 ^statblock

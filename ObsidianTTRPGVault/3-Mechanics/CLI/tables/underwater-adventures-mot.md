@@ -12,6 +12,8 @@ aliases:
 
 **Underwater Adventures**
 
+`dice: [](underwater-adventures-mot.md#^underwater-adventures)`
+
 | dice: d12 | Plot |
 |-----------|------|
 | 1 | Seek aid or advice from the eldest member of an aquatic species—such as the first dolphin. |

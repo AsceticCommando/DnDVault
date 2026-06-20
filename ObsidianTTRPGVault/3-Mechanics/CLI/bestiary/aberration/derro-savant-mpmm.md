@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Derro Savant"
 ---
-# [Derro Savant](3-Mechanics\CLI\bestiary\aberration/derro-savant-mpmm.md)
+# [Derro Savant](3-Mechanics/CLI/bestiary/aberration/derro-savant-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 92, Mordenkainen's Tome of Foes p. 159*  
 
 > [!quote] A quote from Mordenkainen  
@@ -37,7 +37,7 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 "subtype": "sorcerer"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "13"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "36"
 "hit_dice": "8d6 + 8"
 "modifier": !!int "2"
@@ -53,7 +53,7 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "gear":
-  - "[quarterstaff](3-Mechanics/CLI/items/quarterstaff.md)"
+  - "[quarterstaff](3-Mechanics/CLI/items/quarterstaff-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
   \ Perception 7"
 "languages": "Dwarvish, Undercommon"
@@ -76,15 +76,15 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
       \ much damage on a successful one."
     "name": "Chromatic Beam"
   - "desc": "The derro casts one of the following spells, using Charisma as the spellcasting\
-      \ ability (spell save DC 12):\n\n**At will:** [mage hand](3-Mechanics/CLI/spells/mage-hand.md),\
-      \ [message](3-Mechanics/CLI/spells/message.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md)\n\
-      \n**1/day each:** [invisibility](3-Mechanics/CLI/spells/invisibility.md), [sleep](3-Mechanics/CLI/spells/sleep.md),\
-      \ [spider climb](3-Mechanics/CLI/spells/spider-climb.md)"
+      \ ability (spell save DC 12):\n\n**At will:** [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [message](3-Mechanics/CLI/spells/message-xphb.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
+      \n**1/day each:** [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md),\
+      \ [sleep](3-Mechanics/CLI/spells/sleep-xphb.md), [spider climb](3-Mechanics/CLI/spells/spider-climb-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/derro-savant-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Derro%20Savant.webp"
 ```
 ^statblock
 

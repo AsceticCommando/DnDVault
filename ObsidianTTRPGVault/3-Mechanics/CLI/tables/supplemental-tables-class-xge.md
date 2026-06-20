@@ -12,6 +12,8 @@ aliases:
 
 **Class**
 
+`dice: [](supplemental-tables-class-xge.md#^class)`
+
 | dice: d100 | Class |
 |------------|-------|
 | 1-7 | Barbarian |

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Hook Horror Spore Servant"
 ---
-# [Hook Horror Spore Servant](3-Mechanics\CLI\bestiary\plant/hook-horror-spore-servant-oota.md)
+# [Hook Horror Spore Servant](3-Mechanics/CLI/bestiary/plant/hook-horror-spore-servant-oota.md)
 *Source: Out of the Abyss p. 68*  
 
 ```statblock
@@ -48,6 +48,6 @@ aliases:
     "name": "Hook"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/plant/token/hook-horror-spore-servant-oota.webp"
+"image": "file://bestiary/tokens/OotA/Hook%20Horror%20Spore%20Servant.webp"
 ```
 ^statblock

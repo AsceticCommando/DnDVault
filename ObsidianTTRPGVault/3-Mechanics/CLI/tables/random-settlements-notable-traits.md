@@ -12,6 +12,8 @@ aliases:
 
 **Notable Traits**
 
+`dice: [](random-settlements-notable-traits.md#^notable-traits)`
+
 | dice: d20 | Trait |
 |-----------|-------|
 | 1 | Canals in place of streets |

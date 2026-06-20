@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Dragonborn of Bahamut"
 ---
-# [Dragonborn of Bahamut](3-Mechanics\CLI\bestiary\humanoid/dragonborn-of-bahamut-ftd.md)
+# [Dragonborn of Bahamut](3-Mechanics/CLI/bestiary/humanoid/dragonborn-of-bahamut-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 184*  
 
 Often called platinum knights, dragonborn champions of Bahamut might belong to an order that exists to protect the world from evil—and especially from evil dragons. A champion of Bahamut has a distinctive pair of platinum wings and a breath weapon suffused with radiant energy.
@@ -27,7 +27,7 @@ The connection between dragonborn and their draconic ancestors manifests in a va
 "type": "humanoid"
 "alignment": "typically  Lawful Good"
 "ac": !!int "18"
-"ac_class": "[half plate](3-Mechanics/CLI/items/half-plate-armor.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[half plate](3-Mechanics/CLI/items/half-plate-armor-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "93"
 "hit_dice": "11d8 + 44"
 "modifier": !!int "1"
@@ -53,7 +53,7 @@ The connection between dragonborn and their draconic ancestors manifests in a va
     "desc": "+6"
 "condition_immunities": "[frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
 "gear":
-  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
 "senses": "passive Perception 15"
 "languages": "Common, Draconic"
 "cr": "8"
@@ -84,6 +84,6 @@ The connection between dragonborn and their draconic ancestors manifests in a va
     "name": "Radiant Breath (Recharge 6)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/dragonborn-of-bahamut-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Dragonborn%20of%20Bahamut.webp"
 ```
 ^statblock

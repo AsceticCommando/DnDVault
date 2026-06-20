@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Leonin Iconoclast"
 ---
-# [Leonin Iconoclast](3-Mechanics\CLI\bestiary\humanoid/leonin-iconoclast-mot.md)
+# [Leonin Iconoclast](3-Mechanics/CLI/bestiary/humanoid/leonin-iconoclast-mot.md)
 *Source: Mythic Odysseys of Theros p. 232*  
 
 While leonin don't deny the existence of the gods, most denounce them, believing the deities are more likely to spread doom than peace and bounty. Some leonin, known as iconoclasts, devote themselves to thwarting the gods by hunting down their followers and all things born of Nyx that impede on Oreskos and the safety of the leonin prides.
@@ -55,7 +55,7 @@ Most leonin hunters are tribal warriors, but those who hunt the servants of the 
   - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+6"
 "gear":
-  - "[dart](3-Mechanics/CLI/items/dart.md)"
+  - "[dart](3-Mechanics/CLI/items/dart-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 13"
 "languages": "Common, Leonin"
@@ -63,8 +63,8 @@ Most leonin hunters are tribal warriors, but those who hunt the servants of the 
 "traits":
   - "desc": "The leonin's spellcasting ability is Wisdom (spell save DC 14). It can\
       \ innately cast the following spells, requiring no material components:\n\n\
-      **1/day each:** [banishment](3-Mechanics/CLI/spells/banishment.md), [detect\
-      \ evil and good](3-Mechanics/CLI/spells/detect-evil-and-good.md)"
+      **1/day each:** [banishment](3-Mechanics/CLI/spells/banishment-xphb.md), [detect\
+      \ evil and good](3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "If the leonin is subjected to an effect that allows it to make a Dexterity\
       \ saving throw to take only half damage, it instead takes no damage if it succeeds\
@@ -85,6 +85,6 @@ Most leonin hunters are tribal warriors, but those who hunt the servants of the 
     "name": "Dart"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/leonin-iconoclast-mot.webp"
+"image": "file://bestiary/tokens/MOT/Leonin%20Iconoclast.webp"
 ```
 ^statblock

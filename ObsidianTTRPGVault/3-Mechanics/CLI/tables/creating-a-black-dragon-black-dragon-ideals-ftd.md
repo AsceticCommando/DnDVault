@@ -12,6 +12,8 @@ aliases:
 
 **Black Dragon Ideals**
 
+`dice: [](creating-a-black-dragon-black-dragon-ideals-ftd.md#^black-dragon-ideals)`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Envy. If the achievements of others cannot be eclipsed, they can always be torn down. (Evil) |

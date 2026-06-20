@@ -10,7 +10,7 @@ aliases:
 - "Obsidian Flint Dragon Plate"
 ---
 # Obsidian Flint Dragon Plate
-*Heavy armor ([plate armor](3-Mechanics/CLI/items/plate-armor.md)), legendary*  
+*Heavy armor ([plate armor](3-Mechanics/CLI/items/plate-armor-xphb.md)), legendary*  
 
 
 - **Armor Class**: 18

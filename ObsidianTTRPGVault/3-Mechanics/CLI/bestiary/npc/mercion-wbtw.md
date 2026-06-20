@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Mercion"
 ---
-# [Mercion](3-Mechanics\CLI\bestiary\npc/mercion-wbtw.md)
+# [Mercion](3-Mechanics/CLI/bestiary/npc/mercion-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 224*  
 
 Mercion strikes the balance of a natural leader and a protective caregiver. She has a direct manner that reassures and inspires those around her.
@@ -27,7 +27,7 @@ Mercion does not worship a deity, but rather an ideal: that truth gives life to 
 "subtype": "cleric, human"
 "alignment": "Lawful Good"
 "ac": !!int "19"
-"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor.md)"
+"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "31"
 "hit_dice": "9d8 - 9"
 "modifier": !!int "0"
@@ -48,12 +48,12 @@ Mercion does not worship a deity, but rather an ideal: that truth gives life to 
   - "name": "[Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)"
     "desc": "+5"
 "gear":
-  - "[+1 quarterstaff](3-Mechanics/CLI/items/1-weapon.md)"
+  - "[+1 quarterstaff](3-Mechanics/CLI/items/1-weapon-xdmg.md)"
 "senses": "passive Perception 13"
 "languages": "Common, Dwarvish"
 "cr": "3"
 "traits":
-  - "desc": "Mercion wields a [+1 quarterstaff](3-Mechanics/CLI/items/1-weapon.md)."
+  - "desc": "Mercion wields a [+1 quarterstaff](3-Mechanics/CLI/items/1-weapon-xdmg.md)."
     "name": "Special Equipment"
 "actions":
   - "desc": "Mercion makes one Divine Radiance attack and one +1 Quarterstaff attack.\
@@ -73,15 +73,15 @@ Mercion does not worship a deity, but rather an ideal: that truth gives life to 
       \ one."
     "name": "Radiant Fire (Recharge 5-6)"
   - "desc": "Mercion casts one of the following spells, using Wisdom as the spellcasting\
-      \ ability (spell save DC 13):\n\n**At will:** [light](3-Mechanics/CLI/spells/light.md),\
-      \ [spare the dying](3-Mechanics/CLI/spells/spare-the-dying.md)\n\n**2/day each:**\
-      \ [command](3-Mechanics/CLI/spells/command.md), [create food and water](3-Mechanics/CLI/spells/create-food-and-water.md),\
-      \ [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md),\
-      \ [hold person](3-Mechanics/CLI/spells/hold-person.md), [revivify](3-Mechanics/CLI/spells/revivify.md)\n\
-      \n**1/day:** [death ward](3-Mechanics/CLI/spells/death-ward.md)"
+      \ ability (spell save DC 13):\n\n**At will:** [light](3-Mechanics/CLI/spells/light-xphb.md),\
+      \ [spare the dying](3-Mechanics/CLI/spells/spare-the-dying-xphb.md)\n\n**2/day\
+      \ each:** [command](3-Mechanics/CLI/spells/command-xphb.md), [create food and\
+      \ water](3-Mechanics/CLI/spells/create-food-and-water-xphb.md), [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md),\
+      \ [faerie fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md), [hold person](3-Mechanics/CLI/spells/hold-person-xphb.md),\
+      \ [revivify](3-Mechanics/CLI/spells/revivify-xphb.md)\n\n**1/day:** [death ward](3-Mechanics/CLI/spells/death-ward-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/npc/token/mercion-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Mercion.webp"
 ```
 ^statblock

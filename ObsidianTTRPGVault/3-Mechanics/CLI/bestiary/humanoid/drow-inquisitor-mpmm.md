@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Drow Inquisitor"
 ---
-# [Drow Inquisitor](3-Mechanics\CLI\bestiary\humanoid/drow-inquisitor-mpmm.md)
+# [Drow Inquisitor](3-Mechanics/CLI/bestiary/humanoid/drow-inquisitor-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 102, Mordenkainen's Tome of Foes p. 184*  
 
 Lolth's worshipers expect treachery—the Spider Queen encourages it, after all. A certain amount of backstabbing and double-crossing can be managed, but too much can undermine an entire community. To keep some semblance of order and to root out traitors, priestesses of Lolth employ inquisitors. Inquisitors are chosen from the ranks of the priesthood, and their authority is equaled only by that of the [drow matron mothers](3-Mechanics/CLI/bestiary/humanoid/drow-matron-mother-mpmm.md) (also in this book) of the noble houses. Anyone they decide is at odds with the hierarchy faces painful interrogation and usually an excruciating death.
@@ -26,7 +26,7 @@ Lolth's worshipers expect treachery—the Spider Queen encourages it, after all.
 "subtype": "cleric, Drow elf"
 "alignment": "Typically  Neutral Evil"
 "ac": !!int "16"
-"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate.md)"
+"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate-xphb.md)"
 "hp": !!int "149"
 "hit_dice": "23d8 + 46"
 "modifier": !!int "2"
@@ -78,13 +78,14 @@ Lolth's worshipers expect treachery—the Spider Queen encourages it, after all.
     "name": "Death Lance"
   - "desc": "The drow's casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 18):\n\n**At\
-      \ will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md), [detect\
-      \ magic](3-Mechanics/CLI/spells/detect-magic.md), [message](3-Mechanics/CLI/spells/message.md),\
-      \ [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy.md)\n\n**1/day each:** [clairvoyance](3-Mechanics/CLI/spells/clairvoyance.md),\
-      \ [darkness](3-Mechanics/CLI/spells/darkness.md), [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md),\
-      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md),\
-      \ [levitate](3-Mechanics/CLI/spells/levitate.md) (self only), [silence](3-Mechanics/CLI/spells/silence.md),\
-      \ [suggestion](3-Mechanics/CLI/spells/suggestion.md), [true seeing](3-Mechanics/CLI/spells/true-seeing.md)"
+      \ will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md), [detect\
+      \ magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [message](3-Mechanics/CLI/spells/message-xphb.md),\
+      \ [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n**1/day each:**\
+      \ [clairvoyance](3-Mechanics/CLI/spells/clairvoyance-xphb.md), [darkness](3-Mechanics/CLI/spells/darkness-xphb.md),\
+      \ [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md), [dispel\
+      \ magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md),\
+      \ [levitate](3-Mechanics/CLI/spells/levitate-xphb.md) (self only), [silence](3-Mechanics/CLI/spells/silence-xphb.md),\
+      \ [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md), [true seeing](3-Mechanics/CLI/spells/true-seeing-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The drow conjures a floating, spectral dagger within 60 feet of itself.\
@@ -97,7 +98,7 @@ Lolth's worshipers expect treachery—the Spider Queen encourages it, after all.
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/drow-inquisitor-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Drow%20Inquisitor.webp"
 ```
 ^statblock
 

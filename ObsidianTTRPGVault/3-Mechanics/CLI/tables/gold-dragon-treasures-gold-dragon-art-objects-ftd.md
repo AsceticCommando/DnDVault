@@ -12,6 +12,8 @@ aliases:
 
 **Gold Dragon Art Objects**
 
+`dice: [](gold-dragon-treasures-gold-dragon-art-objects-ftd.md#^gold-dragon-art-objects)`
+
 | dice: d10 | Object |
 |-----------|--------|
 | 1 | A fine tapestry depicting the intermingled family trees of several royal bloodlines going back multiple generations—and containing surprising revelations |

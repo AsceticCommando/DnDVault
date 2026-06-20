@@ -12,6 +12,8 @@ aliases:
 
 **Aristocrat Quests**
 
+`dice: [](aristocrat-quests-tce.md#^aristocrat-quests)`
+
 | dice: d6 | Quest |
 |----------|-------|
 | 1 | **Noble Union**. You work within multiple noble factions to unite rival families. |

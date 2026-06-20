@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Detached Shadow"
 ---
-# [Detached Shadow](3-Mechanics\CLI\bestiary\fey/detached-shadow-wbtw.md)
+# [Detached Shadow](3-Mechanics/CLI/bestiary/fey/detached-shadow-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 213*  
 
 ```statblock
@@ -68,6 +68,6 @@ aliases:
     "name": "Strength Drain"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/fey/token/detached-shadow-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Detached%20Shadow.webp"
 ```
 ^statblock

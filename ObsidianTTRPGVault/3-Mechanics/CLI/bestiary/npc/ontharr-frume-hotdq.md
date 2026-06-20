@@ -12,17 +12,23 @@ statblock-link: "#^statblock"
 aliases:
 - "Ontharr Frume"
 ---
-# [Ontharr Frume](3-Mechanics\CLI\bestiary\npc/ontharr-frume-hotdq.md)
+# [Ontharr Frume](3-Mechanics/CLI/bestiary/npc/ontharr-frume-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 28, Tyranny of Dragons p. 15*  
+
+**Ideals**: Responsibility, greater good ("The strong must defend the weak, whatever the cost.")
+
+**Personality Traits**: Friendly, hot-tempered
+
+**Pledged Resources**: Paladins and healing clerics to support the fight against Tiamat's forces
 
 ```statblock
 "name": "Ontharr Frume (HotDQ)"
 "size": "Medium"
 "type": "humanoid"
 "subtype": "human"
-"alignment": "Any alignment"
+"alignment": "Lawful Good"
 "ac": !!int "18"
-"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor.md)"
+"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "117"
 "hit_dice": "18d8 + 36"
 "modifier": !!int "0"
@@ -43,30 +49,32 @@ aliases:
   - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+4"
 "gear":
-  - "[maul](3-Mechanics/CLI/items/maul.md)"
+  - "[maul](3-Mechanics/CLI/items/maul-xphb.md)"
 "senses": "passive Perception 13"
-"languages": "any two languages"
+"languages": "Common"
 "cr": "9"
 "traits":
   - "desc": "The priest is a 9th-level spellcaster. Its spellcasting ability is Wisdom\
       \ (spell save DC 15, +7 to hit with spell attacks). It has the following cleric\
-      \ spells prepared:\n\n**Cantrips (at will):** [light](3-Mechanics/CLI/spells/light.md),\
-      \ [mending](3-Mechanics/CLI/spells/mending.md), [sacred flame](3-Mechanics/CLI/spells/sacred-flame.md),\
-      \ [spare the dying](3-Mechanics/CLI/spells/spare-the-dying.md)\n\n**1st level\
-      \ (4 slots):** [divine favor](3-Mechanics/CLI/spells/divine-favor.md), [guiding\
-      \ bolt](3-Mechanics/CLI/spells/guiding-bolt.md), [healing word](3-Mechanics/CLI/spells/healing-word.md),\
-      \ [shield of faith](3-Mechanics/CLI/spells/shield-of-faith.md)\n\n**2nd level\
-      \ (3 slots):** [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration.md),\
-      \ [magic weapon](3-Mechanics/CLI/spells/magic-weapon.md), [prayer of healing](3-Mechanics/CLI/spells/prayer-of-healing.md),\
-      \ [silence](3-Mechanics/CLI/spells/silence.md), [spiritual weapon](3-Mechanics/CLI/spells/spiritual-weapon.md)\n\
-      \n**3rd level (3 slots):** [beacon of hope](3-Mechanics/CLI/spells/beacon-of-hope.md),\
-      \ [crusader's mantle](3-Mechanics/CLI/spells/crusaders-mantle.md), [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md),\
-      \ [revivify](3-Mechanics/CLI/spells/revivify.md), [spirit guardians](3-Mechanics/CLI/spells/spirit-guardians.md),\
-      \ [water walk](3-Mechanics/CLI/spells/water-walk.md)\n\n**4th level (3 slots):**\
-      \ [banishment](3-Mechanics/CLI/spells/banishment.md), [freedom of movement](3-Mechanics/CLI/spells/freedom-of-movement.md),\
-      \ [guardian of faith](3-Mechanics/CLI/spells/guardian-of-faith.md), [stoneskin](3-Mechanics/CLI/spells/stoneskin.md)\n\
-      \n**5th level (1 slots):** [flame strike](3-Mechanics/CLI/spells/flame-strike.md),\
-      \ [mass cure wounds](3-Mechanics/CLI/spells/mass-cure-wounds.md), [hold monster](3-Mechanics/CLI/spells/hold-monster.md)"
+      \ spells prepared:\n\n**Cantrips (at will):** [light](3-Mechanics/CLI/spells/light-xphb.md),\
+      \ [mending](3-Mechanics/CLI/spells/mending-xphb.md), [sacred flame](3-Mechanics/CLI/spells/sacred-flame-xphb.md),\
+      \ [spare the dying](3-Mechanics/CLI/spells/spare-the-dying-xphb.md)\n\n**1st\
+      \ level (4 slots):** [divine favor](3-Mechanics/CLI/spells/divine-favor-xphb.md),\
+      \ [guiding bolt](3-Mechanics/CLI/spells/guiding-bolt-xphb.md), [healing word](3-Mechanics/CLI/spells/healing-word-xphb.md),\
+      \ [shield of faith](3-Mechanics/CLI/spells/shield-of-faith-xphb.md)\n\n**2nd\
+      \ level (3 slots):** [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md),\
+      \ [magic weapon](3-Mechanics/CLI/spells/magic-weapon-xphb.md), [prayer of healing](3-Mechanics/CLI/spells/prayer-of-healing-xphb.md),\
+      \ [silence](3-Mechanics/CLI/spells/silence-xphb.md), [spiritual weapon](3-Mechanics/CLI/spells/spiritual-weapon-xphb.md)\n\
+      \n**3rd level (3 slots):** [beacon of hope](3-Mechanics/CLI/spells/beacon-of-hope-xphb.md),\
+      \ [crusader's mantle](3-Mechanics/CLI/spells/crusaders-mantle-xphb.md), [dispel\
+      \ magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [revivify](3-Mechanics/CLI/spells/revivify-xphb.md),\
+      \ [spirit guardians](3-Mechanics/CLI/spells/spirit-guardians-xphb.md), [water\
+      \ walk](3-Mechanics/CLI/spells/water-walk-xphb.md)\n\n**4th level (3 slots):**\
+      \ [banishment](3-Mechanics/CLI/spells/banishment-xphb.md), [freedom of movement](3-Mechanics/CLI/spells/freedom-of-movement-xphb.md),\
+      \ [guardian of faith](3-Mechanics/CLI/spells/guardian-of-faith-xphb.md), [stoneskin](3-Mechanics/CLI/spells/stoneskin-xphb.md)\n\
+      \n**5th level (1 slots):** [flame strike](3-Mechanics/CLI/spells/flame-strike-xphb.md),\
+      \ [mass cure wounds](3-Mechanics/CLI/spells/mass-cure-wounds-xphb.md), [hold\
+      \ monster](3-Mechanics/CLI/spells/hold-monster-xphb.md)"
     "name": "Spellcasting"
   - "desc": "Ontharr Frume is presented in Hoard of the Dragon Queen and The Rise\
       \ of Tiamat as a lawful good, human paladin of Torm. The [war priest](3-Mechanics/CLI/bestiary/humanoid/war-priest-mpmm.md)\
@@ -87,6 +95,6 @@ aliases:
 "source":
   - "HotDQ"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/npc/token/ontharr-frume-hotdq.webp"
+"image": "file://bestiary/tokens/HotDQ/Ontharr%20Frume.webp"
 ```
 ^statblock

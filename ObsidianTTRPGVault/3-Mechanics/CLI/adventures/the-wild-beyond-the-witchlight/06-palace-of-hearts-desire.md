@@ -12,15 +12,15 @@ aliases:
 
 The archfey Zybilna is known to grant wishes to mortals brave enough to visit her abode: the Palace of Heart's Desire.
 
-Zybilna's fairytale palace sits at the heart of Prismeer. On some worlds, the archfey is seen as a fairy godmother of sorts, casting [wish](3-Mechanics/CLI/spells/wish.md) spells for the benefit of the lost, the forsaken, or the betrayed. Sometimes her wishes would bring happiness, other times despair. Her palace was a destination for anyone seeking their heart's desire.
+Zybilna's fairytale palace sits at the heart of Prismeer. On some worlds, the archfey is seen as a fairy godmother of sorts, casting [wish](3-Mechanics/CLI/spells/wish-xphb.md) spells for the benefit of the lost, the forsaken, or the betrayed. Sometimes her wishes would bring happiness, other times despair. Her palace was a destination for anyone seeking their heart's desire.
 
 Zybilna no longer grants wishes, for she is trapped in temporal stasis—frozen in time by the magic of her cauldron, which the hags of the Hourglass Coven have turned against her. Freeing Zybilna is the only way to repair the damage the hags have done to Prismeer, but doing so carries certain risks, for Zybilna has a dark side that she has hidden away for many years.
 
-![The archfey Zybilna is kno...](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/087-05-001-chapter-splash.webp#center "The archfey Zybilna is known to grant wishes to mortals brave enough to visit her abode: the Palace of Heart's Desire.")
+![The archfey Zybilna is known to grant wishes to mortals brave enough to visit her abode: the Palace of Heart's Desire.](file://adventure/WBtW/087-05-001.chapter-splash.webp#center)
 
 ## Running This Chapter
 
-In this chapter, the characters explore the halls of Lavoglia, better known as the Palace of Heart's Desire. Most likely, they've learned of Zybilna's betrayal at the hands of the Hourglass Coven and are searching for a way to free her. The characters can undo the spell that froze Zybilna in time and learn that she is, in fact, [Iggwilv the Witch Queen](3-Mechanics/CLI/bestiary/npc/iggwilv-the-witch-queen-wbtw.md). If all goes well, they can free Zybilna and count on her help in return—perhaps even gaining a [wish](3-Mechanics/CLI/spells/wish.md) spell for their trouble.
+In this chapter, the characters explore the halls of Lavoglia, better known as the Palace of Heart's Desire. Most likely, they've learned of Zybilna's betrayal at the hands of the Hourglass Coven and are searching for a way to free her. The characters can undo the spell that froze Zybilna in time and learn that she is, in fact, [Iggwilv the Witch Queen](3-Mechanics/CLI/bestiary/npc/iggwilv-the-witch-queen-wbtw.md). If all goes well, they can free Zybilna and count on her help in return—perhaps even gaining a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell for their trouble.
 
 Before your first game session in this chapter, follow these steps to help make the players' experience as entertaining as possible:
 
@@ -34,13 +34,13 @@ Before your first game session in this chapter, follow these steps to help make 
 
 Over time, Iggwilv made the mistake of placing too much trust in the hags of the Hourglass Coven, who served in her court as advisors. The hags waited patiently for the opportunity to overthrow Iggwilv. That day came when the League of Malevolence arrived at the palace.
 
-For years, the evil sorcerer [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) had coveted the [staff of power](3-Mechanics/CLI/items/staff-of-power.md) wielded by his archenemy, a good-aligned wizard named [Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md). When [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) uncovered clues to Zybilna's true identity, he hatched a foolish plan to blackmail her into bringing him the staff. [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) was betrayed at the eleventh hour by his own companion, the warlock [Skylla](3-Mechanics/CLI/bestiary/npc/skylla-wbtw.md), who secretly swore loyalty to Baba Yaga, Iggwilv's adoptive mother. When the League of Malevolence arrived at the palace, the Hourglass Coven ensured that [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md)'s rivals from Valor's Call were close behind. The two factions clashed inside the palace.
+For years, the evil sorcerer [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) had coveted the [staff of power](3-Mechanics/CLI/items/staff-of-power-xdmg.md) wielded by his archenemy, a good-aligned wizard named [Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md). When [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) uncovered clues to Zybilna's true identity, he hatched a foolish plan to blackmail her into bringing him the staff. [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) was betrayed at the eleventh hour by his own companion, the warlock [Skylla](3-Mechanics/CLI/bestiary/npc/skylla-wbtw.md), who secretly swore loyalty to Baba Yaga, Iggwilv's adoptive mother. When the League of Malevolence arrived at the palace, the Hourglass Coven ensured that [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md)'s rivals from Valor's Call were close behind. The two factions clashed inside the palace.
 
 > [!note] Iggwilv the Witch Queen
 > 
 > Iggwilv has a long and storied history throughout the multiverse. This adventure presents the legendary figure in her current form. Her [stat block](3-Mechanics/CLI/bestiary/npc/iggwilv-the-witch-queen-wbtw.md) appears at the end of the chapter.
 > 
-> **Baba Yaga's Daughter.** Iggwilv's path to greatness began when she was adopted by the mother of all witches, Baba Yaga, who named her Natasha. On the worlds of the Material Plane, she was better known as Tasha, the inventor of [Tasha's hideous laughter](3-Mechanics/CLI/spells/tashas-hideous-laughter.md). Tasha's magic-fueled ambitions brought her into contact with demons and demon lords, which she subjugated and used against her enemies. Tasha became known on the world of Oerth as [Iggwilv the Witch Queen](3-Mechanics/CLI/bestiary/npc/iggwilv-the-witch-queen-wbtw.md), a peerless wizard and conqueror. It was she who wrote the [Demonomicon of Iggwilv](3-Mechanics/CLI/items/demonomicon-of-iggwilv-tce.md)—the greatest of all treatises on the Abyss and its demonic inhabitants. (The book, which plays no part in this adventure, is described in "Tasha's Cauldron of Everything".)
+> **Baba Yaga's Daughter.** Iggwilv's path to greatness began when she was adopted by the mother of all witches, Baba Yaga, who named her Natasha. On the worlds of the Material Plane, she was better known as Tasha, the inventor of [Tasha's hideous laughter](3-Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md). Tasha's magic-fueled ambitions brought her into contact with demons and demon lords, which she subjugated and used against her enemies. Tasha became known on the world of Oerth as [Iggwilv the Witch Queen](3-Mechanics/CLI/bestiary/npc/iggwilv-the-witch-queen-wbtw.md), a peerless wizard and conqueror. It was she who wrote the [Demonomicon of Iggwilv](3-Mechanics/CLI/items/demonomicon-of-iggwilv-xdmg.md)—the greatest of all treatises on the Abyss and its demonic inhabitants. (The book, which plays no part in this adventure, is described in "Tasha's Cauldron of Everything".)
 > 
 > **Iggwilv's Transformation.** Iggwilv learned several dark secrets while studying the Abyss, including the ability to summon demons and demonic spirits. But in her quest for absolute power, she made too many enemies and underestimated their determination to destroy her, so she fled to other worlds and across planes to escape the worst of them. She eventually took a page from her mother's book and sequestered herself in the Feywild, where she assumed the guise of an archfey and carved out a spectacular domain for herself. Gradually, Iggwilv transformed into a Fey creature, though she outwardly appears human. Her disposition changed over time as well, as she became less interested in personal power and more interested in exploring her fey existence.
 ^iggwilv-the-witch-queen
@@ -51,7 +51,7 @@ Unable to agree on who should keep the cauldron, the three hags freed the member
 
 ### The League of Malevolence
 
-The League of Malevolence is led by a human sorcerer named [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md), who intends to free [Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md) from temporal stasis and claim the wizard's [staff of power](3-Mechanics/CLI/items/staff-of-power.md). To this end, he and the other members of the league are searching Prismeer for a unicorn horn to break the spell on [Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md). See appendix B for more information on these villains.
+The League of Malevolence is led by a human sorcerer named [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md), who intends to free [Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md) from temporal stasis and claim the wizard's [staff of power](3-Mechanics/CLI/items/staff-of-power-xdmg.md). To this end, he and the other members of the league are searching Prismeer for a unicorn horn to break the spell on [Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md). See appendix B for more information on these villains.
 
 When the characters arrive at the palace, the following members of the League of Malevolence are present:
 
@@ -73,7 +73,7 @@ Two other members of the League of Malevolence can be found elsewhere in Prismee
 Led by the human paladin [Strongheart](3-Mechanics/CLI/bestiary/npc/strongheart-wbtw.md), the heroes of Valor's Call tracked the League of Malevolence to Prismeer. Determined to bring the league's members to justice for crimes committed on many worlds, Valor's Call met with Zybilna and tried to forge an alliance with the archfey. When the hags of the Hourglass Coven used [Iggwilv's Cauldron](3-Mechanics/CLI/items/iggwilvs-cauldron-wbtw.md) to freeze Zybilna in time, several members of Valor's Call were frozen in time as well:
 
 - [Mercion](3-Mechanics/CLI/bestiary/npc/mercion-wbtw.md), a human cleric, was frozen in the ballroom (area P22) alongside Zybilna. [Mercion](3-Mechanics/CLI/bestiary/npc/mercion-wbtw.md) was in sight of the cauldron, so she witnessed the Hourglass Coven's betrayal.  
-- [Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md), a human wizard, was frozen in area P23 while casting a [cone of cold](3-Mechanics/CLI/spells/cone-of-cold.md) spell.  
+- [Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md), a human wizard, was frozen in area P23 while casting a [cone of cold](3-Mechanics/CLI/spells/cone-of-cold-xphb.md) spell.  
 - [Strongheart](3-Mechanics/CLI/bestiary/npc/strongheart-wbtw.md) was frozen just as [Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md) blasted him through the wall of Zybilna's study (area P47). He now hovers in the air above the Court of Storms (area P13).  
 
 Two more members of Valor's Call are found elsewhere in Prismeer:
@@ -128,19 +128,19 @@ The palace has more than a few recurring physical features, not the least of whi
 
 The sky above the palace is always filled with the orange and purple hues of twilight. The walls, ceilings, and floors inside the palace are made of dressed marble unless the text states otherwise. The ceilings throughout the palace are 30 feet high and arched. Climbing gear or magic is needed to scale the palace walls, inside or out.
 
-![Crown-locked Door](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/088-05-002-crown-locked-door.webp#center)
+![Crown-locked Door](file://adventure/WBtW/088-05-002.crown-locked-door.webp#center)
 
-Magical wards on all the windows and many of the doors render them immune to all damage and their locks impossible to pick, although a [knock](3-Mechanics/CLI/spells/knock.md) spell or similar magic opens a locked window or door. Assume a door is unlocked and a window is locked unless the text states otherwise.
+Magical wards on all the windows and many of the doors render them immune to all damage and their locks impossible to pick, although a [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell or similar magic opens a locked window or door. Assume a door is unlocked and a window is locked unless the text states otherwise.
 
 #### Crown Locks
 
-Most of the locked doors in the palace can be unlocked by placing the crown from the maiden's pond (area P8) on the head of either the iron lion in area P9 or the iron hart in area P10. It is assumed that the characters will revisit areas P9 and P10 from time to time so that they can toggle the locks to provide entry where they want to go. Once opened, a crown-locked door can be propped open to keep it from locking again when the crown is removed from the head of the lion or the hart. A crown-locked door can also be opened with a [knock](3-Mechanics/CLI/spells/knock.md) spell.
+Most of the locked doors in the palace can be unlocked by placing the crown from the maiden's pond (area P8) on the head of either the iron lion in area P9 or the iron hart in area P10. It is assumed that the characters will revisit areas P9 and P10 from time to time so that they can toggle the locks to provide entry where they want to go. Once opened, a crown-locked door can be propped open to keep it from locking again when the crown is removed from the head of the lion or the hart. A crown-locked door can also be opened with a [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell.
 
 The maps of the palace use the following symbols to denote these locked doors:
 
 > [!gallery]
-> ![This symbol denotes a lion...](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/089-05-011-lion-crown.webp#gallery "This symbol denotes a lion crown lock, which can be unlocked by placing the crown on the head of the iron lion in area P9.")
-> ![This symbol denotes a hart...](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/090-05-012-hart-crown.webp#gallery "This symbol denotes a hart crown lock, which can be unlocked by placing the crown on the head of the iron hart in area P10.")
+> ![This symbol denotes a lion crown lock, which can be unlocked by placing the crown on the head of the iron lion in area P9.](file://adventure/WBtW/089-05-011.lion-crown.webp#gallery)
+> ![This symbol denotes a hart crown lock, which can be unlocked by placing the crown on the head of the iron hart in area P10.](file://adventure/WBtW/090-05-012.hart-crown.webp#gallery)
 
 A marble cameo depicting a lion or a hart wearing a crown is mounted above each magically locked door, identifying which iron guardian must wear the crown for it to be unlocked.
 
@@ -165,8 +165,8 @@ A unicorn horn has no effect on objects frozen in time that aren't being worn or
 The following locations are keyed to the maps of the palace. If the characters explore one or more of these locations after ending the time-freezing effect on the palace, modify the descriptions of these locations as needed to account for this change.
 
 > [!gallery]
-> ![Palace of Heart's Desire, Lower](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/091-map-5-1-palace-lower.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/092-map-5-1-palace-lower-player.webp#gallery)
+> ![Palace of Heart's Desire, Lower](file://adventure/WBtW/091-map-5.1-palace-lower.webp#gallery)
+> ![Player Version](file://adventure/WBtW/092-map-5.1-palace-lower-player.webp#gallery)
 
 #### P1. Front Gate
 
@@ -205,7 +205,7 @@ Characters who explore the garden notice that its features and most of its occup
 
 ##### Fruit Trees
 
-Many of the trees in the garden bear glittering gold and silver fruit. A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals auras of divination magic around the gold fruit and auras of abjuration magic around the silver fruit.
+Many of the trees in the garden bear glittering gold and silver fruit. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals auras of divination magic around the gold fruit and auras of abjuration magic around the silver fruit.
 
 A creature that eats more than half of a gold-skinned fruit gains advantage on Wisdom saving throws for 24 hours, but this benefit ends on the creature if it eats a silver-skinned fruit. A creature that eats more than half of a silver-skinned fruit gains 10 temporary hit points, which go away if the creature eats a gold-skinned fruit. Once it is plucked from the branch, a golden or silver fruit spoils after 10 minutes and loses its magical property.
 
@@ -226,13 +226,13 @@ The guests gathered here are denizens of the Material Plane who regard Zybilna a
 
 The guests include these individuals:
 
-- Sumai, a farmer (lawful good, male, human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md)) from the world of Toril, carries a carnivorous pumpkin named Yamzu (an [awakened shrub](3-Mechanics/CLI/bestiary/plant/awakened-shrub.md) that speaks Common, with a Bite attack identical to the shrub's Rake attack except it deals piercing damage instead of slashing damage). Sumai wants Yamzu to stop devouring his livestock, but he doesn't want to harm the pumpkin.  
-- Lord Eld, a faultlessly polite aristocrat (chaotic good, male, high elf [noble](3-Mechanics/CLI/bestiary/humanoid/noble.md)) from the world of Oerth, was transformed into a living statue by wild magic emanating from a family crypt. He wants the effect to be undone and to be restored to his true form. While in this form, he has resistance to all damage, but his speed is halved.  
-- Obal Obb, a headless dwarf (lawful good, male, mountain dwarf [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md)) hailing from the world of Oerth, is searching for his missing head, which was stolen. The magic that deprived Obal of his head left him [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) but, miraculously, he can hear just fine. He stomps his foot once to communicate "yes," and twice for "no."  
-- Bodger, a [brown bear](3-Mechanics/CLI/bestiary/beast/brown-bear.md) from a world of your choice, hopes to undo a curse put on him by a cruel river spirit who resented him eating its fish. Thanks to the [awaken](3-Mechanics/CLI/spells/awaken.md) spell that was cast on him by a friendly druid, Bodger has an Intelligence of 10 and speaks Common.  
-- Majera d'Valzey (neutral, female, human [noble](3-Mechanics/CLI/bestiary/humanoid/noble.md)) from the world of Eberron, has a magic quill named Dictado. The quill scrawls out anything Majera says, and her place at the table is piled with sheets of parchment. Majera is hoping to break the terms of an arranged marriage.  
+- Sumai, a farmer (lawful good, male, human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) from the world of Toril, carries a carnivorous pumpkin named Yamzu (an [awakened shrub](3-Mechanics/CLI/bestiary/plant/awakened-shrub-xmm.md) that speaks Common, with a Bite attack identical to the shrub's Rake attack except it deals piercing damage instead of slashing damage). Sumai wants Yamzu to stop devouring his livestock, but he doesn't want to harm the pumpkin.  
+- Lord Eld, a faultlessly polite aristocrat (chaotic good, male, high elf [noble](3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md)) from the world of Oerth, was transformed into a living statue by wild magic emanating from a family crypt. He wants the effect to be undone and to be restored to his true form. While in this form, he has resistance to all damage, but his speed is halved.  
+- Obal Obb, a headless dwarf (lawful good, male, mountain dwarf [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) hailing from the world of Oerth, is searching for his missing head, which was stolen. The magic that deprived Obal of his head left him [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) but, miraculously, he can hear just fine. He stomps his foot once to communicate "yes," and twice for "no."  
+- Bodger, a [brown bear](3-Mechanics/CLI/bestiary/beast/brown-bear-xmm.md) from a world of your choice, hopes to undo a curse put on him by a cruel river spirit who resented him eating its fish. Thanks to the [awaken](3-Mechanics/CLI/spells/awaken-xphb.md) spell that was cast on him by a friendly druid, Bodger has an Intelligence of 10 and speaks Common.  
+- Majera d'Valzey (neutral, female, human [noble](3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md)) from the world of Eberron, has a magic quill named Dictado. The quill scrawls out anything Majera says, and her place at the table is piled with sheets of parchment. Majera is hoping to break the terms of an arranged marriage.  
 
-Two other guests were present when the Hourglass Coven froze the palace in time: Hogus Pinsworth (lawful good, male, strongheart halfling [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md)) from the world of Tal'Dorei, who needs help paying off his debts, and Zurrash (chaotic good, female [orc war chief](3-Mechanics/CLI/bestiary/humanoid/orc-war-chief.md)) from the world of Eberron, who was ousted by one of her rivals. Both are trapped in temporal stasis, and none of the other pavilion guests know who they are.
+Two other guests were present when the Hourglass Coven froze the palace in time: Hogus Pinsworth (lawful good, male, strongheart halfling [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) from the world of Tal'Dorei, who needs help paying off his debts, and Zurrash (chaotic good, female [orc war chief](3-Mechanics/CLI/bestiary/humanoid/tough-boss-xmm.md)) from the world of Eberron, who was ousted by one of her rivals. Both are trapped in temporal stasis, and none of the other pavilion guests know who they are.
 
 When the characters arrive, the five guests who aren't frozen in time are having an animated conversation about whether clotted cream should be applied to a scone before or after jam. They are so engrossed in this debate that they fail to acknowledge the presence of newcomers unless a character enters the discussion or taps on a teacup loudly with a spoon (which the guests sometimes do when seeking attention).
 
@@ -240,7 +240,7 @@ If questioned, the guests reveal that they arrived at the palace separately and 
 
 ##### Badger Minstrels
 
-Each of these four [badgers](3-Mechanics/CLI/bestiary/beast/badger.md) received one of [Skabatha Nightshade](3-Mechanics/CLI/bestiary/npc/skabatha-nightshade-wbtw.md)'s [awaken](3-Mechanics/CLI/spells/awaken.md) spells, which granted it an Intelligence of 10 and the ability to speak Common. [Bavlorna Blightstraw](3-Mechanics/CLI/bestiary/npc/bavlorna-blightstraw-wbtw.md) crafted instruments for the badgers, and [Endelyn Moongrave](3-Mechanics/CLI/bestiary/npc/endelyn-moongrave-wbtw.md) taught them how to play their instruments. They now have proficiency in the [Performance](3-Mechanics/CLI/rules/skills.md#Performance) skill.
+Each of these four [badgers](3-Mechanics/CLI/bestiary/beast/badger-xmm.md) received one of [Skabatha Nightshade](3-Mechanics/CLI/bestiary/npc/skabatha-nightshade-wbtw.md)'s [awaken](3-Mechanics/CLI/spells/awaken-xphb.md) spells, which granted it an Intelligence of 10 and the ability to speak Common. [Bavlorna Blightstraw](3-Mechanics/CLI/bestiary/npc/bavlorna-blightstraw-wbtw.md) crafted instruments for the badgers, and [Endelyn Moongrave](3-Mechanics/CLI/bestiary/npc/endelyn-moongrave-wbtw.md) taught them how to play their instruments. They now have proficiency in the [Performance](3-Mechanics/CLI/rules/skills.md#Performance) skill.
 
 The hags have instructed the badgers to entertain visitors and discourage them from entering the palace until the Hourglass Coven gets around to striking bargains with them. The badgers proudly declare their allegiance to the hags, saying, "What fine ladies they are. Their names should be Sweetness, Kindness, and Charity, for all the good they do!" (The badgers aren't evil, just misguided.)
 
@@ -250,7 +250,7 @@ The pavilion's supply of tea and cakes magically replenishes every hour. The cak
 
 ##### Treasure
 
-Characters who freed [Sir Talavar](3-Mechanics/CLI/bestiary/npc/sir-talavar-wbtw.md) in chapter 2 find a wrapped present on the table, with their names written on the tag. None of the guests has been rude enough to open it. Inside, the characters find a [chime of opening](3-Mechanics/CLI/items/chime-of-opening.md), along with a note that reads in Draconic, "Many thanks! May fortune smile on you. Yours, [Sir Talavar](3-Mechanics/CLI/bestiary/npc/sir-talavar-wbtw.md)."
+Characters who freed [Sir Talavar](3-Mechanics/CLI/bestiary/npc/sir-talavar-wbtw.md) in chapter 2 find a wrapped present on the table, with their names written on the tag. None of the guests has been rude enough to open it. Inside, the characters find a [chime of opening](3-Mechanics/CLI/items/chime-of-opening-xdmg.md), along with a note that reads in Draconic, "Many thanks! May fortune smile on you. Yours, [Sir Talavar](3-Mechanics/CLI/bestiary/npc/sir-talavar-wbtw.md)."
 
 #### P4. Standing Stones
 
@@ -259,7 +259,7 @@ Characters who freed [Sir Talavar](3-Mechanics/CLI/bestiary/npc/sir-talavar-wbtw
 > Twelve moss-covered standing stones form a ring in the middle of a small clearing. An arcane sigil is inscribed on the inward-facing side of each stone, and the space between the stones is free of vegetation.
 ^378
 
-A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals an aura of conjuration magic around the standing stones. Any character who examines the sigils on the stones and succeeds on a DC 15 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check can determine that they combine into a sequence that allows the ring of standing stones to function as a teleportation circle. A character who has this sequence written down or committed to memory can use it in conjunction with the [teleportation circle](3-Mechanics/CLI/spells/teleportation-circle.md) spell to arrive inside the ring, provided the spell is cast somewhere in the Feywild.
+A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of conjuration magic around the standing stones. Any character who examines the sigils on the stones and succeeds on a DC 15 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check can determine that they combine into a sequence that allows the ring of standing stones to function as a teleportation circle. A character who has this sequence written down or committed to memory can use it in conjunction with the [teleportation circle](3-Mechanics/CLI/spells/teleportation-circle-xphb.md) spell to arrive inside the ring, provided the spell is cast somewhere in the Feywild.
 
 #### P5. Fountain of Awakening
 
@@ -268,7 +268,7 @@ A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals an aura o
 > A marble fountain rises from a plinth on the bank of the stream, overflowing with time-frozen water that spills from the mouths of sculpted animals. The frozen spray surrounding the fountain creates rainbows in the air around it.
 ^37a
 
-A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals an aura of transmutation magic around the fountain. The magic of this fountain still functions even though its waters are frozen in time. The water can be handled and made to hold new forms as if it were soft dough, but any water removed from the fountain takes on the consistency of normal water. Any Beast that bathes in the fountain's still waters is awakened, as if by the [awaken](3-Mechanics/CLI/spells/awaken.md) spell, provided it meets the spell's requirements. The effect ends if the awakened Beast leaves the palace garden.
+A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of transmutation magic around the fountain. The magic of this fountain still functions even though its waters are frozen in time. The water can be handled and made to hold new forms as if it were soft dough, but any water removed from the fountain takes on the consistency of normal water. Any Beast that bathes in the fountain's still waters is awakened, as if by the [awaken](3-Mechanics/CLI/spells/awaken-xphb.md) spell, provided it meets the spell's requirements. The effect ends if the awakened Beast leaves the palace garden.
 
 Any Humanoid that drinks from the fountain or bathes in its waters must make a DC 15 Intelligence saving throw. On a failed save, its Intelligence score drops to 3 for 24 hours, and it gains the following flaw, which supersedes any conflicting trait: "I have the disposition of a wild animal." Any magic that ends a curse ends the effect on the creature immediately.
 
@@ -290,7 +290,7 @@ The greataxe is a [woodcutter's axe](3-Mechanics/CLI/items/woodcutters-axe-wbtw.
 > This fragrant rose garden is bordered by a bronze fence. The roses come in a variety of colors, with a few white and black specimens among them. Glistening spiderwebs cover the rosebushes.
 ^37f
 
-The webs belong to three [ettercaps](3-Mechanics/CLI/bestiary/monstrosity/ettercap.md) that recently crawled up from the forest of Thither. They lurk under the soil, waiting patiently for tasty fairies to get stuck in their webs. If one or more characters enter the rose garden, the ettercaps rise from their earthy cysts and assume threatening postures, hoping to scare off the characters. The ettercaps lack the courage to fight anything bigger than a pixie, but they defend themselves if attacked. An ettercap reduced to 22 hit points or fewer tries to flee by crawling up and over the nearby palace wall.
+The webs belong to three [ettercaps](3-Mechanics/CLI/bestiary/monstrosity/ettercap-xmm.md) that recently crawled up from the forest of Thither. They lurk under the soil, waiting patiently for tasty fairies to get stuck in their webs. If one or more characters enter the rose garden, the ettercaps rise from their earthy cysts and assume threatening postures, hoping to scare off the characters. The ettercaps lack the courage to fight anything bigger than a pixie, but they defend themselves if attacked. An ettercap reduced to 22 hit points or fewer tries to flee by crawling up and over the nearby palace wall.
 
 ##### Chromatic Roses
 
@@ -305,7 +305,7 @@ The vine has five [chromatic roses](3-Mechanics/CLI/items/chromatic-rose-wbtw.md
 
 ##### Statue
 
-The statue is a [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified) [satyr](3-Mechanics/CLI/bestiary/fey/satyr.md) named Xinipax. If the [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified) condition is ended on him, Xinipax plays a whimsical tune on his pipes and offers his rescuers a gift in return. He gallops to the nearby stream, pulls a wineskin from its shallow depths, guzzles down its contents, and hands the empty wineskin to his rescuers. Xinipax believes the wineskin can turn water into the finest elven wine, but he is mistaken. The satyr is cursed with the inability to tell water from wine, and the wineskin is nonmagical. Even if his claim is proven false, Xinipax still regards the wineskin as a worthy gift.
+The statue is a [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified) [satyr](3-Mechanics/CLI/bestiary/fey/satyr-xmm.md) named Xinipax. If the [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified) condition is ended on him, Xinipax plays a whimsical tune on his pipes and offers his rescuers a gift in return. He gallops to the nearby stream, pulls a wineskin from its shallow depths, guzzles down its contents, and hands the empty wineskin to his rescuers. Xinipax believes the wineskin can turn water into the finest elven wine, but he is mistaken. The satyr is cursed with the inability to tell water from wine, and the wineskin is nonmagical. Even if his claim is proven false, Xinipax still regards the wineskin as a worthy gift.
 
 Xinipax doesn't know what turned him to stone or how long he was [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified). After bestowing his gift, he gallops around the garden, playing his pipes and making a general nuisance of himself. He has no useful information about the palace or its other inhabitants.
 
@@ -357,9 +357,9 @@ The base of this tower is 10 feet higher than the garden floor. Stairs hugging t
 > Oak trees fill much of the interior of this tower. Rays of light cut through the canopy, illuminating a marble pedestal that stands at ground level, swathed in tree roots. A hulking lion seemingly made of iron stands on the pedestal, flicking its tail in irritation. "You can call us [Envy](3-Mechanics/CLI/bestiary/npc/envy-wbtw.md)," it says.
 ^389
 
-![Envy, the Iron Lion](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/093-05-003-envy-the-iron-lion.webp#center)
+![Envy, the Iron Lion](file://adventure/WBtW/093-05-003.envy-the-iron-lion.webp#center)
 
-The iron lion, [Envy](3-Mechanics/CLI/bestiary/npc/envy-wbtw.md), is one of two guardians that Zybilna created to watch over her garden in her absence. When Zybilna became frozen in time, her guardians appeared from their respective demiplanes to perform their duty. [Envy](3-Mechanics/CLI/bestiary/npc/envy-wbtw.md) uses the [gorgon](3-Mechanics/CLI/bestiary/monstrosity/gorgon.md) stat block, with these changes:
+The iron lion, [Envy](3-Mechanics/CLI/bestiary/npc/envy-wbtw.md), is one of two guardians that Zybilna created to watch over her garden in her absence. When Zybilna became frozen in time, her guardians appeared from their respective demiplanes to perform their duty. [Envy](3-Mechanics/CLI/bestiary/npc/envy-wbtw.md) uses the [gorgon](3-Mechanics/CLI/bestiary/construct/gorgon-xmm.md) stat block, with these changes:
 
 - The iron lion speaks Common and Sylvan, referring to itself using the pronouns "we" and "us."  
 - It has a Bite attack instead of a Gore attack, and it has a Claws attack that deals slashing damage instead of a Hooves attack that deals bludgeoning damage. (The attacks are functionally the same otherwise.)  
@@ -395,7 +395,7 @@ The base of this tower is 10 feet higher than the garden floor. The double door 
 > "We are Wrath," says the iron hart.
 ^38b
 
-The iron hart, Wrath, is the counterpart to the iron lion named [Envy](3-Mechanics/CLI/bestiary/npc/envy-wbtw.md) in area P9. Wrath uses the [gorgon](3-Mechanics/CLI/bestiary/monstrosity/gorgon.md) stat block. It can speak Common and Sylvan, and it refers to itself using the pronouns "we" and "us."
+The iron hart, Wrath, is the counterpart to the iron lion named [Envy](3-Mechanics/CLI/bestiary/npc/envy-wbtw.md) in area P9. Wrath uses the [gorgon](3-Mechanics/CLI/bestiary/construct/gorgon-xmm.md) stat block. It can speak Common and Sylvan, and it refers to itself using the pronouns "we" and "us."
 
 Wrath dislikes [Envy](3-Mechanics/CLI/bestiary/npc/envy-wbtw.md), but the two are prevented by Zybilna's magic from harming one another. When the characters first appear before the iron hart, it demands their obeisance and commands them to kneel before it. If the characters do as Wrath commands, the hart is pleased and allows them to remain in its presence. Characters who fail to show it deference are instructed to leave the tower at once, and Wrath attacks those who refuse. Wrath knows the same information that [Envy](3-Mechanics/CLI/bestiary/npc/envy-wbtw.md) knows (see area P9).
 
@@ -412,11 +412,11 @@ When the characters open one of the doors leading to this chamber and peer insid
 > The doors swing open to reveal a crystal carriage hitched to a pair of glass statues shaped like pegasi. Folded silk butterfly wings are attached to the roof of the carriage.
 ^38e
 
-Zybilna used this flying carriage to travel to other locations in the Feywild. The carriage's doors are sealed shut, with no handles, hinges, or keyholes. Zybilna kept the carriage's magic key inside the vehicle and used [misty step](3-Mechanics/CLI/spells/misty-step.md) spells to retrieve it as needed. The carriage's crystal structure is mostly opaque except for its windows. Anyone who looks through a carriage window spots an ornate glass key resting on the seat inside. To reach the key, a character must smash a window or use magic. Characters who smash their way into the carriage alert [Zargash](3-Mechanics/CLI/bestiary/npc/zargash-wbtw.md) (see area P30), who investigates the noise.
+Zybilna used this flying carriage to travel to other locations in the Feywild. The carriage's doors are sealed shut, with no handles, hinges, or keyholes. Zybilna kept the carriage's magic key inside the vehicle and used [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md) spells to retrieve it as needed. The carriage's crystal structure is mostly opaque except for its windows. Anyone who looks through a carriage window spots an ornate glass key resting on the seat inside. To reach the key, a character must smash a window or use magic. Characters who smash their way into the carriage alert [Zargash](3-Mechanics/CLI/bestiary/npc/zargash-wbtw.md) (see area P30), who investigates the noise.
 
 The carriage is a Huge object with AC 13, 50 hit points, vulnerability to bludgeoning damage, and immunity to poison and psychic damage. Its windows and wheels are separate objects, each with AC 13, 10 hit points, and the same vulnerability and immunities as the rest of the carriage. Five Medium or smaller creatures can fit comfortably inside the cab, with an additional seat up front for the driver.
 
-If the key is held within 3 inches of the door on either side of the carriage, a keyhole magically appears on the door's surface. Turning the key clockwise in the keyhole unlocks both carriage doors and animates the [glass pegasi](3-Mechanics/CLI/bestiary/construct/glass-pegasus-wbtw.md), causing them to stamp their hooves impatiently. They use the [pegasus](3-Mechanics/CLI/bestiary/celestial/pegasus.md) stat block, with these changes:
+If the key is held within 3 inches of the door on either side of the carriage, a keyhole magically appears on the door's surface. Turning the key clockwise in the keyhole unlocks both carriage doors and animates the [glass pegasi](3-Mechanics/CLI/bestiary/construct/glass-pegasus-wbtw.md), causing them to stamp their hooves impatiently. They use the [pegasus](3-Mechanics/CLI/bestiary/celestial/pegasus-xmm.md) stat block, with these changes:
 
 - The glass pegasi are Constructs with immunity to [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) and the [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), and [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified) conditions.  
 - They have AC 15 while animated and AC 13 otherwise.  
@@ -464,7 +464,7 @@ The knight suspended in the air is [Strongheart](3-Mechanics/CLI/bestiary/npc/st
 
 The vortex that churns below the central spire is not part of the palace and wasn't frozen in time. Although the storm is magical, it can't be dispelled, and the area it occupies is heavily obscured.
 
-Any creature that falls into the vortex takes 18 (`4d8`) force damage. In addition, its speed becomes 0 feet, it can't benefit from any bonus to its speed, and it can't be seen by others. The creature takes the damage again at the start of each of its turns until it escapes the vortex. Any creature that ends its turn in the vortex with 0 hit points is ripped to shreds, and its remains are scattered across the planes of existence along with anything it was wearing or carrying.
+Any creature that falls into the vortex takes `dice:4d8|noform|noparens|avg|text(18)` (`4d8`) force damage. In addition, its speed becomes 0 feet, it can't benefit from any bonus to its speed, and it can't be seen by others. The creature takes the damage again at the start of each of its turns until it escapes the vortex. Any creature that ends its turn in the vortex with 0 hit points is ripped to shreds, and its remains are scattered across the planes of existence along with anything it was wearing or carrying.
 
 Any creature that falls into the vortex has little chance of surviving. If someone throws one end of a rope into its space, the creature can grab hold of it and be pulled out.
 
@@ -486,7 +486,7 @@ The reliefs hint at Zybilna's fondness for demons. Specifics about each room are
 - **P14e.** The spiral staircase descends 30 feet to area P14a. A double door leads to a stone balcony that overlooks the palace garden (area P2).  
 - **P14f.** The spiral staircase descends 30 feet to area P14b. A double door leads to a stone balcony that overlooks the palace garden (area P2).  
 - **P14g.** The spiral staircase descends 30 feet to area P14c. A double door leads to a stone balcony that overlooks the Court of Storms (area P13).  
-- **P14h.** The spiral staircase descends 30 feet to area P14d. A double door leads to a stone balcony that overlooks the Court of Storms (area P13). Floating 10 feet above the top of the staircase is a [banshee](3-Mechanics/CLI/bestiary/undead/banshee.md) trapped in temporal stasis. The banshee is all that remains of a vainglorious elf queen named Pari Astarabad, who challenged Zybilna for control of Prismeer and paid the ultimate price. The banshee is condemned to haunt this tower and, thanks to Zybilna's magic, can't leave it. If freed from temporal stasis, the banshee can move between this area and area P14d, but nowhere else.  
+- **P14h.** The spiral staircase descends 30 feet to area P14d. A double door leads to a stone balcony that overlooks the Court of Storms (area P13). Floating 10 feet above the top of the staircase is a [banshee](3-Mechanics/CLI/bestiary/undead/banshee-xmm.md) trapped in temporal stasis. The banshee is all that remains of a vainglorious elf queen named Pari Astarabad, who challenged Zybilna for control of Prismeer and paid the ultimate price. The banshee is condemned to haunt this tower and, thanks to Zybilna's magic, can't leave it. If freed from temporal stasis, the banshee can move between this area and area P14d, but nowhere else.  
 
 #### P15. Servants' Quarters
 
@@ -501,15 +501,15 @@ The five goblins (unarmed, chaotic good noncombatants loyal to Zybilna) are froz
 
 Zybilna's butler, [Thinnings](3-Mechanics/CLI/bestiary/npc/thinnings-wbtw.md) (neutral), lurks in this room. [Thinnings](3-Mechanics/CLI/bestiary/npc/thinnings-wbtw.md) was away on an errand when the palace was frozen in time. Since his return, he has been spying on the members of the League of Malevolence.
 
-![Thinnings](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/094-05-004-thinnings.webp#center)
+![Thinnings](file://adventure/WBtW/094-05-004.thinnings.webp#center)
 
-[Thinnings](3-Mechanics/CLI/bestiary/npc/thinnings-wbtw.md) can be encountered anywhere inside the palace but returns to this room to rest. He has the statistics of a [spy](3-Mechanics/CLI/bestiary/humanoid/spy.md), except he is a Fey who speaks Common, Elvish, and Sylvan. He appears as a stick-thin man dressed in a brown dress coat, stockings, and buckled shoes. As an action, [Thinnings](3-Mechanics/CLI/bestiary/npc/thinnings-wbtw.md) can make himself as flat as a piece of parchment or revert to his normal thickness. In his flattened form, he can slide under doors, roll himself up, or even fold himself into the pages of a book.
+[Thinnings](3-Mechanics/CLI/bestiary/npc/thinnings-wbtw.md) can be encountered anywhere inside the palace but returns to this room to rest. He has the statistics of a [spy](3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md), except he is a Fey who speaks Common, Elvish, and Sylvan. He appears as a stick-thin man dressed in a brown dress coat, stockings, and buckled shoes. As an action, [Thinnings](3-Mechanics/CLI/bestiary/npc/thinnings-wbtw.md) can make himself as flat as a piece of parchment or revert to his normal thickness. In his flattened form, he can slide under doors, roll himself up, or even fold himself into the pages of a book.
 
 The butler knows the palace's layout and defenses, but he's not inclined to share information with strangers. As soon as he hears a door to this room being opened, [Thinnings](3-Mechanics/CLI/bestiary/npc/thinnings-wbtw.md) ducks into the narrow space under or behind one of the dressers. Characters who have a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 14 or higher notice [Thinnings](3-Mechanics/CLI/bestiary/npc/thinnings-wbtw.md) as they casually survey the room; a thorough search of the room finds him automatically. [Thinnings](3-Mechanics/CLI/bestiary/npc/thinnings-wbtw.md), who has no reason to trust the characters, refuses to emerge from his hiding place. A character can earn the butler's trust and coax him out by reciting Demitasse's rhyme (see area P19) and then sharing a secret with him. (Any old fact will do, as long as he doesn't know it already.) If his trust is earned or the characters capture him, [Thinnings](3-Mechanics/CLI/bestiary/npc/thinnings-wbtw.md) shares the following information:
 
 - After using Zybilna's cauldron to neutralize the archfey and most of her court, the hags of the Hourglass Coven left the League of Malevolence in the palace to guard the cauldron. Only three members of the league—[Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md), [Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md), and [Zargash](3-Mechanics/CLI/bestiary/npc/zargash-wbtw.md)—are in the palace presently.  
 - Years ago, Zybilna befriended a jabberwock and trained it to drink from her cauldron. It still frequents the palace and loiters around the cauldron, making it impossible for [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) and the others to guard the cauldron effectively. The only creature in the palace that stands a chance in a fight against the jabberwock is Zybilna's great owl, Bloodybeak, which is kept in the aviary (area P20).  
-- To free a creature frozen in time, one must touch it with a unicorn horn while speaking the creature's true name. ([Thinnings](3-Mechanics/CLI/bestiary/npc/thinnings-wbtw.md) knows that "Zybilna" is not Zybilna's true name. He thinks her true name is Iggwilv, but it's not.) The League of Malevolence is searching Prismeer for a unicorn horn so that [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) can free [Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md), his archenemy, from temporal stasis and steal his [staff of power](3-Mechanics/CLI/items/staff-of-power.md).  
+- To free a creature frozen in time, one must touch it with a unicorn horn while speaking the creature's true name. ([Thinnings](3-Mechanics/CLI/bestiary/npc/thinnings-wbtw.md) knows that "Zybilna" is not Zybilna's true name. He thinks her true name is Iggwilv, but it's not.) The League of Malevolence is searching Prismeer for a unicorn horn so that [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) can free [Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md), his archenemy, from temporal stasis and steal his [staff of power](3-Mechanics/CLI/items/staff-of-power-xdmg.md).  
 
 Appendix D has additional roleplaying notes for [Thinnings](3-Mechanics/CLI/bestiary/npc/thinnings-wbtw.md).
 
@@ -519,7 +519,7 @@ The bottom drawer of [Thinnings](3-Mechanics/CLI/bestiary/npc/thinnings-wbtw.md)
 
 - Sixty-one ornate silver rings (10 gp each)  
 - Thirty ornate gold rings (25 gp each)  
-- An onyx ring (50 gp) that radiates an aura of illusion magic under the scrutiny of a [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell (when worn, the ring creates illusory butterflies that flutter around the wearer)  
+- An onyx ring (50 gp) that radiates an aura of illusion magic under the scrutiny of a [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell (when worn, the ring creates illusory butterflies that flutter around the wearer)  
 
 #### P16. Palace Kitchen
 
@@ -530,7 +530,7 @@ The bottom drawer of [Thinnings](3-Mechanics/CLI/bestiary/npc/thinnings-wbtw.md)
 > Thick creepers with broad leaves encroach on the kitchen through a partially open door in the middle of a concave wall. The roots stretch across the floor and coil around the large table, but not around a smaller, rectangular wheeled table that has three trussed-up giant rats on it.
 ^39d
 
-The eight [pixies](3-Mechanics/CLI/bestiary/fey/pixie.md) work for Zybilna as bakers, and they are frozen in time. In addition to the large cake described below, characters can see platters of blue-frosted cupcakes and candied apples on sticks, bowls of sugar-glazed button mushrooms, and bottles of eveningberry wine (a sweet, nonalcoholic drink).
+The eight [pixies](3-Mechanics/CLI/bestiary/fey/pixie-xmm.md) work for Zybilna as bakers, and they are frozen in time. In addition to the large cake described below, characters can see platters of blue-frosted cupcakes and candied apples on sticks, bowls of sugar-glazed button mushrooms, and bottles of eveningberry wine (a sweet, nonalcoholic drink).
 
 ##### Cake
 
@@ -538,7 +538,7 @@ This perfectly preserved cake was made for Zybilna's birthday. Made of cream, sp
 
 ##### Wheeled Table
 
-Three [giant rats](3-Mechanics/CLI/bestiary/beast/giant-rat.md), frozen in time, lie atop the small table. The rats are meant to be fed to Bloodybeak, the great owl in area P20.
+Three [giant rats](3-Mechanics/CLI/bestiary/beast/giant-rat-xmm.md), frozen in time, lie atop the small table. The rats are meant to be fed to Bloodybeak, the great owl in area P20.
 
 #### P17. Base of the Beanstalk
 
@@ -566,9 +566,9 @@ The beanstalk has AC 15 and is impervious to most forms of damage. If it is stru
 
 The balcony extends out over the western part of this chamber, as indicated by the dashed line on the map. See area P32 for more information about the balcony.
 
-![Dubhforgail the fomorian r...](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/095-05-005-dubhforgail.webp#center "Dubhforgail the fomorian remains in good spirits until the food runs out.")
+![Dubhforgail the fomorian remains in good spirits until the food runs out.](file://adventure/WBtW/095-05-005.dubhforgail.webp#center)
 
-Dubhforgail, the gluttonous [fomorian](3-Mechanics/CLI/bestiary/giant/fomorian.md), intends to conquer Prismeer. Three days ago, she scaled the column of rock atop which the palace is perched and entered through a hole in the wall (see area P25). [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) used every ounce of his charisma to lure Dubhforgail into the banquet hall, hoping to keep her out of his way until the Hourglass Coven can deal with her. Dubhforgail has eaten nearly all the palace's food, yet her appetite remains insatiable. She has no regard for the rules of conduct (see "Rules of Conduct" in chapter 2).
+Dubhforgail, the gluttonous [fomorian](3-Mechanics/CLI/bestiary/giant/fomorian-xmm.md), intends to conquer Prismeer. Three days ago, she scaled the column of rock atop which the palace is perched and entered through a hole in the wall (see area P25). [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) used every ounce of his charisma to lure Dubhforgail into the banquet hall, hoping to keep her out of his way until the Hourglass Coven can deal with her. Dubhforgail has eaten nearly all the palace's food, yet her appetite remains insatiable. She has no regard for the rules of conduct (see "Rules of Conduct" in chapter 2).
 
 Dubhforgail assumes the characters are [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md)'s minions and demands that they bring her the cake that [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) promised her ("Eight tiers high, lit with blood-red candles, and icing white as snow"). She warns them that if they leave and return without it, she'll gobble them up instead "to see if you taste as sweet as you look." Dubhforgail is wicked and violent; if the characters anger her now or later, she snatches up her club and attacks. If treated to the cake from area P16, Dubhforgail settles down to eat it over the next 3 hours. During this time, characters can move freely through the banquet hall without angering the fomorian.
 
@@ -590,7 +590,7 @@ If one or more characters take seats at a table, read:
 > The tea cart from the banquet hall rolls onto the terrace and careens over to your table. Cups, saucers, bowls, utensils, and napkins fly out of the cart's drawers and arrange themselves before you. They are joined by a waddling cauldron of soup, a piping-hot tea kettle, and a pair of lit candles in candlesticks. A serving spoon hops onto the cart, bows, and says in Common, "I am Demitasse, your head waiter. I believe a light supper of tea and soup is in order."
 ^3a7
 
-Magic similar to an [animate objects](3-Mechanics/CLI/spells/animate-objects.md) spell makes the cart and its collection of objects act as described. The kettle and the cauldron never run out of tea and hot soup, provided they remain inside the palace grounds.
+Magic similar to an [animate objects](3-Mechanics/CLI/spells/animate-objects-xphb.md) spell makes the cart and its collection of objects act as described. The kettle and the cauldron never run out of tea and hot soup, provided they remain inside the palace grounds.
 
 A creature that drinks both the tea and the soup gains 10 temporary hit points—a benefit each creature can gain only once every 24 hours.
 
@@ -621,7 +621,7 @@ If the characters haven't already earned [Thinnings](3-Mechanics/CLI/bestiary/np
 > *If only you will show.*
 ^3a8
 
-![Demitasse the animated spo...](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/096-05-006-demitasse.webp#center "Demitasse the animated spoon leads a tea-and-soup parade")
+![Demitasse the animated spoon leads a tea-and-soup parade](file://adventure/WBtW/096-05-006.demitasse.webp#center)
 
 #### P20. Aviary
 
@@ -630,11 +630,11 @@ If the characters haven't already earned [Thinnings](3-Mechanics/CLI/bestiary/np
 > An enormous owl stands perfectly still in the middle of this room, its wings partially outstretched. A wall of iron bars stretching from floor to ceiling forms a protective barrier around the chamber's entrance, keeping visitors separated from the owl. The wall across from the double door has a twenty-foot-wide, circular opening sealed with hinged, semicircular windows in wrought-iron frames. The marble floor is littered with the bones of giant rats.
 ^3ab
 
-The bars that surround the double door can't be bent or damaged, but characters can use [misty step](3-Mechanics/CLI/spells/misty-step.md) spells and similar magic to bypass them. The bars are 1 foot apart, leaving gaps wide enough for a Small character or a thin Medium character to squeeze through.
+The bars that surround the double door can't be bent or damaged, but characters can use [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md) spells and similar magic to bypass them. The bars are 1 foot apart, leaving gaps wide enough for a Small character or a thin Medium character to squeeze through.
 
 ##### Bloodybeak
 
-The owl uses the [roc](3-Mechanics/CLI/bestiary/monstrosity/roc.md) stat block, has [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 120 feet, and is presently frozen in time. It takes up most of the room, and one of its wings brushes up against the wall of bars. [Thinnings](3-Mechanics/CLI/bestiary/npc/thinnings-wbtw.md) the butler (see area P15) knows the owl's true name: Bloodybeak. With this knowledge, characters can use the unicorn horn to free the owl from its temporal stasis, if they want to do so.
+The owl uses the [roc](3-Mechanics/CLI/bestiary/monstrosity/roc-xmm.md) stat block, has [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 120 feet, and is presently frozen in time. It takes up most of the room, and one of its wings brushes up against the wall of bars. [Thinnings](3-Mechanics/CLI/bestiary/npc/thinnings-wbtw.md) the butler (see area P15) knows the owl's true name: Bloodybeak. With this knowledge, characters can use the unicorn horn to free the owl from its temporal stasis, if they want to do so.
 
 Bloodybeak is friendly toward Zybilna and hostile toward all other creatures. When the owl is no longer frozen in time, any creature within the owl's reach that Bloodybeak can see can use an action to make a DC 17 Wisdom ([Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling)) check. On a successful check, the owl becomes indifferent toward that creature for 1 minute or until the owl takes damage from any source. A character can use an action to repeat the check as often as desired. A creature toward which Bloodybeak is indifferent can move through the aviary and try to open the big windows without being attacked by the owl.
 
@@ -642,7 +642,7 @@ Bloodybeak is a natural enemy of the jabberwock in area P22. If the owl is relea
 
 ##### Windows
 
-Bloodybeak is too big to enter the palace's hallways, so it comes and goes through the aviary's great windows, which at present are magically sealed shut. A [knock](3-Mechanics/CLI/spells/knock.md) spell or similar magic opens the windows, as does speaking the command word "canzus" within 10 feet of them. Only Zybilna and her quasit, Iggrik, know the command word.
+Bloodybeak is too big to enter the palace's hallways, so it comes and goes through the aviary's great windows, which at present are magically sealed shut. A [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell or similar magic opens the windows, as does speaking the command word "canzus" within 10 feet of them. Only Zybilna and her quasit, Iggrik, know the command word.
 
 #### P21. Records Room
 
@@ -653,7 +653,7 @@ The door to this area is sealed with a hart crown lock (see "Crown Locks" earlie
 > The walls of this room are lined with square compartments holding bundles of rolled paper scrolls. In the middle of the room, an elderly dwarf in gray robes, with spectacles resting on the tip of his bulbous nose, sits perfectly still behind a writing desk facing the door. The dwarf's quill is dipped halfway into an inkpot, and his bloodshot eyes are fixed on a sheet of parchment in front of him.
 ^3af
 
-This room contains records of Zybilna's dealings with mortals, including contracts, pacts made with warlocks, and transcripts of conversations, all written in the Infernal script. The dwarf in temporal stasis is Kalimanzaros, Zybilna's clerk. If his statistics become necessary, Kalimanzaros uses the [mage](3-Mechanics/CLI/bestiary/humanoid/mage.md) stat block, with these changes:
+This room contains records of Zybilna's dealings with mortals, including contracts, pacts made with warlocks, and transcripts of conversations, all written in the Infernal script. The dwarf in temporal stasis is Kalimanzaros, Zybilna's clerk. If his statistics become necessary, Kalimanzaros uses the [mage](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) stat block, with these changes:
 
 - Kalimanzaros speaks Abyssal, Common, Dwarvish, Elvish, and Infernal, and he has [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 60 feet.  
 - He has advantage on saving throws against poison and resistance to poison damage.  
@@ -697,7 +697,7 @@ A [jabberwock](3-Mechanics/CLI/bestiary/dragon/jabberwock-wbtw.md) (see appendix
 > Overcoming the jabberwock in area P22 is one of the main challenges of this chapter and, indeed, the whole adventure. The characters are unlikely to survive a head-on fight with the creature, but there are things they can do to increase their chances of survival:
 > 
 > - Free the great owl from the aviary (area P20) and set it against the jabberwock. Characters toward whom the owl is indifferent can easily put the owl in a jabberwock-hunting mood if they have the means to speak with it. If the jabberwock and the owl ever make eye contact, the jabberwock flees the palace with the owl in pursuit.  
-> - Bait the jabberwock into leaving the palace. The jabberwock will follow prey or the sound of music. Once lured outside, assuming it's not set upon by the great owl immediately, the jabberwock goes hunting and does not return for `1d6 + 2` hours.  
+> - Bait the jabberwock into leaving the palace. The jabberwock will follow prey or the sound of music. Once lured outside, assuming it's not set upon by the great owl immediately, the jabberwock goes hunting and does not return for `dice:1d6+2|noform|noparens|avg` (`1d6 + 2`) hours.  
 > - Obtain [Snicker-Snack](3-Mechanics/CLI/items/snicker-snack-wbtw.md), the vorpal sword in area P50. The jabberwock is vulnerable to its slashing damage, and the sword's attacks can neutralize the jabberwock's Regeneration trait.  
 > 
 > The jabberwock is friendly toward Zybilna and hostile toward everything else, though it thinks twice about attacking anything bigger than itself. Throwing food at the jabberwock might distract it long enough to allow characters to flee its presence without risk of pursuit. Befriending the jabberwock isn't an option.
@@ -707,7 +707,7 @@ A [jabberwock](3-Mechanics/CLI/bestiary/dragon/jabberwock-wbtw.md) (see appendix
 
 ##### Cauldron
 
-[Iggwilv's Cauldron](3-Mechanics/CLI/items/iggwilvs-cauldron-wbtw.md) (see appendix A) is currently in its iron form. The characters can break the time-freezing spell on every creature and object in the palace by destroying the cauldron with a [flame tongue](3-Mechanics/CLI/items/flame-tongue.md) or [frost brand](3-Mechanics/CLI/items/frost-brand.md) weapon, or by touching the cauldron with a unicorn horn while reciting a poem called "The Witch Queen's Cauldron." Only Zybilna and the hags of the Hourglass Coven know the words to this poem, but a [legend lore](3-Mechanics/CLI/spells/legend-lore.md) spell or similar magic can also reveal them:
+[Iggwilv's Cauldron](3-Mechanics/CLI/items/iggwilvs-cauldron-wbtw.md) (see appendix A) is currently in its iron form. The characters can break the time-freezing spell on every creature and object in the palace by destroying the cauldron with a [flame tongue](3-Mechanics/CLI/items/flame-tongue-xdmg.md) or [frost brand](3-Mechanics/CLI/items/frost-brand-xdmg.md) weapon, or by touching the cauldron with a unicorn horn while reciting a poem called "The Witch Queen's Cauldron." Only Zybilna and the hags of the Hourglass Coven know the words to this poem, but a [legend lore](3-Mechanics/CLI/spells/legend-lore-xphb.md) spell or similar magic can also reveal them:
 
 > [!note] 
 > 
@@ -743,18 +743,18 @@ If she is questioned, [Mercion](3-Mechanics/CLI/bestiary/npc/mercion-wbtw.md) sh
 In addition to Zybilna, [Mercion](3-Mechanics/CLI/bestiary/npc/mercion-wbtw.md), and the jabberwock, this room contains the following courtiers, all dressed in fancy garb and frozen in time:
 
 - A pompous [bullywug knight](3-Mechanics/CLI/bestiary/humanoid/bullywug-knight-wbtw.md) (see appendix C) and an emissary of the Soggy Court (see chapter 2) named Lord Slubb, the Marquis of Brackishbog  
-- Two [drow mages](3-Mechanics/CLI/bestiary/humanoid/drow-mage.md) (chaotic good) named Kelchrin and Valtis, who counsel Zybilna on matters concerning demons and the Abyss  
-- Snitcher, a [goblin boss](3-Mechanics/CLI/bestiary/humanoid/goblin-boss.md) (neutral) with dragonfly wings that grant a flying speed of 40 feet and the ability to hover, who brings news from other fey courts and is attended by four similarly winged [goblins](3-Mechanics/CLI/bestiary/humanoid/goblin.md) (neutral bodyguards)  
-- Seven [pixies](3-Mechanics/CLI/bestiary/fey/pixie.md) named Bix, Henny, Honeybright, Nightglitter, Starpetal, Trick, and Winterflake  
+- Two [drow mages](3-Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md) (chaotic good) named Kelchrin and Valtis, who counsel Zybilna on matters concerning demons and the Abyss  
+- Snitcher, a [goblin boss](3-Mechanics/CLI/bestiary/fey/goblin-boss-xmm.md) (neutral) with dragonfly wings that grant a flying speed of 40 feet and the ability to hover, who brings news from other fey courts and is attended by four similarly winged [goblins](3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) (neutral bodyguards)  
+- Seven [pixies](3-Mechanics/CLI/bestiary/fey/pixie-xmm.md) named Bix, Henny, Honeybright, Nightglitter, Starpetal, Trick, and Winterflake  
 - Two [quicklings](3-Mechanics/CLI/bestiary/fey/quickling-mpmm.md) (see appendix C) who serve Zybilna as messengers and spies  
 
 ##### Treasure
 
-[Iggwilv's Cauldron](3-Mechanics/CLI/items/iggwilvs-cauldron-wbtw.md) is an artifact, albeit one that its rightful owner would never part with. While she is trapped in stasis, Iggwilv can't stop thieves from taking the cauldron or hiding it. If they so desire, the characters can use [Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md)'s [flame tongue sword](3-Mechanics/CLI/items/flame-tongue.md) to shatter the cauldron, then do whatever they want with the fragments.
+[Iggwilv's Cauldron](3-Mechanics/CLI/items/iggwilvs-cauldron-wbtw.md) is an artifact, albeit one that its rightful owner would never part with. While she is trapped in stasis, Iggwilv can't stop thieves from taking the cauldron or hiding it. If they so desire, the characters can use [Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md)'s [flame tongue sword](3-Mechanics/CLI/items/flame-tongue-xdmg.md) to shatter the cauldron, then do whatever they want with the fragments.
 
-Between them, Iggwilv and [Mercion](3-Mechanics/CLI/bestiary/npc/mercion-wbtw.md) have a [robe of the archmagi](3-Mechanics/CLI/items/robe-of-the-archmagi.md), an [amulet of the planes](3-Mechanics/CLI/items/amulet-of-the-planes.md), and a [+1 quarterstaff](3-Mechanics/CLI/items/1-weapon.md). Iggwilv also keeps a gray stone (the control gem for the gray slaad in area P33) in the pocket of her robe. These items are not likely to fall into the characters' hands.
+Between them, Iggwilv and [Mercion](3-Mechanics/CLI/bestiary/npc/mercion-wbtw.md) have a [robe of the archmagi](3-Mechanics/CLI/items/robe-of-the-archmagi-xdmg.md), an [amulet of the planes](3-Mechanics/CLI/items/amulet-of-the-planes-xdmg.md), and a [+1 quarterstaff](3-Mechanics/CLI/items/1-weapon-xdmg.md). Iggwilv also keeps a gray stone (the control gem for the gray slaad in area P33) in the pocket of her robe. These items are not likely to fall into the characters' hands.
 
-![Bloodybeak chases away the jabberwock](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/097-05-007-bloodybeak.webp#center)
+![Bloodybeak chases away the jabberwock](file://adventure/WBtW/097-05-007.bloodybeak.webp#center)
 
 #### P23. Round Table
 
@@ -765,7 +765,7 @@ The doors leading into this room have been knocked from their hinges, and the do
 > This chamber contains a round, marble-topped table ringed by high-backed chairs. Between the table and a curved wall of tall, slender windows stands a motionless, white-haired wizard wielding a staff that has glittering frost erupting from its tip.
 ^3bd
 
-[Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md) (see appendix B) was ambushed in here by two members of the League of Malevolence, [Zarak](3-Mechanics/CLI/bestiary/npc/zarak-wbtw.md) and [Zargash](3-Mechanics/CLI/bestiary/npc/zargash-wbtw.md). The wizard was using his [staff of power](3-Mechanics/CLI/items/staff-of-power.md) to cast a [cone of cold](3-Mechanics/CLI/spells/cone-of-cold.md) spell when he became frozen in time. Freeing [Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md) from his temporal stasis unleashes the magic of the spell, the effect of which erupts out to fill most of the room.
+[Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md) (see appendix B) was ambushed in here by two members of the League of Malevolence, [Zarak](3-Mechanics/CLI/bestiary/npc/zarak-wbtw.md) and [Zargash](3-Mechanics/CLI/bestiary/npc/zargash-wbtw.md). The wizard was using his [staff of power](3-Mechanics/CLI/items/staff-of-power-xdmg.md) to cast a [cone of cold](3-Mechanics/CLI/spells/cone-of-cold-xphb.md) spell when he became frozen in time. Freeing [Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md) from his temporal stasis unleashes the magic of the spell, the effect of which erupts out to fill most of the room.
 
 Once he is no longer frozen in time, [Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md) is determined to defeat the League of Malevolence before it can cause any more mischief. He volunteers an explanation of how Valor's Call came to the palace (see "Fall of the Witch Queen" earlier in the chapter).
 
@@ -781,7 +781,7 @@ Striking the table with a clenched fist causes it to emit a thunderous boom that
 
 ##### Treasure
 
-[Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md) carries a [staff of power](3-Mechanics/CLI/items/staff-of-power.md) with 15 charges remaining. (The staff has 20 charges when fully charged. Five charges were expended when [Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md) used it to cast [cone of cold](3-Mechanics/CLI/spells/cone-of-cold.md). The staff can't recharge until [Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md) is released from temporal stasis.)
+[Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md) carries a [staff of power](3-Mechanics/CLI/items/staff-of-power-xdmg.md) with 15 charges remaining. (The staff has 20 charges when fully charged. Five charges were expended when [Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md) used it to cast [cone of cold](3-Mechanics/CLI/spells/cone-of-cold-xphb.md). The staff can't recharge until [Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md) is released from temporal stasis.)
 
 #### P24. Ruined Staterooms
 
@@ -813,7 +813,7 @@ The door to the adjoining hallway is sealed with a hart crown lock (see "Crown L
 > One wall of this chamber is lined with wooden cubicles, each containing a small bench and a hook for hanging clothes. Underfoot, a mosaic floor depicts images of demons.
 ^3c6
 
-Any creature that hangs an article of its clothing on one of the cubicle hooks receives the benefit of an [invisibility](3-Mechanics/CLI/spells/invisibility.md) spell that lasts for 1 hour or until the creature ends the effect on itself by attacking or casting a spell. After receiving this benefit, a creature cannot receive it again for 24 hours.
+Any creature that hangs an article of its clothing on one of the cubicle hooks receives the benefit of an [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md) spell that lasts for 1 hour or until the creature ends the effect on itself by attacking or casting a spell. After receiving this benefit, a creature cannot receive it again for 24 hours.
 
 #### P27. Armory
 
@@ -824,7 +824,7 @@ The door to this room is sealed with a hart crown lock (see "Crown Locks" earlie
 > The room contains glass cabinets filled with a wide variety of weaponry. The weapons are so well constructed that it is difficult to tell if this display is an armory or a museum.
 ^3c8
 
-The glass cabinets are unlocked, and the weapons in them are spectacular in appearance. The cabinets contain one of each weapon listed on the [Martial Melee Weapons](3-Mechanics/CLI/tables/weapons-phb.md) and [Martial Ranged Weapons](3-Mechanics/CLI/tables/weapons-phb.md) tables in the "Player's Handbook". Being of particularly fine manufacture, they are worth twice the listed price. Each weapon is enchanted to shower its wielder with compliments. If complimented on its own form in return, a weapon glumly whispers, "Ah, but I'm not as fine as [Snicker-Snack](3-Mechanics/CLI/items/snicker-snack-wbtw.md)," and then never speaks again.
+The glass cabinets are unlocked, and the weapons in them are spectacular in appearance. The cabinets contain one of each weapon listed on the [Martial Melee Weapons](3-Mechanics/CLI/tables/weapons-xphb.md) and [Martial Ranged Weapons](3-Mechanics/CLI/tables/weapons-xphb.md) tables in the "Player's Handbook". Being of particularly fine manufacture, they are worth twice the listed price. Each weapon is enchanted to shower its wielder with compliments. If complimented on its own form in return, a weapon glumly whispers, "Ah, but I'm not as fine as [Snicker-Snack](3-Mechanics/CLI/items/snicker-snack-wbtw.md)," and then never speaks again.
 
 #### P28. Library
 
@@ -839,15 +839,15 @@ The doors to the adjoining hallway are sealed with lion crown locks (see "Crown 
 
 Zybilna keeps her most esoteric tomes in a separate library upstairs (area P38), but this room still contains a vast collection of books on all manner of subjects. It exists in a demiplane. Because of the library's demiplanar nature, its occupants and contents were not frozen in time by [Iggwilv's Cauldron](3-Mechanics/CLI/items/iggwilvs-cauldron-wbtw.md).
 
-![Shon and gray](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/098-05-008-shon-and-gray.webp#center)
+![Shon and gray](file://adventure/WBtW/098-05-008.shon-and-gray.webp#center)
 
 ##### Shon and Gray
 
-The librarian is a hunchbacked human [mage](3-Mechanics/CLI/bestiary/humanoid/mage.md) (neutral) named Shon. He speaks Abyssal, Common, Elvish, and Sylvan, and he has a secret known only to himself, Zybilna, and her quasit, Iggrik: his "hump" is a [giant wolf spider](3-Mechanics/CLI/bestiary/beast/giant-wolf-spider.md) named Gray, which Shon hides under thick shawls. An [awaken](3-Mechanics/CLI/spells/awaken.md) spell was cast on the spider, giving it an Intelligence of 10 and the ability to speak Elvish. Of the two, the spider knows the library better and is more adept at locating rare tomes. The spider defends Shon if the mage is attacked.
+The librarian is a hunchbacked human [mage](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) (neutral) named Shon. He speaks Abyssal, Common, Elvish, and Sylvan, and he has a secret known only to himself, Zybilna, and her quasit, Iggrik: his "hump" is a [giant wolf spider](3-Mechanics/CLI/bestiary/beast/giant-wolf-spider-xmm.md) named Gray, which Shon hides under thick shawls. An [awaken](3-Mechanics/CLI/spells/awaken-xphb.md) spell was cast on the spider, giving it an Intelligence of 10 and the ability to speak Elvish. Of the two, the spider knows the library better and is more adept at locating rare tomes. The spider defends Shon if the mage is attacked.
 
-Shon confronts intruders and orders them to leave the library at once, claiming that no one may peruse the books without Zybilna's consent. Zybilna has made no such declaration, but Shon doesn't trust visitors not to steal the books. If necessary, he uses [suggestion](3-Mechanics/CLI/spells/suggestion.md) spells to force intruders to "get out and stay out!" If the characters stubbornly refuse to leave, Shon tells them that Zybilna keeps her most prized books in a smaller upstairs library and urges them to explore it instead. He even takes the time to write down a list of eight book titles found there that might interest them (see area P38).
+Shon confronts intruders and orders them to leave the library at once, claiming that no one may peruse the books without Zybilna's consent. Zybilna has made no such declaration, but Shon doesn't trust visitors not to steal the books. If necessary, he uses [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md) spells to force intruders to "get out and stay out!" If the characters stubbornly refuse to leave, Shon tells them that Zybilna keeps her most prized books in a smaller upstairs library and urges them to explore it instead. He even takes the time to write down a list of eight book titles found there that might interest them (see area P38).
 
-When Zybilna and her court were frozen in time, Shon was shielded by the library's demiplanar nature. He ventured forth to discover the League of Malevolence in charge. Shon is afraid of the league but has come to an agreement with its leader, [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md): the league will allow Shon to remain at his post, and in exchange, Shon (and his spider) will use the library to research time-freezing magic, with the goal of helping the league break the spell on [Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md) the wizard so that [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) can obtain the wizard's [staff of power](3-Mechanics/CLI/items/staff-of-power.md) (in area P23). So far, Shon and Gray have found nothing helpful. Each of them can describe all five members of the league and knows that three of them—[Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md), [Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md), and [Zargash](3-Mechanics/CLI/bestiary/npc/zargash-wbtw.md)—are in the palace.
+When Zybilna and her court were frozen in time, Shon was shielded by the library's demiplanar nature. He ventured forth to discover the League of Malevolence in charge. Shon is afraid of the league but has come to an agreement with its leader, [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md): the league will allow Shon to remain at his post, and in exchange, Shon (and his spider) will use the library to research time-freezing magic, with the goal of helping the league break the spell on [Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md) the wizard so that [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) can obtain the wizard's [staff of power](3-Mechanics/CLI/items/staff-of-power-xdmg.md) (in area P23). So far, Shon and Gray have found nothing helpful. Each of them can describe all five members of the league and knows that three of them—[Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md), [Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md), and [Zargash](3-Mechanics/CLI/bestiary/npc/zargash-wbtw.md)—are in the palace.
 
 [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) has told Shon that Zybilna was betrayed by the Hourglass Coven, and that the hags have entrusted the League of Malevolence with protecting [Iggwilv's Cauldron](3-Mechanics/CLI/items/iggwilvs-cauldron-wbtw.md). The conversations that Shon has had with [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) suggest that the alliance between the league and the Hourglass Coven isn't as strong as [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) pretends it is. Gray overheard these conversations and knows this information as well.
 
@@ -855,17 +855,17 @@ If the characters tell Shon that they intend to free Zybilna and defeat the Leag
 
 - A jabberwock has made its lair in the ballroom. [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md), the leader of the League of Malevolence, is terrified of it ("as he should be," Shon adds).  
 - [Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md), a helmed warrior with a flaming sword, acts as [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md)'s bodyguard, but not out of loyalty. He's a cold-hearted mercenary who works for coin. The characters might be able to buy him off.  
-- Shon can describe all the properties of a [staff of power](3-Mechanics/CLI/items/staff-of-power.md), having researched the subject recently.  
+- Shon can describe all the properties of a [staff of power](3-Mechanics/CLI/items/staff-of-power-xdmg.md), having researched the subject recently.  
 
 Appendix D has additional roleplaying notes for Shon.
 
 ##### Shon's Spellbook
 
-Shon carries his spellbook, which is a leather-bound tome with a charcoal sketch of a wolf spider on the title page. This book contains the following spells: [charm person](3-Mechanics/CLI/spells/charm-person.md), [cone of cold](3-Mechanics/CLI/spells/cone-of-cold.md), [counterspell](3-Mechanics/CLI/spells/counterspell.md), [darkvision](3-Mechanics/CLI/spells/darkvision.md), [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [fireball](3-Mechanics/CLI/spells/fireball.md), [fly](3-Mechanics/CLI/spells/fly.md), [greater invisibility](3-Mechanics/CLI/spells/greater-invisibility.md), [ice storm](3-Mechanics/CLI/spells/ice-storm.md), [knock](3-Mechanics/CLI/spells/knock.md), [mage armor](3-Mechanics/CLI/spells/mage-armor.md), [magic missile](3-Mechanics/CLI/spells/magic-missile.md), [misty step](3-Mechanics/CLI/spells/misty-step.md), [polymorph](3-Mechanics/CLI/spells/polymorph.md), [remove curse](3-Mechanics/CLI/spells/remove-curse.md), [shield](3-Mechanics/CLI/spells/shield.md), [suggestion](3-Mechanics/CLI/spells/suggestion.md), and [Tasha's hideous laughter](3-Mechanics/CLI/spells/tashas-hideous-laughter.md).
+Shon carries his spellbook, which is a leather-bound tome with a charcoal sketch of a wolf spider on the title page. This book contains the following spells: [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md), [cone of cold](3-Mechanics/CLI/spells/cone-of-cold-xphb.md), [counterspell](3-Mechanics/CLI/spells/counterspell-xphb.md), [darkvision](3-Mechanics/CLI/spells/darkvision-xphb.md), [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [fireball](3-Mechanics/CLI/spells/fireball-xphb.md), [fly](3-Mechanics/CLI/spells/fly-xphb.md), [greater invisibility](3-Mechanics/CLI/spells/greater-invisibility-xphb.md), [ice storm](3-Mechanics/CLI/spells/ice-storm-xphb.md), [knock](3-Mechanics/CLI/spells/knock-xphb.md), [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md), [magic missile](3-Mechanics/CLI/spells/magic-missile-xphb.md), [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md), [polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md), [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md), [shield](3-Mechanics/CLI/spells/shield-xphb.md), [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md), and [Tasha's hideous laughter](3-Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md).
 
 ##### Unicorn Horn
 
-If the Story Tracker indicates that the unicorn horn is here, Shon has it. He doesn't want [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) to get his hands on the [staff of power](3-Mechanics/CLI/items/staff-of-power.md), realizing the harm he would cause with it. Consequently, Shon has no intention of handing the staff over to the League of Malevolence. If, through good roleplaying, the characters convince Shon that they have Prismeer's best interests at heart, he gives them the horn and tells them where to find Zybilna (area P22), warning them about the jabberwock if he hasn't already done so.
+If the Story Tracker indicates that the unicorn horn is here, Shon has it. He doesn't want [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) to get his hands on the [staff of power](3-Mechanics/CLI/items/staff-of-power-xdmg.md), realizing the harm he would cause with it. Consequently, Shon has no intention of handing the staff over to the League of Malevolence. If, through good roleplaying, the characters convince Shon that they have Prismeer's best interests at heart, he gives them the horn and tells them where to find Zybilna (area P22), warning them about the jabberwock if he hasn't already done so.
 
 #### P29. Rug of White Roses
 
@@ -876,7 +876,7 @@ The door to area P30 is sealed with a lion crown lock (see "Crown Locks" earlier
 > Running the length of this oblong room is a rug woven with images of thorny white roses. Each of the doors on the north and south walls has an alabaster pedestal standing inside the room beside it. Atop each pedestal is an alabaster vase that holds several long-stemmed white roses. Carved into the vase are the words "Take one" in Common.
 ^3cf
 
-A creature holding or carrying a white rose can pass through this hall safely. The rug is a 40-foot-long, 8-foot-wide [rug of smothering](3-Mechanics/CLI/bestiary/construct/rug-of-smothering.md) with 60 hit points. If a creature not carrying a white rose ends its turn in the hall, the rug attacks it. The rug also attacks creatures that deal damage to it. Because of its length, the rug can smother up to four Medium or smaller creatures at once.
+A creature holding or carrying a white rose can pass through this hall safely. The rug is a 40-foot-long, 8-foot-wide [rug of smothering](3-Mechanics/CLI/bestiary/construct/animated-rug-of-smothering-xmm.md) with 60 hit points. If a creature not carrying a white rose ends its turn in the hall, the rug attacks it. The rug also attacks creatures that deal damage to it. Because of its length, the rug can smother up to four Medium or smaller creatures at once.
 
 #### P30. Sludge-Filled Tower
 
@@ -896,27 +896,27 @@ The door to this tower is sealed with a lion crown lock (see "Crown Locks" earli
 
 [Zargash](3-Mechanics/CLI/bestiary/npc/zargash-wbtw.md) has been taking samples of the sludge in the pool, hoping to learn more about its properties. He stands motionless, pretending to be frozen in time like the other creatures here. If left alone, he waits for the characters to leave the area, then reports to [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) in area P31.
 
-Characters who observe [Zargash](3-Mechanics/CLI/bestiary/npc/zargash-wbtw.md) can, with a successful DC 16 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check, determine that he is not frozen in time. Because he's pretending to be frozen, the first attack made against him has advantage. If his ruse is exposed or if he's attacked, [Zargash](3-Mechanics/CLI/bestiary/npc/zargash-wbtw.md) uses his next action to cast [gaseous form](3-Mechanics/CLI/spells/gaseous-form.md) on himself, then flies up to area P39 and heads to area P31 to warn [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) and [Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md) that intruders have entered the palace.
+Characters who observe [Zargash](3-Mechanics/CLI/bestiary/npc/zargash-wbtw.md) can, with a successful DC 16 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check, determine that he is not frozen in time. Because he's pretending to be frozen, the first attack made against him has advantage. If his ruse is exposed or if he's attacked, [Zargash](3-Mechanics/CLI/bestiary/npc/zargash-wbtw.md) uses his next action to cast [gaseous form](3-Mechanics/CLI/spells/gaseous-form-xphb.md) on himself, then flies up to area P39 and heads to area P31 to warn [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) and [Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md) that intruders have entered the palace.
 
 ##### Cages and Pixie Jailers
 
 The floors of the five cages are currently suspended above the sludge at heights of 10 feet, 20 feet, 30 feet, 40 feet, and 50 feet, respectively. Each cage's height is controlled by one of the levers on the far side of the narrow ledge. Normally, moving a lever up or down causes its cage to ascend or descend at a rate of 1 foot per second; at present, however, the mechanisms that raise and lower the cages are frozen in time, and until the time-freezing effect ends, nothing happens when any of the levers are moved.
 
-Each cage can hold one Medium or smaller creature. The cages have no doors or locks; creatures are teleported into and out of the cages using the tiny, gilded wands carried by the five [pixies](3-Mechanics/CLI/bestiary/fey/pixie.md), all of which are frozen in time. Only pixies can attune to these tiny wands. As an action, a pixie released from temporal stasis can use its wand to target a Medium or smaller creature it can see within 20 feet of it. The target must make a DC 12 Wisdom saving throw; on a failed save, it is teleported into the gilded cage corresponding to that pixie, and any creature already occupying that cage teleports to the space vacated by the target. A pixie released from temporal stasis can use an action to touch its wand to its corresponding cage, which teleports any creature inside that cage to an unoccupied space of the pixie's choice on the ledge.
+Each cage can hold one Medium or smaller creature. The cages have no doors or locks; creatures are teleported into and out of the cages using the tiny, gilded wands carried by the five [pixies](3-Mechanics/CLI/bestiary/fey/pixie-xmm.md), all of which are frozen in time. Only pixies can attune to these tiny wands. As an action, a pixie released from temporal stasis can use its wand to target a Medium or smaller creature it can see within 20 feet of it. The target must make a DC 12 Wisdom saving throw; on a failed save, it is teleported into the gilded cage corresponding to that pixie, and any creature already occupying that cage teleports to the space vacated by the target. A pixie released from temporal stasis can use an action to touch its wand to its corresponding cage, which teleports any creature inside that cage to an unoccupied space of the pixie's choice on the ledge.
 
 A character can use an action to try to bend a cage's bars, doing so with a successful DC 22 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check and creating an opening wide enough for a Small or Medium character to squeeze into or out of the cage.
 
 ##### Demonic Sludge
 
-A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals an aura of transmutation magic emanating from the sludge, which comes from the Abyss. Any Humanoid that starts its turn wholly or partly immersed in the sludge must make a DC 13 Wisdom saving throw. On a successful save, the creature takes 7 (`2d6`) psychic damage as its mind is ravaged by nightmarish visions too horrible to describe. On a failed save, the creature is magically transformed into a [manes](3-Mechanics/CLI/bestiary/fiend/manes.md) under your control. This transformation can be reversed by any magic that ends a curse. If the transformation is not reversed within three days, it becomes permanent and can be reversed only by a [wish](3-Mechanics/CLI/spells/wish.md) spell or divine intervention.
+A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of transmutation magic emanating from the sludge, which comes from the Abyss. Any Humanoid that starts its turn wholly or partly immersed in the sludge must make a DC 13 Wisdom saving throw. On a successful save, the creature takes `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) psychic damage as its mind is ravaged by nightmarish visions too horrible to describe. On a failed save, the creature is magically transformed into a [manes](3-Mechanics/CLI/bestiary/fiend/manes-xmm.md) under your control. This transformation can be reversed by any magic that ends a curse. If the transformation is not reversed within three days, it becomes permanent and can be reversed only by a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell or divine intervention.
 
 ##### Prisoners
 
 Three of the cages hold prisoners in temporal stasis:
 
-- The cage suspended 10 feet above the sludge contains a [manes](3-Mechanics/CLI/bestiary/fiend/manes.md).  
-- The cage suspended 20 feet above the sludge contains an [incubus](3-Mechanics/CLI/bestiary/fiend/incubus.md) in the guise of a male high elf named Nizran (not his true name). The incubus, whose Etherealness trait does not function in the Feywild, infiltrated Zybilna's court by pretending to be an emissary of the Summer Queen. Zybilna saw through the deception, ascertained the incubus's true allegiance to the demon lord Graz'zt (her former lover), and incarcerated the incubus before he could return to his true master.  
-- The cage suspended 40 feet above the sludge holds a nameless, unshaven man with a crescent-shaped scar under his right eye. A retired human [spy](3-Mechanics/CLI/bestiary/humanoid/spy.md) (neutral) from Oerth, he is unarmed. He begged Zybilna to rid him of the guilt he feels for several murders he committed. She obliged by locking him up and promising to transform him into a manes—a creature incapable of feeling guilt.  
+- The cage suspended 10 feet above the sludge contains a [manes](3-Mechanics/CLI/bestiary/fiend/manes-xmm.md).  
+- The cage suspended 20 feet above the sludge contains an [incubus](3-Mechanics/CLI/bestiary/fiend/incubus-xmm.md) in the guise of a male high elf named Nizran (not his true name). The incubus, whose Etherealness trait does not function in the Feywild, infiltrated Zybilna's court by pretending to be an emissary of the Summer Queen. Zybilna saw through the deception, ascertained the incubus's true allegiance to the demon lord Graz'zt (her former lover), and incarcerated the incubus before he could return to his true master.  
+- The cage suspended 40 feet above the sludge holds a nameless, unshaven man with a crescent-shaped scar under his right eye. A retired human [spy](3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md) (neutral) from Oerth, he is unarmed. He begged Zybilna to rid him of the guilt he feels for several murders he committed. She obliged by locking him up and promising to transform him into a manes—a creature incapable of feeling guilt.  
 
 Even if they are freed from temporal stasis, the prisoners remain trapped in their cages until the pixies release them, which they can't do while frozen in time and which they're not inclined to do unless the order comes from Zybilna. Nizran and the nameless man want nothing more than to flee the palace and never return.
 
@@ -933,23 +933,23 @@ This chamber can be reached by descending a staircase from area P47. A double do
 > A statue of an unarmored elf stands in front of the throne. The statue is posed as if ready for battle, with a shortsword gripped tightly in each of its hands.
 ^3d7
 
-The gray-bearded man is [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md), and he keeps three [cockatrices](3-Mechanics/CLI/bestiary/monstrosity/cockatrice.md) on short leashes. [Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md) stands beside him, shield and flaming sword at the ready. If the characters encountered [Zargash](3-Mechanics/CLI/bestiary/npc/zargash-wbtw.md) previously and allowed him to get away, the evil priest of Orcus is crouched behind the throne. (Statistics for all three villains appear in appendix B.) While seated on the throne, [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) can use a bonus action to speak a rhyme taught to him by the Hourglass Coven ("Knights of glass, protect my ass!"). The rhyme causes the four stained-glass knights in the turrets marked X on the map to leap from their window frames, becoming four [glasswork golems](3-Mechanics/CLI/bestiary/construct/glasswork-golem-wbtw.md) (see the accompanying stat block). These golems defend [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md), returning to their windows after 10 minutes if they haven't been destroyed by then.
+The gray-bearded man is [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md), and he keeps three [cockatrices](3-Mechanics/CLI/bestiary/monstrosity/cockatrice-xmm.md) on short leashes. [Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md) stands beside him, shield and flaming sword at the ready. If the characters encountered [Zargash](3-Mechanics/CLI/bestiary/npc/zargash-wbtw.md) previously and allowed him to get away, the evil priest of Orcus is crouched behind the throne. (Statistics for all three villains appear in appendix B.) While seated on the throne, [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) can use a bonus action to speak a rhyme taught to him by the Hourglass Coven ("Knights of glass, protect my ass!"). The rhyme causes the four stained-glass knights in the turrets marked X on the map to leap from their window frames, becoming four [glasswork golems](3-Mechanics/CLI/bestiary/construct/glasswork-golem-wbtw.md) (see the accompanying stat block). These golems defend [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md), returning to their windows after 10 minutes if they haven't been destroyed by then.
 
 If the characters parley with [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md), he sneers that the palace is now his to rule, though any mention of the Hourglass Coven or the jabberwock causes a flush of dread to pass over [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md)'s face. Throughout any conversation, [Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md) remains silent, eyeing the party mirthlessly. [Zargash](3-Mechanics/CLI/bestiary/npc/zargash-wbtw.md), if present, does as little as possible to help [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) without revealing his treasonous heart. He wants to replace [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) as leader of the League of Malevolence, but he is certain [Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md) will slay him if he openly betrays [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md).
 
-![Glasswork Golem](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/099-637677440077795828.webp#center)
+![Glasswork Golem](file://adventure/WBtW/099-637677440077795828.webp#center)
 
-If the characters mention [Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md), [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) explains that he wants the [staff of power](3-Mechanics/CLI/items/staff-of-power.md) that belongs to the wizard, but he can't take it while [Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md) is frozen in time. To free [Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md), [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) needs a unicorn horn. (He won't explain how the horn works.) In exchange for a unicorn horn, [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) promises to help the characters achieve their goals, provided their stated goals have nothing to do with freeing Zybilna. [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) has no intention of fulfilling his part of any bargain.
+If the characters mention [Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md), [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) explains that he wants the [staff of power](3-Mechanics/CLI/items/staff-of-power-xdmg.md) that belongs to the wizard, but he can't take it while [Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md) is frozen in time. To free [Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md), [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) needs a unicorn horn. (He won't explain how the horn works.) In exchange for a unicorn horn, [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) promises to help the characters achieve their goals, provided their stated goals have nothing to do with freeing Zybilna. [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) has no intention of fulfilling his part of any bargain.
 
 If conflict erupts, [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) relies on [Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md), the cockatrices, and [Zargash](3-Mechanics/CLI/bestiary/npc/zargash-wbtw.md) to defend him. [Zargash](3-Mechanics/CLI/bestiary/npc/zargash-wbtw.md) flees if the battle is going poorly for his side.
 
-[Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md)'s loyalty can be bought for a reasonable price (treasure worth 2,500 gp or more). If the characters recruit him, [Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md) stays with the party for the remainder of the adventure, then goes his own way. While in the party's employ, [Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md) stoically follows the characters around, defending them when needed, and can easily be persuaded to use his [flame tongue](3-Mechanics/CLI/items/flame-tongue.md) sword to destroy [Iggwilv's Cauldron](3-Mechanics/CLI/items/iggwilvs-cauldron-wbtw.md).
+[Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md)'s loyalty can be bought for a reasonable price (treasure worth 2,500 gp or more). If the characters recruit him, [Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md) stays with the party for the remainder of the adventure, then goes his own way. While in the party's employ, [Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md) stoically follows the characters around, defending them when needed, and can easily be persuaded to use his [flame tongue](3-Mechanics/CLI/items/flame-tongue-xdmg.md) sword to destroy [Iggwilv's Cauldron](3-Mechanics/CLI/items/iggwilvs-cauldron-wbtw.md).
 
 Neither [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) nor [Zargash](3-Mechanics/CLI/bestiary/npc/zargash-wbtw.md) will threaten or harm the characters while [Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md) is on the party's side. In the face of certain defeat, [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) begs for mercy and offers to reveal a secret about Zybilna in exchange for his life and freedom. If the party agrees, [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) reveals that Zybilna is [Iggwilv the Witch Queen](3-Mechanics/CLI/bestiary/npc/iggwilv-the-witch-queen-wbtw.md) and explains how he plotted to blackmail her.
 
 ##### Petrified Elf
 
-The statue is a [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified) high elf named [Raezil](3-Mechanics/CLI/bestiary/npc/raezil-wbtw.md) Uthemar (neutral). [Raezil](3-Mechanics/CLI/bestiary/npc/raezil-wbtw.md) served as Zybilna's spy in other fey courts. She returned from a mission to find nearly everyone in the palace trapped in temporal stasis. When she confronted [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) and accused him of conspiring to overthrow Zybilna, his cockatrices [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified) her. If magic is used to end the [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified) condition on [Raezil](3-Mechanics/CLI/bestiary/npc/raezil-wbtw.md), use the [spy](3-Mechanics/CLI/bestiary/humanoid/spy.md) stat block to represent her, with these changes:
+The statue is a [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified) high elf named [Raezil](3-Mechanics/CLI/bestiary/npc/raezil-wbtw.md) Uthemar (neutral). [Raezil](3-Mechanics/CLI/bestiary/npc/raezil-wbtw.md) served as Zybilna's spy in other fey courts. She returned from a mission to find nearly everyone in the palace trapped in temporal stasis. When she confronted [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) and accused him of conspiring to overthrow Zybilna, his cockatrices [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified) her. If magic is used to end the [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified) condition on [Raezil](3-Mechanics/CLI/bestiary/npc/raezil-wbtw.md), use the [spy](3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md) stat block to represent her, with these changes:
 
 - [Raezil](3-Mechanics/CLI/bestiary/npc/raezil-wbtw.md) speaks Common and Elvish.  
 - She has [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 60 feet.  
@@ -961,13 +961,13 @@ Once she is no longer [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified)
 
 ##### Treasure
 
-[Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) carries a [staff of striking](3-Mechanics/CLI/items/staff-of-striking.md) and wears [bracers of defense](3-Mechanics/CLI/items/bracers-of-defense.md). [Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md) wields a [flame tongue longsword](3-Mechanics/CLI/items/flame-tongue.md). [Zargash](3-Mechanics/CLI/bestiary/npc/zargash-wbtw.md) wears a bat-shaped amulet that has the properties of a [ring of feather falling](3-Mechanics/CLI/items/ring-of-feather-falling.md).
+[Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) carries a [staff of striking](3-Mechanics/CLI/items/staff-of-striking-xdmg.md) and wears [bracers of defense](3-Mechanics/CLI/items/bracers-of-defense-xdmg.md). [Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md) wields a [flame tongue longsword](3-Mechanics/CLI/items/flame-tongue-xdmg.md). [Zargash](3-Mechanics/CLI/bestiary/npc/zargash-wbtw.md) wears a bat-shaped amulet that has the properties of a [ring of feather falling](3-Mechanics/CLI/items/ring-of-feather-falling-xdmg.md).
 
 ### Upper Palace Locations
 
 > [!gallery]
-> ![Palace of Heart's Desire, Upper](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/100-map-5-2-palace-upper.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/101-map-5-2-palace-upper-player.webp#gallery)
+> ![Palace of Heart's Desire, Upper](file://adventure/WBtW/100-map-5.2-palace-upper.webp#gallery)
+> ![Player Version](file://adventure/WBtW/101-map-5.2-palace-upper-player.webp#gallery)
 
 #### P32. Minstrels' Gallery
 
@@ -978,7 +978,7 @@ This balcony extends out over the banquet hall (area P18). The door on the west 
 > This thirty-foot-high balcony overlooks the banquet hall. A harpsichord decorated with painted panels is situated at one end of the balcony near a double door.
 ^3dc
 
-The harpsichord is a Medium object with AC 15, 12 hit points, and immunity to poison and psychic damage. A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals an aura of transmutation magic around it. If it loses half or more of its hit points, the harpsichord is too damaged to play music. Reducing the harpsichord to 0 hit points destroys it and causes eight pieces of wreckage to magically spring to life and attack the harpsichord's assailants. Each piece of wreckage is treated as a Tiny object under the effect of an [animate objects](3-Mechanics/CLI/spells/animate-objects.md) spell that lasts for 1 minute.
+The harpsichord is a Medium object with AC 15, 12 hit points, and immunity to poison and psychic damage. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of transmutation magic around it. If it loses half or more of its hit points, the harpsichord is too damaged to play music. Reducing the harpsichord to 0 hit points destroys it and causes eight pieces of wreckage to magically spring to life and attack the harpsichord's assailants. Each piece of wreckage is treated as a Tiny object under the effect of an [animate objects](3-Mechanics/CLI/spells/animate-objects-xphb.md) spell that lasts for 1 minute.
 
 #### P33. Glass Statues
 
@@ -998,13 +998,13 @@ When the music from the harpsichord stops playing, the statues freeze in place u
 
 Characters who have seen Zybilna recognize her likeness in the statue on the dais. The remaining thirty-nine statues represent mortals whom Zybilna aided in her role as fairy godmother. A glass scullery maid dances with a glass princess, a glass farmer carries a glass pot filled with glass coins, and so on. Each statue (including the one on the dais) has AC 13, 4 hit points, vulnerability to bludgeoning and thunder damage, and immunity to poison and psychic damage.
 
-While the statues are dancing, any creature that enters the room or starts its turn there must succeed on a DC 13 Dexterity saving throw to avoid colliding with a statue. Reduce the DC by 1 for every three dancing statues that have been destroyed. A collision with a creature causes a statue to shatter and deals 14 (`4d6`) psychic damage to the creature that struck it. The dancing statues avoid the dais and can't collide with creatures on it, nor can they collide with creatures they can't reach (creatures flying above them, for example).
+While the statues are dancing, any creature that enters the room or starts its turn there must succeed on a DC 13 Dexterity saving throw to avoid colliding with a statue. Reduce the DC by 1 for every three dancing statues that have been destroyed. A collision with a creature causes a statue to shatter and deals `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) psychic damage to the creature that struck it. The dancing statues avoid the dais and can't collide with creatures on it, nor can they collide with creatures they can't reach (creatures flying above them, for example).
 
 This statue on the dais doesn't move, and the tiny sphere floating next to its head is frozen in time and magical (see "Treasure" below). It remains suspended in the air above the dais even if the statue on the dais is destroyed.
 
 ##### Slaad Guardian
 
-An [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) [gray slaad](3-Mechanics/CLI/bestiary/aberration/gray-slaad.md) in its true form appears near the dais when one of the following conditions is met:
+An [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) [gray slaad](3-Mechanics/CLI/bestiary/aberration/gray-slaad-xmm.md) in its true form appears near the dais when one of the following conditions is met:
 
 - Three or more dancing statues are destroyed.  
 - The statue on the dais is destroyed.  
@@ -1016,7 +1016,7 @@ Zybilna pressed the slaad into service, and it does her bidding if she's around 
 
 ##### Treasure
 
-The blue sphere is an [Ioun stone (insight)](3-Mechanics/CLI/items/ioun-stone-insight.md) that belongs to Iggwilv. Any other creature that attunes to the [Ioun stone](3-Mechanics/CLI/items/ioun-stone-insight.md) is cursed. While cursed in this way, the creature is magically transformed into an animated, doll-like effigy of itself made of wood. The creature's statistics are the same, except that it is a Construct with vulnerability to fire damage, and it doesn't require air, food, or water. Items worn or carried by the creature are unaffected. A [wish](3-Mechanics/CLI/spells/wish.md) spell can end the curse. The creature can end the curse on itself by giving a bouquet of eight black roses to Iggwilv, but only Iggwilv and Iggrik (the quasit in area P51) know that the curse can be ended in this way. The black roses can be harvested from the rose garden (area P7).
+The blue sphere is an [Ioun stone (insight)](3-Mechanics/CLI/items/ioun-stone-insight-xdmg.md) that belongs to Iggwilv. Any other creature that attunes to the [Ioun stone](3-Mechanics/CLI/items/ioun-stone-insight-xdmg.md) is cursed. While cursed in this way, the creature is magically transformed into an animated, doll-like effigy of itself made of wood. The creature's statistics are the same, except that it is a Construct with vulnerability to fire damage, and it doesn't require air, food, or water. Items worn or carried by the creature are unaffected. A [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell can end the curse. The creature can end the curse on itself by giving a bouquet of eight black roses to Iggwilv, but only Iggwilv and Iggrik (the quasit in area P51) know that the curse can be ended in this way. The black roses can be harvested from the rose garden (area P7).
 
 #### P34. Hall of Hatches
 
@@ -1084,7 +1084,7 @@ The following clues can help the characters identify some of Zybilna's former pe
 > Flies buzz throughout this chamber, and the grimy marble floor is crawling with maggots. Eight wicker cradles stand upright in the filth. Lashed to each cradle is a three-foot-long, curved wooden pole with a mobile consisting of three ornaments dangling at the top of it. Each ornament appears to be a triangular piece of white wood with an Elvish letter carved into it. Small, misshapen creatures nesting in the cradles reach toward the symbols with their claws but can't quite grab them.
 ^3ec
 
-The cradles contain eight [dretches](3-Mechanics/CLI/bestiary/fiend/dretch.md)—manifestations of Zybilna's darkest emotions: annoyance, loathing, rage, disgust, disdain, maliciousness, [envy](3-Mechanics/CLI/bestiary/npc/envy-wbtw.md), and jealousy. The stunted, baby-like fiends act according to their nature; for example, the annoyed dretch frowns in irritation at everything it sees, the malicious dretch tries to pinch anyone who comes too close to it, and so forth.
+The cradles contain eight [dretches](3-Mechanics/CLI/bestiary/fiend/dretch-xmm.md)—manifestations of Zybilna's darkest emotions: annoyance, loathing, rage, disgust, disdain, maliciousness, [envy](3-Mechanics/CLI/bestiary/npc/envy-wbtw.md), and jealousy. The stunted, baby-like fiends act according to their nature; for example, the annoyed dretch frowns in irritation at everything it sees, the malicious dretch tries to pinch anyone who comes too close to it, and so forth.
 
 A character can make a DC 15 Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check to ascertain why the dretches are here and what they represent. On a failed check, the character ascertains nothing. On a successful check, the character realizes that the dretches are manifestations of suppressed negative emotions belonging to whoever confined them to this wretched nursery.
 
@@ -1099,7 +1099,7 @@ Each dretch is bound by Zybilna's magic and has a speed of 0 feet while in its c
 > A dozen floating candles cast dim, flickering lights over this sepulchral, windowless library. Ebony bookshelves are filled with volumes bound in jet-black fabric. The books have no titles on their spines. In the middle of the room, a black quill pen rests on a writing desk next to a jar of black ink.
 ^3ee
 
-Magic causes each candle to float `1d4 + 3` feet above the floor. Casting [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md) on a candle or removing a candle from the library automatically ends the levitation effect on it.
+Magic causes each candle to float `dice:1d4+3|noform|noparens|avg` (`1d4 + 3`) feet above the floor. Casting [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) on a candle or removing a candle from the library automatically ends the levitation effect on it.
 
 If the characters remove a book from the shelves, they see that the cover, like the spine, has no title. Opening any of the books reveals that its pages are blank apart from the first page, on which a thin line has been scribed. If a creature uses the quill pen on the desk to write the title of a book above the line, the remaining pages of the book fill with writing that matches the book of the same title, provided that book is part of this room's collection. Writing a title in a blank book that does not match the title of a book in the collection causes the ink to swiftly evaporate from the page. If a book is removed from this library, all writing in it fades after 30 days, leaving the book blank.
 
@@ -1107,7 +1107,7 @@ Among the titles found here are the following, which the characters can learn ab
 
 *The City That Waits* (one explorer's treatise about Moil, a demiplane that houses a city of haunted spires)
 
-*The Faceless Lord* (Iggwilv's private account of her many dealings with Juiblex, the Demon Prince of Oozes and Slimes—which she later updated and incorporated into her magnum opus, the [Demonomicon of Iggwilv](3-Mechanics/CLI/items/demonomicon-of-iggwilv-tce.md))
+*The Faceless Lord* (Iggwilv's private account of her many dealings with Juiblex, the Demon Prince of Oozes and Slimes—which she later updated and incorporated into her magnum opus, the [Demonomicon of Iggwilv](3-Mechanics/CLI/items/demonomicon-of-iggwilv-xdmg.md))
 
 *I, Lyzandred* (a lich's meandering autobiography, which drifts into a lengthy, plodding dissertation about demiplanes and how to construct them)
 
@@ -1131,13 +1131,13 @@ Floor-to-ceiling iron bars spaced 6 inches apart span the eastern side of this r
 
 This wing of the palace is reserved for Zybilna's guests, including envoys from other archfey and petitioners from the Material Plane.
 
-![Most of the palace's inhab...](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/102-05-009-frozen-in-time.webp#center "Most of the palace's inhabitants are frozen in time")
+![Most of the palace's inhabitants are frozen in time](file://adventure/WBtW/102-05-009.frozen-in-time.webp#center)
 
 Each room holds a four-poster bed, a wardrobe containing outfits that magically tailor themselves to their wearers, and a dressing table. A bell pull mounted on the wall by the door enables guests to summon servants from their quarters (area P15). If the characters ring any of these bells, the butler [Thinnings](3-Mechanics/CLI/bestiary/npc/thinnings-wbtw.md) creeps up to investigate 5 minutes later.
 
 Each room's occupants are frozen in time. Individual rooms have their own color schemes and notable features, as indicated below:
 
-- **P40a.** Red Room. A high elf [noble](3-Mechanics/CLI/bestiary/humanoid/noble.md) (neutral) with long hair stands in the middle of the room. The elf, Carisso, is holding a crystal goblet of water. Tied to his belt is a glass-handled rapier (actually a [+1 rapier](3-Mechanics/CLI/items/1-weapon.md)). A goblin (noncombatant) stands next to him, holding a tray with a decanter of water on it.  
+- **P40a.** Red Room. A high elf [noble](3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md) (neutral) with long hair stands in the middle of the room. The elf, Carisso, is holding a crystal goblet of water. Tied to his belt is a glass-handled rapier (actually a [+1 rapier](3-Mechanics/CLI/items/1-weapon-xdmg.md)). A goblin (noncombatant) stands next to him, holding a tray with a decanter of water on it.  
 - **P40b.** Blue Room. This chamber has a line of bluebirds perched motionless on the sill of an open window. The room is otherwise unoccupied.  
 - **P40c.** Green Room. A well-dressed forest gnome (noncombatant) stands on a stool in front of a vanity, looking into a mirror as she combs her green hair. The vanity has various cosmetics and vials of perfume on it.  
 - **P40d.** White Room. A handsome young male human (noncombatant) in a white nightshirt sleeps in the bed.  
@@ -1173,9 +1173,9 @@ Zybilna used this laboratory to brew potions, including an experimental oil that
 
 ##### Treasure
 
-Characters who search the laboratory find a [potion of growth](3-Mechanics/CLI/items/potion-of-growth.md), three [potions of healing](3-Mechanics/CLI/items/potion-of-healing.md), and two [potions of giant strength (hill)](3-Mechanics/CLI/items/potion-of-hill-giant-strength.md).
+Characters who search the laboratory find a [potion of growth](3-Mechanics/CLI/items/potion-of-growth-xdmg.md), three [potions of healing](3-Mechanics/CLI/items/potion-of-healing-xdmg.md), and two [potions of giant strength (hill)](3-Mechanics/CLI/items/potion-of-hill-giant-strength-xdmg.md).
 
-Twelve bean pods hang on the beanstalk and are easily detached. A detached bean pod can be hurled up to 120 feet as an action. When it is tossed on the ground, it disappears and produces an effect identical to that of the [plant growth](3-Mechanics/CLI/spells/plant-growth.md) spell (the version of the spell that takes 1 action to cast).
+Twelve bean pods hang on the beanstalk and are easily detached. A detached bean pod can be hurled up to 120 feet as an action. When it is tossed on the ground, it disappears and produces an effect identical to that of the [plant growth](3-Mechanics/CLI/spells/plant-growth-xphb.md) spell (the version of the spell that takes 1 action to cast).
 
 #### P43. Mirror of Heart's Desire
 
@@ -1205,9 +1205,9 @@ Any creature that touches one of the jars on the table causes all three jars to 
 - The middle jar displays a middle-aged woman with long white hair.  
 - The highest jar shows a white-haired crone or hag.  
 
-The jars are stuck to the table with [sovereign glue](3-Mechanics/CLI/items/sovereign-glue.md). Each jar is a Small object with AC 13, 3 hit points, and immunity to poison and psychic damage. For each jar that breaks, an [invisible stalker](3-Mechanics/CLI/bestiary/elemental/invisible-stalker.md) is released, appearing in the air above the table. A stalker attacks whoever is responsible for breaking its jar, ignoring all other targets. The stalker returns to the Elemental Plane of Air when it or its target dies.
+The jars are stuck to the table with [sovereign glue](3-Mechanics/CLI/items/sovereign-glue-xdmg.md). Each jar is a Small object with AC 13, 3 hit points, and immunity to poison and psychic damage. For each jar that breaks, an [invisible stalker](3-Mechanics/CLI/bestiary/elemental/invisible-stalker-xmm.md) is released, appearing in the air above the table. A stalker attacks whoever is responsible for breaking its jar, ignoring all other targets. The stalker returns to the Elemental Plane of Air when it or its target dies.
 
-![These &quot;jars of time&quot; show ...](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/103-05-010-jars-of-time.webp#center "These &quot;jars of time&quot; show Zybilna's past, present, and future forms.")
+![These &quot;jars of time&quot; show Zybilna's past, present, and future forms.](file://adventure/WBtW/103-05-010.jars-of-time.webp#center)
 
 #### P45. Zybilna's Bedroom
 
@@ -1216,11 +1216,11 @@ The jars are stuck to the table with [sovereign glue](3-Mechanics/CLI/items/sove
 > This spacious bedchamber is lightly furnished. An oval mirror in a black wood frame is mounted on the east wall, and a chess set with jet and bloodstone playing pieces rests atop an octagonal table in the southwest corner, flanked by two comfortable, high-backed chairs. A four-poster bed with black silk sheets and drapes stands in the middle of this room. Lounging on the bed are two creatures, each with the lower body of a lion. One has the head and upper torso of a woman, the other the head and upper torso of a man.
 ^3fc
 
-The creatures on the bed are two [lamias](3-Mechanics/CLI/bestiary/monstrosity/lamia.md) named Nemesatra and Trizzian. The demon prince Graz'zt sent them to parley with Zybilna, because he is convinced that the archfey knows the whereabouts of [Iggwilv the Witch Queen](3-Mechanics/CLI/bestiary/npc/iggwilv-the-witch-queen-wbtw.md) (with whom Graz'zt has unfinished business). Nemesatra and Trizzian suspect that Zybilna and Iggwilv are the same person, but the lamias need proof before they return to their master.
+The creatures on the bed are two [lamias](3-Mechanics/CLI/bestiary/fiend/lamia-xmm.md) named Nemesatra and Trizzian. The demon prince Graz'zt sent them to parley with Zybilna, because he is convinced that the archfey knows the whereabouts of [Iggwilv the Witch Queen](3-Mechanics/CLI/bestiary/npc/iggwilv-the-witch-queen-wbtw.md) (with whom Graz'zt has unfinished business). Nemesatra and Trizzian suspect that Zybilna and Iggwilv are the same person, but the lamias need proof before they return to their master.
 
-Graz'zt has bestowed on each lamia the ability to touch the surface of any mirror (as an action), disappear inside it, and reappear on another plane of existence of their choice, as though the lamia had cast a [plane shift](3-Mechanics/CLI/spells/plane-shift.md) spell that affects only one creature. Nemesatra and Trizzian used this ability to travel from Azzagrat (Graz'zt's home in the Abyss) to the Feywild, and they plan to use it again to return to Azzagrat once they get the proof they desire. The costumes in area P36 are not proof enough on their own, but any or all of the following constitute proof:
+Graz'zt has bestowed on each lamia the ability to touch the surface of any mirror (as an action), disappear inside it, and reappear on another plane of existence of their choice, as though the lamia had cast a [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md) spell that affects only one creature. Nemesatra and Trizzian used this ability to travel from Azzagrat (Graz'zt's home in the Abyss) to the Feywild, and they plan to use it again to return to Azzagrat once they get the proof they desire. The costumes in area P36 are not proof enough on their own, but any or all of the following constitute proof:
 
-- The sworn testimony of [Thinnings](3-Mechanics/CLI/bestiary/npc/thinnings-wbtw.md) the butler (see area P15), Kalimanzaros the dwarf (see area P21), or one of the hags in area P47, which the lamias must obtain using a [suggestion](3-Mechanics/CLI/spells/suggestion.md) or [geas](3-Mechanics/CLI/spells/geas.md) spell  
+- The sworn testimony of [Thinnings](3-Mechanics/CLI/bestiary/npc/thinnings-wbtw.md) the butler (see area P15), Kalimanzaros the dwarf (see area P21), or one of the hags in area P47, which the lamias must obtain using a [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md) or [geas](3-Mechanics/CLI/spells/geas-xphb.md) spell  
 - A copy of *The Faceless Lord* (one of Iggwilv's known unpublished works) from area P38  
 - The jars of time in area P44, provided and the jars still show three faces of Iggwilv (including her younger self, which the lamias recognize)  
 
@@ -1228,7 +1228,7 @@ When one or more characters appear before the lamias, Nemesatra fixes them with 
 
 The lamias' access to the palace is limited because they can't bypass its locked doors or fly. They entered the palace through the coach house (area P11) and have visited areas P29, P14c, P14g, P41 (where they debated the magical door), and P46.
 
-If the lamias are attacked, they defend themselves until at least one of them loses half of their hit points or more, whereupon they touch the mirror in this chamber and return to the Abyss. If the mirror has been destroyed and they have no clear route of escape, the lamias use [charm person](3-Mechanics/CLI/spells/charm-person.md), [suggestion](3-Mechanics/CLI/spells/suggestion.md), or [geas](3-Mechanics/CLI/spells/geas.md) spells to persuade the characters to leave them alone.
+If the lamias are attacked, they defend themselves until at least one of them loses half of their hit points or more, whereupon they touch the mirror in this chamber and return to the Abyss. If the mirror has been destroyed and they have no clear route of escape, the lamias use [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md), [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md), or [geas](3-Mechanics/CLI/spells/geas-xphb.md) spells to persuade the characters to leave them alone.
 
 ##### Treasure
 
@@ -1241,7 +1241,7 @@ The chessboard was a gift to Iggwilv from the archmage Mordenkainen and is worth
 > This chamber is a walk-in wardrobe. Hinged panels along the walls swing outward to display a variety of exquisitely crafted robes, gowns, scarves, headdresses, stockings, gloves, shoes, boots, and other clothing. Items remove themselves from hooks and hangers and float in the air seemingly of their own accord, allowing you to see them more closely.
 ^3ff
 
-Permanent [unseen servant](3-Mechanics/CLI/spells/unseen-servant.md) spells make trying on clothes in this room easy and fun.
+Permanent [unseen servant](3-Mechanics/CLI/spells/unseen-servant-xphb.md) spells make trying on clothes in this room easy and fun.
 
 #### P47. Destroyed Study
 
@@ -1267,13 +1267,13 @@ Any hags of the Hourglass Coven who retreated to the palace are found here, near
 
 If only one hag is present, she is muttering to herself. If two hags are here, they are bickering about what to do next. If all three hags are present, they are mocking the helmed knight as they avoid talking about their present troubles. "He seems to be taking his present situation rather lightly," says Skabatha. "Time has been rather cruel to him," gloats Endelyn. "If we still had the unicorn horn, we could make him plunge to his doom," bemoans Bavlorna.
 
-If [Endelyn Moongrave](3-Mechanics/CLI/bestiary/npc/endelyn-moongrave-wbtw.md) is encountered here, she tells the characters that she foresaw the dissolution of the coven. If one or both of her sisters are in earshot when she says this, they accuse Endelyn of orchestrating the coven's breakup. Arguing ensues, ending with each hag using her [plane shift](3-Mechanics/CLI/spells/plane-shift.md) spell to flee Prismeer. The hags also use this spell to escape if the characters attack them.
+If [Endelyn Moongrave](3-Mechanics/CLI/bestiary/npc/endelyn-moongrave-wbtw.md) is encountered here, she tells the characters that she foresaw the dissolution of the coven. If one or both of her sisters are in earshot when she says this, they accuse Endelyn of orchestrating the coven's breakup. Arguing ensues, ending with each hag using her [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md) spell to flee Prismeer. The hags also use this spell to escape if the characters attack them.
 
 Otherwise, the hags do what they do best: deceive and bargain. They claim to be the true heroes of the situation, since they trapped Iggwilv in time to save Prismeer from her tyranny and debauchery. They relate memories of Iggwilv's past, portraying her as a demented archmage who peered into the Abyss, studied it intently to learn how to summon and control demons, and used them to ravage kingdoms on the Material Plane. The hags suggest that the characters focus their efforts on slaying the jabberwock. In exchange, the hags promise to use the power of [Iggwilv's Cauldron](3-Mechanics/CLI/items/iggwilvs-cauldron-wbtw.md) for the characters' benefit, further tempting them by describing the cauldron's many beneficial properties (see appendix A). The hags hope to buy time until they can turn the tables on the characters and make them suffer for their insolence.
 
 ##### Leader of Valor's Call
 
-The helmed knight, named [Strongheart](3-Mechanics/CLI/bestiary/npc/strongheart-wbtw.md) (see appendix B), battled [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) and [Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md) in this study. [Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md) used a [horn of blasting](3-Mechanics/CLI/items/horn-of-blasting.md) to punch a hole in the wall and sent the knight hurtling through it. An instant later, the palace was frozen in time. The horn was destroyed in the blast, which also dealt damage to [Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md) and [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md). (Those two were later released from temporal stasis by the Hourglass Coven and allowed to rest and regain their lost hit points.) [Strongheart](3-Mechanics/CLI/bestiary/npc/strongheart-wbtw.md) is suspended 30 feet north of the tower and 60 feet above the storm vortex (area P13). He has 20 hit points remaining.
+The helmed knight, named [Strongheart](3-Mechanics/CLI/bestiary/npc/strongheart-wbtw.md) (see appendix B), battled [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) and [Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md) in this study. [Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md) used a [horn of blasting](3-Mechanics/CLI/items/horn-of-blasting-xdmg.md) to punch a hole in the wall and sent the knight hurtling through it. An instant later, the palace was frozen in time. The horn was destroyed in the blast, which also dealt damage to [Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md) and [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md). (Those two were later released from temporal stasis by the Hourglass Coven and allowed to rest and regain their lost hit points.) [Strongheart](3-Mechanics/CLI/bestiary/npc/strongheart-wbtw.md) is suspended 30 feet north of the tower and 60 feet above the storm vortex (area P13). He has 20 hit points remaining.
 
 If [Strongheart](3-Mechanics/CLI/bestiary/npc/strongheart-wbtw.md)'s temporal stasis ends while he's suspended over the storm vortex, he falls into the vortex. A character within reach of [Strongheart](3-Mechanics/CLI/bestiary/npc/strongheart-wbtw.md) can try to catch him as he falls, doing so with a successful DC 15 Strength check. Alternatively, characters who can fly could reach [Strongheart](3-Mechanics/CLI/bestiary/npc/strongheart-wbtw.md) while he's frozen in the air, tie one end of a rope around him, and secure the other end to something or someone strong enough to bear his weight (240 pounds with all his gear), thus preventing him from falling when the temporal stasis ends.
 
@@ -1285,7 +1285,7 @@ Stairs to either side of the hole in the wall lead down to area P31 and up to ar
 
 ##### Treasure
 
-[Strongheart](3-Mechanics/CLI/bestiary/npc/strongheart-wbtw.md) wields [Steel](3-Mechanics/CLI/items/steel-wbtw.md), a magic longsword (see appendix A). The sentient blade can't be removed from the knight's hand while he's frozen in time, and it can't communicate or be used to cast [revivify](3-Mechanics/CLI/spells/revivify.md) until it is released from temporal stasis.
+[Strongheart](3-Mechanics/CLI/bestiary/npc/strongheart-wbtw.md) wields [Steel](3-Mechanics/CLI/items/steel-wbtw.md), a magic longsword (see appendix A). The sentient blade can't be removed from the knight's hand while he's frozen in time, and it can't communicate or be used to cast [revivify](3-Mechanics/CLI/spells/revivify-xphb.md) until it is released from temporal stasis.
 
 #### P48. Turrets
 
@@ -1301,9 +1301,9 @@ These seven turrets, areas P48a through P48g, are attached to the palace's centr
 
 ##### Treasure
 
-The five jewels stored in the turrets are Zybilna's crystallized desires. They appeared to her shortly after the domain of Prismeer was formed, and she placed them in the turrets for safekeeping. A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals an aura of conjuration magic around each jewel.
+The five jewels stored in the turrets are Zybilna's crystallized desires. They appeared to her shortly after the domain of Prismeer was formed, and she placed them in the turrets for safekeeping. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of conjuration magic around each jewel.
 
-An [identify](3-Mechanics/CLI/spells/identify.md) spell or similar magic reveals that each jewel has a single [conjure fey](3-Mechanics/CLI/spells/conjure-fey.md) spell embedded in it, and that the spell can be cast as an action by knocking the jewel three times against a hard object or surface. No other components are required to cast the spell, and there's no way for the user to know what creature will appear. The creature summoned by a jewel depends on the jewel's color, as noted in the Conjured Fey table. The jewel vanishes when the creature appears, and the creature disappears after 1 hour. See the [conjure fey](3-Mechanics/CLI/spells/conjure-fey.md) spell description for the creature's behavior.
+An [identify](3-Mechanics/CLI/spells/identify-xphb.md) spell or similar magic reveals that each jewel has a single [conjure fey](3-Mechanics/CLI/spells/conjure-fey-xphb.md) spell embedded in it, and that the spell can be cast as an action by knocking the jewel three times against a hard object or surface. No other components are required to cast the spell, and there's no way for the user to know what creature will appear. The creature summoned by a jewel depends on the jewel's color, as noted in the Conjured Fey table. The jewel vanishes when the creature appears, and the creature disappears after 1 hour. See the [conjure fey](3-Mechanics/CLI/spells/conjure-fey-xphb.md) spell description for the creature's behavior.
 
 These conjured Fey are magically created duplicates of creatures whose life essence Zybilna harvested to twist part of the Feywild into what would become her Domain of Delight. Being mere echoes, they are oblivious to this fact and unaware of what they truly are. Each one acts as though it has been imprisoned in its jewel for an unknown period of time (by whom, it can't say). It doesn't realize that it will cease to exist when the spell that brought it forth ends.
 
@@ -1313,9 +1313,9 @@ These conjured Fey are magically created duplicates of creatures whose life esse
 |-------|----------|
 | Black | Spymaster Hushknife, a [darkling elder](3-Mechanics/CLI/bestiary/fey/darkling-elder-mpmm.md) (see appendix C) |
 | Blue | Allegra, a [quickling](3-Mechanics/CLI/bestiary/fey/quickling-mpmm.md) (see appendix C) |
-| Green | Frogspittle, a [green hag](3-Mechanics/CLI/bestiary/fey/green-hag.md) |
+| Green | Frogspittle, a [green hag](3-Mechanics/CLI/bestiary/fey/green-hag-xmm.md) |
 | Red | Sinch the Ruthless, a [redcap](3-Mechanics/CLI/bestiary/fey/redcap-mpmm.md) (see appendix C) |
-| White | Winky, a one-eyed [blink dog](3-Mechanics/CLI/bestiary/fey/blink-dog.md) |
+| White | Winky, a one-eyed [blink dog](3-Mechanics/CLI/bestiary/fey/blink-dog-xmm.md) |
 ^conjured-fey
 
 #### P49. Black Book
@@ -1327,7 +1327,7 @@ The door to this chamber is sealed with a hart crown lock (see "Crown Locks" ear
 > The walls, floor, and ceiling of this room are made of white marble tiles. In the middle of the room, a quill with a feather sheathed in flame and a black-covered book rest on an iron lectern.
 ^409
 
-The book and the quill radiate auras of abjuration magic if scrutinized using a [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell or similar magic. The flame coming off the feather is illusory and harmless.
+The book and the quill radiate auras of abjuration magic if scrutinized using a [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar magic. The flame coming off the feather is illusory and harmless.
 
 The front cover of the book is embossed with images of a lion and a hart, the two animals rearing up on their hind legs and facing each other. Any creature whose name is written in the book using the quill can open any of the palace's crown locks. If a creature's name is crossed out using the quill, or the page bearing its name is torn from the book, the creature's ability to open these locks is rescinded.
 
@@ -1340,7 +1340,7 @@ A long list of names fills the book's pages, many of them belonging to fairies, 
 > An ornate iron door stands at the top of the staircase. Its surface is covered with a complex array of cogs, latches, and tumblers. The round doorknob is engraved with the image of a nightingale.
 ^40b
 
-Zybilna stores her greatest treasures inside this vault, which is shielded against divination magic. The door is impervious to damage and has eight built-in locking mechanisms, any one of which can be affected by a [knock](3-Mechanics/CLI/spells/knock.md) spell or similar magic. A character can also spend 1 minute trying to pick one of the locks by using thieves' tools, doing so with a successful DC 18 Dexterity check. Opening a single lock, however, causes any previously opened locks to close. To enter the vault, all eight locks must be opened at the same time.
+Zybilna stores her greatest treasures inside this vault, which is shielded against divination magic. The door is impervious to damage and has eight built-in locking mechanisms, any one of which can be affected by a [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell or similar magic. A character can also spend 1 minute trying to pick one of the locks by using thieves' tools, doing so with a successful DC 18 Dexterity check. Opening a single lock, however, causes any previously opened locks to close. To enter the vault, all eight locks must be opened at the same time.
 
 Characters who examine the doorknob discover an inscription around its base that reads, "Speak My Name." A creature that speaks the password "Natasha" while grasping the doorknob can open all of the locks simultaneously. The door, once opened, locks automatically when it is closed again. A similar doorknob, but without the inscription, is inside the vault.
 
@@ -1374,7 +1374,7 @@ To enter this tower, the characters must use flight or climb the beanstalk that 
 > The interior of the tower is a mess of broken furniture and grasping vines. Amid the ruins, a toad wearing a tiny wizard's cape perches on the lid of a treasure chest that has slid into a wall and become surrounded by junk.
 ^40f
 
-The toad is Iggrik, a shapechanged [quasit](3-Mechanics/CLI/bestiary/fiend/quasit.md) and Iggwilv's longtime companion. It addresses the characters in Common and claims to be Zybilna's toad familiar. If attacked, it assumes the form of a bat and flies away, taking refuge in the garden (area P2).
+The toad is Iggrik, a shapechanged [quasit](3-Mechanics/CLI/bestiary/fiend/quasit-xmm.md) and Iggwilv's longtime companion. It addresses the characters in Common and claims to be Zybilna's toad familiar. If attacked, it assumes the form of a bat and flies away, taking refuge in the garden (area P2).
 
 When the palace was frozen in time, Iggrik was in the library (area P28). It spied on the Hourglass Coven until the hags left the palace, then used a potion from Zybilna's laboratory to cause the beanstalk to lift this tower into the air, creating a haven for itself. The quasit has been hiding ever since. It knows that the League of Malevolence has sided with the hags against Zybilna, but it lacks the courage to venture forth and remain abreast of the league's activities in the palace. [Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md), in particular, terrifies the quasit.
 
@@ -1384,29 +1384,29 @@ If the characters mention Iggwilv or Natasha, Iggrik tries to redirect the conve
 - The jabberwock is not the biggest creature living in the palace. That would be Zybilna's enormous owl, Bloodybeak. It hates the jabberwock but is confined to the aviary (area P20) and frozen in time. The password to open the aviary's windows is "canzus."  
 - Guests can bypass the crown locks on the palace doors by writing their names into Zybilna's black book (in area P49).  
 
-Iggrik also knows how to end the curse that Iggwilv placed on the [Ioun stone](3-Mechanics/CLI/items/ioun-stone-insight.md) in area P33. If the characters need help ending the curse, Iggrik tells them how if they correctly answer the following riddle: "Yesterday comes after tomorrow, but where's my proof?" The answer is "in a dictionary."
+Iggrik also knows how to end the curse that Iggwilv placed on the [Ioun stone](3-Mechanics/CLI/items/ioun-stone-insight-xdmg.md) in area P33. If the characters need help ending the curse, Iggrik tells them how if they correctly answer the following riddle: "Yesterday comes after tomorrow, but where's my proof?" The answer is "in a dictionary."
 
 If the characters tell Iggrik that Zybilna can be freed from temporal stasis by speaking her true name while touching her with a unicorn horn, the quasit reveals that Zybilna's true name is Natasha (see also "Unicorn Horn" below).
 
 If Iggrik learns that everyone in the palace can be released from temporal stasis by destroying [Iggwilv's Cauldron](3-Mechanics/CLI/items/iggwilvs-cauldron-wbtw.md), the quasit shares the following information:
 
-- A [flame tongue](3-Mechanics/CLI/items/flame-tongue.md) weapon can destroy the cauldron, and [Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md) happens to wield such a weapon.  
+- A [flame tongue](3-Mechanics/CLI/items/flame-tongue-xdmg.md) weapon can destroy the cauldron, and [Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md) happens to wield such a weapon.  
 - The jabberwock likes to coil around the cauldron when it sleeps and is attracted to music. The best chance of defeating it is to use [Snicker-Snack](3-Mechanics/CLI/items/snicker-snack-wbtw.md), the vorpal sword in Iggwilv's vault (area P50). The password to unlock the vault is "Natasha."  
 - Destroying the cauldron is no great loss, since Iggwilv has the power to repair it. (That's not to say that the Witch Queen will be pleased to see her cauldron destroyed.)  
 
 ##### Treasure
 
-The treasure chest contains a pair of [winged boots](3-Mechanics/CLI/items/winged-boots.md), which Iggrik offers to the characters if they promise to free Zybilna.
+The treasure chest contains a pair of [winged boots](3-Mechanics/CLI/items/winged-boots-xdmg.md), which Iggrik offers to the characters if they promise to free Zybilna.
 
 ##### Unicorn Horn
 
-If the Story Tracker indicates that the unicorn horn is here, Iggrik found the horn and placed it in the chest with the [winged boots](3-Mechanics/CLI/items/winged-boots.md). Once Iggrik learns that the horn has the power to release creatures trapped in temporal stasis, the quasit offers the horn to characters who promise to use it to free its mistress.
+If the Story Tracker indicates that the unicorn horn is here, Iggrik found the horn and placed it in the chest with the [winged boots](3-Mechanics/CLI/items/winged-boots-xdmg.md). Once Iggrik learns that the horn has the power to release creatures trapped in temporal stasis, the quasit offers the horn to characters who promise to use it to free its mistress.
 
 ## Ending the Story
 
 Releasing Zybilna from temporal stasis can be accomplished in one of three ways:
 
-- Shattering [Iggwilv's Cauldron](3-Mechanics/CLI/items/iggwilvs-cauldron-wbtw.md) with a [frost brand](3-Mechanics/CLI/items/frost-brand.md) or [flame tongue](3-Mechanics/CLI/items/flame-tongue.md) weapon (see the cauldron's description in appendix A for details), which ends the time-freezing magic throughout the palace.  
+- Shattering [Iggwilv's Cauldron](3-Mechanics/CLI/items/iggwilvs-cauldron-wbtw.md) with a [frost brand](3-Mechanics/CLI/items/frost-brand-xdmg.md) or [flame tongue](3-Mechanics/CLI/items/flame-tongue-xdmg.md) weapon (see the cauldron's description in appendix A for details), which ends the time-freezing magic throughout the palace.  
 - Touching [Iggwilv's Cauldron](3-Mechanics/CLI/items/iggwilvs-cauldron-wbtw.md) with a unicorn horn while reciting a poem called "The Witch Queen's Cauldron" (see area P22), which also ends the time-freezing magic throughout the palace.  
 - Touching Zybilna with a unicorn horn while speaking her true name, Natasha, which can be learned in the palace's costume room (area P36), from Iggrik the quasit (see area P51), or from the family tree in Loomlurch (see area L11 in chapter 3). Once she is freed, Zybilna can use the horn, the poem, and the cauldron to break the spell on the rest of the palace, as described in area P22.  
 
@@ -1427,7 +1427,7 @@ If Zybilna is freed from temporal stasis, read:
 
 Zybilna/Iggwilv is troubled to learn of what has happened to Prismeer and vows to undo the damage the Hourglass Coven has wrought—a task that will take considerable time and effort. If the characters have unfinished business with the Hourglass Coven, the archfey reveals to them the weaknesses of all three hags and allows the characters to deal with the coven as they see fit (see "Fate of the Hourglass Coven" below). Appendix D has additional roleplaying notes for Zybilna.
 
-![Iggwilv the Witch Queen](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/104-637677440418909361.webp#center)
+![Iggwilv the Witch Queen](file://adventure/WBtW/104-637677440418909361.webp#center)
 
 #### Things Best Left Unsaid
 
@@ -1448,7 +1448,7 @@ Various loose ends are addressed in the sections that follow. Some of the events
 
 If all three hags of the Hourglass Coven are dead, there's nothing more to be done with them. This section discusses what happens next if Zybilna is set free and at least one of the hags is still alive.
 
-The surviving hags can sense when Zybilna is released from temporal stasis—or, rather, they can sense when their hold over Prismeer is lost. The instant Zybilna regains control of her domain, the hags use their [plane shift](3-Mechanics/CLI/spells/plane-shift.md) spells to flee to Gehenna, where they maintain a cramped tower guarded by yugoloth mercenaries. They don't think that Zybilna is aware of the tower, but her spies learned about it some time ago. She reveals the tower's location to characters who want to conclude their dealings with the hags or perhaps put an end to them. The tower in Gehenna is beyond the scope of this adventure; flesh out its occupants and defenses as you see fit if the characters decide to pay the hags a visit.
+The surviving hags can sense when Zybilna is released from temporal stasis—or, rather, they can sense when their hold over Prismeer is lost. The instant Zybilna regains control of her domain, the hags use their [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md) spells to flee to Gehenna, where they maintain a cramped tower guarded by yugoloth mercenaries. They don't think that Zybilna is aware of the tower, but her spies learned about it some time ago. She reveals the tower's location to characters who want to conclude their dealings with the hags or perhaps put an end to them. The tower in Gehenna is beyond the scope of this adventure; flesh out its occupants and defenses as you see fit if the characters decide to pay the hags a visit.
 
 Zybilna takes no immediate action against the surviving hags, preferring to let them stew in exile. If all three hags are still alive, the coven stays together even though its members constantly blame one another for their failures. The hags are united by their fear of Zybilna's wrath, and they live in torment, dreading the day when Zybilna seeks them out and inflicts punishment on them for their wickedness.
 
@@ -1478,7 +1478,7 @@ Honoring the rule of reciprocity (see "Rules of Conduct" in chapter 2), Zybilna 
 
 #### The Cauldron Was Destroyed
 
-If [Iggwilv's Cauldron](3-Mechanics/CLI/items/iggwilvs-cauldron-wbtw.md) was destroyed but all its pieces are recovered, Zybilna uses a [wish](3-Mechanics/CLI/spells/wish.md) spell to repair the artifact. If this turn of events occurs, read:
+If [Iggwilv's Cauldron](3-Mechanics/CLI/items/iggwilvs-cauldron-wbtw.md) was destroyed but all its pieces are recovered, Zybilna uses a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell to repair the artifact. If this turn of events occurs, read:
 
 > [!readaloud] 
 > 
@@ -1489,20 +1489,20 @@ The archfey commands her pixie courtiers to bring enough water and wine to put t
 
 ##### Dead Dretches
 
-If the characters slew three or more of the [dretches](3-Mechanics/CLI/bestiary/fiend/dretch.md) in area P37, Zybilna is not feeling so generous. She uses the [scrying](3-Mechanics/CLI/spells/scrying.md) property of the gold cauldron for the characters' benefit only once before sending them away.
+If the characters slew three or more of the [dretches](3-Mechanics/CLI/bestiary/fiend/dretch-xmm.md) in area P37, Zybilna is not feeling so generous. She uses the [scrying](3-Mechanics/CLI/spells/scrying-xphb.md) property of the gold cauldron for the characters' benefit only once before sending them away.
 
 #### The Cauldron Was Saved
 
-If her cauldron was not destroyed, Zybilna offers her rescuers the use of a [wish](3-Mechanics/CLI/spells/wish.md) spell in return for their accomplishments:
+If her cauldron was not destroyed, Zybilna offers her rescuers the use of a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell in return for their accomplishments:
 
 > [!readaloud] 
 > 
 > "As a reward, I offer you one free casting of a *wish* spell. Tell me, what is your hearts' desire?"
 ^422
 
-Zybilna honors the spirit of the characters' request and doesn't try to twist their words. If the characters want to be returned to their home world, Zybilna uses a [wish](3-Mechanics/CLI/spells/wish.md) spell to transport them back to the Witchlight Carnival or wherever else they want to go, wiser and perhaps not a day older than when they entered the Feywild. If they wish for something else, Zybilna satisfies that desire as well as she can, given the limits of the spell.
+Zybilna honors the spirit of the characters' request and doesn't try to twist their words. If the characters want to be returned to their home world, Zybilna uses a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell to transport them back to the Witchlight Carnival or wherever else they want to go, wiser and perhaps not a day older than when they entered the Feywild. If they wish for something else, Zybilna satisfies that desire as well as she can, given the limits of the spell.
 
-If Zybilna can provide what the characters desire without casting a [wish](3-Mechanics/CLI/spells/wish.md) spell, so much the better. For example, if they want to take her flying coach (in area P11) and explore more of the Feywild, she gives them the coach and its key before seeing them on their merry way. If they ask for her cauldron, she laughs and says, "Not in this lifetime."
+If Zybilna can provide what the characters desire without casting a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell, so much the better. For example, if they want to take her flying coach (in area P11) and explore more of the Feywild, she gives them the coach and its key before seeing them on their merry way. If they ask for her cauldron, she laughs and says, "Not in this lifetime."
 
 ##### Dead Dretches
 
@@ -1510,7 +1510,7 @@ If the characters slew three or more of the dretches in area P37, Zybilna is not
 
 #### To Be Young Again!
 
-If you used the "Lost Things" adventure hook and the characters are granted a wish, Zybilna offers to harness the time-dilating power of the Feywild to send the characters back to their home plane as the children they once were, so that they can live their lives over without having suffered the terrible losses that brought them to Prismeer in the first place. (This use of Zybilna's gift tests the boundary of what a [wish](3-Mechanics/CLI/spells/wish.md) spell can do but is nevertheless within the archfey's power.) This choice is a fine option if the players want to "retire" their characters and end the campaign here and now. If all the players accept this option, read:
+If you used the "Lost Things" adventure hook and the characters are granted a wish, Zybilna offers to harness the time-dilating power of the Feywild to send the characters back to their home plane as the children they once were, so that they can live their lives over without having suffered the terrible losses that brought them to Prismeer in the first place. (This use of Zybilna's gift tests the boundary of what a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell can do but is nevertheless within the archfey's power.) This choice is a fine option if the players want to "retire" their characters and end the campaign here and now. If all the players accept this option, read:
 
 > [!readaloud] 
 > 

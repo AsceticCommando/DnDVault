@@ -14,7 +14,7 @@ This appendix provides alternative background features and bonds for player char
 
 ## Substitute Features
 
-![](3-Mechanics/CLI/adventures/out-of-the-abyss/img/112-ooa18a-01.webp#center)
+![](file://adventure/OotA/112-ooa18a-01.webp#center)
 
 A player can choose one of the following features to replace the feature normally granted by his or her character's background.
 
@@ -29,6 +29,8 @@ You are no casual visitor to the Underdark, but instead have spent considerable 
 ## Substitute Bonds
 
 This table provides alternative bonds that characters can have instead of the bonds from their backgrounds.
+
+`dice: [](18-appendix-a-modifying-backgrounds.md#^bond)`
 
 | dice: d10 | Bond |
 |-----------|------|

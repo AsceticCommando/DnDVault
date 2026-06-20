@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Dragonnel"
 ---
-# [Dragonnel](3-Mechanics\CLI\bestiary\dragon/dragonnel-ftd.md)
+# [Dragonnel](3-Mechanics/CLI/bestiary/dragon/dragonnel-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 190*  
 
 Dragonnels are distantly related to chromatic, gem, and metallic dragons and resemble them in basic form. Intelligent enough to understand speech but incapable of speaking themselves, they are willful creatures motivated by the desire for food and entertainment. In the wild, they are picky eaters with mercurial moods, inclined to toy with their prey before going in for the kill.
@@ -63,6 +63,6 @@ A dragonnel is an agile mount and naturally inclined to flyby tactics, swooping 
     "name": "Rend"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/dragonnel-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Dragonnel.webp"
 ```
 ^statblock

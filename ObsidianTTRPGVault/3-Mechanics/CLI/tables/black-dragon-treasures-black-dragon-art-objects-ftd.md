@@ -12,6 +12,8 @@ aliases:
 
 **Black Dragon Art Objects**
 
+`dice: [](black-dragon-treasures-black-dragon-art-objects-ftd.md#^black-dragon-art-objects)`
+
 | dice: d10 | Object |
 |-----------|--------|
 | 1 | An elegant necklace owned by a beloved noble who disappeared years ago |

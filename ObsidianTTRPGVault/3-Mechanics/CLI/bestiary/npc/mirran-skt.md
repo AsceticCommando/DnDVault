@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Mirran"
 ---
-# [Mirran](3-Mechanics\CLI\bestiary\npc/mirran-skt.md)
+# [Mirran](3-Mechanics/CLI/bestiary/npc/mirran-skt.md)
 *Source: Storm King's Thunder p. 207*  
 
 ```statblock
@@ -53,17 +53,17 @@ aliases:
 "damage_resistances": "cold"
 "damage_immunities": "lightning, thunder"
 "gear":
-  - "[greatsword](3-Mechanics/CLI/items/greatsword.md)"
+  - "[greatsword](3-Mechanics/CLI/items/greatsword-xphb.md)"
 "senses": "passive Perception 19"
 "languages": "Common, Giant"
 "cr": "13"
 "traits":
   - "desc": "Mirran's innate spellcasting ability is Charisma (spell save DC 17).\
       \ It can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [feather\
-      \ fall](3-Mechanics/CLI/spells/feather-fall.md), [levitate](3-Mechanics/CLI/spells/levitate.md),\
-      \ [light](3-Mechanics/CLI/spells/light.md)\n\n**3/day each:** [control weather](3-Mechanics/CLI/spells/control-weather.md),\
-      \ [water breathing](3-Mechanics/CLI/spells/water-breathing.md)"
+      \n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [feather fall](3-Mechanics/CLI/spells/feather-fall-xphb.md), [levitate](3-Mechanics/CLI/spells/levitate-xphb.md),\
+      \ [light](3-Mechanics/CLI/spells/light-xphb.md)\n\n**3/day each:** [control\
+      \ weather](3-Mechanics/CLI/spells/control-weather-xphb.md), [water breathing](3-Mechanics/CLI/spells/water-breathing-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "Mirran can breathe air and water."
     "name": "Amphibious"
@@ -83,6 +83,6 @@ aliases:
     "name": "Lightning Strike (Recharge 5-6)"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/mirran-skt.webp"
+"image": "file://bestiary/tokens/SKT/Mirran.webp"
 ```
 ^statblock

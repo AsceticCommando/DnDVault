@@ -12,6 +12,8 @@ aliases:
 
 **Brass Dragon Art Objects**
 
+`dice: [](brass-dragon-treasures-brass-dragon-art-objects-ftd.md#^brass-dragon-art-objects)`
+
 | dice: d10 | Object |
 |-----------|--------|
 | 1 | A finely carved bust of a long-dead human ruler, which the dragon has named Cornelius and argues with incessantly |

@@ -12,6 +12,8 @@ aliases:
 
 **Gatekeeper NPCs**
 
+`dice: [](gatekeeper-npcs-erlw.md#^gatekeeper-npcs)`
+
 | dice: d4 | NPC |
 |----------|-----|
 | 1 | The spirit of a long-dead Gatekeeper lives on in the body of an ancient toad. It speaks in a deep, croaking voice. |

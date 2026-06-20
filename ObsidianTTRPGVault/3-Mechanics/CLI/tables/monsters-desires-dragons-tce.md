@@ -12,6 +12,8 @@ aliases:
 
 **Dragons**
 
+`dice: [](monsters-desires-dragons-tce.md#^dragons)`
+
 | dice: d4 | Desired Offering |
 |----------|------------------|
 | 1 | Gold or gems |

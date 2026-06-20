@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Mahadi the Rakshasa"
 ---
-# [Mahadi the Rakshasa](3-Mechanics\CLI\bestiary\npc/mahadi-the-rakshasa-bgdia.md)
+# [Mahadi the Rakshasa](3-Mechanics/CLI/bestiary/npc/mahadi-the-rakshasa-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 127*  
 
 Mahadi appears as a wealthy merchant lord. Though extremely powerful, Mahadi doesn't believe in taking unnecessary risks, particularly in the Nine Hells where he can be permanently slain. Mahadi acts as the eyes and ears of Asmodeus in Avernus. As a deal broker and moderator, he's privy to all manner of dealings that might otherwise escape the attention of his patron.
@@ -64,17 +64,18 @@ Of course, guests leaving Infernal Rapture are expected to pay their bills in fu
 "traits":
   - "desc": "Mahadi's innate spellcasting ability is Charisma (spell save DC 18, +9\
       \ to hit with spell attacks). He can innately cast the following spells, requiring\
-      \ no material components:\n\n**At will:** [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md),\
-      \ [disguise self](3-Mechanics/CLI/spells/disguise-self.md), [mage hand](3-Mechanics/CLI/spells/mage-hand.md),\
-      \ [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md)\n\n**3/day each:**\
-      \ [charm person](3-Mechanics/CLI/spells/charm-person.md), [detect magic](3-Mechanics/CLI/spells/detect-magic.md),\
-      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), [hellish rebuke](3-Mechanics/CLI/spells/hellish-rebuke.md),\
-      \ [invisibility](3-Mechanics/CLI/spells/invisibility.md), [major image](3-Mechanics/CLI/spells/major-image.md),\
-      \ [speak with dead](3-Mechanics/CLI/spells/speak-with-dead.md), [suggestion](3-Mechanics/CLI/spells/suggestion.md)\n\
-      \n**1/day each:** [banishment](3-Mechanics/CLI/spells/banishment.md), [demiplane](3-Mechanics/CLI/spells/demiplane.md),\
-      \ [dominate person](3-Mechanics/CLI/spells/dominate-person.md), [fly](3-Mechanics/CLI/spells/fly.md),\
-      \ [forcecage](3-Mechanics/CLI/spells/forcecage.md), [geas](3-Mechanics/CLI/spells/geas.md),\
-      \ [plane shift](3-Mechanics/CLI/spells/plane-shift.md), [true seeing](3-Mechanics/CLI/spells/true-seeing.md)"
+      \ no material components:\n\n**At will:** [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md), [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\n**3/day\
+      \ each:** [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md), [detect\
+      \ magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
+      \ [hellish rebuke](3-Mechanics/CLI/spells/hellish-rebuke-xphb.md), [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md),\
+      \ [major image](3-Mechanics/CLI/spells/major-image-xphb.md), [speak with dead](3-Mechanics/CLI/spells/speak-with-dead-xphb.md),\
+      \ [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md)\n\n**1/day each:**\
+      \ [banishment](3-Mechanics/CLI/spells/banishment-xphb.md), [demiplane](3-Mechanics/CLI/spells/demiplane-xphb.md),\
+      \ [dominate person](3-Mechanics/CLI/spells/dominate-person-xphb.md), [fly](3-Mechanics/CLI/spells/fly-xphb.md),\
+      \ [forcecage](3-Mechanics/CLI/spells/forcecage-xphb.md), [geas](3-Mechanics/CLI/spells/geas-xphb.md),\
+      \ [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md), [true seeing](3-Mechanics/CLI/spells/true-seeing-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "Mahadi can't be affected or detected by spells of 6th level or lower\
       \ unless he wishes to be. He has advantage on saving throws against all other\
@@ -90,7 +91,7 @@ Of course, guests leaving Infernal Rapture are expected to pay their bills in fu
       \ takes effect whenever the target takes a short or long rest, filling the target's\
       \ thoughts with horrible images and dreams. The cursed target gains no benefit\
       \ from finishing a short or long rest. The curse lasts until it is lifted by\
-      \ a [remove curse](3-Mechanics/CLI/spells/remove-curse.md) spell or similar\
+      \ a [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md) spell or similar\
       \ magic."
     "name": "Claw"
   - "desc": "Mahadi summons Ilzabet, an erinyes bound to him by an infernal contract.\
@@ -101,6 +102,6 @@ Of course, guests leaving Infernal Rapture are expected to pay their bills in fu
     "name": "Summon Erinyes (1/Day)"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/mahadi-the-rakshasa-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Mahadi%20the%20Rakshasa.webp"
 ```
 ^statblock

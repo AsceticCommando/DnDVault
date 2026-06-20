@@ -12,6 +12,8 @@ aliases:
 
 **Scholarly Standing**
 
+`dice: [](scholarly-standing-erlw.md#^scholarly-standing)`
+
 | dice: d6 | Standing |
 |----------|----------|
 | 1 | **Revolutionary**. Your work has upended scholarly consensus and reshaped the way other academics think about your field. Each new discovery you make is received with acclaim. |

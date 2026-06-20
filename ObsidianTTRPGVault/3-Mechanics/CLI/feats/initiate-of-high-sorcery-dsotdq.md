@@ -21,9 +21,9 @@ Choose one of the three moons of Krynn to influence your magic: the black moon, 
 
 | Moon | 1st-Level Spell |
 |------|-----------------|
-| Nuitari | Choose two from [dissonant whispers](3-Mechanics/CLI/spells/dissonant-whispers.md), [false life](3-Mechanics/CLI/spells/false-life.md), [hex](3-Mechanics/CLI/spells/hex.md), and [ray of sickness](3-Mechanics/CLI/spells/ray-of-sickness.md) |
-| Lunitari | Choose two from [color spray](3-Mechanics/CLI/spells/color-spray.md), [disguise self](3-Mechanics/CLI/spells/disguise-self.md), [feather fall](3-Mechanics/CLI/spells/feather-fall.md), and [longstrider](3-Mechanics/CLI/spells/longstrider.md) |
-| Solinari | Choose two from [comprehend languages](3-Mechanics/CLI/spells/comprehend-languages.md), [detect evil and good](3-Mechanics/CLI/spells/detect-evil-and-good.md), [protection from evil and good](3-Mechanics/CLI/spells/protection-from-evil-and-good.md), and [shield](3-Mechanics/CLI/spells/shield.md) |
+| Nuitari | Choose two from [dissonant whispers](3-Mechanics/CLI/spells/dissonant-whispers-xphb.md), [false life](3-Mechanics/CLI/spells/false-life-xphb.md), [hex](3-Mechanics/CLI/spells/hex-xphb.md), and [ray of sickness](3-Mechanics/CLI/spells/ray-of-sickness-xphb.md) |
+| Lunitari | Choose two from [color spray](3-Mechanics/CLI/spells/color-spray-xphb.md), [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md), [feather fall](3-Mechanics/CLI/spells/feather-fall-xphb.md), and [longstrider](3-Mechanics/CLI/spells/longstrider-xphb.md) |
+| Solinari | Choose two from [comprehend languages](3-Mechanics/CLI/spells/comprehend-languages-xphb.md), [detect evil and good](3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md), [protection from evil and good](3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md), and [shield](3-Mechanics/CLI/spells/shield-xphb.md) |
 ^lunar-spells
 
 You can cast each of the chosen 1st-level spells without a spell slot, and you must finish a long rest before you can cast them in this way again. You can also cast the spells using any spell slots you have.

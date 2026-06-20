@@ -12,6 +12,8 @@ aliases:
 
 **Human Names – Norse, Female**
 
+`dice: [](human-names-norse-female-xge.md#^human-names-norse-female)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Alfhild |

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Bitter Breath"
 ---
-# [Bitter Breath](3-Mechanics\CLI\bestiary\npc/bitter-breath-bgdia.md)
+# [Bitter Breath](3-Mechanics/CLI/bestiary/npc/bitter-breath-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 90*  
 
 ```statblock
@@ -75,6 +75,6 @@ aliases:
     "name": "Hurl Flame"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/bitter-breath-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Bitter%20Breath.webp"
 ```
 ^statblock

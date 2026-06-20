@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Yggdrasti"
 ---
-# [Yggdrasti](3-Mechanics\CLI\bestiary\plant/yggdrasti-mcv1sc.md)
+# [Yggdrasti](3-Mechanics/CLI/bestiary/plant/yggdrasti-mcv1sc.md)
 *Source: Monstrous Compendium Volume 1: Spelljammer Creatures p. 13*  
 
 Thought to be cast-off splinters of Yggdrasil, the World Tree, yggdrasti look like gigantic, dead trees covered with barnacles. They fly through Wildspace and the Astral Sea with their topmost branches leading the way and their withered roots trailing behind them. Each one has its own gravity plane and air envelope.
@@ -84,6 +84,6 @@ Yggdrasti sometimes make landfall and disguise themselves as ordinary trees, bur
     "name": "Lightning Discharge (3/Day)"
 "source":
   - "MCV1SC"
-"image": "3-Mechanics/CLI/bestiary/plant/token/yggdrasti-mcv1sc.webp"
+"image": "file://bestiary/tokens/MCV1SC/Yggdrasti.webp"
 ```
 ^statblock

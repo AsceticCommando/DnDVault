@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Dyrrn"
 ---
-# [Dyrrn](3-Mechanics\CLI\bestiary\npc/dyrrn-erlw.md)
+# [Dyrrn](3-Mechanics/CLI/bestiary/npc/dyrrn-erlw.md)
 *Source: Eberron: Rising from the Last War p. 288*  
 
 Dyrrn is known to its followers as the Corruptor, the Stealer of Thoughts, the Slithering Lord, and the Foul Labyrinth. In the lore of the Gatekeepers, it is said that Dyrrn plants thoughts in the weak minded—the seeds of terrible ideas that fester and grow. Those who are particularly brilliant often draw the attention of the Foul Labyrinth, which hungers to consume unique minds.
@@ -38,6 +38,8 @@ Dyrrn makes its lair in the Palace of Sinew, a horrid site shaped from the lefto
 If a creature goes mad in Dyrrn's lair or while it can see the daelkyr, it gains a form of indefinite madness. Roll on the Madness of Dyrrn table to determine the nature of this madness, which takes the form of a character flaw that lasts until cured. Chapter 8 of the "Dungeon Master's Guide" has more information on madness.
 
 **Madness of Dyrrn**
+
+`dice: [](dyrrn-erlw.md#^madness-of-dyrrn)`
 
 | dice: d6 | Flaw (lasts until cured) |
 |----------|--------------------------|
@@ -167,13 +169,14 @@ If a creature goes mad in Dyrrn's lair or while it can see the daelkyr, it gains
       \ on the Madness of Dyrrn table to determine the nature of this madness, which\
       \ takes the form of a character flaw that lasts until cured. Chapter 8 of the\
       \ \"Dungeon Master's Guide\" has more information on madness.\n\n**Madness of\
-      \ Dyrrn**\n\n| dice: d6 | Flaw (lasts until cured) |\n|----------|--------------------------|\n\
-      | 1 | \"There's an illithid parasite living in my brain!\" |\n| 2 | \"I can\
-      \ feel myself evolving into an aberration.\" |\n| 3 | \"Aberrations are the\
-      \ only natural things.\" |\n| 4 | \"A part of me has become a conscious entity.\"\
-      \ |\n| 5 | \"My opponents must bow down to a mind flayer!\" |\n| 6 | \"Dyrrn\
-      \ and the mind flayers simply want to unite all sentient creatures in collective\
-      \ consciousness. And I receive messages from the group mind!\" |\n^madness-of-dyrrn"
+      \ Dyrrn**\n\ndice: [](dyrrn-erlw.md#^madness-of-dyrrn)\n\n| dice: d6 | Flaw\
+      \ (lasts until cured) |\n|----------|--------------------------|\n| 1 | \"There's\
+      \ an illithid parasite living in my brain!\" |\n| 2 | \"I can feel myself evolving\
+      \ into an aberration.\" |\n| 3 | \"Aberrations are the only natural things.\"\
+      \ |\n| 4 | \"A part of me has become a conscious entity.\" |\n| 5 | \"My opponents\
+      \ must bow down to a mind flayer!\" |\n| 6 | \"Dyrrn and the mind flayers simply\
+      \ want to unite all sentient creatures in collective consciousness. And I receive\
+      \ messages from the group mind!\" |\n^madness-of-dyrrn"
     "name": ""
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, Dyrrn can expend a use to take one of the following actions. Dyrrn regains\
@@ -193,6 +196,6 @@ If a creature goes mad in Dyrrn's lair or while it can see the daelkyr, it gains
     "name": "Mind Blast (Costs 3 Actions)"
 "source":
   - "ERLW"
-"image": "3-Mechanics/CLI/bestiary/npc/token/dyrrn-erlw.webp"
+"image": "file://bestiary/tokens/ERLW/Dyrrn.webp"
 ```
 ^statblock

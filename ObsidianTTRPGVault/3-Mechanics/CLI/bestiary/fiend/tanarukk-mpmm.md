@@ -15,7 +15,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Tanarukk"
 ---
-# [Tanarukk](3-Mechanics\CLI\bestiary\fiend/tanarukk-mpmm.md)
+# [Tanarukk](3-Mechanics/CLI/bestiary/fiend/tanarukk-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 240, Volo's Guide to Monsters p. 186*  
 
 > [!quote] A quote from Tasha  
@@ -54,7 +54,7 @@ Although tanarukks are valued as fearsome fighters, they are a threat to their a
     "desc": "+2"
 "damage_resistances": "fire, poison"
 "gear":
-  - "[greatsword](3-Mechanics/CLI/items/greatsword.md)"
+  - "[greatsword](3-Mechanics/CLI/items/greatsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 12"
 "languages": "Abyssal, Common, plus any one language"
@@ -82,7 +82,7 @@ Although tanarukks are valued as fearsome fighters, they are a threat to their a
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/tanarukk-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Tanarukk.webp"
 ```
 ^statblock
 

@@ -12,6 +12,8 @@ aliases:
 
 **Mind Flayer Flaws**
 
+`dice: [](roleplaying-a-mind-flayer-mind-flayer-flaws-vgm.md#^mind-flayer-flaws)`
+
 | dice: d6 | Flaw |
 |----------|------|
 | 1 | I am oblivious to the emotions expressed by others. |

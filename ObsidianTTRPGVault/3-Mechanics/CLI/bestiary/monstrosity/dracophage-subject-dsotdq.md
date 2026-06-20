@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Dracophage Subject"
 ---
-# [Dracophage Subject](3-Mechanics\CLI\bestiary\monstrosity/dracophage-subject-dsotdq.md)
+# [Dracophage Subject](3-Mechanics/CLI/bestiary/monstrosity/dracophage-subject-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 118*  
 
 Kapak draconians are created using copper dragon eggs. These cunning opponents relish striking foes who are distracted or unaware. Kapaks often coat their weapons with their paralytic saliva, making them formidable assassins as well. Their small wings don't allow kapaks to fly, but they do help the draconians turn a fall into a rough glide. When they die, kapaks dissolve into acid that can splash onto nearby creatures.
@@ -51,7 +51,7 @@ Draconians are bipedal monsters born from metallic dragon eggs that have been co
 "damage_immunities": "poison"
 "condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 13"
 "languages": "Common, Draconic"
@@ -83,6 +83,6 @@ Draconians are bipedal monsters born from metallic dragon eggs that have been co
     "name": "Claw"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/dracophage-subject-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Dracophage%20Subject.webp"
 ```
 ^statblock

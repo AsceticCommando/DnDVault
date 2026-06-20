@@ -12,6 +12,8 @@ aliases:
 
 **Lord of Blades NPCs**
 
+`dice: [](lord-of-blades-npcs-erlw.md#^lord-of-blades-npcs)`
+
 | dice: d6 | NPC |
 |----------|-----|
 | 1 | A House Cannith apprentice warforged becomes obsessed with [the Lord of Blades](3-Mechanics/CLI/bestiary/npc/the-lord-of-blades-erlw.md)' message, disrupting house operations in the hope of becoming a warrior in the Mournland. |

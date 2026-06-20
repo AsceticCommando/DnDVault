@@ -12,6 +12,8 @@ aliases:
 
 **Mind Flayer Names**
 
+`dice: [](mind-flayer-names-vgm.md#^mind-flayer-names)`
+
 | dice: d12 | Name |
 |-----------|------|
 | 1 | Aurangaul |

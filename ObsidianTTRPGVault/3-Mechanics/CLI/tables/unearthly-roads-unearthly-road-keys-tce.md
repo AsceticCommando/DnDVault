@@ -12,6 +12,8 @@ aliases:
 
 **Unearthly Road Keys**
 
+`dice: [](unearthly-roads-unearthly-road-keys-tce.md#^unearthly-road-keys)`
+
 | dice: d6 | Key |
 |----------|-----|
 | 1 | Throwing a silver orb through an ancient arch |

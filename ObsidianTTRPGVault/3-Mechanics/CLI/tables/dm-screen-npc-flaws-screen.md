@@ -12,6 +12,8 @@ aliases:
 
 **NPC Flaws**
 
+`dice: [](dm-screen-npc-flaws-screen.md#^npc-flaws)`
+
 | dice: d12 | Flaw |
 |-----------|------|
 | 1 | Forbidden love or romantic susceptibility |

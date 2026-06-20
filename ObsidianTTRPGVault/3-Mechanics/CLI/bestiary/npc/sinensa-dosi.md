@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Sinensa"
 ---
-# [Sinensa](3-Mechanics\CLI\bestiary\npc/sinensa-dosi.md)
+# [Sinensa](3-Mechanics/CLI/bestiary/npc/sinensa-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 45*  
 
 Myconids are intelligent, mobile fungi that live in caves, seek enlightenment, and dislike violence. Adult myconids live and work together in colonies and practice a form of communal meditation called a meld, in which they seek to transcend mundane reality through shared hallucination.
@@ -70,6 +70,6 @@ Myconid leaders like Sinensa use their Hallucination Spores to help myconids cre
     "name": "Rapport Spores"
 "source":
   - "DoSI"
-"image": "3-Mechanics/CLI/bestiary/npc/token/sinensa-dosi.webp"
+"image": "file://bestiary/tokens/DoSI/Sinensa.webp"
 ```
 ^statblock

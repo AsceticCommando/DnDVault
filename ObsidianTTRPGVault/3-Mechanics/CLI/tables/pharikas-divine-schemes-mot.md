@@ -12,6 +12,8 @@ aliases:
 
 **Pharika's Divine Schemes**
 
+`dice: [](pharikas-divine-schemes-mot.md#^pharikas-divine-schemes)`
+
 | dice: d4 | Scheme |
 |----------|--------|
 | 1 | Pharika creates a mind-controlling incense to manipulate several of Kruphix's oracles, compelling them to reveal secrets of the cosmos. Unfortunately, her mutagenic mist causes them to transform into beings they've glimpsed from beyond Theros. |

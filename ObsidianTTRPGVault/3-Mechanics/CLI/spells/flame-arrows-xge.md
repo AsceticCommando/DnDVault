@@ -5,18 +5,21 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/spell/class/artificer
-- ttrpg-cli/spell/class/bard/magical-secrets
+- ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/druid
 - ttrpg-cli/spell/class/ranger
 - ttrpg-cli/spell/class/sorcerer
 - ttrpg-cli/spell/class/wizard
+- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
 - ttrpg-cli/spell/level/3rd-level
 - ttrpg-cli/spell/school/transmutation
 - ttrpg-cli/spell/subclass/arcane-trickster
+- ttrpg-cli/spell/subclass/college-of-lore
 - ttrpg-cli/spell/subclass/eldritch-knight
 classes:
 - Artificer
-- Bard (Magical Secrets)
+- Bard
+- Bard (College of Lore)
 - Druid
 - Fighter (Eldritch Knight)
 - Ranger
@@ -35,10 +38,10 @@ aliases:
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 hour
 
-You touch a quiver containing arrows or bolts. When a target is hit by a ranged weapon attack using a piece of ammunition drawn from the quiver, the target takes an extra `1d6` fire damage. The spell's magic ends on a piece of ammunition when it hits or misses, and the spell ends when twelve pieces of ammunition have been drawn from the quiver.
+You touch a quiver containing arrows or bolts. When a target is hit by a ranged weapon attack using a piece of ammunition drawn from the quiver, the target takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) fire damage. The spell's magic ends on a piece of ammunition when it hits or misses, and the spell ends when twelve pieces of ammunition have been drawn from the quiver.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the number of pieces of ammunition you can affect with this spell increases by two for each slot level above 3rd.
 
-**Classes**: [Artificer](3-Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Ranger](3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Artificer](3-Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Xanathar's Guide to Everything p. 156*
+*Source: Xanathar's Guide to Everything p. 156, Elemental Evil Player's Companion p. 18*

@@ -12,6 +12,8 @@ aliases:
 
 **Bronze Dragon Art Objects**
 
+`dice: [](bronze-dragon-treasures-bronze-dragon-art-objects-ftd.md#^bronze-dragon-art-objects)`
+
 | dice: d10 | Object |
 |-----------|--------|
 | 1 | A painting of the bronze dragon alongside a human woman wearing an outdated military uniform |

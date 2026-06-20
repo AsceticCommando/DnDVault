@@ -12,6 +12,8 @@ aliases:
 
 **Indefinite Madness**
 
+`dice: [](indefinite-madness.md#^indefinite-madness)`
+
 | dice: d100 | Flaw (lasts until cured) |
 |------------|--------------------------|
 | 01-15 | "Being drunk keeps me sane." |

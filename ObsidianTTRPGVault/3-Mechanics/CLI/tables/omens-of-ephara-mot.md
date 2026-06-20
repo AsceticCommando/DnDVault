@@ -12,6 +12,8 @@ aliases:
 
 **Omens of Ephara**
 
+`dice: [](omens-of-ephara-mot.md#^omens-of-ephara)`
+
 | dice: d6 | dice: d100 | Omen of Ephara |
 |----------|------------|----------------|
 | 1 | 07 | A carved image or face-like pattern on a wall animates and speaks. |

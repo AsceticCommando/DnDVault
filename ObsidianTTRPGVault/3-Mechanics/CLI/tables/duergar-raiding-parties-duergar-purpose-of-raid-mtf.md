@@ -12,6 +12,8 @@ aliases:
 
 **Duergar Purpose of Raid**
 
+`dice: [](duergar-raiding-parties-duergar-purpose-of-raid-mtf.md#^duergar-purpose-of-raid)`
+
 | dice: d6 | Purpose |
 |----------|---------|
 | 1-3 | Collecting slaves |

@@ -12,6 +12,8 @@ aliases:
 
 **Nyxborn Monster Origin**
 
+`dice: [](nyxborn-creatures-nyxborn-monster-origin-mot.md#^nyxborn-monster-origin)`
+
 | dice: d6 | Origin |
 |----------|--------|
 | 1 | A god created the creature to serve as an emissary. |

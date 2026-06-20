@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Egg Hunter Adult"
 ---
-# [Egg Hunter Adult](3-Mechanics\CLI\bestiary\monstrosity/egg-hunter-adult-ftd.md)
+# [Egg Hunter Adult](3-Mechanics/CLI/bestiary/monstrosity/egg-hunter-adult-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 193*  
 
 The salamander-like adult of the species can inflate its bulbous tail so that it takes on the shape and texture of a dragon egg. It uses this mimicry to establish itself in a nest tended by a dragon or other creatures. If an egg hunter is discovered, it releases spores that make other creatures lethargic, allowing it to scurry to safety. If things turn dire, the egg hunter's physical form can magically harden, reducing the harm it suffers from even a dragon's wrath.
@@ -87,6 +87,6 @@ Egg hunters are parasites that seek out dragon eggs and feed on the contents. Th
     "name": "Rapid Adaptation"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/egg-hunter-adult-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Egg%20Hunter%20Adult.webp"
 ```
 ^statblock

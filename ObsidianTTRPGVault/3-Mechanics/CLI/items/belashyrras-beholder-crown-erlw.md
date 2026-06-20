@@ -14,15 +14,15 @@ aliases:
 
 
 
-This symbiotic crown is carved from dark purple and mauve stone, with ten points like stalks set with gemstones resembling the eyestalks of a [beholder](3-Mechanics/CLI/bestiary/aberration/beholder.md). To attune to this item, you must wear it on your head for the entire attunement period, during which the crown's hidden tendrils burrow into your scalp to bond with your skull.
+This symbiotic crown is carved from dark purple and mauve stone, with ten points like stalks set with gemstones resembling the eyestalks of a [beholder](3-Mechanics/CLI/bestiary/aberration/beholder-xmm.md). To attune to this item, you must wear it on your head for the entire attunement period, during which the crown's hidden tendrils burrow into your scalp to bond with your skull.
 
 While wearing the crown, you can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.
 
 ## Spells
 
-The crown has 10 charges. While wearing it, you can use an action to expend some of its charges to cast one of the following spells from it (spell save DC 16): [charm person](3-Mechanics/CLI/spells/charm-person.md) (1 charge), [disintegrate](3-Mechanics/CLI/spells/disintegrate.md) (6 charges), [fear](3-Mechanics/CLI/spells/fear.md) (3 charges), [finger of death](3-Mechanics/CLI/spells/finger-of-death.md) (7 charges), [flesh to stone](3-Mechanics/CLI/spells/flesh-to-stone.md) (6 charges), [hold person](3-Mechanics/CLI/spells/hold-person.md) (2 charges), [ray of enfeeblement](3-Mechanics/CLI/spells/ray-of-enfeeblement.md) (2 charges), [sleep](3-Mechanics/CLI/spells/sleep.md) (1 charge), [slow](3-Mechanics/CLI/spells/slow.md) (3 charges), [telekinesis](3-Mechanics/CLI/spells/telekinesis.md) (5 charges).
+The crown has 10 charges. While wearing it, you can use an action to expend some of its charges to cast one of the following spells from it (spell save DC 16): [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md) (1 charge), [disintegrate](3-Mechanics/CLI/spells/disintegrate-xphb.md) (6 charges), [fear](3-Mechanics/CLI/spells/fear-xphb.md) (3 charges), [finger of death](3-Mechanics/CLI/spells/finger-of-death-xphb.md) (7 charges), [flesh to stone](3-Mechanics/CLI/spells/flesh-to-stone-xphb.md) (6 charges), [hold person](3-Mechanics/CLI/spells/hold-person-xphb.md) (2 charges), [ray of enfeeblement](3-Mechanics/CLI/spells/ray-of-enfeeblement-xphb.md) (2 charges), [sleep](3-Mechanics/CLI/spells/sleep-xphb.md) (1 charge), [slow](3-Mechanics/CLI/spells/slow-xphb.md) (3 charges), [telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md) (5 charges).
 
-The crown regains `1d6 + 3` expended charges daily at dawn.
+The crown regains `dice:1d6+3|noform|noparens|avg` (`1d6 + 3`) expended charges daily at dawn.
 
 ## Symbiotic Nature
 

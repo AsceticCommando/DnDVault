@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Giant Riding Lizard"
 ---
-# [Giant Riding Lizard](3-Mechanics\CLI\bestiary\beast/giant-riding-lizard-oota.md)
+# [Giant Riding Lizard](3-Mechanics/CLI/bestiary/beast/giant-riding-lizard-oota.md)
 *Source: Out of the Abyss p. 131*  
 
 ```statblock
@@ -47,6 +47,6 @@ aliases:
     "name": "Bite"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/beast/token/giant-riding-lizard-oota.webp"
+"image": "file://bestiary/tokens/OotA/Giant%20Riding%20Lizard.webp"
 ```
 ^statblock

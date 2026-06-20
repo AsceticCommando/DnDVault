@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Zariel"
 ---
-# [Zariel](3-Mechanics\CLI\bestiary\npc/zariel-mpmm.md)
+# [Zariel](3-Mechanics/CLI/bestiary/npc/zariel-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 280, Mordenkainen's Tome of Foes p. 180*  
 
 > [!quote] A quote from Mordenkainen  
@@ -68,8 +68,8 @@ Zariel makes her lair in a basalt citadel that rises up in Avernus. From nearly 
 "condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
   \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
 "gear":
-  - "[flail](3-Mechanics/CLI/items/flail.md)"
-  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
+  - "[flail](3-Mechanics/CLI/items/flail-xphb.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
   \ Perception 26"
 "languages": "all, telepathy 120 ft."
@@ -110,19 +110,19 @@ Zariel makes her lair in a basalt citadel that rises up in Avernus. From nearly 
     "name": "Teleport"
   - "desc": "Zariel casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 26):\n\n**At\
-      \ will:** [alter self](3-Mechanics/CLI/spells/alter-self.md) (can become Medium\
-      \ when changing her appearance), [detect evil and good](3-Mechanics/CLI/spells/detect-evil-and-good.md),\
-      \ [fireball](3-Mechanics/CLI/spells/fireball.md), [invisibility](3-Mechanics/CLI/spells/invisibility.md)\
-      \ (self only), [major image](3-Mechanics/CLI/spells/major-image.md), [wall of\
-      \ fire](3-Mechanics/CLI/spells/wall-of-fire.md)\n\n**3/day each:** [blade barrier](3-Mechanics/CLI/spells/blade-barrier.md),\
-      \ [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good.md), [finger\
-      \ of death](3-Mechanics/CLI/spells/finger-of-death.md)"
+      \ will:** [alter self](3-Mechanics/CLI/spells/alter-self-xphb.md) (can become\
+      \ Medium when changing her appearance), [detect evil and good](3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md),\
+      \ [fireball](3-Mechanics/CLI/spells/fireball-xphb.md), [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md)\
+      \ (self only), [major image](3-Mechanics/CLI/spells/major-image-xphb.md), [wall\
+      \ of fire](3-Mechanics/CLI/spells/wall-of-fire-xphb.md)\n\n**3/day each:** [blade\
+      \ barrier](3-Mechanics/CLI/spells/blade-barrier-xphb.md), [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md),\
+      \ [finger of death](3-Mechanics/CLI/spells/finger-of-death-xphb.md)"
     "name": "Spellcasting"
 "lair_actions":
   - "desc": "On initiative count 20 (losing initiative ties), Zariel can take one\
       \ of the following lair actions; she can't take the same lair action two rounds\
-      \ in a row:\n\n- **Fireball.** Zariel casts the [fireball](3-Mechanics/CLI/spells/fireball.md)\
-      \ spell.  \n- **Infernal Illusions.** Zariel casts the [major image](3-Mechanics/CLI/spells/major-image.md)\
+      \ in a row:\n\n- **Fireball.** Zariel casts the [fireball](3-Mechanics/CLI/spells/fireball-xphb.md)\
+      \ spell.  \n- **Infernal Illusions.** Zariel casts the [major image](3-Mechanics/CLI/spells/major-image-xphb.md)\
       \ spell four times, targeting different areas with it. Zariel prefers to create\
       \ images of intruders' loved ones being burned alive. Zariel doesn't need to\
       \ concentrate on the spells, which end on initiative count 20 of the next round.\
@@ -157,6 +157,6 @@ Zariel makes her lair in a basalt citadel that rises up in Avernus. From nearly 
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/npc/token/zariel-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Zariel.webp"
 ```
 ^statblock

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Skriss"
 ---
-# [Skriss](3-Mechanics\CLI\bestiary\npc/skriss-oota.md)
+# [Skriss](3-Mechanics/CLI/bestiary/npc/skriss-oota.md)
 *Source: Out of the Abyss p. 29*  
 
 ```statblock
@@ -42,7 +42,7 @@ aliases:
 "languages": "Troglodyte, Dwarvish, Elvish, Undercommon"
 "cr": "1/4"
 "traits":
-  - "desc": "Skriss can innately cast can cast the [teleport](3-Mechanics/CLI/spells/teleport.md)\
+  - "desc": "Skriss can innately cast can cast the [teleport](3-Mechanics/CLI/spells/teleport-xphb.md)\
       \ spell once per day, but the intended destination must be within 30 feet of\
       \ another society member. This teleport effect can be disrupted (see \"Faerzress\"\
       ), which is how society members sometimes end up in far corners of the Underdark,\
@@ -71,6 +71,6 @@ aliases:
     "name": "Claw"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/skriss-oota.webp"
+"image": "file://bestiary/tokens/OotA/Skriss.webp"
 ```
 ^statblock

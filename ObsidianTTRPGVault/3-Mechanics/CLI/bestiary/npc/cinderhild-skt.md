@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Cinderhild"
 ---
-# [Cinderhild](3-Mechanics\CLI\bestiary\npc/cinderhild-skt.md)
+# [Cinderhild](3-Mechanics/CLI/bestiary/npc/cinderhild-skt.md)
 *Source: Storm King's Thunder p. 182*  
 
 ```statblock
@@ -34,8 +34,8 @@ aliases:
 "speed": "40 ft."
 "damage_immunities": "fire"
 "gear":
-  - "[greatclub](3-Mechanics/CLI/items/greatclub.md)"
-  - "[javelin](3-Mechanics/CLI/items/javelin.md)"
+  - "[greatclub](3-Mechanics/CLI/items/greatclub-xphb.md)"
+  - "[javelin](3-Mechanics/CLI/items/javelin-xphb.md)"
 "senses": "passive Perception 11"
 "languages": "Common, Giant"
 "cr": "2"
@@ -45,6 +45,6 @@ aliases:
     "name": "Golden Pin"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/cinderhild-skt.webp"
+"image": "file://bestiary/tokens/SKT/Cinderhild.webp"
 ```
 ^statblock

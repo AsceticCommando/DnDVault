@@ -20,5 +20,5 @@ aliases:
 | Lightning rail, first class (House Orien) | 5 sp per mile | 30 mph |
 | Lightning rail, steerage (House Orien) | 3 cp per mile | 30 mph |
 | Magebred coach (House Orien) | 3 sp per mile | 5 mph |
-| [Teleportation circle](3-Mechanics/CLI/spells/teleportation-circle.md) (House Orien) | 2,500 gp | Instant |
+| [Teleportation circle](3-Mechanics/CLI/spells/teleportation-circle-xphb.md) (House Orien) | 2,500 gp | Instant |
 ^travel-services

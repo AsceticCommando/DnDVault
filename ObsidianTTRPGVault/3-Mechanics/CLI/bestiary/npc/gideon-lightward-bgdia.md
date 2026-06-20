@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Gideon Lightward"
 ---
-# [Gideon Lightward](3-Mechanics\CLI\bestiary\npc/gideon-lightward-bgdia.md)
+# [Gideon Lightward](3-Mechanics/CLI/bestiary/npc/gideon-lightward-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 65*  
 
 Gideon Lightward was a priest of Lathander who served Elturel and his deity proudly. Zariel saw that his fervor could be an asset to her, so she sent devils to corrupt him in the months leading up to the fall of Elturel. The devils posed as angels, offering Gideon increased power if he would dedicate himself to fighting the ever-present threat of demons.
@@ -72,6 +72,6 @@ Gideon slowly gave up his sanity and free will to the devils, leaving him corrup
     "name": "Withering Gaze"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/gideon-lightward-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Gideon%20Lightward.webp"
 ```
 ^statblock

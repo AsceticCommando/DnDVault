@@ -12,6 +12,8 @@ aliases:
 
 **Monster Motivation**
 
+`dice: [](monsters-and-motivations-monster-motivation.md#^monster-motivation)`
+
 | dice: d20 | Goals |
 |-----------|-------|
 | 1-2 | Find a sanctuary |

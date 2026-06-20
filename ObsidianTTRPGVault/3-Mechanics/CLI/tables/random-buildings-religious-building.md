@@ -12,6 +12,8 @@ aliases:
 
 **Religious Building**
 
+`dice: [](random-buildings-religious-building.md#^religious-building)`
+
 | dice: d20 | Type |
 |-----------|------|
 | 1-10 | Temple to a good or neutral deity |

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Sarlamir"
 ---
-# [Sarlamir](3-Mechanics\CLI\bestiary\npc/sarlamir-dsotdq.md)
+# [Sarlamir](3-Mechanics/CLI/bestiary/npc/sarlamir-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 102*  
 
 ```statblock
@@ -21,7 +21,7 @@ aliases:
 "type": "undead"
 "alignment": "typically  Lawful Evil"
 "ac": !!int "18"
-"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor.md)"
+"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "112"
 "hit_dice": "15d8 + 45"
 "modifier": !!int "0"
@@ -63,6 +63,6 @@ aliases:
     "name": "Throwing Axe"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/npc/token/sarlamir-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Sarlamir.webp"
 ```
 ^statblock

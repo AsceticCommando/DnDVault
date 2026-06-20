@@ -12,6 +12,8 @@ aliases:
 
 **Clan's Notable Trait**
 
+`dice: [](duergar-in-the-clan-clans-notable-trait-mtf.md#^clans-notable-trait)`
+
 | dice: d12 | Trait |
 |-----------|-------|
 | 1 | Stole a mighty dwarven artifact |

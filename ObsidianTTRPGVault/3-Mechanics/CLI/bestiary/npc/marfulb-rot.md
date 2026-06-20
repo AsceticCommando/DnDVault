@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Marfulb"
 ---
-# [Marfulb](3-Mechanics\CLI\bestiary\npc/marfulb-rot.md)
+# [Marfulb](3-Mechanics/CLI/bestiary/npc/marfulb-rot.md)
 *Source: The Rise of Tiamat p. 35, Tyranny of Dragons p. 121*  
 
 ```statblock
@@ -58,6 +58,6 @@ aliases:
 "source":
   - "RoT"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/npc/token/marfulb-rot.webp"
+"image": "file://bestiary/tokens/RoT/Marfulb.webp"
 ```
 ^statblock

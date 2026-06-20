@@ -32,6 +32,6 @@ You can use an action or a bonus action to touch a willing spellcaster, whereupo
 
 ## Crash
 
-Should the flying citadel helm be destroyed, the citadel it is installed on loses power and begins to crumble. If the crumbling citadel is in the air, it descends at a rate of 30 feet per round, or 300 feet per minute. Any creature on the citadel or on the ground within 120 feet of the citadel when it lands must make a DC 20 Dexterity saving throw, taking 39 (`6d12`) bludgeoning damage on a failed save, or half as much damage on a successful one.
+Should the flying citadel helm be destroyed, the citadel it is installed on loses power and begins to crumble. If the crumbling citadel is in the air, it descends at a rate of 30 feet per round, or 300 feet per minute. Any creature on the citadel or on the ground within 120 feet of the citadel when it lands must make a DC 20 Dexterity saving throw, taking `dice:6d12|noform|noparens|avg|text(39)` (`6d12`) bludgeoning damage on a failed save, or half as much damage on a successful one.
 
 *Source: Dragonlance: Shadow of the Dragon Queen p. 190*

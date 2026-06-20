@@ -63,8 +63,8 @@ Map 4.11 shows a typical Sharn location that contains intersections of bridges a
 The bridges are connected to businesses and residences. The residences are usually locked, while most shops lock up at night. The taverns and gambling dens are open for business all day and well into the night. One of the bridges connects to a skycoach parking station, which houses several of those vehicles. Other bridges lead to an elevator, garden overlooks, and staircases that take pedestrians farther up and down into the city.
 
 > [!gallery]
-> ![Map 4.11: Sharn Heights](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/135-map411_sharn_flat_gs.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/136-map411_sharn_flat_gs-player.webp#gallery)
+> ![Map 4.11: Sharn Heights](file://book/ERLW/135-map411_sharn_flat_gs.webp#gallery)
+> ![Player Version](file://book/ERLW/136-map411_sharn_flat_gs-player.webp#gallery)
 
 #### Sharn Heights Adventures
 
@@ -90,7 +90,7 @@ Although the powerful organizations in Sharn have a hand in most criminal activi
 > 
 > From the owners of incense-clouded dens to fast-talking street dealers, many entrepreneurs—legitimate and otherwise—make a profitable business selling narcotics in Sharn. The following drugs are just two of the most notorious substances available in the City of Towers and beyond.
 > 
-> **Dragon's Blood**. Introduced into Sharn by Daask, dragon's blood is a potent and highly addictive stimulant. In addition to inducing euphoria, it can enhance spellcasting ability or even temporarily imbue a user with the ability to cast sorcerer spells. The drug's effects are potentially dangerous and always unpredictable. This isn't something a player character should want to use; adventurers are more likely to interfere with Daask smugglers or deal with an addict who accidentally casts a [fireball](3-Mechanics/CLI/spells/fireball.md) in a crowded street. The specific effects of dragon's blood are up to you, but you can take inspiration from the [Wild Magic Surge](3-Mechanics/CLI/tables/wild-magic-surge-phb.md) table in the "Player's Handbook".
+> **Dragon's Blood**. Introduced into Sharn by Daask, dragon's blood is a potent and highly addictive stimulant. In addition to inducing euphoria, it can enhance spellcasting ability or even temporarily imbue a user with the ability to cast sorcerer spells. The drug's effects are potentially dangerous and always unpredictable. This isn't something a player character should want to use; adventurers are more likely to interfere with Daask smugglers or deal with an addict who accidentally casts a [fireball](3-Mechanics/CLI/spells/fireball-xphb.md) in a crowded street. The specific effects of dragon's blood are up to you, but you can take inspiration from the [Wild Magic Surge](3-Mechanics/CLI/tables/wild-magic-surge-xphb.md) table in the "Player's Handbook".
 > 
 > **Dreamlily**. A psychoactive liquid that smells and tastes like your favorite beverage, essence of dreamlily is a Sarlonan opiate. First imported to help manage pain during the Last War, it's now the most commonly abused substance in Sharn. Though dreamlily isn't illegal if used for medicinal purposes, it's heavily taxed, and thus most dreamlily is smuggled in and sold on the black market. Dreamlily dens can be found across the lower wards. Consuming dreamlily causes disorienting euphoria and brings about remarkable resistance to pain. A creature under the effects of dreamlily is [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) for 1 hour. While [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) in this way, the creature is immune to fear, and the first time it drops to 0 hit points without being killed outright, it drops to 1 hit point instead. A dose of dreamlily costs around 1 gp, or up to ten times that if purchased through legal channels. There are many varieties of the drug, however, and the duration or the price might vary accordingly.
 ^narcotics-in-sharn
@@ -103,7 +103,7 @@ Although the powerful organizations in Sharn have a hand in most criminal activi
 
 The most powerful criminal organization in Sharn started as a family of halfling immigrants from the Talenta Plains. Operating out of its headquarters and key holdings in the Little Plains district of Middle Menthis, the Boromar Clan controls gambling, smuggling, and theft in Sharn. Most of the city's burglars, pickpockets, and fences either work for or pay tithes to the organization. The Boromar Clan's network of extortion, bribery, and blackmail extends from Lower Dura to Skyway.
 
-![Clawfoot Dinosaur](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/137-4-10.webp#center)
+![Clawfoot Dinosaur](file://book/ERLW/137-4-10.webp#center)
 
 The Boromars' influence extends beyond criminal enterprises into many legitimate circles of power. Ilyra Boromar sits on the city council, and a number of other councilors are close allies of the clan. The family has ties by marriage to House Jorasco. A Boromar attends every Skyway party. The family owns tenements throughout Sharn and invests in shipping, storing both legal goods and contraband in many of the warehouses in Precarious and Cogsgate. In many districts, local officials and Sharn Watch officers have been taking bribes from the Boromars for generations.
 
@@ -151,8 +151,8 @@ The casino floor in the nightclub has tables running games of chance, a bar, and
 Boromar's security and management offices are connected by a hallway to the casino floor, the secret meeting room, and a second secret area used to store illegal contraband or captives. Occupants of both offices can see into these attached areas by way of magic one-way mirrors.
 
 > [!gallery]
-> ![Map 4.12: Nightclub](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/138-map412_nightclub.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/139-map412_nightclub-player.webp#gallery)
+> ![Map 4.12: Nightclub](file://book/ERLW/138-map412_nightclub.webp#gallery)
+> ![Player Version](file://book/ERLW/139-map412_nightclub-player.webp#gallery)
 
 #### Shady Nightclub Adventures
 
@@ -205,11 +205,11 @@ Daask's lower ranks are made up of goblinoids, humans, shifters, and other human
 Some of Daask's most important members are these individuals:
 
 - Sora Katra is the ultimate leader of Daask, but as one of the Daughters of Sora Kell, she remains in Droaam. The hag stays in contact with all of her main subordinates by magic and keeps a detailed ledger of the group's activities.  
-- Cavallah is a disciplined female [oni](3-Mechanics/CLI/bestiary/giant/oni.md) and the current leader of the Daask cell in Sharn. She is the mastermind of the organization's machinations against the Boromar Clan, a scholar obsessed with studying Sharn's manifest zone, and a devoted servant of Sora Katra. The [oni](3-Mechanics/CLI/bestiary/giant/oni.md) wears a *hag eye* (see "Hags" in the "Monster Manual") that enables Sora Katra to both see and hear what occurs in her presence.  
-- Harash, a male [medusa](3-Mechanics/CLI/bestiary/monstrosity/medusa.md), is Cavallah's right hand. He is a specialist in diplomacy and intimidation whom Cavallah trusts to monitor the members of Daask and maintain morale.  
+- Cavallah is a disciplined female [oni](3-Mechanics/CLI/bestiary/fiend/oni-xmm.md) and the current leader of the Daask cell in Sharn. She is the mastermind of the organization's machinations against the Boromar Clan, a scholar obsessed with studying Sharn's manifest zone, and a devoted servant of Sora Katra. The [oni](3-Mechanics/CLI/bestiary/fiend/oni-xmm.md) wears a *hag eye* (see "Hags" in the "Monster Manual") that enables Sora Katra to both see and hear what occurs in her presence.  
+- Harash, a male [medusa](3-Mechanics/CLI/bestiary/monstrosity/medusa-xmm.md), is Cavallah's right hand. He is a specialist in diplomacy and intimidation whom Cavallah trusts to monitor the members of Daask and maintain morale.  
 - Ash is a female human priest of the Shadow. As the most powerful and beloved of Daask's priests, she runs the Temple of the Six. Some worry that Ash plans to challenge Cavallah for leadership, which could cause a rift in the organization's membership.  
-- The [gnoll](3-Mechanics/CLI/bestiary/humanoid/gnoll.md) Keshta commands a small unit of elite gnoll commandos. Disciplined and ruthless, these soldiers are often called upon to carry out retaliatory strikes against those who defy Daask.  
-- Zaeran, an elf [werewolf](3-Mechanics/CLI/bestiary/humanoid/werewolf.md), is a recent arrival to Sharn. He's one of the sons of the Droaamish warlord Zaeurl. Zaeran has come to the city with a small group of wererats and werewolves, and has an agenda known only to himself and Sora Katra.  
+- The [gnoll](3-Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm.md) Keshta commands a small unit of elite gnoll commandos. Disciplined and ruthless, these soldiers are often called upon to carry out retaliatory strikes against those who defy Daask.  
+- Zaeran, an elf [werewolf](3-Mechanics/CLI/bestiary/monstrosity/werewolf-xmm.md), is a recent arrival to Sharn. He's one of the sons of the Droaamish warlord Zaeurl. Zaeran has come to the city with a small group of wererats and werewolves, and has an agenda known only to himself and Sora Katra.  
 
 ### Cog Hub
 
@@ -226,8 +226,8 @@ These passages converge into a single large chamber that can hold a large group 
 Smaller rooms with heavy iron doors adjoin the largest chamber. These rooms can serve as holding cells for captives, vaults for valuables, or hiding spots.
 
 > [!gallery]
-> ![Map 4.13: Cog Hub](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/140-map413_coghub.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/141-map413_coghub-player.webp#gallery)
+> ![Map 4.13: Cog Hub](file://book/ERLW/140-map413_coghub.webp#gallery)
+> ![Player Version](file://book/ERLW/141-map413_coghub-player.webp#gallery)
 
 #### Cog Hub Adventures
 
@@ -367,7 +367,7 @@ The Tyrants Adventure Hooks table presents ideas for additional adventures theme
 
 ![Tyrants Adventure Hooks](3-Mechanics/CLI/tables/tyrants-adventure-hooks-erlw.md)
 
-![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/142-4-11.webp#center)
+![](file://book/ERLW/142-4-11.webp#center)
 
 ## Sharn Watch
 
@@ -443,7 +443,7 @@ If the adventurers do form an alliance with a Watch officer, you can use the Sha
 
 ### Sharn Watch Adventure Hooks
 
-![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/143-4-12.webp#center)
+![](file://book/ERLW/143-4-12.webp#center)
 
 The Sharn Watch Adventure Hooks table presents ideas for additional adventures themed around the Sharn Watch.
 

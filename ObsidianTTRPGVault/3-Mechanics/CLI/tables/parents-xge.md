@@ -12,6 +12,8 @@ aliases:
 
 **Parents**
 
+`dice: [](parents-xge.md#^parents)`
+
 | dice: d100 | Parents |
 |------------|---------|
 | 1-95 | You know who your parents are or were. |

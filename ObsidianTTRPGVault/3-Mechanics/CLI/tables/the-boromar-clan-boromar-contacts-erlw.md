@@ -12,6 +12,8 @@ aliases:
 
 **Boromar Contacts**
 
+`dice: [](the-boromar-clan-boromar-contacts-erlw.md#^boromar-contacts)`
+
 | dice: d6 | Contact |
 |----------|---------|
 | 1 | **Sundry** (gnome) is a fence who runs a pawn shop in the Bazaar of Dura and has ties to many smugglers, sailors, and burglars. |

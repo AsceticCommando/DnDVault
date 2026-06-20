@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Zuggtmoy"
 ---
-# [Zuggtmoy](3-Mechanics\CLI\bestiary\npc/zuggtmoy-mpmm.md)
+# [Zuggtmoy](3-Mechanics/CLI/bestiary/npc/zuggtmoy-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 281, Mordenkainen's Tome of Foes p. 157*  
 
 The Demon Queen of Fungi, Lady of Rot and Decay, Zuggtmoy is an alien creature whose only desire is to infect the living with spores, transforming them into her mindless servants and, eventually, into decomposing hosts for the mushrooms, molds, and other fungi that she spawns.
@@ -80,11 +80,12 @@ Zuggtmoy's principal lair is her palace on Shedaklah. It consists of two dozen m
     "name": "Pseudopod"
   - "desc": "Zuggtmoy casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 22):\n\n**At\
-      \ will:** [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [locate animals\
-      \ or plants](3-Mechanics/CLI/spells/locate-animals-or-plants.md)\n\n**3/day\
-      \ each:** [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), [entangle](3-Mechanics/CLI/spells/entangle.md),\
-      \ [plant growth](3-Mechanics/CLI/spells/plant-growth.md)\n\n**1/day each:**\
-      \ [etherealness](3-Mechanics/CLI/spells/etherealness.md), [teleport](3-Mechanics/CLI/spells/teleport.md)"
+      \ will:** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [locate\
+      \ animals or plants](3-Mechanics/CLI/spells/locate-animals-or-plants-xphb.md)\n\
+      \n**3/day each:** [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
+      \ [entangle](3-Mechanics/CLI/spells/entangle-xphb.md), [plant growth](3-Mechanics/CLI/spells/plant-growth-xphb.md)\n\
+      \n**1/day each:** [etherealness](3-Mechanics/CLI/spells/etherealness-xphb.md),\
+      \ [teleport](3-Mechanics/CLI/spells/teleport-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "Zuggtmoy releases spores that burst out in a cloud that fills a 20-foot-radius\
@@ -97,7 +98,7 @@ Zuggtmoy's principal lair is her palace on Shedaklah. It consists of two dozen m
       \ it must repeat the saving throw at the end of every 24 hours, ending the infection\
       \ on a success. On a failure, the infected creature's body is slowly taken over\
       \ by fungal growth, and after three such failed saves, the creature dies and\
-      \ is reanimated as a [spore servant](3-Mechanics/CLI/bestiary/plant/quaggoth-spore-servant.md)\
+      \ is reanimated as a [spore servant](3-Mechanics/CLI/bestiary/plant/myconid-spore-servant-xmm.md)\
       \ if it's a type of creature that can be."
     "name": "Infestation Spores (3/Day)"
   - "desc": "Zuggtmoy releases spores that burst out in a cloud that fills a 20-foot-radius\
@@ -120,12 +121,12 @@ Zuggtmoy's principal lair is her palace on Shedaklah. It consists of two dozen m
       \ effect two rounds in a row:\n\n- **Rally Plants.** Up to four plant creatures\
       \ that are friendly to Zuggtmoy and that Zuggtmoy can see can use their reactions\
       \ to move up to their speed and make one weapon attack.  \n- **Summon Fungi.**\
-      \ Zuggtmoy causes four [gas spores](3-Mechanics/CLI/bestiary/plant/gas-spore.md)\
-      \ or [violet fungi](3-Mechanics/CLI/bestiary/plant/violet-fungus.md) to appear\
-      \ in unoccupied spaces that she chooses within the lair. They vanish after 1\
-      \ hour.  \n- **Unleash Spores.** Zuggtmoy uses either her Infestation Spores\
-      \ or her Mind Control Spores, centered on a mushroom or other fungus within\
-      \ her lair, instead of on herself.  "
+      \ Zuggtmoy causes four [gas spores](3-Mechanics/CLI/bestiary/plant/gas-spore-fungus-xmm.md)\
+      \ or [violet fungi](3-Mechanics/CLI/bestiary/plant/violet-fungus-xmm.md) to\
+      \ appear in unoccupied spaces that she chooses within the lair. They vanish\
+      \ after 1 hour.  \n- **Unleash Spores.** Zuggtmoy uses either her Infestation\
+      \ Spores or her Mind Control Spores, centered on a mushroom or other fungus\
+      \ within her lair, instead of on herself.  "
     "name": ""
 "regional_effects":
   - "desc": "The region containing Zuggtmoy's lair is warped by his magic, creating\
@@ -152,6 +153,6 @@ Zuggtmoy's principal lair is her palace on Shedaklah. It consists of two dozen m
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/npc/token/zuggtmoy-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Zuggtmoy.webp"
 ```
 ^statblock

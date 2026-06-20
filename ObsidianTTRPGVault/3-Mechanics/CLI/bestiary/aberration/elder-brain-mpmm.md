@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Elder Brain"
 ---
-# [Elder Brain](3-Mechanics\CLI\bestiary\aberration/elder-brain-mpmm.md)
+# [Elder Brain](3-Mechanics/CLI/bestiary/aberration/elder-brain-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 120, Volo's Guide to Monsters p. 173*  
 
 The ultimate expression of mind flayer domination, an elder brain sprawls within a vat of viscous brine, cared for by mind flayer minions as it touches the thoughts of creatures near and far. It scrawls upon the canvas of the creatures' minds, rewriting their thoughts and authoring their dreams.
@@ -76,9 +76,9 @@ An elder brain's ambitions are always tempered by its relative immobility. Altho
   - "desc": "The elder brain is aware of creatures within 5 miles of it that have\
       \ an Intelligence score of 4 or higher. It knows the distance and direction\
       \ to each creature, as well as each one's Intelligence score, but can't sense\
-      \ anything else about it. A creature protected by a [mind blank](3-Mechanics/CLI/spells/mind-blank.md)\
-      \ spell, a [nondetection](3-Mechanics/CLI/spells/nondetection.md) spell, or\
-      \ similar magic can't be perceived in this manner."
+      \ anything else about it. A creature protected by a [mind blank](3-Mechanics/CLI/spells/mind-blank-xphb.md)\
+      \ spell, a [nondetection](3-Mechanics/CLI/spells/nondetection-xphb.md) spell,\
+      \ or similar magic can't be perceived in this manner."
     "name": "Creature Sense"
   - "desc": "If the elder brain fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
@@ -105,10 +105,11 @@ An elder brain's ambitions are always tempered by its relative immobility. Altho
     "name": "Mind Blast (Recharge 5-6)"
   - "desc": "The elder brain casts one of the following spells, requiring no spell\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 18):\n\n**At will:** [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md),\
-      \ [levitate](3-Mechanics/CLI/spells/levitate.md)\n\n**3/day:** [modify memory](3-Mechanics/CLI/spells/modify-memory.md)\n\
-      \n**1/day each:** [dominate monster](3-Mechanics/CLI/spells/dominate-monster.md),\
-      \ [plane shift](3-Mechanics/CLI/spells/plane-shift.md) (self only)"
+      \ DC 18):\n\n**At will:** [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [levitate](3-Mechanics/CLI/spells/levitate-xphb.md)\n\n**3/day:** [modify\
+      \ memory](3-Mechanics/CLI/spells/modify-memory-xphb.md)\n\n**1/day each:** [dominate\
+      \ monster](3-Mechanics/CLI/spells/dominate-monster-xphb.md), [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md)\
+      \ (self only)"
     "name": "Spellcasting (Psionics)"
 "bonus_actions":
   - "desc": "The elder brain targets one [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
@@ -131,7 +132,7 @@ An elder brain's ambitions are always tempered by its relative immobility. Altho
   - "desc": "On initiative count 20 (losing initiative ties), an elder brain can take\
       \ one of the following lair actions; the elder brain can't take the same lair\
       \ action two rounds in a row:\n\n- **Force Wall.** The elder brain casts [wall\
-      \ of force](3-Mechanics/CLI/spells/wall-of-force.md).  \n- **Psionic Anchor.**\
+      \ of force](3-Mechanics/CLI/spells/wall-of-force-xphb.md).  \n- **Psionic Anchor.**\
       \ The elder brain targets one creature it can sense within 120 feet of it and\
       \ anchors it by sheer force of will. The target must make a DC 18 Charisma saving\
       \ throw. On a failed save, its speed is reduced to 0, and it can't teleport.\
@@ -179,7 +180,7 @@ An elder brain's ambitions are always tempered by its relative immobility. Altho
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/elder-brain-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Elder%20Brain.webp"
 ```
 ^statblock
 

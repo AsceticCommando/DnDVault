@@ -12,6 +12,8 @@ aliases:
 
 **Personal Impact**
 
+`dice: [](personal-impact-erlw.md#^personal-impact)`
+
 | dice: d6 | Impact |
 |----------|--------|
 | 1 | A former comrade-in-arms asks a player character for help. |

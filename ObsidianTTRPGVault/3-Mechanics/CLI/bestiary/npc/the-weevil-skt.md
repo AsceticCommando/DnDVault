@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "The Weevil"
 ---
-# [The Weevil](3-Mechanics\CLI\bestiary\npc/the-weevil-skt.md)
+# [The Weevil](3-Mechanics/CLI/bestiary/npc/the-weevil-skt.md)
 *Source: Storm King's Thunder p. 114*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Neutral Evil"
 "ac": !!int "15"
-"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor.md)"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
 "modifier": !!int "3"
@@ -45,8 +45,8 @@ aliases:
     "desc": "+4"
 "damage_resistances": "poison"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
-  - "[scimitar](3-Mechanics/CLI/items/scimitar.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
+  - "[scimitar](3-Mechanics/CLI/items/scimitar-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 10"
 "languages": "any two languages, Dwarvish"
@@ -67,6 +67,6 @@ aliases:
     "name": "Parry"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/the-weevil-skt.webp"
+"image": "file://bestiary/tokens/SKT/The%20Weevil.webp"
 ```
 ^statblock

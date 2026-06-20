@@ -12,6 +12,8 @@ aliases:
 
 **Domain Drama**
 
+`dice: [](domain-drama-dod.md#^domain-drama)`
+
 | dice: d8 | Drama |
 |----------|-------|
 | 1 | A cherished object or favorite pet belonging to the domain's archfey ruler has gone missing. |

@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Drow Matron Mother"
 ---
-# [Drow Matron Mother](3-Mechanics\CLI\bestiary\humanoid/drow-matron-mother-mpmm.md)
+# [Drow Matron Mother](3-Mechanics/CLI/bestiary/humanoid/drow-matron-mother-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 104, Mordenkainen's Tome of Foes p. 186*  
 
 Among drow followers of [Lolth](3-Mechanics/CLI/deities/drow-lolth-mtf.md), each noble house is led by a matron mother, an influential priestess of Lolth charged with carrying out the god's will while also advancing the interests of the family. Matron mothers embody the scheming and treachery associated with the Queen of Spiders. Each stands at the center of a vast conspiratorial web, with demons, spiders, and conscripted soldiers positioned between them and their enemies. Although matron mothers command great power, that power depends on maintaining the Spider Queen's favor, and the goddess sometimes capriciously takes back what she has given. The stat block here represents a matron mother at the height of her power.
@@ -38,7 +38,7 @@ Any temple of [Lolth](3-Mechanics/CLI/deities/drow-lolth-mtf.md) also functions 
 "subtype": "cleric, Drow elf"
 "alignment": "Typically  Neutral Evil"
 "ac": !!int "17"
-"ac_class": "[half plate](3-Mechanics/CLI/items/half-plate-armor.md)"
+"ac_class": "[half plate](3-Mechanics/CLI/items/half-plate-armor-xphb.md)"
 "hp": !!int "247"
 "hit_dice": "33d8 + 99"
 "modifier": !!int "4"
@@ -73,7 +73,7 @@ Any temple of [Lolth](3-Mechanics/CLI/deities/drow-lolth-mtf.md) also functions 
   - "desc": "The drow has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
       \ and magic can't put the drow to sleep."
     "name": "Fey Ancestry"
-  - "desc": "The drow wields a [tentacle rod](3-Mechanics/CLI/items/tentacle-rod.md)."
+  - "desc": "The drow wields a [tentacle rod](3-Mechanics/CLI/items/tentacle-rod-xdmg.md)."
     "name": "Special Equipment"
   - "desc": "While in sunlight, the drow has disadvantage on attack rolls, as well\
       \ as on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks\
@@ -92,7 +92,7 @@ Any temple of [Lolth](3-Mechanics/CLI/deities/drow-lolth-mtf.md) also functions 
       \ the effect on itself on a success."
     "name": "Demon Staff"
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 15 ft., one creature. *Hit:*\
-      \ 3 (1d6) bludgeoning damage. If the target is hit three times by the [rod](3-Mechanics/CLI/items/tentacle-rod.md)\
+      \ 3 (1d6) bludgeoning damage. If the target is hit three times by the [rod](3-Mechanics/CLI/items/tentacle-rod-xdmg.md)\
       \ on one turn, the target must succeed on a DC 15 Constitution saving throw\
       \ or suffer the following effects for 1 minute: the target's speed is halved,\
       \ it has disadvantage on Dexterity saving throws, and it can't use reactions.\
@@ -107,27 +107,28 @@ Any temple of [Lolth](3-Mechanics/CLI/deities/drow-lolth-mtf.md) also functions 
     "name": "Divine Flame (2/Day)"
   - "desc": "The drow casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 20):\n\n**At\
-      \ will:** [command](3-Mechanics/CLI/spells/command.md), [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md),\
-      \ [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy.md)\n\
-      \n**2/day each:** [banishment](3-Mechanics/CLI/spells/banishment.md), [blade\
-      \ barrier](3-Mechanics/CLI/spells/blade-barrier.md), [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md),\
-      \ [hold person](3-Mechanics/CLI/spells/hold-person.md), [plane shift](3-Mechanics/CLI/spells/plane-shift.md),\
-      \ [silence](3-Mechanics/CLI/spells/silence.md)\n\n**1/day each:** [clairvoyance](3-Mechanics/CLI/spells/clairvoyance.md),\
-      \ [darkness](3-Mechanics/CLI/spells/darkness.md), [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md),\
-      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md),\
-      \ [gate](3-Mechanics/CLI/spells/gate.md), [levitate](3-Mechanics/CLI/spells/levitate.md)\
-      \ (self only), [suggestion](3-Mechanics/CLI/spells/suggestion.md)"
+      \ will:** [command](3-Mechanics/CLI/spells/command-xphb.md), [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
+      \ [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
+      \n**2/day each:** [banishment](3-Mechanics/CLI/spells/banishment-xphb.md), [blade\
+      \ barrier](3-Mechanics/CLI/spells/blade-barrier-xphb.md), [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md),\
+      \ [hold person](3-Mechanics/CLI/spells/hold-person-xphb.md), [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md),\
+      \ [silence](3-Mechanics/CLI/spells/silence-xphb.md)\n\n**1/day each:** [clairvoyance](3-Mechanics/CLI/spells/clairvoyance-xphb.md),\
+      \ [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md),\
+      \ [gate](3-Mechanics/CLI/spells/gate-xphb.md), [levitate](3-Mechanics/CLI/spells/levitate-xphb.md)\
+      \ (self only), [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The drow bestows the Spider Queen's blessing on one ally she can see\
       \ within 30 feet of her. The ally takes 7 (2d6) psychic damage but has advantage\
       \ on the next attack roll it makes before the end of its next turn."
     "name": "Lolth's Fickle Favor"
-  - "desc": "The drow magically summons a [glabrezu](3-Mechanics/CLI/bestiary/fiend/glabrezu.md)\
-      \ or a [yochlol](3-Mechanics/CLI/bestiary/fiend/yochlol.md). The summoned creature\
-      \ appears in an unoccupied space within 60 feet of its summoner, acts as an\
-      \ ally of its summoner, and can't summon other demons. It remains for 10 minutes,\
-      \ until it or its summoner dies, or until its summoner dismisses it as an action."
+  - "desc": "The drow magically summons a [glabrezu](3-Mechanics/CLI/bestiary/fiend/glabrezu-xmm.md)\
+      \ or a [yochlol](3-Mechanics/CLI/bestiary/fiend/yochlol-xmm.md). The summoned\
+      \ creature appears in an unoccupied space within 60 feet of its summoner, acts\
+      \ as an ally of its summoner, and can't summon other demons. It remains for\
+      \ 10 minutes, until it or its summoner dies, or until its summoner dismisses\
+      \ it as an action."
     "name": "Summon Servant (1/Day)"
 "lair_actions":
   - "desc": "On initiative count 20 (losing initiative ties), the drow can take one\
@@ -162,7 +163,7 @@ Any temple of [Lolth](3-Mechanics/CLI/deities/drow-lolth-mtf.md) also functions 
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/drow-matron-mother-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Drow%20Matron%20Mother.webp"
 ```
 ^statblock
 

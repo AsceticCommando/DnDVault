@@ -12,6 +12,8 @@ aliases:
 
 **Trap Trigger**
 
+`dice: [](random-traps-trap-trigger.md#^trap-trigger)`
+
 | dice: d6 | Trigger |
 |----------|---------|
 | 1 | stepped on (floor, stairs) |

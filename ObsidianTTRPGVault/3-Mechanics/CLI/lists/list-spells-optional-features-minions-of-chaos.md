@@ -11,4 +11,4 @@ aliases:
 
 ## 5th Level
 
-- [Conjure Elemental](3-Mechanics/CLI/spells/conjure-elemental.md "PHB")
+- [Conjure Elemental](3-Mechanics/CLI/spells/conjure-elemental-xphb.md "XPHB")

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Juvenile Mimic"
 ---
-# [Juvenile Mimic](3-Mechanics\CLI\bestiary\monstrosity/juvenile-mimic-tce.md)
+# [Juvenile Mimic](3-Mechanics/CLI/bestiary/monstrosity/juvenile-mimic-tce.md)
 *Source: Tasha's Cauldron of Everything p. 167*  
 
 ```statblock
@@ -59,6 +59,6 @@ aliases:
     "name": "Shape-Shift"
 "source":
   - "TCE"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/juvenile-mimic-tce.webp"
+"image": "file://bestiary/tokens/TCE/Juvenile%20Mimic.webp"
 ```
 ^statblock

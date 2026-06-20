@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Treefolk"
 ---
-# [Treefolk](3-Mechanics\CLI\bestiary\plant/treefolk-mcv4ec.md)
+# [Treefolk](3-Mechanics/CLI/bestiary/plant/treefolk-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 The wise and ancient treefolk thrive in the depths of Eldraine's forested wilds. Though many treefolk rival members of the high fae in age, they rarely interfere with the goings-on of the faerie court. Instead, treefolk serve as guardians and shepherds of their wild groves, dispensing wisdom and blessings to travelers who wander under their branches.
@@ -83,11 +83,11 @@ The wise and ancient treefolk thrive in the depths of Eldraine's forested wilds.
     "name": "Nightshade Bolt"
   - "desc": "The treefolk casts one of the following spells, requiring no material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 17):\n\
-      \n**At will:** [detect poison and disease](3-Mechanics/CLI/spells/detect-poison-and-disease.md),\
-      \ [druidcraft](3-Mechanics/CLI/spells/druidcraft.md)\n\n**2/day each:** [enlarge/reduce](3-Mechanics/CLI/spells/enlarge-reduce.md),\
-      \ [speak with plants](3-Mechanics/CLI/spells/speak-with-plants.md)\n\n**1/day:**\
-      \ [commune with nature](3-Mechanics/CLI/spells/commune-with-nature.md) (as an\
-      \ action)"
+      \n**At will:** [detect poison and disease](3-Mechanics/CLI/spells/detect-poison-and-disease-xphb.md),\
+      \ [druidcraft](3-Mechanics/CLI/spells/druidcraft-xphb.md)\n\n**2/day each:**\
+      \ [enlarge/reduce](3-Mechanics/CLI/spells/enlarge-reduce-xphb.md), [speak with\
+      \ plants](3-Mechanics/CLI/spells/speak-with-plants-xphb.md)\n\n**1/day:** [commune\
+      \ with nature](3-Mechanics/CLI/spells/commune-with-nature-xphb.md) (as an action)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The treefolk blesses one creature other than itself that it can see within\
@@ -99,6 +99,6 @@ The wise and ancient treefolk thrive in the depths of Eldraine's forested wilds.
     "name": "Oaken Boon"
 "source":
   - "MCV4EC"
-"image": "3-Mechanics/CLI/bestiary/plant/token/treefolk-mcv4ec.webp"
+"image": "file://bestiary/tokens/MCV4EC/Treefolk.webp"
 ```
 ^statblock

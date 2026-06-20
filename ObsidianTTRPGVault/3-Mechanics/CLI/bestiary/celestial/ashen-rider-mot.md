@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Ashen Rider"
 ---
-# [Ashen Rider](3-Mechanics\CLI\bestiary\celestial/ashen-rider-mot.md)
+# [Ashen Rider](3-Mechanics/CLI/bestiary/celestial/ashen-rider-mot.md)
 *Source: Mythic Odysseys of Theros p. 213*  
 
 The fall of the ancient archon empires left some archons bitter and resentful. Seeking to avoid the spread of human civilization, these archons made their way to the Underworld. The horrors of the place broke their minds, bodies, and spirits and twisted them into the terrifying archons known as ashen riders. When they ride forth upon the mortal world, terrified mortals make offerings in a desperate attempt to appease them, but the ashen riders aren't merciful, and they delight in reducing the paragons of the mortal world to ash.
@@ -27,7 +27,7 @@ Even though the age of archons is long past, many wonder if the few surviving ar
 "type": "celestial"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
-"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor.md)"
+"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "178"
 "hit_dice": "21d8 + 84"
 "modifier": !!int "3"
@@ -61,9 +61,9 @@ Even though the age of archons is long past, many wonder if the few surviving ar
 "traits":
   - "desc": "The ashen rider's spellcasting ability is Wisdom (spell save DC 18).\
       \ The rider can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [command](3-Mechanics/CLI/spells/command.md), [compelled duel](3-Mechanics/CLI/spells/compelled-duel.md)\n\
-      \n**1/day each:** [banishment](3-Mechanics/CLI/spells/banishment.md), [blade\
-      \ barrier](3-Mechanics/CLI/spells/blade-barrier.md)"
+      \n**At will:** [command](3-Mechanics/CLI/spells/command-xphb.md), [compelled\
+      \ duel](3-Mechanics/CLI/spells/compelled-duel-xphb.md)\n\n**1/day each:** [banishment](3-Mechanics/CLI/spells/banishment-xphb.md),\
+      \ [blade barrier](3-Mechanics/CLI/spells/blade-barrier-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "When a creature starts its turn within 30 feet of the ashen rider, the\
       \ rider can force that creature to make a DC 18 Wisdom saving throw if the rider\
@@ -108,10 +108,10 @@ Even though the age of archons is long past, many wonder if the few surviving ar
       \ a long rest. If the target's hit point maximum is reduced to 0, its body and\
       \ everything it is wearing and carrying, except for magic items, are reduced\
       \ to ash. A creature reduced to ash can't be revived by any means short of a\
-      \ [wish](3-Mechanics/CLI/spells/wish.md) spell."
+      \ [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell."
     "name": "Reduce to Ash (Costs 3 Actions)"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/celestial/token/ashen-rider-mot.webp"
+"image": "file://bestiary/tokens/MOT/Ashen%20Rider.webp"
 ```
 ^statblock

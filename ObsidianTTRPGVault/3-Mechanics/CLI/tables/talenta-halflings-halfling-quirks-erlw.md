@@ -12,6 +12,8 @@ aliases:
 
 **Halfling Quirks**
 
+`dice: [](talenta-halflings-halfling-quirks-erlw.md#^halfling-quirks)`
+
 | dice: d10 | Quirk |
 |-----------|-------|
 | 1 | You are constantly amazed by things the people of the Five Nations take for granted. |

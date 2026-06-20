@@ -12,6 +12,8 @@ aliases:
 
 **Githyanki Personality Traits**
 
+`dice: [](gith-tables-githyanki-personality-traits-mtf.md#^githyanki-personality-traits)`
+
 | dice: d4 | Trait |
 |----------|-------|
 | 1 | When I'm bored I make my own excitement, and I'm always bored. |

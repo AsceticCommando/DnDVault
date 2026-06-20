@@ -12,6 +12,8 @@ aliases:
 
 **State Status**
 
+`dice: [](official-status-state-status-erlw.md#^state-status)`
+
 | dice: d6 | Status |
 |----------|--------|
 | 1–3 | **Official**. You hold an official position and are recognized as attached to your patron. You can expect the head of state's support, but you must also ensure your actions avoid staining your patron's reputation. |

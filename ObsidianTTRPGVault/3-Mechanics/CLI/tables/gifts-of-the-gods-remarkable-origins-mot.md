@@ -12,6 +12,8 @@ aliases:
 
 **Remarkable Origins**
 
+`dice: [](gifts-of-the-gods-remarkable-origins-mot.md#^remarkable-origins)`
+
 | dice: d12 | Origin |
 |-----------|--------|
 | 1 | The item bears the name or emblem of a lost troop of Akroan stratians (described in "chapter 3"). |

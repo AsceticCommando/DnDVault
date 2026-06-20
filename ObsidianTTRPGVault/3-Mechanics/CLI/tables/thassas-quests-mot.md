@@ -12,6 +12,8 @@ aliases:
 
 **Thassa's Quests**
 
+`dice: [](thassas-quests-mot.md#^thassas-quests)`
+
 | dice: d6 | Adventure Goal |
 |----------|----------------|
 | 1 | Help a village of Thassa's faithful evacuate to the hills before Thassa sends a great wave to punish the village's willful coastal neighbors. |

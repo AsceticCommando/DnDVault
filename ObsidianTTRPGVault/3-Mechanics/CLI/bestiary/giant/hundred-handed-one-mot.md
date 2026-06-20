@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Hundred-Handed One"
 ---
-# [Hundred-Handed One](3-Mechanics\CLI\bestiary\giant/hundred-handed-one-mot.md)
+# [Hundred-Handed One](3-Mechanics/CLI/bestiary/giant/hundred-handed-one-mot.md)
 *Source: Mythic Odysseys of Theros p. 225*  
 
 Extra pairs of arms magically orbit the bodies of the titanic, nearly forgotten artisans known as hundred-handed ones. These giants often dwell in remote mountains and seaside cliffs, where they carve their memories into the ancient stone, covering their territories with intricate reliefs and massive statues of bygone ages. Some linger near ancient temples and palaces, ruins they once raised to the gods or archons of old.
@@ -45,7 +45,7 @@ Extra pairs of arms magically orbit the bodies of the titanic, nearly forgotten 
     "desc": "+8"
 "condition_immunities": "[frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
 "gear":
-  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
   \ Perception 18"
 "languages": "Giant"
@@ -71,6 +71,6 @@ Extra pairs of arms magically orbit the bodies of the titanic, nearly forgotten 
     "name": "Deflect Attack"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/giant/token/hundred-handed-one-mot.webp"
+"image": "file://bestiary/tokens/MOT/Hundred-Handed%20One.webp"
 ```
 ^statblock

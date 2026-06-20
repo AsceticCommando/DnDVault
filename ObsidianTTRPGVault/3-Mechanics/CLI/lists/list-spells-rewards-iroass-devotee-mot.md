@@ -11,4 +11,4 @@ aliases:
 
 ## 1st Level
 
-- [Compelled Duel](3-Mechanics/CLI/spells/compelled-duel.md "PHB")
+- [Compelled Duel](3-Mechanics/CLI/spells/compelled-duel-xphb.md "XPHB")

@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Drow Shadowblade"
 ---
-# [Drow Shadowblade](3-Mechanics\CLI\bestiary\humanoid/drow-shadowblade-mpmm.md)
+# [Drow Shadowblade](3-Mechanics/CLI/bestiary/humanoid/drow-shadowblade-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 105, Mordenkainen's Tome of Foes p. 187*  
 
 Drow shadowblades steal down the dim passages of the Underdark, bound on errands of mayhem. They protect enclaves and Underdark cities from enemies and track down thieves who make off with prized treasures. In the city of Menzoberranzan in the Forgotten Realms, noble houses often employ shadowblades to eliminate rivals from other houses. In communities free of Lolth's sway, they serve as spies tasked with foiling the plots of that demon lord's cult. In any role they take on, they move undetected until the moment they attack—and then they are the last thing their victims see.
@@ -27,7 +27,7 @@ A shadowblade gains their powers over shadow via a ritual in which they kill a s
 "subtype": "Drow elf"
 "alignment": "Any alignment"
 "ac": !!int "17"
-"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor.md)"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
 "hp": !!int "150"
 "hit_dice": "20d8 + 60"
 "modifier": !!int "5"
@@ -49,7 +49,7 @@ A shadowblade gains their powers over shadow via a ritual in which they kill a s
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+9"
 "gear":
-  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow.md)"
+  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
   \ Perception 16"
 "languages": "Elvish, Undercommon"
@@ -82,9 +82,9 @@ A shadowblade gains their powers over shadow via a ritual in which they kill a s
     "name": "Hand Crossbow"
   - "desc": "The drow casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 13):\n\n**At\
-      \ will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md), [darkness](3-Mechanics/CLI/spells/darkness.md)\n\
-      \n**1/day each:** [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md), [levitate](3-Mechanics/CLI/spells/levitate.md)\
-      \ (self only)"
+      \ will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md), [darkness](3-Mechanics/CLI/spells/darkness-xphb.md)\n\
+      \n**1/day each:** [faerie fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md),\
+      \ [levitate](3-Mechanics/CLI/spells/levitate-xphb.md) (self only)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "While in dim light or darkness, the drow teleports, along with any equipment\
@@ -95,7 +95,7 @@ A shadowblade gains their powers over shadow via a ritual in which they kill a s
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/drow-shadowblade-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Drow%20Shadowblade.webp"
 ```
 ^statblock
 

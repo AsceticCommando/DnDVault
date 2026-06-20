@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Norker"
 ---
-# [Norker](3-Mechanics\CLI\bestiary\humanoid/norker-mff.md)
+# [Norker](3-Mechanics/CLI/bestiary/humanoid/norker-mff.md)
 *Source: Mordenkainen's Fiendish Folio p. 17*  
 
 Cruel, vicious, and lazy even by the standards of goblinoids, norkers are tough humanoids whose long, sharp fangs and thick, bony exoskeletons make them well-suited to the ranks of hobgoblin armies. Unfortunately for their would-be masters, norkers are rebellious, truculent, and prone to indolence unless watched with a keen eye and a hand that is quick to snap a whip.
@@ -52,7 +52,7 @@ Given their ancient defeat and terrible treatment at the hands of other goblinoi
   - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+3"
 "gear":
-  - "[mace](3-Mechanics/CLI/items/mace.md)"
+  - "[mace](3-Mechanics/CLI/items/mace-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 9"
 "languages": "Common, Goblin"
@@ -72,6 +72,6 @@ Given their ancient defeat and terrible treatment at the hands of other goblinoi
     "name": "Defensive Rebuke"
 "source":
   - "MFF"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/norker-mff.webp"
+"image": "file://bestiary/tokens/MFF/Norker.webp"
 ```
 ^statblock

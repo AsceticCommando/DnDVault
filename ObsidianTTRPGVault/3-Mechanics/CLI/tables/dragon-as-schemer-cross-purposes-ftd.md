@@ -12,6 +12,8 @@ aliases:
 
 **Cross-Purposes**
 
+`dice: [](dragon-as-schemer-cross-purposes-ftd.md#^cross-purposes)`
+
 | dice: d6 | The Dragon's Schemes... |
 |----------|-------------------------|
 | 1 | ...directly target one or more characters. The adventure begins when the dragon or the dragon's minions confront the characters. |

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Burnished Hart"
 ---
-# [Burnished Hart](3-Mechanics\CLI\bestiary\construct/burnished-hart-mot.md)
+# [Burnished Hart](3-Mechanics/CLI/bestiary/construct/burnished-hart-mot.md)
 *Source: Mythic Odysseys of Theros p. 211*  
 
 Among the first anvilwroughts to be forged by Purphoros, elegant burnished harts wander the mortal realm in search of new sights to bring back to the god of the forge. On every trip from Mount Velus, where Purphoros has his forge, they seek out the far reaches of the world so they can witness beauty in all its forms, then later reunite with their creator, their minds filled with tales of how life's splendor continues to develop.
@@ -72,6 +72,6 @@ A few extremely rare and valuable anvilwroughts were crafted by the hand of Purp
     "name": "Hooves"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/construct/token/burnished-hart-mot.webp"
+"image": "file://bestiary/tokens/MOT/Burnished%20Hart.webp"
 ```
 ^statblock

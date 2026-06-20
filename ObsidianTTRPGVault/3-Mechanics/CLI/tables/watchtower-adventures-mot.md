@@ -12,6 +12,8 @@ aliases:
 
 **Watchtower Adventures**
 
+`dice: [](watchtower-adventures-mot.md#^watchtower-adventures)`
+
 | dice: d10 | Adventure Goal |
 |-----------|----------------|
 | 1 | Guard a watchtower from assault. |

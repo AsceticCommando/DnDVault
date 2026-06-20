@@ -12,6 +12,8 @@ aliases:
 
 **Sapphire Dragon Ideals**
 
+`dice: [](creating-a-sapphire-dragon-sapphire-dragon-ideals-ftd.md#^sapphire-dragon-ideals)`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Solitude. A stranger is just an intruder I haven't dealt with yet. (Neutral) |

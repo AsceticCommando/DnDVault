@@ -12,6 +12,8 @@ aliases:
 
 **Dungeon History**
 
+`dice: [](dungeon-history.md#^dungeon-history)`
+
 | dice: d20 | Key Event |
 |-----------|-----------|
 | 1-3 | Abandoned by creators |

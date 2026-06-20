@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Young Topaz Dragon"
 ---
-# [Young Topaz Dragon](3-Mechanics\CLI\bestiary\dragon/young-topaz-dragon-ftd.md)
+# [Young Topaz Dragon](3-Mechanics/CLI/bestiary/dragon/young-topaz-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 223*  
 
 Decay and despair are bound up in the nature of topaz dragons, thanks to the necrotic energy of the Negative Plane that suffuses them. Their psionic power manifests the fundamental entropic principle that mortal beings and their creations are ultimately doomed to death and decomposition, and the dragons' demeanor is typically morbid and curmudgeonly as a result.
@@ -39,6 +39,8 @@ Use the Topaz Dragon Personality Traits and Topaz Dragon Ideals tables to inspir
 
 ### Topaz Dragon Personality Traits
 
+`dice: [](young-topaz-dragon-ftd.md#^trait)`
+
 | dice: d8 | Trait |
 |----------|-------|
 | 1 | I seek no company other than my own, for no one else can compete with me. |
@@ -52,6 +54,8 @@ Use the Topaz Dragon Personality Traits and Topaz Dragon Ideals tables to inspir
 ^trait
 
 ### Topaz Dragon Ideals
+
+`dice: [](young-topaz-dragon-ftd.md#^ideal)`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -68,6 +72,8 @@ Use the Topaz Dragon Personality Traits and Topaz Dragon Ideals tables to inspir
 The Topaz Dragon Adventure Hooks table offers suggestions for stories and adventures involving topaz dragons.
 
 ### Topaz Dragon Adventure Hooks
+
+`dice: [](young-topaz-dragon-ftd.md#^adventure-hook)`
 
 | dice: d8 | Adventure Hook |
 |----------|----------------|
@@ -86,6 +92,8 @@ The Topaz Dragon Adventure Hooks table offers suggestions for stories and advent
 Topaz dragons rarely tolerate any company but their own, and they are usually indifferent at best even toward their own kind. Moreover, their unpredictability means that even if a creature proves itself useful to a topaz dragon, it shouldn't count on being safe from the dragon the next time they meet. Topaz dragons rarely go out of their way to fight other creatures, however, with the exception of bronze dragons, for whom they bear an inexplicably intense hatred.
 
 ### Young Topaz Dragon Connections
+
+`dice: [](young-topaz-dragon-ftd.md#^connected-creatures)`
 
 | dice: d6 | Connected Creatures |
 |----------|---------------------|
@@ -155,10 +163,11 @@ Topaz dragons rarely tolerate any company but their own, and they are usually in
     "name": "Desiccating Breath (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 14):\n\n\
-      **1/day each:** [bane](3-Mechanics/CLI/spells/bane.md), [create or destroy water](3-Mechanics/CLI/spells/create-or-destroy-water.md)"
+      **1/day each:** [bane](3-Mechanics/CLI/spells/bane-xphb.md), [create or destroy\
+      \ water](3-Mechanics/CLI/spells/create-or-destroy-water-xphb.md)"
     "name": "Spellcasting (Psionics)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/young-topaz-dragon-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Young%20Topaz%20Dragon.webp"
 ```
 ^statblock

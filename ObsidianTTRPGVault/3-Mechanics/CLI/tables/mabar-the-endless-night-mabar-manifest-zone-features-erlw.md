@@ -12,6 +12,8 @@ aliases:
 
 **Mabar Manifest Zone Features**
 
+`dice: [](mabar-the-endless-night-mabar-manifest-zone-features-erlw.md#^mabar-manifest-zone-features)`
+
 | dice: d4 | Feature |
 |----------|---------|
 | 1 | Undead animated here have 2 extra hit points per Hit Die and make saving throws against being turned or [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) with advantage. |

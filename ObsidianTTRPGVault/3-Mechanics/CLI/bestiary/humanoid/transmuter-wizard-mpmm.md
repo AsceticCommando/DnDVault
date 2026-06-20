@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Transmuter Wizard"
 ---
-# [Transmuter Wizard](3-Mechanics\CLI\bestiary\humanoid/transmuter-wizard-mpmm.md)
+# [Transmuter Wizard](3-Mechanics/CLI/bestiary/humanoid/transmuter-wizard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 265, Volo's Guide to Monsters p. 218*  
 
 Transmuters are masters at transforming physical forms. They typically view magical transmutation as a path to riches, enlightenment, or apotheosis.
@@ -28,7 +28,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "12"
-"ac_class": "15 with [mage armor](3-Mechanics/CLI/spells/mage-armor.md)"
+"ac_class": "15 with [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
 "hp": !!int "49"
 "hit_dice": "11d8"
 "modifier": !!int "2"
@@ -69,21 +69,21 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
       \ ft., one target. *Hit:* 19 (3d10 + 3) acid damage."
     "name": "Arcane Burst"
   - "desc": "The transmuter casts one of the following spells, using Intelligence\
-      \ as the spellcasting ability (spell save DC 14):\n\n**At will:** [light](3-Mechanics/CLI/spells/light.md),\
-      \ [message](3-Mechanics/CLI/spells/message.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md)\n\
-      \n**2/day each:** [fireball](3-Mechanics/CLI/spells/fireball.md), [hold person](3-Mechanics/CLI/spells/hold-person.md),\
-      \ [knock](3-Mechanics/CLI/spells/knock.md), [mage armor](3-Mechanics/CLI/spells/mage-armor.md),\
-      \ [polymorph](3-Mechanics/CLI/spells/polymorph.md), [slow](3-Mechanics/CLI/spells/slow.md)\n\
-      \n**1/day each:** [telekinesis](3-Mechanics/CLI/spells/telekinesis.md)"
+      \ as the spellcasting ability (spell save DC 14):\n\n**At will:** [light](3-Mechanics/CLI/spells/light-xphb.md),\
+      \ [message](3-Mechanics/CLI/spells/message-xphb.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
+      \n**2/day each:** [fireball](3-Mechanics/CLI/spells/fireball-xphb.md), [hold\
+      \ person](3-Mechanics/CLI/spells/hold-person-xphb.md), [knock](3-Mechanics/CLI/spells/knock-xphb.md),\
+      \ [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md), [polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md),\
+      \ [slow](3-Mechanics/CLI/spells/slow-xphb.md)\n\n**1/day each:** [telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The transmuter casts [alter self](3-Mechanics/CLI/spells/alter-self.md)\
+  - "desc": "The transmuter casts [alter self](3-Mechanics/CLI/spells/alter-self-xphb.md)\
       \ or changes the benefit of Transmuter's Stone if bearing the stone."
     "name": "Transmute (Recharge 4-6)"
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/transmuter-wizard-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Transmuter%20Wizard.webp"
 ```
 ^statblock
 

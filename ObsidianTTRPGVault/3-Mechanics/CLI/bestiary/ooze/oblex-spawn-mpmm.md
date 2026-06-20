@@ -15,7 +15,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Oblex Spawn"
 ---
-# [Oblex Spawn](3-Mechanics\CLI\bestiary\ooze/oblex-spawn-mpmm.md)
+# [Oblex Spawn](3-Mechanics/CLI/bestiary/ooze/oblex-spawn-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 197, Mordenkainen's Tome of Foes p. 217*  
 
 An oblex devours memories not only to sustain its existence, but also to spawn new oblexes. Each time it fully drains the memories of a victim, it gains the creature's personality—now twisted by the oblex's foul nature. The more memories an oblex steals, the larger it becomes, until it must shed a personality it has absorbed or else go uncontrolled and erratic. This act spawns a new oblex.
@@ -78,7 +78,7 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/ooze/token/oblex-spawn-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Oblex%20Spawn.webp"
 ```
 ^statblock
 

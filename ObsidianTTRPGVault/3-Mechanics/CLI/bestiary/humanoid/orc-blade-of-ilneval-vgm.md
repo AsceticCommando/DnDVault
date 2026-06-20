@@ -17,7 +17,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Orc Blade of Ilneval"
 ---
-# [Orc Blade of Ilneval](3-Mechanics\CLI\bestiary\humanoid/orc-blade-of-ilneval-vgm.md)
+# [Orc Blade of Ilneval](3-Mechanics/CLI/bestiary/humanoid/orc-blade-of-ilneval-vgm.md)
 *Source: Volo's Guide to Monsters p. 183*  
 
 Ilneval is Gruumsh's battle captain, a devious strategist who directs Gruumsh's soldiers with boldness. Among orcs, warriors that venerate Ilneval emulate their deity. Such orcs learn to command their fellows in ways that are unpredictable but help to ensure victory.
@@ -42,7 +42,7 @@ In addition, orcs have special relationships with two creatures that are sometim
 "subtype": "orc"
 "alignment": "Chaotic Evil"
 "ac": !!int "18"
-"ac_class": "[chain mail](3-Mechanics/CLI/items/chain-mail.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[chain mail](3-Mechanics/CLI/items/chain-mail-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "60"
 "hit_dice": "8d8 + 24"
 "modifier": !!int "0"
@@ -64,8 +64,8 @@ In addition, orcs have special relationships with two creatures that are sometim
   - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
 "gear":
-  - "[javelin](3-Mechanics/CLI/items/javelin.md)"
-  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
+  - "[javelin](3-Mechanics/CLI/items/javelin-xphb.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 13"
 "languages": "Common, Orc"
@@ -94,7 +94,7 @@ In addition, orcs have special relationships with two creatures that are sometim
     "name": "Ilneval's Command (Recharge 4-6)"
 "source":
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/orc-blade-of-ilneval-vgm.webp"
+"image": "file://bestiary/tokens/VGM/Orc%20Blade%20of%20Ilneval.webp"
 ```
 ^statblock
 

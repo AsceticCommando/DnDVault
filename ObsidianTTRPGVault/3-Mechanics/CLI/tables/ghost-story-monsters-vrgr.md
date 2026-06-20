@@ -14,15 +14,15 @@ aliases:
 
 | Challenge | Creature | Source |
 |-----------|----------|--------|
-| 1/2 | [Death's head](3-Mechanics/CLI/bestiary/undead/deaths-head-vrgr.md) | VGR |
-| 1 | [Animated armor](3-Mechanics/CLI/bestiary/construct/animated-armor.md) | "MM" |
-| 1 | [Death dog](3-Mechanics/CLI/bestiary/monstrosity/death-dog.md) | "MM" |
-| 1 | [Scarecrow](3-Mechanics/CLI/bestiary/construct/scarecrow.md) | "MM" |
-| 2 | [Specter](3-Mechanics/CLI/bestiary/undead/specter.md) ([poltergeist](3-Mechanics/CLI/bestiary/undead/poltergeist.md)) | "MM" |
-| 4 | [Banshee](3-Mechanics/CLI/bestiary/undead/banshee.md) | "MM" |
-| 4 | [Ghost](3-Mechanics/CLI/bestiary/undead/ghost.md) | "MM" |
-| 5 | [Revenant](3-Mechanics/CLI/bestiary/undead/revenant.md) | "MM" |
-| 6 | [Gallow speaker](3-Mechanics/CLI/bestiary/undead/gallows-speaker-vrgr.md) | VGR |
-| 9 | [Treant](3-Mechanics/CLI/bestiary/plant/treant.md) | "MM" |
-| 10 | [Dullahan](3-Mechanics/CLI/bestiary/undead/dullahan-vrgr.md) | VGR |
+| 1/2 | [Death's head](3-Mechanics/CLI/bestiary/undead/deaths-head-rhw.md) | VGR |
+| 1 | [Animated armor](3-Mechanics/CLI/bestiary/construct/animated-armor-xmm.md) | "MM" |
+| 1 | [Death dog](3-Mechanics/CLI/bestiary/monstrosity/death-dog-xmm.md) | "MM" |
+| 1 | [Scarecrow](3-Mechanics/CLI/bestiary/construct/scarecrow-xmm.md) | "MM" |
+| 2 | [Specter](3-Mechanics/CLI/bestiary/undead/specter-xmm.md) ([poltergeist](3-Mechanics/CLI/bestiary/undead/poltergeist-xmm.md)) | "MM" |
+| 4 | [Banshee](3-Mechanics/CLI/bestiary/undead/banshee-xmm.md) | "MM" |
+| 4 | [Ghost](3-Mechanics/CLI/bestiary/undead/ghost-xmm.md) | "MM" |
+| 5 | [Revenant](3-Mechanics/CLI/bestiary/undead/revenant-xmm.md) | "MM" |
+| 6 | [Gallow speaker](3-Mechanics/CLI/bestiary/undead/gallows-speaker-rhw.md) | VGR |
+| 9 | [Treant](3-Mechanics/CLI/bestiary/plant/treant-xmm.md) | "MM" |
+| 10 | [Dullahan](3-Mechanics/CLI/bestiary/undead/dullahan-rhw.md) | VGR |
 ^ghost-story-monsters

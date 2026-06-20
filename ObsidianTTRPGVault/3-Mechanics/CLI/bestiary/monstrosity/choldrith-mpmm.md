@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Choldrith"
 ---
-# [Choldrith](3-Mechanics\CLI\bestiary\monstrosity/choldrith-mpmm.md)
+# [Choldrith](3-Mechanics/CLI/bestiary/monstrosity/choldrith-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 77, Volo's Guide to Monsters p. 132*  
 
 Choldriths are monstrous spiderlike creatures originally created to serve Lolth. They rule colonies of chitines (in this book) and lead them into battle in Lolth's war against her enemies.
@@ -51,7 +51,7 @@ Choldriths are born with a mystical connection to Lolth, which gives them divine
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 12"
 "languages": "Undercommon"
@@ -84,9 +84,9 @@ Choldriths are born with a mystical connection to Lolth, which gives them divine
       \ to fire damage; immunity to bludgeoning, poison, and psychic damage)."
     "name": "Web (Recharge 5-6)"
   - "desc": "The choldrith casts one of the following spells, using Wisdom as the\
-      \ spellcasting ability (spell save DC 12):\n\n**At will:** [guidance](3-Mechanics/CLI/spells/guidance.md),\
-      \ [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy.md)\n\n**1/day each:** [bane](3-Mechanics/CLI/spells/bane.md),\
-      \ [hold person](3-Mechanics/CLI/spells/hold-person.md)"
+      \ spellcasting ability (spell save DC 12):\n\n**At will:** [guidance](3-Mechanics/CLI/spells/guidance-xphb.md),\
+      \ [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n**1/day each:**\
+      \ [bane](3-Mechanics/CLI/spells/bane-xphb.md), [hold person](3-Mechanics/CLI/spells/hold-person-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The choldrith conjures a floating, spectral dagger within 60 feet of\
@@ -99,7 +99,7 @@ Choldriths are born with a mystical connection to Lolth, which gives them divine
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/choldrith-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Choldrith.webp"
 ```
 ^statblock
 

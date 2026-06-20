@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Felgolos"
 ---
-# [Felgolos](3-Mechanics\CLI\bestiary\npc/felgolos-skt.md)
+# [Felgolos](3-Mechanics/CLI/bestiary/npc/felgolos-skt.md)
 *Source: Storm King's Thunder p. 192*  
 
 ```statblock
@@ -109,6 +109,6 @@ aliases:
     "name": "Wing Attack (Costs 2 Actions)"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/felgolos-skt.webp"
+"image": "file://bestiary/tokens/SKT/Felgolos.webp"
 ```
 ^statblock

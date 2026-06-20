@@ -12,6 +12,8 @@ aliases:
 
 **Party Origin**
 
+`dice: [](party-formation-party-origin-tce.md#^party-origin)`
+
 | dice: d6 | Origin Story |
 |----------|--------------|
 | 1 | The characters grew up in the same place and have known each other for years. |

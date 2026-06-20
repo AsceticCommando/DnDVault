@@ -12,6 +12,8 @@ aliases:
 
 **Underworld Adventures**
 
+`dice: [](underworld-adventures-mot.md#^underworld-adventures)`
+
 | dice: d20 | Plot |
 |-----------|------|
 | 1 | In Phylias, find and bargain for information with your least favorite dead acquaintance or family member. |
@@ -26,7 +28,7 @@ aliases:
 | 10 | Sever one of the massive chains of Tizerus, releasing the ancient being it binds. |
 | 11 | Lead an immortal anvilwrought to Erebos's palace and convince the god to let the construct die. |
 | 12 | Discover why Erebos is no longer allowing certain individuals to die. |
-| 13 | Coerce a [night hag](3-Mechanics/CLI/bestiary/fiend/night-hag.md) into granting a morbid prophecy by stealing its eye. |
+| 13 | Coerce a [night hag](3-Mechanics/CLI/bestiary/fiend/night-hag-xmm.md) into granting a morbid prophecy by stealing its eye. |
 | 14 | Learn a secret way to escape the Underworld from one of the titans. |
 | 15 | Find the lost secret of a long-dead warlord that now rests with the villain's misera. |
 | 16 | Discover from a [woe strider](3-Mechanics/CLI/bestiary/aberration/woe-strider-mot.md) (see "chapter 6") how to escape the bonds of destiny. |

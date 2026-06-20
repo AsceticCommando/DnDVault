@@ -14,7 +14,7 @@ At the edge of the Solamnic province of Hinterlund lies the quiet fishing villag
 
 Before running this chapter, make sure each character has a reason for attending the funeral of Ispin Greenshield and experienced a fateful event during their journey to Vogler, as detailed in chapter 2.
 
-![Draconians spy on the unsu...](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/036-03-001-chapter-splash.webp#center "Draconians spy on the unsuspecting villagers of Vogler")
+![Draconians spy on the unsuspecting villagers of Vogler](file://adventure/DSotDQ/036-03-001.chapter-splash.webp#center)
 
 ## Running This Chapter
 
@@ -60,16 +60,16 @@ The characters' visit to Vogler overlaps with the kickoff of the Kingfisher Fest
 While in Vogler, the characters might visit any of the locations in this section. These sites are marked on map 3.1.
 
 > [!gallery]
-> ![Map 3.1: Vogler](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/037-map-3-01-vogler.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/038-map-3-01-vogler-player.webp#gallery)
+> ![Map 3.1: Vogler](file://adventure/DSotDQ/037-map-3.01-vogler.webp#gallery)
+> ![Player Version](file://adventure/DSotDQ/038-map-3.01-vogler-player.webp#gallery)
 
 #### The Brass Crab
 
-The Brass Crab is a modest single-story inn on the village wharf, and its exterior vaguely resembles its namesake. Its proprietor, an Ergothian woman named Yalme (neutral good, human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md)), has an odd love of bad storytellers and inept musicians. One wall of the circular common room features a faded mural of two enormous crabs locked in combat, inlaid with brass details. The mural's origins are lost to time, but if asked, Yalme says she named the crabs Fancy and Gorgeous George. Four short halls branch off the common room, each lined with rooms for rent.
+The Brass Crab is a modest single-story inn on the village wharf, and its exterior vaguely resembles its namesake. Its proprietor, an Ergothian woman named Yalme (neutral good, human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), has an odd love of bad storytellers and inept musicians. One wall of the circular common room features a faded mural of two enormous crabs locked in combat, inlaid with brass details. The mural's origins are lost to time, but if asked, Yalme says she named the crabs Fancy and Gorgeous George. Four short halls branch off the common room, each lined with rooms for rent.
 
 #### The Fishbowl
 
-After a long day on the river, many of Vogler's fishers gather at the Fishbowl to tell tales, quench their thirst, and indulge in baked fish pies. The cramped but well-kept tavern is known for its savory baked goods more than its weak ale. The Fishbowl's proprietor is the elderly Elthar (neutral good, human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md)), whom most locals call Uncle.
+After a long day on the river, many of Vogler's fishers gather at the Fishbowl to tell tales, quench their thirst, and indulge in baked fish pies. The cramped but well-kept tavern is known for its savory baked goods more than its weak ale. The Fishbowl's proprietor is the elderly Elthar (neutral good, human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), whom most locals call Uncle.
 
 #### High Hill
 
@@ -77,11 +77,11 @@ High Hill stands a mile north of Vogler. Centuries ago, Solamnic and Istarian fo
 
 #### Market
 
-Across from Vogler's busy wharf spreads the village market. Amid this collection of stalls, vendors sell fresh river fish, fishing supplies, crafts, the bounty of local farms, and all manner of mundane equipment. One notable stall is that of Froswin (chaotic good, kender [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md)), who sells intricate fish-bone puppets she designs in the shapes of animals and sea serpents.
+Across from Vogler's busy wharf spreads the village market. Amid this collection of stalls, vendors sell fresh river fish, fishing supplies, crafts, the bounty of local farms, and all manner of mundane equipment. One notable stall is that of Froswin (chaotic good, kender [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), who sells intricate fish-bone puppets she designs in the shapes of animals and sea serpents.
 
 #### Mayor's Home
 
-Vogler's down-to-earth mayor, [Raven Uth Vogler](3-Mechanics/CLI/bestiary/npc/raven-uth-vogler-dsotdq.md) (neutral good, human [scout](3-Mechanics/CLI/bestiary/humanoid/scout.md)), lives in a two-story house on the village circle. Raven is a practical, empathetic leader in her thirties who grew up on the river. She keeps a pair of guest rooms—lavishly decorated with mounted fish—where she frequently hosts villagers going through tough times.
+Vogler's down-to-earth mayor, [Raven Uth Vogler](3-Mechanics/CLI/bestiary/npc/raven-uth-vogler-dsotdq.md) (neutral good, human [scout](3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md)), lives in a two-story house on the village circle. Raven is a practical, empathetic leader in her thirties who grew up on the river. She keeps a pair of guest rooms—lavishly decorated with mounted fish—where she frequently hosts villagers going through tough times.
 
 #### Mercenary Camp
 
@@ -108,7 +108,7 @@ Vogler's resident tinker gnome, Than, built an elaborate catapult-like contrapti
 
 #### Village Circle
 
-The homes and shops in Vogler cluster around a grassy patch shaded by an ancient tree. This green is encircled by a dirt road that branches off into streets leading north out of the village and south to the ferry across the Vingaard, and others radiating out into the town. The village circle serves as a public space, meeting spot, and festival ground. An iron bell hangs atop a tall pole near the mayor's house. In times of need, anyone who vigorously rings the bell summons the mayor and `2d12` volunteer militia members ([guards](3-Mechanics/CLI/bestiary/humanoid/guard.md)) who arrive in about 5 minutes. The local militia is largely composed of retired farmers and fishers who exhibit more zeal than skill in the village's defense, but they all take the bell's sounding very seriously.
+The homes and shops in Vogler cluster around a grassy patch shaded by an ancient tree. This green is encircled by a dirt road that branches off into streets leading north out of the village and south to the ferry across the Vingaard, and others radiating out into the town. The village circle serves as a public space, meeting spot, and festival ground. An iron bell hangs atop a tall pole near the mayor's house. In times of need, anyone who vigorously rings the bell summons the mayor and `dice:2d12|noform|noparens|avg` (`2d12`) volunteer militia members ([guards](3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md)) who arrive in about 5 minutes. The local militia is largely composed of retired farmers and fishers who exhibit more zeal than skill in the village's defense, but they all take the bell's sounding very seriously.
 
 #### Vogler's Crossing
 
@@ -116,7 +116,7 @@ South of Vogler, an incomplete stone bridge begins to stretch across the Vingaar
 
 #### Westide House
 
-The horseshoe-shaped structure known as Westide House is only slightly larger than the other homes in Vogler, but its owner speaks of it as if it were an opulent country manor. This is the home of Lord [Bakaris Uth Estide](3-Mechanics/CLI/bestiary/npc/bakaris-uth-estide-dsotdq.md) (neutral evil, human [noble](3-Mechanics/CLI/bestiary/humanoid/noble.md); detailed in chapter 4) and his son, [Bakaris the Younger](3-Mechanics/CLI/bestiary/npc/bakaris-the-younger-dsotdq.md) (introduced in the "Heckler" section later in this chapter). Lord Bakaris is a Solamnic noble who claims to be living in exile after raiders burned his family home in Estwilde. In truth, Lord Bakaris and his son were driven from the region and sought anonymity in Vogler. They've been in the village for over a year, throwing their wealth around and treating the people of Vogler as backward yokels.
+The horseshoe-shaped structure known as Westide House is only slightly larger than the other homes in Vogler, but its owner speaks of it as if it were an opulent country manor. This is the home of Lord [Bakaris Uth Estide](3-Mechanics/CLI/bestiary/npc/bakaris-uth-estide-dsotdq.md) (neutral evil, human [noble](3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md); detailed in chapter 4) and his son, [Bakaris the Younger](3-Mechanics/CLI/bestiary/npc/bakaris-the-younger-dsotdq.md) (introduced in the "Heckler" section later in this chapter). Lord Bakaris is a Solamnic noble who claims to be living in exile after raiders burned his family home in Estwilde. In truth, Lord Bakaris and his son were driven from the region and sought anonymity in Vogler. They've been in the village for over a year, throwing their wealth around and treating the people of Vogler as backward yokels.
 
 #### Wharf
 
@@ -124,7 +124,7 @@ Local fishers crowd these docks each dawn and dusk, rowing out with empty nets a
 
 #### Wharfinger's Office
 
-Wharfinger Umpton Lanth (lawful neutral, human [guard](3-Mechanics/CLI/bestiary/humanoid/guard.md)) wakes up earlier than any other fisher in Vogler to inspect boats docked at the wharf and impose fines on those in poor repair. Fishers and traders seeking to use the wharf must register with Umpton at his stuffy two-story office across from the market. The office is usually staffed by Umpton's son Nesau (chaotic neutral, human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md)), who—to his father's consternation—is quick to forgive fines and forgo docking fees when his father isn't present, making him quite popular in the village.
+Wharfinger Umpton Lanth (lawful neutral, human [guard](3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md)) wakes up earlier than any other fisher in Vogler to inspect boats docked at the wharf and impose fines on those in poor repair. Fishers and traders seeking to use the wharf must register with Umpton at his stuffy two-story office across from the market. The office is usually staffed by Umpton's son Nesau (chaotic neutral, human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), who—to his father's consternation—is quick to forgive fines and forgo docking fees when his father isn't present, making him quite popular in the village.
 
 ## Final Farewell
 
@@ -134,11 +134,11 @@ Once the characters have reconnected with one another and explored Vogler to the
 
 Becklin is hard to miss, as she's dressed in the full-plate armor and horned helmet of the Knights of Solamnia. Though she's never met the characters before, she recognizes one or more of them from Ispin's descriptions. Becklin introduces herself, offers her condolences, and invites the characters to come with her to the Brass Crab if they aren't already there. She explains that the service is meant to be a celebration of Ispin's life, and people will be encouraged to share over-the-top stories about him—like the inflated tales he was known for sharing.
 
-![Becklin Uth Viharin](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/039-03-002-berklin-uth-viharin.webp#center)
+![Becklin Uth Viharin](file://adventure/DSotDQ/039-03-002.berklin-uth-viharin.webp#center)
 
 #### Becklin Uth Viharin
 
-[Becklin Uth Viharin](3-Mechanics/CLI/bestiary/npc/becklin-uth-viharin-dsotdq.md) (lawful good, human [knight](3-Mechanics/CLI/bestiary/humanoid/knight.md)) is a Solamnic Knight of the Order of the Crown who, in her earlier years, adventured with Ispin Greenshield and [Cudgel Ironsmile](3-Mechanics/CLI/bestiary/npc/cudgel-ironsmile-dsotdq.md). For the last decade, she has served as castellan of Thornwall Keep in Vogler. This posting is not only an official charge from her superiors but also a quiet retirement for her. Becklin takes her role seriously, maintaining her skills and equipment as she remains alert for danger. In her considerable free time, she indulges her passion for studying the past by excavating the ruins of Thornwall Keep.
+[Becklin Uth Viharin](3-Mechanics/CLI/bestiary/npc/becklin-uth-viharin-dsotdq.md) (lawful good, human [knight](3-Mechanics/CLI/bestiary/humanoid/knight-xmm.md)) is a Solamnic Knight of the Order of the Crown who, in her earlier years, adventured with Ispin Greenshield and [Cudgel Ironsmile](3-Mechanics/CLI/bestiary/npc/cudgel-ironsmile-dsotdq.md). For the last decade, she has served as castellan of Thornwall Keep in Vogler. This posting is not only an official charge from her superiors but also a quiet retirement for her. Becklin takes her role seriously, maintaining her skills and equipment as she remains alert for danger. In her considerable free time, she indulges her passion for studying the past by excavating the ruins of Thornwall Keep.
 
 The region's commonfolk generally don't hold the Knights of Solamnia in high regard, most believing the knights had a hand in causing—or, at least, not preventing—the Cataclysm. However, the people of Vogler accept Becklin, as her skill at arms has kept the village safe from bandits and dangerous beasts for years.
 
@@ -160,7 +160,7 @@ The region's commonfolk generally don't hold the Knights of Solamnia in high reg
 
 ### Sending Off a Friend
 
-![Cudgel Ironsmile and Beckl...](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/040-03-003-cudgel-and-becklin.webp#center "Cudgel Ironsmile and Becklin Uth Viharin send off their friend Ispin Greenshield")
+![Cudgel Ironsmile and Becklin Uth Viharin send off their friend Ispin Greenshield](file://adventure/DSotDQ/040-03-003.cudgel-and-becklin.webp#center)
 
 The funeral takes place at dusk on the stage and dock extending from the rear of the Brass Crab. Becklin encourages the characters to linger near the dock, while many mourning locals in small fishing craft assemble in the nearby water. When you're ready for the funeral to begin, Becklin takes the stage next to a simple boat, within which rests the body of Ispin Greenshield. Read or paraphrase the following:
 
@@ -185,6 +185,8 @@ Characters are invited to participate in this comic tale telling. They're welcom
 
 **Ispin's Stories**
 
+`dice: [](04-chapter-3-when-home-burns.md#^ispins-stories)`
+
 | dice: d6 | Story |
 |----------|-------|
 | 1 | For three days, a trireme crewed by minotaur pirates had been chasing Ispin's ship across the Blood Sea of Istar, when finally... |
@@ -199,7 +201,7 @@ Characters are invited to participate in this comic tale telling. They're welcom
 
 During the storytelling, after one or two characters or others have told tales, a finely dressed local named [Bakaris the Younger](3-Mechanics/CLI/bestiary/npc/bakaris-the-younger-dsotdq.md) lets out an exaggerated yawn. If left to continue, he eventually blurts out, "We've heard this a thousand times!" or "You're telling it worse than he did!" Bakaris cares nothing for Ispin's death or the locals' mourning—he's only here for the free ale, which he claims is the worst he's ever tasted. The other mourners grumble, but nobody directly confronts the heckler.
 
-![Bakaris the Younger](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/041-03-004-bakaris-the-younger.webp#center)
+![Bakaris the Younger](file://adventure/DSotDQ/041-03-004.bakaris-the-younger.webp#center)
 
 #### Establishing Bakaris
 
@@ -211,7 +213,7 @@ A character who confronts [Bakaris the Younger](3-Mechanics/CLI/bestiary/npc/bak
 
 #### Bakaris "the Younger" Uth Estide
 
-Bakaris (neutral evil, human [noble](3-Mechanics/CLI/bestiary/humanoid/noble.md)) shares the same name as his father, his father's father, and so on for generations. Bakaris places inordinate value on his good looks, fashionable clothes, and athleticism, but he's known more for his arrogance, pettiness, and short temper. He cares nothing for his family name, but he defers to his father—partly from unbroken childhood habit, and partly because all his privilege depends on his father's wealth. Bakaris also has a violent streak. While living in Estwilde, he murdered the son of a local leader during a duel, and he and his father to Vogler to escape the consequences. Bakaris takes quiet pride in that killing, and he fantasizes about one day winning respect via the point of his sword. He loathes being called "the Younger," a diminutive his father encourages.
+Bakaris (neutral evil, human [noble](3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md)) shares the same name as his father, his father's father, and so on for generations. Bakaris places inordinate value on his good looks, fashionable clothes, and athleticism, but he's known more for his arrogance, pettiness, and short temper. He cares nothing for his family name, but he defers to his father—partly from unbroken childhood habit, and partly because all his privilege depends on his father's wealth. Bakaris also has a violent streak. While living in Estwilde, he murdered the son of a local leader during a duel, and he and his father to Vogler to escape the consequences. Bakaris takes quiet pride in that killing, and he fantasizes about one day winning respect via the point of his sword. He loathes being called "the Younger," a diminutive his father encourages.
 
 ##### Personality Trait
 
@@ -235,7 +237,7 @@ During the funeral reception, Ridomir "Cudgel" Ironsmile jovially introduces her
 
 #### Ridomir "Cudgel" Ironsmile
 
-[Cudgel Ironsmile](3-Mechanics/CLI/bestiary/npc/cudgel-ironsmile-dsotdq.md) (neutral, hill dwarf [veteran](3-Mechanics/CLI/bestiary/humanoid/veteran.md)) hails from the dwarven nation of Kayolin, south of Solamnia. For most of her life, she adventured with Becklin and Ispin, earning the nickname Cudgel along the way. She now commands her own company of mercenaries known as the Ironclad Regiment. Though small, the company has built a reputation for beating the odds, thanks in large part to her adroit leadership. Beyond a life of fighting, the middle-aged dwarf is a gifted card player. She also has a soft spot for Vogler, which she swears serves the best fish pies in Solamnia.
+[Cudgel Ironsmile](3-Mechanics/CLI/bestiary/npc/cudgel-ironsmile-dsotdq.md) (neutral, hill dwarf [veteran](3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md)) hails from the dwarven nation of Kayolin, south of Solamnia. For most of her life, she adventured with Becklin and Ispin, earning the nickname Cudgel along the way. She now commands her own company of mercenaries known as the Ironclad Regiment. Though small, the company has built a reputation for beating the odds, thanks in large part to her adroit leadership. Beyond a life of fighting, the middle-aged dwarf is a gifted card player. She also has a soft spot for Vogler, which she swears serves the best fish pies in Solamnia.
 
 ##### Personality Trait
 
@@ -265,7 +267,7 @@ A particularly somber guest—a blue-skinned Silvanesti elf named [Leedara](3-Me
 
 [Leedara](3-Mechanics/CLI/bestiary/npc/leedara-dsotdq.md) has spent centuries tormenting [Lord Soth](3-Mechanics/CLI/bestiary/npc/lord-soth-dsotdq.md) in his accursed castle, Dargaard Keep, endlessly reminding him of his failures and losses. Now that the Dragon Queen has summoned Soth, [Leedara](3-Mechanics/CLI/bestiary/npc/leedara-dsotdq.md) works to stymie the death knight however she can. She followed Soth's trail to this area and is in Vogler looking for ways to subtly oppose him.
 
-[Leedara](3-Mechanics/CLI/bestiary/npc/leedara-dsotdq.md) is neutral-aligned and typically appears as a living Silvanesti elf. She has the statistics of a [ghost](3-Mechanics/CLI/bestiary/undead/ghost.md) with the following action:
+[Leedara](3-Mechanics/CLI/bestiary/npc/leedara-dsotdq.md) is neutral-aligned and typically appears as a living Silvanesti elf. She has the statistics of a [ghost](3-Mechanics/CLI/bestiary/undead/ghost-xmm.md) with the following action:
 
 > [!note] 
 > 
@@ -297,7 +299,7 @@ Becklin sent Darrett to fetch baked hand pies from the Fishbowl for the two of t
 
 If the characters join him on the short walk, Darrett tells them he grew up in Vogler. He peppers the characters with questions about themselves, their travels, their weapons, and anything else about the world beyond Vogler. He knows all about the Kingfisher Festival and shares the following details:
 
-![Darrett Highwater](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/042-03-005-darrett-highwater.webp#center)
+![Darrett Highwater](file://adventure/DSotDQ/042-03-005.darrett-highwater.webp#center)
 
 - The annual festival celebrates the victory of a Knight of Solamnia, Lord Decater Vogler, over the forces of the Empire of Istar. This battle occurred hundreds of years ago, long before the Cataclysm, and sparked the village's founding.  
 - Today's festivities include music, food, and games associated with the town's founding.  
@@ -311,7 +313,7 @@ Throughout this adventure, Darrett will be the characters' earnest friend and al
 
 #### Darrett Highwater
 
-[Darrett Highwater](3-Mechanics/CLI/bestiary/npc/darrett-highwater-dsotdq.md) (lawful good, human [knight](3-Mechanics/CLI/bestiary/humanoid/knight.md)) is a fastidious, aspiring knight who serves [Becklin Uth Viharin](3-Mechanics/CLI/bestiary/npc/becklin-uth-viharin-dsotdq.md). His parents abandoned him in town over a decade ago, after which Darrett spent years as a ward of the community before coming under Becklin's wing. In the years since, his good heart and aptitude for strategic thinking led Becklin to train him for induction into the Knights of Solamnia one day. Darrett is well-read and courteous, though he sometimes catches himself talking in ways he considers less than knightly, for which he apologizes profusely.
+[Darrett Highwater](3-Mechanics/CLI/bestiary/npc/darrett-highwater-dsotdq.md) (lawful good, human [knight](3-Mechanics/CLI/bestiary/humanoid/knight-xmm.md)) is a fastidious, aspiring knight who serves [Becklin Uth Viharin](3-Mechanics/CLI/bestiary/npc/becklin-uth-viharin-dsotdq.md). His parents abandoned him in town over a decade ago, after which Darrett spent years as a ward of the community before coming under Becklin's wing. In the years since, his good heart and aptitude for strategic thinking led Becklin to train him for induction into the Knights of Solamnia one day. Darrett is well-read and courteous, though he sometimes catches himself talking in ways he considers less than knightly, for which he apologizes profusely.
 
 ##### Personality Trait
 
@@ -351,7 +353,7 @@ After their breakfast, Becklin steps away to her quarters for a moment. When she
 > Becklin smiles at the memory as she opens the box, revealing a round green shield.
 ^115
 
-The box contains Ispin's signature shield, a [+1 shield](3-Mechanics/CLI/items/1-shield.md) carved with a scarred broadleaf tree and painted a mossy green. The characters all recall hearing Ispin's story of being given the shield by a unicorn in the far-off forest of Darken Wood. None can say if this is true or another of Ispin's tall tales.
+The box contains Ispin's signature shield, a [+1 shield](3-Mechanics/CLI/items/1-shield-xdmg.md) carved with a scarred broadleaf tree and painted a mossy green. The characters all recall hearing Ispin's story of being given the shield by a unicorn in the far-off forest of Darken Wood. None can say if this is true or another of Ispin's tall tales.
 
 Becklin gives the characters the shield only if at least one of them agrees to participate in the Battle of High Hill reenactment. She leaves it to the group to decide which character keeps the shield or how they share it.
 
@@ -376,7 +378,7 @@ Vogler's village circle is the heart of the Kingfisher Festival's events. Here, 
 
 ### Festivities
 
-![The people of Vogler celeb...](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/043-03-006-kingfisher-festival.webp#center "The people of Vogler celebrate during the Kingfisher Festival")
+![The people of Vogler celebrate during the Kingfisher Festival](file://adventure/DSotDQ/043-03-006.kingfisher-festival.webp#center)
 
 Traditional Kingfisher Festival events commemorate Vogler's founding and history. Characters might participate in an annual competition, the season's inaugural fish catch, where fishers try to catch the biggest fish during a set period. Darrett and other friendly locals encourage the characters to participate.
 
@@ -403,6 +405,8 @@ Repeat these rolls for every 10 minutes a character participates in the fish cat
 
 **Fish to Catch**
 
+`dice: [](04-chapter-3-when-home-burns.md#^fish-to-catch)`
+
 | dice: d20 | Catch DC | Fish |
 |-----------|----------|------|
 | 1–3 | — | No fish |
@@ -414,7 +418,7 @@ Repeat these rolls for every 10 minutes a character participates in the fish cat
 | 20 | 18 | Benebog the Line Breaker (8 ft. long) |
 ^fish-to-catch
 
-![Raven Uth Vogler](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/044-03-007-raven-uth-vogler.webp#center)
+![Raven Uth Vogler](file://adventure/DSotDQ/044-03-007.raven-uth-vogler.webp#center)
 
 ##### Benebog the Line Breaker
 
@@ -430,7 +434,7 @@ All contest participants receive tiny wooden carvings of kingfishers, while the 
 
 ##### Repeat Contests
 
-Characters can participate in the fish catch as many times as they like. On future rounds, the best villager catches fish totaling `1d4 + 3` feet. Mayor Raven doesn't participate again.
+Characters can participate in the fish catch as many times as they like. On future rounds, the best villager catches fish totaling `dice:1d4+3|noform|noparens|avg` (`1d4 + 3`) feet. Mayor Raven doesn't participate again.
 
 ##### Bad Sport
 
@@ -454,7 +458,7 @@ This year's reenactment is a little different than in past years. Should the cha
 
 ### Betrayal
 
-Unbeknownst to anyone in the village, Cudgel's lieutenant in the Ironclad Regiment—Gragonis (neutral evil [half-ogre](3-Mechanics/CLI/bestiary/giant/half-ogre-ogrillon.md)) has betrayed his leader. He has paid off many of the mercenaries under his command, and with the exception of Cudgel and a few mercenaries who aren't attending the reenactment, the entire company secretly plans to attack lethally during the mock battle
+Unbeknownst to anyone in the village, Cudgel's lieutenant in the Ironclad Regiment—Gragonis (neutral evil [half-ogre](3-Mechanics/CLI/bestiary/giant/ogrillon-ogre-xmm.md)) has betrayed his leader. He has paid off many of the mercenaries under his command, and with the exception of Cudgel and a few mercenaries who aren't attending the reenactment, the entire company secretly plans to attack lethally during the mock battle
 
 Agents of the Red Dragon Army—part of the greater army waging war in eastern Ansalon—hatched this plan when they learned the mercenaries would join in the mock battle. The commanders of the Red Dragon Army bought Gragonis's loyalty, and they seek to take Vogler quickly as part of a greater scheme.
 
@@ -475,7 +479,7 @@ Encourage all characters to participate in the reenactment, if for no other reas
 
 To prepare for the battle, Mayor Raven calls out to those assembled, explaining the mercenaries will charge up the west side of the hill while the militia and other participants charge down. The two groups will clash midway in a mock fight, with the mercenaries' Istarian forces eventually retreating. Participants are encouraged to use their own armor but are given wooden spears with padded tips to prevent them from dealing damage. The mayor reminds everyone not to use real weapons during the reenactment so nobody gets hurt.
 
-Mercenaries of the Ironclad Regiment use the [guard](3-Mechanics/CLI/bestiary/humanoid/guard.md) stat block. Members of the Vogler militia also use the [guard](3-Mechanics/CLI/bestiary/humanoid/guard.md) stat block, but their spears are padded and deal no damage.
+Mercenaries of the Ironclad Regiment use the [guard](3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) stat block. Members of the Vogler militia also use the [guard](3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) stat block, but their spears are padded and deal no damage.
 
 ### Battle Begins
 
@@ -499,7 +503,7 @@ As the two groups charge, have each character make a Wisdom ([Perception](3-Mech
 
 The characters find themselves in the middle of a battlefield. Map 3.2 depicts the characters' location during the conflict; they start the battle adjacent to the log at the north of the map. The "High Hill Battlefield Features" and "High Hill Battlefield Events" sections note elements of this battle.
 
-The characters have little opportunity to aid the villagers being attacked as three hostile mercenary [guards](3-Mechanics/CLI/bestiary/humanoid/guard.md), each mounted on a [warhorse](3-Mechanics/CLI/bestiary/beast/warhorse.md), appear on the road at the southwest edge of the battlefield and focus their attacks on the characters.
+The characters have little opportunity to aid the villagers being attacked as three hostile mercenary [guards](3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md), each mounted on a [warhorse](3-Mechanics/CLI/bestiary/beast/warhorse-xmm.md), appear on the road at the southwest edge of the battlefield and focus their attacks on the characters.
 
 If Darrett or another well-liked NPC accompanied the characters to the hill, they may be wounded during combat but should survive the battle. Other spectators, like Mayor Raven and Cudgel, are far enough away that they won't reach the battlefield until after the fight ends.
 
@@ -515,12 +519,12 @@ After these mercenaries are defeated, proceed with the "Gragonis Arrives" encoun
 #### High Hill Battlefield Features
 
 > [!gallery]
-> ![Map 3.2: Battle of High Hill](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/045-map-3-02-battle-of-high-hill.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/046-map-3-02-battle-of-high-hill-player.webp#gallery)
+> ![Map 3.2: Battle of High Hill](file://adventure/DSotDQ/045-map-3.02-battle-of-high-hill.webp#gallery)
+> ![Player Version](file://adventure/DSotDQ/046-map-3.02-battle-of-high-hill-player.webp#gallery)
 
 The battlefield, shown on map 3.2, has the following features:
 
-- **Fray.** The 15-foot-wide area marked by the design at the edge of the map represents dozens of clashing combatants. This area and the battlefield beyond the map are "difficult terrain". A creature that enters the Fray for the first time on a turn or starts its turn there must succeed on a DC 16 Dexterity saving throw or take 7 (`2d6`) slashing damage from opportunistic foes. The Fray can't be damaged and remains until the battle ends.  
+- **Fray.** The 15-foot-wide area marked by the design at the edge of the map represents dozens of clashing combatants. This area and the battlefield beyond the map are "difficult terrain". A creature that enters the Fray for the first time on a turn or starts its turn there must succeed on a DC 16 Dexterity saving throw or take `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) slashing damage from opportunistic foes. The Fray can't be damaged and remains until the battle ends.  
 - **Wall and Cart.** Both the stone walls and the supply cart are "difficult terrain". They grant "half cover" to creatures behind them.  
 
 #### High Hill Battlefield Events
@@ -529,12 +533,14 @@ During this encounter, roll on the High Hill Battlefield Events table each round
 
 **High Hill Battlefield Events**
 
+`dice: [](04-chapter-3-when-home-burns.md#^high-hill-battlefield-events)`
+
 | dice: d4 | Events |
 |----------|--------|
-| 1 | A volley of arrows falls on a random player character's position. That character and each creature within 10 feet of them must succeed on a DC 12 Dexterity saving throw or take 3 (`1d6`) piercing damage. |
+| 1 | A volley of arrows falls on a random player character's position. That character and each creature within 10 feet of them must succeed on a DC 12 Dexterity saving throw or take `dice:1d6\|noform\|noparens\|avg\|text(3)` (`1d6`) piercing damage. |
 | 2 | Two terrified, riderless warhorses bolt from the Fray. One random player character must succeed on a DC 14 Dexterity saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone). The horses then dash off the battlefield. |
-| 3 | An injured member of Vogler's militia (a [guard](3-Mechanics/CLI/bestiary/humanoid/guard.md) with 1 hit point) crawls onto the battlefield and begs for help, appearing in an unoccupied space adjacent to the Fray nearest a random character. |
-| 4 | A hostile mercenary [guard](3-Mechanics/CLI/bestiary/humanoid/guard.md) with 6 hit points appears in an unoccupied space adjacent to the Fray nearest a random mercenary on the battlefield. The guard takes their turn on initiative count 10. |
+| 3 | An injured member of Vogler's militia (a [guard](3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) with 1 hit point) crawls onto the battlefield and begs for help, appearing in an unoccupied space adjacent to the Fray nearest a random character. |
+| 4 | A hostile mercenary [guard](3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) with 6 hit points appears in an unoccupied space adjacent to the Fray nearest a random mercenary on the battlefield. The guard takes their turn on initiative count 10. |
 ^high-hill-battlefield-events
 
 #### Gragonis Arrives
@@ -546,7 +552,7 @@ As the characters prevail against the mounted guards, or whenever it feels appro
 > A hulking figure swinging a formidable battleaxe leads a band of mercenaries through the chaos. He cuts through the few remaining members of Vogler's militia as he draws closer.
 ^12e
 
-The [half-ogre](3-Mechanics/CLI/bestiary/giant/half-ogre-ogrillon.md) Gragonis emerges at the west edge of the battlefield adjacent to the Fray, along with four mercenaries (use the [guard](3-Mechanics/CLI/bestiary/humanoid/guard.md) stat block). As he does, he points at the most formidable-looking character and laughs to his allies, "Look here! We got one who still thinks this is all a game!" Gragonis and the mercenaries then attack.
+The [half-ogre](3-Mechanics/CLI/bestiary/giant/ogrillon-ogre-xmm.md) Gragonis emerges at the west edge of the battlefield adjacent to the Fray, along with four mercenaries (use the [guard](3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) stat block). As he does, he points at the most formidable-looking character and laughs to his allies, "Look here! We got one who still thinks this is all a game!" Gragonis and the mercenaries then attack.
 
 ### Aftermath
 
@@ -597,7 +603,7 @@ Let the characters pose their own concerns and plans, but ultimately the mayor u
 
 ### Mercenary Interrogation
 
-Unless the characters previously spared the life of a specific mercenary (such as Gragonis), the mercenary captured during the Battle of High Hill is a low-ranking [guard](3-Mechanics/CLI/bestiary/humanoid/guard.md) of the Ironclad Regiment named Svilnt Sunderlit.
+Unless the characters previously spared the life of a specific mercenary (such as Gragonis), the mercenary captured during the Battle of High Hill is a low-ranking [guard](3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) of the Ironclad Regiment named Svilnt Sunderlit.
 
 Mayor Raven gives Cudgel and the characters leeway in conducting the interrogation. Raven doesn't oppose the use of coercive magic, but she refuses to let anyone harm the captive. Cudgel initially tries to lead the interrogation, but she struggles to contain her anger at her betrayal. She soon retreats to watch from a distance as the characters lead things—though she occasionally interjects at particularly angering news.
 
@@ -661,7 +667,7 @@ At the outset, Raven is inclined to draft a letter to the commander of the camp 
 - On her return, Cudgel found Jeyev and other loyal mercenaries had heard of the events at High Hill. They had restrained several soldiers loyal to Gragonis but who didn't have orders to participate in the reenactment.  
 - During the night, Jeyev's scouts came across a large military force to the northwest of the village, much too large and organized to be a mere mercenary band. This is the same army the characters likely spotted, and Jeyev's scouts can confirm everything from the "Sighting the Enemy" section.  
 
-![Jeyev Veldrews](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/047-03-008-jeyev-veldrews.webp#center)
+![Jeyev Veldrews](file://adventure/DSotDQ/047-03-008.jeyev-veldrews.webp#center)
 
 ### Vogler's Response
 
@@ -686,7 +692,7 @@ When Mayor Raven and the characters arrive at the River Gate, read the following
 > Beneath the carvings of leaping fish etched into Vogler's open wooden gate, a human in black-and-red scale mail sits astride an armored warhorse. She holds out a rolled parchment and calls out, "Who among you speaks for this village?"
 ^13f
 
-This [Dragon Army soldier](3-Mechanics/CLI/bestiary/humanoid/dragon-army-soldier-dsotdq.md) (see appendix B) astride a [warhorse](3-Mechanics/CLI/bestiary/beast/warhorse.md) is a messenger from the Red Dragon Army. If a character doesn't speak up first, Raven steps forward and takes the messenger's letter. The message reads as follows:
+This [Dragon Army soldier](3-Mechanics/CLI/bestiary/humanoid/dragon-army-soldier-dsotdq.md) (see appendix B) astride a [warhorse](3-Mechanics/CLI/bestiary/beast/warhorse-xmm.md) is a messenger from the Red Dragon Army. If a character doesn't speak up first, Raven steps forward and takes the messenger's letter. The message reads as follows:
 
 > [!readaloud] 
 > 
@@ -719,7 +725,7 @@ The area atop the cliffs is wooded, but an open field lies below and behind the 
 
 #### The Gnomeflinger
 
-![Gnomeflinger](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/048-03-009-gnomeflinger.webp#center)
+![Gnomeflinger](file://adventure/DSotDQ/048-03-009.gnomeflinger.webp#center)
 
 Thornwall Keep sits directly across from the Dragon Army soldiers' clifftop vantage. Atop Thornwall Keep sits the creation of the tinker gnome Than: a people-launching device called a gnomeflinger (described in appendix A). If using the gnomeflinger comes up, Becklin or Darrett suggests consulting with Than first.
 
@@ -836,7 +842,7 @@ After Cudgel has returned and the characters have organized Vogler's evacuation,
 > 
 > With the Red Dragon Army on its way, [Becklin Uth Viharin](3-Mechanics/CLI/bestiary/npc/becklin-uth-viharin-dsotdq.md) summons the characters to Cudgel's command tent at the village's edge. When they arrive, read the introduction to scenario 1 in *Dragonlance: Warriors of Krynn*, then play that scenario. This scenario details an organized defense of Vogler and the characters' desperate attempt to get the villagers to safety.
 > 
-> If the characters attain a win or hold during this scenario, each character gains "inspiration". Additionally, after the people of Vogler have reached safety, they recognize the characters as honorary members of the village and the mayor gifts them one of the community's few treasures: a folded paper kingfisher that functions as a [Quaal's feather token (bird)](3-Mechanics/CLI/items/quaals-feather-token-bird.md). Characters gain no rewards for a loss.
+> If the characters attain a win or hold during this scenario, each character gains "inspiration". Additionally, after the people of Vogler have reached safety, they recognize the characters as honorary members of the village and the mayor gifts them one of the community's few treasures: a folded paper kingfisher that functions as a [Quaal's feather token (bird)](3-Mechanics/CLI/items/quaals-feather-token-bird-xdmg.md). Characters gain no rewards for a loss.
 > 
 > At the end of the scenario, Darrett is reeling from Becklin's defeat and returns with the characters to Vogler. You can run any encounters from the "Invasion of Vogler" section as the characters escape the village, or you can skip ahead to "The Final Boat" section.
 ^warriors-of-krynn-scenario-1
@@ -856,7 +862,7 @@ When you're ready to begin this section, give the characters a reason to be near
 > Pounding hooves sound from the direction of the River Gate as a mercenary of the Ironclad Regiment rides toward the village circle. As she nears, she yells, "They're coming! Evacuate now! The Dragon Ar—" The message is cut short as a squat, hooded figure launches from the nearby clifftops and slams into the rider's back, sending horse and rider tumbling.
 ^155
 
-The rider is a [scout](3-Mechanics/CLI/bestiary/humanoid/scout.md) sent by Becklin to alert Vogler to evacuate immediately. When the characters arrive, the rider's horse is dead and she is locked in battle with her attacker, a [baaz draconian](3-Mechanics/CLI/bestiary/monstrosity/baaz-draconian-dsotdq.md) (see appendix B). The draconian kills her if the characters don't intercede.
+The rider is a [scout](3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md) sent by Becklin to alert Vogler to evacuate immediately. When the characters arrive, the rider's horse is dead and she is locked in battle with her attacker, a [baaz draconian](3-Mechanics/CLI/bestiary/monstrosity/baaz-draconian-dsotdq.md) (see appendix B). The draconian kills her if the characters don't intercede.
 
 If the characters save the rider, she announces that an attack is imminent—the Dragon Army has split into two prongs. One went to engage the mercenaries, while the second is headed to the village.
 
@@ -881,9 +887,11 @@ When you've run at least three of these encounters, proceed with the "Escape fro
 
 **Vogler Invasion Encounters**
 
+`dice: [](04-chapter-3-when-home-burns.md#^vogler-invasion-encounters)`
+
 | dice: d10 | Encounter |
 |-----------|-----------|
-| 1–2 | A family of four [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner.md) gets separated from the other evacuees. Unless escorted to the wharf, they try to hide from the invaders. |
+| 1–2 | A family of four [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) gets separated from the other evacuees. Unless escorted to the wharf, they try to hide from the invaders. |
 | 3 | An abandoned cat leaps onto one of the characters. It is terrified and refuses to leave them during the invasion. |
 | 4–5 | Airborne Assassin (see below) |
 | 6–7 | Direct Attack (see below) |
@@ -922,7 +930,7 @@ Three mysterious knights watch the battle, but they disappear as soon as they're
 > The sound of clashing metal draws your attention. Two of Vogler's remaining militia members struggle to hold their own against reptile-headed invaders. The scaled soldiers bait the militia members, hissing cruel laughter.
 ^15f
 
-The two militia members ([guards](3-Mechanics/CLI/bestiary/humanoid/guard.md)) are outmatched by five [baaz draconians](3-Mechanics/CLI/bestiary/monstrosity/baaz-draconian-dsotdq.md) (see appendix B). If the characters don't intervene quickly, the militia members are slaughtered. If the characters help and a militia member lives, this survivor gives the characters a [potion of healing](3-Mechanics/CLI/items/potion-of-healing.md).
+The two militia members ([guards](3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md)) are outmatched by five [baaz draconians](3-Mechanics/CLI/bestiary/monstrosity/baaz-draconian-dsotdq.md) (see appendix B). If the characters don't intervene quickly, the militia members are slaughtered. If the characters help and a militia member lives, this survivor gives the characters a [potion of healing](3-Mechanics/CLI/items/potion-of-healing-xdmg.md).
 
 ### Escape from Vogler
 
@@ -949,12 +957,12 @@ After the baaz draconians are defeated, proceed with the "Fewmaster Gholcag" enc
 
 The battlefield includes the following features:
 
-- **Burning Building.** The Wharfinger's Office is on fire. A creature that enters the burning structure for the first time on a turn or starts its turn there must succeed on a DC 16 Constitution saving throw or take 5 (`1d10`) fire damage.  
-- **Fray.** The 15-foot-wide area marked by the design at the edge of the map represents draconians facing off against Vogler's remaining defenders. This area and the village beyond the map are "difficult terrain". A creature that enters the Fray for the first time on a turn or starts its turn there must succeed on a DC 16 Dexterity saving throw or take 7 (`2d6`) slashing damage from opportunistic foes. The Fray can't be damaged and remains until the battle ends.  
+- **Burning Building.** The Wharfinger's Office is on fire. A creature that enters the burning structure for the first time on a turn or starts its turn there must succeed on a DC 16 Constitution saving throw or take `dice:1d10|noform|noparens|avg|text(5)` (`1d10`) fire damage.  
+- **Fray.** The 15-foot-wide area marked by the design at the edge of the map represents draconians facing off against Vogler's remaining defenders. This area and the village beyond the map are "difficult terrain". A creature that enters the Fray for the first time on a turn or starts its turn there must succeed on a DC 16 Dexterity saving throw or take `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) slashing damage from opportunistic foes. The Fray can't be damaged and remains until the battle ends.  
 
 > [!gallery]
-> ![Map 3.3: Escape From Vogler](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/049-map-3-03-escape-from-vogler.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/050-map-3-03-escape-from-vogler-player.webp#gallery)
+> ![Map 3.3: Escape From Vogler](file://adventure/DSotDQ/049-map-3.03-escape-from-vogler.webp#gallery)
+> ![Player Version](file://adventure/DSotDQ/050-map-3.03-escape-from-vogler-player.webp#gallery)
 
 #### Vogler Battlefield Events
 
@@ -962,11 +970,13 @@ During this encounter, roll on the Vogler Battlefield Events table each round at
 
 **Vogler Battlefield Events**
 
+`dice: [](04-chapter-3-when-home-burns.md#^vogler-battlefield-events)`
+
 | dice: d6 | Events |
 |----------|--------|
-| 1 | Two Vogler fishers ([guards](3-Mechanics/CLI/bestiary/humanoid/guard.md)) come to assist the characters. They appear in unoccupied spaces adjacent to the Fray nearest a random character. |
+| 1 | Two Vogler fishers ([guards](3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md)) come to assist the characters. They appear in unoccupied spaces adjacent to the Fray nearest a random character. |
 | 2 | A [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) [bozak draconian](3-Mechanics/CLI/bestiary/monstrosity/bozak-draconian-dsotdq.md) (see appendix B) with 1 hit point staggers from the Fray and across the battlefield. It doesn't attack, but it explodes in its Death Throes if killed. The draconian appears in an unoccupied space adjacent to the Fray nearest a random character. |
-| 3–4 | A draconian gliding overhead throws a fiery flask at one random player character, who must succeed on a DC 10 Dexterity saving throw or take 3 (`1d6`) fire damage. |
+| 3–4 | A draconian gliding overhead throws a fiery flask at one random player character, who must succeed on a DC 10 Dexterity saving throw or take `dice:1d6\|noform\|noparens\|avg\|text(3)` (`1d6`) fire damage. |
 | 5–6 | Villagers on the docks shout their support. A random player character has advantage on their next attack roll. |
 ^vogler-battlefield-events
 
@@ -981,11 +991,11 @@ After the boilerdrak's baaz draconians are defeated, the commander of the dracon
 > From behind her, two reptilian soldiers emerge. "Them next," the ogre says, gesturing in your direction. The soldiers move forward obediently.
 ^165
 
-[Fewmaster Gholcag](3-Mechanics/CLI/bestiary/npc/fewmaster-gholcag-dsotdq.md) is a low-ranking commander in the Red Dragon Army and the leader of the raid on Vogler. She and two [baaz draconians](3-Mechanics/CLI/bestiary/monstrosity/baaz-draconian-dsotdq.md) (see appendix B) arrive adjacent to the Fray along the northernmost road. [Fewmaster Gholcag](3-Mechanics/CLI/bestiary/npc/fewmaster-gholcag-dsotdq.md) uses the [ogre](3-Mechanics/CLI/bestiary/giant/ogre.md) stat block, but she wears scale mail and has AC 14. She and the draconians fight to the death.
+[Fewmaster Gholcag](3-Mechanics/CLI/bestiary/npc/fewmaster-gholcag-dsotdq.md) is a low-ranking commander in the Red Dragon Army and the leader of the raid on Vogler. She and two [baaz draconians](3-Mechanics/CLI/bestiary/monstrosity/baaz-draconian-dsotdq.md) (see appendix B) arrive adjacent to the Fray along the northernmost road. [Fewmaster Gholcag](3-Mechanics/CLI/bestiary/npc/fewmaster-gholcag-dsotdq.md) uses the [ogre](3-Mechanics/CLI/bestiary/giant/ogre-xmm.md) stat block, but she wears scale mail and has AC 14. She and the draconians fight to the death.
 
 After Gholcag and the draconians are defeated, the battlefield encounter ends.
 
-![Fewmaster Gholcag](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/051-03-010-fewmaster-gholcag.webp#center)
+![Fewmaster Gholcag](file://adventure/DSotDQ/051-03-010.fewmaster-gholcag.webp#center)
 
 ### The Final Boat
 
@@ -1008,7 +1018,7 @@ A character who looks at the helmet he carries recognizes it's the helmet of a K
 
 #### Last Glimpse of Vogler
 
-![Evacuees flee the Dragon Army's invasion of Vogler](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/052-03-011-evacuees-flee.webp#center)
+![Evacuees flee the Dragon Army's invasion of Vogler](file://adventure/DSotDQ/052-03-011.evacuees-flee.webp#center)
 
 The characters escape Vogler on the last boat, a small fishing vessel barely large enough for the characters, Darrett, Mayor Raven, Jeyev, and a few other locals. Read or paraphrase the following as the characters leave Vogler behind:
 
@@ -1021,7 +1031,7 @@ The characters escape Vogler on the last boat, a small fishing vessel barely lar
 
 It's up to you to determine how Becklin and Cudgel's battle against the Red Dragon Army unfolded and what Jeyev knows. In any case, Vogler's defenders were defeated and an enemy force marches on the town. The characters' allies might have suffered any of the following fates:
 
-- **Assassination.** Jeyev is actually a neutral evil [bandit captain](3-Mechanics/CLI/bestiary/humanoid/bandit-captain.md) who was bought off by the Dragon Army just like Gragonis was. He's been hired to assassinate the Solamnic knights in Vogler—Becklin and Darrett. He murdered Becklin during the battle and is now using her helmet to get close to Darrett.  
+- **Assassination.** Jeyev is actually a neutral evil [bandit captain](3-Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm.md) who was bought off by the Dragon Army just like Gragonis was. He's been hired to assassinate the Solamnic knights in Vogler—Becklin and Darrett. He murdered Becklin during the battle and is now using her helmet to get close to Darrett.  
 - **Capture.** Becklin sent Jeyev to warn the villagers that the defense failed and not to wait for their defenders. She sent her helmet as proof that Jeyev's words come from her. As Jeyev fled, he saw Becklin captured. You can determine where Becklin is being held, perhaps in one of the Dragon Army encampments detailed in chapters 4 or 5.  
 - **Scattered.** Becklin and Cudgel orchestrated a retreat from the Dragon Army. Either of them might reappear in Kalaman in later chapters after evading their foes. As in the previous possibility, she sent Jeyev to warn the villagers.  
 - **Witness.** If the characters already know about Becklin's defeat, Jeyev was separated from the rest of Vogler's defenders, knows specifics of her last battle, and recovered her helmet. He might still be an assassin or know the information in any of the other entries here.  

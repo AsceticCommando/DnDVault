@@ -16,7 +16,7 @@ The chapter's monsters appear first in a bestiary. They're followed by a collect
 
 Remember that few intelligent creatures in Eberron are inherently evil. Even dragons, which on other worlds are associated with certain alignments, choose their own paths. The adventure ideas and encounter tables in chapter 4 offer abundant examples of monsters behaving in ways that aren't traditionally monstrous.
 
-![Aboard a lightning train, ...](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/152-6-01.webp#center "Aboard a lightning train, a heroic monk, aided by her magical arm, strikes at a member of the villainous Emerald Claw.")
+![Aboard a lightning train, a heroic monk, aided by her magical arm, strikes at a member of the villainous Emerald Claw.](file://book/ERLW/152-6-01.webp#center)
 
 - [Belashyrra](3-Mechanics/CLI/bestiary/npc/belashyrra-erlw.md)  
 - [Bone Knight](3-Mechanics/CLI/bestiary/humanoid/bone-knight-erlw.md)  
@@ -43,7 +43,7 @@ Remember that few intelligent creatures in Eberron are inherently evil. Even dra
 - [Radiant Idol](3-Mechanics/CLI/bestiary/celestial/radiant-idol-erlw.md)  
 - [Rak Tulkhesh](3-Mechanics/CLI/bestiary/npc/rak-tulkhesh-erlw.md)  
 - [Shifter](3-Mechanics/CLI/bestiary/humanoid/shifter-erlw.md)  
-- [Steel Defender](3-Mechanics/CLI/bestiary/construct/steel-defender-tce.md)  
+- [Steel Defender](3-Mechanics/CLI/bestiary/construct/steel-defender-efa.md)  
 - [Sul Khatesh](3-Mechanics/CLI/bestiary/npc/sul-khatesh-erlw.md)  
 - [Tarkanan Assassin](3-Mechanics/CLI/bestiary/humanoid/tarkanan-assassin-erlw.md)  
 - [The Lord of Blades](3-Mechanics/CLI/bestiary/npc/the-lord-of-blades-erlw.md)  
@@ -144,4 +144,4 @@ Now make the following changes to that stat block:
 
 **Spell Mimicry**. Replace the effect of Spell Mimicry with the effect of the chosen spell. If that spell requires a saving throw, use spell save DC from the replaced spell, and if the spell involves an attack roll, use the attack bonus from the living spell's Magical Strike.
 
-For example, if you turn [fireball](3-Mechanics/CLI/spells/fireball.md) (a 3rd-level spell) into a living spell, customize the [living lightning bolt](3-Mechanics/CLI/bestiary/construct/living-lightning-bolt-erlw.md). The living fireball has immunity to fire damage, instead of lightning damage; deals fire damage with its Magical Strike; and replicates [fireball](3-Mechanics/CLI/spells/fireball.md) with Spell Mimicry.
+For example, if you turn [fireball](3-Mechanics/CLI/spells/fireball-xphb.md) (a 3rd-level spell) into a living spell, customize the [living lightning bolt](3-Mechanics/CLI/bestiary/construct/living-lightning-bolt-erlw.md). The living fireball has immunity to fire damage, instead of lightning damage; deals fire damage with its Magical Strike; and replicates [fireball](3-Mechanics/CLI/spells/fireball-xphb.md) with Spell Mimicry.

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Phylaskia"
 ---
-# [Phylaskia](3-Mechanics\CLI\bestiary\undead/phylaskia-mot.md)
+# [Phylaskia](3-Mechanics/CLI/bestiary/undead/phylaskia-mot.md)
 *Source: Mythic Odysseys of Theros p. 239*  
 
 These armored skeletal spirits guard the borders of the Underworld and its various wards. Sleepless and merciless, they scrutinize all who would pass, and they slay those who defy them.
@@ -23,7 +23,7 @@ These armored skeletal spirits guard the borders of the Underworld and its vario
 "type": "undead"
 "alignment": "Lawful Neutral"
 "ac": !!int "18"
-"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor.md)"
+"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "104"
 "hit_dice": "11d10 + 44"
 "modifier": !!int "2"
@@ -48,7 +48,7 @@ These armored skeletal spirits guard the borders of the Underworld and its vario
   \ [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
   \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
 "gear":
-  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
 "senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
   \ Perception 17"
 "languages": "all"
@@ -82,6 +82,6 @@ These armored skeletal spirits guard the borders of the Underworld and its vario
     "name": "Strength Drain"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/undead/token/phylaskia-mot.webp"
+"image": "file://bestiary/tokens/MOT/Phylaskia.webp"
 ```
 ^statblock

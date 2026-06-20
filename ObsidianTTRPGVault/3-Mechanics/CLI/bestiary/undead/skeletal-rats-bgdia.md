@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Skeletal Rats"
 ---
-# [Skeletal Rats](3-Mechanics\CLI\bestiary\undead/skeletal-rats-bgdia.md)
+# [Skeletal Rats](3-Mechanics/CLI/bestiary/undead/skeletal-rats-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 23*  
 
 ```statblock
@@ -56,6 +56,6 @@ aliases:
     "name": "Bites"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/undead/token/skeletal-rats-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Skeletal%20Rats.webp"
 ```
 ^statblock

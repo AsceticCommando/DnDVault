@@ -19,8 +19,8 @@ statblock-link: "#^statblock"
 aliases:
 - "Guard Drake"
 ---
-# [Guard Drake](3-Mechanics\CLI\bestiary\dragon/guard-drake-mpmm.md)
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 151*  
+# [Guard Drake](3-Mechanics/CLI/bestiary/dragon/guard-drake-mpmm.md)
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 151, Hoard of the Dragon Queen p. 91*  
 
 A guard drake is a reptilian creature created out of dragon scales by means of a bizarre and grisly ritual. When trained properly, a drake is obedient and territorial, which makes it an excellent watch beast that can follow simple commands.
 
@@ -66,7 +66,8 @@ A newly hatched guard drake imprints upon the first creature that feeds it (usua
     "name": "Tail"
 "source":
   - "MPMM"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/guard-drake-mpmm.webp"
+  - "HotDQ"
+"image": "file://bestiary/tokens/MPMM/Guard%20Drake.webp"
 ```
 ^statblock
 

@@ -17,7 +17,7 @@ aliases:
 | 1/8 | [Hoard scarab](3-Mechanics/CLI/bestiary/monstrosity/hoard-scarab-ftd.md) |
 | 1/4 | [Metallic warbler](3-Mechanics/CLI/bestiary/construct/metallic-warbler-ftd.md) |
 | 1/2 | [Draconian foot soldier](3-Mechanics/CLI/bestiary/monstrosity/draconian-foot-soldier-ftd.md) |
-| 1 | [Deep dragon wyrmling](3-Mechanics/CLI/bestiary/dragon/deep-dragon-wyrmling-ftd.md) |
+| 1 | [Deep dragon wyrmling](3-Mechanics/CLI/bestiary/dragon/deep-dragon-wyrmling-fraif.md) |
 | 2 | [Crystal dragon wyrmling](3-Mechanics/CLI/bestiary/dragon/crystal-dragon-wyrmling-ftd.md) |
 | 2 | [Draconian mage](3-Mechanics/CLI/bestiary/monstrosity/draconian-mage-ftd.md) |
 | 2 | [Dragonnel](3-Mechanics/CLI/bestiary/dragon/dragonnel-ftd.md) |
@@ -40,7 +40,7 @@ aliases:
 | 5 | [Egg hunter adult](3-Mechanics/CLI/bestiary/monstrosity/egg-hunter-adult-ftd.md) |
 | 5 | [Gem stalker](3-Mechanics/CLI/bestiary/monstrosity/gem-stalker-ftd.md) |
 | 5 | [Young crystal dragon](3-Mechanics/CLI/bestiary/dragon/young-crystal-dragon-ftd.md) |
-| 5 | [Young deep dragon](3-Mechanics/CLI/bestiary/dragon/young-deep-dragon-ftd.md) |
+| 5 | [Young deep dragon](3-Mechanics/CLI/bestiary/dragon/young-deep-dragon-fraif.md) |
 | 6 | [Animated breath](3-Mechanics/CLI/bestiary/elemental/animated-breath-ftd.md) |
 | 6 | [Draconian mastermind](3-Mechanics/CLI/bestiary/monstrosity/draconian-mastermind-ftd.md) |
 | 6 | [Dragonborn of Sardior](3-Mechanics/CLI/bestiary/humanoid/dragonborn-of-sardior-ftd.md) |
@@ -57,7 +57,7 @@ aliases:
 | 9 | [Young amethyst dragon](3-Mechanics/CLI/bestiary/dragon/young-amethyst-dragon-ftd.md) |
 | 9 | [Young sapphire dragon](3-Mechanics/CLI/bestiary/dragon/young-sapphire-dragon-ftd.md) |
 | 10 | [Young dragon turtle](3-Mechanics/CLI/bestiary/dragon/young-dragon-turtle-ftd.md) |
-| 11 | [Adult deep dragon](3-Mechanics/CLI/bestiary/dragon/adult-deep-dragon-ftd.md) |
+| 11 | [Adult deep dragon](3-Mechanics/CLI/bestiary/dragon/adult-deep-dragon-fraif.md) |
 | 11 | [Dracohydra](3-Mechanics/CLI/bestiary/monstrosity/dracohydra-ftd.md) |
 | 11 | [Dragonbone golem](3-Mechanics/CLI/bestiary/construct/dragonbone-golem-ftd.md) |
 | 12 | [Adult crystal dragon](3-Mechanics/CLI/bestiary/dragon/adult-crystal-dragon-ftd.md) |
@@ -69,7 +69,7 @@ aliases:
 | 16 | [Adult amethyst dragon](3-Mechanics/CLI/bestiary/dragon/adult-amethyst-dragon-ftd.md) |
 | 17 | [Draconic shard](3-Mechanics/CLI/bestiary/undead/draconic-shard-ftd.md) |
 | 17 | [Ghost dragon](3-Mechanics/CLI/bestiary/undead/ghost-dragon-ftd.md) |
-| 18 | [Ancient deep dragon](3-Mechanics/CLI/bestiary/dragon/ancient-deep-dragon-ftd.md) |
+| 18 | [Ancient deep dragon](3-Mechanics/CLI/bestiary/dragon/ancient-deep-dragon-fraif.md) |
 | 18 | [Hollow dragon](3-Mechanics/CLI/bestiary/undead/hollow-dragon-ftd.md) |
 | 19 | [Ancient crystal dragon](3-Mechanics/CLI/bestiary/dragon/ancient-crystal-dragon-ftd.md) |
 | 20 | [Ancient topaz dragon](3-Mechanics/CLI/bestiary/dragon/ancient-topaz-dragon-ftd.md) |

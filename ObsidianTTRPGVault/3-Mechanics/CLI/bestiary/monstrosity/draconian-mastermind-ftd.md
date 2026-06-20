@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Draconian Mastermind"
 ---
-# [Draconian Mastermind](3-Mechanics\CLI\bestiary\monstrosity/draconian-mastermind-ftd.md)
+# [Draconian Mastermind](3-Mechanics/CLI/bestiary/monstrosity/draconian-mastermind-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 180*  
 
 The rarest and most powerful of the draconians are the masterminds—spellcasters and strategists who most often serve as military commanders or as advisors to those who created them. They emerge from gold, red, or amethyst dragon eggs, wingless but possessed of an arsenal of eldritch power. Like their dragon progenitors, masterminds have a breath weapon—a billowing cloud of poisonous gas. They also have formidable claws and teeth they use to rend foes in close combat.
@@ -84,9 +84,10 @@ When draconians die, they do not go quietly. Instead, their lifeless bodies unle
     "name": "Noxious Breath (Recharge 5-6)"
   - "desc": "The draconian casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 14):\n\
-      \n**At will:** [invisibility](3-Mechanics/CLI/spells/invisibility.md), [mage\
-      \ hand](3-Mechanics/CLI/spells/mage-hand.md)\n\n**2/day each:** [dimension door](3-Mechanics/CLI/spells/dimension-door.md),\
-      \ [disguise self](3-Mechanics/CLI/spells/disguise-self.md), [sending](3-Mechanics/CLI/spells/sending.md)"
+      \n**At will:** [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md),\
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md)\n\n**2/day each:** [dimension\
+      \ door](3-Mechanics/CLI/spells/dimension-door-xphb.md), [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md),\
+      \ [sending](3-Mechanics/CLI/spells/sending-xphb.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "When the draconian is hit by an attack roll, it can create an [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
@@ -95,6 +96,6 @@ When draconians die, they do not go quietly. Instead, their lifeless bodies unle
     "name": "Magic Shield (3/Day)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/draconian-mastermind-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Draconian%20Mastermind.webp"
 ```
 ^statblock

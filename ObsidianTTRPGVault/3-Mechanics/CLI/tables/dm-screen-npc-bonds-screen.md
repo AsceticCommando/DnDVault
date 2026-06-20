@@ -12,6 +12,8 @@ aliases:
 
 **NPC Bonds**
 
+`dice: [](dm-screen-npc-bonds-screen.md#^npc-bonds)`
+
 | dice: d10 | Bonds |
 |-----------|-------|
 | 1 | Personal goal or achievement |

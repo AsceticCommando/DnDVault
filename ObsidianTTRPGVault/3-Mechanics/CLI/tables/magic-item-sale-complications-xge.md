@@ -12,6 +12,8 @@ aliases:
 
 **Magic Item Sale Complications**
 
+`dice: [](magic-item-sale-complications-xge.md#^magic-item-sale-complications)`
+
 | dice: d6 | Complication |
 |----------|--------------|
 | 1 | Your enemy secretly arranges to buy the item to use it against you.* |

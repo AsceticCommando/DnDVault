@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Blagothkus"
 ---
-# [Blagothkus](3-Mechanics\CLI\bestiary\npc/blagothkus-hotdq.md)
+# [Blagothkus](3-Mechanics/CLI/bestiary/npc/blagothkus-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 89, Tyranny of Dragons p. 181*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "cloud giant"
 "alignment": "Neutral Evil"
 "ac": !!int "17"
-"ac_class": "[splint armor](3-Mechanics/CLI/items/splint-armor.md)"
+"ac_class": "[splint armor](3-Mechanics/CLI/items/splint-armor-xphb.md)"
 "hp": !!int "138"
 "hit_dice": "12d12 + 60"
 "modifier": !!int "1"
@@ -48,7 +48,7 @@ aliases:
   - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
 "gear":
-  - "[morningstar](3-Mechanics/CLI/items/morningstar.md)"
+  - "[morningstar](3-Mechanics/CLI/items/morningstar-xphb.md)"
 "senses": "passive Perception 16"
 "languages": "Common, Draconic, Giant"
 "cr": "9"
@@ -56,18 +56,18 @@ aliases:
   - "desc": "Blagothkus is a 5th-level spellcaster that uses Intelligence as his spellcasting\
       \ ability (spell save DC 15, +7 to hit with spell attacks). Blagothkus has the\
       \ following spells prepared from the wizard spell list:\n\n**Cantrips (at will):**\
-      \ [light](3-Mechanics/CLI/spells/light.md), [mage hand](3-Mechanics/CLI/spells/mage-hand.md),\
-      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md)\n\n**1st level\
-      \ (4 slots):** [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [identify](3-Mechanics/CLI/spells/identify.md),\
-      \ [magic missile](3-Mechanics/CLI/spells/magic-missile.md), [shield](3-Mechanics/CLI/spells/shield.md)\n\
-      \n**2nd level (3 slots):** [gust of wind](3-Mechanics/CLI/spells/gust-of-wind.md),\
-      \ [misty step](3-Mechanics/CLI/spells/misty-step.md), [shatter](3-Mechanics/CLI/spells/shatter.md)\n\
-      \n**3rd level (2 slots):** [fly](3-Mechanics/CLI/spells/fly.md), [lightning\
-      \ bolt](3-Mechanics/CLI/spells/lightning-bolt.md)"
+      \ [light](3-Mechanics/CLI/spells/light-xphb.md), [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n**1st\
+      \ level (4 slots):** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [identify](3-Mechanics/CLI/spells/identify-xphb.md), [magic missile](3-Mechanics/CLI/spells/magic-missile-xphb.md),\
+      \ [shield](3-Mechanics/CLI/spells/shield-xphb.md)\n\n**2nd level (3 slots):**\
+      \ [gust of wind](3-Mechanics/CLI/spells/gust-of-wind-xphb.md), [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md),\
+      \ [shatter](3-Mechanics/CLI/spells/shatter-xphb.md)\n\n**3rd level (2 slots):**\
+      \ [fly](3-Mechanics/CLI/spells/fly-xphb.md), [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt-xphb.md)"
     "name": "Spellcasting"
   - "desc": "Blagothkus can innately cast the following spells (spell save DC 15),\
-      \ requiring no material components:\n\n**3/day each:** [fog cloud](3-Mechanics/CLI/spells/fog-cloud.md),\
-      \ [levitate](3-Mechanics/CLI/spells/levitate.md)"
+      \ requiring no material components:\n\n**3/day each:** [fog cloud](3-Mechanics/CLI/spells/fog-cloud-xphb.md),\
+      \ [levitate](3-Mechanics/CLI/spells/levitate-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "Blagothkus has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
       \ checks that rely on smell."
@@ -81,6 +81,6 @@ aliases:
 "source":
   - "HotDQ"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/npc/token/blagothkus-hotdq.webp"
+"image": "file://bestiary/tokens/HotDQ/Blagothkus.webp"
 ```
 ^statblock

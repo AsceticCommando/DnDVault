@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Infant Basilisk"
 ---
-# [Infant Basilisk](3-Mechanics\CLI\bestiary\monstrosity/infant-basilisk-oota.md)
+# [Infant Basilisk](3-Mechanics/CLI/bestiary/monstrosity/infant-basilisk-oota.md)
 *Source: Out of the Abyss p. 100*  
 
 ```statblock
@@ -43,6 +43,6 @@ aliases:
     "name": "Bite"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/infant-basilisk-oota.webp"
+"image": "file://bestiary/tokens/OotA/Infant%20Basilisk.webp"
 ```
 ^statblock

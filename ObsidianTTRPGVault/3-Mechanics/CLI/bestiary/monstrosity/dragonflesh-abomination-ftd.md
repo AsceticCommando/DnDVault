@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Dragonflesh Abomination"
 ---
-# [Dragonflesh Abomination](3-Mechanics\CLI\bestiary\monstrosity/dragonflesh-abomination-ftd.md)
+# [Dragonflesh Abomination](3-Mechanics/CLI/bestiary/monstrosity/dragonflesh-abomination-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 187*  
 
 A dragonflesh abomination is the final stage of a grafter's transformation—a hulking monster whose corrupted brain is ablaze with desire for treasure. Its abhorrent transformation erases the last vestiges of its previous life. It sprouts a tail and clumsy wings and grows to enormous size, barely retaining a bipedal shape. Its stomach churns with acid, causing noxious fumes to waft from its mouth and providing it with a caustic breath weapon. Its body is in a constant state of growth and change, allowing it to quickly heal from its wounds.
@@ -81,6 +81,6 @@ While most would-be grafters wind up hideously scarred or dead, a few survive as
     "name": "Acid Belch (Recharge 5-6)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/dragonflesh-abomination-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Dragonflesh%20Abomination.webp"
 ```
 ^statblock

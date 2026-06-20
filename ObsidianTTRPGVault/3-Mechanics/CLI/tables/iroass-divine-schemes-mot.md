@@ -12,6 +12,8 @@ aliases:
 
 **Iroas's Divine Schemes**
 
+`dice: [](iroass-divine-schemes-mot.md#^iroass-divine-schemes)`
+
 | dice: d4 | Scheme |
 |----------|--------|
 | 1 | Iroas inspires a brave Akroan general to travel forth with a handpicked army and confront the forces of a powerful and supposedly vulnerable minotaur warlord. The general loses despite Iroas's favor, and Akros is left exposed and poorly defended before a wave of Mogis-worshiping minotaurs. |

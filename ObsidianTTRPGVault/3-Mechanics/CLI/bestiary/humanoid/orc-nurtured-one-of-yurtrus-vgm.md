@@ -17,7 +17,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Orc Nurtured One of Yurtrus"
 ---
-# [Orc Nurtured One of Yurtrus](3-Mechanics\CLI\bestiary\humanoid/orc-nurtured-one-of-yurtrus-vgm.md)
+# [Orc Nurtured One of Yurtrus](3-Mechanics/CLI/bestiary/humanoid/orc-nurtured-one-of-yurtrus-vgm.md)
 *Source: Volo's Guide to Monsters p. 184*  
 
 When plague strikes a tribe, the hands of Yurtrus isolate the sick. The priests then minister to those who can be saved but not healed. The hands cultivate the sickness of these nurtured ones, turning them into instruments of defense and weapons of war. When orcs go to battle, a band of nurtured ones might charge in first-to give themselves up while softening up the enemy by spreading Yurtrus's vile blessing in its ranks.
@@ -79,7 +79,7 @@ In addition, orcs have special relationships with two creatures that are sometim
     "name": "Corrupted Vengeance"
 "source":
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/orc-nurtured-one-of-yurtrus-vgm.webp"
+"image": "file://bestiary/tokens/VGM/Orc%20Nurtured%20One%20of%20Yurtrus.webp"
 ```
 ^statblock
 

@@ -15,7 +15,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Boneclaw"
 ---
-# [Boneclaw](3-Mechanics\CLI\bestiary\undead/boneclaw-mpmm.md)
+# [Boneclaw](3-Mechanics/CLI/bestiary/undead/boneclaw-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 66, Mordenkainen's Tome of Foes p. 121*  
 
 A wizard who tries to become a lich but fails might become a boneclaw instead. These hideous, cackling monsters share a few of liches' attributes, but while liches are immortal masters of the arcane, boneclaws are thralls to evil, hatred, and pain.
@@ -97,7 +97,7 @@ In service to its master, a boneclaw delights in causing horrific pain. It lurks
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/undead/token/boneclaw-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Boneclaw.webp"
 ```
 ^statblock
 

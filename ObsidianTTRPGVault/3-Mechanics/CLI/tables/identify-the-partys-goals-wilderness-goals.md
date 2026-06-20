@@ -12,6 +12,8 @@ aliases:
 
 **Wilderness Goals**
 
+`dice: [](identify-the-partys-goals-wilderness-goals.md#^wilderness-goals)`
+
 | dice: d20 | Goal |
 |-----------|------|
 | 1 | Locate a dungeon or other site of interest (roll on the Dungeon Goals table to find out why). |

@@ -12,6 +12,8 @@ aliases:
 
 **Cyran Affairs**
 
+`dice: [](national-affairs-cyran-affairs-erlw.md#^cyran-affairs)`
+
 | dice: d6 | Mission |
 |----------|---------|
 | 1 | Convince nations to recognize Oargev as a sovereign |

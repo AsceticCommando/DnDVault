@@ -12,6 +12,8 @@ aliases:
 
 **Good Ideals**
 
+`dice: [](ideals.md#^good-ideals)`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Beauty |
@@ -23,6 +25,8 @@ aliases:
 ^good-ideals
 
 **Evil Ideals**
+
+`dice: [](ideals.md#^evil-ideals)`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -36,6 +40,8 @@ aliases:
 
 **Lawful Ideals**
 
+`dice: [](ideals.md#^lawful-ideals)`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Community |
@@ -47,6 +53,8 @@ aliases:
 ^lawful-ideals
 
 **Chaotic Ideals**
+
+`dice: [](ideals.md#^chaotic-ideals)`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -60,6 +68,8 @@ aliases:
 
 **Neutral Ideals**
 
+`dice: [](ideals.md#^neutral-ideals)`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Balance |
@@ -71,6 +81,8 @@ aliases:
 ^neutral-ideals
 
 **Other Ideals**
+
+`dice: [](ideals.md#^other-ideals)`
 
 | dice: d6 | Ideal |
 |----------|-------|

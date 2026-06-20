@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Grung"
 ---
-# [Grung](3-Mechanics\CLI\bestiary\humanoid/grung-mpmm.md)
+# [Grung](3-Mechanics/CLI/bestiary/humanoid/grung-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 149, Volo's Guide to Monsters p. 156*  
 
 The grung stat block represents a typical grung warrior or hunter, met either in a grung community or traveling elsewhere as a mercenary, game warden, guard, or bandit.
@@ -55,7 +55,7 @@ Born in a wide range of colors, grungs most often appear in shades of green, blu
 "damage_immunities": "poison"
 "condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Grung"
 "cr": "1/4"
@@ -84,7 +84,7 @@ Born in a wide range of colors, grungs most often appear in shades of green, blu
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/grung-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Grung.webp"
 ```
 ^statblock
 

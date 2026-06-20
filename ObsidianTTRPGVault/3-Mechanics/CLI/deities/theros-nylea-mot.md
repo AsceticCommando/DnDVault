@@ -11,7 +11,7 @@ aliases:
 ---
 # Nylea
 *Source: Mythic Odysseys of Theros p. 67* 
-![](3-Mechanics/CLI/deities/img/mot-044-02-03-nylea.webp#symbol)
+![](file://deities/MOT/044-02-03-nylea.webp#symbol)
 
 - **Alignment**: Neutral Good
 - **Domains**: Nature
@@ -55,7 +55,7 @@ Mortals all over Theros pray to Nylea when they rely on hunting or nature's whim
 
 Nylea blesses those who are kind to animals, considering such acts as wordless prayers. Those who must kill a dangerous natural animal or cut down trees often pray to Nylea for forgiveness, sometimes leaving food for other animals or planting new trees as atonement.
 
-![](3-Mechanics/CLI/deities/img/mot-045-02-14.webp#center)
+![](file://deities/MOT/045-02-14.webp#center)
 
 > [!readaloud] Myths of Nylea
 > 
@@ -97,6 +97,8 @@ Because her interests are often tied to natural forces, Nylea's attentions can b
 
 **Nylea's Favor**
 
+`dice: [](theros-nylea-mot.md#^nyleas-favor)`
+
 | dice: d6 | Circumstance |
 |----------|--------------|
 | 1 | You were born at dawn on the spring equinox, a sign of Nylea's favor. |
@@ -112,6 +114,8 @@ Because her interests are often tied to natural forces, Nylea's attentions can b
 Nylea calls upon her followers to defend the natural world and oppose those who would bring it harm through cruelty or greed. As a follower of Nylea, consider the ideals on the Nylea's Ideals table as alternatives to those suggested for your background.
 
 **Nylea's Ideals**
+
+`dice: [](theros-nylea-mot.md#^nyleas-ideals)`
 
 | dice: d6 | Ideal |
 |----------|-------|

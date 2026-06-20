@@ -20,7 +20,7 @@ Here are the options featured in this chapter:
 - Class features and subclasses for every class in the "Player's Handbook"  
 - "Feats" for anyone who uses that optional rule  
 
-![The wizard Tasha studies m...](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/001-01-001.webp#center "The wizard Tasha studies magic outside the hut of her adoptive mother, Baba Yaga")
+![The wizard Tasha studies magic outside the hut of her adoptive mother, Baba Yaga](file://book/TCE/001-01-001.webp#center)
 
 ## Customizing Your Origin
 
@@ -52,7 +52,7 @@ Sometimes a character undergoes a dramatic transformation in their beliefs and a
 
 ## Artificer
 
-Masters of invention, [artificers](3-Mechanics/CLI/classes/artificer-tce.md) use ingenuity and magic to unlock extraordinary capabilities in objects. They see magic as a complex system waiting to be decoded and then harnessed in their spells and inventions. You can find everything you need to play one of these inventors in the next few sections.
+Masters of invention, [artificers](3-Mechanics/CLI/classes/artificer-efa.md) use ingenuity and magic to unlock extraordinary capabilities in objects. They see magic as a complex system waiting to be decoded and then harnessed in their spells and inventions. You can find everything you need to play one of these inventors in the next few sections.
 
 Artificers use a variety of tools to channel their arcane power. To cast a spell, an artificer might use alchemist's supplies to create a potent elixir, calligrapher's supplies to inscribe a sigil of power, or tinker's tools to craft a temporary charm. The magic of artificers is tied to their tools and their talents, and few other characters can produce the right tool for a job as well as an artificer.
 
@@ -68,19 +68,19 @@ Artificers in the City of Sigil share discoveries from throughout the multiverse
 > 
 > Artificers invent cutting-edge problems, then try to solve them—loudly and often with collateral damage.
 
-- [Artificer](3-Mechanics/CLI/classes/artificer-tce.md)  
-- [Alchemist](3-Mechanics/CLI/classes/artificer-alchemist-tce.md)  
-- [Armorer](3-Mechanics/CLI/classes/artificer-armorer-tce.md)  
-- [Artillerist](3-Mechanics/CLI/classes/artificer-artillerist-tce.md)  
-- [Battle Smith](3-Mechanics/CLI/classes/artificer-battle-smith-tce.md)  
+- [Artificer](3-Mechanics/CLI/classes/artificer-efa.md)  
+- [Alchemist](3-Mechanics/CLI/classes/artificer-alchemist-efa.md)  
+- [Armorer](3-Mechanics/CLI/classes/artificer-armorer-efa.md)  
+- [Artillerist](3-Mechanics/CLI/classes/artificer-artillerist-efa.md)  
+- [Battle Smith](3-Mechanics/CLI/classes/artificer-battle-smith-efa.md)  
 
 > [!gallery]
-> ![The gnome artificer Vi and...](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/003-01-004-artificer-vi.webp#gallery "The gnome artificer Vi and her cockatrice-like Eldritch Cannon battle foes atop a lightning train.")
-> ![Dwarf Alchemist with Homunculus Servant](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/004-01-005-artificer.webp#gallery)
-> ![Armorers, a Drow Infiltrat...](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/005-01-006.webp#gallery "Armorers, a Drow Infiltrator and a Tiefling Guardian")
-> ![Human Artillerist with Eldritch Cannon](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/006-01-007.webp#gallery)
-> ![Gnome Battle Smith with Steel Defender](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/007-01-008.webp#gallery)
-> ![Homunculus Servants](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/008-01-009.webp#gallery)
+> ![The gnome artificer Vi and her cockatrice-like Eldritch Cannon battle foes atop a lightning train.](file://book/TCE/003-01-004.artificer-vi.webp#gallery)
+> ![Dwarf Alchemist with Homunculus Servant](file://book/TCE/004-01-005.artificer.webp#gallery)
+> ![Armorers, a Drow Infiltrator and a Tiefling Guardian](file://book/TCE/005-01-006.webp#gallery)
+> ![Human Artillerist with Eldritch Cannon](file://book/TCE/006-01-007.webp#gallery)
+> ![Gnome Battle Smith with Steel Defender](file://book/TCE/007-01-008.webp#gallery)
+> ![Homunculus Servants](file://book/TCE/008-01-009.webp#gallery)
 
 ## Barbarian
 
@@ -92,20 +92,20 @@ You gain class features in the "Player's Handbook" when you reach certain levels
 
 Unlike the features in the "Player's Handbook", you don't gain the features here automatically. Consulting with your DM, you decide whether to gain a feature in this section if you meet the level requirement noted in the feature's description. These features can be selected separately from one another; you can use one, both, or none of them.
 
-[Primal Knowledge](3-Mechanics/CLI/classes/barbarian.md#Primal%20Knowledge%20(Level%203)) (*3rd-level barbarian feature*)
+Primal Knowledge (*3rd-level barbarian feature*)
 
-[Instinctive Pounce](3-Mechanics/CLI/classes/barbarian.md#Instinctive%20Pounce%20(Level%207)) (*7th-level barbarian feature*)
+Instinctive Pounce (*7th-level barbarian feature*)
 
 ### Primal Paths
 
 At 3rd level, a barbarian gains the Primal Path feature, which offers you the choice of a subclass. The following options are available to you when making that choice: Path of the Beast and Path of Wild Magic.
 
-- [Path of the Beast](3-Mechanics/CLI/classes/barbarian-path-of-the-beast-tce.md)  
-- [Path of Wild Magic](3-Mechanics/CLI/classes/barbarian-path-of-wild-magic-tce.md)  
+- Path of the Beast  
+- Path of Wild Magic  
 
 > [!gallery]
-> ![Human Barbarian of the Beast](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/010-01-012.webp#gallery)
-> ![Wood Elf Barbarian of Wild Magic](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/011-01-013.webp#gallery)
+> ![Human Barbarian of the Beast](file://book/TCE/010-01-012.webp#gallery)
+> ![Wood Elf Barbarian of Wild Magic](file://book/TCE/011-01-013.webp#gallery)
 
 ## Bard
 
@@ -121,30 +121,30 @@ You gain class features in the "Player's Handbook" when you reach certain levels
 
 The spells in the following list expand the bard spell list in the "Player's Handbook". The list is organized by spell level, not character level. If a spell can be cast as a ritual, the ritual tag appears after the spell's name. Each spell is in the "Player's Handbook", unless it has an asterisk (a spell in chapter 3). "Xanathar's Guide to Everything" also offers more spells.
 
-- 1st level: [Color spray](3-Mechanics/CLI/spells/color-spray.md), [Command](3-Mechanics/CLI/spells/command.md)  
-- 2nd level: [Aid](3-Mechanics/CLI/spells/aid.md), [Enlarge/reduce](3-Mechanics/CLI/spells/enlarge-reduce.md), [Mirror image](3-Mechanics/CLI/spells/mirror-image.md)  
-- 3rd level: [Intellect fortress](3-Mechanics/CLI/spells/intellect-fortress-tce.md),* [Mass healing word](3-Mechanics/CLI/spells/mass-healing-word.md), [Slow](3-Mechanics/CLI/spells/slow.md)  
-- 4th level: [Phantasmal killer](3-Mechanics/CLI/spells/phantasmal-killer.md)  
-- 5th level: [Rary's telepathic bond](3-Mechanics/CLI/spells/rarys-telepathic-bond.md) (ritual)  
-- 6th level: [Heroes' feast](3-Mechanics/CLI/spells/heroes-feast.md)  
-- 7th level: [Dream of the blue veil](3-Mechanics/CLI/spells/dream-of-the-blue-veil-tce.md),* [Prismatic spray](3-Mechanics/CLI/spells/prismatic-spray.md)  
-- 8th level: [Antipathy/sympathy](3-Mechanics/CLI/spells/antipathy-sympathy.md)  
-- 9th level: [Prismatic wall](3-Mechanics/CLI/spells/prismatic-wall.md)  
+- 1st level: [Color spray](3-Mechanics/CLI/spells/color-spray-xphb.md), [Command](3-Mechanics/CLI/spells/command-xphb.md)  
+- 2nd level: [Aid](3-Mechanics/CLI/spells/aid-xphb.md), [Enlarge/reduce](3-Mechanics/CLI/spells/enlarge-reduce-xphb.md), [Mirror image](3-Mechanics/CLI/spells/mirror-image-xphb.md)  
+- 3rd level: [Intellect fortress](3-Mechanics/CLI/spells/intellect-fortress-tce.md),* [Mass healing word](3-Mechanics/CLI/spells/mass-healing-word-xphb.md), [Slow](3-Mechanics/CLI/spells/slow-xphb.md)  
+- 4th level: [Phantasmal killer](3-Mechanics/CLI/spells/phantasmal-killer-xphb.md)  
+- 5th level: [Rary's telepathic bond](3-Mechanics/CLI/spells/rarys-telepathic-bond-xphb.md) (ritual)  
+- 6th level: [Heroes' feast](3-Mechanics/CLI/spells/heroes-feast-xphb.md)  
+- 7th level: [Dream of the blue veil](3-Mechanics/CLI/spells/dream-of-the-blue-veil-tce.md),* [Prismatic spray](3-Mechanics/CLI/spells/prismatic-spray-xphb.md)  
+- 8th level: [Antipathy/sympathy](3-Mechanics/CLI/spells/antipathy-sympathy-xphb.md)  
+- 9th level: [Prismatic wall](3-Mechanics/CLI/spells/prismatic-wall-xphb.md)  
 
-[Magical Inspiration](3-Mechanics/CLI/classes/bard.md#Magical%20Inspiration%20(Level%202)) (*2nd-level bard feature*)
+Magical Inspiration (*2nd-level bard feature*)
 
-[Bardic Versatility](3-Mechanics/CLI/classes/bard.md#Bardic%20Versatility%20(Level%204)) (*4th-level bard feature*)
+Bardic Versatility (*4th-level bard feature*)
 
 ### Bard Colleges
 
 At 3rd level, a bard gains the Bard College feature, which offers you the choice of a subclass. The following options are available to you when making that choice: College of Creation and College of Eloquence.
 
-- [College of Creation](3-Mechanics/CLI/classes/bard-college-of-creation-tce.md)  
-- [College of Eloquence](3-Mechanics/CLI/classes/bard-college-of-eloquence-tce.md)  
+- College of Creation  
+- College of Eloquence  
 
 > [!gallery]
-> ![A dragonborn bard of the C...](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/013-01-016.webp#gallery "A dragonborn bard of the College of Creation animates a statue to dance.")
-> ![Drow Bard of Eloquence](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/014-01-017.webp#gallery)
+> ![A dragonborn bard of the College of Creation animates a statue to dance.](file://book/TCE/013-01-016.webp#gallery)
+> ![Drow Bard of Eloquence](file://book/TCE/014-01-017.webp#gallery)
 
 ## Cleric
 
@@ -162,32 +162,32 @@ If you take a feature that replaces another feature, you gain no benefit from th
 
 The spells in the following list expand the cleric spell list in the "Player's Handbook". The list is organized by spell level, not character level. If a spell can be cast as a ritual, the ritual tag appears after the spell's name. Each spell is in the "Player's Handbook", unless it has an asterisk (a spell in chapter 3). "Xanathar's Guide to Everything" also offers more spells.
 
-- 3rd level: [Aura of vitality](3-Mechanics/CLI/spells/aura-of-vitality.md), [Spirit shroud](3-Mechanics/CLI/spells/spirit-shroud-tce.md)*  
-- 4th level: [Aura of life](3-Mechanics/CLI/spells/aura-of-life.md), [Aura of purity](3-Mechanics/CLI/spells/aura-of-purity.md)  
-- 5th level: [Summon celestial](3-Mechanics/CLI/spells/summon-celestial-tce.md)*  
-- 6th level: [Sunbeam](3-Mechanics/CLI/spells/sunbeam.md)  
-- 8th level: [Sunburst](3-Mechanics/CLI/spells/sunburst.md)  
-- 9th level: [Power word heal](3-Mechanics/CLI/spells/power-word-heal.md)  
+- 3rd level: [Aura of vitality](3-Mechanics/CLI/spells/aura-of-vitality-xphb.md), [Spirit shroud](3-Mechanics/CLI/spells/spirit-shroud-tce.md)*  
+- 4th level: [Aura of life](3-Mechanics/CLI/spells/aura-of-life-xphb.md), [Aura of purity](3-Mechanics/CLI/spells/aura-of-purity-xphb.md)  
+- 5th level: [Summon celestial](3-Mechanics/CLI/spells/summon-celestial-xphb.md)*  
+- 6th level: [Sunbeam](3-Mechanics/CLI/spells/sunbeam-xphb.md)  
+- 8th level: [Sunburst](3-Mechanics/CLI/spells/sunburst-xphb.md)  
+- 9th level: [Power word heal](3-Mechanics/CLI/spells/power-word-heal-xphb.md)  
 
-[Channel Divinity: Harness Divine Power](3-Mechanics/CLI/classes/cleric.md#Channel%20Divinity%20Harness%20Divine%20Power%20(Level%202)) (*2nd-level cleric feature*)
+Channel Divinity: Harness Divine Power (*2nd-level cleric feature*)
 
-[Cantrip Versatility](3-Mechanics/CLI/classes/cleric.md#Cantrip%20Versatility%20(Level%204)) (*4th-level cleric feature*)
+Cantrip Versatility (*4th-level cleric feature*)
 
-[Blessed Strikes](3-Mechanics/CLI/classes/cleric-twilight-domain-tce.md#Blessed%20Strikes%20(Level%208)) (*8th-level cleric feature, which replaces the Divine Strike or Potent Spellcasting feature*)
+Blessed Strikes (*8th-level cleric feature, which replaces the Divine Strike or Potent Spellcasting feature*)
 
 ### Divine Domains
 
 At 1st level, a cleric gains the Divine Domain feature, which offers you the choice of a subclass. The following options are available to you when making that choice: Order Domain, Peace Domain, and Twilight Domain.
 
-- [Order Domain](3-Mechanics/CLI/classes/cleric-order-domain-tce.md)  
-- [Peace Domain](3-Mechanics/CLI/classes/cleric-peace-domain-tce.md)  
-- [Twilight Domain](3-Mechanics/CLI/classes/cleric-twilight-domain-tce.md)  
+- Order Domain  
+- Peace Domain  
+- Twilight Domain  
 
 > [!gallery]
-> ![A cleric harnesses divine power](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/016-01-020.webp#gallery)
-> ![Dragonborn Cleric of Order](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/017-01-021.webp#gallery)
-> ![Human Cleric of Peace](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/018-01-022.webp#gallery)
-> ![Human Cleric of Twilight](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/019-01-023.webp#gallery)
+> ![A cleric harnesses divine power](file://book/TCE/016-01-020.webp#gallery)
+> ![Dragonborn Cleric of Order](file://book/TCE/017-01-021.webp#gallery)
+> ![Human Cleric of Peace](file://book/TCE/018-01-022.webp#gallery)
+> ![Human Cleric of Twilight](file://book/TCE/019-01-023.webp#gallery)
 
 ## Druid
 
@@ -203,32 +203,32 @@ You gain class features in the "Player's Handbook" when you reach certain levels
 
 The spells in the following list expand the druid spell list in the "Player's Handbook". The list is organized by spell level, not character level. If a spell can be cast as a ritual, the ritual tag appears after the spell's name. Each spell is in the "Player's Handbook", unless it has an asterisk (a spell in chapter 3). "Xanathar's Guide to Everything" also offers more spells.
 
-- 1st level: [Protection from evil and good](3-Mechanics/CLI/spells/protection-from-evil-and-good.md)  
-- 2nd level: [Augury](3-Mechanics/CLI/spells/augury.md), (ritual) [Continual flame](3-Mechanics/CLI/spells/continual-flame.md), [Enlarge/reduce](3-Mechanics/CLI/spells/enlarge-reduce.md), [Summon beast](3-Mechanics/CLI/spells/summon-beast-tce.md)*  
-- 3rd level: [Aura of vitality](3-Mechanics/CLI/spells/aura-of-vitality.md), [Elemental weapon](3-Mechanics/CLI/spells/elemental-weapon.md), [Revivify](3-Mechanics/CLI/spells/revivify.md), [Summon fey](3-Mechanics/CLI/spells/summon-fey-tce.md)*  
-- 4th level: [Divination](3-Mechanics/CLI/spells/divination.md), (ritual) [Fire shield](3-Mechanics/CLI/spells/fire-shield.md), [Summon elemental](3-Mechanics/CLI/spells/summon-elemental-tce.md)*  
-- 5th level: [Cone of cold](3-Mechanics/CLI/spells/cone-of-cold.md)  
-- 6th level: [Flesh to stone](3-Mechanics/CLI/spells/flesh-to-stone.md)  
-- 7th level: [Symbol](3-Mechanics/CLI/spells/symbol.md)  
-- 8th level: [Incendiary cloud](3-Mechanics/CLI/spells/incendiary-cloud.md)  
+- 1st level: [Protection from evil and good](3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md)  
+- 2nd level: [Augury](3-Mechanics/CLI/spells/augury-xphb.md), (ritual) [Continual flame](3-Mechanics/CLI/spells/continual-flame-xphb.md), [Enlarge/reduce](3-Mechanics/CLI/spells/enlarge-reduce-xphb.md), [Summon beast](3-Mechanics/CLI/spells/summon-beast-xphb.md)*  
+- 3rd level: [Aura of vitality](3-Mechanics/CLI/spells/aura-of-vitality-xphb.md), [Elemental weapon](3-Mechanics/CLI/spells/elemental-weapon-xphb.md), [Revivify](3-Mechanics/CLI/spells/revivify-xphb.md), [Summon fey](3-Mechanics/CLI/spells/summon-fey-xphb.md)*  
+- 4th level: [Divination](3-Mechanics/CLI/spells/divination-xphb.md), (ritual) [Fire shield](3-Mechanics/CLI/spells/fire-shield-xphb.md), [Summon elemental](3-Mechanics/CLI/spells/summon-elemental-xphb.md)*  
+- 5th level: [Cone of cold](3-Mechanics/CLI/spells/cone-of-cold-xphb.md)  
+- 6th level: [Flesh to stone](3-Mechanics/CLI/spells/flesh-to-stone-xphb.md)  
+- 7th level: [Symbol](3-Mechanics/CLI/spells/symbol-xphb.md)  
+- 8th level: [Incendiary cloud](3-Mechanics/CLI/spells/incendiary-cloud-xphb.md)  
 
-[Wild Companion](3-Mechanics/CLI/classes/druid.md#Wild%20Companion%20(Level%202)) (*2nd-level druid feature*)
+Wild Companion (*2nd-level druid feature*)
 
-[Cantrip Versatility](3-Mechanics/CLI/classes/druid.md#Cantrip%20Versatility%20(Level%204)) (*4th-level druid feature*)
+Cantrip Versatility (*4th-level druid feature*)
 
 ### Druid Circles
 
 At 2nd level, a druid gains the Druid Circle feature, which offers you the choice of a subclass. The following options are available to you when making that choice: Circle of Spores, Circle of Stars, and Circle of Wildfire.
 
-- [Circle of Spores](3-Mechanics/CLI/classes/druid-circle-of-spores-tce.md)  
-- [Circle of Stars](3-Mechanics/CLI/classes/druid-circle-of-stars-tce.md)  
-- [Circle of Wildfire](3-Mechanics/CLI/classes/druid-circle-of-wildfire-tce.md)  
+- Circle of Spores  
+- [Circle of Stars](3-Mechanics/CLI/classes/druid-xphb-circle-of-the-stars-xphb.md)  
+- Circle of Wildfire  
 
 > [!gallery]
-> ![Druid with Wild Companion](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/021-01-026.webp#gallery)
-> ![A gnome druid of spores pi...](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/022-01-027.webp#gallery "A gnome druid of spores picks mushrooms with his bullywug zombie companion.")
-> ![Tiefling Druid of Stars](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/023-01-028.webp#gallery)
-> ![Dwarf Druid of Wildfire](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/024-01-029.webp#gallery)
+> ![Druid with Wild Companion](file://book/TCE/021-01-026.webp#gallery)
+> ![A gnome druid of spores picks mushrooms with his bullywug zombie companion.](file://book/TCE/022-01-027.webp#gallery)
+> ![Tiefling Druid of Stars](file://book/TCE/023-01-028.webp#gallery)
+> ![Dwarf Druid of Wildfire](file://book/TCE/024-01-029.webp#gallery)
 
 ## Fighter
 
@@ -244,37 +244,37 @@ You gain class features in the "Player's Handbook" when you reach certain levels
 
 When you choose a fighting style, the following styles are added to your list of options.
 
-- [Blind Fighting](3-Mechanics/CLI/optional-features/blind-fighting-tce.md)  
-- [Interception](3-Mechanics/CLI/optional-features/interception-tce.md)  
+- [Blind Fighting](3-Mechanics/CLI/feats/blind-fighting-xphb.md)  
+- [Interception](3-Mechanics/CLI/feats/interception-xphb.md)  
 - [Superior Technique](3-Mechanics/CLI/optional-features/superior-technique-tce.md)  
-- [Thrown Weapon Fighting](3-Mechanics/CLI/optional-features/thrown-weapon-fighting-tce.md)  
-- [Unarmed Fighting](3-Mechanics/CLI/optional-features/unarmed-fighting-tce.md)  
+- [Thrown Weapon Fighting](3-Mechanics/CLI/feats/thrown-weapon-fighting-xphb.md)  
+- [Unarmed Fighting](3-Mechanics/CLI/feats/unarmed-fighting-xphb.md)  
 
-[Martial Versatility](3-Mechanics/CLI/classes/fighter.md#Martial%20Versatility%20(Level%204)) (*4th-level fighter feature*)
+Martial Versatility (*4th-level fighter feature*)
 
 ### Maneuver Options
 
 If you have access to maneuvers, the following maneuvers are added to the list of options available to you. Maneuvers are available to Battle Masters but also to characters who have a special feature like the [Superior Technique](3-Mechanics/CLI/optional-features/superior-technique-tce.md) fighting style or the [Martial Adept](3-Mechanics/CLI/feats/martial-adept.md) feat.
 
-- [Ambush](3-Mechanics/CLI/optional-features/ambush-tce.md)  
-- [Bait and Switch](3-Mechanics/CLI/optional-features/bait-and-switch-tce.md)  
+- [Ambush](3-Mechanics/CLI/optional-features/ambush-xphb.md)  
+- [Bait and Switch](3-Mechanics/CLI/optional-features/bait-and-switch-xphb.md)  
 - [Brace](3-Mechanics/CLI/optional-features/brace-tce.md)  
-- [Commanding Presence](3-Mechanics/CLI/optional-features/commanding-presence-tce.md)  
+- [Commanding Presence](3-Mechanics/CLI/optional-features/commanding-presence-xphb.md)  
 - [Grappling Strike](3-Mechanics/CLI/optional-features/grappling-strike-tce.md)  
 - [Quick Toss](3-Mechanics/CLI/optional-features/quick-toss-tce.md)  
-- [Tactical Assessment](3-Mechanics/CLI/optional-features/tactical-assessment-tce.md)  
+- [Tactical Assessment](3-Mechanics/CLI/optional-features/tactical-assessment-xphb.md)  
 
 ### Martial Archetypes
 
 At 3rd level, a fighter gains the Martial Archetype feature, which offers you the choice of a subclass. The following options are available to you when making that choice: Psi Warrior and Rune Knight.
 
-- [Psi Warrior](3-Mechanics/CLI/classes/fighter-psi-warrior-tce.md)  
-- [Rune Knight](3-Mechanics/CLI/classes/fighter-rune-knight-tce.md)  
+- [Psi Warrior](3-Mechanics/CLI/classes/fighter-xphb-psi-warrior-xphb.md)  
+- Rune Knight  
 
 > [!gallery]
-> ![A young fighter spars with an instructor.](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/026-01-032.webp#gallery)
-> ![High Elf Psi Warrior](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/027-01-033.webp#gallery)
-> ![Orc Rune Knight](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/028-01-034.webp#gallery)
+> ![A young fighter spars with an instructor.](file://book/TCE/026-01-032.webp#gallery)
+> ![High Elf Psi Warrior](file://book/TCE/027-01-033.webp#gallery)
+> ![Orc Rune Knight](file://book/TCE/028-01-034.webp#gallery)
 
 ### Battle Master Builds
 
@@ -286,99 +286,99 @@ Each of these builds contains suggested fighting styles, maneuvers, and feats. T
 
 ### Archer
 
-- **Fighting Style.** [Archery](3-Mechanics/CLI/optional-features/archery.md)  
-- **Maneuvers.** [Disarming Attack](3-Mechanics/CLI/optional-features/disarming-attack.md), [Distracting Strike](3-Mechanics/CLI/optional-features/distracting-strike.md), [Precision Attack](3-Mechanics/CLI/optional-features/precision-attack.md)  
-- **Feats.** [Piercer](3-Mechanics/CLI/feats/piercer-tce.md), [Sharpshooter](3-Mechanics/CLI/feats/sharpshooter.md)  
+- **Fighting Style.** [Archery](3-Mechanics/CLI/feats/archery-xphb.md)  
+- **Maneuvers.** [Disarming Attack](3-Mechanics/CLI/optional-features/disarming-attack-xphb.md), [Distracting Strike](3-Mechanics/CLI/optional-features/distracting-strike-xphb.md), [Precision Attack](3-Mechanics/CLI/optional-features/precision-attack-xphb.md)  
+- **Feats.** [Piercer](3-Mechanics/CLI/feats/piercer-xphb.md), [Sharpshooter](3-Mechanics/CLI/feats/sharpshooter-xphb.md)  
 
 You prefer to deal with your enemies from afar, trusting in a well-placed arrow, javelin, or sling bullet to end a fight without a response. You rely on accuracy and probably subscribe to the axiom that "those who live by the sword die by the bow."
 
 ### Bodyguard
 
-- **Fighting Style.** [Interception](3-Mechanics/CLI/optional-features/interception-tce.md),* [Protection](3-Mechanics/CLI/optional-features/protection.md)  
-- **Maneuvers.** [Bait and Switch](3-Mechanics/CLI/optional-features/bait-and-switch-tce.md),* [Disarming Attack](3-Mechanics/CLI/optional-features/disarming-attack.md), [Goading Attack](3-Mechanics/CLI/optional-features/goading-attack.md), [Grappling Strike](3-Mechanics/CLI/optional-features/grappling-strike-tce.md)*  
-- **Feats.** [Alert](3-Mechanics/CLI/feats/alert.md), [Observant](3-Mechanics/CLI/feats/observant.md), [Sentinel](3-Mechanics/CLI/feats/sentinel.md), [Tough](3-Mechanics/CLI/feats/tough.md)  
+- **Fighting Style.** [Interception](3-Mechanics/CLI/feats/interception-xphb.md),* [Protection](3-Mechanics/CLI/feats/protection-xphb.md)  
+- **Maneuvers.** [Bait and Switch](3-Mechanics/CLI/optional-features/bait-and-switch-xphb.md),* [Disarming Attack](3-Mechanics/CLI/optional-features/disarming-attack-xphb.md), [Goading Attack](3-Mechanics/CLI/optional-features/goading-attack-xphb.md), [Grappling Strike](3-Mechanics/CLI/optional-features/grappling-strike-tce.md)*  
+- **Feats.** [Alert](3-Mechanics/CLI/feats/alert-xphb.md), [Observant](3-Mechanics/CLI/feats/observant-xphb.md), [Sentinel](3-Mechanics/CLI/feats/sentinel-xphb.md), [Tough](3-Mechanics/CLI/feats/tough-xphb.md)  
 
 Love, money, or some other obligation motivates you to place your own body between harm and the one you're sworn to protect. You have honed the ability to sniff out potential threats and see your charge through dangerous situations.
 
 ### Brawler
 
-- **Fighting Style.** [Blind Fighting](3-Mechanics/CLI/optional-features/blind-fighting-tce.md),* [Two-Weapon Fighting](3-Mechanics/CLI/optional-features/two-weapon-fighting.md), [Unarmed Fighting](3-Mechanics/CLI/optional-features/unarmed-fighting-tce.md)*  
-- **Maneuvers.** [Ambush](3-Mechanics/CLI/optional-features/ambush-tce.md),* [Disarming Attack](3-Mechanics/CLI/optional-features/disarming-attack.md), [Feinting Attack](3-Mechanics/CLI/optional-features/feinting-attack.md), [Pushing Attack](3-Mechanics/CLI/optional-features/pushing-attack.md), [Trip Attack](3-Mechanics/CLI/optional-features/trip-attack.md)  
-- **Feats.** [Athlete](3-Mechanics/CLI/feats/athlete.md), [Durable](3-Mechanics/CLI/feats/durable.md), [Grappler](3-Mechanics/CLI/feats/grappler.md), [Resilient](3-Mechanics/CLI/feats/resilient.md), [Shield Master](3-Mechanics/CLI/feats/shield-master.md), [Tavern Brawler](3-Mechanics/CLI/feats/tavern-brawler.md), [Tough](3-Mechanics/CLI/feats/tough.md)  
+- **Fighting Style.** [Blind Fighting](3-Mechanics/CLI/feats/blind-fighting-xphb.md),* [Two-Weapon Fighting](3-Mechanics/CLI/feats/two-weapon-fighting-xphb.md), [Unarmed Fighting](3-Mechanics/CLI/feats/unarmed-fighting-xphb.md)*  
+- **Maneuvers.** [Ambush](3-Mechanics/CLI/optional-features/ambush-xphb.md),* [Disarming Attack](3-Mechanics/CLI/optional-features/disarming-attack-xphb.md), [Feinting Attack](3-Mechanics/CLI/optional-features/feinting-attack-xphb.md), [Pushing Attack](3-Mechanics/CLI/optional-features/pushing-attack-xphb.md), [Trip Attack](3-Mechanics/CLI/optional-features/trip-attack-xphb.md)  
+- **Feats.** [Athlete](3-Mechanics/CLI/feats/athlete-xphb.md), [Durable](3-Mechanics/CLI/feats/durable-xphb.md), [Grappler](3-Mechanics/CLI/feats/grappler-xphb.md), [Resilient](3-Mechanics/CLI/feats/resilient-xphb.md), [Shield Master](3-Mechanics/CLI/feats/shield-master-xphb.md), [Tavern Brawler](3-Mechanics/CLI/feats/tavern-brawler-xphb.md), [Tough](3-Mechanics/CLI/feats/tough-xphb.md)  
 
 When bottles start breaking and chairs start flying, you're in your element. You love a good scrap, and you've likely seen your share of them. You may or may not have formal training, and while others might call you a dirty fighter, you're still alive.
 
 ### Duelist
 
-- **Fighting Style.** [Dueling](3-Mechanics/CLI/optional-features/dueling.md), [Two-Weapon Fighting](3-Mechanics/CLI/optional-features/two-weapon-fighting.md)  
-- **Maneuvers.** [Evasive Footwork](3-Mechanics/CLI/optional-features/evasive-footwork.md), [Feinting Attack](3-Mechanics/CLI/optional-features/feinting-attack.md), [Lunging Attack](3-Mechanics/CLI/optional-features/lunging-attack.md), [Parry](3-Mechanics/CLI/optional-features/parry.md), [Precision Attack](3-Mechanics/CLI/optional-features/precision-attack.md), [Riposte](3-Mechanics/CLI/optional-features/riposte.md)  
-- **Feats.** [Defensive Duelist](3-Mechanics/CLI/feats/defensive-duelist.md), [Dual Wielder](3-Mechanics/CLI/feats/dual-wielder.md), [Martial Adept](3-Mechanics/CLI/feats/martial-adept.md), [Observant](3-Mechanics/CLI/feats/observant.md), [Savage Attacker](3-Mechanics/CLI/feats/savage-attacker.md)  
+- **Fighting Style.** [Dueling](3-Mechanics/CLI/feats/dueling-xphb.md), [Two-Weapon Fighting](3-Mechanics/CLI/feats/two-weapon-fighting-xphb.md)  
+- **Maneuvers.** [Evasive Footwork](3-Mechanics/CLI/optional-features/evasive-footwork-xphb.md), [Feinting Attack](3-Mechanics/CLI/optional-features/feinting-attack-xphb.md), [Lunging Attack](3-Mechanics/CLI/optional-features/lunging-attack-xphb.md), [Parry](3-Mechanics/CLI/optional-features/parry-xphb.md), [Precision Attack](3-Mechanics/CLI/optional-features/precision-attack-xphb.md), [Riposte](3-Mechanics/CLI/optional-features/riposte-xphb.md)  
+- **Feats.** [Defensive Duelist](3-Mechanics/CLI/feats/defensive-duelist-xphb.md), [Dual Wielder](3-Mechanics/CLI/feats/dual-wielder-xphb.md), [Martial Adept](3-Mechanics/CLI/feats/martial-adept.md), [Observant](3-Mechanics/CLI/feats/observant-xphb.md), [Savage Attacker](3-Mechanics/CLI/feats/savage-attacker-xphb.md)  
 
 You regard the duel as a proud tradition, a test of skill and wits that brings honor to those who can defeat an enemy while respecting the art. Your search for improvement is a consuming passion, and you draw on the expertise of the masters who've come before you as you work to perfect your form.
 
 ### Gladiator
 
-- **Fighting Style.** [Defense](3-Mechanics/CLI/optional-features/defense.md), [Two-Weapon Fighting](3-Mechanics/CLI/optional-features/two-weapon-fighting.md)  
-- **Maneuvers.** [Goading Attack](3-Mechanics/CLI/optional-features/goading-attack.md), [Menacing Attack](3-Mechanics/CLI/optional-features/menacing-attack.md), [Sweeping Attack](3-Mechanics/CLI/optional-features/sweeping-attack.md), [Trip Attack](3-Mechanics/CLI/optional-features/trip-attack.md)  
-- **Feats.** [Athlete](3-Mechanics/CLI/feats/athlete.md), [Charger](3-Mechanics/CLI/feats/charger.md), [Dual Wielder](3-Mechanics/CLI/feats/dual-wielder.md), [Durable](3-Mechanics/CLI/feats/durable.md), [Grappler](3-Mechanics/CLI/feats/grappler.md), [Martial Adept](3-Mechanics/CLI/feats/martial-adept.md), [Savage Attacker](3-Mechanics/CLI/feats/savage-attacker.md), [Tough](3-Mechanics/CLI/feats/tough.md)  
+- **Fighting Style.** [Defense](3-Mechanics/CLI/feats/defense-xphb.md), [Two-Weapon Fighting](3-Mechanics/CLI/feats/two-weapon-fighting-xphb.md)  
+- **Maneuvers.** [Goading Attack](3-Mechanics/CLI/optional-features/goading-attack-xphb.md), [Menacing Attack](3-Mechanics/CLI/optional-features/menacing-attack-xphb.md), [Sweeping Attack](3-Mechanics/CLI/optional-features/sweeping-attack-xphb.md), [Trip Attack](3-Mechanics/CLI/optional-features/trip-attack-xphb.md)  
+- **Feats.** [Athlete](3-Mechanics/CLI/feats/athlete-xphb.md), [Charger](3-Mechanics/CLI/feats/charger-xphb.md), [Dual Wielder](3-Mechanics/CLI/feats/dual-wielder-xphb.md), [Durable](3-Mechanics/CLI/feats/durable-xphb.md), [Grappler](3-Mechanics/CLI/feats/grappler-xphb.md), [Martial Adept](3-Mechanics/CLI/feats/martial-adept.md), [Savage Attacker](3-Mechanics/CLI/feats/savage-attacker-xphb.md), [Tough](3-Mechanics/CLI/feats/tough-xphb.md)  
 
 You've fought to entertain crowds, whether for sport or as punishment. Along the way, you learned to use all manner of weapons to battle all kinds of adversaries. You're practical yet theatrical, and you know how to employ fear as an effective tool in a fight.
 
 ### Hoplite
 
-- **Fighting Style.** [Defense](3-Mechanics/CLI/optional-features/defense.md), [Thrown Weapon Fighting](3-Mechanics/CLI/optional-features/thrown-weapon-fighting-tce.md)*  
-- **Maneuvers.** [Brace](3-Mechanics/CLI/optional-features/brace-tce.md),* [Lunging Attack](3-Mechanics/CLI/optional-features/lunging-attack.md), [Parry](3-Mechanics/CLI/optional-features/parry.md), [Precision Attack](3-Mechanics/CLI/optional-features/precision-attack.md)  
-- **Feats.** [Athlete](3-Mechanics/CLI/feats/athlete.md), [Grappler](3-Mechanics/CLI/feats/grappler.md), [Piercer](3-Mechanics/CLI/feats/piercer-tce.md), [Polearm Master](3-Mechanics/CLI/feats/polearm-master.md), [Sentinel](3-Mechanics/CLI/feats/sentinel.md), [Shield Master](3-Mechanics/CLI/feats/shield-master.md)  
+- **Fighting Style.** [Defense](3-Mechanics/CLI/feats/defense-xphb.md), [Thrown Weapon Fighting](3-Mechanics/CLI/feats/thrown-weapon-fighting-xphb.md)*  
+- **Maneuvers.** [Brace](3-Mechanics/CLI/optional-features/brace-tce.md),* [Lunging Attack](3-Mechanics/CLI/optional-features/lunging-attack-xphb.md), [Parry](3-Mechanics/CLI/optional-features/parry-xphb.md), [Precision Attack](3-Mechanics/CLI/optional-features/precision-attack-xphb.md)  
+- **Feats.** [Athlete](3-Mechanics/CLI/feats/athlete-xphb.md), [Grappler](3-Mechanics/CLI/feats/grappler-xphb.md), [Piercer](3-Mechanics/CLI/feats/piercer-xphb.md), [Polearm Master](3-Mechanics/CLI/feats/polearm-master-xphb.md), [Sentinel](3-Mechanics/CLI/feats/sentinel-xphb.md), [Shield Master](3-Mechanics/CLI/feats/shield-master-xphb.md)  
 
 With spear and shield, you follow in the footsteps of the heroes of ages past. You rely on discipline and athleticism to overcome improbable odds. Whether fighting in ranks alongside your comrades or squaring off as a lone warrior, you're equal to the task.
 
 ### Lancer
 
-- **Fighting Style.** [Dueling](3-Mechanics/CLI/optional-features/dueling.md)  
-- **Maneuvers.** [Lunging Attack](3-Mechanics/CLI/optional-features/lunging-attack.md), [Menacing Attack](3-Mechanics/CLI/optional-features/menacing-attack.md), [Precision Attack](3-Mechanics/CLI/optional-features/precision-attack.md), [Pushing Attack](3-Mechanics/CLI/optional-features/pushing-attack.md)  
-- **Feats.** [Heavy Armor Master](3-Mechanics/CLI/feats/heavy-armor-master.md), [Mounted Combatant](3-Mechanics/CLI/feats/mounted-combatant.md), [Savage Attacker](3-Mechanics/CLI/feats/savage-attacker.md)  
+- **Fighting Style.** [Dueling](3-Mechanics/CLI/feats/dueling-xphb.md)  
+- **Maneuvers.** [Lunging Attack](3-Mechanics/CLI/optional-features/lunging-attack-xphb.md), [Menacing Attack](3-Mechanics/CLI/optional-features/menacing-attack-xphb.md), [Precision Attack](3-Mechanics/CLI/optional-features/precision-attack-xphb.md), [Pushing Attack](3-Mechanics/CLI/optional-features/pushing-attack-xphb.md)  
+- **Feats.** [Heavy Armor Master](3-Mechanics/CLI/feats/heavy-armor-master-xphb.md), [Mounted Combatant](3-Mechanics/CLI/feats/mounted-combatant-xphb.md), [Savage Attacker](3-Mechanics/CLI/feats/savage-attacker-xphb.md)  
 
 When the cavalry is called in, that means you. You ride out to greet your enemy with the point of your weapon. As you charge, the ground trembles, and only the heaviest blows can deter you.
 
 ### Outrider
 
-- **Fighting Style.** [Archery](3-Mechanics/CLI/optional-features/archery.md)  
-- **Maneuvers.** [Ambush](3-Mechanics/CLI/optional-features/ambush-tce.md),* [Distracting Strike](3-Mechanics/CLI/optional-features/distracting-strike.md), [Goading Attack](3-Mechanics/CLI/optional-features/goading-attack.md), [Precision Attack](3-Mechanics/CLI/optional-features/precision-attack.md), [Quick Toss](3-Mechanics/CLI/optional-features/quick-toss-tce.md)*  
-- **Feats.** [Alert](3-Mechanics/CLI/feats/alert.md), [Crossbow Expert](3-Mechanics/CLI/feats/crossbow-expert.md), [Mounted Combatant](3-Mechanics/CLI/feats/mounted-combatant.md), [Observant](3-Mechanics/CLI/feats/observant.md), [Sharpshooter](3-Mechanics/CLI/feats/sharpshooter.md)  
+- **Fighting Style.** [Archery](3-Mechanics/CLI/feats/archery-xphb.md)  
+- **Maneuvers.** [Ambush](3-Mechanics/CLI/optional-features/ambush-xphb.md),* [Distracting Strike](3-Mechanics/CLI/optional-features/distracting-strike-xphb.md), [Goading Attack](3-Mechanics/CLI/optional-features/goading-attack-xphb.md), [Precision Attack](3-Mechanics/CLI/optional-features/precision-attack-xphb.md), [Quick Toss](3-Mechanics/CLI/optional-features/quick-toss-tce.md)*  
+- **Feats.** [Alert](3-Mechanics/CLI/feats/alert-xphb.md), [Crossbow Expert](3-Mechanics/CLI/feats/crossbow-expert-xphb.md), [Mounted Combatant](3-Mechanics/CLI/feats/mounted-combatant-xphb.md), [Observant](3-Mechanics/CLI/feats/observant-xphb.md), [Sharpshooter](3-Mechanics/CLI/feats/sharpshooter-xphb.md)  
 
 You find freedom in the saddle and a companion in your mount. A headlong charge into combat is a blunt instrument for oafs. You prefer mobility and range, opting to find advantageous positions that allow you to deal with foes at full gallop while evading the most dangerous threats.
 
 ### Pugilist
 
-- **Fighting Style.** [Unarmed Fighting](3-Mechanics/CLI/optional-features/unarmed-fighting-tce.md)*  
-- **Maneuvers.** [Disarming Attack](3-Mechanics/CLI/optional-features/disarming-attack.md), [Evasive Footwork](3-Mechanics/CLI/optional-features/evasive-footwork.md), [Grappling Strike](3-Mechanics/CLI/optional-features/grappling-strike-tce.md),* [Menacing Attack](3-Mechanics/CLI/optional-features/menacing-attack.md), [Pushing Attack](3-Mechanics/CLI/optional-features/pushing-attack.md), [Riposte](3-Mechanics/CLI/optional-features/riposte.md), [Trip Attack](3-Mechanics/CLI/optional-features/trip-attack.md)  
-- **Feats.** [Athlete](3-Mechanics/CLI/feats/athlete.md), [Durable](3-Mechanics/CLI/feats/durable.md), [Grappler](3-Mechanics/CLI/feats/grappler.md), [Savage Attacker](3-Mechanics/CLI/feats/savage-attacker.md), [Tavern Brawler](3-Mechanics/CLI/feats/tavern-brawler.md)  
+- **Fighting Style.** [Unarmed Fighting](3-Mechanics/CLI/feats/unarmed-fighting-xphb.md)*  
+- **Maneuvers.** [Disarming Attack](3-Mechanics/CLI/optional-features/disarming-attack-xphb.md), [Evasive Footwork](3-Mechanics/CLI/optional-features/evasive-footwork-xphb.md), [Grappling Strike](3-Mechanics/CLI/optional-features/grappling-strike-tce.md),* [Menacing Attack](3-Mechanics/CLI/optional-features/menacing-attack-xphb.md), [Pushing Attack](3-Mechanics/CLI/optional-features/pushing-attack-xphb.md), [Riposte](3-Mechanics/CLI/optional-features/riposte-xphb.md), [Trip Attack](3-Mechanics/CLI/optional-features/trip-attack-xphb.md)  
+- **Feats.** [Athlete](3-Mechanics/CLI/feats/athlete-xphb.md), [Durable](3-Mechanics/CLI/feats/durable-xphb.md), [Grappler](3-Mechanics/CLI/feats/grappler-xphb.md), [Savage Attacker](3-Mechanics/CLI/feats/savage-attacker-xphb.md), [Tavern Brawler](3-Mechanics/CLI/feats/tavern-brawler-xphb.md)  
 
 Where others rely on steel, you've got your fists. Whether through training or experience, you've developed a superior technique that can help you overcome an enemy in an up-close fight.
 
 ### Shock Trooper
 
-- **Fighting Style.** [Great Weapon Fighting](3-Mechanics/CLI/optional-features/great-weapon-fighting.md)  
-- **Maneuvers.** [Menacing Attack](3-Mechanics/CLI/optional-features/menacing-attack.md), [Pushing Attack](3-Mechanics/CLI/optional-features/pushing-attack.md), [Sweeping Attack](3-Mechanics/CLI/optional-features/sweeping-attack.md)  
-- **Feats.** [Charger](3-Mechanics/CLI/feats/charger.md), [Great Weapon Master](3-Mechanics/CLI/feats/great-weapon-master.md), [Heavy Armor Master](3-Mechanics/CLI/feats/heavy-armor-master.md)  
+- **Fighting Style.** [Great Weapon Fighting](3-Mechanics/CLI/feats/great-weapon-fighting-xphb.md)  
+- **Maneuvers.** [Menacing Attack](3-Mechanics/CLI/optional-features/menacing-attack-xphb.md), [Pushing Attack](3-Mechanics/CLI/optional-features/pushing-attack-xphb.md), [Sweeping Attack](3-Mechanics/CLI/optional-features/sweeping-attack-xphb.md)  
+- **Feats.** [Charger](3-Mechanics/CLI/feats/charger-xphb.md), [Great Weapon Master](3-Mechanics/CLI/feats/great-weapon-master-xphb.md), [Heavy Armor Master](3-Mechanics/CLI/feats/heavy-armor-master-xphb.md)  
 
 Subtlety is not your style. You're trained to get straight into the fighting, busting through enemy lines and applying tremendous pressure quickly. Those who ignore you in combat do so at their peril.
 
-![Shock Trooper](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/029-01-035.webp#center)
+![Shock Trooper](file://book/TCE/029-01-035.webp#center)
 
 ### Skirmisher
 
-- **Fighting Style.** [Archery](3-Mechanics/CLI/optional-features/archery.md), [Thrown Weapon Fighting](3-Mechanics/CLI/optional-features/thrown-weapon-fighting-tce.md)*  
-- **Maneuvers.** [Ambush](3-Mechanics/CLI/optional-features/ambush-tce.md),* [Bait and Switch](3-Mechanics/CLI/optional-features/bait-and-switch-tce.md),* [Distracting Strike](3-Mechanics/CLI/optional-features/distracting-strike.md), [Quick Toss](3-Mechanics/CLI/optional-features/quick-toss-tce.md)*  
-- **Feats.** [Alert](3-Mechanics/CLI/feats/alert.md), [Dual Wielder](3-Mechanics/CLI/feats/dual-wielder.md), [Mobile](3-Mechanics/CLI/feats/mobile.md), [Skulker](3-Mechanics/CLI/feats/skulker.md)  
+- **Fighting Style.** [Archery](3-Mechanics/CLI/feats/archery-xphb.md), [Thrown Weapon Fighting](3-Mechanics/CLI/feats/thrown-weapon-fighting-xphb.md)*  
+- **Maneuvers.** [Ambush](3-Mechanics/CLI/optional-features/ambush-xphb.md),* [Bait and Switch](3-Mechanics/CLI/optional-features/bait-and-switch-xphb.md),* [Distracting Strike](3-Mechanics/CLI/optional-features/distracting-strike-xphb.md), [Quick Toss](3-Mechanics/CLI/optional-features/quick-toss-tce.md)*  
+- **Feats.** [Alert](3-Mechanics/CLI/feats/alert-xphb.md), [Dual Wielder](3-Mechanics/CLI/feats/dual-wielder-xphb.md), [Mobile](3-Mechanics/CLI/feats/speedy-xphb.md), [Skulker](3-Mechanics/CLI/feats/skulker-xphb.md)  
 
 You thrive amid the chaos of battle. You use your mobility and versatility in combat to soften your adversaries and disrupt their formations. An enemy's plan rarely survives contact with you.
 
 ### Strategist
 
-- **Fighting Style.** [Defense](3-Mechanics/CLI/optional-features/defense.md)  
-- **Maneuvers.** [Commander's Strike](3-Mechanics/CLI/optional-features/commanders-strike.md), [Commanding Presence](3-Mechanics/CLI/optional-features/commanding-presence-tce.md),* [Maneuvering Attack](3-Mechanics/CLI/optional-features/maneuvering-attack.md), [Rally](3-Mechanics/CLI/optional-features/rally.md), [Tactical Assessment](3-Mechanics/CLI/optional-features/tactical-assessment-tce.md)*  
-- **Feats.** [Inspiring Leader](3-Mechanics/CLI/feats/inspiring-leader.md), [Keen Mind](3-Mechanics/CLI/feats/keen-mind.md), [Linguist](3-Mechanics/CLI/feats/linguist.md)  
+- **Fighting Style.** [Defense](3-Mechanics/CLI/feats/defense-xphb.md)  
+- **Maneuvers.** [Commander's Strike](3-Mechanics/CLI/optional-features/commanders-strike-xphb.md), [Commanding Presence](3-Mechanics/CLI/optional-features/commanding-presence-xphb.md),* [Maneuvering Attack](3-Mechanics/CLI/optional-features/maneuvering-attack-xphb.md), [Rally](3-Mechanics/CLI/optional-features/rally-xphb.md), [Tactical Assessment](3-Mechanics/CLI/optional-features/tactical-assessment-xphb.md)*  
+- **Feats.** [Inspiring Leader](3-Mechanics/CLI/feats/inspiring-leader-xphb.md), [Keen Mind](3-Mechanics/CLI/feats/keen-mind-xphb.md), [Linguist](3-Mechanics/CLI/feats/linguist.md)  
 
 To you, battles unfold like a game of chess. You understand that strength and speed are important in a fight, but it takes intellect and experience to know how best to apply them. That's where you come in.
 
@@ -390,25 +390,25 @@ The monk class receives new features and subclasses in this section.
 
 You gain class features in the "Player's Handbook" when you reach certain levels in your class. This section offers additional features that you can gain as a monk. Unlike the features in the "Player's Handbook", you don't gain the features here automatically. Consulting with your DM, you decide whether to gain a feature in this section if you meet the level requirement noted in the feature's description. These features can be selected separately from one another; you can use some, all, or none of them.
 
-[Dedicated Weapon](3-Mechanics/CLI/classes/monk.md#Dedicated%20Weapon%20(Level%202)) (*2nd-level monk feature*)
+Dedicated Weapon (*2nd-level monk feature*)
 
-[Ki-Fueled Attack](3-Mechanics/CLI/classes/monk.md#Ki-Fueled%20Attack%20(Level%203)) (*3rd-level monk feature*)
+Ki-Fueled Attack (*3rd-level monk feature*)
 
-[Quickened Healing](3-Mechanics/CLI/classes/monk.md#Quickened%20Healing%20(Level%204)) (*4th-level monk feature*)
+Quickened Healing (*4th-level monk feature*)
 
-[Focused Aim](3-Mechanics/CLI/classes/monk.md#Focused%20Aim%20(Level%205)) (*5th-level monk feature*)
+Focused Aim (*5th-level monk feature*)
 
 ### Monastic Traditions
 
 At 3rd level, a monk gains the Monastic Tradition feature, which offers you the choice of a subclass. The following options are available to you when making that choice: Way of Mercy or Way of the Astral Self.
 
-- [Way of Mercy](3-Mechanics/CLI/classes/monk-way-of-mercy-tce.md)  
-- [Way of the Astral Self](3-Mechanics/CLI/classes/monk-way-of-the-astral-self-tce.md)  
+- [Way of Mercy](3-Mechanics/CLI/classes/monk-xphb-warrior-of-mercy-xphb.md)  
+- Way of the Astral Self  
 
 > [!gallery]
-> ![An orc monk of the Four El...](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/031-01-038.webp#gallery "An orc monk of the Four Elements unleashes a ki-fueled attack.")
-> ![Wood Elf Monk of Mercy](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/032-01-039.webp#gallery)
-> ![Dragonborn Monk of the Astral Self](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/033-01-040.webp#gallery)
+> ![An orc monk of the Four Elements unleashes a ki-fueled attack.](file://book/TCE/031-01-038.webp#gallery)
+> ![Wood Elf Monk of Mercy](file://book/TCE/032-01-039.webp#gallery)
+> ![Dragonborn Monk of the Astral Self](file://book/TCE/033-01-040.webp#gallery)
 
 ## Paladin
 
@@ -424,9 +424,9 @@ You gain class features in the "Player's Handbook" when you reach certain levels
 
 The spells in the following list expand the paladin spell list in the "Player's Handbook". The list is organized by spell level, not character level. Each spell is in the "Player's Handbook", unless it has an asterisk (a spell in chapter 3). "Xanathar's Guide to Everything" also offers more spells.
 
-- 2nd level: [Gentle repose](3-Mechanics/CLI/spells/gentle-repose.md), [Prayer of healing](3-Mechanics/CLI/spells/prayer-of-healing.md), [Warding bond](3-Mechanics/CLI/spells/warding-bond.md)  
+- 2nd level: [Gentle repose](3-Mechanics/CLI/spells/gentle-repose-xphb.md), [Prayer of healing](3-Mechanics/CLI/spells/prayer-of-healing-xphb.md), [Warding bond](3-Mechanics/CLI/spells/warding-bond-xphb.md)  
 - 3rd level: [Spirit shroud](3-Mechanics/CLI/spells/spirit-shroud-tce.md)*  
-- 5th level: [Summon celestial](3-Mechanics/CLI/spells/summon-celestial-tce.md)*  
+- 5th level: [Summon celestial](3-Mechanics/CLI/spells/summon-celestial-xphb.md)*  
 
 #### Fighting Style Options
 
@@ -434,25 +434,25 @@ The spells in the following list expand the paladin spell list in the "Player's 
 
 When you choose a fighting style, the following styles are added to your list of options.
 
-- [Blessed Warrior](3-Mechanics/CLI/optional-features/blessed-warrior-tce.md)  
-- [Blind Fighting](3-Mechanics/CLI/optional-features/blind-fighting-tce.md)  
-- [Interception](3-Mechanics/CLI/optional-features/interception-tce.md)  
+- [Blessed Warrior](3-Mechanics/CLI/feats/blessed-warrior-xphb.md)  
+- [Blind Fighting](3-Mechanics/CLI/feats/blind-fighting-xphb.md)  
+- [Interception](3-Mechanics/CLI/feats/interception-xphb.md)  
 
-[Channel Divinity: Harness Divine Power](3-Mechanics/CLI/classes/paladin.md#Channel%20Divinity%20Harness%20Divine%20Power%20(Level%203)) (*3rd-level paladin feature*)
+Channel Divinity: Harness Divine Power (*3rd-level paladin feature*)
 
-[Martial Versatility](3-Mechanics/CLI/classes/paladin.md#Martial%20Versatility%20(Level%204)) (*4th-level paladin feature*)
+Martial Versatility (*4th-level paladin feature*)
 
 ### Sacred Oaths
 
 At 3rd level, a paladin gains the Sacred Oath feature, which offers you the choice of a subclass. The following options are available to you when making that choice: Oath of Glory and Oath of the Watchers.
 
-- [Oath of Glory](3-Mechanics/CLI/classes/paladin-oath-of-glory-tce.md)  
-- [Oath of the Watchers](3-Mechanics/CLI/classes/paladin-oath-of-the-watchers-tce.md)  
+- [Oath of Glory](3-Mechanics/CLI/classes/paladin-xphb-oath-of-glory-xphb.md)  
+- Oath of the Watchers  
 
 > [!gallery]
-> ![A young paladin seeks divine guidance.](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/035-01-043.webp#gallery)
-> ![Tiefling Paladin of Glory](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/036-01-044.webp#gallery)
-> ![Dwarf Paladin of the Watchers](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/037-01-045.webp#gallery)
+> ![A young paladin seeks divine guidance.](file://book/TCE/035-01-043.webp#gallery)
+> ![Tiefling Paladin of Glory](file://book/TCE/036-01-044.webp#gallery)
+> ![Dwarf Paladin of the Watchers](file://book/TCE/037-01-045.webp#gallery)
 
 ## Ranger
 
@@ -464,9 +464,9 @@ You gain class features in the "Player's Handbook" when you reach certain levels
 
 If you take a feature that replaces another feature, you gain no benefit from the replaced one and don't qualify for anything in the game that requires it.
 
-[Deft Explorer](3-Mechanics/CLI/classes/ranger.md#Deft%20Explorer%20(Level%201)) (*1st-level ranger feature, which replaces the Natural Explorer feature*)
+Deft Explorer (*1st-level ranger feature, which replaces the Natural Explorer feature*)
 
-[Favored Foe](3-Mechanics/CLI/classes/ranger.md#Favored%20Foe%20(Level%201)) (*1st-level ranger feature, which replaces the Favored Enemy feature and works with the Foe Slayer feature*)
+Favored Foe (*1st-level ranger feature, which replaces the Favored Enemy feature and works with the Foe Slayer feature*)
 
 #### Additional Ranger Spells
 
@@ -474,11 +474,11 @@ If you take a feature that replaces another feature, you gain no benefit from th
 
 The spells in the following list expand the ranger spell list in the "Player's Handbook". The list is organized by spell level, not character level. Each spell is in the "Player's Handbook", unless it has an asterisk (a spell in chapter 3). "Xanathar's Guide to Everything" also offers more spells.
 
-- 1st level: [Entangle](3-Mechanics/CLI/spells/entangle.md), [Searing smite](3-Mechanics/CLI/spells/searing-smite.md)  
-- 2nd level: [Aid](3-Mechanics/CLI/spells/aid.md), [Enhance ability](3-Mechanics/CLI/spells/enhance-ability.md), [Gust of wind](3-Mechanics/CLI/spells/gust-of-wind.md), [Magic weapon](3-Mechanics/CLI/spells/magic-weapon.md), [Summon beast](3-Mechanics/CLI/spells/summon-beast-tce.md)*  
-- 3rd level: [Elemental weapon](3-Mechanics/CLI/spells/elemental-weapon.md), [Meld into stone](3-Mechanics/CLI/spells/meld-into-stone.md), [Revivify](3-Mechanics/CLI/spells/revivify.md), [Summon fey](3-Mechanics/CLI/spells/summon-fey-tce.md)*  
-- 4th level: [Dominate beast](3-Mechanics/CLI/spells/dominate-beast.md), [Summon elemental](3-Mechanics/CLI/spells/summon-elemental-tce.md)*  
-- 5th level: [Greater restoration](3-Mechanics/CLI/spells/greater-restoration.md)  
+- 1st level: [Entangle](3-Mechanics/CLI/spells/entangle-xphb.md), [Searing smite](3-Mechanics/CLI/spells/searing-smite-xphb.md)  
+- 2nd level: [Aid](3-Mechanics/CLI/spells/aid-xphb.md), [Enhance ability](3-Mechanics/CLI/spells/enhance-ability-xphb.md), [Gust of wind](3-Mechanics/CLI/spells/gust-of-wind-xphb.md), [Magic weapon](3-Mechanics/CLI/spells/magic-weapon-xphb.md), [Summon beast](3-Mechanics/CLI/spells/summon-beast-xphb.md)*  
+- 3rd level: [Elemental weapon](3-Mechanics/CLI/spells/elemental-weapon-xphb.md), [Meld into stone](3-Mechanics/CLI/spells/meld-into-stone-xphb.md), [Revivify](3-Mechanics/CLI/spells/revivify-xphb.md), [Summon fey](3-Mechanics/CLI/spells/summon-fey-xphb.md)*  
+- 4th level: [Dominate beast](3-Mechanics/CLI/spells/dominate-beast-xphb.md), [Summon elemental](3-Mechanics/CLI/spells/summon-elemental-xphb.md)*  
+- 5th level: [Greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md)  
 
 #### Fighting Style Options
 
@@ -486,35 +486,35 @@ The spells in the following list expand the ranger spell list in the "Player's H
 
 When you choose a fighting style, the following styles are added to your list of options.
 
-- [Blind Fighting](3-Mechanics/CLI/optional-features/blind-fighting-tce.md)  
-- [Druidic Warrior](3-Mechanics/CLI/optional-features/druidic-warrior-tce.md)  
-- [Thrown Weapon Fighting](3-Mechanics/CLI/optional-features/thrown-weapon-fighting-tce.md)  
+- [Blind Fighting](3-Mechanics/CLI/feats/blind-fighting-xphb.md)  
+- [Druidic Warrior](3-Mechanics/CLI/feats/druidic-warrior-xphb.md)  
+- [Thrown Weapon Fighting](3-Mechanics/CLI/feats/thrown-weapon-fighting-xphb.md)  
 
-[Spellcasting Focus](3-Mechanics/CLI/classes/ranger.md#Spellcasting%20Focus%20(Level%202)) (*2nd-level ranger feature*)
+Spellcasting Focus (*2nd-level ranger feature*)
 
-[Primal Awareness](3-Mechanics/CLI/classes/ranger.md#Primal%20Awareness%20(Level%203)) (*3rd-level ranger feature, which replaces the Primeval Awareness feature*)
+Primal Awareness (*3rd-level ranger feature, which replaces the Primeval Awareness feature*)
 
-[Martial Versatility](3-Mechanics/CLI/classes/ranger.md#Martial%20Versatility%20(Level%204)) (*4th-level ranger feature*)
+Martial Versatility (*4th-level ranger feature*)
 
-[Nature's Veil](3-Mechanics/CLI/classes/ranger.md#Nature's%20Veil%20(Level%2010)) (*10th-level ranger feature, which replaces the Hide in Plain Sight feature*)
+Nature's Veil (*10th-level ranger feature, which replaces the Hide in Plain Sight feature*)
 
 ### Ranger Archetypes
 
 At 3rd level, a ranger gains the Ranger Archetype feature, which offers you the choice of a subclass. The following options are available to you when making that choice: the Fey Wanderer and the Swarmkeeper.
 
-- [Fey Wanderer](3-Mechanics/CLI/classes/ranger-fey-wanderer-tce.md)  
-- [Swarmkeeper](3-Mechanics/CLI/classes/ranger-swarmkeeper-tce.md)  
+- [Fey Wanderer](3-Mechanics/CLI/classes/ranger-xphb-fey-wanderer-xphb.md)  
+- Swarmkeeper  
 
 > [!gallery]
-> ![A Halfling Ranger explores the wilds](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/039-01-048.webp#gallery)
-> ![Human Fey Wanderer](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/040-01-049.webp#gallery)
-> ![Gnome Swarmkeeper](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/041-01-050.webp#gallery)
+> ![A Halfling Ranger explores the wilds](file://book/TCE/039-01-048.webp#gallery)
+> ![Human Fey Wanderer](file://book/TCE/040-01-049.webp#gallery)
+> ![Gnome Swarmkeeper](file://book/TCE/041-01-050.webp#gallery)
 
 ### Beast Master Companions
 
-The [Beast Master](3-Mechanics/CLI/classes/ranger.md) in the "Player's Handbook" forms a mystical bond with an animal. As an alternative, a Beast Master can take the feature below to form a bond with a special primal beast instead.
+The [Beast Master](3-Mechanics/CLI/classes/ranger-xphb.md) in the "Player's Handbook" forms a mystical bond with an animal. As an alternative, a Beast Master can take the feature below to form a bond with a special primal beast instead.
 
-[Primal Companion](3-Mechanics/CLI/classes/ranger-beast-master.md#Primal%20Companion%20(Level%203)) (*3rd-level Beast Master feature, which replaces the Ranger's Companion feature*)
+Primal Companion (*3rd-level Beast Master feature, which replaces the Ranger's Companion feature*)
 
 ## Rogue
 
@@ -524,19 +524,19 @@ The rogue class receives new features and subclasses in this section.
 
 You gain class features in the "Player's Handbook" when you reach certain levels in your class. This section offers an additional feature that you can gain as a rogue. Unlike the features in the "Player's Handbook", you don't gain the feature here automatically. Consulting with your DM, you decide whether to gain the feature in this section if you meet the level requirement noted in the feature's description.
 
-[Steady Aim](3-Mechanics/CLI/classes/rogue.md#Steady%20Aim%20(Level%203)) (*3rd-level rogue feature*)
+Steady Aim (*3rd-level rogue feature*)
 
 ### Roguish Archetypes
 
 At 3rd level, a rogue gains the Roguish Archetype feature, which offers you the choice of a subclass. The following options are available to you when making that choice: the Phantom and the Soulknife.
 
-- [Phantom](3-Mechanics/CLI/classes/rogue-phantom-tce.md)  
-- [Soulknife](3-Mechanics/CLI/classes/rogue-soulknife-tce.md)  
+- [Phantom](3-Mechanics/CLI/classes/rogue-xphb-phantom-rhw.md)  
+- [Soulknife](3-Mechanics/CLI/classes/rogue-xphb-soulknife-xphb.md)  
 
 > [!gallery]
-> ![A Drow Rogue takes aim.](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/043-01-053.webp#gallery)
-> ![Tiefling Phantom](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/044-01-054.webp#gallery)
-> ![Halfling Soulknife](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/045-01-055.webp#gallery)
+> ![A Drow Rogue takes aim.](file://book/TCE/043-01-053.webp#gallery)
+> ![Tiefling Phantom](file://book/TCE/044-01-054.webp#gallery)
+> ![Halfling Soulknife](file://book/TCE/045-01-055.webp#gallery)
 
 ## Sorcerer
 
@@ -552,34 +552,34 @@ You gain class features in the "Player's Handbook" when you reach certain levels
 
 The spells in the following list expand the sorcerer spell list in the "Player's Handbook". The list is organized by spell level, not character level. If a spell can be cast as a ritual, the ritual tag appears after the spell's name. Each spell is in the "Player's Handbook", unless it has an asterisk (a spell in chapter 3). "Xanathar's Guide to Everything" also offers more spells.
 
-- Cantrip (0 Level): [Booming blade](3-Mechanics/CLI/spells/booming-blade-tce.md),* [Green-flame blade](3-Mechanics/CLI/spells/green-flame-blade-tce.md),* [Lightning lure](3-Mechanics/CLI/spells/lightning-lure-tce.md),* [Mind sliver](3-Mechanics/CLI/spells/mind-sliver-tce.md),* [Sword burst](3-Mechanics/CLI/spells/sword-burst-tce.md)*  
-- 1st Level: [Grease](3-Mechanics/CLI/spells/grease.md), [Tasha's caustic brew](3-Mechanics/CLI/spells/tashas-caustic-brew-tce.md)*  
-- 2nd Level: [Flame blade](3-Mechanics/CLI/spells/flame-blade.md), [Flaming sphere](3-Mechanics/CLI/spells/flaming-sphere.md), [Magic weapon](3-Mechanics/CLI/spells/magic-weapon.md), [Tasha's mind whip](3-Mechanics/CLI/spells/tashas-mind-whip-tce.md)*  
-- 3rd Level: [Intellect fortress](3-Mechanics/CLI/spells/intellect-fortress-tce.md),* [Vampiric touch](3-Mechanics/CLI/spells/vampiric-touch.md)  
-- 4th Level: [Fire shield](3-Mechanics/CLI/spells/fire-shield.md)  
-- 5th Level: [Bigby's hand](3-Mechanics/CLI/spells/bigbys-hand.md)  
-- 6th Level: [Flesh to stone](3-Mechanics/CLI/spells/flesh-to-stone.md), [Otiluke's freezing sphere](3-Mechanics/CLI/spells/otilukes-freezing-sphere.md), [Tasha's otherworldly guise](3-Mechanics/CLI/spells/tashas-otherworldly-guise-tce.md)*  
+- Cantrip (0 Level): [Booming blade](3-Mechanics/CLI/spells/booming-blade-tce.md),* [Green-flame blade](3-Mechanics/CLI/spells/green-flame-blade-tce.md),* [Lightning lure](3-Mechanics/CLI/spells/lightning-lure-tce.md),* [Mind sliver](3-Mechanics/CLI/spells/mind-sliver-xphb.md),* [Sword burst](3-Mechanics/CLI/spells/sword-burst-tce.md)*  
+- 1st Level: [Grease](3-Mechanics/CLI/spells/grease-xphb.md), [Tasha's caustic brew](3-Mechanics/CLI/spells/tashas-caustic-brew-tce.md)*  
+- 2nd Level: [Flame blade](3-Mechanics/CLI/spells/flame-blade-xphb.md), [Flaming sphere](3-Mechanics/CLI/spells/flaming-sphere-xphb.md), [Magic weapon](3-Mechanics/CLI/spells/magic-weapon-xphb.md), [Tasha's mind whip](3-Mechanics/CLI/spells/tashas-mind-whip-tce.md)*  
+- 3rd Level: [Intellect fortress](3-Mechanics/CLI/spells/intellect-fortress-tce.md),* [Vampiric touch](3-Mechanics/CLI/spells/vampiric-touch-xphb.md)  
+- 4th Level: [Fire shield](3-Mechanics/CLI/spells/fire-shield-xphb.md)  
+- 5th Level: [Bigby's hand](3-Mechanics/CLI/spells/bigbys-hand-xphb.md)  
+- 6th Level: [Flesh to stone](3-Mechanics/CLI/spells/flesh-to-stone-xphb.md), [Otiluke's freezing sphere](3-Mechanics/CLI/spells/otilukes-freezing-sphere-xphb.md), [Tasha's otherworldly guise](3-Mechanics/CLI/spells/tashas-otherworldly-guise-tce.md)*  
 - 7th Level: [Dream of the blue veil](3-Mechanics/CLI/spells/dream-of-the-blue-veil-tce.md)*  
-- 8th Level: [Demiplane](3-Mechanics/CLI/spells/demiplane.md)  
-- 9th Level: [Blade of disaster](3-Mechanics/CLI/spells/blade-of-disaster-tce.md)*  
+- 8th Level: [Demiplane](3-Mechanics/CLI/spells/demiplane-xphb.md)  
+- 9th Level: [Blade of disaster](3-Mechanics/CLI/spells/blade-of-disaster-frhof.md)*  
 
-[Metamagic Options](3-Mechanics/CLI/classes/sorcerer.md#Metamagic%20Options%20(Level%203)) (*3rd-level sorcerer feature*)
+Metamagic Options (*3rd-level sorcerer feature*)
 
-[Sorcerous Versatility](3-Mechanics/CLI/classes/sorcerer.md#Sorcerous%20Versatility%20(Level%204)) (*4th-level sorcerer feature*)
+Sorcerous Versatility (*4th-level sorcerer feature*)
 
-[Magical Guidance](3-Mechanics/CLI/classes/sorcerer.md#Magical%20Guidance%20(Level%205)) (*5th-level sorcerer feature*)
+Magical Guidance (*5th-level sorcerer feature*)
 
 ### Sorcerous Origins
 
 At 1st level, a sorcerer gains the Sorcerous Origin feature, which offers you the choice of a subclass. The following options are available to you when making that choice: the Aberrant Mind and the Clockwork Soul.
 
-- [Aberrant Mind](3-Mechanics/CLI/classes/sorcerer-aberrant-mind-tce.md)  
-- [Clockwork Soul](3-Mechanics/CLI/classes/sorcerer-clockwork-soul-tce.md)  
+- [Aberrant Mind](3-Mechanics/CLI/classes/sorcerer-xphb-aberrant-sorcery-xphb.md)  
+- [Clockwork Soul](3-Mechanics/CLI/classes/sorcerer-xphb-clockwork-sorcery-xphb.md)  
 
 > [!gallery]
-> ![A Sorcerer uses transmuted spell](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/047-01-058.webp#gallery)
-> ![Tiefling Aberrant Mind](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/048-01-059.webp#gallery)
-> ![Human Clockwork Soul](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/049-01-060.webp#gallery)
+> ![A Sorcerer uses transmuted spell](file://book/TCE/047-01-058.webp#gallery)
+> ![Tiefling Aberrant Mind](file://book/TCE/048-01-059.webp#gallery)
+> ![Human Clockwork Soul](file://book/TCE/049-01-060.webp#gallery)
 
 ## Warlock
 
@@ -595,13 +595,13 @@ You gain class features in the "Player's Handbook" when you reach certain levels
 
 The spells in the following list expand the warlock spell list in the "Player's Handbook". The list is organized by spell level, not character level. Each spell is in the "Player's Handbook", unless it has an asterisk (a spell in chapter 3). "Xanathar's Guide to Everything" also offers more spells.
 
-- Cantrip (0 level): [Booming blade](3-Mechanics/CLI/spells/booming-blade-tce.md),* [Green-flame blade](3-Mechanics/CLI/spells/green-flame-blade-tce.md),* [Lightning lure](3-Mechanics/CLI/spells/lightning-lure-tce.md),* [Mind sliver](3-Mechanics/CLI/spells/mind-sliver-tce.md),* [Sword burst](3-Mechanics/CLI/spells/sword-burst-tce.md)*  
-- 3rd level: [Intellect fortress](3-Mechanics/CLI/spells/intellect-fortress-tce.md),* [Spirit shroud](3-Mechanics/CLI/spells/spirit-shroud-tce.md),* [Summon fey](3-Mechanics/CLI/spells/summon-fey-tce.md),* [Summon Shadowspawn](3-Mechanics/CLI/spells/summon-shadowspawn-tce.md),* [Summon undead](3-Mechanics/CLI/spells/summon-undead-tce.md)*  
-- 4th level: [Summon aberration](3-Mechanics/CLI/spells/summon-aberration-tce.md)*  
-- 5th level: [Mislead](3-Mechanics/CLI/spells/mislead.md), [Planar binding](3-Mechanics/CLI/spells/planar-binding.md), [Teleportation circle](3-Mechanics/CLI/spells/teleportation-circle.md)  
-- 6th level: [Summon fiend](3-Mechanics/CLI/spells/summon-fiend-tce.md),* [Tasha's otherworldly guise](3-Mechanics/CLI/spells/tashas-otherworldly-guise-tce.md)*  
+- Cantrip (0 level): [Booming blade](3-Mechanics/CLI/spells/booming-blade-tce.md),* [Green-flame blade](3-Mechanics/CLI/spells/green-flame-blade-tce.md),* [Lightning lure](3-Mechanics/CLI/spells/lightning-lure-tce.md),* [Mind sliver](3-Mechanics/CLI/spells/mind-sliver-xphb.md),* [Sword burst](3-Mechanics/CLI/spells/sword-burst-tce.md)*  
+- 3rd level: [Intellect fortress](3-Mechanics/CLI/spells/intellect-fortress-tce.md),* [Spirit shroud](3-Mechanics/CLI/spells/spirit-shroud-tce.md),* [Summon fey](3-Mechanics/CLI/spells/summon-fey-xphb.md),* [Summon Shadowspawn](3-Mechanics/CLI/spells/summon-shadowspawn-tce.md),* [Summon undead](3-Mechanics/CLI/spells/summon-undead-xphb.md)*  
+- 4th level: [Summon aberration](3-Mechanics/CLI/spells/summon-aberration-xphb.md)*  
+- 5th level: [Mislead](3-Mechanics/CLI/spells/mislead-xphb.md), [Planar binding](3-Mechanics/CLI/spells/planar-binding-xphb.md), [Teleportation circle](3-Mechanics/CLI/spells/teleportation-circle-xphb.md)  
+- 6th level: [Summon fiend](3-Mechanics/CLI/spells/summon-fiend-xphb.md),* [Tasha's otherworldly guise](3-Mechanics/CLI/spells/tashas-otherworldly-guise-tce.md)*  
 - 7th level: [Dream of the blue veil](3-Mechanics/CLI/spells/dream-of-the-blue-veil-tce.md)*  
-- 9th level: [Blade of disaster](3-Mechanics/CLI/spells/blade-of-disaster-tce.md),* [Gate](3-Mechanics/CLI/spells/gate.md), [Weird](3-Mechanics/CLI/spells/weird.md)  
+- 9th level: [Blade of disaster](3-Mechanics/CLI/spells/blade-of-disaster-frhof.md),* [Gate](3-Mechanics/CLI/spells/gate-xphb.md), [Weird](3-Mechanics/CLI/spells/weird-xphb.md)  
 
 #### Pact Boon Option
 
@@ -611,17 +611,17 @@ When you choose your Pact Boon feature, the following option is available to you
 
 [Pact of the Talisman](3-Mechanics/CLI/optional-features/pact-of-the-talisman-tce.md)
 
-[Eldritch Versatility](3-Mechanics/CLI/classes/warlock.md#Eldritch%20Versatility%20(Level%204)) (*4th-level warlock feature*)
+Eldritch Versatility (*4th-level warlock feature*)
 
 #### Eldritch Invocation Options
 
 When you choose eldritch invocations, you have access to these additional options.
 
 - [Bond of the Talisman](3-Mechanics/CLI/optional-features/bond-of-the-talisman-tce.md)  
-- [Eldritch Mind](3-Mechanics/CLI/optional-features/eldritch-mind-tce.md)  
+- [Eldritch Mind](3-Mechanics/CLI/optional-features/eldritch-mind-xphb.md)  
 - [Far Scribe](3-Mechanics/CLI/optional-features/far-scribe-tce.md)  
-- [Gift of the Protectors](3-Mechanics/CLI/optional-features/gift-of-the-protectors-tce.md)  
-- [Investment of the Chain Master](3-Mechanics/CLI/optional-features/investment-of-the-chain-master-tce.md)  
+- [Gift of the Protectors](3-Mechanics/CLI/optional-features/gift-of-the-protectors-xphb.md)  
+- [Investment of the Chain Master](3-Mechanics/CLI/optional-features/investment-of-the-chain-master-xphb.md)  
 - [Protection of the Talisman](3-Mechanics/CLI/optional-features/protection-of-the-talisman-tce.md)  
 - [Rebuke of the Talisman](3-Mechanics/CLI/optional-features/rebuke-of-the-talisman-tce.md)  
 - [Undying Servitude](3-Mechanics/CLI/optional-features/undying-servitude-tce.md)  
@@ -630,13 +630,13 @@ When you choose eldritch invocations, you have access to these additional option
 
 At 1st level, a warlock gains the Otherworldly Patron feature, which offers you the choice of a subclass. The following options are available to you when making that choice: the Fathomless and the Genie.
 
-- [The Fathomless](3-Mechanics/CLI/classes/warlock-the-fathomless-tce.md)  
-- [The Genie](3-Mechanics/CLI/classes/warlock-the-genie-tce.md)  
+- The Fathomless  
+- The Genie  
 
 > [!gallery]
-> ![A tiefling warlock calls o...](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/051-01-063.webp#gallery "A tiefling warlock calls on the power of his talisman.")
-> ![Human Warlock of the Fathomless](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/052-01-064.webp#gallery)
-> ![A warlock uses a genie's v...](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/053-01-065.webp#gallery "A warlock uses a genie's vessel to battle a cyclops.")
+> ![A tiefling warlock calls on the power of his talisman.](file://book/TCE/051-01-063.webp#gallery)
+> ![Human Warlock of the Fathomless](file://book/TCE/052-01-064.webp#gallery)
+> ![A warlock uses a genie's vessel to battle a cyclops.](file://book/TCE/053-01-065.webp#gallery)
 
 ## Wizard
 
@@ -652,48 +652,48 @@ You gain class features in the "Player's Handbook" when you reach certain levels
 
 The spells in the following list expand the wizard spell list in the "Player's Handbook". The list is organized by spell level, not character level. A spell's school of magic is noted, and if a spell can be cast as a ritual, the ritual tag appears after the spell's name. Each spell is in the "Player's Handbook", unless it has an asterisk (a spell in chapter 3). "Xanathar's Guide to Everything" also offers more spells.
 
-- Cantrip (0 level): [Booming blade](3-Mechanics/CLI/spells/booming-blade-tce.md),* (evoc.) [Green-flame blade](3-Mechanics/CLI/spells/green-flame-blade-tce.md),* (evoc.) [Lightning lure](3-Mechanics/CLI/spells/lightning-lure-tce.md),* (evoc.) [Mind sliver](3-Mechanics/CLI/spells/mind-sliver-tce.md),* (ench.) [Sword burst](3-Mechanics/CLI/spells/sword-burst-tce.md)* (conj.)  
+- Cantrip (0 level): [Booming blade](3-Mechanics/CLI/spells/booming-blade-tce.md),* (evoc.) [Green-flame blade](3-Mechanics/CLI/spells/green-flame-blade-tce.md),* (evoc.) [Lightning lure](3-Mechanics/CLI/spells/lightning-lure-tce.md),* (evoc.) [Mind sliver](3-Mechanics/CLI/spells/mind-sliver-xphb.md),* (ench.) [Sword burst](3-Mechanics/CLI/spells/sword-burst-tce.md)* (conj.)  
 - 1st level: [Tasha's caustic brew](3-Mechanics/CLI/spells/tashas-caustic-brew-tce.md)* (evoc.)  
-- 2nd level: [Augury](3-Mechanics/CLI/spells/augury.md), (divin., ritual) [Enhance ability](3-Mechanics/CLI/spells/enhance-ability.md), (trans.) [Tasha's mind whip](3-Mechanics/CLI/spells/tashas-mind-whip-tce.md)* (ench.)  
-- 3rd level: [Intellect fortress](3-Mechanics/CLI/spells/intellect-fortress-tce.md),* (abjur.) [Speak with dead](3-Mechanics/CLI/spells/speak-with-dead.md), (necro.) [Spirit shroud](3-Mechanics/CLI/spells/spirit-shroud-tce.md),* (necro.) [Summon fey](3-Mechanics/CLI/spells/summon-fey-tce.md),* (conj.) [Summon Shadowspawn](3-Mechanics/CLI/spells/summon-shadowspawn-tce.md),* (conj.) [Summon undead](3-Mechanics/CLI/spells/summon-undead-tce.md)* (conj.)  
-- 4th level: [Divination](3-Mechanics/CLI/spells/divination.md), (divin., ritual) [Summon aberration](3-Mechanics/CLI/spells/summon-aberration-tce.md),* (conj.) [Summon construct](3-Mechanics/CLI/spells/summon-construct-tce.md),* (conj.) [Summon elemental](3-Mechanics/CLI/spells/summon-elemental-tce.md)* (conj.)  
-- 6th level: [Summon fiend](3-Mechanics/CLI/spells/summon-fiend-tce.md),* (conj.) [Tasha's otherworldly guise](3-Mechanics/CLI/spells/tashas-otherworldly-guise-tce.md)* (trans.)  
+- 2nd level: [Augury](3-Mechanics/CLI/spells/augury-xphb.md), (divin., ritual) [Enhance ability](3-Mechanics/CLI/spells/enhance-ability-xphb.md), (trans.) [Tasha's mind whip](3-Mechanics/CLI/spells/tashas-mind-whip-tce.md)* (ench.)  
+- 3rd level: [Intellect fortress](3-Mechanics/CLI/spells/intellect-fortress-tce.md),* (abjur.) [Speak with dead](3-Mechanics/CLI/spells/speak-with-dead-xphb.md), (necro.) [Spirit shroud](3-Mechanics/CLI/spells/spirit-shroud-tce.md),* (necro.) [Summon fey](3-Mechanics/CLI/spells/summon-fey-xphb.md),* (conj.) [Summon Shadowspawn](3-Mechanics/CLI/spells/summon-shadowspawn-tce.md),* (conj.) [Summon undead](3-Mechanics/CLI/spells/summon-undead-xphb.md)* (conj.)  
+- 4th level: [Divination](3-Mechanics/CLI/spells/divination-xphb.md), (divin., ritual) [Summon aberration](3-Mechanics/CLI/spells/summon-aberration-xphb.md),* (conj.) [Summon construct](3-Mechanics/CLI/spells/summon-construct-xphb.md),* (conj.) [Summon elemental](3-Mechanics/CLI/spells/summon-elemental-xphb.md)* (conj.)  
+- 6th level: [Summon fiend](3-Mechanics/CLI/spells/summon-fiend-xphb.md),* (conj.) [Tasha's otherworldly guise](3-Mechanics/CLI/spells/tashas-otherworldly-guise-tce.md)* (trans.)  
 - 7th level: [Dream of the blue veil](3-Mechanics/CLI/spells/dream-of-the-blue-veil-tce.md)* (conj.)  
-- 9th level: [Blade of disaster](3-Mechanics/CLI/spells/blade-of-disaster-tce.md)* (conj.)  
+- 9th level: [Blade of disaster](3-Mechanics/CLI/spells/blade-of-disaster-frhof.md)* (conj.)  
 
-[Cantrip Formulas](3-Mechanics/CLI/classes/wizard.md#Cantrip%20Formulas%20(Level%203)) (*3rd-level wizard feature*)
+Cantrip Formulas (*3rd-level wizard feature*)
 
 ### Arcane Traditions
 
 At 2nd level, a wizard gains the Arcane Tradition feature, which offers you the choice of a subclass. The following options are available to you when making that choice: Bladesinging and the Order of Scribes.
 
-- [Bladesinging](3-Mechanics/CLI/classes/wizard-bladesinging-tce.md)  
-- [Order of Scribes](3-Mechanics/CLI/classes/wizard-order-of-scribes-tce.md)  
+- [Bladesinging](3-Mechanics/CLI/classes/wizard-xphb-bladesinger-frhof.md)  
+- Order of Scribes  
 
 > [!gallery]
-> ![A Drow and a High Elf Bladesinger](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/055-01-068.webp#gallery)
-> ![Human Wizard, Order of Scribes](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/056-01-069.webp#gallery)
+> ![A Drow and a High Elf Bladesinger](file://book/TCE/055-01-068.webp#gallery)
+> ![Human Wizard, Order of Scribes](file://book/TCE/056-01-069.webp#gallery)
 
 ## Feats
 
 New feats are presented here in alphabetical order for groups that use them.
 
 - [Artificer Initiate](3-Mechanics/CLI/feats/artificer-initiate-tce.md)  
-- [Chef](3-Mechanics/CLI/feats/chef-tce.md)  
-- [Crusher](3-Mechanics/CLI/feats/crusher-tce.md)  
+- [Chef](3-Mechanics/CLI/feats/chef-xphb.md)  
+- [Crusher](3-Mechanics/CLI/feats/crusher-xphb.md)  
 - [Eldritch Adept](3-Mechanics/CLI/feats/eldritch-adept-tce.md)  
-- [Fey Touched](3-Mechanics/CLI/feats/fey-touched-tce.md)  
+- [Fey Touched](3-Mechanics/CLI/feats/fey-touched-xphb.md)  
 - [Fighting Initiate](3-Mechanics/CLI/feats/fighting-initiate-tce.md)  
 - [Gunner](3-Mechanics/CLI/feats/gunner-tce.md)  
 - [Metamagic Adept](3-Mechanics/CLI/feats/metamagic-adept-tce.md)  
-- [Piercer](3-Mechanics/CLI/feats/piercer-tce.md)  
-- [Poisoner](3-Mechanics/CLI/feats/poisoner-tce.md)  
-- [Shadow Touched](3-Mechanics/CLI/feats/shadow-touched-tce.md)  
-- [Skill Expert](3-Mechanics/CLI/feats/skill-expert-tce.md)  
-- [Slasher](3-Mechanics/CLI/feats/slasher-tce.md)  
-- [Telekinetic](3-Mechanics/CLI/feats/telekinetic-tce.md)  
-- [Telepathic](3-Mechanics/CLI/feats/telepathic-tce.md)  
+- [Piercer](3-Mechanics/CLI/feats/piercer-xphb.md)  
+- [Poisoner](3-Mechanics/CLI/feats/poisoner-xphb.md)  
+- [Shadow Touched](3-Mechanics/CLI/feats/shadow-touched-xphb.md)  
+- [Skill Expert](3-Mechanics/CLI/feats/skill-expert-xphb.md)  
+- [Slasher](3-Mechanics/CLI/feats/slasher-xphb.md)  
+- [Telekinetic](3-Mechanics/CLI/feats/telekinetic-xphb.md)  
+- [Telepathic](3-Mechanics/CLI/feats/telepathic-xphb.md)  
 
 > [!gallery]
-> ![Eldritch Adept](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/057-01-070.webp#gallery)
-> ![Astride a unicorn, a telep...](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/058-01-071.webp#gallery "Astride a unicorn, a telepathic bard inspires her wizard companion.")
+> ![Eldritch Adept](file://book/TCE/057-01-070.webp#gallery)
+> ![Astride a unicorn, a telepathic bard inspires her wizard companion.](file://book/TCE/058-01-071.webp#gallery)

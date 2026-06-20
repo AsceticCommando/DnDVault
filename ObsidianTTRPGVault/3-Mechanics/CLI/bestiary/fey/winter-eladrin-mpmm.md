@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Winter Eladrin"
 ---
-# [Winter Eladrin](3-Mechanics\CLI\bestiary\fey/winter-eladrin-mpmm.md)
+# [Winter Eladrin](3-Mechanics/CLI/bestiary/fey/winter-eladrin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 117, Mordenkainen's Tome of Foes p. 197*  
 
 When sorrow distresses eladrin, they enter the winter season, becoming figures of melancholy. Frozen tears drop from their cheeks, and their palpable sadness emanates from them as icy cold.
@@ -58,8 +58,8 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 "speed": "30 ft."
 "damage_resistances": "cold"
 "gear":
-  - "[longbow](3-Mechanics/CLI/items/longbow.md)"
-  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
+  - "[longbow](3-Mechanics/CLI/items/longbow-xphb.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 13"
 "languages": "Common, Elvish, Sylvan"
@@ -94,8 +94,8 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
     "name": "Longbow"
   - "desc": "The eladrin casts one of the following spells, requiring no material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 16):\n\n**At will:** [fog cloud](3-Mechanics/CLI/spells/fog-cloud.md),\
-      \ [gust of wind](3-Mechanics/CLI/spells/gust-of-wind.md), [sleet storm](3-Mechanics/CLI/spells/sleet-storm.md)"
+      \ DC 16):\n\n**At will:** [fog cloud](3-Mechanics/CLI/spells/fog-cloud-xphb.md),\
+      \ [gust of wind](3-Mechanics/CLI/spells/gust-of-wind-xphb.md), [sleet storm](3-Mechanics/CLI/spells/sleet-storm-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The eladrin teleports, along with any equipment it is wearing or carrying,\
@@ -109,7 +109,7 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/fey/token/winter-eladrin-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Winter%20Eladrin.webp"
 ```
 ^statblock
 

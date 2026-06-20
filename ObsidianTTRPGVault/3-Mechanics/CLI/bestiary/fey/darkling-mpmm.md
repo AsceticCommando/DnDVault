@@ -16,7 +16,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Darkling"
 ---
-# [Darkling](3-Mechanics\CLI\bestiary\fey/darkling-mpmm.md)
+# [Darkling](3-Mechanics/CLI/bestiary/fey/darkling-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 84, Volo's Guide to Monsters p. 134*  
 
 The Summer Queen's curse causes a darkling's body to absorb light, which wizens the creature, much like the effect of rapid aging. For this reason, darklings cover their entire bodies with clothing when exposure to light is a risk. The light darklings absorb over the course of their lives explodes outward when they die, incinerating the creatures and much of their possessions.
@@ -31,7 +31,7 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
 "type": "fey"
 "alignment": "Typically  Chaotic Neutral"
 "ac": !!int "14"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "13"
 "hit_dice": "3d6 + 3"
 "modifier": !!int "3"
@@ -53,7 +53,7 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+7"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
 "senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 15"
 "languages": "Elvish, Sylvan"
@@ -77,7 +77,7 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/fey/token/darkling-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Darkling.webp"
 ```
 ^statblock
 

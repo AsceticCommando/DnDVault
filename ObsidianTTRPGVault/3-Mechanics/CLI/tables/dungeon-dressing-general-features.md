@@ -12,6 +12,8 @@ aliases:
 
 **General Features**
 
+`dice: [](dungeon-dressing-general-features.md#^general-features)`
+
 | dice: d100 | Item |
 |------------|------|
 | 1 | Arrow, broken |

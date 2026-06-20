@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Sword Wraith Commander"
 ---
-# [Sword Wraith Commander](3-Mechanics\CLI\bestiary\undead/sword-wraith-commander-mpmm.md)
+# [Sword Wraith Commander](3-Mechanics/CLI/bestiary/undead/sword-wraith-commander-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 239, Mordenkainen's Tome of Foes p. 241*  
 
 Sword wraith commanders haunt battlefields, attacking anyone who questions their valor but looking kindly on those who sing their praises.
@@ -29,7 +29,7 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 "type": "undead"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "18"
-"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "127"
 "hit_dice": "15d8 + 60"
 "modifier": !!int "2"
@@ -50,8 +50,8 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
   \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
   \ [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)"
 "gear":
-  - "[longbow](3-Mechanics/CLI/items/longbow.md)"
-  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
+  - "[longbow](3-Mechanics/CLI/items/longbow-xphb.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 14"
 "languages": "the languages it knew in life"
@@ -86,7 +86,7 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/undead/token/sword-wraith-commander-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Sword%20Wraith%20Commander.webp"
 ```
 ^statblock
 

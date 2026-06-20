@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Returned Drifter"
 ---
-# [Returned Drifter](3-Mechanics\CLI\bestiary\undead/returned-drifter-mot.md)
+# [Returned Drifter](3-Mechanics/CLI/bestiary/undead/returned-drifter-mot.md)
 *Source: Mythic Odysseys of Theros p. 240*  
 
 Many Returned are pitiable souls who managed to escape from the Underworld only to find themselves stripped of the passions that motivated their flight. Lacking purpose and shunned by the living, these Returned typically seek places where they'll be left in peace, such as lonely tombs or the necropoleis of Asphodel and Odunos. There they go through half-hearted parodies of life, impeded by distraction and ennui. Despite this, even the most languorous Returned defend themselves if threatened and might be pressed into the service of their more willful brethren.
@@ -27,7 +27,7 @@ Returned reenter the world blank and undead. No longer possessing the ability to
 "type": "undead"
 "alignment": "Lawful Neutral"
 "ac": !!int "13"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
 "modifier": !!int "2"
@@ -43,8 +43,8 @@ Returned reenter the world blank and undead. No longer possessing the ability to
 "damage_immunities": "poison"
 "condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
 "gear":
-  - "[scimitar](3-Mechanics/CLI/items/scimitar.md)"
-  - "[sling](3-Mechanics/CLI/items/sling.md)"
+  - "[scimitar](3-Mechanics/CLI/items/scimitar-xphb.md)"
+  - "[sling](3-Mechanics/CLI/items/sling-xphb.md)"
 "senses": "passive Perception 11"
 "languages": "the languages it knew in life"
 "cr": "1/4"
@@ -65,6 +65,6 @@ Returned reenter the world blank and undead. No longer possessing the ability to
     "name": "Sling"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/undead/token/returned-drifter-mot.webp"
+"image": "file://bestiary/tokens/MOT/Returned%20Drifter.webp"
 ```
 ^statblock

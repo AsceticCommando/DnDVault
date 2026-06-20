@@ -16,7 +16,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Flind"
 ---
-# [Flind](3-Mechanics\CLI\bestiary\fiend/flind-mpmm.md)
+# [Flind](3-Mechanics/CLI/bestiary/fiend/flind-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 127, Volo's Guide to Monsters p. 153*  
 
 When the demon lord Yeenoghu wants to create a particularly fearsome war band leader, he transforms an exceptionally strong and vicious gnoll into a demonic warrior known as a flind.
@@ -32,7 +32,7 @@ Unlike other leaders who might skulk behind their minions, a flind leads the cha
 "subtype": "gnoll"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "16"
-"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate.md)"
+"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate-xphb.md)"
 "hp": !!int "127"
 "hit_dice": "15d8 + 60"
 "modifier": !!int "2"
@@ -53,7 +53,7 @@ Unlike other leaders who might skulk behind their minions, a flind leads the cha
   - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
 "gear":
-  - "[longbow](3-Mechanics/CLI/items/longbow.md)"
+  - "[longbow](3-Mechanics/CLI/items/longbow-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 15"
 "languages": "Gnoll, Abyssal"
@@ -88,7 +88,7 @@ Unlike other leaders who might skulk behind their minions, a flind leads the cha
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/flind-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Flind.webp"
 ```
 ^statblock
 

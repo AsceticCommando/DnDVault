@@ -11,4 +11,4 @@ aliases:
 
 ## 2nd Level
 
-- [Gentle Repose](3-Mechanics/CLI/spells/gentle-repose.md "PHB")
+- [Gentle Repose](3-Mechanics/CLI/spells/gentle-repose-xphb.md "XPHB")

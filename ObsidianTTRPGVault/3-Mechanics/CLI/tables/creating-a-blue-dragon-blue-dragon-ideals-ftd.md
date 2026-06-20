@@ -12,6 +12,8 @@ aliases:
 
 **Blue Dragon Ideals**
 
+`dice: [](creating-a-blue-dragon-blue-dragon-ideals-ftd.md#^blue-dragon-ideals)`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Order. Life is best when everyone is part of a hierarchy and rules are clear and consistent. (Lawful) |

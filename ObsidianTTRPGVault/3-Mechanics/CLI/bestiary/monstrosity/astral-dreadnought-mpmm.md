@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Astral Dreadnought"
 ---
-# [Astral Dreadnought](3-Mechanics\CLI\bestiary\monstrosity/astral-dreadnought-mpmm.md)
+# [Astral Dreadnought](3-Mechanics/CLI/bestiary/monstrosity/astral-dreadnought-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 51, Mordenkainen's Tome of Foes p. 117*  
 
 Enormous and terrifying, astral dreadnoughts haunt the silvery void of the Astral Plane, causing planar travelers to shudder at the very thought of them. Dreadnoughts have been gliding through the astral mists since the dawn of the multiverse, trying to devour all other creatures they encounter.
@@ -55,19 +55,19 @@ Covered from head to tail in layers of thick, spiked plates, a dreadnought has t
 "cr": "21"
 "traits":
   - "desc": "The dreadnought's eye creates an area of antimagic, as in the [antimagic\
-      \ field](3-Mechanics/CLI/spells/antimagic-field.md) spell, in a 150-foot cone.\
-      \ At the start of each of its turns, it decides which way the cone faces. The\
-      \ cone doesn't function while the eye is closed or while the dreadnought is\
-      \ [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded)."
+      \ field](3-Mechanics/CLI/spells/antimagic-field-xphb.md) spell, in a 150-foot\
+      \ cone. At the start of each of its turns, it decides which way the cone faces.\
+      \ The cone doesn't function while the eye is closed or while the dreadnought\
+      \ is [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded)."
     "name": "Antimagic Cone"
   - "desc": "The dreadnought can't leave the Astral Plane, nor can it be banished\
       \ or otherwise transported out of that plane."
     "name": "Astral Entity"
   - "desc": "Anything the dreadnought swallows is transported to a demiplane that\
-      \ can be entered by no other means except a [wish](3-Mechanics/CLI/spells/wish.md)\
+      \ can be entered by no other means except a [wish](3-Mechanics/CLI/spells/wish-xphb.md)\
       \ spell or the dreadnought's Bite and Donjon Visit. A creature can leave the\
       \ demiplane only by using magic that enables planar travel, such as the [plane\
-      \ shift](3-Mechanics/CLI/spells/plane-shift.md) spell. The demiplane resembles\
+      \ shift](3-Mechanics/CLI/spells/plane-shift-xphb.md) spell. The demiplane resembles\
       \ a stone cave roughly 1,000 feet in diameter with a ceiling 100 feet high.\
       \ Like a stomach, it contains the remains of past meals. The dreadnought can't\
       \ be harmed from within the demiplane. If the dreadnought dies, the demiplane\
@@ -77,7 +77,7 @@ Covered from head to tail in layers of thick, spiked plates, a dreadnought has t
   - "desc": "If the dreadnought fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
   - "desc": "If the dreadnought scores a critical hit against a creature traveling\
-      \ by means of the [astral projection](3-Mechanics/CLI/spells/astral-projection.md)\
+      \ by means of the [astral projection](3-Mechanics/CLI/spells/astral-projection-xphb.md)\
       \ spell, the dreadnought can cut the target's silver cord instead of dealing\
       \ damage."
     "name": "Sever Silver Cord"
@@ -115,6 +115,6 @@ Covered from head to tail in layers of thick, spiked plates, a dreadnought has t
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/astral-dreadnought-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Astral%20Dreadnought.webp"
 ```
 ^statblock

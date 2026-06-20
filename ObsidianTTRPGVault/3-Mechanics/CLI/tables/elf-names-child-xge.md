@@ -12,6 +12,8 @@ aliases:
 
 **Elf Names – Child**
 
+`dice: [](elf-names-child-xge.md#^elf-names-child)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Ael |

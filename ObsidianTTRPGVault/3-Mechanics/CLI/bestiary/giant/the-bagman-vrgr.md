@@ -12,14 +12,14 @@ statblock-link: "#^statblock"
 aliases:
 - "The Bagman"
 ---
-# [The Bagman](3-Mechanics\CLI\bestiary\giant/the-bagman-vrgr.md)
+# [The Bagman](3-Mechanics/CLI/bestiary/giant/the-bagman-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 225*  
 
 ## Beware the Bagman
 
-The Bagman is an urban legend about an adventurer who sought to escape doom by abandoning his party and hiding inside a [bag of holding](3-Mechanics/CLI/items/bag-of-holding.md). When he tried to leave, though, he became lost amid a constantly increasing number of extradimensional storage spaces. Over time, the strange forces of this magical in-between place transformed the adventurer into a monstrous creature. Now, every night, the Bagman slips out from a random [bag of holding](3-Mechanics/CLI/items/bag-of-holding.md). If he doesn't find his home, he drags someone back into the bag with him and leaves behind some trinket from his hidden kingdom of lost junk. Some say that if you speak too loudly over an open [bag of holding](3-Mechanics/CLI/items/bag-of-holding.md) or whisper "follow my voice" into a magical storage space three times, the Bagman will come for you.
+The Bagman is an urban legend about an adventurer who sought to escape doom by abandoning his party and hiding inside a [bag of holding](3-Mechanics/CLI/items/bag-of-holding-xdmg.md). When he tried to leave, though, he became lost amid a constantly increasing number of extradimensional storage spaces. Over time, the strange forces of this magical in-between place transformed the adventurer into a monstrous creature. Now, every night, the Bagman slips out from a random [bag of holding](3-Mechanics/CLI/items/bag-of-holding-xdmg.md). If he doesn't find his home, he drags someone back into the bag with him and leaves behind some trinket from his hidden kingdom of lost junk. Some say that if you speak too loudly over an open [bag of holding](3-Mechanics/CLI/items/bag-of-holding-xdmg.md) or whisper "follow my voice" into a magical storage space three times, the Bagman will come for you.
 
-Any character might know the story of the Bagman. What the Bagman is and how you use this urban legend is up to you. Is there truly a Bagman, or is he just a story? If an object vanishes overnight or if someone finds something that isn't theirs in a [bag of holding](3-Mechanics/CLI/items/bag-of-holding.md), is the Bagman to blame? Is the Bagman just a monster that preys on adventurers, or is he the Darklord of his own hidden domain? The possibilities for horror adventures are endless, and nowhere—especially not adventurers' gear—is safe.
+Any character might know the story of the Bagman. What the Bagman is and how you use this urban legend is up to you. Is there truly a Bagman, or is he just a story? If an object vanishes overnight or if someone finds something that isn't theirs in a [bag of holding](3-Mechanics/CLI/items/bag-of-holding-xdmg.md), is the Bagman to blame? Is the Bagman just a monster that preys on adventurers, or is he the Darklord of his own hidden domain? The possibilities for horror adventures are endless, and nowhere—especially not adventurers' gear—is safe.
 
 ```statblock
 "name": "The Bagman (VRGR)"
@@ -78,6 +78,6 @@ Any character might know the story of the Bagman. What the Bagman is and how you
     "name": "Claw"
 "source":
   - "VRGR"
-"image": "3-Mechanics/CLI/bestiary/giant/token/the-bagman-vrgr.webp"
+"image": "file://bestiary/tokens/VRGR/The%20Bagman.webp"
 ```
 ^statblock

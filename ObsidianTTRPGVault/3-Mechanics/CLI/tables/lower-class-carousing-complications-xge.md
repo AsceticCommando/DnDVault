@@ -12,6 +12,8 @@ aliases:
 
 **Lower-Class Carousing Complications**
 
+`dice: [](lower-class-carousing-complications-xge.md#^lower-class-carousing-complications)`
+
 | dice: d8 | Complication |
 |----------|--------------|
 | 1 | A pickpocket lifts `1d10 × 5` gp from you.* |

@@ -12,6 +12,8 @@ aliases:
 
 **Archfey Obsession**
 
+`dice: [](obsessions-archfey-obsession-dod.md#^archfey-obsession)`
+
 | dice: d8 | Obsession |
 |----------|-----------|
 | 1 | **Beauty.** The archfey does everything in their power to rid their domain of that which they consider ugly. What they consider beautiful is not always clear, however. |

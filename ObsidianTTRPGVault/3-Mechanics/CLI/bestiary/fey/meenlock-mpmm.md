@@ -15,7 +15,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Meenlock"
 ---
-# [Meenlock](3-Mechanics\CLI\bestiary\fey/meenlock-mpmm.md)
+# [Meenlock](3-Mechanics/CLI/bestiary/fey/meenlock-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 178, Volo's Guide to Monsters p. 170*  
 
 Meenlocks are Fey that invoke terror and seek to destroy all that is good, innocent, and beautiful. These bipeds have the heads and claws of crustaceans, and they primarily live in forests, although they adapt well to urban and subterranean settings.
@@ -26,7 +26,7 @@ A meenlock can supernaturally sense areas of darkness and shadow in its vicinity
 
 ## Telepathic Torment
 
-Up to four meenlocks can telepathically torment one [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) creature, filling its mind with disturbing sounds and dreadful imagery. Participating meenlocks can't use their telepathy for any other purpose during this time, though they can move about and take actions and reactions as normal. This torment has no effect on a creature that is immune to the [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) condition. If the creature is susceptible and remains [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) for 1 hour, the creature must make a Wisdom saving throw, taking 10 (`3d6`) psychic damage on a failed save, or half as much damage on a successful one. The save DC is 10 + the number of meenlocks participating in the torment, considering only those that remain within sight of the victim for the entire hour and aren't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) during it. The process can be repeated. A Humanoid that drops to 0 hit points as a result of this damage instantly transforms into a meenlock at full health and under the DM's control. Only a [wish](3-Mechanics/CLI/spells/wish.md) spell or divine intervention can restore a transformed creature to its former state.
+Up to four meenlocks can telepathically torment one [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) creature, filling its mind with disturbing sounds and dreadful imagery. Participating meenlocks can't use their telepathy for any other purpose during this time, though they can move about and take actions and reactions as normal. This torment has no effect on a creature that is immune to the [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) condition. If the creature is susceptible and remains [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) for 1 hour, the creature must make a Wisdom saving throw, taking `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) psychic damage on a failed save, or half as much damage on a successful one. The save DC is 10 + the number of meenlocks participating in the torment, considering only those that remain within sight of the victim for the entire hour and aren't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) during it. The process can be repeated. A Humanoid that drops to 0 hit points as a result of this damage instantly transforms into a meenlock at full health and under the DM's control. Only a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell or divine intervention can restore a transformed creature to its former state.
 
 ```statblock
 "name": "Meenlock (MPMM)"
@@ -82,7 +82,7 @@ Up to four meenlocks can telepathically torment one [incapacitated](3-Mechanics/
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/fey/token/meenlock-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Meenlock.webp"
 ```
 ^statblock
 

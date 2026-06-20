@@ -10,15 +10,15 @@ aliases:
 # Fantastical Races
 *Source: Mordenkainen Presents: Monsters of the Multiverse, p. 5* 
 
-![](3-Mechanics/CLI/books/mordenkainen-presents-monsters-of-the-multiverse/img/01-001-ch1-splash.webp#center)
+![](file://book/MPMM/01-001.ch1-splash.webp#center)
 
 Gathering together fantastical races from throughout the D&D multiverse, this chapter offers the following races for player characters, supplementing the race options in the "Player's Handbook":
 
 - [Aarakocra](3-Mechanics/CLI/races/aarakocra-mpmm.md)  
-- [Aasimar](3-Mechanics/CLI/races/aasimar-mpmm.md)  
+- [Aasimar](3-Mechanics/CLI/races/aasimar-xphb.md)  
 - [Bugbear](3-Mechanics/CLI/races/bugbear-mpmm.md)  
 - [Centaur](3-Mechanics/CLI/races/centaur-mpmm.md)  
-- [Changeling](3-Mechanics/CLI/races/changeling-mpmm.md)  
+- [Changeling](3-Mechanics/CLI/races/changeling-efa.md)  
 - [Deep Gnome](3-Mechanics/CLI/races/deep-gnome-mpmm.md)  
 - [Duergar](3-Mechanics/CLI/races/duergar-mpmm.md)  
 - [Eladrin](3-Mechanics/CLI/races/eladrin-mpmm.md)  
@@ -31,18 +31,18 @@ Gathering together fantastical races from throughout the D&D multiverse, this ch
 - [Githyanki](3-Mechanics/CLI/races/githyanki-mpmm.md)  
 - [Githzerai](3-Mechanics/CLI/races/githzerai-mpmm.md)  
 - [Goblin](3-Mechanics/CLI/races/goblin-mpmm.md)  
-- [Goliath](3-Mechanics/CLI/races/goliath-mpmm.md)  
+- [Goliath](3-Mechanics/CLI/races/goliath-xphb.md)  
 - [Harengon](3-Mechanics/CLI/races/harengon-mpmm.md)  
 - [Hobgoblin](3-Mechanics/CLI/races/hobgoblin-mpmm.md)  
 - [Kenku](3-Mechanics/CLI/races/kenku-mpmm.md)  
 - [Kobold](3-Mechanics/CLI/races/kobold-mpmm.md)  
 - [Lizardfolk](3-Mechanics/CLI/races/lizardfolk-mpmm.md)  
 - [Minotaur](3-Mechanics/CLI/races/minotaur-mpmm.md)  
-- [Orc](3-Mechanics/CLI/races/orc-mpmm.md)  
+- [Orc](3-Mechanics/CLI/races/orc-xphb.md)  
 - [Satyr](3-Mechanics/CLI/races/satyr-mpmm.md)  
 - [Sea Elf](3-Mechanics/CLI/races/sea-elf-mpmm.md)  
 - [Shadar-kai](3-Mechanics/CLI/races/shadar-kai-mpmm.md)  
-- [Shifter](3-Mechanics/CLI/races/shifter-mpmm.md)  
+- [Shifter](3-Mechanics/CLI/races/shifter-efa.md)  
 - [Tabaxi](3-Mechanics/CLI/races/tabaxi-mpmm.md)  
 - [Tortle](3-Mechanics/CLI/races/tortle-mpmm.md)  
 - [Triton](3-Mechanics/CLI/races/triton-mpmm.md)  
@@ -64,7 +64,7 @@ Your character can speak, read, and write Common and one other language that you
 
 ### Creature Type
 
-Every creature in D&D, including each player character, has a special tag in the rules that identifies the type of creature they are. Most player characters are of the Humanoid type. A race in this chapter tells you what your character's creature type is. Here's a list of the game's creature types in alphabetical order: Aberration, Beast, Celestial, Construct, Dragon, Elemental, Fey, Fiend, Giant, Humanoid, Monstrosity, Ooze, Plant, Undead. These types don't have rules themselves, but some rules in the game affect creatures of certain types in different ways. For example, the [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md) spell doesn't work on a Construct or an Undead.
+Every creature in D&D, including each player character, has a special tag in the rules that identifies the type of creature they are. Most player characters are of the Humanoid type. A race in this chapter tells you what your character's creature type is. Here's a list of the game's creature types in alphabetical order: Aberration, Beast, Celestial, Construct, Dragon, Elemental, Fey, Fiend, Giant, Humanoid, Monstrosity, Ooze, Plant, Undead. These types don't have rules themselves, but some rules in the game affect creatures of certain types in different ways. For example, the [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md) spell doesn't work on a Construct or an Undead.
 
 ### Life Span
 

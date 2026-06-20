@@ -12,6 +12,8 @@ aliases:
 
 **Mind Flayer Bonds**
 
+`dice: [](roleplaying-a-mind-flayer-mind-flayer-bonds-vgm.md#^mind-flayer-bonds)`
+
 | dice: d6 | Bond |
 |----------|------|
 | 1 | I think the elder brain is wrong about something, and I want to convince it. |

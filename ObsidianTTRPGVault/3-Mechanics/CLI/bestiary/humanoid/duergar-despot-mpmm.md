@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Duergar Despot"
 ---
-# [Duergar Despot](3-Mechanics\CLI\bestiary\humanoid/duergar-despot-mpmm.md)
+# [Duergar Despot](3-Mechanics/CLI/bestiary/humanoid/duergar-despot-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 107, Mordenkainen's Tome of Foes p. 188*  
 
 Duergar despots replace parts of their bodies with mechanical devices that they control through their psionic abilities.
@@ -102,13 +102,13 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
     "name": "Flame Jet"
   - "desc": "The duergar casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 12):\n\n\
-      **At will:** [mage hand](3-Mechanics/CLI/spells/mage-hand.md), [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md)\n\
-      \n**1/day:** [stinking cloud](3-Mechanics/CLI/spells/stinking-cloud.md)"
+      **At will:** [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\
+      \n**1/day:** [stinking cloud](3-Mechanics/CLI/spells/stinking-cloud-xphb.md)"
     "name": "Spellcasting (Psionics)"
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/duergar-despot-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Duergar%20Despot.webp"
 ```
 ^statblock
 

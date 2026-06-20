@@ -12,8 +12,8 @@ aliases:
 - "Sword of Zariel"
 ---
 # Sword of Zariel
-*Weapon ([longsword](3-Mechanics/CLI/items/longsword.md)), artifact (requires attunement by a creature the sword deems worthy)*  
-![](3-Mechanics/CLI/items/img/sword-of-zariel.webp#right)
+*Weapon ([longsword](3-Mechanics/CLI/items/longsword-xphb.md)), artifact (requires attunement by a creature the sword deems worthy)*  
+![](file://items/BGDIA/Sword%20of%20Zariel.webp#right)
 
 - **Damage**:
   - One-handed: 1d8 slashing
@@ -36,6 +36,8 @@ The sword allows you to attune to it immediately, without having to take a short
 
     **Personality Traits**  
 
+    `dice: [](sword-of-zariel-bgdia.md#^personality-traits)`  
+
     | dice: d8 | Personality Trait |  
     |----------|-------------------|  
     | 1 | I treat all beings, even enemies, with respect. |  
@@ -50,6 +52,8 @@ The sword allows you to attune to it immediately, without having to take a short
 
     **Ideals**  
 
+    `dice: [](sword-of-zariel-bgdia.md#^ideals)`  
+
     | dice: d6 | Ideal |  
     |----------|-------|  
     | 1 | Charity. I always help those in need. (Good) |  
@@ -62,6 +66,8 @@ The sword allows you to attune to it immediately, without having to take a short
 
     **Bonds**  
 
+    `dice: [](sword-of-zariel-bgdia.md#^bonds)`  
+
     | dice: d6 | Bond |  
     |----------|------|  
     | 1 | I have a favorite religious hymn that I constantly hum. |  
@@ -73,6 +79,8 @@ The sword allows you to attune to it immediately, without having to take a short
     ^bonds  
 
     **Flaws**  
+
+    `dice: [](sword-of-zariel-bgdia.md#^flaws)`  
 
     | dice: d6 | Flaw |  
     |----------|------|  
@@ -92,11 +100,11 @@ As a bonus action, you can intensify the sword's light, causing it to shed brigh
 
 ## Random Properties
 
-The sword has 2 [minor beneficial properties](3-Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties.md).
+The sword has 2 [minor beneficial properties](3-Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties-xdmg.md).
 
 ## Searing Radiance
 
-The sword deals an extra 9 (`2d8`) radiant damage to any creature it hits, or 16 (`3d10`) radiant damage if you're wielding the weapon with two hands. An evil creature that takes this radiant damage must succeed on a DC 17 Constitution saving throw or be [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) until the end of its next turn.
+The sword deals an extra `dice:2d8|noform|noparens|avg|text(9)` (`2d8`) radiant damage to any creature it hits, or `dice:3d10|noform|noparens|avg|text(16)` (`3d10`) radiant damage if you're wielding the weapon with two hands. An evil creature that takes this radiant damage must succeed on a DC 17 Constitution saving throw or be [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) until the end of its next turn.
 
 ## Sentience
 

@@ -12,6 +12,8 @@ aliases:
 
 **Dungeon Purpose**
 
+`dice: [](dungeon-purpose.md#^dungeon-purpose)`
+
 | dice: d20 | Purpose |
 |-----------|---------|
 | 1 | Death trap |

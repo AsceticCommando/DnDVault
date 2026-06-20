@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Levna Drakehorn"
 ---
-# [Levna Drakehorn](3-Mechanics\CLI\bestiary\npc/levna-drakehorn-dsotdq.md)
+# [Levna Drakehorn](3-Mechanics/CLI/bestiary/npc/levna-drakehorn-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 213*  
 
 Though a recent inductee into the Order of the Rose, [Levna](3-Mechanics/CLI/bestiary/npc/levna-drakehorn-dsotdq.md) is a confident, experienced Solamnic knight. She is brave, decisive, and deadly with her two-handed sword. After a chance encounter with agents of the Blue Dragon Army, Levna was left with a distinctive, branching scar. She claims it came from the breath of a blue dragon, but few of her fellow Knights of Solamnia believe her.
@@ -24,7 +24,7 @@ Though a recent inductee into the Order of the Rose, [Levna](3-Mechanics/CLI/bes
 "subtype": "human"
 "alignment": "Lawful Good"
 "ac": !!int "18"
-"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor.md)"
+"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "13"
 "hit_dice": "2d8 + 4"
 "modifier": !!int "0"
@@ -46,7 +46,7 @@ Though a recent inductee into the Order of the Rose, [Levna](3-Mechanics/CLI/bes
   - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
 "gear":
-  - "[greatsword](3-Mechanics/CLI/items/greatsword.md)"
+  - "[greatsword](3-Mechanics/CLI/items/greatsword-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Common"
 "traits":
@@ -67,6 +67,6 @@ Though a recent inductee into the Order of the Rose, [Levna](3-Mechanics/CLI/bes
     "name": "Protection"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/npc/token/levna-drakehorn-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Levna%20Drakehorn.webp"
 ```
 ^statblock

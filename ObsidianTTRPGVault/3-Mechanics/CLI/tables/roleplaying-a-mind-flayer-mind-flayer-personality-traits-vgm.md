@@ -12,6 +12,8 @@ aliases:
 
 **Mind Flayer Personality Traits**
 
+`dice: [](roleplaying-a-mind-flayer-mind-flayer-personality-traits-vgm.md#^mind-flayer-personality-traits)`
+
 | dice: d8 | Personality Trait |
 |----------|-------------------|
 | 1 | I never let pass an opportunity to show my contempt for lesser beings. |

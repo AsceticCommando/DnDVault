@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Spellcaster"
 ---
-# [Spellcaster](3-Mechanics\CLI\bestiary\humanoid/spellcaster-esk.md)
+# [Spellcaster](3-Mechanics/CLI/bestiary/humanoid/spellcaster-esk.md)
 *Source: Essentials Kit p. 63*  
 
 ```statblock
@@ -21,7 +21,7 @@ aliases:
 "type": "humanoid"
 "alignment": "Unaligned"
 "ac": !!int "12"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "9"
 "hit_dice": "2d8"
 "modifier": !!int "1"
@@ -43,20 +43,21 @@ aliases:
   - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+4"
 "gear":
-  - "[quarterstaff](3-Mechanics/CLI/items/quarterstaff.md)"
+  - "[quarterstaff](3-Mechanics/CLI/items/quarterstaff-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Common, plus one of your choice"
 "traits":
   - "desc": "The spellcaster's spellcasting ability is Intelligence (spell save DC\
       \ 12, +4 to hit with spell attacks). The spellcaster has following wizard spells\
-      \ prepared:\n\n**Cantrips (at will):** [fire bolt](3-Mechanics/CLI/spells/fire-bolt.md),\
-      \ [light](3-Mechanics/CLI/spells/light.md)\n\n**1st level (2 slots):** [sleep](3-Mechanics/CLI/spells/sleep.md)"
+      \ prepared:\n\n**Cantrips (at will):** [fire bolt](3-Mechanics/CLI/spells/fire-bolt-xphb.md),\
+      \ [light](3-Mechanics/CLI/spells/light-xphb.md)\n\n**1st level (2 slots):**\
+      \ [sleep](3-Mechanics/CLI/spells/sleep-xphb.md)"
     "name": "Spellcasting (Mage)"
   - "desc": "The spellcaster's spellcasting ability is Wisdom (spell save DC 12, +4\
       \ to hit with spell attacks). The spellcaster has following cleric spells prepared:\n\
-      \n**Cantrips (at will):** [guidance](3-Mechanics/CLI/spells/guidance.md), [sacred\
-      \ flame](3-Mechanics/CLI/spells/sacred-flame.md)\n\n**1st level (2 slots):**\
-      \ [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md)"
+      \n**Cantrips (at will):** [guidance](3-Mechanics/CLI/spells/guidance-xphb.md),\
+      \ [sacred flame](3-Mechanics/CLI/spells/sacred-flame-xphb.md)\n\n**1st level\
+      \ (2 slots):** [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md)"
     "name": "Spellcasting (Healer)"
   - "desc": "Choose a role for the spellcaster: healer or mage. Your choice determines\
       \ which Spellcasting trait to use below."
@@ -67,6 +68,6 @@ aliases:
     "name": "Quarterstaff"
 "source":
   - "ESK"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/spellcaster-esk.webp"
+"image": "file://bestiary/tokens/ESK/Spellcaster.webp"
 ```
 ^statblock

@@ -12,6 +12,8 @@ aliases:
 
 **Avoiding Strahd**
 
+`dice: [](connection-to-strahd-avoiding-strahd-vrgr.md#^avoiding-strahd)`
+
 | dice: d8 | Concealment |
 |----------|-------------|
 | 1 | The incarnation pretends to be a religious zealot who took a vow of silence. |

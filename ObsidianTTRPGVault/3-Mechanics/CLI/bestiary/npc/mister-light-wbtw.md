@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Mister Light"
 ---
-# [Mister Light](3-Mechanics\CLI\bestiary\npc/mister-light-wbtw.md)
+# [Mister Light](3-Mechanics/CLI/bestiary/npc/mister-light-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 26*  
 
 Light, formerly known as Urmius Umbrage, belonged to a filthy rich shadar-kai family that haunted a crumbling mansion in Gloomwrought. Although he wanted for nothing as a child, Urmius found himself surrounded by family members, caretakers, and teachers who were uniformly cold, callous, and mean-spirited. He grew tired of being seen as nothing more than the inheritor of the Umbrage estate and legacy, and he did everything in his power to make life miserable for everyone around him, especially his parents. He seemed bereft of ambition and spent much of his time playing in his room. He collected costumes and liked nothing more than to parade around Umbrage Mansion in strange garments and outlandish makeup.
@@ -73,10 +73,10 @@ Urmius first met Naeryx Krumple at a family dinner and didn't think much of the 
   - "desc": "While carrying the [Witchlight vane](3-Mechanics/CLI/items/witchlight-vane-wbtw.md),\
       \ Light casts one of the following spells, requiring no spell components and\
       \ using Charisma as the spellcasting ability (spell save DC 13, +5 to hit with\
-      \ spell attacks):\n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md),\
-      \ [polymorph](3-Mechanics/CLI/spells/polymorph.md) (after casting, roll a d8;\
-      \ on a roll of 3 or 8, Light can't cast the spell again until the next dawn),\
-      \ [ray of frost](3-Mechanics/CLI/spells/ray-of-frost.md)"
+      \ spell attacks):\n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
+      \ [polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md) (after casting, roll\
+      \ a d8; on a roll of 3 or 8, Light can't cast the spell again until the next\
+      \ dawn), [ray of frost](3-Mechanics/CLI/spells/ray-of-frost-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "Light magically teleports, along with any equipment he is wearing or\
@@ -85,6 +85,6 @@ Urmius first met Naeryx Krumple at a family dinner and didn't think much of the 
     "name": "Blessing of the Raven Queen (1/Day)"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/npc/token/mister-light-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Mister%20Light.webp"
 ```
 ^statblock

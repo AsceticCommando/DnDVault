@@ -15,7 +15,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Deinonychus"
 ---
-# [Deinonychus](3-Mechanics\CLI\bestiary\beast/deinonychus-mpmm.md)
+# [Deinonychus](3-Mechanics/CLI/bestiary/beast/deinonychus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 95, Volo's Guide to Monsters p. 139*  
 
 This larger cousin of the velociraptor kills by gripping its target with its claws and feeding.
@@ -64,7 +64,7 @@ This larger cousin of the velociraptor kills by gripping its target with its cla
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/beast/token/deinonychus-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Deinonychus.webp"
 ```
 ^statblock
 

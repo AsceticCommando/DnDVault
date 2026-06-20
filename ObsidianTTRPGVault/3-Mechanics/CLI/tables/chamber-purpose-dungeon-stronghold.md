@@ -12,6 +12,8 @@ aliases:
 
 **Dungeon: Stronghold**
 
+`dice: [](chamber-purpose-dungeon-stronghold.md#^dungeon-stronghold)`
+
 | dice: d100 | Purpose |
 |------------|---------|
 | 01-02 | Antechamber where visitors seeking access to the stronghold wait |

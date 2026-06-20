@@ -39,7 +39,7 @@ Even though these pages are full of tables and die rolls, they don't make up a r
 
 For instance, you might not want these tables to help you decide who your parents and siblings are, because that's among the information you've already come up with. But you can still use other parts, such as the section on life events, to provide added depth and detail.
 
-![](3-Mechanics/CLI/books/xanathars-guide-to-everything/img/c1039.webp#center)
+![](file://book/XGE/c1039.webp#center)
 
 #### How and When to Use the Tables
 
@@ -129,7 +129,7 @@ Use the Family table to determine who raised you. If you know who your parents a
 
 Next, refer to the Family Lifestyle table to determine the general circumstances of your upbringing. (Chapter 5 of the player's handbook has more information about lifestyles.) The result on that table includes a number that is applied to your roll on the Childhood Home table, which tells you where you spent your early years. Wrap up this section by using the Childhood Memories table, which tells you how you were treated by other youngsters as you were growing up.
 
-![](3-Mechanics/CLI/books/xanathars-guide-to-everything/img/c1040.webp#center)
+![](file://book/XGE/c1040.webp#center)
 
 ##### Supplemental Tables
 
@@ -149,7 +149,7 @@ You can roll on the Relationship table to determine how your family members or o
 
 Your character's life takes a particular course depending on the choices you make for the character's background and class.
 
-![](3-Mechanics/CLI/books/xanathars-guide-to-everything/img/c1041.webp#center)
+![](file://book/XGE/c1041.webp#center)
 
 #### Background
 
@@ -158,6 +158,8 @@ Roll on the appropriate table in this section as soon as you decide your backgro
 ##### I became...
 
 **Acolyte**
+
+`dice: [](2-character-options.md#^acolyte)`
 
 | dice: d6 | I became an acolyte because... |
 |----------|--------------------------------|
@@ -171,6 +173,8 @@ Roll on the appropriate table in this section as soon as you decide your backgro
 
 **Charlatan**
 
+`dice: [](2-character-options.md#^charlatan)`
+
 | dice: d6 | I became a charlatan because... |
 |----------|---------------------------------|
 | 1 | I was left to my own devices, and my knack for manipulating others helped me survive. |
@@ -182,6 +186,8 @@ Roll on the appropriate table in this section as soon as you decide your backgro
 ^charlatan
 
 **Criminal**
+
+`dice: [](2-character-options.md#^criminal)`
 
 | dice: d6 | I became a criminal because... |
 |----------|--------------------------------|
@@ -195,6 +201,8 @@ Roll on the appropriate table in this section as soon as you decide your backgro
 
 **Entertainer**
 
+`dice: [](2-character-options.md#^entertainer)`
+
 | dice: d6 | I became an entertainer because... |
 |----------|------------------------------------|
 | 1 | Members of my family made ends meet by performing, so it was fitting for me to follow their example. |
@@ -206,6 +214,8 @@ Roll on the appropriate table in this section as soon as you decide your backgro
 ^entertainer
 
 **Folk Hero**
+
+`dice: [](2-character-options.md#^folk-hero)`
 
 | dice: d6 | I became a folk hero because... |
 |----------|---------------------------------|
@@ -219,6 +229,8 @@ Roll on the appropriate table in this section as soon as you decide your backgro
 
 **Guild Artisan**
 
+`dice: [](2-character-options.md#^guild-artisan)`
+
 | dice: d6 | I became a guild artisan because... |
 |----------|-------------------------------------|
 | 1 | I was apprenticed to a master who taught me the guild's business. |
@@ -230,6 +242,8 @@ Roll on the appropriate table in this section as soon as you decide your backgro
 ^guild-artisan
 
 **Hermit**
+
+`dice: [](2-character-options.md#^hermit)`
 
 | dice: d6 | I became a hermit because... |
 |----------|------------------------------|
@@ -243,6 +257,8 @@ Roll on the appropriate table in this section as soon as you decide your backgro
 
 **Noble**
 
+`dice: [](2-character-options.md#^noble)`
+
 | dice: d6 | I became a noble because... |
 |----------|-----------------------------|
 | 1 | I come from an old and storied family, and it fell to me to preserve the family name. |
@@ -254,6 +270,8 @@ Roll on the appropriate table in this section as soon as you decide your backgro
 ^noble
 
 **Outlander**
+
+`dice: [](2-character-options.md#^outlander)`
 
 | dice: d6 | I became an outlander because... |
 |----------|----------------------------------|
@@ -267,6 +285,8 @@ Roll on the appropriate table in this section as soon as you decide your backgro
 
 **Sage**
 
+`dice: [](2-character-options.md#^sage)`
+
 | dice: d6 | I became a sage because... |
 |----------|----------------------------|
 | 1 | I was naturally curious, so I packed up and went to a university to learn more about the world. |
@@ -278,6 +298,8 @@ Roll on the appropriate table in this section as soon as you decide your backgro
 ^sage
 
 **Sailor**
+
+`dice: [](2-character-options.md#^sailor)`
 
 | dice: d6 | I became a sailor because... |
 |----------|------------------------------|
@@ -291,6 +313,8 @@ Roll on the appropriate table in this section as soon as you decide your backgro
 
 **Soldier**
 
+`dice: [](2-character-options.md#^soldier)`
+
 | dice: d6 | I became a soldier because... |
 |----------|-------------------------------|
 | 1 | I joined the militia to help protect my community from monsters. |
@@ -302,6 +326,8 @@ Roll on the appropriate table in this section as soon as you decide your backgro
 ^soldier
 
 **Urchin**
+
+`dice: [](2-character-options.md#^urchin)`
 
 | dice: d6 | I became an urchin because... |
 |----------|-------------------------------|
@@ -315,15 +341,17 @@ Roll on the appropriate table in this section as soon as you decide your backgro
 
 #### Class Training
 
-If you haven't chosen your class yet, do so now, keeping in mind your background and all the other details you have established so far. Once you've made your selection, roll a `d6` and find the number you rolled on the appropriate table in this section, which describes how you came to be a member of that class.
+If you haven't chosen your class yet, do so now, keeping in mind your background and all the other details you have established so far. Once you've made your selection, roll a `dice:d6|noform|noparens|avg` (`d6`) and find the number you rolled on the appropriate table in this section, which describes how you came to be a member of that class.
 
 The class sections earlier in this chapter have further story suggestions, which you can use in concert with the material here.
 
-![](3-Mechanics/CLI/books/xanathars-guide-to-everything/img/c1042.webp#center)
+![](file://book/XGE/c1042.webp#center)
 
 ##### I became...
 
 **Barbarian**
+
+`dice: [](2-character-options.md#^barbarian)`
 
 | dice: d6 | I became a barbarian because... |
 |----------|---------------------------------|
@@ -337,6 +365,8 @@ The class sections earlier in this chapter have further story suggestions, which
 
 **Bard**
 
+`dice: [](2-character-options.md#^bard)`
+
 | dice: d6 | I became a bard because... |
 |----------|----------------------------|
 | 1 | I awakened my latent bardic abilities through trial and error. |
@@ -348,6 +378,8 @@ The class sections earlier in this chapter have further story suggestions, which
 ^bard
 
 **Cleric**
+
+`dice: [](2-character-options.md#^cleric)`
 
 | dice: d6 | I became a cleric because... |
 |----------|------------------------------|
@@ -361,6 +393,8 @@ The class sections earlier in this chapter have further story suggestions, which
 
 **Druid**
 
+`dice: [](2-character-options.md#^druid)`
+
 | dice: d6 | I became a druid because... |
 |----------|-----------------------------|
 | 1 | I saw too much devastation in the wild places, too much of nature's splendor ruined by the despoilers. I joined a circle of druids to fight back against the enemies of nature. |
@@ -372,6 +406,8 @@ The class sections earlier in this chapter have further story suggestions, which
 ^druid
 
 **Fighter**
+
+`dice: [](2-character-options.md#^fighter)`
 
 | dice: d6 | I became a fighter because... |
 |----------|-------------------------------|
@@ -385,6 +421,8 @@ The class sections earlier in this chapter have further story suggestions, which
 
 **Monk**
 
+`dice: [](2-character-options.md#^monk)`
+
 | dice: d6 | I became a monk because... |
 |----------|----------------------------|
 | 1 | I was chosen to study at a secluded monastery. There, I was taught the fundamental techniques required to eventually master a tradition. |
@@ -396,6 +434,8 @@ The class sections earlier in this chapter have further story suggestions, which
 ^monk
 
 **Paladin**
+
+`dice: [](2-character-options.md#^paladin)`
 
 | dice: d6 | I became a paladin because... |
 |----------|-------------------------------|
@@ -409,6 +449,8 @@ The class sections earlier in this chapter have further story suggestions, which
 
 **Ranger**
 
+`dice: [](2-character-options.md#^ranger)`
+
 | dice: d6 | I became a ranger because... |
 |----------|------------------------------|
 | 1 | I found purpose while I honed my hunting skills by bringing down dangerous animals at the edge of civilization. |
@@ -420,6 +462,8 @@ The class sections earlier in this chapter have further story suggestions, which
 ^ranger
 
 **Rogue**
+
+`dice: [](2-character-options.md#^rogue)`
 
 | dice: d6 | I became a rogue because... |
 |----------|-----------------------------|
@@ -433,6 +477,8 @@ The class sections earlier in this chapter have further story suggestions, which
 
 **Sorcerer**
 
+`dice: [](2-character-options.md#^sorcerer)`
+
 | dice: d6 | I became a sorcerer because... |
 |----------|--------------------------------|
 | 1 | When I was born, all the water in the house froze solid, the milk spoiled, or all the iron turned to copper. My family is convinced that this event was a harbinger of stranger things to come for me. |
@@ -445,6 +491,8 @@ The class sections earlier in this chapter have further story suggestions, which
 
 **Warlock**
 
+`dice: [](2-character-options.md#^warlock)`
+
 | dice: d6 | I became a warlock because... |
 |----------|-------------------------------|
 | 1 | While wandering around in a forbidden place, I encountered an otherworldly being that offered to enter into a pact with me. |
@@ -456,6 +504,8 @@ The class sections earlier in this chapter have further story suggestions, which
 ^warlock
 
 **Wizard**
+
+`dice: [](2-character-options.md#^wizard)`
 
 | dice: d6 | I became a wizard because... |
 |----------|------------------------------|
@@ -473,7 +523,7 @@ No matter how long you've been alive, you have experienced at least one signatur
 
 The older a character is, the greater the chance for multiple life events, as shown on the Life Events by Age table. If you have already chosen your character's starting age, see the entry in the Life Events column that corresponds to how old you are. Otherwise, you can roll dice to determine your current age and number of life events randomly.
 
-![](3-Mechanics/CLI/books/xanathars-guide-to-everything/img/c1043.webp#center)
+![](file://book/XGE/c1043.webp#center)
 
 After you know the number of life events your character has experienced, roll once on the Life Events table for each of them. Many of the results on that table direct you to one of the secondary tables that follow. Once you have determined all of your character's life events, you can arrange them in any chronological order you see fit.
 
@@ -507,7 +557,7 @@ These tables add detail to many of the results on the Life Events table. The tab
 
 The supplemental tables below give you a way to randomly determine characteristics and other facts about individuals who are part of your character's life. Use these tables when directed to do so by another table, or when you simply want to come up with a piece of information quickly. The tables are in alphabetical order.
 
-![](3-Mechanics/CLI/books/xanathars-guide-to-everything/img/c1044.webp#center)
+![](file://book/XGE/c1044.webp#center)
 
 ![Supplemental Tables; Alignment](3-Mechanics/CLI/tables/supplemental-tables-alignment-xge.md)
 
@@ -543,4 +593,4 @@ The cause of a particular transformation is up to you and your DM. A transformat
 
 ![Racial Feats](3-Mechanics/CLI/tables/racial-feats-xge.md)
 
-![](3-Mechanics/CLI/books/xanathars-guide-to-everything/img/c1045.webp#center)
+![](file://book/XGE/c1045.webp#center)

@@ -14,7 +14,7 @@ aliases:
 *Source: Tasha's Cauldron of Everything p. 17*  
 
 > [!note]
-> Created by the [Eldritch Cannon](3-Mechanics/CLI/classes/artificer-artillerist-tce.md#Eldritch%20Cannon%20(Level%203)) subclass feature.
+> Created by the Eldritch Cannon subclass feature.
 
 ```ad-statblock
 title: Eldritch Cannon, Flamethrower

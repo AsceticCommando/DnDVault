@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Nightmare Shepherd"
 ---
-# [Nightmare Shepherd](3-Mechanics\CLI\bestiary\fiend/nightmare-shepherd-mot.md)
+# [Nightmare Shepherd](3-Mechanics/CLI/bestiary/fiend/nightmare-shepherd-mot.md)
 *Source: Mythic Odysseys of Theros p. 221*  
 
 A nightmare shepherd is a gaunt, ashen fiend with leathery wings. It carries a shepherd's crook, which it uses to direct a flock of wandering dead that it torments and occasionally feeds upon.
@@ -57,9 +57,9 @@ A nightmare shepherd is a gaunt, ashen fiend with leathery wings. It carries a s
 "traits":
   - "desc": "The shepherd's spellcasting ability is Charisma (spell save DC 17). It\
       \ can innately cast the following spells, requiring no material components:\n\
-      \n**1/day each:** [confusion](3-Mechanics/CLI/spells/confusion.md), [dispel\
-      \ magic](3-Mechanics/CLI/spells/dispel-magic.md), [hold person](3-Mechanics/CLI/spells/hold-person.md),\
-      \ [suggestion](3-Mechanics/CLI/spells/suggestion.md)"
+      \n**1/day each:** [confusion](3-Mechanics/CLI/spells/confusion-xphb.md), [dispel\
+      \ magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [hold person](3-Mechanics/CLI/spells/hold-person-xphb.md),\
+      \ [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "Undead creatures within 30 feet of the shepherd gain a +5 bonus to attack\
       \ and damage rolls. When any other creature that isn't undead or a construct\
@@ -79,7 +79,7 @@ A nightmare shepherd is a gaunt, ashen fiend with leathery wings. It carries a s
       \ (2d6 + 4) bludgeoning damage, or 13 (2d8 + 4) bludgeoning damage if used with\
       \ two hands, plus 26 (4d12) psychic damage."
     "name": "Staff"
-  - "desc": "The shepherd pulls twisted souls from the Underworld; 1d6 [shadows](3-Mechanics/CLI/bestiary/undead/shadow.md)\
+  - "desc": "The shepherd pulls twisted souls from the Underworld; 1d6 [shadows](3-Mechanics/CLI/bestiary/undead/shadow-xmm.md)\
       \ (without Sunlight Weakness) arise in unoccupied spaces within 20 feet of the\
       \ shepherd. The shadows act right after the shepherd on the same initiative\
       \ count and fight until they're destroyed. They disappear when the shepherd\
@@ -87,6 +87,6 @@ A nightmare shepherd is a gaunt, ashen fiend with leathery wings. It carries a s
     "name": "Herd the Underworld (Recharges after a Short or Long Rest)"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/nightmare-shepherd-mot.webp"
+"image": "file://bestiary/tokens/MOT/Nightmare%20Shepherd.webp"
 ```
 ^statblock

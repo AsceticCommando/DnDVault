@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Langdedrosa Cyanwrath"
 ---
-# [Langdedrosa Cyanwrath](3-Mechanics\CLI\bestiary\npc/langdedrosa-cyanwrath-hotdq.md)
+# [Langdedrosa Cyanwrath](3-Mechanics/CLI/bestiary/npc/langdedrosa-cyanwrath-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 91, Tyranny of Dragons p. 186*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "half-dragon"
 "alignment": "Lawful Evil"
 "ac": !!int "17"
-"ac_class": "[splint armor](3-Mechanics/CLI/items/splint-armor.md)"
+"ac_class": "[splint armor](3-Mechanics/CLI/items/splint-armor-xphb.md)"
 "hp": !!int "57"
 "hit_dice": "6d12 + 18"
 "modifier": !!int "1"
@@ -46,8 +46,8 @@ aliases:
     "desc": "+4"
 "damage_resistances": "lightning"
 "gear":
-  - "[greatsword](3-Mechanics/CLI/items/greatsword.md)"
-  - "[spear](3-Mechanics/CLI/items/spear.md)"
+  - "[greatsword](3-Mechanics/CLI/items/greatsword-xphb.md)"
+  - "[spear](3-Mechanics/CLI/items/spear-xphb.md)"
 "senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 14"
 "languages": "Common, Draconic"
@@ -75,6 +75,6 @@ aliases:
 "source":
   - "HotDQ"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/npc/token/langdedrosa-cyanwrath-hotdq.webp"
+"image": "file://bestiary/tokens/HotDQ/Langdedrosa%20Cyanwrath.webp"
 ```
 ^statblock

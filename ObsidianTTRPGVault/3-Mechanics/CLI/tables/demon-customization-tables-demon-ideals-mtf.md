@@ -12,6 +12,8 @@ aliases:
 
 **Demon Ideals**
 
+`dice: [](demon-customization-tables-demon-ideals-mtf.md#^demon-ideals)`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Self-Preservation. It's everything and everyone for themselves in this cruel world. |

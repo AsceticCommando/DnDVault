@@ -24,7 +24,7 @@ The following sections present a variety of options for creating characters with
 
 ""Draconic Feats"" provides feats to forge connections to the chromatic, gem, and metallic dragon families.
 
-![In his guise as a young mo...](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/002-01-001-chapter-splash.webp#center "In his guise as a young monk, Bahamut helps a pair of adventurers put an end to a young red dragon's depredations")
+![In his guise as a young monk, Bahamut helps a pair of adventurers put an end to a young red dragon's depredations](file://book/FTD/002-01-001.chapter-splash.webp#center)
 
 ## Draconic Races
 
@@ -52,22 +52,22 @@ Your character can speak, read, and write Common and one other language that you
 
 Every creature in D&D, including every player character, has a special tag in the rules that identifies the type of creature they are. Most player characters are of the Humanoid type. A race option presented here tells you what your character's creature type is.
 
-Here's a list of the game's creature types in alphabetical order: Aberration, Beast, Celestial, Construct, Dragon, Elemental, Fey, Fiend, Giant, Humanoid, Monstrosity, Ooze, Plant, Undead. These types don't have rules themselves, but some rules in the game affect creatures of certain types in different ways. For example, the [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md) spell doesn't work on a Construct or an Undead.
+Here's a list of the game's creature types in alphabetical order: Aberration, Beast, Celestial, Construct, Dragon, Elemental, Fey, Fiend, Giant, Humanoid, Monstrosity, Ooze, Plant, Undead. These types don't have rules themselves, but some rules in the game affect creatures of certain types in different ways. For example, the [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md) spell doesn't work on a Construct or an Undead.
 
-- [Chromatic Dragonborn](3-Mechanics/CLI/races/dragonborn-chromatic-ftd.md)  
+- [Chromatic Dragonborn](3-Mechanics/CLI/races/dragonborn-xphb.md)  
 - [Gem Dragonborn](3-Mechanics/CLI/races/dragonborn-gem-ftd.md)  
-- [Metallic Dragonborn](3-Mechanics/CLI/races/dragonborn-metallic-ftd.md)  
+- [Metallic Dragonborn](3-Mechanics/CLI/races/dragonborn-xphb.md)  
 
 ## Subclass Options
 
 At 3rd level, a monk gains the Monastic Tradition class feature and a ranger gains the Ranger Archetype class feature. This section presents two new options for those features—the Drakewarden for the ranger and the Way of the Ascendant Dragon for the monk.
 
-- [Monk: Way of the Ascendant Dragon](3-Mechanics/CLI/classes/monk-way-of-the-ascendant-dragon-ftd.md)  
-- [Ranger: Drakewarden](3-Mechanics/CLI/classes/ranger-drakewarden-ftd.md)  
+- Monk: Way of the Ascendant Dragon  
+- Ranger: Drakewarden  
 
 > [!gallery]
-> ![A human monk practices a f...](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/dragon-monk.webp#gallery "A human monk practices a form inspired by dragon flight")
-> ![A dragonborn Drakewarden s...](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/drakewarden-ranger.webp#gallery "A dragonborn Drakewarden shares affection with her drake companion")
+> ![A human monk practices a form inspired by dragon flight](file://book/FTD/dragon%20monk.webp#gallery)
+> ![A dragonborn Drakewarden shares affection with her drake companion](file://book/FTD/drakewarden%20ranger.webp#gallery)
 
 ## Heroes of the Dragon
 

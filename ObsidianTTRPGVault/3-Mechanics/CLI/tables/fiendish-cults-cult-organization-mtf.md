@@ -12,6 +12,8 @@ aliases:
 
 **Cult Organization**
 
+`dice: [](fiendish-cults-cult-organization-mtf.md#^cult-organization)`
+
 | dice: d6 | Organization |
 |----------|--------------|
 | 1 | Conspiracy. Members use passwords and double-blind communication. |

@@ -14,7 +14,7 @@ aliases:
 
 | Age | Spell Save DC | Spells Known |
 |-----|---------------|--------------|
-| [Young](3-Mechanics/CLI/bestiary/dragon/young-deep-dragon-ftd.md) | 14 | [command](3-Mechanics/CLI/spells/command.md), [dissonant whispers](3-Mechanics/CLI/spells/dissonant-whispers.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md) |
-| [Adult](3-Mechanics/CLI/bestiary/dragon/adult-deep-dragon-ftd.md) | 16 | [command](3-Mechanics/CLI/spells/command.md), [dissonant whispers](3-Mechanics/CLI/spells/dissonant-whispers.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md), [water breathing](3-Mechanics/CLI/spells/water-breathing.md) |
-| [Ancient](3-Mechanics/CLI/bestiary/dragon/ancient-deep-dragon-ftd.md) | 19 | [command](3-Mechanics/CLI/spells/command.md), [dissonant whispers](3-Mechanics/CLI/spells/dissonant-whispers.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md), [passwall](3-Mechanics/CLI/spells/passwall.md), [water breathing](3-Mechanics/CLI/spells/water-breathing.md) |
+| [Young](3-Mechanics/CLI/bestiary/dragon/young-deep-dragon-fraif.md) | 14 | [command](3-Mechanics/CLI/spells/command-xphb.md), [dissonant whispers](3-Mechanics/CLI/spells/dissonant-whispers-xphb.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md) |
+| [Adult](3-Mechanics/CLI/bestiary/dragon/adult-deep-dragon-fraif.md) | 16 | [command](3-Mechanics/CLI/spells/command-xphb.md), [dissonant whispers](3-Mechanics/CLI/spells/dissonant-whispers-xphb.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md), [water breathing](3-Mechanics/CLI/spells/water-breathing-xphb.md) |
+| [Ancient](3-Mechanics/CLI/bestiary/dragon/ancient-deep-dragon-fraif.md) | 19 | [command](3-Mechanics/CLI/spells/command-xphb.md), [dissonant whispers](3-Mechanics/CLI/spells/dissonant-whispers-xphb.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md), [passwall](3-Mechanics/CLI/spells/passwall-xphb.md), [water breathing](3-Mechanics/CLI/spells/water-breathing-xphb.md) |
 ^deep-dragon-spellcasting

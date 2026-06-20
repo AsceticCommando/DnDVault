@@ -11,4 +11,4 @@ aliases:
 
 ## 1st Level
 
-- [Ray of Sickness](3-Mechanics/CLI/spells/ray-of-sickness.md "PHB")
+- [Ray of Sickness](3-Mechanics/CLI/spells/ray-of-sickness-xphb.md "XPHB")

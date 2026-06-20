@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Iggwilv the Witch Queen"
 ---
-# [Iggwilv the Witch Queen](3-Mechanics\CLI\bestiary\npc/iggwilv-the-witch-queen-wbtw.md)
+# [Iggwilv the Witch Queen](3-Mechanics/CLI/bestiary/npc/iggwilv-the-witch-queen-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 205*  
 
 Iggwilv has a long and storied history throughout the multiverse. This adventure presents the legendary figure in her current form.
@@ -24,7 +24,7 @@ Iggwilv has a long and storied history throughout the multiverse. This adventure
 "subtype": "wizard"
 "alignment": "Chaotic Neutral"
 "ac": !!int "19"
-"ac_class": "[robe of the archmagi](3-Mechanics/CLI/items/robe-of-the-archmagi.md)"
+"ac_class": "[robe of the archmagi](3-Mechanics/CLI/items/robe-of-the-archmagi-xdmg.md)"
 "hp": !!int "255"
 "hit_dice": "30d8 + 120"
 "modifier": !!int "4"
@@ -61,8 +61,8 @@ Iggwilv has a long and storied history throughout the multiverse. This adventure
   - "desc": "Iggwilv has advantage on saving throws against spells and other magical\
       \ effects. (This trait is bestowed by her robe of the archmagi.)"
     "name": "Magic Resistance"
-  - "desc": "Iggwilv wears an [amulet of the planes](3-Mechanics/CLI/items/amulet-of-the-planes.md)\
-      \ and a [robe of the archmagi](3-Mechanics/CLI/items/robe-of-the-archmagi.md)."
+  - "desc": "Iggwilv wears an [amulet of the planes](3-Mechanics/CLI/items/amulet-of-the-planes-xdmg.md)\
+      \ and a [robe of the archmagi](3-Mechanics/CLI/items/robe-of-the-archmagi-xdmg.md)."
     "name": "Special Equipment"
 "actions":
   - "desc": "Iggwilv makes two Bewitching Bolt attacks."
@@ -76,22 +76,22 @@ Iggwilv has a long and storied history throughout the multiverse. This adventure
       \ is a 20-foot-radius sphere. Each creature in that area must make a DC 22 Constitution\
       \ saving throw, taking 40 (9d8) necrotic damage on a failed save, or half as\
       \ much damage on a successful one. In addition, there is a 50 percent chance\
-      \ that 3 [hezrous](3-Mechanics/CLI/bestiary/fiend/hezrou.md) then appear in\
-      \ unoccupied spaces in the sphere. They act as Iggwilv's allies, take their\
+      \ that 3 [hezrous](3-Mechanics/CLI/bestiary/fiend/hezrou-xmm.md) then appear\
+      \ in unoccupied spaces in the sphere. They act as Iggwilv's allies, take their\
       \ turns immediately after hers, and can't summon other demons. They remain until\
       \ they die or until Iggwilv dismisses them as an action."
     "name": "Abyssal Rift (Recharge 5-6)"
   - "desc": "Iggwilv casts one of the following spells, requiring no material components\
       \ and using Intelligence as the spellcasting ability (spell save DC 24, +16\
-      \ to hit with spell attacks):\n\n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic.md),\
-      \ [disguise self](3-Mechanics/CLI/spells/disguise-self.md), [invisibility](3-Mechanics/CLI/spells/invisibility.md),\
-      \ [light](3-Mechanics/CLI/spells/light.md), [mage hand](3-Mechanics/CLI/spells/mage-hand.md),\
-      \ [message](3-Mechanics/CLI/spells/message.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md),\
-      \ [Tasha's hideous laughter](3-Mechanics/CLI/spells/tashas-hideous-laughter.md)\n\
-      \n**3/day each:** [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), [fly](3-Mechanics/CLI/spells/fly.md),\
-      \ [polymorph](3-Mechanics/CLI/spells/polymorph.md)\n\n**1/day each:** [maze](3-Mechanics/CLI/spells/maze.md),\
-      \ [telekinesis](3-Mechanics/CLI/spells/telekinesis.md), [teleport](3-Mechanics/CLI/spells/teleport.md),\
-      \ [wish](3-Mechanics/CLI/spells/wish.md)"
+      \ to hit with spell attacks):\n\n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md), [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md),\
+      \ [light](3-Mechanics/CLI/spells/light-xphb.md), [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [message](3-Mechanics/CLI/spells/message-xphb.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md),\
+      \ [Tasha's hideous laughter](3-Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md)\n\
+      \n**3/day each:** [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
+      \ [fly](3-Mechanics/CLI/spells/fly-xphb.md), [polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md)\n\
+      \n**1/day each:** [maze](3-Mechanics/CLI/spells/maze-xphb.md), [telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md),\
+      \ [teleport](3-Mechanics/CLI/spells/teleport-xphb.md), [wish](3-Mechanics/CLI/spells/wish-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "Iggwilv teleports, along with any equipment she is wearing or carrying,\
@@ -125,6 +125,6 @@ Iggwilv has a long and storied history throughout the multiverse. This adventure
     "name": "Fey Beguilement (Costs 3 Actions)"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/npc/token/iggwilv-the-witch-queen-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Iggwilv%20the%20Witch%20Queen.webp"
 ```
 ^statblock

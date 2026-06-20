@@ -12,6 +12,8 @@ aliases:
 
 **Dungeon Goals**
 
+`dice: [](identify-the-partys-goals-dungeon-goals.md#^dungeon-goals)`
+
 | dice: d20 | Goal |
 |-----------|------|
 | 1 | Stop the dungeon's monstrous inhabitants from raiding the surface world. |

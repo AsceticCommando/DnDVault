@@ -15,7 +15,7 @@ aliases:
 
 
 
-This simple screwdriver can transform into a variety of tools; as an action, you can touch the item and transform it into any type of artisan's tool of your choice (see the "Equipment" chapter in the "Player's Handbook" for a list of [artisan's tools](3-Mechanics/CLI/items/artisans-tools.md)). Whatever form the tool takes, you are proficient with it.
+This simple screwdriver can transform into a variety of tools; as an action, you can touch the item and transform it into any type of artisan's tool of your choice (see the "Equipment" chapter in the "Player's Handbook" for a list of [artisan's tools](3-Mechanics/CLI/items/artisans-tools-xphb.md)). Whatever form the tool takes, you are proficient with it.
 
 While holding this tool, you gain a +1 bonus to the spell attack rolls and the saving throw DCs of your artificer spells.
 

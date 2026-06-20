@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Hoard Mimic"
 ---
-# [Hoard Mimic](3-Mechanics\CLI\bestiary\monstrosity/hoard-mimic-ftd.md)
+# [Hoard Mimic](3-Mechanics/CLI/bestiary/monstrosity/hoard-mimic-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 204*  
 
 Kin to the common mimic described in the *Monster Manual*, hoard mimics are among the oldest and most cunning of their kind. A hoard mimic's massive, amorphous form and shape-shifting prowess allow it to take on the semblance of a vast trove of treasures, not just a single object. Like smaller mimics, hoard mimics exude adhesive goo to trap prey. They can also vent a fine, caustic mist from their pores that burns and blinds creatures caught in it.
@@ -80,6 +80,6 @@ Hoard mimics are so named because many enter into partnerships with dragons, eac
     "name": "Shapechanger"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/hoard-mimic-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Hoard%20Mimic.webp"
 ```
 ^statblock

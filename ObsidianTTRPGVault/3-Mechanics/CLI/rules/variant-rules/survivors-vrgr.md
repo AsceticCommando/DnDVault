@@ -38,7 +38,7 @@ Make sure your players know how long you plan to use survivors and that they'll 
 
 ### What's Old Is New
 
-![For survivors, any foe mig...](3-Mechanics/CLI/rules/variant-rules/img/vrgr-111-04-007-for-survivors.webp#center "For survivors, any foe might become the focus of its own horror adventure")
+![For survivors, any foe might become the focus of its own horror adventure](file://variantrules/VRGR/111-04-007.for-survivors.webp#center)
 
 Dwindling resources contribute to terrifying situations. When a group runs out of hit points, spells, food, or other vital reserves, tension and dread increase. High-level characters, though, have such resources in spades. By running an adventure using survivors, you can recapture some of the same tension adventurers experience early in their careers, encouraging players to use their wits and make desperate choices powerful characters can avoid.
 
@@ -91,7 +91,7 @@ At the start of your turn, you can choose one creature you can see within 30 fee
 
 Whenever you make a saving throw, you can summon your desire to live into a desperate scream. You gain advantage on the saving throw, and the scream is audible up to 100 feet away. You can scream in this way twice, and you regain all expended uses when you finish a long rest.
 
-![Survivors are everyday peo...](3-Mechanics/CLI/rules/variant-rules/img/vrgr-112-04-008-survivors.webp#center "Survivors are everyday people thrown into terrifying situations")
+![Survivors are everyday people thrown into terrifying situations](file://variantrules/VRGR/112-04-008.survivors.webp#center)
 
 ### Divine Guidance
 
@@ -117,7 +117,7 @@ Choose one ability score. You gain proficiency in saving throws using the chosen
 
 *Prerequisite: Squire survivor*
 
-When a creature you can see makes an attack against a target you can see within 5 feet of you, you can use your reaction to become the target of the attack instead. If you are wielding a shield, you can reduce the damage by `1d10`. Once you use this talent, you can't do so again until you finish a short or long rest.
+When a creature you can see makes an attack against a target you can see within 5 feet of you, you can use your reaction to become the target of the attack instead. If you are wielding a shield, you can reduce the damage by `dice:1d10|noform|noparens|avg` (`1d10`). Once you use this talent, you can't do so again until you finish a short or long rest.
 
 ### Skillful
 
@@ -129,7 +129,7 @@ You gain proficiency in two skills of your choice.
 
 When a creature you can see within 5 feet of you hits you with an attack roll and deals damage to you with the attack, you can use your reaction to give yourself resistance against that damage. You can then move up to half your speed without provoking opportunity attacks. Once you use this talent, you can't do so again until you finish a short or long rest.
 
-- Apprentice  
-- Sneak  
-- Disciple  
-- Squire
+- [Apprentice](3-Mechanics/CLI/bestiary/humanoid/apprentice-hol.md)  
+- [Sneak](3-Mechanics/CLI/bestiary/humanoid/sneak-hol.md)  
+- [Disciple](3-Mechanics/CLI/bestiary/humanoid/disciple-hol.md)  
+- [Squire](3-Mechanics/CLI/bestiary/humanoid/squire-hol.md)

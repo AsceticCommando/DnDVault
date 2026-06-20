@@ -12,6 +12,8 @@ aliases:
 
 **Draconic Marks**
 
+`dice: [](draconic-gifts-draconic-marks-ftd.md#^draconic-marks)`
+
 | dice: d4 | Visual Manifestation |
 |----------|----------------------|
 | 1 | One or both of the character's eyes change color to resemble the dragon's eyes or scales. |

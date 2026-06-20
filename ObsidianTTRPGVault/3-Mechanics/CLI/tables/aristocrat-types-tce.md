@@ -12,6 +12,8 @@ aliases:
 
 **Aristocrat Types**
 
+`dice: [](aristocrat-types-tce.md#^aristocrat-types)`
+
 | dice: d6 | Aristocrats |
 |----------|-------------|
 | 1 | **Local Lord**. Convinced that power and prestige lie just around the corner, this minor lordling grasps for every opportunity to climb the ranks. |

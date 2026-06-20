@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Andir Valmakos (7th Level)"
 ---
-# [Andir Valmakos (7th Level)](3-Mechanics\CLI\bestiary\npc/andir-valmakos-7th-level-dsotdq.md)
+# [Andir Valmakos (7th Level)](3-Mechanics/CLI/bestiary/npc/andir-valmakos-7th-level-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 210*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "human"
 "alignment": "Chaotic Good"
 "ac": !!int "12"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "44"
 "hit_dice": "8d8 + 8"
 "modifier": !!int "1"
@@ -46,17 +46,17 @@ aliases:
   - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+6"
 "gear":
-  - "[quarterstaff](3-Mechanics/CLI/items/quarterstaff.md)"
+  - "[quarterstaff](3-Mechanics/CLI/items/quarterstaff-xphb.md)"
 "senses": "passive Perception 10"
 "languages": "Common, Draconic"
 "traits":
   - "desc": "Andir's spellcasting ability is Intelligence (spell save DC 14, +6 to\
       \ hit with spell attacks). He has the following wizard spells prepared:\n\n\
-      **At will:** [light](3-Mechanics/CLI/spells/light.md), [ray of frost](3-Mechanics/CLI/spells/ray-of-frost.md),\
-      \ [mage hand](3-Mechanics/CLI/spells/mage-hand.md)\n\n**1st level (4 slots):**\
-      \ [thunderwave](3-Mechanics/CLI/spells/thunderwave.md), [longstrider](3-Mechanics/CLI/spells/longstrider.md),\
-      \ [Tenser's floating disk](3-Mechanics/CLI/spells/tensers-floating-disk.md)\n\
-      \n**2nd level (3 slots):** [knock](3-Mechanics/CLI/spells/knock.md), [invisibility](3-Mechanics/CLI/spells/invisibility.md)"
+      **At will:** [light](3-Mechanics/CLI/spells/light-xphb.md), [ray of frost](3-Mechanics/CLI/spells/ray-of-frost-xphb.md),\
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md)\n\n**1st level (4 slots):**\
+      \ [thunderwave](3-Mechanics/CLI/spells/thunderwave-xphb.md), [longstrider](3-Mechanics/CLI/spells/longstrider-xphb.md),\
+      \ [Tenser's floating disk](3-Mechanics/CLI/spells/tensers-floating-disk-xphb.md)\n\
+      \n**2nd level (3 slots):** [knock](3-Mechanics/CLI/spells/knock-xphb.md), [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md)"
     "name": "Spellcasting"
   - "desc": "Andir is proficient with simple weapons and light armor."
     "name": "Bonus Proficiencies"

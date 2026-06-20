@@ -12,6 +12,8 @@ aliases:
 
 **Human Names – Norse, Male**
 
+`dice: [](human-names-norse-male-xge.md#^human-names-norse-male)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Agni |

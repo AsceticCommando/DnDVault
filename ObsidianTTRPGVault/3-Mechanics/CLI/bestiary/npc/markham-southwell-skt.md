@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Markham Southwell"
 ---
-# [Markham Southwell](3-Mechanics\CLI\bestiary\npc/markham-southwell-skt.md)
+# [Markham Southwell](3-Mechanics/CLI/bestiary/npc/markham-southwell-skt.md)
 *Source: Storm King's Thunder p. 248*  
 
 Sheriff Markham of Bryn Shander is a brawny, likable man of few words. Nothing is more important to him than protecting Icewind Dale. He judges others by their actions, not their words.
@@ -30,7 +30,7 @@ Flaw:"I bury my emotions and have no interest in small talk."
 "subtype": "Turami human"
 "alignment": "Lawful Good"
 "ac": !!int "17"
-"ac_class": "[splint armor](3-Mechanics/CLI/items/splint-armor.md)"
+"ac_class": "[splint armor](3-Mechanics/CLI/items/splint-armor-xphb.md)"
 "hp": !!int "58"
 "hit_dice": "9d8 + 18"
 "modifier": !!int "1"
@@ -48,8 +48,8 @@ Flaw:"I bury my emotions and have no interest in small talk."
   - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+5"
 "gear":
-  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow.md)"
-  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
+  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow-xphb.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
 "senses": "passive Perception 16"
 "languages": "Common"
 "traits":
@@ -71,6 +71,6 @@ Flaw:"I bury my emotions and have no interest in small talk."
     "name": "Heavy Crossbow"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/markham-southwell-skt.webp"
+"image": "file://bestiary/tokens/SKT/Markham%20Southwell.webp"
 ```
 ^statblock

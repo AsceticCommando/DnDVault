@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Sivak Draconian"
 ---
-# [Sivak Draconian](3-Mechanics\CLI\bestiary\monstrosity/sivak-draconian-dsotdq.md)
+# [Sivak Draconian](3-Mechanics/CLI/bestiary/monstrosity/sivak-draconian-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 199*  
 
 Sivak draconians are fearsome brutes created from the eggs of silver dragons. They fly on mighty wings over battlefields wherever the fighting is the fiercest, making them effective shock troops. Sivaks can magically change their features to mimic the appearance of those they've slain. This allows these cunning soldiers to sow confusion and despair among their enemies. When sivaks are killed, their crumbling bodies mimic the form of their killers and shriek in agony.
@@ -75,6 +75,6 @@ Draconians are bipedal monsters born from metallic dragon eggs that have been co
     "name": "Shape Theft"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/sivak-draconian-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Sivak%20Draconian.webp"
 ```
 ^statblock

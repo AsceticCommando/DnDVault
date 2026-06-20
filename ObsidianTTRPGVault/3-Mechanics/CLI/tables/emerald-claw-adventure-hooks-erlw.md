@@ -12,6 +12,8 @@ aliases:
 
 **Emerald Claw Adventure Hooks**
 
+`dice: [](emerald-claw-adventure-hooks-erlw.md#^emerald-claw-adventure-hooks)`
+
 | dice: d8 | NPC |
 |----------|-----|
 | 1 | What at first appears to be a renegade group of Aundairian soldiers turn out to be undead under the order's control. |

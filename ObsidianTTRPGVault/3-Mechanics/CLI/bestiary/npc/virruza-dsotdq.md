@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Virruza"
 ---
-# [Virruza](3-Mechanics\CLI\bestiary\npc/virruza-dsotdq.md)
+# [Virruza](3-Mechanics/CLI/bestiary/npc/virruza-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 119*  
 
 Changed by days of strange experiments involving draconian blood and exposure to the Spawning Shard, Virruza now looks like a tumescent draconian with warty green skin and an overly large mouth.
@@ -49,10 +49,10 @@ Changed by days of strange experiments involving draconian blood and exposure to
 "traits":
   - "desc": "Virruza's innate spellcasting ability is Charisma (spell save DC 12).\
       \ Virruza can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [detect\
-      \ thoughts](3-Mechanics/CLI/spells/detect-thoughts.md), [mage hand](3-Mechanics/CLI/spells/mage-hand.md)\n\
-      \n**2/day each:** [fear](3-Mechanics/CLI/spells/fear.md), [invisibility](3-Mechanics/CLI/spells/invisibility.md)\
-      \ (self only)\n\n**1/day:** [fireball](3-Mechanics/CLI/spells/fireball.md)"
+      \n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md), [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md)\n\
+      \n**2/day each:** [fear](3-Mechanics/CLI/spells/fear-xphb.md), [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md)\
+      \ (self only)\n\n**1/day:** [fireball](3-Mechanics/CLI/spells/fireball-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "When Virruza is reduced to 0 hit points, he turns into a puddle of acid\
       \ and splashes acid on those around him. Each creature within 5 feet of him\
@@ -86,6 +86,6 @@ Changed by days of strange experiments involving draconian blood and exposure to
     "name": "Hurl Flame"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/npc/token/virruza-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Virruza.webp"
 ```
 ^statblock

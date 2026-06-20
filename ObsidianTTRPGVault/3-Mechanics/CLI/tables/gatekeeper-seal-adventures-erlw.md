@@ -12,6 +12,8 @@ aliases:
 
 **Gatekeeper Seal Adventures**
 
+`dice: [](gatekeeper-seal-adventures-erlw.md#^gatekeeper-seal-adventures)`
+
 | dice: d4 | Adventure Goal |
 |----------|----------------|
 | 1 | Deliver a specially treated Khyber dragonshard to the Gatekeepers to repair a widening crack in the seal. |

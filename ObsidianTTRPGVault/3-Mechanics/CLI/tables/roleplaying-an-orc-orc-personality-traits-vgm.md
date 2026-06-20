@@ -12,6 +12,8 @@ aliases:
 
 **Orc Personality Traits**
 
+`dice: [](roleplaying-an-orc-orc-personality-traits-vgm.md#^orc-personality-traits)`
+
 | dice: d6 | Personality Trait |
 |----------|-------------------|
 | 1 | I never relinquish my weapon. |

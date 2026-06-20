@@ -12,6 +12,8 @@ aliases:
 
 **Sovereign Quests**
 
+`dice: [](sovereign-quests-tce.md#^sovereign-quests)`
+
 | dice: d6 | Quest |
 |----------|-------|
 | 1 | **International Espionage**. You attempt to steal intelligence, national symbols, or super weapons from an enemy power. |

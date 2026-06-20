@@ -12,6 +12,8 @@ aliases:
 
 **Dragonmarked House Adventure Hooks**
 
+`dice: [](dragonmarked-house-adventure-hooks-erlw.md#^dragonmarked-house-adventure-hooks)`
+
 | dice: d12 | Adventure Hook |
 |-----------|----------------|
 | 1 | A House Cannith artificer hires adventurers to steal secrets from a forge associated with a rival branch of the house. |

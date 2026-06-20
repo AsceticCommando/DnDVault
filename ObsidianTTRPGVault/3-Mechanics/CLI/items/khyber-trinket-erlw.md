@@ -16,6 +16,8 @@ aliases:
 
 **Trinkets from Khyber**
 
+`dice: [](khyber-trinket-erlw.md#^trinkets-from-khyber)`
+
 | dice: d10 | Trinket |
 |-----------|---------|
 | 1 | A pressed flower with vivid green petals; when you smell it, you hear eerie music |

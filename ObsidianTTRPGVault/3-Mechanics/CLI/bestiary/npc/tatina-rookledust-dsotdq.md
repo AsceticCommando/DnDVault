@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Tatina Rookledust"
 ---
-# [Tatina Rookledust](3-Mechanics\CLI\bestiary\npc/tatina-rookledust-dsotdq.md)
+# [Tatina Rookledust](3-Mechanics/CLI/bestiary/npc/tatina-rookledust-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 87*  
 
 ```statblock
@@ -39,7 +39,7 @@ aliases:
   - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+2"
 "gear":
-  - "[club](3-Mechanics/CLI/items/club.md)"
+  - "[club](3-Mechanics/CLI/items/club-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 12"
 "languages": "any one language (usually Common), Gnomish"
@@ -47,10 +47,10 @@ aliases:
 "traits":
   - "desc": "Tatina is a 1st-level spellcaster. Its spellcasting ability is Wisdom\
       \ (spell save DC 12, +4 to hit with spell attacks). Tatina has following cleric\
-      \ spells prepared:\n\n**Cantrips (at will):** [light](3-Mechanics/CLI/spells/light.md),\
-      \ [sacred flame](3-Mechanics/CLI/spells/sacred-flame.md), [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy.md)\n\
-      \n**1st level (3 slots):** [bless](3-Mechanics/CLI/spells/bless.md), [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md),\
-      \ [sanctuary](3-Mechanics/CLI/spells/sanctuary.md)"
+      \ spells prepared:\n\n**Cantrips (at will):** [light](3-Mechanics/CLI/spells/light-xphb.md),\
+      \ [sacred flame](3-Mechanics/CLI/spells/sacred-flame-xphb.md), [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
+      \n**1st level (3 slots):** [bless](3-Mechanics/CLI/spells/bless-xphb.md), [cure\
+      \ wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md), [sanctuary](3-Mechanics/CLI/spells/sanctuary-xphb.md)"
     "name": "Spellcasting"
   - "desc": "Tatina"
     "name": "Gnome Cunning"
@@ -60,6 +60,6 @@ aliases:
     "name": "Club"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/npc/token/tatina-rookledust-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Tatina%20Rookledust.webp"
 ```
 ^statblock

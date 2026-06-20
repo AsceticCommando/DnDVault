@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Uthgardt Shaman (Black Raven)"
 ---
-# [Uthgardt Shaman (Black Raven)](3-Mechanics\CLI\bestiary\humanoid/uthgardt-shaman-black-raven-skt.md)
+# [Uthgardt Shaman (Black Raven)](3-Mechanics/CLI/bestiary/humanoid/uthgardt-shaman-black-raven-skt.md)
 *Source: Storm King's Thunder p. 243*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "human"
 "alignment": "Any alignment"
 "ac": !!int "13"
-"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor.md)"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor-xphb.md)"
 "hp": !!int "38"
 "hit_dice": "7d8 + 7"
 "modifier": !!int "1"
@@ -44,8 +44,8 @@ aliases:
   - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+6"
 "gear":
-  - "[shortbow](3-Mechanics/CLI/items/shortbow.md)"
-  - "[spear](3-Mechanics/CLI/items/spear.md)"
+  - "[shortbow](3-Mechanics/CLI/items/shortbow-xphb.md)"
+  - "[spear](3-Mechanics/CLI/items/spear-xphb.md)"
 "senses": "passive Perception 14"
 "languages": "Bothii, Common"
 "cr": "2"
@@ -59,14 +59,15 @@ aliases:
     "name": "Shortbow"
   - "desc": "The shaman casts one of the following spells, using Wisdom as the spellcasting\
       \ ability (spell save DC 12; +4 to hit with spell attacks):\n\n**At will:**\
-      \ [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md), [mage hand](3-Mechanics/CLI/spells/mage-hand.md),\
-      \ [message](3-Mechanics/CLI/spells/message.md), [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy.md)\n\
-      \n**1/day each:** [augury](3-Mechanics/CLI/spells/augury.md) (cast as 1 action),\
-      \ [bestow curse](3-Mechanics/CLI/spells/bestow-curse.md), [cordon of arrows](3-Mechanics/CLI/spells/cordon-of-arrows.md),\
-      \ [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [speak with dead](3-Mechanics/CLI/spells/speak-with-dead.md),\
-      \ [spirit guardians](3-Mechanics/CLI/spells/spirit-guardians.md), [animal messenger](3-Mechanics/CLI/spells/animal-messenger.md)\
-      \ (raven only), [polymorph](3-Mechanics/CLI/spells/polymorph.md) (self only;\
-      \ into a raven only)"
+      \ [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md), [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [message](3-Mechanics/CLI/spells/message-xphb.md), [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
+      \n**1/day each:** [augury](3-Mechanics/CLI/spells/augury-xphb.md) (cast as 1\
+      \ action), [bestow curse](3-Mechanics/CLI/spells/bestow-curse-xphb.md), [cordon\
+      \ of arrows](3-Mechanics/CLI/spells/cordon-of-arrows-xphb.md), [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [speak with dead](3-Mechanics/CLI/spells/speak-with-dead-xphb.md), [spirit\
+      \ guardians](3-Mechanics/CLI/spells/spirit-guardians-xphb.md), [animal messenger](3-Mechanics/CLI/spells/animal-messenger-xphb.md)\
+      \ (raven only), [polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md) (self\
+      \ only; into a raven only)"
     "name": "Spellcasting (Requires a Sacred Bundle)"
 "source":
   - "SKT"

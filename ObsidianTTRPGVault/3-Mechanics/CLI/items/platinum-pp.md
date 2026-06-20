@@ -11,7 +11,7 @@ aliases:
 ---
 # Platinum (pp)
 *Treasure (coinage)*  
-![](3-Mechanics/CLI/items/img/platinum-pp.webp#right)
+![](file://items/PHB/Platinum%20%28pp%29.webp#right)
 
 - **Cost**: 10 gp
 - **Weight**: 0.02 lbs.

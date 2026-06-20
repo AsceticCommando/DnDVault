@@ -13,4 +13,4 @@ aliases:
 
 **Prerequisite**: Level 17
 
-You can spend 6 ki points to cast [wall of stone](3-Mechanics/CLI/spells/wall-of-stone.md).
+You can spend 6 ki points to cast [wall of stone](3-Mechanics/CLI/spells/wall-of-stone-xphb.md).

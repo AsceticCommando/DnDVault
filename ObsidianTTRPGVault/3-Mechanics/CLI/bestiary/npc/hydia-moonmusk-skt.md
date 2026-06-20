@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Hydia Moonmusk"
 ---
-# [Hydia Moonmusk](3-Mechanics\CLI\bestiary\npc/hydia-moonmusk-skt.md)
+# [Hydia Moonmusk](3-Mechanics/CLI/bestiary/npc/hydia-moonmusk-skt.md)
 *Source: Storm King's Thunder p. 148*  
 
 ```statblock
@@ -22,7 +22,8 @@ aliases:
 "subtype": "human"
 "alignment": "Chaotic Evil"
 "ac": !!int "16"
-"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md),\
+  \ [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "112"
 "hit_dice": "15d8 + 45"
 "modifier": !!int "2"
@@ -44,7 +45,7 @@ aliases:
   - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+5"
 "gear":
-  - "[spear](3-Mechanics/CLI/items/spear.md)"
+  - "[spear](3-Mechanics/CLI/items/spear-xphb.md)"
 "senses": "passive Perception 11"
 "languages": "Bothii, Common"
 "cr": "5"
@@ -71,6 +72,6 @@ aliases:
     "name": "Parry"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/hydia-moonmusk-skt.webp"
+"image": "file://bestiary/tokens/SKT/Hydia%20Moonmusk.webp"
 ```
 ^statblock

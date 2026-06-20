@@ -12,6 +12,8 @@ aliases:
 
 **Human Names – Spanish, Male**
 
+`dice: [](human-names-spanish-male-xge.md#^human-names-spanish-male)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Alexandre |

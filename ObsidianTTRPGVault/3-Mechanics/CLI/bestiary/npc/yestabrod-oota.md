@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Yestabrod"
 ---
-# [Yestabrod](3-Mechanics\CLI\bestiary\npc/yestabrod-oota.md)
+# [Yestabrod](3-Mechanics/CLI/bestiary/npc/yestabrod-oota.md)
 *Source: Out of the Abyss p. 233*  
 
 ```statblock
@@ -79,6 +79,6 @@ aliases:
     "name": "Foul Absorption"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/yestabrod-oota.webp"
+"image": "file://bestiary/tokens/OotA/Yestabrod.webp"
 ```
 ^statblock

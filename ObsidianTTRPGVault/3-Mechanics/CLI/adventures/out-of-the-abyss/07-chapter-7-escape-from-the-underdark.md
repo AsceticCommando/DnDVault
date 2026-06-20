@@ -16,7 +16,7 @@ If they survive this final confrontation, the characters reach the surface in a 
 
 By the time they reach this point, the characters should be at least 7th level, having overcome countless challenges in their wild and dangerous journey through the locations described in chapters 1 through 6. They should also have reached a terrible conclusion: multiple demon lords of the Abyss are at large in the Underdark and could soon threaten the surface world.
 
-![](3-Mechanics/CLI/adventures/out-of-the-abyss/img/062-ooa07-01.webp#center)
+![](file://adventure/OotA/062-ooa07-01.webp#center)
 
 ## The Way Out
 
@@ -82,11 +82,11 @@ The possibility that her prey might escape drives Ilvara onward. In turn, she re
 
 ### Drow Chase
 
-If the adventurers flee from the drow, use the chase rules in "chapter 8" of the *Dungeon Master's Guide* to play out the pursuit. The drow are on foot. If she gets close enough to do so, Ilvara tries to cut off the party's escape by casting [web](3-Mechanics/CLI/spells/web.md) across the tunnel ahead. In addition to giving chase, the [drow](3-Mechanics/CLI/bestiary/humanoid/drow.md) in the pursuit party pepper the characters with poisoned crossbow bolts, hoping to render some of them [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious).
+If the adventurers flee from the drow, use the chase rules in "chapter 8" of the *Dungeon Master's Guide* to play out the pursuit. The drow are on foot. If she gets close enough to do so, Ilvara tries to cut off the party's escape by casting [web](3-Mechanics/CLI/spells/web-xphb.md) across the tunnel ahead. In addition to giving chase, the [drow](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) in the pursuit party pepper the characters with poisoned crossbow bolts, hoping to render some of them [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious).
 
 #### Chase Complications
 
-Each participant in the chase rolls a `d20` at the end of its turn and consults the Drow Chase Complications table. The result (if any) affects the next chase participant in initiative order.
+Each participant in the chase rolls a `dice:d20|noform|noparens|avg` (`d20`) at the end of its turn and consults the Drow Chase Complications table. The result (if any) affects the next chase participant in initiative order.
 
 If the characters escape from the drow, they can exit the Underdark unopposed. Ilvara returns in disgrace with nothing to show for her considerable efforts, although she and others from Velkynvelve might reappear when the adventurers return to the Underdark (see chapter 15, "The City of Spiders").
 
@@ -98,16 +98,16 @@ If the drow catch up with the characters, the chase becomes a combat (see "Stand
 
 If the characters stand and fight, or if the drow catch them, they're in for a tough battle. Ilvara alone is a challenge for a group of 8th-level characters, and she is accompanied by her most powerful servants. The attacking drow force consists of the following:
 
-- Ilvara, [drow priestess of Lolth](3-Mechanics/CLI/bestiary/humanoid/drow-priestess-of-lolth.md), armed with a [tentacle rod](3-Mechanics/CLI/items/tentacle-rod.md) in addition to the usual equipment  
-- [Asha](3-Mechanics/CLI/bestiary/npc/asha-vandree-oota.md), junior drow priestess (use the [priest](3-Mechanics/CLI/bestiary/humanoid/priest.md) stat block in the *Monster Manual*, but give Asha the Fey Ancestry, Innate Spellcasting, and Sunlight Sensitivity features of a typical drow)  
-- Shoor and Jorlan, [drow elite warriors](3-Mechanics/CLI/bestiary/humanoid/drow-elite-warrior.md) (Jorlan has disadvantage on attack rolls, Dexterity checks, and Dexterity saving throws)  
-- Four [drow](3-Mechanics/CLI/bestiary/humanoid/drow.md) warriors  
+- Ilvara, [drow priestess of Lolth](3-Mechanics/CLI/bestiary/humanoid/fiend-cultist-xmm.md), armed with a [tentacle rod](3-Mechanics/CLI/items/tentacle-rod-xdmg.md) in addition to the usual equipment  
+- [Asha](3-Mechanics/CLI/bestiary/npc/asha-vandree-oota.md), junior drow priestess (use the [priest](3-Mechanics/CLI/bestiary/humanoid/priest-xmm.md) stat block in the *Monster Manual*, but give Asha the Fey Ancestry, Innate Spellcasting, and Sunlight Sensitivity features of a typical drow)  
+- Shoor and Jorlan, [drow elite warriors](3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) (Jorlan has disadvantage on attack rolls, Dexterity checks, and Dexterity saving throws)  
+- Four [drow](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) warriors  
 
 If any of the named drow were killed in chapter 1, they have been replaced by other drow with similar statistics.
 
-On her first turn in combat, Ilvara casts [conjure animals](3-Mechanics/CLI/spells/conjure-animals.md) to summon two [giant spiders](3-Mechanics/CLI/bestiary/beast/giant-spider.md) to fight alongside the drow, while Asha casts [spirit guardians](3-Mechanics/CLI/spells/spirit-guardians.md) on herself and concentrates to maintain it. The other drow cast [darkness](3-Mechanics/CLI/spells/darkness.md) to hinder ranged attackers before closing to melee. Shoor protects Ilvara, while Jorlan makes no effort to protect his fellow drow. Ilvara prefers to strike from a distance with her [tentacle rod](3-Mechanics/CLI/items/tentacle-rod.md), or cast spells such as [poison spray](3-Mechanics/CLI/spells/poison-spray.md) and [ray of sickness](3-Mechanics/CLI/spells/ray-of-sickness.md).
+On her first turn in combat, Ilvara casts [conjure animals](3-Mechanics/CLI/spells/conjure-animals-xphb.md) to summon two [giant spiders](3-Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) to fight alongside the drow, while Asha casts [spirit guardians](3-Mechanics/CLI/spells/spirit-guardians-xphb.md) on herself and concentrates to maintain it. The other drow cast [darkness](3-Mechanics/CLI/spells/darkness-xphb.md) to hinder ranged attackers before closing to melee. Shoor protects Ilvara, while Jorlan makes no effort to protect his fellow drow. Ilvara prefers to strike from a distance with her [tentacle rod](3-Mechanics/CLI/items/tentacle-rod-xdmg.md), or cast spells such as [poison spray](3-Mechanics/CLI/spells/poison-spray-xphb.md) and [ray of sickness](3-Mechanics/CLI/spells/ray-of-sickness-xphb.md).
 
-If Ilvara loses more than half her hit points, she attempts to summon a [yochlol](3-Mechanics/CLI/bestiary/fiend/yochlol.md) demon.
+If Ilvara loses more than half her hit points, she attempts to summon a [yochlol](3-Mechanics/CLI/bestiary/fiend/yochlol-xmm.md) demon.
 
 #### Evening the Odds
 
@@ -158,17 +158,19 @@ If you'd rather skip the encounters and jump ahead to chapter 8, assume that the
 
 #### Drow Chase Complications
 
+`dice: [](07-chapter-7-escape-from-the-underdark.md#^complication)`
+
 | dice: d20 | Complication |
 |-----------|--------------|
 | 1 | Uneven ground threatens to slow your progress. Make a DC 10 Dexterity ([Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)) check to navigate the area. On a failed check, the ground counts as 10 feet of difficult terrain. |
 | 2 | A fissure, rocky outcropping, or debris threatens to trip you up. Make a DC 10 Dexterity ([Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)) check. On a failure, you fall [prone](3-Mechanics/CLI/rules/conditions.md#Prone). |
-| 3 | You disturb a [swarm of bats](3-Mechanics/CLI/bestiary/beast/swarm-of-bats.md) that makes one attack against you before quickly scattering. |
-| 4 | A colony of [piercers](3-Mechanics/CLI/bestiary/monstrosity/piercer.md) hangs 20 feet overhead. As you pass, one of them drops and makes an attack against you. |
-| 5 | You have to dodge around stalagmites and columns. Make a DC 10 Dexterity ([Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)) check. On a failure, you take `1d4` bludgeoning damage from running into an obstacle. |
+| 3 | You disturb a [swarm of bats](3-Mechanics/CLI/bestiary/beast/swarm-of-bats-xmm.md) that makes one attack against you before quickly scattering. |
+| 4 | A colony of [piercers](3-Mechanics/CLI/bestiary/aberration/piercer-xmm.md) hangs 20 feet overhead. As you pass, one of them drops and makes an attack against you. |
+| 5 | You have to dodge around stalagmites and columns. Make a DC 10 Dexterity ([Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)) check. On a failure, you take `dice:1d4\|noform\|noparens\|avg` (`1d4`) bludgeoning damage from running into an obstacle. |
 | 6 | A mass of webbing blocks your path. Avoiding it requires a successful DC 12 Dexterity ([Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)) check. On a failure, you are caught in the web and [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained). As an action, you can make a DC 12 Strength check, bursting the webbing on a success. The webbing can also be attacked (AC 10; hp 5; vulnerability to fire damage; immunity to poison and psychic damage). |
-| 7 | A patch of green slime drops from the ceiling, requiring a successful DC 10 Dexterity saving throw to avoid. On a failure, you are struck and take 5 (`1d10`) acid damage. You take 5 (`1d10`) acid damage again at the start of each of your turns until the slime is scraped off or destroyed (see ""Dungeon Hazards"" in chapter 5 of the *Dungeon Master's Guide*). |
+| 7 | A patch of green slime drops from the ceiling, requiring a successful DC 10 Dexterity saving throw to avoid. On a failure, you are struck and take `dice:1d10\|noform\|noparens\|avg\|text(5)` (`1d10`) acid damage. You take `dice:1d10\|noform\|noparens\|avg\|text(5)` (`1d10`) acid damage again at the start of each of your turns until the slime is scraped off or destroyed (see ""Dungeon Hazards"" in chapter 5 of the *Dungeon Master's Guide*). |
 | 8 | The floor beneath you is smooth and slick with moisture, requiring a successful DC 10 Dexterity saving throw to navigate. On a failed save, you fall [prone](3-Mechanics/CLI/rules/conditions.md#Prone). |
-| 9 | The floor beneath you is littered with sharp rocks and debris, and you must succeed on a DC 10 Dexterity saving throw to cross it. On a failure, you take `1d4` piercing damage and the ground counts as 10 feet of difficult terrain. |
+| 9 | The floor beneath you is littered with sharp rocks and debris, and you must succeed on a DC 10 Dexterity saving throw to cross it. On a failure, you take `dice:1d4\|noform\|noparens\|avg` (`1d4`) piercing damage and the ground counts as 10 feet of difficult terrain. |
 | 10 | The chase kicks up a cloud of dust, sand, or spores. You must succeed on a DC 10 Constitution saving throw to pass through the cloud. On a failure, you are [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) until the end of your turn. While [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) in this way, your speed is reduced by half. |
 | 11–20 | No complication. |
 ^complication

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Clonk"
 ---
-# [Clonk](3-Mechanics\CLI\bestiary\npc/clonk-bgdia.md)
+# [Clonk](3-Mechanics/CLI/bestiary/npc/clonk-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 83*  
 
 ```statblock
@@ -61,6 +61,6 @@ aliases:
     "name": "Hellfire Warhammer"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/clonk-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Clonk.webp"
 ```
 ^statblock

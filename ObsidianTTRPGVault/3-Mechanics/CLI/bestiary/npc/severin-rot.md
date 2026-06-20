@@ -12,8 +12,13 @@ statblock-link: "#^statblock"
 aliases:
 - "Severin"
 ---
-# [Severin](3-Mechanics\CLI\bestiary\npc/severin-rot.md)
+# [Severin](3-Mechanics/CLI/bestiary/npc/severin-rot.md)
 *Source: The Rise of Tiamat p. 92, Tyranny of Dragons p. 189*  
+
+> [!note] Nelvik the Pseudodragon
+> 
+> Severin has a neutral evil [pseudodragon](3-Mechanics/CLI/bestiary/dragon/pseudodragon-xmm.md) companion named Nelvik. The pseudodragon is never far from its master. During the ritual to summon Tiamat, it cowers on a ledge in the central spire of the Dragon Queen's temple. If Severin is slain, Nelvik attempts to befriend Severin's slayers, waiting for an opportune time to exact revenge.
+^nelvik-the-pseudodragon
 
 ```statblock
 "name": "Severin (RoT)"
@@ -96,6 +101,6 @@ aliases:
 "source":
   - "RoT"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/npc/token/severin-rot.webp"
+"image": "file://bestiary/tokens/RoT/Severin.webp"
 ```
 ^statblock

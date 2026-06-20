@@ -12,6 +12,8 @@ aliases:
 
 **Omens of Karametra**
 
+`dice: [](omens-of-karametra-mot.md#^omens-of-karametra)`
+
 | dice: d6 | dice: d100 | Omen of Karametra |
 |----------|------------|-------------------|
 | 1 | 35 | Patterns form in fallen leaves or in the scattered leavings of grain in a field. |

@@ -11,4 +11,4 @@ aliases:
 
 ## 5th Level
 
-- [Cone of Cold](3-Mechanics/CLI/spells/cone-of-cold.md "PHB")
+- [Cone of Cold](3-Mechanics/CLI/spells/cone-of-cold-xphb.md "XPHB")

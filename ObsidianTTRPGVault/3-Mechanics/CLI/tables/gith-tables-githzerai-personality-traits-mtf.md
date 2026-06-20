@@ -12,6 +12,8 @@ aliases:
 
 **Githzerai Personality Traits**
 
+`dice: [](gith-tables-githzerai-personality-traits-mtf.md#^githzerai-personality-traits)`
+
 | dice: d4 | Trait |
 |----------|-------|
 | 1 | All energy must be expended to a useful end. Frivolity is the first step to defeat. |

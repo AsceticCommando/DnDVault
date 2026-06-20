@@ -12,6 +12,8 @@ aliases:
 
 **Emerald Dragon Personality Traits**
 
+`dice: [](creating-an-emerald-dragon-emerald-dragon-personality-traits-ftd.md#^emerald-dragon-personality-traits)`
+
 | dice: d8 | Trait |
 |----------|-------|
 | 1 | I repeat what others have said back to them to make sure I have remembered it correctly. |

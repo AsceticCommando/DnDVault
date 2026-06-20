@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Kalaman Soldier"
 ---
-# [Kalaman Soldier](3-Mechanics\CLI\bestiary\humanoid/kalaman-soldier-dsotdq.md)
+# [Kalaman Soldier](3-Mechanics/CLI/bestiary/humanoid/kalaman-soldier-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 202*  
 
 Kalaman soldiers are the rank-and-file troops of the army of Kalaman. They are trained to fight defensively, bolstering one another in battle.
@@ -23,7 +23,7 @@ Kalaman soldiers are the rank-and-file troops of the army of Kalaman. They are t
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "18"
-"ac_class": "[chain mail](3-Mechanics/CLI/items/chain-mail.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[chain mail](3-Mechanics/CLI/items/chain-mail-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "16"
 "hit_dice": "3d8 + 3"
 "modifier": !!int "1"
@@ -41,7 +41,7 @@ Kalaman soldiers are the rank-and-file troops of the army of Kalaman. They are t
   - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
 "gear":
-  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Common"
 "cr": "1/2"
@@ -57,6 +57,6 @@ Kalaman soldiers are the rank-and-file troops of the army of Kalaman. They are t
     "name": "Hold the Line"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/kalaman-soldier-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Kalaman%20Soldier.webp"
 ```
 ^statblock

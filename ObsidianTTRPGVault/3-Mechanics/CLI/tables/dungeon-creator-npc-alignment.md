@@ -12,6 +12,8 @@ aliases:
 
 **NPC Alignment**
 
+`dice: [](dungeon-creator-npc-alignment.md#^npc-alignment)`
+
 | dice: d20 | Alignment |
 |-----------|-----------|
 | 1-2 | Lawful good |

@@ -12,6 +12,8 @@ aliases:
 
 **Human Names – English, Male**
 
+`dice: [](human-names-english-male-xge.md#^human-names-english-male)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Adam |

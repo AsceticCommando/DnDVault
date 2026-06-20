@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Duvessa Shane"
 ---
-# [Duvessa Shane](3-Mechanics\CLI\bestiary\npc/duvessa-shane-skt.md)
+# [Duvessa Shane](3-Mechanics/CLI/bestiary/npc/duvessa-shane-skt.md)
 *Source: Storm King's Thunder p. 248*  
 
 The daughter of a Waterdhavian trader and a tavern server, Duvessa has her mother's talent for negotiation and her father's charm. As the first woman to serve as Town Speaker of Bryn Shander, and a young one at that, she has much to prove.
@@ -49,7 +49,7 @@ Flaw:"I don't give an inch in any argument or conflict."
   - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+5"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Common, Dwarvish, Giant, Orc"
 "traits":
@@ -72,6 +72,6 @@ Flaw:"I don't give an inch in any argument or conflict."
     "name": "Parry"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/duvessa-shane-skt.webp"
+"image": "file://bestiary/tokens/SKT/Duvessa%20Shane.webp"
 ```
 ^statblock

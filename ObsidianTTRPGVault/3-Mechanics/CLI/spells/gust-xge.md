@@ -4,33 +4,43 @@ cssclasses:
 - json5e-spell
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/spell/class/bard/magical-secrets
 - ttrpg-cli/spell/class/druid
 - ttrpg-cli/spell/class/sorcerer
 - ttrpg-cli/spell/class/wizard
 - ttrpg-cli/spell/feat/aberrant-dragonmark
+- ttrpg-cli/spell/feat/cold-caster
+- ttrpg-cli/spell/feat/druidic-warrior
 - ttrpg-cli/spell/feat/initiate-of-high-sorcery/solinari
 - ttrpg-cli/spell/feat/magic-initiate/wizard-spells
+- ttrpg-cli/spell/feat/mark-of-storm
 - ttrpg-cli/spell/feat/wood-elf-magic
 - ttrpg-cli/spell/level/cantrip
-- ttrpg-cli/spell/optfeature/druidic-warrior
 - ttrpg-cli/spell/optfeature/pact-of-the-tome
+- ttrpg-cli/spell/race/elf/high-elf
+- ttrpg-cli/spell/race/elf/lorwyn
+- ttrpg-cli/spell/race/khoravar
 - ttrpg-cli/spell/race/kobold
 - ttrpg-cli/spell/school/transmutation
 - ttrpg-cli/spell/subclass/arcana-domain
 - ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/circle-of-the-land/arctic
+- ttrpg-cli/spell/subclass/college-of-lore
+- ttrpg-cli/spell/subclass/college-of-the-moon
 - ttrpg-cli/spell/subclass/eldritch-knight
 - ttrpg-cli/spell/subclass/nature-domain
-- ttrpg-cli/spell/subrace/elf-high
-- ttrpg-cli/spell/subrace/half-elf-mark-of-storm
+- ttrpg-cli/spell/subclass/strength-domain-psa
+- ttrpg-cli/spell/subrace/elf-kaladesh-vahadar
 - ttrpg-cli/spell/subrace/half-elf-moon-elf-or-sun-elf-descent
+- ttrpg-cli/spell/subrace/merfolk-ixalan-blue
+- ttrpg-cli/spell/subrace/merfolk-ixalan-green
+- ttrpg-cli/spell/subrace/merfolk-zendikar-emeria-creed
+- ttrpg-cli/spell/subrace/merfolk-zendikar-ula-creed
 classes:
-- Bard (Magical Secrets)
+- Bard (College of Lore)
+- Bard (College of the Moon)
 - Cleric (Arcana Domain)
 - Cleric (Nature Domain)
+- Cleric (Strength Domain (PSA))
 - Druid
-- Druid (Circle of the Land, Arctic)
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
 - Sorcerer
@@ -53,6 +63,6 @@ You seize the air and compel it to create one of the following effects at a poin
 - You create a small blast of air capable of moving one object that is neither held nor carried and that weighs no more than 5 pounds. The object is pushed up to 10 feet away from you. It isn't pushed with enough force to cause damage.  
 - You create a harmless sensory effect using air, such as causing leaves to rustle, wind to slam shutters closed, or your clothing to ripple in a breeze.  
 
-**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](3-Mechanics/CLI/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG"); [Cleric (Nature Domain)](3-Mechanics/CLI/lists/list-spells-classes-nature-domain.md); [Druid (Circle of the Land, Arctic)](3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of the Moon)](3-Mechanics/CLI/lists/list-spells-classes-college-of-the-moon-frhof.md "subclass=FRHoF;class=XPHB"); [Cleric (Arcana Domain)](3-Mechanics/CLI/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Cleric (Nature Domain)](3-Mechanics/CLI/lists/list-spells-classes-nature-domain.md "class=XPHB"); [Cleric (Strength Domain (PSA))](3-Mechanics/CLI/lists/list-spells-classes-strength-domain-psa-psa.md "subclass=PSA;class=XPHB"); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Xanathar's Guide to Everything p. 157, Eberron: Rising from the Last War p. 50, Tasha's Cauldron of Everything p. 50*
+*Source: Xanathar's Guide to Everything p. 157, Elemental Evil Player's Companion p. 19, Eberron: Rising from the Last War p. 50, Tasha's Cauldron of Everything p. 50*

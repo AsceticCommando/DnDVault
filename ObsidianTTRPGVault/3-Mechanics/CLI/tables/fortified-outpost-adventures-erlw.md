@@ -12,6 +12,8 @@ aliases:
 
 **Fortified Outpost Adventures**
 
+`dice: [](fortified-outpost-adventures-erlw.md#^fortified-outpost-adventures)`
+
 | dice: d8 | Adventure Premise |
 |----------|-------------------|
 | 1 | The Order of the Emerald Claw has seized the outpost and is raising a legion of undead soldiers. |

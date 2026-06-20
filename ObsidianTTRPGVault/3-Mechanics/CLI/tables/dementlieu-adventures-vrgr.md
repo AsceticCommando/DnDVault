@@ -12,6 +12,8 @@ aliases:
 
 **Dementlieu Adventures**
 
+`dice: [](dementlieu-adventures-vrgr.md#^dementlieu-adventures)`
+
 | dice: d6 | Adventure |
 |----------|-----------|
 | 1 | A shrieky soprano is starring in the new production at the Port-a-Lucine Opera House. Jealous divas hire the party to figure out what magic she used to bewitch her way into a role. |

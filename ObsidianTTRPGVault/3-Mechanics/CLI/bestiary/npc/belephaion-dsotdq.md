@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Belephaion"
 ---
-# [Belephaion](3-Mechanics\CLI\bestiary\npc/belephaion-dsotdq.md)
+# [Belephaion](3-Mechanics/CLI/bestiary/npc/belephaion-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 157*  
 
 ```statblock
@@ -62,14 +62,14 @@ aliases:
       \ (10d10) lightning damage on a failed save, or half as much damage on a successful\
       \ one."
     "name": "Lightning Breath (Recharge 5-6)"
-  - "desc": "Belephaion magically transforms into an [eagle](3-Mechanics/CLI/bestiary/beast/eagle.md)\
-      \ or a [priest](3-Mechanics/CLI/bestiary/humanoid/priest.md), while retaining\
+  - "desc": "Belephaion magically transforms into an [eagle](3-Mechanics/CLI/bestiary/beast/eagle-xmm.md)\
+      \ or a [priest](3-Mechanics/CLI/bestiary/humanoid/priest-xmm.md), while retaining\
       \ his alignment, damage immunities, hit points, Hit Dice, and Intelligence,\
       \ Wisdom, and Charisma scores. This transformation ends if he is reduced to\
       \ 0 hit points or uses a bonus action to end it."
     "name": "Alter Shape"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/npc/token/belephaion-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Belephaion.webp"
 ```
 ^statblock

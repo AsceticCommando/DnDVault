@@ -12,14 +12,14 @@ statblock-link: "#^statblock"
 aliases:
 - "Yarnspinner"
 ---
-# [Yarnspinner](3-Mechanics\CLI\bestiary\npc/yarnspinner-dod.md)
+# [Yarnspinner](3-Mechanics/CLI/bestiary/npc/yarnspinner-dod.md)
 *Source: Domains of Delight p. 22*  
 
 ## Yarnspinner
 
 Yarnspinner has a monstrous form resembling that of an enormous spider. However, he has a benevolent personality and is obsessed with stories. In fact, he has amassed quite a collection of storybooks, which he keeps in silk sacks for easy transport. When Yarnspinner dreams, he projects a harmless, ghost-like version of himself that wanders his domain. In this form, he can talk to strangers and steer them one direction or another without fear of being harmed. If a visitor needs a safe haven, Yarnspinner is more than happy to fashion a hut made of spider silk for his guest to inhabit. The visitor is free to remain there as long as they wish, provided they do no harm to the other denizens of Fablerise.
 
-Yarnspinner's favorite activity is to read stories aloud to the animals that occupy his domain, all of which benefit from having had [awaken](3-Mechanics/CLI/spells/awaken.md) spells cast on them. The archfey's stories attract quite a gathering and are the talk of Fablerise's awakened animal kingdom.
+Yarnspinner's favorite activity is to read stories aloud to the animals that occupy his domain, all of which benefit from having had [awaken](3-Mechanics/CLI/spells/awaken-xphb.md) spells cast on them. The archfey's stories attract quite a gathering and are the talk of Fablerise's awakened animal kingdom.
 
 ## Fablerise
 
@@ -94,15 +94,15 @@ Fablerise is a vast thicket of thick roots, thorny vines, and sinuous creepers t
     "name": "Web"
   - "desc": "Yarnspinner casts one of the following spells, requiring no material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 17):\n\
-      \n**At will:** [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md), [speak\
-      \ with animals](3-Mechanics/CLI/spells/speak-with-animals.md)\n\n**2/day each:**\
-      \ [animal friendship](3-Mechanics/CLI/spells/animal-friendship.md), [create\
-      \ food and water](3-Mechanics/CLI/spells/create-food-and-water.md), [revivify](3-Mechanics/CLI/spells/revivify.md)\n\
-      \n**1/day each:** [awaken](3-Mechanics/CLI/spells/awaken.md) (as an action),\
-      \ [pass without trace](3-Mechanics/CLI/spells/pass-without-trace.md)"
+      \n**At will:** [faerie fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md), [speak\
+      \ with animals](3-Mechanics/CLI/spells/speak-with-animals-xphb.md)\n\n**2/day\
+      \ each:** [animal friendship](3-Mechanics/CLI/spells/animal-friendship-xphb.md),\
+      \ [create food and water](3-Mechanics/CLI/spells/create-food-and-water-xphb.md),\
+      \ [revivify](3-Mechanics/CLI/spells/revivify-xphb.md)\n\n**1/day each:** [awaken](3-Mechanics/CLI/spells/awaken-xphb.md)\
+      \ (as an action), [pass without trace](3-Mechanics/CLI/spells/pass-without-trace-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "DoD"
-"image": "3-Mechanics/CLI/bestiary/npc/token/yarnspinner-dod.webp"
+"image": "file://bestiary/tokens/DoD/Yarnspinner.webp"
 ```
 ^statblock

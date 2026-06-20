@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Tem Temble (2nd Level)"
 ---
-# [Tem Temble (2nd Level)](3-Mechanics\CLI\bestiary\npc/tem-temble-2nd-level-dsotdq.md)
+# [Tem Temble (2nd Level)](3-Mechanics/CLI/bestiary/npc/tem-temble-2nd-level-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 213*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "kender"
 "alignment": "Chaotic Good"
 "ac": !!int "13"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "16"
 "hit_dice": "3d6 + 6"
 "modifier": !!int "2"
@@ -54,9 +54,10 @@ aliases:
 "languages": "Common, Kenderspeak"
 "traits":
   - "desc": "Tem's spellcasting ability is Wisdom (spell save DC 12, +4 to spell attacks).\
-      \ She has the following druid spells prepared:\n\n**At will:** [druidcraft](3-Mechanics/CLI/spells/druidcraft.md),\
-      \ [poison spray](3-Mechanics/CLI/spells/poison-spray.md)\n\n**1st level (2 slots):**\
-      \ [healing word](3-Mechanics/CLI/spells/healing-word.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md)"
+      \ She has the following druid spells prepared:\n\n**At will:** [druidcraft](3-Mechanics/CLI/spells/druidcraft-xphb.md),\
+      \ [poison spray](3-Mechanics/CLI/spells/poison-spray-xphb.md)\n\n**1st level\
+      \ (2 slots):** [healing word](3-Mechanics/CLI/spells/healing-word-xphb.md),\
+      \ [faerie fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md)"
     "name": "Spellcasting"
   - "desc": "Tem is proficient with simple weapons and light armor."
     "name": "Bonus Proficiencies"

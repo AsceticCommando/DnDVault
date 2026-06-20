@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Xazax the Eyemonger"
 ---
-# [Xazax the Eyemonger](3-Mechanics\CLI\bestiary\npc/xazax-the-eyemonger-oota.md)
+# [Xazax the Eyemonger](3-Mechanics/CLI/bestiary/npc/xazax-the-eyemonger-oota.md)
 *Source: Out of the Abyss p. 142*  
 
 ```statblock
@@ -47,9 +47,10 @@ aliases:
 "cr": "13"
 "traits":
   - "desc": "Xazax's central eye creates an area of antimagic, as in the [antimagic\
-      \ field](3-Mechanics/CLI/spells/antimagic-field.md) spell, in a 150-foot cone.\
-      \ At the start of each of its turns, Xazax decides which way the cone faces\
-      \ and whether the cone is active. The area works against Xazax's own eye rays."
+      \ field](3-Mechanics/CLI/spells/antimagic-field-xphb.md) spell, in a 150-foot\
+      \ cone. At the start of each of its turns, Xazax decides which way the cone\
+      \ faces and whether the cone is active. The area works against Xazax's own eye\
+      \ rays."
     "name": "Antimagic Cone"
 "actions":
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 14\
@@ -91,7 +92,7 @@ aliases:
       \ a failed save, the creature begins to turn to stone and is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained).\
       \ It must repeat the saving throw at the end of its next turn. On a success,\
       \ the effect ends. On a failure, the creature is [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified)\
-      \ until freed by the  [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md)\
+      \ until freed by the [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md)\
       \ spell or other magic.  \n- **9. Disintegration Ray.** If the target is a creature,\
       \ it must succeed on a DC 16 Dexterity saving throw or take 45 (10d8) force\
       \ damage. If this damage reduces the creature to 0 hit points, its body becomes\
@@ -111,6 +112,6 @@ aliases:
     "name": "Eye Ray"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/xazax-the-eyemonger-oota.webp"
+"image": "file://bestiary/tokens/OotA/Xazax%20the%20Eyemonger.webp"
 ```
 ^statblock

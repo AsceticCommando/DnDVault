@@ -12,6 +12,8 @@ aliases:
 
 **Story Aftermath**
 
+`dice: [](reporting-repercussions-story-aftermath-erlw.md#^story-aftermath)`
+
 | dice: d6 | Aftermath |
 |----------|-----------|
 | 1 | **Business**. Your reporting put a serious dent in a business, and that organization refuses to deal with you. |

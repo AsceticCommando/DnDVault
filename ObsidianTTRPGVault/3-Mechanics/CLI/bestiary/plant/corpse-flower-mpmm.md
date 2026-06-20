@@ -15,12 +15,12 @@ statblock-link: "#^statblock"
 aliases:
 - "Corpse Flower"
 ---
-# [Corpse Flower](3-Mechanics\CLI\bestiary\plant/corpse-flower-mpmm.md)
+# [Corpse Flower](3-Mechanics/CLI/bestiary/plant/corpse-flower-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 82, Mordenkainen's Tome of Foes p. 127*  
 
 A corpse flower can sprout atop the grave of an evil necromancer or the remains of powerful Undead creatures. Unless it is uprooted and burned while it is still a seedling, the corpse flower grows to enormous size over several weeks, then tears itself free of the earth and begins scavenging Humanoid corpses from battlefields and graveyards. Using its fibrous tentacles, it stuffs the remains into its body to sustain and repair itself. The plant has a malevolent bent and despises the living.
 
-With or without corpses nested in its body, a corpse flower exudes a stench of decay that can overwhelm the senses of nearby creatures, causing them to become nauseated. The stench, which serves as a defense mechanism, fades `2d4` days after the corpse flower dies.
+With or without corpses nested in its body, a corpse flower exudes a stench of decay that can overwhelm the senses of nearby creatures, causing them to become nauseated. The stench, which serves as a defense mechanism, fades `dice:2d4|noform|noparens|avg` (`2d4`) days after the corpse flower dies.
 
 ```statblock
 "name": "Corpse Flower (MPMM)"
@@ -77,8 +77,8 @@ With or without corpses nested in its body, a corpse flower exudes a stench of d
       \ on the corpse is expelled from the corpse flower in its space."
     "name": "Digest"
   - "desc": "The corpse flower animates one corpse in its body, turning it into a\
-      \ [zombie](3-Mechanics/CLI/bestiary/undead/zombie.md). The zombie appears in\
-      \ an unoccupied space within 5 feet of the corpse flower and acts immediately\
+      \ [zombie](3-Mechanics/CLI/bestiary/undead/zombie-xmm.md). The zombie appears\
+      \ in an unoccupied space within 5 feet of the corpse flower and acts immediately\
       \ after it in the initiative order. The zombie acts as an ally of the corpse\
       \ flower but isn't under its control, and the flower's stench clings to it (see\
       \ Stench of Death)."
@@ -86,7 +86,7 @@ With or without corpses nested in its body, a corpse flower exudes a stench of d
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/plant/token/corpse-flower-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Corpse%20Flower.webp"
 ```
 ^statblock
 

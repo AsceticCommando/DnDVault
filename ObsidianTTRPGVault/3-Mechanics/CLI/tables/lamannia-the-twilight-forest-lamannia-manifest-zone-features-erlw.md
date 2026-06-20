@@ -12,6 +12,8 @@ aliases:
 
 **Lamannia Manifest Zone Features**
 
+`dice: [](lamannia-the-twilight-forest-lamannia-manifest-zone-features-erlw.md#^lamannia-manifest-zone-features)`
+
 | dice: d4 | Feature |
 |----------|---------|
 | 1 | Spells that summon elementals are empowered here. Such a spell of 1st level or higher cast within the zone is treated as if it were cast at a level one higher than the spell slot that was expended. |

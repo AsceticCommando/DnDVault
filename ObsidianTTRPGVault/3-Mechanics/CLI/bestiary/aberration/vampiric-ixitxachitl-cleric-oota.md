@@ -12,38 +12,24 @@ statblock-link: "#^statblock"
 aliases:
 - "Vampiric Ixitxachitl Cleric"
 ---
-# [Vampiric Ixitxachitl Cleric](3-Mechanics\CLI\bestiary\aberration/vampiric-ixitxachitl-cleric-oota.md)
+# [Vampiric Ixitxachitl Cleric](3-Mechanics/CLI/bestiary/aberration/vampiric-ixitxachitl-cleric-oota.md)
 *Source: Out of the Abyss p. 226*  
+
+## Ixitxachitl
 
 Ixitxachitl (pronounced ick-zit-zah-chit-ul) are aquatic creatures resembling manta rays, with small, clawed hands at the ends of their "wings" and black eyes gleaming with sinister intelligence. Many creatures mistake ixitxachitl for common manta rays, but this can prove a deadly mistake. The ixitxachitl are as evil as they are cunning, leading to their common nickname "demon rays." They inhabit bodies of fresh and salt water, but their violent nature means that little is known of them.
 
-## Struggle for Survival
+### Struggle for Survival
 
 Ixitxachitl emerge from eggs as tiny creatures little more than a hand span in width. From that time onward, they struggle to survive at all costs, growing throughout their lives. Those ixitxachitl that master the secrets of survival gain powers of regeneration and feed on the life force of other creatures.
 
-## All Consuming
+### All Consuming
 
 Ixitxachitl hollow out coral reefs or other natural aquatic formations to create labyrinthine dens, often compelling aid from captured aquatic species they enslave. They typically strip an area bare before moving on to new fertile grounds, leaving their abandoned dens behind. Schools of ixitxachitl often war on other aquatic creatures to claim feeding grounds and territory.
 
-## Demon Worshipers
+### Demon Worshipers
 
 The ixitxachitl venerate and serve various demons, particularly Demogorgon, whom they consider their patron and creator. They have an intense rivalry with the merrow over which of them are the greatest and most favored servants of the Prince of Demons.
-
-## Variant: Ixitxachitl Cleric
-
-Some ixitxachitl and vampiric ixitxachitl are able to cast divine spells. Such a creature gains the following feature.
-
-### Spellcasting
-
-The ixitxachitl is a 5th-level spellcaster that uses Wisdom as its spellcasting ability (spell save DC 11, +3 to hit with spell attacks). The ixitxachitl has the following cleric spells prepared:
-
-Cantrips (at will): guidance, thaumaturgy
-
-1st Level (4 slots): charm person, create or destroy water
-
-2nd Level (3 slots): hold person, silence
-
-3rd Level (2 slots): [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), tongues
 
 ```statblock
 "name": "Vampiric Ixitxachitl Cleric (OotA)"
@@ -70,13 +56,13 @@ Cantrips (at will): guidance, thaumaturgy
 "traits":
   - "desc": "The ixitxachitl is a 5th-level spellcaster that uses Wisdom as its spellcasting\
       \ ability (Spell save DC 11, +3 to hit with spell attacks). The ixitxachitl\
-      \ has the following cleric spells prepared:\n\n**Cantrips (at will):** [guidance](3-Mechanics/CLI/spells/guidance.md),\
-      \ [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy.md)\n\n**1st level (4 slots):**\
-      \ [charm person](3-Mechanics/CLI/spells/charm-person.md), [create or destroy\
-      \ water](3-Mechanics/CLI/spells/create-or-destroy-water.md)\n\n**2nd level (3\
-      \ slots):** [hold person](3-Mechanics/CLI/spells/hold-person.md), [silence](3-Mechanics/CLI/spells/silence.md)\n\
-      \n**3rd level (2 slots):** [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md),\
-      \ [tongues](3-Mechanics/CLI/spells/tongues.md)"
+      \ has the following cleric spells prepared:\n\n**Cantrips (at will):** [guidance](3-Mechanics/CLI/spells/guidance-xphb.md),\
+      \ [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n**1st level (4\
+      \ slots):** [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md), [create\
+      \ or destroy water](3-Mechanics/CLI/spells/create-or-destroy-water-xphb.md)\n\
+      \n**2nd level (3 slots):** [hold person](3-Mechanics/CLI/spells/hold-person-xphb.md),\
+      \ [silence](3-Mechanics/CLI/spells/silence-xphb.md)\n\n**3rd level (2 slots):**\
+      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [tongues](3-Mechanics/CLI/spells/tongues-xphb.md)"
     "name": "Spellcasting"
 "actions":
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8\
@@ -94,6 +80,6 @@ Cantrips (at will): guidance, thaumaturgy
     "name": "Barbed Tail"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/vampiric-ixitxachitl-cleric-oota.webp"
+"image": "file://bestiary/tokens/OotA/Vampiric%20Ixitxachitl%20Cleric.webp"
 ```
 ^statblock

@@ -12,6 +12,8 @@ aliases:
 
 **Clan's Status**
 
+`dice: [](dwarves-in-the-clan-clans-status-mtf.md#^clans-status)`
+
 | dice: d6 | Status |
 |----------|--------|
 | 1 | Prosperous. Clan occupies original stronghold, currently flourishing |

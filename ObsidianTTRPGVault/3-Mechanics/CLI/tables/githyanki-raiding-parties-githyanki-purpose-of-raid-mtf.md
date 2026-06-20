@@ -12,6 +12,8 @@ aliases:
 
 **Githyanki Purpose of Raid**
 
+`dice: [](githyanki-raiding-parties-githyanki-purpose-of-raid-mtf.md#^githyanki-purpose-of-raid)`
+
 | dice: d6 | Purpose |
 |----------|---------|
 | 1-2 | Wanton destruction, the githyanki want to fight and loot to relieve their boredom |

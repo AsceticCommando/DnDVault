@@ -12,6 +12,8 @@ aliases:
 
 **Darklord Connections**
 
+`dice: [](adventures-darklord-connections-vrgr.md#^darklord-connections)`
+
 | dice: d8 | Connection |
 |----------|------------|
 | 1 | An adventurer reminds the Darklord of their bond, desire, or loved one. |

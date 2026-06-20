@@ -12,12 +12,14 @@ aliases:
 
 **Dungeon Hazards**
 
+`dice: [](random-dungeon-hazards-dungeon-hazards.md#^dungeon-hazards)`
+
 | dice: d20 | Hazard |
 |-----------|--------|
-| 1-3 | [Brown mold](3-Mechanics/CLI/traps-hazards/brown-mold.md) |
-| 4-8 | [Green slime](3-Mechanics/CLI/traps-hazards/green-slime.md) |
-| 9-10 | [Shrieker](3-Mechanics/CLI/bestiary/plant/shrieker.md) |
-| 11-15 | [Spiderwebs](3-Mechanics/CLI/traps-hazards/webs.md) |
-| 16-17 | [Violet fungus](3-Mechanics/CLI/bestiary/plant/violet-fungus.md) |
-| 18-20 | [Yellow mold](3-Mechanics/CLI/traps-hazards/yellow-mold.md) |
+| 1-3 | [Brown mold](3-Mechanics/CLI/traps-hazards/brown-mold-xdmg.md) |
+| 4-8 | [Green slime](3-Mechanics/CLI/traps-hazards/green-slime-xdmg.md) |
+| 9-10 | [Shrieker](3-Mechanics/CLI/bestiary/plant/shrieker-fungus-xmm.md) |
+| 11-15 | [Spiderwebs](3-Mechanics/CLI/traps-hazards/webs-xdmg.md) |
+| 16-17 | [Violet fungus](3-Mechanics/CLI/bestiary/plant/violet-fungus-xmm.md) |
+| 18-20 | [Yellow mold](3-Mechanics/CLI/traps-hazards/yellow-mold-xdmg.md) |
 ^dungeon-hazards

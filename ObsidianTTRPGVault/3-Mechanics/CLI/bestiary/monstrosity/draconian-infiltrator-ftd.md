@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Draconian Infiltrator"
 ---
-# [Draconian Infiltrator](3-Mechanics\CLI\bestiary\monstrosity/draconian-infiltrator-ftd.md)
+# [Draconian Infiltrator](3-Mechanics/CLI/bestiary/monstrosity/draconian-infiltrator-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 178*  
 
 Copper, black, and topaz dragon eggs yield these sly and stealthy draconians, who often serve their creators as scouts and spies. They use the paralytic venom of their saliva to coat their weapons, making them formidable assassins as well. Their wings allow them to turn a fall into a rough glide. When draconian infiltrators die, their bodies dissolve into pools of acid.
@@ -53,7 +53,7 @@ When draconians die, they do not go quietly. Instead, their lifeless bodies unle
 "damage_immunities": "poison"
 "condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 13"
 "languages": "Common, Draconic"
@@ -82,6 +82,6 @@ When draconians die, they do not go quietly. Instead, their lifeless bodies unle
     "name": "Dagger"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/draconian-infiltrator-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Draconian%20Infiltrator.webp"
 ```
 ^statblock

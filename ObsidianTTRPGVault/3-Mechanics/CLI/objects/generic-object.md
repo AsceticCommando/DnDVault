@@ -49,7 +49,7 @@ Big objects such as castle walls often have extra resilience represented by a da
 
 ```ad-statblock
 title: Generic Object
-![](3-Mechanics/CLI/objects/token/generic-object.webp#token)
+![](file://objects/tokens/DMG/Generic%20Object.webp#token)
 *Varies Generic*
 
 

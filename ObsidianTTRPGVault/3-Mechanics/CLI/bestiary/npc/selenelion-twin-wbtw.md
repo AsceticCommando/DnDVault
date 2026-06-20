@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Selenelion Twin"
 ---
-# [Selenelion Twin](3-Mechanics\CLI\bestiary\npc/selenelion-twin-wbtw.md)
+# [Selenelion Twin](3-Mechanics/CLI/bestiary/npc/selenelion-twin-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 241*  
 
 Gleam and Glister are high elf twins, who until recently performed amazing acts of balance and agility at the Witchlight Carnival. Together, they are known as the Selenelion twins. (A selenelion is a celestial event during a lunar eclipse in which the sun and the eclipsed moon can be observed at the same time, either just before sunset or just after sunrise, when both bodies appear just above the horizon at nearly opposite points in the sky.)
@@ -52,7 +52,7 @@ The twins are as fond of one another as two siblings can be. Gleam is the introv
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+6"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 10"
 "languages": "Common, Elvish"
@@ -76,8 +76,8 @@ The twins are as fond of one another as two siblings can be. Gleam is the introv
   - "desc": "*Ranged Spell Attack:* +5 to hit, range 60 ft., one creature. *Hit:*\
       \ 12 (2d8 + 3) radiant damage, and the target must succeed on a DC 13 Wisdom\
       \ saving throw or be transformed into a bat for 1 minute, as though affected\
-      \ by a [polymorph](3-Mechanics/CLI/spells/polymorph.md) spell. The target can\
-      \ repeat the saving throw at the end of each of its turns, ending the effect\
+      \ by a [polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md) spell. The target\
+      \ can repeat the saving throw at the end of each of its turns, ending the effect\
       \ on itself on a success."
     "name": "Moon Ray (Gleam Only; 3/Day)"
   - "desc": "*Ranged Spell Attack:* +5 to hit, range 60 ft., one creature. *Hit:*\
@@ -94,6 +94,6 @@ The twins are as fond of one another as two siblings can be. Gleam is the introv
     "name": "Twin Sight (Recharges after a Short or Long Rest)"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/npc/token/selenelion-twin-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Selenelion%20Twin.webp"
 ```
 ^statblock

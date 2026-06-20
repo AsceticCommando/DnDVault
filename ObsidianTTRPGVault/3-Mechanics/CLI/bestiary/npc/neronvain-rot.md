@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Neronvain"
 ---
-# [Neronvain](3-Mechanics\CLI\bestiary\npc/neronvain-rot.md)
+# [Neronvain](3-Mechanics/CLI/bestiary/npc/neronvain-rot.md)
 *Source: The Rise of Tiamat p. 91, Tyranny of Dragons p. 187*  
 
 ```statblock
@@ -45,7 +45,7 @@ aliases:
 "condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
   \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
 "gear":
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 15"
 "languages": "Common, Draconic, Elvish, Infernal"
@@ -74,6 +74,6 @@ aliases:
 "source":
   - "RoT"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/npc/token/neronvain-rot.webp"
+"image": "file://bestiary/tokens/RoT/Neronvain.webp"
 ```
 ^statblock

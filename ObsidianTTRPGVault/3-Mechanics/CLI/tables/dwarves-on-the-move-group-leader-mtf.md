@@ -12,6 +12,8 @@ aliases:
 
 **Group Leader**
 
+`dice: [](dwarves-on-the-move-group-leader-mtf.md#^group-leader)`
+
 | dice: d6 | Leader |
 |----------|--------|
 | 1 | Dwarf Priest |

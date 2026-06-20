@@ -12,6 +12,8 @@ aliases:
 
 **Guild Adventures**
 
+`dice: [](guild-adventures-erlw.md#^guild-adventures)`
+
 | dice: d10 | Adventures |
 |-----------|------------|
 | 1 | **Crime**. You have to break the law to administer justice or thwart a criminal act (see ""Crime Syndicate""). |

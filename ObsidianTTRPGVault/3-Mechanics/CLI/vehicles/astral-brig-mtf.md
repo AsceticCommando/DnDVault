@@ -18,7 +18,7 @@ The astral brig is the standard githyanki military vessel. It requires a crew of
 
 ```ad-statblock
 title: Astral Brig
-![](3-Mechanics/CLI/vehicles/token/astral-brig-mtf.webp#token)
+![](file://vehicles/tokens/MTF/Astral%20Brig.webp#token)
 *Gargantuan vehicle (90 ft. by 30 ft.); air*
 
 - **Creature Capacity** 5 crew, 60 passengers
@@ -32,6 +32,6 @@ title: Astral Brig
 
 ## Weapon: Ballistas (2)
 
-*Ranged Weapon Attack:* `+6` to hit, range 120/480 ft., one target. *Hit:* 16 (`3d10`) piercing damage.
+*Ranged Weapon Attack:* `dice:1d20+6|noform|noparens|text(+6)` to hit, range 120/480 ft., one target. *Hit:* `dice:3d10|noform|noparens|avg|text(16)` (`3d10`) piercing damage.
 ```
 ^statblock

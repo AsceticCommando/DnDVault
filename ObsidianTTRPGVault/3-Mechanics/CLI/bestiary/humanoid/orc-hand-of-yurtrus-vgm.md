@@ -17,7 +17,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Orc Hand of Yurtrus"
 ---
-# [Orc Hand of Yurtrus](3-Mechanics\CLI\bestiary\humanoid/orc-hand-of-yurtrus-vgm.md)
+# [Orc Hand of Yurtrus](3-Mechanics/CLI/bestiary/humanoid/orc-hand-of-yurtrus-vgm.md)
 *Source: Volo's Guide to Monsters p. 184*  
 
 Yurtrus is the orc god of death and disease. He is a horrifying abomination covered in rot and infection, except for his perfect, smooth white hands.
@@ -46,7 +46,7 @@ In addition, orcs have special relationships with two creatures that are sometim
 "subtype": "orc"
 "alignment": "Chaotic Evil"
 "ac": !!int "12"
-"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor.md)"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor-xphb.md)"
 "hp": !!int "30"
 "hit_dice": "4d8 + 12"
 "modifier": !!int "0"
@@ -75,13 +75,14 @@ In addition, orcs have special relationships with two creatures that are sometim
   - "desc": "The orc is a 4th-level spellcaster. Its spellcasting ability is Wisdom\
       \ (spell save DC 12, +4 to hit with spell attacks). It requires no verbal components\
       \ to cast its spells. The orc has the following cleric spells prepared:\n\n\
-      **Cantrips (at will):** [guidance](3-Mechanics/CLI/spells/guidance.md), [mending](3-Mechanics/CLI/spells/mending.md),\
-      \ [resistance](3-Mechanics/CLI/spells/resistance.md), [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy.md)\n\
-      \n**1st level (4 slots):** [bane](3-Mechanics/CLI/spells/bane.md), [detect magic](3-Mechanics/CLI/spells/detect-magic.md),\
-      \ [inflict wounds](3-Mechanics/CLI/spells/inflict-wounds.md), [protection from\
-      \ evil and good](3-Mechanics/CLI/spells/protection-from-evil-and-good.md)\n\n\
-      **2nd level (3 slots):** [blindness/deafness](3-Mechanics/CLI/spells/blindness-deafness.md),\
-      \ [silence](3-Mechanics/CLI/spells/silence.md)"
+      **Cantrips (at will):** [guidance](3-Mechanics/CLI/spells/guidance-xphb.md),\
+      \ [mending](3-Mechanics/CLI/spells/mending-xphb.md), [resistance](3-Mechanics/CLI/spells/resistance-xphb.md),\
+      \ [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n**1st level (4\
+      \ slots):** [bane](3-Mechanics/CLI/spells/bane-xphb.md), [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [inflict wounds](3-Mechanics/CLI/spells/inflict-wounds-xphb.md), [protection\
+      \ from evil and good](3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md)\n\
+      \n**2nd level (3 slots):** [blindness/deafness](3-Mechanics/CLI/spells/blindness-deafness-xphb.md),\
+      \ [silence](3-Mechanics/CLI/spells/silence-xphb.md)"
     "name": "Spellcasting"
   - "desc": "As a bonus action, the orc can move up to its speed toward a hostile\
       \ creature that it can see."
@@ -92,7 +93,7 @@ In addition, orcs have special relationships with two creatures that are sometim
     "name": "Touch of the White Hand"
 "source":
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/orc-hand-of-yurtrus-vgm.webp"
+"image": "file://bestiary/tokens/VGM/Orc%20Hand%20of%20Yurtrus.webp"
 ```
 ^statblock
 

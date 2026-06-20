@@ -12,6 +12,8 @@ aliases:
 
 **Omens of Heliod**
 
+`dice: [](omens-of-heliod-mot.md#^omens-of-heliod)`
+
 | dice: d8 | dice: d100 | Omen of Heliod |
 |----------|------------|----------------|
 | 1 | 21 | A brilliant pattern appears around the sun. |

@@ -11,7 +11,7 @@ aliases:
 ---
 # Gold (gp)
 *Treasure (coinage)*  
-![](3-Mechanics/CLI/items/img/gold-gp.webp#right)
+![](file://items/PHB/Gold%20%28gp%29.webp#right)
 
 - **Cost**: 1 gp
 - **Weight**: 0.02 lbs.

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Turlang"
 ---
-# [Turlang](3-Mechanics\CLI\bestiary\npc/turlang-skt.md)
+# [Turlang](3-Mechanics/CLI/bestiary/npc/turlang-skt.md)
 *Source: Storm King's Thunder p. 107*  
 
 ```statblock
@@ -54,7 +54,7 @@ aliases:
       \ 28 (4d10 + 6) bludgeoning damage."
     "name": "Rock"
   - "desc": "The treant magically animates one or two trees it can see within 60 feet\
-      \ of it. These trees have the same statistics as a [treant](3-Mechanics/CLI/bestiary/plant/treant.md),\
+      \ of it. These trees have the same statistics as a [treant](3-Mechanics/CLI/bestiary/plant/treant-xmm.md),\
       \ except they have Intelligence and Charisma scores of 1, they can't speak,\
       \ and they have only the Slam action option. An animated tree acts as an ally\
       \ of Turlang. The tree remains animate for 1 day or until it dies; until Turlang\
@@ -64,20 +64,20 @@ aliases:
     "name": "Animate Trees (1/Day)"
   - "desc": "Turlang casts one of the following spells, requiring no material spell\
       \ components and using Wisdom as the spellcasting ability (spell save DC 15):\n\
-      \n**At will:** [druidcraft](3-Mechanics/CLI/spells/druidcraft.md), [guidance](3-Mechanics/CLI/spells/guidance.md),\
-      \ [resistance](3-Mechanics/CLI/spells/resistance.md), [speak with plants](3-Mechanics/CLI/spells/speak-with-plants.md)\n\
-      \n**2/day each:** [animal messenger](3-Mechanics/CLI/spells/animal-messenger.md),\
-      \ [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [entangle](3-Mechanics/CLI/spells/entangle.md),\
-      \ [goodberry](3-Mechanics/CLI/spells/goodberry.md), [gust of wind](3-Mechanics/CLI/spells/gust-of-wind.md),\
-      \ [pass without trace](3-Mechanics/CLI/spells/pass-without-trace.md), [speak\
-      \ with animals](3-Mechanics/CLI/spells/speak-with-animals.md)\n\n**1/day each:**\
-      \ [commune with nature](3-Mechanics/CLI/spells/commune-with-nature.md) (cast\
-      \ as 1 action), [conjure woodland beings](3-Mechanics/CLI/spells/conjure-woodland-beings.md),\
-      \ [hallucinatory terrain](3-Mechanics/CLI/spells/hallucinatory-terrain.md) (cast\
-      \ as 1 action)"
+      \n**At will:** [druidcraft](3-Mechanics/CLI/spells/druidcraft-xphb.md), [guidance](3-Mechanics/CLI/spells/guidance-xphb.md),\
+      \ [resistance](3-Mechanics/CLI/spells/resistance-xphb.md), [speak with plants](3-Mechanics/CLI/spells/speak-with-plants-xphb.md)\n\
+      \n**2/day each:** [animal messenger](3-Mechanics/CLI/spells/animal-messenger-xphb.md),\
+      \ [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [entangle](3-Mechanics/CLI/spells/entangle-xphb.md),\
+      \ [goodberry](3-Mechanics/CLI/spells/goodberry-xphb.md), [gust of wind](3-Mechanics/CLI/spells/gust-of-wind-xphb.md),\
+      \ [pass without trace](3-Mechanics/CLI/spells/pass-without-trace-xphb.md), [speak\
+      \ with animals](3-Mechanics/CLI/spells/speak-with-animals-xphb.md)\n\n**1/day\
+      \ each:** [commune with nature](3-Mechanics/CLI/spells/commune-with-nature-xphb.md)\
+      \ (cast as 1 action), [conjure woodland beings](3-Mechanics/CLI/spells/conjure-woodland-beings-xphb.md),\
+      \ [hallucinatory terrain](3-Mechanics/CLI/spells/hallucinatory-terrain-xphb.md)\
+      \ (cast as 1 action)"
     "name": "Spellcasting"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/turlang-skt.webp"
+"image": "file://bestiary/tokens/SKT/Turlang.webp"
 ```
 ^statblock

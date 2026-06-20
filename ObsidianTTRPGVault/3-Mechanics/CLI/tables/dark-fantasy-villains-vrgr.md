@@ -12,6 +12,8 @@ aliases:
 
 **Dark Fantasy Villains**
 
+`dice: [](dark-fantasy-villains-vrgr.md#^dark-fantasy-villains)`
+
 | dice: d10 | Villain |
 |-----------|---------|
 | 1 | A machine that believes it's a resurrected tyrant and seeks to rebuild its empire in iron |

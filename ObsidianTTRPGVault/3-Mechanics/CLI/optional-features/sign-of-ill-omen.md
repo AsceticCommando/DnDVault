@@ -13,4 +13,4 @@ aliases:
 
 **Prerequisite**: Level 5
 
-You can cast [bestow curse](3-Mechanics/CLI/spells/bestow-curse.md) once using a warlock spell slot. You can't do so again until you finish a long rest.
+You can cast [bestow curse](3-Mechanics/CLI/spells/bestow-curse-xphb.md) once using a warlock spell slot. You can't do so again until you finish a long rest.

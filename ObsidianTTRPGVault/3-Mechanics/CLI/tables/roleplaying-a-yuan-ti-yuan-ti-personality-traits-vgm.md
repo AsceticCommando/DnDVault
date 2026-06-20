@@ -12,6 +12,8 @@ aliases:
 
 **Yuan-ti Personality Traits**
 
+`dice: [](roleplaying-a-yuan-ti-yuan-ti-personality-traits-vgm.md#^yuan-ti-personality-traits)`
+
 | dice: d8 | Personality Trait |
 |----------|-------------------|
 | 1 | I see omens in every event and action. The serpent gods continue to advise us. |

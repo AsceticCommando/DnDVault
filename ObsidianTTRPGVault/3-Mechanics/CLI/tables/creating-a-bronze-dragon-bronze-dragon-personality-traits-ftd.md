@@ -12,6 +12,8 @@ aliases:
 
 **Bronze Dragon Personality Traits**
 
+`dice: [](creating-a-bronze-dragon-bronze-dragon-personality-traits-ftd.md#^bronze-dragon-personality-traits)`
+
 | dice: d8 | Trait |
 |----------|-------|
 | 1 | The weakest creatures sometimes display the greatest courage. I respect all beings who risk their lives in defense of something greater than themselves. |

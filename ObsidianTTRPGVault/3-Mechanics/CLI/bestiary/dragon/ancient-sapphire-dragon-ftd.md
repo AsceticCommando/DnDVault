@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Ancient Sapphire Dragon"
 ---
-# [Ancient Sapphire Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-sapphire-dragon-ftd.md)
+# [Ancient Sapphire Dragon](3-Mechanics/CLI/bestiary/dragon/ancient-sapphire-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 214*  
 
 The thunderous clash of conflict is part of the very nature of sapphire dragons. Militant and territorial, they defend their lairs fiercely, ambushing intruders and plotting assaults against their rivals. The sonic pulse of their breath weapon sows weakness, leaving the victims unable to fight back.
@@ -105,9 +105,9 @@ The challenge rating of a legendary sapphire dragon increases by 1 when it's enc
     "name": "Debilitating Breath (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 20):\n\n\
-      **1/day each:** [dissonant whispers](3-Mechanics/CLI/spells/dissonant-whispers.md),\
-      \ [hold monster](3-Mechanics/CLI/spells/hold-monster.md), [meld into stone](3-Mechanics/CLI/spells/meld-into-stone.md),\
-      \ [telekinesis](3-Mechanics/CLI/spells/telekinesis.md), [teleport](3-Mechanics/CLI/spells/teleport.md)"
+      **1/day each:** [dissonant whispers](3-Mechanics/CLI/spells/dissonant-whispers-xphb.md),\
+      \ [hold monster](3-Mechanics/CLI/spells/hold-monster-xphb.md), [meld into stone](3-Mechanics/CLI/spells/meld-into-stone-xphb.md),\
+      \ [telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md), [teleport](3-Mechanics/CLI/spells/teleport-xphb.md)"
     "name": "Spellcasting (Psionics)"
 "bonus_actions":
   - "desc": "The dragon magically transforms into any creature that is Medium or Small,\
@@ -141,14 +141,14 @@ The challenge rating of a legendary sapphire dragon increases by 1 when it's enc
       - **Crystal Profusion.** Natural stone within 6 miles of the lair grows plentiful\
       \ crystal formations and veins of sapphire gemstones, particularly underground.\
       \  \n- **Stony Sight.** Natural stone within 6 miles of the lair is a conduit\
-      \ for the dragon's psionic presence. As an action, the dragon can cast the [clairvoyance](3-Mechanics/CLI/spells/clairvoyance.md)\
+      \ for the dragon's psionic presence. As an action, the dragon can cast the [clairvoyance](3-Mechanics/CLI/spells/clairvoyance-xphb.md)\
       \ spell, requiring no spell components and targeting any natural stone formation\
       \ in that region.  \n- **Telepathic Enhancement.** The dragon's psionic energy\
       \ enhances the mental powers of other creatures. Any creature capable of telepathic\
       \ communication has its telepathy range doubled while within 1 mile of the lair.\
       \ This includes creatures with innate telepathy and magical telepathy such as\
-      \ the [Rary's telepathic bond](3-Mechanics/CLI/spells/rarys-telepathic-bond.md)\
-      \ spell.  \n- **Thriving Wildlife.** [Giant spiders](3-Mechanics/CLI/bestiary/beast/giant-spider.md)\
+      \ the [Rary's telepathic bond](3-Mechanics/CLI/spells/rarys-telepathic-bond-xphb.md)\
+      \ spell.  \n- **Thriving Wildlife.** [Giant spiders](3-Mechanics/CLI/bestiary/beast/giant-spider-xmm.md)\
       \ (a sapphire dragon's favorite prey) are attracted to the area within 6 miles\
       \ of the lair and settle there in large numbers.  \n\nIf the dragon dies, the\
       \ population of giant spiders in the region returns to normal levels over the\
@@ -171,6 +171,6 @@ The challenge rating of a legendary sapphire dragon increases by 1 when it's enc
     "name": "Telekinetic Fling (Costs 3 Actions)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/ancient-sapphire-dragon-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Ancient%20Sapphire%20Dragon.webp"
 ```
 ^statblock

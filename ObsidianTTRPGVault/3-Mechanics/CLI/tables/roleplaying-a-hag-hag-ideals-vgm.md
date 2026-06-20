@@ -12,6 +12,8 @@ aliases:
 
 **Hag Ideals**
 
+`dice: [](roleplaying-a-hag-hag-ideals-vgm.md#^hag-ideals)`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Change. I will metamorphose into every kind of hag and live a century as each, becoming something even greater in the end. (Chaotic) |

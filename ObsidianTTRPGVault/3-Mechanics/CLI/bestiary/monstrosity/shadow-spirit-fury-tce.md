@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Shadow Spirit (Fury)"
 ---
-# [Shadow Spirit (Fury)](3-Mechanics\CLI\bestiary\monstrosity/shadow-spirit-fury-tce.md)
+# [Shadow Spirit (Fury)](3-Mechanics/CLI/bestiary/monstrosity/shadow-spirit-fury-tce.md)
 *Source: Tasha's Cauldron of Everything p. 114*  
 
 ```statblock

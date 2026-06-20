@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Princeps Kovik"
 ---
-# [Princeps Kovik](3-Mechanics\CLI\bestiary\npc/princeps-kovik-bgdia.md)
+# [Princeps Kovik](3-Mechanics/CLI/bestiary/npc/princeps-kovik-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 91*  
 
 ```statblock
@@ -81,6 +81,6 @@ aliases:
     "name": "Unnerving Mask"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/princeps-kovik-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Princeps%20Kovik.webp"
 ```
 ^statblock

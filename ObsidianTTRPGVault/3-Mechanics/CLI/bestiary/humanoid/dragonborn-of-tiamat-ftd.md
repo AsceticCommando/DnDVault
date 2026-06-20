@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Dragonborn of Tiamat"
 ---
-# [Dragonborn of Tiamat](3-Mechanics\CLI\bestiary\humanoid/dragonborn-of-tiamat-ftd.md)
+# [Dragonborn of Tiamat](3-Mechanics/CLI/bestiary/humanoid/dragonborn-of-tiamat-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 185*  
 
 Champions of the dragon queen are often called Talons of Tiamat. They work tirelessly to free their master from her imprisonment in Avernus, and Tiamat grants these pawns immense strength and a devastating breath weapon. Champions of Tiamat are sometimes associated with the Cult of the Dragon (described in chapter 3).
@@ -27,7 +27,7 @@ The connection between dragonborn and their draconic ancestors manifests in a va
 "type": "humanoid"
 "alignment": "typically  Chaotic Evil"
 "ac": !!int "18"
-"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor.md)"
+"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "85"
 "hit_dice": "10d8 + 40"
 "modifier": !!int "0"
@@ -53,7 +53,7 @@ The connection between dragonborn and their draconic ancestors manifests in a va
     "desc": "+4"
 "condition_immunities": "[frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
 "gear":
-  - "[greataxe](3-Mechanics/CLI/items/greataxe.md)"
+  - "[greataxe](3-Mechanics/CLI/items/greataxe-xphb.md)"
 "senses": "passive Perception 14"
 "languages": "Common, Draconic"
 "cr": "7"
@@ -77,6 +77,6 @@ The connection between dragonborn and their draconic ancestors manifests in a va
     "name": "Necrotic Breath (Recharge 6)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/dragonborn-of-tiamat-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Dragonborn%20of%20Tiamat.webp"
 ```
 ^statblock

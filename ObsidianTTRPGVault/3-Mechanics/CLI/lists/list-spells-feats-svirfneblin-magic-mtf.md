@@ -11,13 +11,13 @@ aliases:
 
 ## 1st Level
 
-- [Disguise Self](3-Mechanics/CLI/spells/disguise-self.md "PHB") 
+- [Disguise Self](3-Mechanics/CLI/spells/disguise-self-xphb.md "XPHB")
 
 ## 2nd Level
 
-- [Blindness/Deafness](3-Mechanics/CLI/spells/blindness-deafness.md "PHB") 
-- [Blur](3-Mechanics/CLI/spells/blur.md "PHB") 
+- [Blindness/Deafness](3-Mechanics/CLI/spells/blindness-deafness-xphb.md "XPHB")
+- [Blur](3-Mechanics/CLI/spells/blur-xphb.md "XPHB")
 
 ## 3rd Level
 
-- [Nondetection](3-Mechanics/CLI/spells/nondetection.md "PHB")
+- [Nondetection](3-Mechanics/CLI/spells/nondetection-xphb.md "XPHB")

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Young Moonstone Dragon"
 ---
-# [Young Moonstone Dragon](3-Mechanics\CLI\bestiary\dragon/young-moonstone-dragon-ftd.md)
+# [Young Moonstone Dragon](3-Mechanics/CLI/bestiary/dragon/young-moonstone-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 213*  
 
 Ancient legends suggest that when the gods came to the First World and tried to populate it with their Humanoid followers, a clever dragon fled to the Feywild to hide a clutch of eggs. The magic of that faerie realm suffused the eggs, which hatched into the first moonstone dragons. Their descendants are now found throughout the Feywild.
@@ -29,6 +29,8 @@ Use the Moonstone Dragon Personality Traits and Moonstone Dragon Ideals tables t
 
 ### Moonstone Dragon Personality Traits
 
+`dice: [](young-moonstone-dragon-ftd.md#^trait)`
+
 | dice: d8 | Trait |
 |----------|-------|
 | 1 | I often lose track of whether I'm in the Feywild or on the Material Plane. |
@@ -42,6 +44,8 @@ Use the Moonstone Dragon Personality Traits and Moonstone Dragon Ideals tables t
 ^trait
 
 ### Moonstone Dragon Ideals
+
+`dice: [](young-moonstone-dragon-ftd.md#^ideal)`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -58,6 +62,8 @@ Use the Moonstone Dragon Personality Traits and Moonstone Dragon Ideals tables t
 The Moonstone Dragon Adventure Hooks table offers suggestions for stories and adventures involving moonstone dragons.
 
 ### Moonstone Dragon Adventure Hooks
+
+`dice: [](young-moonstone-dragon-ftd.md#^adventure-hook)`
 
 | dice: d8 | Adventure Hook |
 |----------|----------------|
@@ -76,6 +82,8 @@ The Moonstone Dragon Adventure Hooks table offers suggestions for stories and ad
 In the Feywild, moonstone dragons interact mostly with pixies, sprites, and other Fey creatures who revere and serve the dragon. Outside the Feywild, they often prefer to communicate with other creatures through dreams.
 
 ### Young Moonstone Dragon Connections
+
+`dice: [](young-moonstone-dragon-ftd.md#^connected-creatures)`
 
 | dice: d6 | Connected Creatures |
 |----------|---------------------|
@@ -142,11 +150,11 @@ In the Feywild, moonstone dragons interact mostly with pixies, sprites, and othe
     "name": "Breath Weapon (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 15):\n\n**1/day\
-      \ each:** [calm emotions](3-Mechanics/CLI/spells/calm-emotions.md), [faerie\
-      \ fire](3-Mechanics/CLI/spells/faerie-fire.md)"
+      \ each:** [calm emotions](3-Mechanics/CLI/spells/calm-emotions-xphb.md), [faerie\
+      \ fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/young-moonstone-dragon-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Young%20Moonstone%20Dragon.webp"
 ```
 ^statblock

@@ -12,6 +12,8 @@ aliases:
 
 **Cause of Death**
 
+`dice: [](supplemental-tables-cause-of-death-xge.md#^cause-of-death)`
+
 | dice: d12 | Cause of Death |
 |-----------|----------------|
 | 1 | Unknown |

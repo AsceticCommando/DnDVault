@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Nightmare Haunt"
 ---
-# [Nightmare Haunt](3-Mechanics\CLI\bestiary\aberration/nightmare-haunt-mcv4ec.md)
+# [Nightmare Haunt](3-Mechanics/CLI/bestiary/aberration/nightmare-haunt-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 Nightmare haunts are terrors from the minds of Eldraine's sleeping citizens, made tangible by the planeswalker Ashiok. These creatures can hurt the body and also attack the minds of dreamers afflicted by the Wicked Slumber.
@@ -79,7 +79,7 @@ Nightmare haunts appear as horrifying shadow creatures with forms evocative of t
       \ condition caused by the tendrils. On a successful save, the effect ends on\
       \ the creature. An [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)\
       \ creature remains asleep until it is no longer in the area with tendrils, takes\
-      \ any damage, or is targeted by a [remove curse](3-Mechanics/CLI/spells/remove-curse.md)\
+      \ any damage, or is targeted by a [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md)\
       \ spell or similar magic."
     "name": "Tendrils of Slumber (Recharge 5-6)"
 "bonus_actions":
@@ -88,6 +88,6 @@ Nightmare haunts appear as horrifying shadow creatures with forms evocative of t
     "name": "Shadow Stealth"
 "source":
   - "MCV4EC"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/nightmare-haunt-mcv4ec.webp"
+"image": "file://bestiary/tokens/MCV4EC/Nightmare%20Haunt.webp"
 ```
 ^statblock

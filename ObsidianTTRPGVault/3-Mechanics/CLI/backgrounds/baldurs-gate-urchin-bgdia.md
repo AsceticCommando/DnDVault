@@ -13,8 +13,8 @@ aliases:
 
 
 - **Skill Proficiencies.** [Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand), [Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)  
-- **Tool Proficiencies.** [Disguise kit](3-Mechanics/CLI/items/disguise-kit.md), [Thieves' tools](3-Mechanics/CLI/items/thieves-tools.md)  
-- **Equipment.** A small knife, a map of the city you grew up in, a pet mouse, a token to remember your parents by, a set of [common clothes](3-Mechanics/CLI/items/common-clothes.md), and a belt [pouch](3-Mechanics/CLI/items/pouch.md) containing 10 gp  
+- **Tool Proficiencies.** [Disguise kit](3-Mechanics/CLI/items/disguise-kit-xphb.md), [Thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md)  
+- **Equipment.** A small knife, a map of the city you grew up in, a pet mouse, a token to remember your parents by, a set of [common clothes](3-Mechanics/CLI/items/common-clothes.md), and a belt [pouch](3-Mechanics/CLI/items/pouch-xphb.md) containing 10 gp  
 
 Bands of orphans and runaways band together in the Outer City, running after passersby in ragged throngs to plead for scraps. In the Lower City, urchins are often recruited into the lowest echelons of the Guild or pressed into dirty and dangerous work by unscrupulous masters.
 
@@ -33,6 +33,8 @@ Even though you might not be a member of the Gateguides crew, you've associated 
 
 Urchins are shaped by lives of desperate poverty, for good and for ill. They tend to be driven either by a commitment to the people with whom they shared life on the street or by a burning desire to find a better life—and maybe get some payback on all the rich people who treated them badly.
 
+`dice: [](baldurs-gate-urchin-bgdia.md#^personality-trait)`
+
 | dice: d8 | Personality Trait |
 |----------|-------------------|
 | 1 | I hide scraps of food and trinkets away in my pockets. |
@@ -45,6 +47,8 @@ Urchins are shaped by lives of desperate poverty, for good and for ill. They ten
 | 8 | I bluntly say what others are hinting at or hiding. |
 ^personality-trait
 
+`dice: [](baldurs-gate-urchin-bgdia.md#^ideal)`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Respect. All people, rich or poor, deserve respect. (Good) |
@@ -55,6 +59,8 @@ Urchins are shaped by lives of desperate poverty, for good and for ill. They ten
 | 6 | Aspiration. I'm going to prove that I'm worthy of a better life. (Any) |
 ^ideal
 
+`dice: [](baldurs-gate-urchin-bgdia.md#^bond)`
+
 | dice: d6 | Bond |
 |----------|------|
 | 1 | My town or city is my home, and I'll fight to defend it. |
@@ -64,6 +70,8 @@ Urchins are shaped by lives of desperate poverty, for good and for ill. They ten
 | 5 | I escaped my life of poverty by robbing an important person, and I'm wanted for it. |
 | 6 | No one else should have to endure the hardships I've been through. |
 ^bond
+
+`dice: [](baldurs-gate-urchin-bgdia.md#^flaw)`
 
 | dice: d6 | Flaw |
 |----------|------|

@@ -12,6 +12,8 @@ aliases:
 
 **Brass Dragon Adventure Hooks**
 
+`dice: [](brass-dragon-adventures-brass-dragon-adventure-hooks-ftd.md#^brass-dragon-adventure-hooks)`
+
 | dice: d8 | Adventure Hook |
 |----------|----------------|
 | 1 | A brass dragon has discovered an unfamiliar settlement and is determined to learn everything about the site's inhabitants, drastically disrupting the inhabitants' lives. |

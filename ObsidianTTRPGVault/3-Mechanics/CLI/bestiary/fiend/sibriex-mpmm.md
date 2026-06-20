@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Sibriex"
 ---
-# [Sibriex](3-Mechanics\CLI\bestiary\fiend/sibriex-mpmm.md)
+# [Sibriex](3-Mechanics/CLI/bestiary/fiend/sibriex-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 217, Mordenkainen's Tome of Foes p. 137*  
 
 Thought to be as old as the Abyss itself, sibriexes haunt remote parts of that plane, where they use their vile abilities to create new horrors and they seek ancient lore. Rivulets of blood and bile cascade from a sibriex's body, polluting the surrounding landscape.
@@ -94,14 +94,15 @@ Sibriexes can channel the power of the Abyss to create new demons from other cre
       \ caused by it. Each failed save causes the target to gain another level of\
       \ [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion). Once the target\
       \ reaches 6 levels of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
-      \ it dies and instantly transforms into a living [manes](3-Mechanics/CLI/bestiary/fiend/manes.md)\
+      \ it dies and instantly transforms into a living [manes](3-Mechanics/CLI/bestiary/fiend/manes-xmm.md)\
       \ under the sibriex's control. The transformation of the body can be undone\
-      \ only by a [wish](3-Mechanics/CLI/spells/wish.md) spell."
+      \ only by a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell."
     "name": "Warp Creature"
   - "desc": "The sibriex casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 21):\n\
-      \n**At will:** [command](3-Mechanics/CLI/spells/command.md), [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md),\
-      \ [hold monster](3-Mechanics/CLI/spells/hold-monster.md)\n\n**1/day:** [feeblemind](3-Mechanics/CLI/spells/feeblemind.md)"
+      \n**At will:** [command](3-Mechanics/CLI/spells/command-xphb.md), [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
+      \ [hold monster](3-Mechanics/CLI/spells/hold-monster-xphb.md)\n\n**1/day:**\
+      \ [feeblemind](3-Mechanics/CLI/spells/befuddlement-xphb.md)"
     "name": "Spellcasting"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, the sibriex can expend a use to take one of the following actions. The sibriex\
@@ -116,7 +117,7 @@ Sibriexes can channel the power of the Abyss to create new demons from other cre
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/sibriex-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Sibriex.webp"
 ```
 ^statblock
 

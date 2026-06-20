@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Kaaltar"
 ---
-# [Kaaltar](3-Mechanics\CLI\bestiary\npc/kaaltar-skt.md)
+# [Kaaltar](3-Mechanics/CLI/bestiary/npc/kaaltar-skt.md)
 *Source: Storm King's Thunder p. 197*  
 
 ```statblock
@@ -33,7 +33,7 @@ aliases:
   - !!int "10"
 "speed": "30 ft."
 "gear":
-  - "[club](3-Mechanics/CLI/items/club.md)"
+  - "[club](3-Mechanics/CLI/items/club-xphb.md)"
 "senses": "passive Perception 10"
 "languages": "Giant"
 "cr": "0"
@@ -43,6 +43,6 @@ aliases:
     "name": "Club"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/kaaltar-skt.webp"
+"image": "file://bestiary/tokens/SKT/Kaaltar.webp"
 ```
 ^statblock

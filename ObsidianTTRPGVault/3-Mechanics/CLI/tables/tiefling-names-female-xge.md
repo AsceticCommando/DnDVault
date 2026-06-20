@@ -12,6 +12,8 @@ aliases:
 
 **Tiefling Names – Female**
 
+`dice: [](tiefling-names-female-xge.md#^tiefling-names-female)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Akta |

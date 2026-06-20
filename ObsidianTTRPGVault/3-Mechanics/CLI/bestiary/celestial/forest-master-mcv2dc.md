@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Forest Master"
 ---
-# [Forest Master](3-Mechanics\CLI\bestiary\celestial/forest-master-mcv2dc.md)
+# [Forest Master](3-Mechanics/CLI/bestiary/celestial/forest-master-mcv2dc.md)
 *Source: Monstrous Compendium Volume 2: Dragonlance Creatures p. 6*  
 
 Said to be older than the trees themselves, the Forest Master is a wise and powerful unicorn who rules over the creatures of Darken Wood in Krynn. The ancient being's body is wreathed in protective briars, and moonlight dances around the unicorn's horn. Those who threaten the Forest Master's lands find themselves beguiled by magical mist and nigh-impregnable thorny thickets, but those who gain the Forest Master's favor are blessed with healing and protected as they traverse the woods.
@@ -74,11 +74,11 @@ Said to be older than the trees themselves, the Forest Master is a wise and powe
     "name": "Moon Bolt"
   - "desc": "The Forest Master casts one of the following spells, requiring no material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 15):\n\
-      \n**At will:** [druidcraft](3-Mechanics/CLI/spells/druidcraft.md), [fog cloud](3-Mechanics/CLI/spells/fog-cloud.md),\
-      \ [guidance](3-Mechanics/CLI/spells/guidance.md)\n\n**2/day each:** [goodberry](3-Mechanics/CLI/spells/goodberry.md),\
-      \ [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md), [pass\
-      \ without trace](3-Mechanics/CLI/spells/pass-without-trace.md), [speak with\
-      \ plants](3-Mechanics/CLI/spells/speak-with-plants.md)"
+      \n**At will:** [druidcraft](3-Mechanics/CLI/spells/druidcraft-xphb.md), [fog\
+      \ cloud](3-Mechanics/CLI/spells/fog-cloud-xphb.md), [guidance](3-Mechanics/CLI/spells/guidance-xphb.md)\n\
+      \n**2/day each:** [goodberry](3-Mechanics/CLI/spells/goodberry-xphb.md), [greater\
+      \ restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md), [pass without\
+      \ trace](3-Mechanics/CLI/spells/pass-without-trace-xphb.md), [speak with plants](3-Mechanics/CLI/spells/speak-with-plants-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The Forest Master touches his horn to the earth and causes a 5-foot-tall\
@@ -99,6 +99,6 @@ Said to be older than the trees themselves, the Forest Master is a wise and powe
     "name": "Misty Escape"
 "source":
   - "MCV2DC"
-"image": "3-Mechanics/CLI/bestiary/celestial/token/forest-master-mcv2dc.webp"
+"image": "file://bestiary/tokens/MCV2DC/Forest%20Master.webp"
 ```
 ^statblock

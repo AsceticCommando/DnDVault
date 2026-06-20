@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Grung Elite Warrior (Green)"
 ---
-# [Grung Elite Warrior (Green)](3-Mechanics\CLI\bestiary\humanoid/grung-elite-warrior-green-mpmm.md)
+# [Grung Elite Warrior (Green)](3-Mechanics/CLI/bestiary/humanoid/grung-elite-warrior-green-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 150, Volo's Guide to Monsters p. 157*  
 
 ```statblock
@@ -47,8 +47,8 @@ aliases:
 "damage_immunities": "poison"
 "condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
-  - "[shortbow](3-Mechanics/CLI/items/shortbow.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
+  - "[shortbow](3-Mechanics/CLI/items/shortbow-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Grung"
 "cr": "2"

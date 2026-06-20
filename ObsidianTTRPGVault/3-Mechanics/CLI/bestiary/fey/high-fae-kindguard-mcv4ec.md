@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "High Fae Kindguard"
 ---
-# [High Fae Kindguard](3-Mechanics\CLI\bestiary\fey/high-fae-kindguard-mcv4ec.md)
+# [High Fae Kindguard](3-Mechanics/CLI/bestiary/fey/high-fae-kindguard-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 High fae kindguards have spent centuries perfecting their martial prowess, moving with a speed and grace others can only imagine. Their tall stature, large wings, elaborate horns, and massive weapons give them a truly intimidating silhouette.
@@ -97,6 +97,6 @@ The high fae are ruled by Talion, the Kindly Lord. Talion is as strange, ancient
     "name": "Parry and Riposte"
 "source":
   - "MCV4EC"
-"image": "3-Mechanics/CLI/bestiary/fey/token/high-fae-kindguard-mcv4ec.webp"
+"image": "file://bestiary/tokens/MCV4EC/High%20Fae%20Kindguard.webp"
 ```
 ^statblock

@@ -12,6 +12,8 @@ aliases:
 
 **Keranos's Divine Schemes**
 
+`dice: [](keranoss-divine-schemes-mot.md#^keranoss-divine-schemes)`
+
 | dice: d4 | Scheme |
 |----------|--------|
 | 1 | Bored with the temporary beauty of violent weather, Keranos creates a massive, self-perpetuating storm. Over time, the storm grows out of control. Keranos is delighted by his creation. |

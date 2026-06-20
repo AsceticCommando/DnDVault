@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Khaspere Drylund"
 ---
-# [Khaspere Drylund](3-Mechanics\CLI\bestiary\npc/khaspere-drylund-skt.md)
+# [Khaspere Drylund](3-Mechanics/CLI/bestiary/npc/khaspere-drylund-skt.md)
 *Source: Storm King's Thunder p. 216*  
 
 ```statblock
@@ -41,7 +41,7 @@ aliases:
   - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+5"
 "gear":
-  - "[rapier](3-Mechanics/CLI/items/rapier.md)"
+  - "[rapier](3-Mechanics/CLI/items/rapier-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Common, Dwarvish, Elvish"
 "cr": "1/8"
@@ -55,6 +55,6 @@ aliases:
     "name": "Parry"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/khaspere-drylund-skt.webp"
+"image": "file://bestiary/tokens/SKT/Khaspere%20Drylund.webp"
 ```
 ^statblock

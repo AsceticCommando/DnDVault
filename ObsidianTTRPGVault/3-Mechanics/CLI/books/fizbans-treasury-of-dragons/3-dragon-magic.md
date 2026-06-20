@@ -20,7 +20,7 @@ The magic woven through the fabric of the Material Plane is concentrated in drag
 
 ""Draconic Gifts"" introduces magical gifts that characters might gain in connection with a dragon's death or other unusual circumstances.
 
-![In any form, Bahamut delig...](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/008-02-001-chapter-splash.webp#center "In any form, Bahamut delights in the &quot;Aha!&quot; moments of teaching young students")
+![In any form, Bahamut delights in the &quot;Aha!&quot; moments of teaching young students](file://book/FTD/008-02-001.chapter-splash.webp#center)
 
 ## Spells
 
@@ -84,7 +84,7 @@ Hoard items often manifest strange qualities beyond their intended function, reg
 
 ### Hoard Item Descriptions
 
-![A magic weapon recovered f...](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/011-02-004-a-magic-weapon.webp#center "A magic weapon recovered from a dragon's hoard carries some of the dragon's magic")
+![A magic weapon recovered from a dragon's hoard carries some of the dragon's magic](file://book/FTD/011-02-004.a-magic-weapon.webp#center)
 
 Hoard items are presented here in alphabetical order. A hoard item's rarity changes depending on its current state, as shown in each item description.
 
@@ -126,19 +126,19 @@ You can use a more common draconic gift for an older dragon, but exercise cautio
 - [Scaled Toughness](3-Mechanics/CLI/rewards/scaled-toughness-ftd.md)  
 - [Tongue of the Dragon](3-Mechanics/CLI/rewards/tongue-of-the-dragon-ftd.md)  
 
-![A dragon's blood can be as powerful as it is toxic](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/012-02-005-a-dragons-blood.webp#center)
+![A dragon's blood can be as powerful as it is toxic](file://book/FTD/012-02-005.a-dragons-blood.webp#center)
 
 > [!note] Feats as Draconic Gifts
 > 
 > If your campaign uses the optional feat rules from the "Player's Handbook", your Dungeon Master might give you a feat as a variant draconic gift. You gain one feat of your or the DM's choice, which is related in some way to the draconic power you have acquired. Consider these examples:
 > 
-> - Your heightened senses give you a dragon's awareness of your surroundings ([Alert](3-Mechanics/CLI/feats/alert.md) or [Observant](3-Mechanics/CLI/feats/observant.md)).  
-> - Dragon's blood has made you hardy and resilient ([Durable](3-Mechanics/CLI/feats/durable.md), [Resilient](3-Mechanics/CLI/feats/resilient.md), or [Tough](3-Mechanics/CLI/feats/tough.md)).  
-> - Exposure to the primal energy of a dragon's body has given you a magical affinity for one damage type ([Elemental Adept](3-Mechanics/CLI/feats/elemental-adept.md)).  
-> - You are infused with a dragon's charismatic gift for inspiration ([Inspiring Leader](3-Mechanics/CLI/feats/inspiring-leader.md)).  
-> - You are imbued with a dragon's intellect ([Keen Mind](3-Mechanics/CLI/feats/keen-mind.md)).  
-> - The dragon's gift lingers in the form of good luck ([Lucky](3-Mechanics/CLI/feats/lucky.md)).  
-> - The dragon's inherent magic has transferred to your own blood ([Magic Initiate](3-Mechanics/CLI/feats/magic-initiate.md)).  
+> - Your heightened senses give you a dragon's awareness of your surroundings ([Alert](3-Mechanics/CLI/feats/alert-xphb.md) or [Observant](3-Mechanics/CLI/feats/observant-xphb.md)).  
+> - Dragon's blood has made you hardy and resilient ([Durable](3-Mechanics/CLI/feats/durable-xphb.md), [Resilient](3-Mechanics/CLI/feats/resilient-xphb.md), or [Tough](3-Mechanics/CLI/feats/tough-xphb.md)).  
+> - Exposure to the primal energy of a dragon's body has given you a magical affinity for one damage type ([Elemental Adept](3-Mechanics/CLI/feats/elemental-adept-xphb.md)).  
+> - You are infused with a dragon's charismatic gift for inspiration ([Inspiring Leader](3-Mechanics/CLI/feats/inspiring-leader-xphb.md)).  
+> - You are imbued with a dragon's intellect ([Keen Mind](3-Mechanics/CLI/feats/keen-mind-xphb.md)).  
+> - The dragon's gift lingers in the form of good luck ([Lucky](3-Mechanics/CLI/feats/lucky-xphb.md)).  
+> - The dragon's inherent magic has transferred to your own blood ([Magic Initiate](3-Mechanics/CLI/feats/magic-initiate-xphb.md)).  
 > 
 > At the DM's discretion, you might also be able to gain one of the draconic feats described in "chapter 1" as a draconic gift.
 ^feats-as-draconic-gifts

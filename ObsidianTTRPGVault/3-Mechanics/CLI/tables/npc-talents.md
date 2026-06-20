@@ -12,6 +12,8 @@ aliases:
 
 **NPC Talents**
 
+`dice: [](npc-talents.md#^npc-talents)`
+
 | dice: d20 | Talent |
 |-----------|--------|
 | 1 | Plays a musical instrument |

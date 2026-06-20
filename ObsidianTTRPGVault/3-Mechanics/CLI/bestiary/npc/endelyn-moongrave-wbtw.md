@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Endelyn Moongrave"
 ---
-# [Endelyn Moongrave](3-Mechanics\CLI\bestiary\npc/endelyn-moongrave-wbtw.md)
+# [Endelyn Moongrave](3-Mechanics/CLI/bestiary/npc/endelyn-moongrave-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 217*  
 
 Endelyn, also known by the names Creeping Lyn and Bitter End, is the youngest member of the Hourglass Coven. People come to her to learn about their futures, which she spells out through grotesque theatrical pageants. As payment, she snatches away a portion of each client's free will, preventing them from taking certain courses of action in their lives. Her petitioners often learn of a dreadful fate that awaits them but find themselves unable to prevent it due to the cursed terms of their deal.
@@ -78,12 +78,13 @@ Endelyn's obsession with tragedy and hopelessness extends to her own life; she h
     "name": "Puppeteer's Lash"
   - "desc": "Endelyn casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 14):\n\n**At\
-      \ will:** [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [mage hand](3-Mechanics/CLI/spells/mage-hand.md)\n\
-      \n**2/day each:** [augury](3-Mechanics/CLI/spells/augury.md), [polymorph](3-Mechanics/CLI/spells/polymorph.md)\n\
-      \n**1/day:** [plane shift](3-Mechanics/CLI/spells/plane-shift.md) (self only)"
+      \ will:** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [mage\
+      \ hand](3-Mechanics/CLI/spells/mage-hand-xphb.md)\n\n**2/day each:** [augury](3-Mechanics/CLI/spells/augury-xphb.md),\
+      \ [polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md)\n\n**1/day:** [plane\
+      \ shift](3-Mechanics/CLI/spells/plane-shift-xphb.md) (self only)"
     "name": "Spellcasting"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/npc/token/endelyn-moongrave-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Endelyn%20Moongrave.webp"
 ```
 ^statblock

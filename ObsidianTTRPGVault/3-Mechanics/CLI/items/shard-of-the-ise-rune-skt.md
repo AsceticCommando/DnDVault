@@ -30,7 +30,7 @@ As an action, you can touch yourself or another creature with water on your fing
 
 ## Winters Howl
 
-As an action, you can cast [sleet storm](3-Mechanics/CLI/spells/sleet-storm.md) (spell save DC 17). You regain this ability after you finish a short or long rest.
+As an action, you can cast [sleet storm](3-Mechanics/CLI/spells/sleet-storm-xphb.md) (spell save DC 17). You regain this ability after you finish a short or long rest.
 
 ## Gift of Frost
 

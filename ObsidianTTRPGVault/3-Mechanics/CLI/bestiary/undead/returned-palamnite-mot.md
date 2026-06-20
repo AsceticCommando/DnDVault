@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Returned Palamnite"
 ---
-# [Returned Palamnite](3-Mechanics\CLI\bestiary\undead/returned-palamnite-mot.md)
+# [Returned Palamnite](3-Mechanics/CLI/bestiary/undead/returned-palamnite-mot.md)
 *Source: Mythic Odysseys of Theros p. 241*  
 
 Even death and the loss of their identities can't erase the rage that inspires Returned palamnites. These Returned led violent lives, existences filled with such pain and hatred that violence now suffuses their deathless bodies. Such makes them exceptionally dangerous to the living, as these aimless killers know only suffering and seek to spread it whenever the opportunity arises. While palamnites might wander the world as dangerous, lone murderers, many gravitate to Odunos, where they serve the vicious will of Tymaret the Murder King (see chapter 3).
@@ -50,7 +50,7 @@ Returned reenter the world blank and undead. No longer possessing the ability to
 "damage_immunities": "poison"
 "condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
 "gear":
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "passive Perception 11"
 "languages": "the languages it knew in life"
 "cr": "4"
@@ -73,6 +73,6 @@ Returned reenter the world blank and undead. No longer possessing the ability to
     "name": "Shortsword"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/undead/token/returned-palamnite-mot.webp"
+"image": "file://bestiary/tokens/MOT/Returned%20Palamnite.webp"
 ```
 ^statblock

@@ -14,7 +14,7 @@ aliases:
 
 - **Skill Proficiencies.** [Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling), [Survival](3-Mechanics/CLI/rules/skills.md#Survival)  
 - **Tool Proficiencies.** One type of artisan's tools, vehicles (land)  
-- **Equipment.** A set of artisan's tools (one of your choice), a [shovel](3-Mechanics/CLI/items/shovel.md), an [iron pot](3-Mechanics/CLI/items/iron-pot.md), a set of [common clothes](3-Mechanics/CLI/items/common-clothes.md), and a belt [pouch](3-Mechanics/CLI/items/pouch.md) containing 10 gp  
+- **Equipment.** A set of artisan's tools (one of your choice), a [shovel](3-Mechanics/CLI/items/shovel-xphb.md), an [iron pot](3-Mechanics/CLI/items/iron-pot-xphb.md), a set of [common clothes](3-Mechanics/CLI/items/common-clothes.md), and a belt [pouch](3-Mechanics/CLI/items/pouch-xphb.md) containing 10 gp  
 
 You come from a humble social rank, but you are destined for so much more. Already the people of your home village regard you as their champion, and your destiny calls you to stand against the tyrants and monsters that threaten the common folk everywhere.
 
@@ -25,6 +25,8 @@ Since you come from the ranks of the common folk, you fit in among them with eas
 ## Specialty
 
 You previously pursued a simple profession among the peasantry, perhaps as a farmer, miner, servant, shepherd, woodcutter, or gravedigger. But something happened that set you on a different path and marked you for greater things. Choose or randomly determine a defining event that marked you as a hero of the people.
+
+`dice: [](folk-hero.md#^defining-event)`
 
 | dice: d10 | Defining Event |
 |-----------|----------------|
@@ -44,6 +46,8 @@ You previously pursued a simple profession among the peasantry, perhaps as a far
 
 A folk hero is one of the common people, for better or for worse. Most folk heroes look on their humble origins as a virtue, not a shortcoming, and their home communities remain very important to them.
 
+`dice: [](folk-hero.md#^personality-trait)`
+
 | dice: d8 | Personality Trait |
 |----------|-------------------|
 | 1 | I judge people by their actions, not their words. |
@@ -56,6 +60,8 @@ A folk hero is one of the common people, for better or for worse. Most folk hero
 | 8 | I get bored easily. When am I going to get on with my destiny? |
 ^personality-trait
 
+`dice: [](folk-hero.md#^ideal)`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Respect. People deserve to be treated with dignity and respect. (Good) |
@@ -66,6 +72,8 @@ A folk hero is one of the common people, for better or for worse. Most folk hero
 | 6 | Destiny. Nothing and no one can steer me away from my higher calling. (Any) |
 ^ideal
 
+`dice: [](folk-hero.md#^bond)`
+
 | dice: d6 | Bond |
 |----------|------|
 | 1 | I have a family, but I have no idea where they are. One day, I hope to see them again. |
@@ -75,6 +83,8 @@ A folk hero is one of the common people, for better or for worse. Most folk hero
 | 5 | I protect those who cannot protect themselves. |
 | 6 | I wish my childhood sweetheart had come with me to pursue my destiny. |
 ^bond
+
+`dice: [](folk-hero.md#^flaw)`
 
 | dice: d6 | Flaw |
 |----------|------|

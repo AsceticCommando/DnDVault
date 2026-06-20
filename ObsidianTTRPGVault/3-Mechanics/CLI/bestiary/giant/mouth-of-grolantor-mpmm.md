@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Mouth of Grolantor"
 ---
-# [Mouth of Grolantor](3-Mechanics\CLI\bestiary\giant/mouth-of-grolantor-mpmm.md)
+# [Mouth of Grolantor](3-Mechanics/CLI/bestiary/giant/mouth-of-grolantor-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 187, Volo's Guide to Monsters p. 149*  
 
 Hill giants consume spoiled food and diseased carcasses with as much enthusiasm as children eating dessert and rarely suffer for such eating habits. When one of their kind becomes incapable of keeping down food, that giant is seen, among hill giant worshipers of the god Grolantor, as the vessel of a message from the deity.
@@ -50,7 +50,7 @@ A mouth of Grolantor is revered as a holy embodiment of Grolantor's aching hunge
 "languages": "Giant"
 "cr": "6"
 "traits":
-  - "desc": "The giant is immune to the [confusion](3-Mechanics/CLI/spells/confusion.md)\
+  - "desc": "The giant is immune to the [confusion](3-Mechanics/CLI/spells/confusion-xphb.md)\
       \ spell.\n\nOn each of its turns, the giant uses all its movement to move toward\
       \ the nearest creature or whatever else it might perceive as food. Roll a d10\
       \ at the start of each of the giant's turns to determine its action for that\
@@ -78,7 +78,7 @@ A mouth of Grolantor is revered as a holy embodiment of Grolantor's aching hunge
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/giant/token/mouth-of-grolantor-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Mouth%20of%20Grolantor.webp"
 ```
 ^statblock
 

@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Dhergoloth"
 ---
-# [Dhergoloth](3-Mechanics\CLI\bestiary\fiend/dhergoloth-mpmm.md)
+# [Dhergoloth](3-Mechanics/CLI/bestiary/fiend/dhergoloth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 94, Mordenkainen's Tome of Foes p. 248*  
 
 > [!quote] A quote from Mordenkainen  
@@ -74,12 +74,12 @@ Since dhergoloths are little more than brutes, employers must use caution when i
     "name": "Teleport"
   - "desc": "The dhergoloth casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 10):\n\
-      \n**At will:** [darkness](3-Mechanics/CLI/spells/darkness.md), [fear](3-Mechanics/CLI/spells/fear.md)"
+      \n**At will:** [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [fear](3-Mechanics/CLI/spells/fear-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/dhergoloth-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Dhergoloth.webp"
 ```
 ^statblock
 

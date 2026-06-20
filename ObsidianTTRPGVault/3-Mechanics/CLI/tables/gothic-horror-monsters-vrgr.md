@@ -14,15 +14,15 @@ aliases:
 
 | Challenge | Creature | Source |
 |-----------|----------|--------|
-| 1/4 | [Zombie](3-Mechanics/CLI/bestiary/undead/zombie.md) | "MM" |
-| 1 | [Ghoul](3-Mechanics/CLI/bestiary/undead/ghoul.md) | "MM" |
-| 2 | [Gargoyle](3-Mechanics/CLI/bestiary/elemental/gargoyle.md) | "MM" |
-| 2 | [Wereraven](3-Mechanics/CLI/bestiary/humanoid/wereraven-vrgr.md) | VGR |
-| 3 | [Green hag](3-Mechanics/CLI/bestiary/fey/green-hag.md) | "MM" |
-| 3 | [Werewolf](3-Mechanics/CLI/bestiary/humanoid/werewolf.md) | "MM" |
-| 4 | [Succubus](3-Mechanics/CLI/bestiary/fiend/succubus.md)/ [incubus](3-Mechanics/CLI/bestiary/fiend/incubus.md) | "MM" |
-| 8 | [Nosferatu](3-Mechanics/CLI/bestiary/undead/nosferatu-vrgr.md) | VGR |
-| 11 | [Efreeti](3-Mechanics/CLI/bestiary/elemental/efreeti.md) | "MM" |
-| 13 | [Loup garou](3-Mechanics/CLI/bestiary/monstrosity/loup-garou-vrgr.md) | VGR |
-| 13 | [Vampire](3-Mechanics/CLI/bestiary/undead/vampire.md) | "MM" |
+| 1/4 | [Zombie](3-Mechanics/CLI/bestiary/undead/zombie-xmm.md) | "MM" |
+| 1 | [Ghoul](3-Mechanics/CLI/bestiary/undead/ghoul-xmm.md) | "MM" |
+| 2 | [Gargoyle](3-Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) | "MM" |
+| 2 | [Wereraven](3-Mechanics/CLI/bestiary/monstrosity/wereraven-rhw.md) | VGR |
+| 3 | [Green hag](3-Mechanics/CLI/bestiary/fey/green-hag-xmm.md) | "MM" |
+| 3 | [Werewolf](3-Mechanics/CLI/bestiary/monstrosity/werewolf-xmm.md) | "MM" |
+| 4 | [Succubus](3-Mechanics/CLI/bestiary/fiend/succubus-xmm.md)/ [incubus](3-Mechanics/CLI/bestiary/fiend/incubus-xmm.md) | "MM" |
+| 8 | [Nosferatu](3-Mechanics/CLI/bestiary/undead/vampire-nosferatu-rhw.md) | VGR |
+| 11 | [Efreeti](3-Mechanics/CLI/bestiary/elemental/efreeti-xmm.md) | "MM" |
+| 13 | [Loup garou](3-Mechanics/CLI/bestiary/monstrosity/loup-garou-rhw.md) | VGR |
+| 13 | [Vampire](3-Mechanics/CLI/bestiary/undead/vampire-xmm.md) | "MM" |
 ^gothic-horror-monsters

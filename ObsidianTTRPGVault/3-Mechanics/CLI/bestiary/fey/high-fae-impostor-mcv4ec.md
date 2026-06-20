@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "High Fae Impostor"
 ---
-# [High Fae Impostor](3-Mechanics\CLI\bestiary\fey/high-fae-impostor-mcv4ec.md)
+# [High Fae Impostor](3-Mechanics/CLI/bestiary/fey/high-fae-impostor-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 High fae impostors are sly and mischievous manipulators who delight in disguising themselves with magic to vex other creatures. Their reasons for deception vary, ranging from harmless pranks to malicious infiltration. When a high fae impostor takes on the identity of another creature, the impostor magically gains access to a small portion of that creature's mind—any information that the creature might share with a casual acquaintance. Though not comprehensive, this information helps high fae impostors impersonate their targets effectively.
@@ -79,9 +79,9 @@ The high fae are ruled by Talion, the Kindly Lord. Talion is as strange, ancient
     "name": "Vexing Prank"
   - "desc": "The high fae casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 18):\n\
-      \n**At will:** [friends](3-Mechanics/CLI/spells/friends.md), [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md)\n\
-      \n**1/day each:** [enthrall](3-Mechanics/CLI/spells/enthrall.md), [Nystul's\
-      \ magic aura](3-Mechanics/CLI/spells/nystuls-magic-aura.md)"
+      \n**At will:** [friends](3-Mechanics/CLI/spells/friends-xphb.md), [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\
+      \n**1/day each:** [enthrall](3-Mechanics/CLI/spells/enthrall-xphb.md), [Nystul's\
+      \ magic aura](3-Mechanics/CLI/spells/nystuls-magic-aura-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The high fae magically transforms into a duplicate of a Small or Medium\
@@ -94,6 +94,6 @@ The high fae are ruled by Talion, the Kindly Lord. Talion is as strange, ancient
     "name": "Loot Likeness"
 "source":
   - "MCV4EC"
-"image": "3-Mechanics/CLI/bestiary/fey/token/high-fae-impostor-mcv4ec.webp"
+"image": "file://bestiary/tokens/MCV4EC/High%20Fae%20Impostor.webp"
 ```
 ^statblock

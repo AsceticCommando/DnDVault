@@ -12,6 +12,8 @@ aliases:
 
 **Hag Names**
 
+`dice: [](hag-names-vgm.md#^hag-names)`
+
 | dice: d12 | Title | First Name | Last Name |
 |-----------|-------|------------|-----------|
 | 1 | Auntie | Agatha | Bonechewer |

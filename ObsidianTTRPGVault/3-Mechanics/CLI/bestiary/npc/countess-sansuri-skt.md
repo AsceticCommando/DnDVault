@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Countess Sansuri"
 ---
-# [Countess Sansuri](3-Mechanics\CLI\bestiary\npc/countess-sansuri-skt.md)
+# [Countess Sansuri](3-Mechanics/CLI/bestiary/npc/countess-sansuri-skt.md)
 *Source: Storm King's Thunder p. 192*  
 
 Cloud giants live extravagant lives high above the world, showing little concern for the plights of other races except as amusement. They are muscular with light skin and have hair of silver or blue.
@@ -101,18 +101,19 @@ Some giants abandon their own gods and fall prey to demon cults, paying homage t
   - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+7"
 "gear":
-  - "[spear](3-Mechanics/CLI/items/spear.md)"
+  - "[spear](3-Mechanics/CLI/items/spear-xphb.md)"
 "senses": "passive Perception 17"
 "languages": "Auran, Common, Giant"
 "cr": "11"
 "traits":
   - "desc": "The giant's innate spellcasting ability is Charisma. It can innately\
       \ cast the following spells, requiring no material components:\n\n**At will:**\
-      \ [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [fog cloud](3-Mechanics/CLI/spells/fog-cloud.md),\
-      \ [light](3-Mechanics/CLI/spells/light.md)\n\n**3/day each:** [feather fall](3-Mechanics/CLI/spells/feather-fall.md),\
-      \ [fly](3-Mechanics/CLI/spells/fly.md), [misty step](3-Mechanics/CLI/spells/misty-step.md),\
-      \ [telekinesis](3-Mechanics/CLI/spells/telekinesis.md)\n\n**1/day each:** [control\
-      \ weather](3-Mechanics/CLI/spells/control-weather.md), [gaseous form](3-Mechanics/CLI/spells/gaseous-form.md)"
+      \ [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [fog cloud](3-Mechanics/CLI/spells/fog-cloud-xphb.md),\
+      \ [light](3-Mechanics/CLI/spells/light-xphb.md)\n\n**3/day each:** [feather\
+      \ fall](3-Mechanics/CLI/spells/feather-fall-xphb.md), [fly](3-Mechanics/CLI/spells/fly-xphb.md),\
+      \ [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md), [telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md)\n\
+      \n**1/day each:** [control weather](3-Mechanics/CLI/spells/control-weather-xphb.md),\
+      \ [gaseous form](3-Mechanics/CLI/spells/gaseous-form-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "The giant has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
       \ checks that rely on smell."
@@ -128,20 +129,20 @@ Some giants abandon their own gods and fall prey to demon cults, paying homage t
     "name": "Rock"
   - "desc": "Sansuri casts one of the following spells, requiring no material components\
       \ and using Intelligence as the spellcasting ability (spell save DC 15; +7 to\
-      \ hit with spell attacks):\n\n**At will:** [mage hand](3-Mechanics/CLI/spells/mage-hand.md),\
-      \ [message](3-Mechanics/CLI/spells/message.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md),\
-      \ [ray of frost](3-Mechanics/CLI/spells/ray-of-frost.md)\n\n**2/day each:**\
-      \ [arcane lock](3-Mechanics/CLI/spells/arcane-lock.md), [gust of wind](3-Mechanics/CLI/spells/gust-of-wind.md),\
-      \ [invisibility](3-Mechanics/CLI/spells/invisibility.md), [magic missile](3-Mechanics/CLI/spells/magic-missile.md),\
-      \ [unseen servant](3-Mechanics/CLI/spells/unseen-servant.md)\n\n**1/day each:**\
-      \ [globe of invulnerability](3-Mechanics/CLI/spells/globe-of-invulnerability.md),\
-      \ [haste](3-Mechanics/CLI/spells/haste.md), [hypnotic pattern](3-Mechanics/CLI/spells/hypnotic-pattern.md),\
-      \ [ice storm](3-Mechanics/CLI/spells/ice-storm.md), [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt.md),\
-      \ [Mordenkainen's sword](3-Mechanics/CLI/spells/mordenkainens-sword.md), [wall\
-      \ of force](3-Mechanics/CLI/spells/wall-of-force.md)"
+      \ hit with spell attacks):\n\n**At will:** [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [message](3-Mechanics/CLI/spells/message-xphb.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md),\
+      \ [ray of frost](3-Mechanics/CLI/spells/ray-of-frost-xphb.md)\n\n**2/day each:**\
+      \ [arcane lock](3-Mechanics/CLI/spells/arcane-lock-xphb.md), [gust of wind](3-Mechanics/CLI/spells/gust-of-wind-xphb.md),\
+      \ [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md), [magic missile](3-Mechanics/CLI/spells/magic-missile-xphb.md),\
+      \ [unseen servant](3-Mechanics/CLI/spells/unseen-servant-xphb.md)\n\n**1/day\
+      \ each:** [globe of invulnerability](3-Mechanics/CLI/spells/globe-of-invulnerability-xphb.md),\
+      \ [haste](3-Mechanics/CLI/spells/haste-xphb.md), [hypnotic pattern](3-Mechanics/CLI/spells/hypnotic-pattern-xphb.md),\
+      \ [ice storm](3-Mechanics/CLI/spells/ice-storm-xphb.md), [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt-xphb.md),\
+      \ [Mordenkainen's sword](3-Mechanics/CLI/spells/mordenkainens-sword-xphb.md),\
+      \ [wall of force](3-Mechanics/CLI/spells/wall-of-force-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/countess-sansuri-skt.webp"
+"image": "file://bestiary/tokens/SKT/Countess%20Sansuri.webp"
 ```
 ^statblock

@@ -24,7 +24,7 @@ The creature attuned to the watch can use an action to initiate the packing up o
 
 The pocket watch has the following additional properties:
 
-- While carrying the watch, the creature attuned to it can cast the [fire bolt](3-Mechanics/CLI/spells/fire-bolt.md), [invisibility](3-Mechanics/CLI/spells/invisibility.md), or [message](3-Mechanics/CLI/spells/message.md) spell as an action, requiring no spell components and using Intelligence as the spellcasting ability. After the watch's [invisibility](3-Mechanics/CLI/spells/invisibility.md) spell is cast, roll a `d8`; on a roll of 3 or 8, the watch can't be used to cast this spell again until the next dawn.  
+- While carrying the watch, the creature attuned to it can cast the [fire bolt](3-Mechanics/CLI/spells/fire-bolt-xphb.md), [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md), or [message](3-Mechanics/CLI/spells/message-xphb.md) spell as an action, requiring no spell components and using Intelligence as the spellcasting ability. After the watch's [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md) spell is cast, roll a `dice:d8|noform|noparens|avg` (`d8`); on a roll of 3 or 8, the watch can't be used to cast this spell again until the next dawn.  
 - The creature attuned to the watch gains 30 pounds. This extra weight vanishes when the attunement ends.  
 - The creature attuned to the watch must eat and drink eight times the normal amount each day.  
 

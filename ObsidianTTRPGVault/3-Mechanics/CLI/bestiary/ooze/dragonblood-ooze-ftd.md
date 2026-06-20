@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Dragonblood Ooze"
 ---
-# [Dragonblood Ooze](3-Mechanics\CLI\bestiary\ooze/dragonblood-ooze-ftd.md)
+# [Dragonblood Ooze](3-Mechanics/CLI/bestiary/ooze/dragonblood-ooze-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 182*  
 
 Magic-minded artisans have long incorporated parts of dragons' bodies into magic items, crafting dragon hide into armor and forging weapons from claws and teeth. Alchemists have found beneficial uses for dragon blood, but ill-advised experiments have also given rise to dragonblood oozes.
@@ -75,6 +75,6 @@ The congealed blood of a dragon given mobility and hunger, the ooze tries to sha
     "name": "Slime Breath (Recharge 6)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/ooze/token/dragonblood-ooze-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Dragonblood%20Ooze.webp"
 ```
 ^statblock

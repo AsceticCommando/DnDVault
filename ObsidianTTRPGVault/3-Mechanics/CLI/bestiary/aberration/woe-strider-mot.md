@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Woe Strider"
 ---
-# [Woe Strider](3-Mechanics\CLI\bestiary\aberration/woe-strider-mot.md)
+# [Woe Strider](3-Mechanics/CLI/bestiary/aberration/woe-strider-mot.md)
 *Source: Mythic Odysseys of Theros p. 247*  
 
 Woe striders form from the souls of those who've broken the bonds of destiny. Over centuries, these cosmic blasphemers transform into hunched, long-limbed horrors. Sadistic things, woe striders seek ways to reweave themselves into the tapestry of destiny. This leads them to search for answers within the bowels of other beings, performing murderous haruspicy in pursuit of their discarded cosmic purpose. When they fail to find answers, their unnatural cries cause reality to shudder, undermining magic and sane minds alike.
@@ -47,9 +47,9 @@ Woe striders form from the souls of those who've broken the bonds of destiny. Ov
 "cr": "7"
 "traits":
   - "desc": "The woe strider's open mouth creates an area of antimagic, as in the\
-      \ [antimagic field](3-Mechanics/CLI/spells/antimagic-field.md) spell, in a 60-foot\
-      \ cone. At the start of each of its turns, the woe strider decides which way\
-      \ the cone faces and whether its mouth is open or closed."
+      \ [antimagic field](3-Mechanics/CLI/spells/antimagic-field-xphb.md) spell, in\
+      \ a 60-foot cone. At the start of each of its turns, the woe strider decides\
+      \ which way the cone faces and whether its mouth is open or closed."
     "name": "Antimagic Cone"
 "actions":
   - "desc": "The woe strider makes two claw attacks and one bite attack. If both claws\
@@ -67,6 +67,6 @@ Woe striders form from the souls of those who've broken the bonds of destiny. Ov
     "name": "Bite"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/woe-strider-mot.webp"
+"image": "file://bestiary/tokens/MOT/Woe%20Strider.webp"
 ```
 ^statblock

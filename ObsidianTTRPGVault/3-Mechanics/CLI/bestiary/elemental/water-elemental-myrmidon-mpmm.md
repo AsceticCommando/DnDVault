@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Water Elemental Myrmidon"
 ---
-# [Water Elemental Myrmidon](3-Mechanics\CLI\bestiary\elemental/water-elemental-myrmidon-mpmm.md)
+# [Water Elemental Myrmidon](3-Mechanics/CLI/bestiary/elemental/water-elemental-myrmidon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 123, Mordenkainen's Tome of Foes p. 203*  
 
 ## Elemental Myrmidons
@@ -25,7 +25,7 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "type": "elemental"
 "alignment": "Typically  Neutral"
 "ac": !!int "18"
-"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor.md)"
+"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "127"
 "hit_dice": "17d8 + 51"
 "modifier": !!int "2"
@@ -43,7 +43,7 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
   \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
   \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone)"
 "gear":
-  - "[trident](3-Mechanics/CLI/items/trident.md)"
+  - "[trident](3-Mechanics/CLI/items/trident-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 10"
 "languages": "Aquan, one language of its creator's choice"
@@ -62,6 +62,6 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/elemental/token/water-elemental-myrmidon-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Water%20Elemental%20Myrmidon.webp"
 ```
 ^statblock

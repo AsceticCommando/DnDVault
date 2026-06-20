@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Ice Spider"
 ---
-# [Ice Spider](3-Mechanics\CLI\bestiary\beast/ice-spider-skt.md)
+# [Ice Spider](3-Mechanics/CLI/bestiary/beast/ice-spider-skt.md)
 *Source: Storm King's Thunder p. 127*  
 
 ```statblock
@@ -69,6 +69,6 @@ aliases:
     "name": "Icy Web (Recharge 5-6)"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/beast/token/ice-spider-skt.webp"
+"image": "file://bestiary/tokens/SKT/Ice%20Spider.webp"
 ```
 ^statblock

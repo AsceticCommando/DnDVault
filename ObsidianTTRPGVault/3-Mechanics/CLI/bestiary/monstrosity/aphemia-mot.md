@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Aphemia"
 ---
-# [Aphemia](3-Mechanics\CLI\bestiary\monstrosity/aphemia-mot.md)
+# [Aphemia](3-Mechanics/CLI/bestiary/monstrosity/aphemia-mot.md)
 *Source: Mythic Odysseys of Theros p. 226*  
 
 The notorious Nyxborn harpy Aphemia prowls the marshy wastes around the necropolis of Asphodel. Her shrill songs enthrall the necropolis's undead inhabitants, which she leads on raids to waylay unsuspecting travelers and settlements.
@@ -91,6 +91,6 @@ Cruel, corpse-eating creatures, harpies endlessly seek their next meal, careless
     "name": "Grave Calling Song"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/aphemia-mot.webp"
+"image": "file://bestiary/tokens/MOT/Aphemia.webp"
 ```
 ^statblock

@@ -12,6 +12,8 @@ aliases:
 
 **Omens of Mogis**
 
+`dice: [](omens-of-mogis-mot.md#^omens-of-mogis)`
+
 | dice: d6 | dice: d100 | Omen of Mogis |
 |----------|------------|---------------|
 | 1 | 59 | A creature spontaneously starts bleeding, their blood pooling in a bull shape. |

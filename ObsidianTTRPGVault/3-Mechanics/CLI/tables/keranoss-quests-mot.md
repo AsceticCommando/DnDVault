@@ -12,6 +12,8 @@ aliases:
 
 **Keranos's Quests**
 
+`dice: [](keranoss-quests-mot.md#^keranoss-quests)`
+
 | dice: d6 | Adventure Goal |
 |----------|----------------|
 | 1 | Help a genius artist who had their inspiration physically stolen. |

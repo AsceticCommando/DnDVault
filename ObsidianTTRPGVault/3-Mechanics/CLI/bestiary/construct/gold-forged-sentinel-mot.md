@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Gold-Forged Sentinel"
 ---
-# [Gold-Forged Sentinel](3-Mechanics\CLI\bestiary\construct/gold-forged-sentinel-mot.md)
+# [Gold-Forged Sentinel](3-Mechanics/CLI/bestiary/construct/gold-forged-sentinel-mot.md)
 *Source: Mythic Odysseys of Theros p. 211*  
 
 The original purpose of gold-forged sentinels is a mystery, and of all Purphoros's original anvilwroughts, this construct is the most difficult to control. A sentinel often operates without a master, stalking the high places of the mortal world or waiting, still as a statue, for what could be decades before reanimating to carry out their mysterious purpose.
@@ -75,6 +75,6 @@ A few extremely rare and valuable anvilwroughts were crafted by the hand of Purp
     "name": "Fire Breath (Recharge 5-6)"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/construct/token/gold-forged-sentinel-mot.webp"
+"image": "file://bestiary/tokens/MOT/Gold-Forged%20Sentinel.webp"
 ```
 ^statblock

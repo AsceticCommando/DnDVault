@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Neogi Master"
 ---
-# [Neogi Master](3-Mechanics\CLI\bestiary\aberration/neogi-master-mpmm.md)
+# [Neogi Master](3-Mechanics/CLI/bestiary/aberration/neogi-master-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 192, Volo's Guide to Monsters p. 180*  
 
 Neogi masters use magic, as a result of a pact between neogi and aberrant entities they met during their journey from their home world. These entities—known by such names as Acamar, Caiphon, Gibbeth, and Hadar—resemble stars and embody the essence of evil.
@@ -93,11 +93,11 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
       \ of the neogi's next turn, as a spectral tentacle clings to the target."
     "name": "Tentacle of Hadar"
   - "desc": "The neogi casts one of the following spells, using Charisma as the spellcasting\
-      \ ability (spell save DC 14):\n\n**At will:** [guidance](3-Mechanics/CLI/spells/guidance.md),\
-      \ [mage hand](3-Mechanics/CLI/spells/mage-hand.md), [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md),\
-      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md)\n\n**1/day\
-      \ each:** [dimension door](3-Mechanics/CLI/spells/dimension-door.md), [hold\
-      \ person](3-Mechanics/CLI/spells/hold-person.md), [hunger of Hadar](3-Mechanics/CLI/spells/hunger-of-hadar.md)"
+      \ ability (spell save DC 14):\n\n**At will:** [guidance](3-Mechanics/CLI/spells/guidance-xphb.md),\
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md),\
+      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n**1/day\
+      \ each:** [dimension door](3-Mechanics/CLI/spells/dimension-door-xphb.md), [hold\
+      \ person](3-Mechanics/CLI/spells/hold-person-xphb.md), [hunger of Hadar](3-Mechanics/CLI/spells/hunger-of-hadar-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The neogi targets one creature it can see within 30 feet of it. The target\
@@ -113,7 +113,7 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/neogi-master-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Neogi%20Master.webp"
 ```
 ^statblock
 

@@ -12,6 +12,8 @@ aliases:
 
 **Dark Fantasy Torments**
 
+`dice: [](dark-fantasy-torments-vrgr.md#^dark-fantasy-torments)`
+
 | dice: d8 | Torment |
 |----------|---------|
 | 1 | The Darklord's regime is fraught with spies and saboteurs, increasing the Darklord's paranoia. |

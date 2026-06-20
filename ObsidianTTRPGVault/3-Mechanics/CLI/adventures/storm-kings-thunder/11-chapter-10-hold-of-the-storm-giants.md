@@ -10,7 +10,7 @@ aliases:
 # Chapter 10: Hold of the Storm Giants
 *Source: Storm King's Thunder, p. 201* 
 
-![](3-Mechanics/CLI/adventures/storm-kings-thunder/img/092-skt10-01.webp#center)
+![](file://adventure/SKT/092-skt10-01.webp#center)
 
 Before the dissolution of the ordning, the influence of the storm giants was so great that lesser giants were compelled to abide by their decrees. The storm giants, reclusive by nature, did their best to discourage lesser giants from destroying the civilizations of the small folk. The death of Queen Neri and the disappearance of [King Hekaton](3-Mechanics/CLI/bestiary/npc/king-hekaton-skt.md) have left Maelstrom in disarray, allowing evil giants to run rampant.
 
@@ -38,11 +38,11 @@ Maelstrom lies on the floor of the Trackless Sea, nearly 3,000 feet beneath the 
 > 
 > **Air-Filled and Submerged Areas.** Many chambers and corridors are filled with air that is continuously and magically replenished On the map, air-filled areas are tinted purple. Some air-filled areas contain pools of water; a pool fills a depression in the floor and is tinted blue on the map. Submerged areas are tinted blue from wall to wall. Characters who can't breathe underwater must hold their breath in a submerged area. While submerged, they are also susceptible to the effect of water pressure (see the "Water Pressure" section). Rules for underwater combat appear in the ""Underwater Combat"" section in chapter 9 of the Player's Handbook.
 > 
-> **Anemone Chests.** The storm giants cultivate 10-foot-tall, 10-foot-wide anemones that can survive out of the water and have hollow cavities within them. The giants use the anemones as treasure chests and for waste disposal. Edible organic matter placed in an anemone chest is slowly digested over a period of days; inedible or inorganic matter is not. When a storm giant touches on of these anemones, it opens at the top. Any other creature that comes into contact with an anemone must make a DC 10 Dexterity saving throw. On a failed save, the creature takes 11 (`2d10`) poison damage from the anemone's poisonous tendrils. A character can trick an anemone into opening by touching it and succeeding on a DC 15 Intelligence ([Nature](3-Mechanics/CLI/rules/skills.md#Nature)) check. If the check fails, the anemone doesn't open, and the character must make the saving throw. A chest remains open for 1 minute, then closes. An anemone chest has AC 5 and 20 hit points.
+> **Anemone Chests.** The storm giants cultivate 10-foot-tall, 10-foot-wide anemones that can survive out of the water and have hollow cavities within them. The giants use the anemones as treasure chests and for waste disposal. Edible organic matter placed in an anemone chest is slowly digested over a period of days; inedible or inorganic matter is not. When a storm giant touches on of these anemones, it opens at the top. Any other creature that comes into contact with an anemone must make a DC 10 Dexterity saving throw. On a failed save, the creature takes `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) poison damage from the anemone's poisonous tendrils. A character can trick an anemone into opening by touching it and succeeding on a DC 15 Intelligence ([Nature](3-Mechanics/CLI/rules/skills.md#Nature)) check. If the check fails, the anemone doesn't open, and the character must make the saving throw. A chest remains open for 1 minute, then closes. An anemone chest has AC 5 and 20 hit points.
 > 
 > **Ceilings.** The stronghold has slick, rough-hewn walls that don't offer a lot of handholds, so climbing them without gear requires a successful DC 20 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check.
 > 
-> **Crystal Windows.** Some rooms have oval windows made of thick, transparent crystal. These windows were designed to withstand tremendous amounts of pressure and force, and aren't easily broken. Each window has AC 15, 60 hit points, a damage threshold of 20, and immunity to psychic and poison damage. Breaking a window causes seawater to pour into the stronghold, flooding air-filled chambers and lower levels quickly. Doing this has no effect on storm giants, who can breathe water as easily as they breathe air, but creatures that can't breathe water aren't likely to survive for long without the aid of [water breathing](3-Mechanics/CLI/spells/water-breathing.md) spells or similar magic.
+> **Crystal Windows.** Some rooms have oval windows made of thick, transparent crystal. These windows were designed to withstand tremendous amounts of pressure and force, and aren't easily broken. Each window has AC 15, 60 hit points, a damage threshold of 20, and immunity to psychic and poison damage. Breaking a window causes seawater to pour into the stronghold, flooding air-filled chambers and lower levels quickly. Doing this has no effect on storm giants, who can breathe water as easily as they breathe air, but creatures that can't breathe water aren't likely to survive for long without the aid of [water breathing](3-Mechanics/CLI/spells/water-breathing-xphb.md) spells or similar magic.
 > 
 > **Doors and Secret Doors.** The giant-sized doors throughout Maelstrom are 30 feet tall and made of barnacle-covered stone with rusty iron hinges. Their handles are 13 feet above the floor. Secret doors are similar in size but lack visible hinges and handles. A Huge giant has no trouble opening either type of door. A smaller creature can attempt to open a door if that creature or some other helpful creature can reach the door's handle and unlatch it. While the handle is unlatched, a creature must use an action to push or pull on the heavy door, opening it with a successful DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. On a failed check, the door doesn't open. The doors aren't airtight and can't hold back water. Characters who have a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 15 or higher spot a secret door as they move near its location. A character can also find it by searching for secret doors and succeeding on a DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check.
 > 
@@ -50,16 +50,18 @@ Maelstrom lies on the floor of the Trackless Sea, nearly 3,000 feet beneath the 
 > 
 > **Giant Clam**
 > 
+> `dice: [](11-chapter-10-hold-of-the-storm-giants.md#^giant-clam)`
+> 
 > | dice: d100 | Treasure |
 > |------------|----------|
 > | 01–25 | None |
 > | 26–75 | A pink grapefruit-sized pearl worth 500 gp |
 > | 76–90 | A black grapefruit-sized pearl worth 5,000 gp |
-> | 91–98 | A violet grapefruit-sized [pearl of power](3-Mechanics/CLI/items/pearl-of-power.md) |
-> | 99–00 | A clear grapefruit-sized [crystal ball](3-Mechanics/CLI/items/crystal-ball.md) |
+> | 91–98 | A violet grapefruit-sized [pearl of power](3-Mechanics/CLI/items/pearl-of-power-xdmg.md) |
+> | 99–00 | A clear grapefruit-sized [crystal ball](3-Mechanics/CLI/items/crystal-ball-xdmg.md) |
 > ^giant-clam
 > 
-> **Illumination.** All interior spaces are dimly lit. Air-filled chambers have wall sconces with [continual flame](3-Mechanics/CLI/spells/continual-flame.md) spells cast on them or oval windows of transparent crystal that allow light from the bioluminescent coral reef to enter. Bioluminescent fish dimly illuminate submerged areas.
+> **Illumination.** All interior spaces are dimly lit. Air-filled chambers have wall sconces with [continual flame](3-Mechanics/CLI/spells/continual-flame-xphb.md) spells cast on them or oval windows of transparent crystal that allow light from the bioluminescent coral reef to enter. Bioluminescent fish dimly illuminate submerged areas.
 > 
 > **Oversized Furnishings and Objects.** Most of the furnishings and other items in Maelstrom are sized for storm giants. Exceptions are noted in the text. Tables, chairs, and other room fixtures are typically three times as high, long, and wide as their human-sized equivalents and roughly twenty-seven times the weight. Small and Medium creatures can scuttle under and clamber over giant-sized furniture, treating the spaces they occupy as difficult terrain.
 > 
@@ -72,13 +74,13 @@ Maelstrom lies on the floor of the Trackless Sea, nearly 3,000 feet beneath the 
 
 The easiest and safest way to reach Maelstrom (shown on maps 10.1 and 10.2) is with teleportation magic, and characters should have a [conch of teleportation](3-Mechanics/CLI/items/conch-of-teleportation-skt.md) when the time comes to visit the storm giant stronghold. Characters who teleport to Maelstrom using the conch appear atop the magical glyph in area 2.
 
-Characters can also reach Maelstrom by ship. Maelstrom is located on the sea floor between Ruathym, the Whalebones, and the Korinn Archipelago. Any ship that sails over Maelstrom encounters a giant whirlpool, which inexorably draws the vessel into the depths. The ship's hull is torn apart, its wreckage sucked to the bottom of a sinkhole in the heart of the stronghold (area 1). Creatures aboard the vessel must make a DC 20 Constitution saving throw, taking 55 (`10d10`) bludgeoning damage on a failed save, or half as much damage on a successful one. There's no air in the sinkhole, so characters who survive the shipwreck must hold their breath, locate an air pocket, or use magic to breathe. Characters who are drawn down into the depths must also contend with water pressure.
+Characters can also reach Maelstrom by ship. Maelstrom is located on the sea floor between Ruathym, the Whalebones, and the Korinn Archipelago. Any ship that sails over Maelstrom encounters a giant whirlpool, which inexorably draws the vessel into the depths. The ship's hull is torn apart, its wreckage sucked to the bottom of a sinkhole in the heart of the stronghold (area 1). Creatures aboard the vessel must make a DC 20 Constitution saving throw, taking `dice:10d10|noform|noparens|avg|text(55)` (`10d10`) bludgeoning damage on a failed save, or half as much damage on a successful one. There's no air in the sinkhole, so characters who survive the shipwreck must hold their breath, locate an air pocket, or use magic to breathe. Characters who are drawn down into the depths must also contend with water pressure.
 
 #### Water Pressure
 
-Creatures and vehicles at Maelstrom's depth take 7 (`2d6`) bludgeoning damage per minute from water pressure unless they are adapted or built to withstand this environment. Storm giants, whales, sharks, crustaceans, and aquatic invertebrates are immune to water pressure at this depth, as are vehicles with a damage threshold of 10 or higher. Other creatures might be immune to the effect of water pressure, at your discretion.
+Creatures and vehicles at Maelstrom's depth take `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) bludgeoning damage per minute from water pressure unless they are adapted or built to withstand this environment. Storm giants, whales, sharks, crustaceans, and aquatic invertebrates are immune to water pressure at this depth, as are vehicles with a damage threshold of 10 or higher. Other creatures might be immune to the effect of water pressure, at your discretion.
 
-A spell that allows one to breathe underwater provides no protection against the crushing effect of water pressure unless the spell's description says otherwise. Even an [apparatus of Kwalish](3-Mechanics/CLI/items/apparatus-of-kwalish.md) isn't designed to withstand water pressure at this depth. Creatures inside an [apparatus of Kwalish](3-Mechanics/CLI/items/apparatus-of-kwalish.md) are protected from the crushing effect of the pressure while the apparatus has at least 1 hit point.
+A spell that allows one to breathe underwater provides no protection against the crushing effect of water pressure unless the spell's description says otherwise. Even an [apparatus of Kwalish](3-Mechanics/CLI/items/apparatus-of-kwalish-xdmg.md) isn't designed to withstand water pressure at this depth. Creatures inside an [apparatus of Kwalish](3-Mechanics/CLI/items/apparatus-of-kwalish-xdmg.md) are protected from the crushing effect of the pressure while the apparatus has at least 1 hit point.
 
 ### Denizens
 
@@ -93,26 +95,26 @@ Once [Iymrith](3-Mechanics/CLI/bestiary/npc/iymrith-skt.md) realizes that small 
 | Area | Creature(s) | Notes |
 |------|-------------|-------|
 | 5 | 2 [hulking crabs](3-Mechanics/CLI/bestiary/beast/hulking-crab-skt.md) | The crabs scuttle out to investigate disturbances in area 1 unless the portcullis to their cave is closed. |
-| 6 | 1 [killer whale](3-Mechanics/CLI/bestiary/beast/killer-whale.md) | The whale waits here for [Nym](3-Mechanics/CLI/bestiary/npc/nym-skt.md). |
-| 7 | 1 [roper](3-Mechanics/CLI/bestiary/monstrosity/roper.md) | The roper doesn't leave this area under any circumstances. |
-| 8 | 1 [killer whale](3-Mechanics/CLI/bestiary/beast/killer-whale.md) | The whale waits here for [Mirran](3-Mechanics/CLI/bestiary/npc/mirran-skt.md). |
-| 10 | 1 [storm giant](3-Mechanics/CLI/bestiary/giant/storm-giant.md) | The giant investigates any loud disturbance in area 8 and otherwise obeys [Mirran](3-Mechanics/CLI/bestiary/npc/mirran-skt.md)'s or Uthor's commands. |
-| 11 | 1 [killer whale](3-Mechanics/CLI/bestiary/beast/killer-whale.md) | The whale waits here for [Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md). |
-| 12 | 2 [storm giants](3-Mechanics/CLI/bestiary/giant/storm-giant.md) | The giants investigate any loud disturbance in area 11 and otherwise obey [Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md)'s or Uthor's commands. |
-| 14 | [Mirran](3-Mechanics/CLI/bestiary/npc/mirran-skt.md), [Nym](3-Mechanics/CLI/bestiary/npc/nym-skt.md), 1 [hulking crab](3-Mechanics/CLI/bestiary/beast/hulking-crab-skt.md) (pipe organ), 2 [storm giants](3-Mechanics/CLI/bestiary/giant/storm-giant.md), 1 [cloud giant](3-Mechanics/CLI/bestiary/giant/cloud-giant.md), 1 [fire giant](3-Mechanics/CLI/bestiary/giant/fire-giant.md), 1 [frost giant](3-Mechanics/CLI/bestiary/giant/frost-giant.md), 1 [stone giant](3-Mechanics/CLI/bestiary/giant/stone-giant.md) | The storm giants protect [Nym](3-Mechanics/CLI/bestiary/npc/nym-skt.md) and [Mirran](3-Mechanics/CLI/bestiary/npc/mirran-skt.md), who retreat to areas 6 and 30, respectively, if seriously threatened. The crab and the other giants remain here. |
-| 15 | [Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md), [Uthor](3-Mechanics/CLI/bestiary/npc/imperator-uthor-skt.md), [Iymrith](3-Mechanics/CLI/bestiary/npc/iymrith-skt.md), 2 [hill giants](3-Mechanics/CLI/bestiary/giant/hill-giant.md) | Uthor protects [Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md), who retreats to area 11 if seriously threatened. [Iymrith](3-Mechanics/CLI/bestiary/npc/iymrith-skt.md) escapes through the pool if her true nature is revealed. The hill giants stand guard outside the doors at all times. |
-| 19 | 10 [hunter sharks](3-Mechanics/CLI/bestiary/beast/hunter-shark.md) | The sharks remain here until released, whereupon they move into the sinkhole (area 1) to hunt for prey. |
-| 21, 29 | 2 [storm giants](3-Mechanics/CLI/bestiary/giant/storm-giant.md) | The giants remain here unless commanded by Uthor to go elsewhere. |
-| 31 | 5 [steam mephits](3-Mechanics/CLI/bestiary/elemental/steam-mephit.md) | The mephits remain near the bath. |
-| 33 | 1 [storm giant](3-Mechanics/CLI/bestiary/giant/storm-giant.md) | The giant remains here unless commanded by Uthor to go elsewhere. |
-| 34 | 2 [storm giants](3-Mechanics/CLI/bestiary/giant/storm-giant.md), 9 [giant crabs](3-Mechanics/CLI/bestiary/beast/giant-crab.md) | The giants and the crabs remain here until disturbed. |
+| 6 | 1 [killer whale](3-Mechanics/CLI/bestiary/beast/killer-whale-xmm.md) | The whale waits here for [Nym](3-Mechanics/CLI/bestiary/npc/nym-skt.md). |
+| 7 | 1 [roper](3-Mechanics/CLI/bestiary/aberration/roper-xmm.md) | The roper doesn't leave this area under any circumstances. |
+| 8 | 1 [killer whale](3-Mechanics/CLI/bestiary/beast/killer-whale-xmm.md) | The whale waits here for [Mirran](3-Mechanics/CLI/bestiary/npc/mirran-skt.md). |
+| 10 | 1 [storm giant](3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md) | The giant investigates any loud disturbance in area 8 and otherwise obeys [Mirran](3-Mechanics/CLI/bestiary/npc/mirran-skt.md)'s or Uthor's commands. |
+| 11 | 1 [killer whale](3-Mechanics/CLI/bestiary/beast/killer-whale-xmm.md) | The whale waits here for [Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md). |
+| 12 | 2 [storm giants](3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md) | The giants investigate any loud disturbance in area 11 and otherwise obey [Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md)'s or Uthor's commands. |
+| 14 | [Mirran](3-Mechanics/CLI/bestiary/npc/mirran-skt.md), [Nym](3-Mechanics/CLI/bestiary/npc/nym-skt.md), 1 [hulking crab](3-Mechanics/CLI/bestiary/beast/hulking-crab-skt.md) (pipe organ), 2 [storm giants](3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md), 1 [cloud giant](3-Mechanics/CLI/bestiary/giant/cloud-giant-xmm.md), 1 [fire giant](3-Mechanics/CLI/bestiary/giant/fire-giant-xmm.md), 1 [frost giant](3-Mechanics/CLI/bestiary/giant/frost-giant-xmm.md), 1 [stone giant](3-Mechanics/CLI/bestiary/giant/stone-giant-xmm.md) | The storm giants protect [Nym](3-Mechanics/CLI/bestiary/npc/nym-skt.md) and [Mirran](3-Mechanics/CLI/bestiary/npc/mirran-skt.md), who retreat to areas 6 and 30, respectively, if seriously threatened. The crab and the other giants remain here. |
+| 15 | [Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md), [Uthor](3-Mechanics/CLI/bestiary/npc/imperator-uthor-skt.md), [Iymrith](3-Mechanics/CLI/bestiary/npc/iymrith-skt.md), 2 [hill giants](3-Mechanics/CLI/bestiary/giant/hill-giant-xmm.md) | Uthor protects [Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md), who retreats to area 11 if seriously threatened. [Iymrith](3-Mechanics/CLI/bestiary/npc/iymrith-skt.md) escapes through the pool if her true nature is revealed. The hill giants stand guard outside the doors at all times. |
+| 19 | 10 [hunter sharks](3-Mechanics/CLI/bestiary/beast/hunter-shark-xmm.md) | The sharks remain here until released, whereupon they move into the sinkhole (area 1) to hunt for prey. |
+| 21, 29 | 2 [storm giants](3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md) | The giants remain here unless commanded by Uthor to go elsewhere. |
+| 31 | 5 [steam mephits](3-Mechanics/CLI/bestiary/elemental/steam-mephit-xmm.md) | The mephits remain near the bath. |
+| 33 | 1 [storm giant](3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md) | The giant remains here unless commanded by Uthor to go elsewhere. |
+| 34 | 2 [storm giants](3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md), 9 [giant crabs](3-Mechanics/CLI/bestiary/beast/giant-crab-xmm.md) | The giants and the crabs remain here until disturbed. |
 ^area-creature-s-notes
 
 ### Areas of Maelstrom
 
 > [!gallery]
-> ![Map 10.1: Maelstrom, Levels 1 and 2](3-Mechanics/CLI/adventures/storm-kings-thunder/img/093-skt10-maelstrom1.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/storm-kings-thunder/img/094-1001.webp#gallery)
+> ![Map 10.1: Maelstrom, Levels 1 and 2](file://adventure/SKT/093-skt10-maelstrom1.webp#gallery)
+> ![Player Version](file://adventure/SKT/094-1001.webp#gallery)
 
 ### 1. Vortex and Sinkhole
 
@@ -130,7 +132,7 @@ This level is 50 feet above the sinkhole floor. A rocky, uneven ledge clings to 
 
 This is the top of the sinkhole. From here, an observer on the ocean floor can just barely make out a circular ledge 50 feet down, while the bottom of the sinkhole is hidden in the gloom 100 feet below. Lying around the mouth of the sinkhole are more wrecked ships, and looming above are the four coral-covered underwater spires that serve as home to the royal family. The shipwrecks have been picked clean, and anyone who lingers in the area sees sharks, whales, crabs, and other creatures moving about. These aquatic creatures mind their own business and pay little heed to surface-dwellers.
 
-The coral on the outside of the royal spires can be harvested and sold. Someone who can withstand the pressure at this depth (see the "Water Pressure" section earlier in this chapter) can harvest `2d4` pounds of coral in an hour. Each pound is worth 50 gp. The storm giants in area 34 try to scare off anyone plundering the coral.
+The coral on the outside of the royal spires can be harvested and sold. Someone who can withstand the pressure at this depth (see the "Water Pressure" section earlier in this chapter) can harvest `dice:2d4|noform|noparens|avg` (`2d4`) pounds of coral in an hour. Each pound is worth 50 gp. The storm giants in area 34 try to scare off anyone plundering the coral.
 
 ### 2. Portal Chamber
 
@@ -152,7 +154,7 @@ A similar hall stretches northward. The statue at the end of the north hall depi
 
 #### Steam Geyser
 
-A narrow hall to the south leads to a circular chamber with a small steam pool at its center. Every hour on the hour, a geyser of steam shoots up from a vent in the bottom of the shallow basin, sending out a loud hissing noise as it erupts. Any creature in the small, circular room when the geyser erupts is engulfed in scalding steam and boiling water, and must make a DC 15 Dexterity saving throw, taking 22 (`4d10`) fire damage on a failed save, or half as much damage on a successful one.
+A narrow hall to the south leads to a circular chamber with a small steam pool at its center. Every hour on the hour, a geyser of steam shoots up from a vent in the bottom of the shallow basin, sending out a loud hissing noise as it erupts. Any creature in the small, circular room when the geyser erupts is engulfed in scalding steam and boiling water, and must make a DC 15 Dexterity saving throw, taking `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) fire damage on a failed save, or half as much damage on a successful one.
 
 ### 3. Small Guest Quarters
 
@@ -168,11 +170,11 @@ A raised, barnacle-covered portcullis hangs above the entrance of this submerged
 
 #### Treasure
 
-A few treasures lie scattered across the cave floor amid rusty, barnacle-covered swords and other detritus. A thorough search yields 67 gp, a shiny electrum goblet (worth 75 gp), and `1d4` magic items. Roll on Magic Item Table G in chapter 7 of the "Dungeon Master's Guide" for the first item, and on Table F for any other items.
+A few treasures lie scattered across the cave floor amid rusty, barnacle-covered swords and other detritus. A thorough search yields 67 gp, a shiny electrum goblet (worth 75 gp), and `dice:1d4|noform|noparens|avg` (`1d4`) magic items. Roll on Magic Item Table G in chapter 7 of the "Dungeon Master's Guide" for the first item, and on Table F for any other items.
 
 ### 6. Nym's Whale
 
-A 50-foot-deep pool takes up nearly half of this air-filled chamber. An enormous [killer whale](3-Mechanics/CLI/bestiary/beast/killer-whale.md) (144 hit points) swims circles in the pool, attacking any creature other than [Nym](3-Mechanics/CLI/bestiary/npc/nym-skt.md) that enters it. The whale is [Nym](3-Mechanics/CLI/bestiary/npc/nym-skt.md)'s mount.
+A 50-foot-deep pool takes up nearly half of this air-filled chamber. An enormous [killer whale](3-Mechanics/CLI/bestiary/beast/killer-whale-xmm.md) (144 hit points) swims circles in the pool, attacking any creature other than [Nym](3-Mechanics/CLI/bestiary/npc/nym-skt.md) that enters it. The whale is [Nym](3-Mechanics/CLI/bestiary/npc/nym-skt.md)'s mount.
 
 A submerged passage blocked by a lowered portcullis connects the whale's pool to the sinkhole (area 1). Crates of dead fish rest against the walls, and a spiral staircase ascends 120 feet to area 31. Halfway up the spiral staircase is a secret door that opens into area 23.
 
@@ -184,13 +186,13 @@ If [Nym](3-Mechanics/CLI/bestiary/npc/nym-skt.md) retreats to this chamber, she 
 
 ### 7. Coral Garden
 
-The floor of this air-filled cave is under 5 feet of water. Staircases in the north and south walls rise up toward areas 6 and 8. [Nym](3-Mechanics/CLI/bestiary/npc/nym-skt.md) has turned this cave into her personal coral garden. Growths of coral sprout from walls and rock formations, all of them colorful and immense. One of the coral-covered rock formations is actually a [roper](3-Mechanics/CLI/bestiary/monstrosity/roper.md), which [Nym](3-Mechanics/CLI/bestiary/npc/nym-skt.md) uses as a guardian. The roper attacks any creature other than [Nym](3-Mechanics/CLI/bestiary/npc/nym-skt.md) that crosses the room.
+The floor of this air-filled cave is under 5 feet of water. Staircases in the north and south walls rise up toward areas 6 and 8. [Nym](3-Mechanics/CLI/bestiary/npc/nym-skt.md) has turned this cave into her personal coral garden. Growths of coral sprout from walls and rock formations, all of them colorful and immense. One of the coral-covered rock formations is actually a [roper](3-Mechanics/CLI/bestiary/aberration/roper-xmm.md), which [Nym](3-Mechanics/CLI/bestiary/npc/nym-skt.md) uses as a guardian. The roper attacks any creature other than [Nym](3-Mechanics/CLI/bestiary/npc/nym-skt.md) that crosses the room.
 
-A character can harvest `2d4` pounds of coral in an hour. The coral here is worth 100 gp per pound. The garden holds 50,000 gp worth of coral.
+A character can harvest `dice:2d4|noform|noparens|avg` (`2d4`) pounds of coral in an hour. The coral here is worth 100 gp per pound. The garden holds 50,000 gp worth of coral.
 
 ### 8. Mirran's Whale
 
-An enormous [killer whale](3-Mechanics/CLI/bestiary/beast/killer-whale.md) (156 hit points) swims circles in a 50-foot-deep pool here. The whale attacks any creature other than [Mirran](3-Mechanics/CLI/bestiary/npc/mirran-skt.md) that enters the water.
+An enormous [killer whale](3-Mechanics/CLI/bestiary/beast/killer-whale-xmm.md) (156 hit points) swims circles in a 50-foot-deep pool here. The whale attacks any creature other than [Mirran](3-Mechanics/CLI/bestiary/npc/mirran-skt.md) that enters the water.
 
 A flooded passage blocked by a lowered portcullis connects the whale's pool to the sinkhole (area 1). Staircases carved into the northwest and southeast walls lead down to areas 7 and 10. An open portcullis hangs above the southeast staircase. A third stairway leads up to area 9, and a wide spiral staircase ascends 120 feet to area 30. A crate of dead fish is near the spiral staircase. Halfway up it is a secret door that opens into area 20.
 
@@ -208,7 +210,7 @@ The storm giants sleeping in area 10 awaken and respond to any loud disturbance 
 
 ### 10. Sleeping Guard
 
-A staircase descends into a submerged chamber. A sleeping [storm giant](3-Mechanics/CLI/bestiary/giant/storm-giant.md) floats in the middle of the room, her limbs wrapped in kelp to keep from drifting.
+A staircase descends into a submerged chamber. A sleeping [storm giant](3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md) floats in the middle of the room, her limbs wrapped in kelp to keep from drifting.
 
 #### Treasure
 
@@ -216,7 +218,7 @@ This room contains four giant clams and an anemone chest. The clams' contents ar
 
 ### 11. Serissa's Whale
 
-[Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md)'s pet [killer whale](3-Mechanics/CLI/bestiary/beast/killer-whale.md) (128 hit points) swims and plays in a large, 50-foot-deep pool. When the whale sees another creature, it leaps out of the water and sings for its supper. If a character throws it a dead fish or something else it can eat, the whale remembers the gift and won't attack that individual unless the character attacks it first. The pool is connected to the sinkhole (area 1) by a flooded passage with a lowered portcullis.
+[Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md)'s pet [killer whale](3-Mechanics/CLI/bestiary/beast/killer-whale-xmm.md) (128 hit points) swims and plays in a large, 50-foot-deep pool. When the whale sees another creature, it leaps out of the water and sings for its supper. If a character throws it a dead fish or something else it can eat, the whale remembers the gift and won't attack that individual unless the character attacks it first. The pool is connected to the sinkhole (area 1) by a flooded passage with a lowered portcullis.
 
 An anemone chest stands in the southeast corner. It contains a black sack made from a merrow's bladder. The sack is full of dead fish. Nearby a raised portcullis looms above a staircase that descends to area 12.
 
@@ -230,11 +232,11 @@ The storm giants sleeping in area 12 awaken and respond to any loud disturbance 
 
 ### 12. Sleeping Guards
 
-A staircase topped by a raised portcullis descends into a pair of submerged chambers filled with kelp. Two [storm giants](3-Mechanics/CLI/bestiary/giant/storm-giant.md) sleep here, one in the southernmost chamber and one in the northernmost chamber. Their limbs are wrapped in kelp to keep them from drifting. The giants are sensitive to water currents, so that any creature that swims through a giant's cave must succeed on a DC 19 Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) check to avoid waking the giant.
+A staircase topped by a raised portcullis descends into a pair of submerged chambers filled with kelp. Two [storm giants](3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md) sleep here, one in the southernmost chamber and one in the northernmost chamber. Their limbs are wrapped in kelp to keep them from drifting. The giants are sensitive to water currents, so that any creature that swims through a giant's cave must succeed on a DC 19 Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) check to avoid waking the giant.
 
 #### Treasure
 
-This area contains six giant clams and two anemone chests. The clams' contents are determined by the Giant Clam table (see the "Maelstrom: General Features" sidebar). Each anemone chest holds `1d4`–1 magic items and `1d4` shark-bladder sacks. Each sack contains `1d4 × 100` pp. Roll on Magic Item Table B in chapter 7 of the "Dungeon Master's Guide" for any magic items.
+This area contains six giant clams and two anemone chests. The clams' contents are determined by the Giant Clam table (see the "Maelstrom: General Features" sidebar). Each anemone chest holds `dice:1d4|noform|noparens|avg` (`1d4`)–1 magic items and `dice:1d4|noform|noparens|avg` (`1d4`) shark-bladder sacks. Each sack contains `1d4 × 100` pp. Roll on Magic Item Table B in chapter 7 of the "Dungeon Master's Guide" for any magic items.
 
 ### 13. Study
 
@@ -252,15 +254,15 @@ Music fills this hall when the characters first arrive. The room is split into t
 
 Under the crystal window is a [hulking crab](3-Mechanics/CLI/bestiary/beast/hulking-crab-skt.md) (see appendix C) with colored nodules and hollow flutes of beautiful coral growing out of its shell. This creature is a living instrument. When one of the nodules on its shell is tapped, the motion tickles the crab and causes it to exhale a burst of air through one of its coral pipes, producing a deep tone similar to that of a pipe organ. Any creature that has proficiency in the [Performance](3-Mechanics/CLI/rules/skills.md#Performance) skill can, with hours of practice, learn to play the crab organ.
 
-Performing next to the ledge are [King Hekaton](3-Mechanics/CLI/bestiary/npc/king-hekaton-skt.md)'s two eldest daughters, [Mirran](3-Mechanics/CLI/bestiary/npc/mirran-skt.md) and [Nym](3-Mechanics/CLI/bestiary/npc/nym-skt.md). [Mirran](3-Mechanics/CLI/bestiary/npc/mirran-skt.md) is singing, while [Nym](3-Mechanics/CLI/bestiary/npc/nym-skt.md) provides instrumental accompaniment by tapping on the crab's shell with a pair of whalebone mallets. [Mirran](3-Mechanics/CLI/bestiary/npc/mirran-skt.md) and [Nym](3-Mechanics/CLI/bestiary/npc/nym-skt.md) have the statistics of a [storm giant](3-Mechanics/CLI/bestiary/giant/storm-giant.md), with the following changes:
+Performing next to the ledge are [King Hekaton](3-Mechanics/CLI/bestiary/npc/king-hekaton-skt.md)'s two eldest daughters, [Mirran](3-Mechanics/CLI/bestiary/npc/mirran-skt.md) and [Nym](3-Mechanics/CLI/bestiary/npc/nym-skt.md). [Mirran](3-Mechanics/CLI/bestiary/npc/mirran-skt.md) is singing, while [Nym](3-Mechanics/CLI/bestiary/npc/nym-skt.md) provides instrumental accompaniment by tapping on the crab's shell with a pair of whalebone mallets. [Mirran](3-Mechanics/CLI/bestiary/npc/mirran-skt.md) and [Nym](3-Mechanics/CLI/bestiary/npc/nym-skt.md) have the statistics of a [storm giant](3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md), with the following changes:
 
 - [Mirran](3-Mechanics/CLI/bestiary/npc/mirran-skt.md) and [Nym](3-Mechanics/CLI/bestiary/npc/nym-skt.md) are neutral evil.  
 - They are unarmed and unarmored (AC 12).  
 - They have the following additional skills: [Deception](3-Mechanics/CLI/rules/skills.md#Deception) +9, [Performance](3-Mechanics/CLI/rules/skills.md#Performance) +9.  
 
-The sisters are entertaining several high-ranking visitors: a [cloud giant](3-Mechanics/CLI/bestiary/giant/cloud-giant.md) count named [Vaal](3-Mechanics/CLI/bestiary/npc/vaal-skt.md) (neutral evil), a [fire giant](3-Mechanics/CLI/bestiary/giant/fire-giant.md) duchess named [Tartha](3-Mechanics/CLI/bestiary/npc/tartha-skt.md) (lawful evil), a [frost giant](3-Mechanics/CLI/bestiary/giant/frost-giant.md) jarl named [Hellenhild](3-Mechanics/CLI/bestiary/npc/hellenhild-skt.md) (neutral evil), and a [stone giant](3-Mechanics/CLI/bestiary/giant/stone-giant.md) thane named [Braxow](3-Mechanics/CLI/bestiary/npc/braxow-skt.md) (neutral). These giant nobles have come to Maelstrom, using their own [conchs of teleportation](3-Mechanics/CLI/items/conch-of-teleportation-skt.md), to find out what [Princess Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md) plans to do about the dissolution of the ordning, and to ascertain the extent of her power and influence. Each of them awaits an audience with the regent. The giant guests gather around mussel-shell tables and a giant coral fountain in the lower part of the room. The coral fountain spouts fresh water (see "Treasure"), which the giants drink from their conch shells. The giant visitors know better than to start a fight in here. They have no interest in hearing what the "small folk" have to say.
+The sisters are entertaining several high-ranking visitors: a [cloud giant](3-Mechanics/CLI/bestiary/giant/cloud-giant-xmm.md) count named [Vaal](3-Mechanics/CLI/bestiary/npc/vaal-skt.md) (neutral evil), a [fire giant](3-Mechanics/CLI/bestiary/giant/fire-giant-xmm.md) duchess named [Tartha](3-Mechanics/CLI/bestiary/npc/tartha-skt.md) (lawful evil), a [frost giant](3-Mechanics/CLI/bestiary/giant/frost-giant-xmm.md) jarl named [Hellenhild](3-Mechanics/CLI/bestiary/npc/hellenhild-skt.md) (neutral evil), and a [stone giant](3-Mechanics/CLI/bestiary/giant/stone-giant-xmm.md) thane named [Braxow](3-Mechanics/CLI/bestiary/npc/braxow-skt.md) (neutral). These giant nobles have come to Maelstrom, using their own [conchs of teleportation](3-Mechanics/CLI/items/conch-of-teleportation-skt.md), to find out what [Princess Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md) plans to do about the dissolution of the ordning, and to ascertain the extent of her power and influence. Each of them awaits an audience with the regent. The giant guests gather around mussel-shell tables and a giant coral fountain in the lower part of the room. The coral fountain spouts fresh water (see "Treasure"), which the giants drink from their conch shells. The giant visitors know better than to start a fight in here. They have no interest in hearing what the "small folk" have to say.
 
-Watching the visitors are two [storm giants](3-Mechanics/CLI/bestiary/giant/storm-giant.md) wearing helms. If [Mirran](3-Mechanics/CLI/bestiary/npc/mirran-skt.md) and [Nym](3-Mechanics/CLI/bestiary/npc/nym-skt.md) are attacked, these royal guards rush to the princesses' defense and cover their retreat to the throne room (area 15). The visiting giants join the battle on the side of the storm giants to avoid incurring the royal family's wrath.
+Watching the visitors are two [storm giants](3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md) wearing helms. If [Mirran](3-Mechanics/CLI/bestiary/npc/mirran-skt.md) and [Nym](3-Mechanics/CLI/bestiary/npc/nym-skt.md) are attacked, these royal guards rush to the princesses' defense and cover their retreat to the throne room (area 15). The visiting giants join the battle on the side of the storm giants to avoid incurring the royal family's wrath.
 
 A 40-foot-wide hall leading south ends at a guarded set of doors that open into the throne room.
 
@@ -298,7 +300,7 @@ The stone giant thane fears the giant gods. If the character making the skill ch
 
 #### Treasure
 
-Embedded in the coral fountain is a [decanter of endless water](3-Mechanics/CLI/items/decanter-of-endless-water.md). Anyone who inspects the fountain can, with a successful DC 20 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check, see the decanter anchored behind coral branches, which must be smashed to free it. The sculpture stands 20 feet tall and has AC 11, 50 hit points, and immunity to psychic and poison damage. The coral itself isn't valuable.
+Embedded in the coral fountain is a [decanter of endless water](3-Mechanics/CLI/items/decanter-of-endless-water-xdmg.md). Anyone who inspects the fountain can, with a successful DC 20 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check, see the decanter anchored behind coral branches, which must be smashed to free it. The sculpture stands 20 feet tall and has AC 11, 50 hit points, and immunity to psychic and poison damage. The coral itself isn't valuable.
 
 Several of the giants carry treasure as well:
 
@@ -306,7 +308,7 @@ Several of the giants carry treasure as well:
 
 **Nym**, the younger storm giantess, wears a gilded coral coronet with an anchor-like design (worth 750 gp).
 
-**Vaal**, the cloud giant, wears a diamond-studded platinum earring (worth 7,500 gp) and a vest with platinum embroidery (worth 2,500 gp). Tied to his belt is a [conch of teleportation](3-Mechanics/CLI/items/conch-of-teleportation-skt.md) (see appendix B) and a [potion of water breathing](3-Mechanics/CLI/items/potion-of-water-breathing.md).
+**Vaal**, the cloud giant, wears a diamond-studded platinum earring (worth 7,500 gp) and a vest with platinum embroidery (worth 2,500 gp). Tied to his belt is a [conch of teleportation](3-Mechanics/CLI/items/conch-of-teleportation-skt.md) (see appendix B) and a [potion of water breathing](3-Mechanics/CLI/items/potion-of-water-breathing-xdmg.md).
 
 **Tartha**, the fire giant, wears a necklace of gilded dragons' teeth (worth 750 gp) and has a [conch of teleportation](3-Mechanics/CLI/items/conch-of-teleportation-skt.md) in an iron box chained to her belt.
 
@@ -314,7 +316,7 @@ Several of the giants carry treasure as well:
 
 **Braxow**, the stone giant, has fifteen 100 gp gemstones embedded in his flesh. He carries a [conch of teleportation](3-Mechanics/CLI/items/conch-of-teleportation-skt.md) in a sack.
 
-![](3-Mechanics/CLI/adventures/storm-kings-thunder/img/095-skt10-03.webp#center)
+![](file://adventure/SKT/095-skt10-03.webp#center)
 
 #### Development
 
@@ -328,7 +330,7 @@ If the characters approach from the north, they face the guards in front of the 
 
 #### Tug and Cog
 
-Standing guard outside the throne room are two [hill giants](3-Mechanics/CLI/bestiary/giant/hill-giant.md) wearing scale mail (AC 15) and ill-fitting helms. Their names are [Tug](3-Mechanics/CLI/bestiary/npc/tug-skt.md) and [Cog](3-Mechanics/CLI/bestiary/npc/cog-skt.md), and they are exceedingly stupid. If the characters approach from the north without a storm giant escort, [Tug](3-Mechanics/CLI/bestiary/npc/tug-skt.md) and [Cog](3-Mechanics/CLI/bestiary/npc/cog-skt.md) raise their greatclubs threateningly. [Tug](3-Mechanics/CLI/bestiary/npc/tug-skt.md) says, "We guard throne room!" [Cog](3-Mechanics/CLI/bestiary/npc/cog-skt.md) follows with, "Where your escort?"
+Standing guard outside the throne room are two [hill giants](3-Mechanics/CLI/bestiary/giant/hill-giant-xmm.md) wearing scale mail (AC 15) and ill-fitting helms. Their names are [Tug](3-Mechanics/CLI/bestiary/npc/tug-skt.md) and [Cog](3-Mechanics/CLI/bestiary/npc/cog-skt.md), and they are exceedingly stupid. If the characters approach from the north without a storm giant escort, [Tug](3-Mechanics/CLI/bestiary/npc/tug-skt.md) and [Cog](3-Mechanics/CLI/bestiary/npc/cog-skt.md) raise their greatclubs threateningly. [Tug](3-Mechanics/CLI/bestiary/npc/tug-skt.md) says, "We guard throne room!" [Cog](3-Mechanics/CLI/bestiary/npc/cog-skt.md) follows with, "Where your escort?"
 
 Characters can outwit the hill giants by concocting a believable lie, such as "We are spies for [Princess Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md), come to deliver important information about her father!" or "[Princess Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md) told you that we were coming, or have you forgotten?" Have the liar make a Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception)) check contested by the giants' Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check. (Roll once for both giants.) If the character wins the contest, [Tug](3-Mechanics/CLI/bestiary/npc/tug-skt.md) and [Cog](3-Mechanics/CLI/bestiary/npc/cog-skt.md) exchange glassy-eyed looks, shrug, open the doors, and allow the characters to enter the throne room. If the giants win the contest, they attack. They also attack characters who try to slip past them without a proper escort.
 
@@ -342,16 +344,16 @@ Facing the pool and the doors are three enormous thrones. The middle one is carv
 
 [Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md) sits on the [Wyrmskull Throne](3-Mechanics/CLI/items/wyrmskull-throne-skt.md), flanked by her two advisors, [Imperator Uthor](3-Mechanics/CLI/bestiary/npc/imperator-uthor-skt.md) and [Iymrith](3-Mechanics/CLI/bestiary/npc/iymrith-skt.md) (see appendix C). [Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md) wears the [Korolnor Scepter](3-Mechanics/CLI/items/korolnor-scepter-skt.md) (see "Treasure") as a pendant, tied to a kelp necklace.
 
-[Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md) is a [storm giant](3-Mechanics/CLI/bestiary/giant/storm-giant.md), with the following changes:
+[Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md) is a [storm giant](3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md), with the following changes:
 
 - She has 200 hit points and wears hide armor (AC 14).  
-- She wields a wooden maul made from the mast of a warship, instead of a greatsword. She has a +14 bonus to hit with the weapon, which has a reach of 10 feet and deals 30 (`6d6 + 9`) bludgeoning damage on a hit.  
+- She wields a wooden maul made from the mast of a warship, instead of a greatsword. She has a `dice:1d20+14|noform|noparens|text(+14)` bonus to hit with the weapon, which has a reach of 10 feet and deals `dice:6d6+9|noform|noparens|avg|text(30)` (`6d6 + 9`) bludgeoning damage on a hit.  
 - As long as she has the [Korolnor Scepter](3-Mechanics/CLI/items/korolnor-scepter-skt.md) in her possession, she can activate the powers of the [Wyrmskull Throne](3-Mechanics/CLI/items/wyrmskull-throne-skt.md).  
 
-[Uthor](3-Mechanics/CLI/bestiary/npc/imperator-uthor-skt.md) is a [storm giant](3-Mechanics/CLI/bestiary/giant/storm-giant.md), with the following changes:
+[Uthor](3-Mechanics/CLI/bestiary/npc/imperator-uthor-skt.md) is a [storm giant](3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md), with the following changes:
 
 - He has 272 hit points.  
-- He wields a giant-sized [trident of fish command](3-Mechanics/CLI/items/trident-of-fish-command.md) instead of a greatsword. Uthor has a +14 bonus to hit with the weapon, which has a reach of 10 feet and deals 19 (`3d6 + 9`) piercing damage on a hit, or 22 (`3d8 + 9`) piercing damage if used with two hands.  
+- He wields a giant-sized [trident of fish command](3-Mechanics/CLI/items/trident-of-fish-command-xdmg.md) instead of a greatsword. Uthor has a `dice:1d20+14|noform|noparens|text(+14)` bonus to hit with the weapon, which has a reach of 10 feet and deals `dice:3d6+9|noform|noparens|avg|text(19)` (`3d6 + 9`) piercing damage on a hit, or `dice:3d8+9|noform|noparens|avg|text(22)` (`3d8 + 9`) piercing damage if used with two hands.  
 
 #### Dealing with Serissa
 
@@ -373,19 +375,19 @@ In a short time, [Iymrith](3-Mechanics/CLI/bestiary/npc/iymrith-skt.md) has esta
 
 If the characters accuse [Iymrith](3-Mechanics/CLI/bestiary/npc/iymrith-skt.md) of being a dragon in disguise, she expresses outrage at the accusation and tries to convince [Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md) that this claim is a ploy to sow discord in the storm giants' court. Heedless of [Iymrith](3-Mechanics/CLI/bestiary/npc/iymrith-skt.md)'s words, [Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md) is inclined to give the characters the benefit of the doubt. When it becomes clear to [Iymrith](3-Mechanics/CLI/bestiary/npc/iymrith-skt.md) that [Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md)'s fondness for small folk can't be undone with mere words, the dragon begins plotting her exit strategy.
 
-Casting [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md) on [Iymrith](3-Mechanics/CLI/bestiary/npc/iymrith-skt.md) doesn't reveal her true form, but contact with an [antimagic field](3-Mechanics/CLI/spells/antimagic-field.md) causes her to revert to her dragon form. It's unlikely that characters will have access to such powerful magic, but if all else fails, they can simply attack her. [Iymrith](3-Mechanics/CLI/bestiary/npc/iymrith-skt.md) doesn't revert to dragon form in this encounter. On her first turn in combat, she curses the characters in Draconic, declares that all giants and small folk are doomed, and snatches the [Korolnor Scepter](3-Mechanics/CLI/items/korolnor-scepter-skt.md) from around [Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md)'s neck. On her next turn, she teleports away. If she is unable to cast her [teleport](3-Mechanics/CLI/spells/teleport.md) spell for some reason, she flees through the circular pool in the floor and swims out of the stronghold to the surface. (As long as she remains in storm giant form, [Iymrith](3-Mechanics/CLI/bestiary/npc/iymrith-skt.md) can breathe underwater.) If [Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md) is seated on the [Wyrmskull Throne](3-Mechanics/CLI/items/wyrmskull-throne-skt.md) when the scepter is stolen from her, [Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md) is [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed) (see the throne's description in appendix B for details).
+Casting [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) on [Iymrith](3-Mechanics/CLI/bestiary/npc/iymrith-skt.md) doesn't reveal her true form, but contact with an [antimagic field](3-Mechanics/CLI/spells/antimagic-field-xphb.md) causes her to revert to her dragon form. It's unlikely that characters will have access to such powerful magic, but if all else fails, they can simply attack her. [Iymrith](3-Mechanics/CLI/bestiary/npc/iymrith-skt.md) doesn't revert to dragon form in this encounter. On her first turn in combat, she curses the characters in Draconic, declares that all giants and small folk are doomed, and snatches the [Korolnor Scepter](3-Mechanics/CLI/items/korolnor-scepter-skt.md) from around [Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md)'s neck. On her next turn, she teleports away. If she is unable to cast her [teleport](3-Mechanics/CLI/spells/teleport-xphb.md) spell for some reason, she flees through the circular pool in the floor and swims out of the stronghold to the surface. (As long as she remains in storm giant form, [Iymrith](3-Mechanics/CLI/bestiary/npc/iymrith-skt.md) can breathe underwater.) If [Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md) is seated on the [Wyrmskull Throne](3-Mechanics/CLI/items/wyrmskull-throne-skt.md) when the scepter is stolen from her, [Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md) is [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed) (see the throne's description in appendix B for details).
 
 If the characters do nothing to force [Iymrith](3-Mechanics/CLI/bestiary/npc/iymrith-skt.md)'s hand, she allows them to leave and pursue [Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md)'s quest, convinced that they will never find [King Hekaton](3-Mechanics/CLI/bestiary/npc/king-hekaton-skt.md). At the same time, [Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md)'s confidence in the characters' abilities sows doubt in [Iymrith](3-Mechanics/CLI/bestiary/npc/iymrith-skt.md)'s mind (see "Development").
 
 #### Treasure
 
-[Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md) wears the [Korolnor Scepter](3-Mechanics/CLI/items/korolnor-scepter-skt.md), which allows her to sit on the [Wyrmskull Throne](3-Mechanics/CLI/items/wyrmskull-throne-skt.md) and harness its magical powers. The only other treasure found here is Uthor's [trident of fish command](3-Mechanics/CLI/items/trident-of-fish-command.md), which grows or shrinks to match the size of whoever attunes to it.
+[Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md) wears the [Korolnor Scepter](3-Mechanics/CLI/items/korolnor-scepter-skt.md), which allows her to sit on the [Wyrmskull Throne](3-Mechanics/CLI/items/wyrmskull-throne-skt.md) and harness its magical powers. The only other treasure found here is Uthor's [trident of fish command](3-Mechanics/CLI/items/trident-of-fish-command-xdmg.md), which grows or shrinks to match the size of whoever attunes to it.
 
 #### Development
 
 If the characters forge an alliance with [Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md) or expose [Iymrith](3-Mechanics/CLI/bestiary/npc/iymrith-skt.md) as a villainous deceiver, the blue dragon returns to her lair in the Anauroch desert and isn't encountered again until chapter 12, "Doom of the Desert."
 
-It's possible that the characters might come into possession of a [spell scroll](3-Mechanics/CLI/items/spell-scroll.md) of [resurrection](3-Mechanics/CLI/spells/resurrection.md) at some point in the adventure, in which case they could offer to cast the spell on Queen Neri and bring her back from the dead. If they make such an offer, [Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md) leads them to her mother's sunken tomb (area 24) or has the queen's body brought to them. If Neri is returned to life, she replaces [Iymrith](3-Mechanics/CLI/bestiary/npc/iymrith-skt.md) as [Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md)'s advisor, and [Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md) rewards the characters by giving them the magic items in the sea chest in the royal treasury (area 16). Queen Neri, like [Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md), has a fondness for the small folk, and she's just as eager to find out what happened to Hekaton.
+It's possible that the characters might come into possession of a [spell scroll](3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [resurrection](3-Mechanics/CLI/spells/resurrection-xphb.md) at some point in the adventure, in which case they could offer to cast the spell on Queen Neri and bring her back from the dead. If they make such an offer, [Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md) leads them to her mother's sunken tomb (area 24) or has the queen's body brought to them. If Neri is returned to life, she replaces [Iymrith](3-Mechanics/CLI/bestiary/npc/iymrith-skt.md) as [Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md)'s advisor, and [Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md) rewards the characters by giving them the magic items in the sea chest in the royal treasury (area 16). Queen Neri, like [Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md), has a fondness for the small folk, and she's just as eager to find out what happened to Hekaton.
 
 ### 16. Royal Treasury
 
@@ -395,15 +397,15 @@ The room holds three crates, two barrels, a massive sea chest, and two anemone c
 
 #### Trap
 
-Just inside the room, built into the floor, is a pressure plate that the storm giants avoid by stepping over it. The pressure plate fills two 10-foot squares (each marked T on the map). Anyone who searches the floor for traps before entering the room spots the pressure plate with a successful DC 17 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. Applying 250 pounds or more to the plate causes the anchor above each trapped square to drop, chain and all. Any creature in a trapped space must succeed on a DC 15 Dexterity saving throw or be struck by the falling anchor for 44 (`8d10`) bludgeoning damage. One minute after the trap triggers, a mechanism hidden in the walls and ceiling causes the iron chains to retract, pulling the anchors back up, whereupon the trap resets. As an action, a character can disable the pressure plate (by driving a wedge or iron spike into its seam to prevent the plate from moving), doing so with a successful DC 15 Dexterity check.
+Just inside the room, built into the floor, is a pressure plate that the storm giants avoid by stepping over it. The pressure plate fills two 10-foot squares (each marked T on the map). Anyone who searches the floor for traps before entering the room spots the pressure plate with a successful DC 17 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. Applying 250 pounds or more to the plate causes the anchor above each trapped square to drop, chain and all. Any creature in a trapped space must succeed on a DC 15 Dexterity saving throw or be struck by the falling anchor for `dice:8d10|noform|noparens|avg|text(44)` (`8d10`) bludgeoning damage. One minute after the trap triggers, a mechanism hidden in the walls and ceiling causes the iron chains to retract, pulling the anchors back up, whereupon the trap resets. As an action, a character can disable the pressure plate (by driving a wedge or iron spike into its seam to prevent the plate from moving), doing so with a successful DC 15 Dexterity check.
 
 #### Treasure
 
-The first crate holds six folded, giant-sized rugs made from strips of soft kelp. Each rug is 20 feet square, weighs 250 pounds, and is worth 250 gp. The second crate holds an [apparatus of Kwalish](3-Mechanics/CLI/items/apparatus-of-kwalish.md) that was recovered from the pressurized hold of a wrecked gnomish submarine. The third crate contains hundreds of trinkets recovered from the sea floor—tribute from various [sea elf](3-Mechanics/CLI/bestiary/humanoid/sea-elf-skt.md) tribes that pledge fealty to the storm giant king. The trinkets include everything from worthless baubles to fine statuary and jewelry plundered from shipwrecks. The total weight of this tribute is 100 pounds, and its total value is 10,000 gp.
+The first crate holds six folded, giant-sized rugs made from strips of soft kelp. Each rug is 20 feet square, weighs 250 pounds, and is worth 250 gp. The second crate holds an [apparatus of Kwalish](3-Mechanics/CLI/items/apparatus-of-kwalish-xdmg.md) that was recovered from the pressurized hold of a wrecked gnomish submarine. The third crate contains hundreds of trinkets recovered from the sea floor—tribute from various [sea elf](3-Mechanics/CLI/bestiary/humanoid/sea-elf-skt.md) tribes that pledge fealty to the storm giant king. The trinkets include everything from worthless baubles to fine statuary and jewelry plundered from shipwrecks. The total weight of this tribute is 100 pounds, and its total value is 10,000 gp.
 
 The two barrels are full of exquisite wine (worth 2,500 gp each) and weigh 2,500 pounds each.
 
-The sea chest is 12 feet long, 9 feet tall, and 9 feet deep, with a lid shaped like a half-barrel. The large padlock that hangs from its latch is too big to be picked using thieves' tools. A Small character can squeeze inside the locking mechanism and pick the lock with a successful DC 16 Dexterity check. Lifting the heavy lid requires a successful DC 20 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. The chest holds a dozen smaller (human-made) chests that are unlocked and contain booty retrieved from the sea floor. Each small chest has `3d6 × 100` gp in mixed coinage. Lying among the chests are `1d4 + 1` magic items. Roll on Magic Item Table H in chapter 7 of the "Dungeon Master's Guide"for the first two items and on Table F for any other items.
+The sea chest is 12 feet long, 9 feet tall, and 9 feet deep, with a lid shaped like a half-barrel. The large padlock that hangs from its latch is too big to be picked using thieves' tools. A Small character can squeeze inside the locking mechanism and pick the lock with a successful DC 16 Dexterity check. Lifting the heavy lid requires a successful DC 20 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. The chest holds a dozen smaller (human-made) chests that are unlocked and contain booty retrieved from the sea floor. Each small chest has `3d6 × 100` gp in mixed coinage. Lying among the chests are `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) magic items. Roll on Magic Item Table H in chapter 7 of the "Dungeon Master's Guide"for the first two items and on Table F for any other items.
 
 The first anemone chest holds six grapefruit-sized pink pearls (worth 500 gp each). The second anemone chest contains six [potions of giant size](3-Mechanics/CLI/items/potion-of-giant-size-skt.md) (see appendix B) in purple and green coral vials sized for Small and Medium creatures. Each coral vial is worth 25 gp.
 
@@ -413,19 +415,19 @@ The first anemone chest holds six grapefruit-sized pink pearls (worth 500 gp eac
 
 ### 18. Meditation Cave
 
-This naturally formed cave has bioluminescent lichen, coral, snails, and starfish clinging to its damp walls. The area radiates overlapping auras of conjuration, divination, and evocation magic when scrutinized with a [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell. Over the years, the storm giants have learned how to become attuned to the magic of this cave and harness its innate magical properties.
+This naturally formed cave has bioluminescent lichen, coral, snails, and starfish clinging to its damp walls. The area radiates overlapping auras of conjuration, divination, and evocation magic when scrutinized with a [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell. Over the years, the storm giants have learned how to become attuned to the magic of this cave and harness its innate magical properties.
 
 Becoming attuned to the cave requires a creature to spend a short rest meditating inside the cave. While meditating, the creature can't engage in any strenuous activity. If the short rest is interrupted, the attunement fails. Otherwise, at the end of the short rest, the creature becomes aware of the cave's magical properties and can use them as described here.
 
-Only one creature can be attuned to the cave at a time. A creature's attunement to the cave ends as soon as it leaves the cave. A creature that is attuned to the cave can use an action to cast one of the following spells, requiring no material components: [clairvoyance](3-Mechanics/CLI/spells/clairvoyance.md), [identify](3-Mechanics/CLI/spells/identify.md), [sending](3-Mechanics/CLI/spells/sending.md), or [teleport](3-Mechanics/CLI/spells/teleport.md).
+Only one creature can be attuned to the cave at a time. A creature's attunement to the cave ends as soon as it leaves the cave. A creature that is attuned to the cave can use an action to cast one of the following spells, requiring no material components: [clairvoyance](3-Mechanics/CLI/spells/clairvoyance-xphb.md), [identify](3-Mechanics/CLI/spells/identify-xphb.md), [sending](3-Mechanics/CLI/spells/sending-xphb.md), or [teleport](3-Mechanics/CLI/spells/teleport-xphb.md).
 
 #### Development
 
-[King Hekaton](3-Mechanics/CLI/bestiary/npc/king-hekaton-skt.md) often used the [sending](3-Mechanics/CLI/spells/sending.md) property of the cave to arrange meetings with lesser giants and used the [teleport](3-Mechanics/CLI/spells/teleport.md) property from time to time to send guests to far-flung destinations. If [Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md) is on speaking terms with the party, she can use the cave's [teleport](3-Mechanics/CLI/spells/teleport.md) property to send the characters wherever they wish to go, once their business in Maelstrom is concluded.
+[King Hekaton](3-Mechanics/CLI/bestiary/npc/king-hekaton-skt.md) often used the [sending](3-Mechanics/CLI/spells/sending-xphb.md) property of the cave to arrange meetings with lesser giants and used the [teleport](3-Mechanics/CLI/spells/teleport-xphb.md) property from time to time to send guests to far-flung destinations. If [Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md) is on speaking terms with the party, she can use the cave's [teleport](3-Mechanics/CLI/spells/teleport-xphb.md) property to send the characters wherever they wish to go, once their business in Maelstrom is concluded.
 
 ### 19. Shark Pens
 
-These caves are submerged. A lowered portcullis blocks the way from the main cave to the sinkhole (area 1), and lowered portcullises also confine ten [hunter sharks](3-Mechanics/CLI/bestiary/beast/hunter-shark.md) to the four side caves. The sharks take advantage of any opportunity to escape from their pens, attacking any creatures other than storm giants that cross their path. The storm giants keep the sharks for defense, releasing them into the sinkhole in the event of a major attack against the stronghold. They also use shark hide to fashion apparel and shark teeth to festoon their weapons (see area 20),
+These caves are submerged. A lowered portcullis blocks the way from the main cave to the sinkhole (area 1), and lowered portcullises also confine ten [hunter sharks](3-Mechanics/CLI/bestiary/beast/hunter-shark-xmm.md) to the four side caves. The sharks take advantage of any opportunity to escape from their pens, attacking any creatures other than storm giants that cross their path. The storm giants keep the sharks for defense, releasing them into the sinkhole in the event of a major attack against the stronghold. They also use shark hide to fashion apparel and shark teeth to festoon their weapons (see area 20),
 
 #### Treasure
 
@@ -455,7 +457,7 @@ A giant clam rests in the southwest corner of the room. The clam's contents are 
 
 #### Development
 
-If the characters desecrate the statue of Stronmaus by breaking it, blood seems to seep from within the statue, polluting the surrounding water and attracting two [giant sharks](3-Mechanics/CLI/bestiary/beast/giant-shark.md), which arrive 1 minute later. The sharks enter the temple through the open passage that connects with the sinkhole (area 1).
+If the characters desecrate the statue of Stronmaus by breaking it, blood seems to seep from within the statue, polluting the surrounding water and attracting two [giant sharks](3-Mechanics/CLI/bestiary/beast/giant-shark-xmm.md), which arrive 1 minute later. The sharks enter the temple through the open passage that connects with the sinkhole (area 1).
 
 ### 22. Royal Tomb
 
@@ -469,9 +471,9 @@ Queen Neri is entombed with a purple coral circlet set with small black pearls (
 
 ### 23. Scrying Pool
 
-The central feature of this air-filled chamber is a semicircular basin 20 feet in diameter and 10 feet deep in the middle. Fresh water fills the basin. The raised stone lip surrounding the pool is 5 feet high and equally thick. A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell cast on the basin reveals an aura of divination magic.
+The central feature of this air-filled chamber is a semicircular basin 20 feet in diameter and 10 feet deep in the middle. Fresh water fills the basin. The raised stone lip surrounding the pool is 5 feet high and equally thick. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell cast on the basin reveals an aura of divination magic.
 
-The basin has 3 charges. As long as the water in the basin is unpolluted, a creature can touch the basin and expend 1 charge to cast a [scrying](3-Mechanics/CLI/spells/scrying.md) spell from the basin. The subject of the spell appears in the water's surface. The basin regains all expended charges daily at dawn.
+The basin has 3 charges. As long as the water in the basin is unpolluted, a creature can touch the basin and expend 1 charge to cast a [scrying](3-Mechanics/CLI/spells/scrying-xphb.md) spell from the basin. The subject of the spell appears in the water's surface. The basin regains all expended charges daily at dawn.
 
 The northwest wall has a giant-sized secret door set into it. It leads to a spiral staircase that climbs to area 31 and descends to area 6.
 
@@ -489,7 +491,7 @@ This room contains sturdy, floor-to-ceiling shelves made of petrified wood. Stac
 
 #### Treasure
 
-Five rocks have the following wizard spells inscribed on them: [antimagic field](3-Mechanics/CLI/spells/antimagic-field.md), [conjure elemental](3-Mechanics/CLI/spells/conjure-elemental.md), [fabricate](3-Mechanics/CLI/spells/fabricate.md), [legend lore](3-Mechanics/CLI/spells/legend-lore.md), and [stone shape](3-Mechanics/CLI/spells/stone-shape.md). The rocks function like pages of a spellbook, but each weighs 600 pounds. A character who has a spellbook can record these spells in it.
+Five rocks have the following wizard spells inscribed on them: [antimagic field](3-Mechanics/CLI/spells/antimagic-field-xphb.md), [conjure elemental](3-Mechanics/CLI/spells/conjure-elemental-xphb.md), [fabricate](3-Mechanics/CLI/spells/fabricate-xphb.md), [legend lore](3-Mechanics/CLI/spells/legend-lore-xphb.md), and [stone shape](3-Mechanics/CLI/spells/stone-shape-xphb.md). The rocks function like pages of a spellbook, but each weighs 600 pounds. A character who has a spellbook can record these spells in it.
 
 ### 26. Uthor's Quarters
 
@@ -509,15 +511,15 @@ Any loud noises here awaken the giants in area 29 and alert any giants in area 1
 
 ### 29. Sleeping Guards
 
-Unless they have been awakened and drawn elsewhere, two sleeping [storm giants](3-Mechanics/CLI/bestiary/giant/storm-giant.md) float in the middle of this submerged room, their limbs wrapped in kelp to keep them from drifting. They awaken if they are attacked or otherwise disturbed. The giants are sensitive to water currents, so that any creature that swims through the cave must succeed on a DC 19 Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) check to avoid waking the giants.
+Unless they have been awakened and drawn elsewhere, two sleeping [storm giants](3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md) float in the middle of this submerged room, their limbs wrapped in kelp to keep them from drifting. They awaken if they are attacked or otherwise disturbed. The giants are sensitive to water currents, so that any creature that swims through the cave must succeed on a DC 19 Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) check to avoid waking the giants.
 
 #### Treasure
 
-This room contains three giant clams and an anemone chest. The clams' contents are determined by the Giant Clam table (see the "Maelstrom: General Features" sidebar). The anemone chest holds `1d4 + 1` shark-bladder sacks. Each sack contains `1d4 × 100` pp.
+This room contains three giant clams and an anemone chest. The clams' contents are determined by the Giant Clam table (see the "Maelstrom: General Features" sidebar). The anemone chest holds `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) shark-bladder sacks. Each sack contains `1d4 × 100` pp.
 
 > [!gallery]
-> ![Map 10.2: Maelstrom, Level 3](3-Mechanics/CLI/adventures/storm-kings-thunder/img/096-skt10-maelstrom2.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/storm-kings-thunder/img/097-1002.webp#gallery)
+> ![Map 10.2: Maelstrom, Level 3](file://adventure/SKT/096-skt10-maelstrom2.webp#gallery)
+> ![Player Version](file://adventure/SKT/097-1002.webp#gallery)
 
 ### 30. Mirran's Tower
 
@@ -537,7 +539,7 @@ If her life is threatened and she is forced to retreat to her tower, [Mirran](3-
 
 One anemone chest contains seven pieces of jewelry sized for a giant, including a whalebone tiara inlaid with mother-of-pearl and precious gemstones (worth 2,500 gp), three pearl necklaces (worth 2,500 gp each), a pair of pearl-studded coral earrings (worth 1,500 gp for the pair), and a platinum necklace adorned with shark's teeth (worth 1,500 gp).
 
-The other anemone chest contains 600 pp and `1d4` magic items. Roll on Magic Item Table G in chapter 7 of the "Dungeon Master's Guide" for the first item, and on Table D for any other items.
+The other anemone chest contains 600 pp and `dice:1d4|noform|noparens|avg` (`1d4`) magic items. Roll on Magic Item Table G in chapter 7 of the "Dungeon Master's Guide" for the first item, and on Table D for any other items.
 
 The first crate contains twenty bolts of fine silk (worth 250 gp each). The second crate holds a wooden chariot with gold wheel-caps (worth 500 gp). In the third crate are thirty 10-pound sacks of saffron (worth 150 gp each). The fourth crate contains a well-packed dining room furniture set consisting of a large table and eight chairs carved from dark wood and inlaid with gold; the set is worth 2,500 gp but is awkward to transport.
 
@@ -545,7 +547,7 @@ The first crate contains twenty bolts of fine silk (worth 250 gp each). The seco
 
 #### 31A. Hot Bath
 
-The walls of this room are painted to look like a bright coral forest. Five [steam mephits](3-Mechanics/CLI/bestiary/elemental/steam-mephit.md) swim in a pool of salt water in the floor. Their bodies generate enough heat to warm the pool. Steam fills the room and clouds the crystal window that overlooks the sinkhole to the southeast. The mephits jeer at strangers but are too lazy to fight except when forced to defend themselves.
+The walls of this room are painted to look like a bright coral forest. Five [steam mephits](3-Mechanics/CLI/bestiary/elemental/steam-mephit-xmm.md) swim in a pool of salt water in the floor. Their bodies generate enough heat to warm the pool. Steam fills the room and clouds the crystal window that overlooks the sinkhole to the southeast. The mephits jeer at strangers but are too lazy to fight except when forced to defend themselves.
 
 Shelves along the walls contain various worthless knickknacks that [Nym](3-Mechanics/CLI/bestiary/npc/nym-skt.md) has collected from shipwrecks, including a few human skulls with barnacles on them.
 
@@ -555,7 +557,7 @@ The frame of [Nym](3-Mechanics/CLI/bestiary/npc/nym-skt.md)'s bed is made from w
 
 ##### Treasure
 
-Characters who search the trunk find 500 pp, four coral bracelets (worth 250 gp each), a black coral torc set with two red pearls (worth 2,500 gp), and `1d4` magic items. Roll on Magic Item Table G in chapter 7 of the "Dungeon Master's Guide" for the first item, and on Table B for any others.
+Characters who search the trunk find 500 pp, four coral bracelets (worth 250 gp each), a black coral torc set with two red pearls (worth 2,500 gp), and `dice:1d4|noform|noparens|avg` (`1d4`) magic items. Roll on Magic Item Table G in chapter 7 of the "Dungeon Master's Guide" for the first item, and on Table B for any others.
 
 ### 32. Serissa's Tower
 
@@ -565,7 +567,7 @@ A wide crystal window offers a breathtaking view of the vortex, the sinkhole, an
 
 ##### Treasure
 
-Characters who inspect the knickknacks on the shelves find `1d3` magic items. Roll on Magic Item Table F in chapter 7 of the "Dungeon Master's Guide" for the first item, and on Table B for any other items.
+Characters who inspect the knickknacks on the shelves find `dice:1d3|noform|noparens|avg` (`1d3`) magic items. Roll on Magic Item Table F in chapter 7 of the "Dungeon Master's Guide" for the first item, and on Table B for any other items.
 
 #### 32B. Bedchamber
 
@@ -577,7 +579,7 @@ Characters who inspect the knickknacks on the shelves find `1d3` magic items. Ro
 
 ### 33. King's Tower
 
-This tower belongs to the storm giant king and queen. At the top of the spiral staircase is a magnificent hall with an arched ceiling, guarded by a [storm giant](3-Mechanics/CLI/bestiary/giant/storm-giant.md) who stands stiffly in the hall's middle. The giant hurls lightning at intruders before charging them with sword drawn. He remains here unless ordered elsewhere by Uthor.
+This tower belongs to the storm giant king and queen. At the top of the spiral staircase is a magnificent hall with an arched ceiling, guarded by a [storm giant](3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md) who stands stiffly in the hall's middle. The giant hurls lightning at intruders before charging them with sword drawn. He remains here unless ordered elsewhere by Uthor.
 
 Two doors on the east wall open into storage rooms (area 33A). A door on the west wall opens into the royal bedchamber (area 33B). In the southwest corner is a door leading to the king's private den (area 33C).
 
@@ -599,7 +601,7 @@ A wide crystal window affords a majestic view of the vortex, sinkhole, and other
 
 ### 34. Guard Post
 
-Nine [giant crabs](3-Mechanics/CLI/bestiary/beast/giant-crab.md) inhabit this underwater cave, which also serves as a watch post for two [storm giants](3-Mechanics/CLI/bestiary/giant/storm-giant.md). The crabs pose no threat unless attacked. The giants leave periodically to patrol the waters around Maelstrom.
+Nine [giant crabs](3-Mechanics/CLI/bestiary/beast/giant-crab-xmm.md) inhabit this underwater cave, which also serves as a watch post for two [storm giants](3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md). The crabs pose no threat unless attacked. The giants leave periodically to patrol the waters around Maelstrom.
 
 The cave contains three giant clams. The clams' contents are determined by the Giant Clam table (see the "Maelstrom: General Features" sidebar).
 

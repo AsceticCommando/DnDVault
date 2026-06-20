@@ -12,6 +12,8 @@ aliases:
 
 **Folk Horror Villains**
 
+`dice: [](folk-horror-villains-vrgr.md#^folk-horror-villains)`
+
 | dice: d8 | Villain |
 |----------|---------|
 | 1 | A secluded temple's high priest who needs to find the perfect sacrifice before the annual festival |

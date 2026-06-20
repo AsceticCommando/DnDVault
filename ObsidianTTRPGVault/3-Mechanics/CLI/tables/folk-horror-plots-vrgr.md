@@ -12,6 +12,8 @@ aliases:
 
 **Folk Horror Plots**
 
+`dice: [](folk-horror-plots-vrgr.md#^folk-horror-plots)`
+
 | dice: d8 | Plot |
 |----------|------|
 | 1 | Recover a missing villager who ran away to escape the local cult. |

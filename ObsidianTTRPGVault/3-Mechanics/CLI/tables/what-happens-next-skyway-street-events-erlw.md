@@ -12,14 +12,16 @@ aliases:
 
 **Skyway Street Events**
 
+`dice: [](what-happens-next-skyway-street-events-erlw.md#^skyway-street-events)`
+
 | dice: d12 | Event |
 |-----------|-------|
-| 1 | A few [gargoyles](3-Mechanics/CLI/bestiary/elemental/gargoyle.md) perch on a mansion's walls. They're seemingly there for security, but they offer lively commentary about everyone who passes by. |
-| 2 | A [noble](3-Mechanics/CLI/bestiary/humanoid/noble.md) with auburn hair held in a silver diadem holds a darkwood staff encrusted with dragonshards, and taps it impatiently while waiting for a skycoach. |
+| 1 | A few [gargoyles](3-Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) perch on a mansion's walls. They're seemingly there for security, but they offer lively commentary about everyone who passes by. |
+| 2 | A [noble](3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md) with auburn hair held in a silver diadem holds a darkwood staff encrusted with dragonshards, and taps it impatiently while waiting for a skycoach. |
 | 3 | You pass by a hope well. Supposedly, any coins you throw in the well are gathered and transported down to help the troubled people of the lower wards. |
 | 4 | "Make way! Make way!" A boy clears a path for a jewel-encrusted warforged wearing a lavish fur cloak. |
 | 5 | You come upon a fountain of cold fire. In the center, a brass dragon spits brilliant flames into the air, and they spill down and out into the surrounding pool. |
-| 6 | A team of handlers from House Vadalis walk alongside a small [gelatinous cube](3-Mechanics/CLI/bestiary/ooze/gelatinous-cube.md). "We're trying it out, seeing if it can help keep things clean," they say. |
+| 6 | A team of handlers from House Vadalis walk alongside a small [gelatinous cube](3-Mechanics/CLI/bestiary/ooze/gelatinous-cube-xmm.md). "We're trying it out, seeing if it can help keep things clean," they say. |
 | 7 | A [magewright](3-Mechanics/CLI/bestiary/humanoid/magewright-erlw.md) offers to use a simple charm to polish the coins in your purse for just 3 copper crowns. "We wouldn't want anyone here to get grime on their gloves from handling those filthy coins of yours from the lower wards." |
 | 8 | A tour group pauses to marvel at a mansion. |
 | 9 | A large statue commemorates Lord Dalian ir'Tain, a noble philanthropist lost at sea at the end of the Last War. He holds a spyglass in one hand and a miniature dragon turtle in the other. |

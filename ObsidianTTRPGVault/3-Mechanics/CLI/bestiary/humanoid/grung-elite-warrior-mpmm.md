@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Grung Elite Warrior"
 ---
-# [Grung Elite Warrior](3-Mechanics\CLI\bestiary\humanoid/grung-elite-warrior-mpmm.md)
+# [Grung Elite Warrior](3-Mechanics/CLI/bestiary/humanoid/grung-elite-warrior-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 150, Volo's Guide to Monsters p. 157*  
 
 A grung elite warrior typically leads a group of grung and other warriors into battle and is often accompanied by a grung wildling.
@@ -55,8 +55,8 @@ Born in a wide range of colors, grungs most often appear in shades of green, blu
 "damage_immunities": "poison"
 "condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
-  - "[shortbow](3-Mechanics/CLI/items/shortbow.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
+  - "[shortbow](3-Mechanics/CLI/items/shortbow-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Grung"
 "cr": "2"
@@ -93,7 +93,7 @@ Born in a wide range of colors, grungs most often appear in shades of green, blu
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/grung-elite-warrior-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Grung%20Elite%20Warrior.webp"
 ```
 ^statblock
 

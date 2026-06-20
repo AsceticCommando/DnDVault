@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Phoenix"
 ---
-# [Phoenix](3-Mechanics\CLI\bestiary\elemental/phoenix-mpmm.md)
+# [Phoenix](3-Mechanics/CLI/bestiary/elemental/phoenix-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 206, Mordenkainen's Tome of Foes p. 199*  
 
 > [!quote] A quote from Mordenkainen  
@@ -104,7 +104,7 @@ Releasing a phoenix from the Inner Planes creates an explosion of fire that spre
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/elemental/token/phoenix-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Phoenix.webp"
 ```
 ^statblock
 

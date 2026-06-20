@@ -26,6 +26,8 @@ Inventing, writing, storytelling, improvising, acting, refereeing-every DM handl
 
 The D&D rules help you and the other players have a good time, but the rules aren't in charge. You're the DM, and you are in charge of the game. That said, your goal isn't to slaughter the adventurers but to create a campaign world that revolves around their actions and decisions, and to keep your players coming back for more! If you're lucky, the events of your campaign will echo in the memories of your players long after the final game session is concluded.
 
+![](file://book/DMG/intro.webp#center)
+
 ## How to Use This Book
 
 This book is organized in three parts. The first part helps you decide what kind of campaign you'd like to run. The second part helps you create the adventures-the stories-that will compose the campaign and keep the players entertained from one game session to the next. The last part helps you adjudicate the rules of the game and modify them to suit the style of your campaign.
@@ -54,7 +56,7 @@ Dungeons & Dragons isn't a head-to-head competition, but it needs someone who is
 
 As a referee, the DM acts as a mediator between the rules and the players. A player tells the DM what he or she wants to do, and the DM determines whether it is successful or not, in some cases asking the player to make a die roll to determine success. For example, if a player wants his or her character to take a swing at an orc, you say, "Make an attack roll" while looking up the orc's Armor Class.
 
-The rules don't account for every possible situation that might arise during a typical D&D session. For example, a player might want his or her character to hurl a brazier full of hot coals into a monster's face. How you determine the outcome of this action is up to you. You might tell the player to make a Strength check, while mentally setting the **Difficulty Class** (DC) at 15. If the Strength check is successful, you then determine how a face full of hot coals affects the monster. You might decide that it deals `1d4` fire damage and imposes disadvantage on the monster's attack rolls until the end of its next turn. You roll the damage die (or let the player do it), and the game continues.
+The rules don't account for every possible situation that might arise during a typical D&D session. For example, a player might want his or her character to hurl a brazier full of hot coals into a monster's face. How you determine the outcome of this action is up to you. You might tell the player to make a Strength check, while mentally setting the **Difficulty Class** (DC) at 15. If the Strength check is successful, you then determine how a face full of hot coals affects the monster. You might decide that it deals `dice:1d4|noform|noparens|avg` (`1d4`) fire damage and imposes disadvantage on the monster's attack rolls until the end of its next turn. You roll the damage die (or let the player do it), and the game continues.
 
 Sometimes mediating the rules means setting limits. If a player tells you, "I want to run up and attack the orc," but the character doesn't have enough movement to reach the orc, you say, "It's too far away to move up and still attack. What would you like to do instead?" The player takes the information and comes up with a different plan.
 

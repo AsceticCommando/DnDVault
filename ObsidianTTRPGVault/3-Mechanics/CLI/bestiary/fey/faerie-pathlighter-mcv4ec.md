@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Faerie Pathlighter"
 ---
-# [Faerie Pathlighter](3-Mechanics\CLI\bestiary\fey/faerie-pathlighter-mcv4ec.md)
+# [Faerie Pathlighter](3-Mechanics/CLI/bestiary/fey/faerie-pathlighter-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 Faerie pathlighters pry into human lives, sometimes to help (like a classic fairy godparent) and sometimes to harm. In the wilds of Eldraine, faerie pathlighters often serve as protectors for the lost, the glow of their guiding lanterns leading weary travelers to respite.
@@ -73,9 +73,9 @@ The faeries of Eldraine are winged, elfin creatures similar to sprites or pixies
       \ from the [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) condition."
     "name": "Shining Strike"
   - "desc": "The faerie casts one of the following spells, requiring no material components\
-      \ and using Charisma as the spellcasting ability:\n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md),\
-      \ [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md)\n\
-      \n**1/day:** [locate creature](3-Mechanics/CLI/spells/locate-creature.md)"
+      \ and using Charisma as the spellcasting ability:\n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
+      \ [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
+      \n**1/day:** [locate creature](3-Mechanics/CLI/spells/locate-creature-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The faerie summons a 30-foot-radius sphere of magical light centered\
@@ -90,6 +90,6 @@ The faeries of Eldraine are winged, elfin creatures similar to sprites or pixies
     "name": "Guiding Light (2/Day)"
 "source":
   - "MCV4EC"
-"image": "3-Mechanics/CLI/bestiary/fey/token/faerie-pathlighter-mcv4ec.webp"
+"image": "file://bestiary/tokens/MCV4EC/Faerie%20Pathlighter.webp"
 ```
 ^statblock

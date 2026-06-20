@@ -15,10 +15,10 @@ statblock-link: "#^statblock"
 aliases:
 - "Ogre Howdah"
 ---
-# [Ogre Howdah](3-Mechanics\CLI\bestiary\giant/ogre-howdah-mpmm.md)
+# [Ogre Howdah](3-Mechanics/CLI/bestiary/giant/ogre-howdah-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 201, Mordenkainen's Tome of Foes p. 221*  
 
-The most unusual of the specialized ogres, the howdah carries a palisaded wooden fort on its back. The fort serves as a fighting platform for up to four Small people. Ogre howdahs are most often seen bearing bow- and spear-wielding [goblins](3-Mechanics/CLI/bestiary/humanoid/goblin.md) into battle, or perhaps [kobolds](3-Mechanics/CLI/bestiary/humanoid/kobold.md) or [deep gnomes](3-Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md), but they might also transport other Small folk.
+The most unusual of the specialized ogres, the howdah carries a palisaded wooden fort on its back. The fort serves as a fighting platform for up to four Small people. Ogre howdahs are most often seen bearing bow- and spear-wielding [goblins](3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) into battle, or perhaps [kobolds](3-Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm.md) or [deep gnomes](3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md), but they might also transport other Small folk.
 
 ## Ogres of War
 
@@ -30,7 +30,7 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
 "type": "giant"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "15"
-"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "59"
 "hit_dice": "7d10 + 21"
 "modifier": !!int "-1"
@@ -43,7 +43,7 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
   - !!int "7"
 "speed": "40 ft."
 "gear":
-  - "[mace](3-Mechanics/CLI/items/mace.md)"
+  - "[mace](3-Mechanics/CLI/items/mace-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 8"
 "languages": "Common, Giant"
@@ -63,7 +63,7 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/giant/token/ogre-howdah-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Ogre%20Howdah.webp"
 ```
 ^statblock
 

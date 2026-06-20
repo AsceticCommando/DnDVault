@@ -12,6 +12,8 @@ aliases:
 
 **Duergar Adventurer Story Hooks**
 
+`dice: [](duergar-in-the-world-duergar-adventurer-story-hooks-mtf.md#^duergar-adventurer-story-hooks)`
+
 | dice: d6 | Hook |
 |----------|------|
 | 1 | You are a heretic, drawn to worship of Moradin. |

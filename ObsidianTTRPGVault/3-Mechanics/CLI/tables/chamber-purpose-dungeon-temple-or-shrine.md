@@ -12,6 +12,8 @@ aliases:
 
 **Dungeon: Temple or Shrine**
 
+`dice: [](chamber-purpose-dungeon-temple-or-shrine.md#^dungeon-temple-or-shrine)`
+
 | dice: d100 | Purpose |
 |------------|---------|
 | 01-03 | Armory filled with weapons and armor, battle banners, and pennants |

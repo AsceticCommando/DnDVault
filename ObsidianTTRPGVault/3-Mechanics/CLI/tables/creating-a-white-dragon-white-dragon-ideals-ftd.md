@@ -12,6 +12,8 @@ aliases:
 
 **White Dragon Ideals**
 
+`dice: [](creating-a-white-dragon-white-dragon-ideals-ftd.md#^white-dragon-ideals)`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Rapacity. When a creature has the misfortune of crossing my path, I ask myself two questions: Am I hungry now? And if not, will I be hungry later? (Any) |

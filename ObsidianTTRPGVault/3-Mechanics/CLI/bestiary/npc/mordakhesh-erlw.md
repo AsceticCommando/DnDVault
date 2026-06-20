@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Mordakhesh"
 ---
-# [Mordakhesh](3-Mechanics\CLI\bestiary\npc/mordakhesh-erlw.md)
+# [Mordakhesh](3-Mechanics/CLI/bestiary/npc/mordakhesh-erlw.md)
 *Source: Eberron: Rising from the Last War p. 301*  
 
 In the age when fiends and dragons waged war across Eberron, rakshasas served the fiendish lords as strategists and generals. A rakshasa named Mordakhesh rose up through the ranks to become one of the greatest commanders of his age, and a dragon-slaying specialist. For this, he earned the nickname Shadowsword, along with a legendary reputation for leaving death in his wake.
@@ -27,7 +27,7 @@ Many of the horrors of the Last War were instigated—or at least encouraged—b
 "type": "fiend"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
-"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor.md)"
+"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "170"
 "hit_dice": "20d8 + 80"
 "modifier": !!int "3"
@@ -57,7 +57,7 @@ Many of the horrors of the Last War were instigated—or at least encouraged—b
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't silvered"
 "gear":
-  - "[greatsword](3-Mechanics/CLI/items/greatsword.md)"
+  - "[greatsword](3-Mechanics/CLI/items/greatsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 18"
 "languages": "Common, Infernal"
@@ -65,14 +65,14 @@ Many of the horrors of the Last War were instigated—or at least encouraged—b
 "traits":
   - "desc": "Mordakhesh's spellcasting ability is Charisma (spell save DC 18, +10\
       \ to hit with spell attacks). Mordakhesh can innately cast the following spells,\
-      \ requiring no material components:\n\n**At will:** [chromatic orb](3-Mechanics/CLI/spells/chromatic-orb.md)\
-      \ (see \"Actions\" below), [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md),\
-      \ [disguise self](3-Mechanics/CLI/spells/disguise-self.md)\n\n**1/day each:**\
-      \ [banishing smite](3-Mechanics/CLI/spells/banishing-smite.md), [destructive\
-      \ wave](3-Mechanics/CLI/spells/destructive-wave.md), [fly](3-Mechanics/CLI/spells/fly.md),\
-      \ [mass suggestion](3-Mechanics/CLI/spells/mass-suggestion.md), [staggering\
-      \ smite](3-Mechanics/CLI/spells/staggering-smite.md), [suggestion](3-Mechanics/CLI/spells/suggestion.md),\
-      \ [true seeing](3-Mechanics/CLI/spells/true-seeing.md)"
+      \ requiring no material components:\n\n**At will:** [chromatic orb](3-Mechanics/CLI/spells/chromatic-orb-xphb.md)\
+      \ (see \"Actions\" below), [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md)\n\n**1/day each:**\
+      \ [banishing smite](3-Mechanics/CLI/spells/banishing-smite-xphb.md), [destructive\
+      \ wave](3-Mechanics/CLI/spells/destructive-wave-xphb.md), [fly](3-Mechanics/CLI/spells/fly-xphb.md),\
+      \ [mass suggestion](3-Mechanics/CLI/spells/mass-suggestion-xphb.md), [staggering\
+      \ smite](3-Mechanics/CLI/spells/staggering-smite-xphb.md), [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md),\
+      \ [true seeing](3-Mechanics/CLI/spells/true-seeing-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "Mordakhesh can't be affected or detected by spells of 6th level or lower\
       \ unless he wishes to be. Mordakhesh has advantage on saving throws against\
@@ -92,7 +92,7 @@ Many of the horrors of the Last War were instigated—or at least encouraged—b
   \ turn, Mordakhesh can expend a use to take one of the following actions. Mordakhesh\
   \ regains all expended uses at the start of each of their turns."
 "legendary_actions":
-  - "desc": "Mordakhesh makes one weapon attack or casts [chromatic orb](3-Mechanics/CLI/spells/chromatic-orb.md)."
+  - "desc": "Mordakhesh makes one weapon attack or casts [chromatic orb](3-Mechanics/CLI/spells/chromatic-orb-xphb.md)."
     "name": "Attack"
   - "desc": "Modakhesh gains resistance to one damage type of his choice—acid, cold,\
       \ fire, lightning, poison, or thunder—until the start of his next turn."
@@ -103,6 +103,6 @@ Many of the horrors of the Last War were instigated—or at least encouraged—b
     "name": "Warlord's Command (Costs 2 Actions)"
 "source":
   - "ERLW"
-"image": "3-Mechanics/CLI/bestiary/npc/token/mordakhesh-erlw.webp"
+"image": "file://bestiary/tokens/ERLW/Mordakhesh.webp"
 ```
 ^statblock

@@ -12,6 +12,8 @@ aliases:
 
 **Red Dragon Art Objects**
 
+`dice: [](red-dragon-treasures-red-dragon-art-objects-ftd.md#^red-dragon-art-objects)`
+
 | dice: d12 | Object |
 |-----------|--------|
 | 1 | A hammered metal brazier elaborately etched and set with polished obsidian, which sits atop a stand holding rare incense blends |

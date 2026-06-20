@@ -12,6 +12,8 @@ aliases:
 
 **Villain You Know**
 
+`dice: [](the-villain-you-know-villain-you-know-erlw.md#^villain-you-know)`
+
 | dice: d6 | Villain |
 |----------|---------|
 | 1 | A con artist takes advantage of people who fall for their scams, but leaves behind no proof of any crime. |

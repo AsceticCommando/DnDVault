@@ -12,6 +12,8 @@ aliases:
 
 **Yuan-ti Snake Head Shape**
 
+`dice: [](physical-variations-yuan-ti-snake-head-shape-vgm.md#^yuan-ti-snake-head-shape)`
+
 | dice: d20 | Snake Head Shape |
 |-----------|------------------|
 | 1-5 | Broad and rounded |

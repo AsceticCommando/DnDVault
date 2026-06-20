@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Goose Mother"
 ---
-# [Goose Mother](3-Mechanics\CLI\bestiary\fey/goose-mother-mcv4ec.md)
+# [Goose Mother](3-Mechanics/CLI/bestiary/fey/goose-mother-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 Astonishingly aggressive geese populate the marshes of Eldraine. Legends tell that these geese descend from a monstrous many-headed bird that dwells deep within the wilds. Though the knights of Eldraine consider its existence a myth, the folk of the wilds know that the Goose Mother is real.
@@ -21,7 +21,7 @@ Centuries ago, an enterprising witch created a frothy stew composed of hydra's b
 
 The Goose Mother lays one golden egg every hour, precisely on the hour. Sometimes these eggs hatch into clutches of young geese that grow up to terrorize the marshes of Eldraine. Other times, the eggs contain trinkets or valuables. The fae folk of Eldraine's wilds have developed a symbiotic relationship with the Goose Mother, often bringing it fresh meat in exchange for the treasures inside its golden eggs.
 
-If you have "Bigby Presents: Glory of the Giants", you can use the Goose Egg Trinket table to determine the contents of one of the Goose Mother's eggs that isn't destined to hatch into a goose or a giant goose (also described in that book).
+If you have "Bigby Presents: Glory of the Giants", you can use the [Goose Egg Trinket](3-Mechanics/CLI/items/goose-egg-trinket-bgg.md) table to determine the contents of one of the Goose Mother's eggs that isn't destined to hatch into a goose or a giant goose (also described in that book).
 
 ```statblock
 "name": "Goose Mother (MCV4EC)"
@@ -95,6 +95,6 @@ If you have "Bigby Presents: Glory of the Giants", you can use the Goose Egg Tri
     "name": "Lullaby of Honks (Recharge 5-6)"
 "source":
   - "MCV4EC"
-"image": "3-Mechanics/CLI/bestiary/fey/token/goose-mother-mcv4ec.webp"
+"image": "file://bestiary/tokens/MCV4EC/Goose%20Mother.webp"
 ```
 ^statblock

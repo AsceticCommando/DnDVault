@@ -12,6 +12,8 @@ aliases:
 
 **Dwarf Adventurer Story Hooks**
 
+`dice: [](dwarves-in-the-world-dwarf-adventurer-story-hooks-mtf.md#^dwarf-adventurer-story-hooks)`
+
 | dice: d6 | Hook |
 |----------|------|
 | 1 | You were accused of stealing a fellow artisan's item and claiming it as your work. Innocent or guilty, you were made an outcast. |

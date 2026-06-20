@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Red Ruin"
 ---
-# [Red Ruin](3-Mechanics\CLI\bestiary\npc/red-ruin-dsotdq.md)
+# [Red Ruin](3-Mechanics/CLI/bestiary/npc/red-ruin-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 208*  
 
 Known for her incredible awareness and reflexes, the dragonnel-flying ace Red Ruin leads the Red Dragon Army's airborne forces. Her actual name is unknown, leading her allies to refer to her merely as "commander" or "Red Ruin"—a sobriquet earned after razing numerous targets from the air. She rarely removes her distinctive dragonnel-shaped helmet, leading to speculation about her actual identity. She also speaks little, relying on sharp hand gestures to direct dragonnel-riders in flight.
@@ -23,7 +23,7 @@ Known for her incredible awareness and reflexes, the dragonnel-flying ace Red Ru
 "type": "humanoid"
 "alignment": "Lawful Evil"
 "ac": !!int "20"
-"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "150"
 "hit_dice": "20d8 + 60"
 "modifier": !!int "1"
@@ -74,6 +74,6 @@ Known for her incredible awareness and reflexes, the dragonnel-flying ace Red Ru
     "name": "Explosive Hand Crossbow (Recharge 5-6)"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/npc/token/red-ruin-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Red%20Ruin.webp"
 ```
 ^statblock

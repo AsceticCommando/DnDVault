@@ -12,6 +12,8 @@ aliases:
 
 **Origin of Dragon Eggs**
 
+`dice: [](reproduction-origin-of-dragon-eggs-ftd.md#^origin-of-dragon-eggs)`
+
 | dice: d10 | Origin |
 |-----------|--------|
 | 1 | **Spontaneous Reincarnation**. When an adult or older dragon dies, one or more eggs form in the dragon's decomposing body. These eggs might grow like fungus as the body rots away, they could appear among the ashes after the body is consumed by fire, or they might need to be mined out from a corpse that has turned to solid stone or metal. |

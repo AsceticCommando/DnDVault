@@ -76,7 +76,7 @@ This weapon is decorated with dragon heads, claws, wings, scales, or Draconic le
 
 Whenever you roll a 20 on your attack roll with this weapon, each creature of your choice within 5 feet of the target takes 5 damage of the type dealt by the dragon's breath weapon.
 
-You gain a +1 bonus to attack and damage rolls made using the weapon. On a hit, the weapon deals an extra `1d6` damage of the type dealt by the dragon's breath weapon.
+You gain a +1 bonus to attack and damage rolls made using the weapon. On a hit, the weapon deals an extra `dice:1d6|noform|noparens|avg` (`1d6`) damage of the type dealt by the dragon's breath weapon.
 
 **Variants**:
 - [Stirring Dragon's Wrath Antimatter Rifle](#Stirring%20Dragon's%20Wrath%20Antimatter%20Rifle)

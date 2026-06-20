@@ -15,7 +15,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Nabassu"
 ---
-# [Nabassu](3-Mechanics\CLI\bestiary\fiend/nabassu-mpmm.md)
+# [Nabassu](3-Mechanics/CLI/bestiary/fiend/nabassu-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 188, Mordenkainen's Tome of Foes p. 135*  
 
 The insatiable nabassus prowl the multiverse in search of souls to devour. If they think they can kill a creature and consume its soul, they attack—even if that other creature is a demon, including another nabassu.
@@ -69,7 +69,7 @@ Whenever magic pulls demons from the Abyss to the Material Plane, nabassus try t
       \ by the numbers rolled. For every 4 Hit Dice the nabassu gains in this way,\
       \ its attacks deal an extra 3 (1d6) damage on a hit. The nabassu retains these\
       \ benefits for 6 days. A creature devoured by a nabassu can be restored to life\
-      \ only by a [wish](3-Mechanics/CLI/spells/wish.md) spell."
+      \ only by a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell."
     "name": "Devour Soul"
   - "desc": "The nabassu has advantage on saving throws against spells and other magical\
       \ effects."
@@ -91,12 +91,13 @@ Whenever magic pulls demons from the Abyss to the Material Plane, nabassus try t
       \ regains hit points equal to half that amount. This reduction lasts until the\
       \ target finishes a short or long rest. The target dies if its hit point maximum\
       \ is reduced to 0, and if the target is a Humanoid, it immediately rises as\
-      \ a [ghoul](3-Mechanics/CLI/bestiary/undead/ghoul.md) under the nabassu's control."
+      \ a [ghoul](3-Mechanics/CLI/bestiary/undead/ghoul-xmm.md) under the nabassu's\
+      \ control."
     "name": "Soul-Stealing Gaze"
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/nabassu-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Nabassu.webp"
 ```
 ^statblock
 

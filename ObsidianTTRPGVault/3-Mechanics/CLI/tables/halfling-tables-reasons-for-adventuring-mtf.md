@@ -12,6 +12,8 @@ aliases:
 
 **Reasons for Adventuring**
 
+`dice: [](halfling-tables-reasons-for-adventuring-mtf.md#^reasons-for-adventuring)`
+
 | dice: d6 | Reason |
 |----------|--------|
 | 1 | Peeling taters and herding goats all the time wasn't your cup of tea. |

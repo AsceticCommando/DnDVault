@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Clawfoot"
 ---
-# [Clawfoot](3-Mechanics\CLI\bestiary\beast/clawfoot-erlw.md)
+# [Clawfoot](3-Mechanics/CLI/bestiary/beast/clawfoot-erlw.md)
 *Source: Eberron: Rising from the Last War p. 289*  
 
 Clawfoot dinosaurs are two-legged saurians with sharp teeth and toe claws that resemble deadly sickles. They are imposing creatures, about the size of a tall human, and are fierce enough to take down even larger prey.
@@ -68,6 +68,6 @@ Dinosaurs are widespread on Eberron, particularly in Q'barra, the Talenta Plains
     "name": "Claws"
 "source":
   - "ERLW"
-"image": "3-Mechanics/CLI/bestiary/beast/token/clawfoot-erlw.webp"
+"image": "file://bestiary/tokens/ERLW/Clawfoot.webp"
 ```
 ^statblock

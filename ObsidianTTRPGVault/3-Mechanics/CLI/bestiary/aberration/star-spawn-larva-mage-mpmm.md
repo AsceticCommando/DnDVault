@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Star Spawn Larva Mage"
 ---
-# [Star Spawn Larva Mage](3-Mechanics\CLI\bestiary\aberration/star-spawn-larva-mage-mpmm.md)
+# [Star Spawn Larva Mage](3-Mechanics/CLI/bestiary/aberration/star-spawn-larva-mage-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 228, Mordenkainen's Tome of Foes p. 235*  
 
 A larva mage is a nightmarish combination of a mortal body and otherworldly substance. When a powerful cultist of a wormlike entity such as Kyuss or Kezef—usually a warlock or other spellcaster—contacts the comet-borne emissary of an Elder Evil, the emissary can merge with a mortal consciousness to create a larva mage. None of the original cultist's personality survives the transformation; what emerges is wholly alien.
@@ -78,8 +78,9 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 "cr": "16"
 "traits":
   - "desc": "When the mage is reduced to 0 hit points, it breaks apart into a [swarm\
-      \ of insects](3-Mechanics/CLI/bestiary/beast/swarm-of-insects.md) in the same\
-      \ space. Unless the swarm is destroyed, the mage reforms from it 24 hours later."
+      \ of insects](3-Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm.md) in the\
+      \ same space. Unless the swarm is destroyed, the mage reforms from it 24 hours\
+      \ later."
     "name": "Return to Worms"
 "actions":
   - "desc": "The mage makes three Slam or Eldritch Bolt attacks."
@@ -102,9 +103,9 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
     "name": "Plague of Worms (Recharge 6)"
   - "desc": "The mage casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 16):\n\n**At\
-      \ will:** [mage hand](3-Mechanics/CLI/spells/mage-hand.md), [message](3-Mechanics/CLI/spells/message.md),\
-      \ [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md)\n\n**1/day:** [dominate\
-      \ monster](3-Mechanics/CLI/spells/dominate-monster.md)"
+      \ will:** [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [message](3-Mechanics/CLI/spells/message-xphb.md),\
+      \ [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\n**1/day:**\
+      \ [dominate monster](3-Mechanics/CLI/spells/dominate-monster-xphb.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "When a creature within 20 feet of the mage fails a saving throw, the\
@@ -126,7 +127,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/star-spawn-larva-mage-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Star%20Spawn%20Larva%20Mage.webp"
 ```
 ^statblock
 

@@ -11,4 +11,4 @@ aliases:
 
 ## 4th Level
 
-- [Freedom of Movement](3-Mechanics/CLI/spells/freedom-of-movement.md "PHB")
+- [Freedom of Movement](3-Mechanics/CLI/spells/freedom-of-movement-xphb.md "XPHB")

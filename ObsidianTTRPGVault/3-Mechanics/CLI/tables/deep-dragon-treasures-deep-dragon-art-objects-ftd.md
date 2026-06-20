@@ -12,6 +12,8 @@ aliases:
 
 **Deep Dragon Art Objects**
 
+`dice: [](deep-dragon-treasures-deep-dragon-art-objects-ftd.md#^deep-dragon-art-objects)`
+
 | dice: d12 | Object |
 |-----------|--------|
 | 1 | A statue of an unknown winged antelope-like creature carved from a single massive opal |

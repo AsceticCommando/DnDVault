@@ -12,6 +12,8 @@ aliases:
 
 **Heads of State**
 
+`dice: [](other-heads-of-state-heads-of-state-erlw.md#^heads-of-state)`
+
 | dice: d20 | Patron and Missions |
 |-----------|---------------------|
 | 1 | As representatives of the Sibling Kings of Aerenal, secure trade pacts with the nations of Khorvaire. |

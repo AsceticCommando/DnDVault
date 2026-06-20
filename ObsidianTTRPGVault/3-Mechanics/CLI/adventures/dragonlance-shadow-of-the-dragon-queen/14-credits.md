@@ -40,11 +40,11 @@ aliases:
 - Special thanks to the original Dragonlance creative team and adventure designers, including Mike Breault, Michael Dobson, Larry Elmore, Anne Gray, Michael Gray, Jeff Grubb, Bruce Heard, Laura Hickman, Tracy Hickman, Harold Johnson, James Lowder, Roger Moore, Bruce Nesmith, Douglas Niles, Elizabeth Riedel, Lisa Smedman, Carl Smith, Garry Spiegle, Margaret Weis, Michael Williams, Janet Vialls, Peter Vialls, and many more!  
 - Additional thanks to the hundreds of playtesters whose efforts made this a better book!  
 
-![](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/credits.webp#center)
+![](file://adventure/DSotDQ/credits.webp#center)
 
 > [!gallery]
-> ![On the Cover: Dragons, dra...](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/credits2.webp#gallery "On the Cover: Dragons, draconians, and other servants of the Dragon Queen prepare for their invasion of Kalaman in this painting by Cynthia Sheppard.")
-> ![On the Cover: The grim vis...](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/credits3.webp#gallery "On the Cover: The grim visage of the death knight Lord Soth, Knight of the Black Rose, glares from of a tangle of charred thorns in this cover by Chase Stone.")
+> ![On the Cover: Dragons, draconians, and other servants of the Dragon Queen prepare for their invasion of Kalaman in this painting by Cynthia Sheppard.](file://adventure/DSotDQ/credits2.webp#gallery)
+> ![On the Cover: The grim visage of the death knight Lord Soth, Knight of the Black Rose, glares from of a tangle of charred thorns in this cover by Chase Stone.](file://adventure/DSotDQ/credits3.webp#gallery)
 
 > [!note]
 > Disclaimer: The Dragon Armies cannot ensure that owners of this book will not have their lives repurposed in the service of the Dragon Queen's glorious will. Promises to the contrary should be considered best-case scenarios, not statements of certainty. Thank you for supporting the Dragon Armies and a cataclysmically bright future for all of Krynn.

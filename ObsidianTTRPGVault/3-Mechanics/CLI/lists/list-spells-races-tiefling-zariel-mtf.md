@@ -11,12 +11,12 @@ aliases:
 
 ## Cantrip
 
-- [Thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy.md "PHB") at class level 5
+- [Thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md "XPHB") as cantrip
 
 ## 1st Level
 
-- [Searing Smite](3-Mechanics/CLI/spells/searing-smite.md "PHB") at class level 5
+- [Searing Smite](3-Mechanics/CLI/spells/searing-smite-xphb.md "XPHB") as 2nd-level, at class level 3
 
 ## 2nd Level
 
-- [Branding Smite](3-Mechanics/CLI/spells/branding-smite.md "PHB") at class level 5
+- [Shining Smite](3-Mechanics/CLI/spells/shining-smite-xphb.md "XPHB") at class level 5

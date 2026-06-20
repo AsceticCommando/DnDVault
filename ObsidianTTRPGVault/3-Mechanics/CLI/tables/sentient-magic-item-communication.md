@@ -12,6 +12,8 @@ aliases:
 
 **Sentient Magic Item Communication**
 
+`dice: [](sentient-magic-item-communication.md#^sentient-magic-item-communication)`
+
 | dice: d100 | Communication |
 |------------|---------------|
 | 01-60 | The item communicates by transmitting emotion to the creature carrying or wielding it. |

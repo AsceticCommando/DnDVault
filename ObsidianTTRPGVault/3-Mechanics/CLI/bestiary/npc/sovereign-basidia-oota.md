@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Sovereign Basidia"
 ---
-# [Sovereign Basidia](3-Mechanics\CLI\bestiary\npc/sovereign-basidia-oota.md)
+# [Sovereign Basidia](3-Mechanics/CLI/bestiary/npc/sovereign-basidia-oota.md)
 *Source: Out of the Abyss p. 88*  
 
 ```statblock
@@ -77,6 +77,6 @@ aliases:
     "name": "Rapport Spores"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/sovereign-basidia-oota.webp"
+"image": "file://bestiary/tokens/OotA/Sovereign%20Basidia.webp"
 ```
 ^statblock

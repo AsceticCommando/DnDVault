@@ -11,5 +11,5 @@ aliases:
 
 ## 1st Level
 
-- [Detect Magic](3-Mechanics/CLI/spells/detect-magic.md "PHB") 
-- [Disguise Self](3-Mechanics/CLI/spells/disguise-self.md "PHB")
+- [Detect Magic](3-Mechanics/CLI/spells/detect-magic-xphb.md "XPHB")
+- [Disguise Self](3-Mechanics/CLI/spells/disguise-self-xphb.md "XPHB")

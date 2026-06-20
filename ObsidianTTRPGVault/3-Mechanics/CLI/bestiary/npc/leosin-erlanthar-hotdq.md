@@ -6,20 +6,20 @@ tags:
 - ttrpg-cli/compendium/src/5e/hotdq
 - ttrpg-cli/monster/cr/3
 - ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/any-race
+- ttrpg-cli/monster/type/humanoid/half-elf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
 - "Leosin Erlanthar"
 ---
-# [Leosin Erlanthar](3-Mechanics\CLI\bestiary\npc/leosin-erlanthar-hotdq.md)
+# [Leosin Erlanthar](3-Mechanics/CLI/bestiary/npc/leosin-erlanthar-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 87, Tyranny of Dragons p. 34*  
 
 ```statblock
 "name": "Leosin Erlanthar (HotDQ)"
 "size": "Medium"
 "type": "humanoid"
-"subtype": "any race"
+"subtype": "half-elf"
 "alignment": "Any alignment"
 "ac": !!int "16"
 "hp": !!int "60"
@@ -41,9 +41,9 @@ aliases:
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
 "gear":
-  - "[dart](3-Mechanics/CLI/items/dart.md)"
+  - "[dart](3-Mechanics/CLI/items/dart-xphb.md)"
 "senses": "passive Perception 13"
-"languages": "any one language (usually Common)"
+"languages": "Common"
 "cr": "3"
 "traits":
   - "desc": "Leosin Erlanthar is presented in Hoard of the Dragon Queen as a half-elf\
@@ -78,6 +78,6 @@ aliases:
 "source":
   - "HotDQ"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/npc/token/leosin-erlanthar-hotdq.webp"
+"image": "file://bestiary/tokens/HotDQ/Leosin%20Erlanthar.webp"
 ```
 ^statblock

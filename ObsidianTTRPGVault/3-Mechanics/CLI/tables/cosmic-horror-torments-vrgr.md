@@ -12,6 +12,8 @@ aliases:
 
 **Cosmic Horror Torments**
 
+`dice: [](cosmic-horror-torments-vrgr.md#^cosmic-horror-torments)`
+
 | dice: d8 | Torment |
 |----------|---------|
 | 1 | The Darklord is obsessed with music, their body warping to embody whatever song they hear. |

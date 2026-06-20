@@ -12,6 +12,8 @@ aliases:
 
 **Giant Bonds**
 
+`dice: [](roleplaying-a-giant-giant-bonds-vgm.md#^giant-bonds)`
+
 | dice: d6 | Bond |
 |----------|------|
 | 1 | My clan is the most important influence on my life, our collective place in the ordning depends on our devotion to one another. |

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Amarith Coppervein"
 ---
-# [Amarith Coppervein](3-Mechanics\CLI\bestiary\npc/amarith-coppervein-oota.md)
+# [Amarith Coppervein](3-Mechanics/CLI/bestiary/npc/amarith-coppervein-oota.md)
 *Source: Out of the Abyss p. 142*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Neutral Good"
 "ac": !!int "17"
-"ac_class": "[splint armor](3-Mechanics/CLI/items/splint-armor.md)"
+"ac_class": "[splint armor](3-Mechanics/CLI/items/splint-armor-xphb.md)"
 "hp": !!int "58"
 "hit_dice": "9d8 + 18"
 "modifier": !!int "1"
@@ -41,9 +41,9 @@ aliases:
     "desc": "+2"
 "damage_resistances": "poison"
 "gear":
-  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow.md)"
-  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow-xphb.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 12"
 "languages": "any one language (usually Common), Dwarvish"
@@ -67,6 +67,6 @@ aliases:
     "name": "Heavy Crossbow"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/amarith-coppervein-oota.webp"
+"image": "file://bestiary/tokens/OotA/Amarith%20Coppervein.webp"
 ```
 ^statblock

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Shalvus Martholio"
 ---
-# [Shalvus Martholio](3-Mechanics\CLI\bestiary\npc/shalvus-martholio-skt.md)
+# [Shalvus Martholio](3-Mechanics/CLI/bestiary/npc/shalvus-martholio-skt.md)
 *Source: Storm King's Thunder p. 250*  
 
 Nalaskur Thaelond of Bargewright Inn has entrusted the shepherd Shalvus with an important assignment: to figure out the best way by which Goldenfields can be brought under the Black Network's control. Shalvus believes that success will ensure his swift rise through the Zhentarim ranks.
@@ -30,7 +30,7 @@ Flaw:"I can't resist taking risks to feed my ambitions."
 "subtype": "Turami human"
 "alignment": "Neutral"
 "ac": !!int "13"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "27"
 "hit_dice": "6d8"
 "modifier": !!int "2"
@@ -56,8 +56,8 @@ Flaw:"I can't resist taking risks to feed my ambitions."
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "gear":
-  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow.md)"
-  - "[quarterstaff](3-Mechanics/CLI/items/quarterstaff.md)"
+  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow-xphb.md)"
+  - "[quarterstaff](3-Mechanics/CLI/items/quarterstaff-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Common, Elvish"
 "traits":
@@ -83,6 +83,6 @@ Flaw:"I can't resist taking risks to feed my ambitions."
     "name": "Hand Crossbow"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/shalvus-martholio-skt.webp"
+"image": "file://bestiary/tokens/SKT/Shalvus%20Martholio.webp"
 ```
 ^statblock

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Anvilwrought Raptor"
 ---
-# [Anvilwrought Raptor](3-Mechanics\CLI\bestiary\construct/anvilwrought-raptor-mot.md)
+# [Anvilwrought Raptor](3-Mechanics/CLI/bestiary/construct/anvilwrought-raptor-mot.md)
 *Source: Mythic Odysseys of Theros p. 209*  
 
 Prized among Meletis's thaumaturges, anvilwrought raptors are often crafted in the form of a hawk or an owl. Most serve as messengers and spies, flying over the busy streets or high over the land while carrying or seeking vital information for their masters.
@@ -69,6 +69,6 @@ A few extremely rare and valuable anvilwroughts were crafted by the hand of Purp
     "name": "Beak"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/construct/token/anvilwrought-raptor-mot.webp"
+"image": "file://bestiary/tokens/MOT/Anvilwrought%20Raptor.webp"
 ```
 ^statblock

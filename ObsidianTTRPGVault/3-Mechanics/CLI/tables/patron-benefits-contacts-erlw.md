@@ -12,6 +12,8 @@ aliases:
 
 **Contacts**
 
+`dice: [](patron-benefits-contacts-erlw.md#^contacts)`
+
 | dice: d12 | Contact |
 |-----------|---------|
 | 1 | A friendly law-enforcement officer sends clients your way and gives you inside information about the workings of the watch. |

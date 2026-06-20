@@ -12,7 +12,7 @@ aliases:
 
 Thither is a sprawling fey woodland with a decaying core. With each passing day, Granny Nightshade's presence eats away at the forest's trees and taints its denizens. The rot worsens the closer one gets to Loomlurch, Granny Nightshade's lair.
 
-![The Getaway Gang's forest ...](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/053-03-001-chapter-splash.webp#center "The Getaway Gang's forest stronghold is a treehouse nestled in the boughs of a treant named Little Oak")
+![The Getaway Gang's forest stronghold is a treehouse nestled in the boughs of a treant named Little Oak](file://adventure/WBtW/053-03-001.chapter-splash.webp#center)
 
 ## Running This Chapter
 
@@ -47,24 +47,24 @@ Squirt, an animated oilcan, can guide characters from Thither to Yon and back to
 The following physical features can be found across the realm of Thither.
 
 > [!gallery]
-> ![Thither](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/054-map-3-1-thither.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/055-map-3-1-thither-player.webp#gallery)
+> ![Thither](file://adventure/WBtW/054-map-3.1-thither.webp#gallery)
+> ![Player Version](file://adventure/WBtW/055-map-3.1-thither-player.webp#gallery)
 
 ### Fairy Rings
 
 When Zybilna ruled Prismeer, the forests of Thither were home to a host of fairy rings that functioned as fey crossings to different worlds in the Material Plane. Granny Nightshade has corrupted as many of the rings as she could find, making them dangerous to visitors.
 
-Fairy rings are depicted on the map of Thither. Each ring is a 20-foot-diameter circle of colorful, 6-inch-tall toadstools located in a small clearing protected by the thick forest canopy. It radiates an aura of conjuration magic when scrutinized with a [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell.
+Fairy rings are depicted on the map of Thither. Each ring is a 20-foot-diameter circle of colorful, 6-inch-tall toadstools located in a small clearing protected by the thick forest canopy. It radiates an aura of conjuration magic when scrutinized with a [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell.
 
-To determine whether a fairy ring is uncorrupted or corrupted, roll a `d8`. On a roll of 3 or higher, the fairy ring is uncorrupted; otherwise, it is corrupted.
+To determine whether a fairy ring is uncorrupted or corrupted, roll a `dice:d8|noform|noparens|avg` (`d8`). On a roll of 3 or higher, the fairy ring is uncorrupted; otherwise, it is corrupted.
 
-![](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/056-03-002.webp#center)
+![](file://adventure/WBtW/056-03-002.webp#center)
 
 #### Uncorrupted Fairy Rings
 
-Roll a `d8` when the characters come across an uncorrupted fairy ring. On a roll of 1 or 2, there are no creatures in the ring's vicinity. On a roll of 3 or higher, the ring has a [swarm of campestris](3-Mechanics/CLI/bestiary/plant/swarm-of-campestris-wbtw.md) (see appendix C) singing and dancing inside it. Using body language, these cute, mushroom-like creatures urge the characters to join in their reverie. Any character who does so can make a DC 12 Charisma ([Performance](3-Mechanics/CLI/rules/skills.md#Performance)) check, gaining the benefit of a [true seeing](3-Mechanics/CLI/spells/true-seeing.md) spell that lasts for 24 hours on a successful check (no effect on a failure). The campestris aren't clever enough to answer complex questions about Thither or offer reliable directions, and they speak by mimicking words they can hear.
+Roll a `dice:d8|noform|noparens|avg` (`d8`) when the characters come across an uncorrupted fairy ring. On a roll of 1 or 2, there are no creatures in the ring's vicinity. On a roll of 3 or higher, the ring has a [swarm of campestris](3-Mechanics/CLI/bestiary/plant/swarm-of-campestris-wbtw.md) (see appendix C) singing and dancing inside it. Using body language, these cute, mushroom-like creatures urge the characters to join in their reverie. Any character who does so can make a DC 12 Charisma ([Performance](3-Mechanics/CLI/rules/skills.md#Performance)) check, gaining the benefit of a [true seeing](3-Mechanics/CLI/spells/true-seeing-xphb.md) spell that lasts for 24 hours on a successful check (no effect on a failure). The campestris aren't clever enough to answer complex questions about Thither or offer reliable directions, and they speak by mimicking words they can hear.
 
-The campestris' love for singing is obvious. Any character who tries to teach them a new song can make a DC 13 Charisma ([Performance](3-Mechanics/CLI/rules/skills.md#Performance)) check. On a successful check, the campestris adopt the song into their routine and bestow a [charm of heroism](3-Mechanics/CLI/rewards/charm-of-heroism.md) (see ""Supernatural Gifts"" in the "Dungeon Master's Guide") on the character responsible. The campestris in any given fairy ring can bestow this charm once only. Check the Story Tracker: any character who received singing lessons from Palasha the mermaid in chapter 1 has advantage on this check.
+The campestris' love for singing is obvious. Any character who tries to teach them a new song can make a DC 13 Charisma ([Performance](3-Mechanics/CLI/rules/skills.md#Performance)) check. On a successful check, the campestris adopt the song into their routine and bestow a [charm of heroism](3-Mechanics/CLI/rewards/charm-of-heroism-xdmg.md) (see ""Supernatural Gifts"" in the "Dungeon Master's Guide") on the character responsible. The campestris in any given fairy ring can bestow this charm once only. Check the Story Tracker: any character who received singing lessons from Palasha the mermaid in chapter 1 has advantage on this check.
 
 ##### Activating the Fey Crossing
 
@@ -76,7 +76,7 @@ Characters can plumb the depths of their memories and, with a successful DC 20 I
 
 #### Corrupted Fairy Rings
 
-A corrupted fairy ring has no campestris singing and dancing inside it. Instead, Granny Nightshade has cast [awaken](3-Mechanics/CLI/spells/awaken.md) spells on the `3d8 + 60` toadstools that form the ring, giving each of them the ability to speak Common. These awakened toadstools are mocking and rude toward visitors not accompanied by Granny Nightshade, and they move away from one another, breaking the ring, whenever someone other than the hag tries to use it as a fey crossing, rendering it unusable. Each awakened toadstool has AC 7, 1 hit point, no effective attacks, an Intelligence score of 10, and other ability scores of 1. Killing more than half of a ring's toadstools renders the ring unusable.
+A corrupted fairy ring has no campestris singing and dancing inside it. Instead, Granny Nightshade has cast [awaken](3-Mechanics/CLI/spells/awaken-xphb.md) spells on the `dice:3d8+60|noform|noparens|avg` (`3d8 + 60`) toadstools that form the ring, giving each of them the ability to speak Common. These awakened toadstools are mocking and rude toward visitors not accompanied by Granny Nightshade, and they move away from one another, breaking the ring, whenever someone other than the hag tries to use it as a fey crossing, rendering it unusable. Each awakened toadstool has AC 7, 1 hit point, no effective attacks, an Intelligence score of 10, and other ability scores of 1. Killing more than half of a ring's toadstools renders the ring unusable.
 
 ### Wanted Posters
 
@@ -91,15 +91,17 @@ Each poster promises a different reward for Will's capture. Whenever you want th
 
 **Wanted Posters**
 
+`dice: [](04-thither.md#^wanted-posters)`
+
 | dice: d8 | Offer | Reward |
 |----------|-------|--------|
 | 1 | "This sorry wretch has stolen from me! Deliver him to me alive and unharmed, and I'll give you back ten years of your youth." | Granny Nightshade gives the character a yellow rose. As long as this rose remains unwilted and in the character's possession, the character relives the first ten years of their life as a vivid dream whenever they finish a long rest. After 8 days, the rose wilts and loses this magical property. |
 | 2 | "This little troublemaker belongs to me. Bring him home alive and unharmed, and you'll win the heart of one you love." | Granny Nightshade gives the character a box containing the eviscerated heart of someone they love. This special someone can't be another party member, but it could be a family member or an old flame. The identity of this individual is known to Granny Nightshade, but she prefers not to divulge it. |
-| 3 | "Bring me this imp alive and unharmed, and I'll bury you up to your neck in silver." | Granny Nightshade gives the character a silver ring, which disappears when the character touches it. The instant the ring disappears, the character becomes encased in a silver ingot (no saving throw allowed), with only the character's head visible. The character is unable to move from the neck down while encased in the ingot. With 12 hours of work, a creature using mason's tools can free the character from the ingot. The character can also use a [misty step](3-Mechanics/CLI/spells/misty-step.md) spell (or some other magic that doesn't require material or somatic components) to teleport out of the ingot. The silver disappears when the character is no longer trapped in it. |
+| 3 | "Bring me this imp alive and unharmed, and I'll bury you up to your neck in silver." | Granny Nightshade gives the character a silver ring, which disappears when the character touches it. The instant the ring disappears, the character becomes encased in a silver ingot (no saving throw allowed), with only the character's head visible. The character is unable to move from the neck down while encased in the ingot. With 12 hours of work, a creature using mason's tools can free the character from the ingot. The character can also use a [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md) spell (or some other magic that doesn't require material or somatic components) to teleport out of the ingot. The silver disappears when the character is no longer trapped in it. |
 | 4 | "Bring this wisp of a thief to me alive and unharmed, and I'll ensure that no sword can ever break your skin." | Granny Nightshade gives the character a stone ring, which disappears when the character touches it. The instant the ring disappears, the character is [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified) (no saving throw allowed). |
-| 5 | "Deliver this rascal alive and unharmed. As payment, I offer you the power to bring the dead back to life." | Granny Nightshade gives the character an 11-inch-long bone wand. When the character touches the wand to the corpse of a dead Humanoid, the wand turns to dust as the corpse transforms into a [zombie](3-Mechanics/CLI/bestiary/undead/zombie.md) with vague recollections of its past life. |
-| 6 | "This rapscallion vexes me. Deliver him to me alive and unharmed, and I'll curse one creature whom you name." | The instant the character identifies the target of the curse, a [bestow curse](3-Mechanics/CLI/spells/bestow-curse.md) spell affects that creature (no saving throw allowed). Granny Nightshade does not have to see or touch the target for the spell to take effect, and the target can be any creature, including Granny Nightshade herself. |
-| 7 | "How dare this ragamuffin defy me? Bring him to me alive and unharmed, and I'll grant you a loyal servant." | Granny Nightshade gives the character a friendly [frog](3-Mechanics/CLI/bestiary/beast/frog.md) companion that has an Intelligence of 10 and the ability to speak and understand Common. |
+| 5 | "Deliver this rascal alive and unharmed. As payment, I offer you the power to bring the dead back to life." | Granny Nightshade gives the character an 11-inch-long bone wand. When the character touches the wand to the corpse of a dead Humanoid, the wand turns to dust as the corpse transforms into a [zombie](3-Mechanics/CLI/bestiary/undead/zombie-xmm.md) with vague recollections of its past life. |
+| 6 | "This rapscallion vexes me. Deliver him to me alive and unharmed, and I'll curse one creature whom you name." | The instant the character identifies the target of the curse, a [bestow curse](3-Mechanics/CLI/spells/bestow-curse-xphb.md) spell affects that creature (no saving throw allowed). Granny Nightshade does not have to see or touch the target for the spell to take effect, and the target can be any creature, including Granny Nightshade herself. |
+| 7 | "How dare this ragamuffin defy me? Bring him to me alive and unharmed, and I'll grant you a loyal servant." | Granny Nightshade gives the character a friendly [frog](3-Mechanics/CLI/bestiary/beast/frog-xmm.md) companion that has an Intelligence of 10 and the ability to speak and understand Common. |
 | 8 | "Special offer! Bring this impetuous brat to me, and you can claim one item of your choice from my workshop." | Granny Nightshade is true to her word: the character can claim any one object from her workshop they can see or identify by name. The hag either fetches the item herself or commands a servant to do so. |
 ^wanted-posters
 
@@ -122,9 +124,11 @@ Their guide leads the characters to Nib's Cave, the location of which is shown o
 
 Roll for a random encounter whenever you feel it is appropriate; for example, you might decide to stage a random encounter while the characters are traveling toward a location marked on the map of Thither or when they first arrive at a particular landmark.
 
-To determine what the characters encounter, roll a `d8` and consult the Random Encounters in Thither table. Several of the random encounters described below are with specific named creatures and therefore aren't likely to happen more than once unless the characters revisit familiar ground. If you roll on the table, get the same result as on a previous roll, and don't like the repetition, choose a different encounter that you think would be fun.
+To determine what the characters encounter, roll a `dice:d8|noform|noparens|avg` (`d8`) and consult the Random Encounters in Thither table. Several of the random encounters described below are with specific named creatures and therefore aren't likely to happen more than once unless the characters revisit familiar ground. If you roll on the table, get the same result as on a previous roll, and don't like the repetition, choose a different encounter that you think would be fun.
 
 **Random Encounters in Thither**
+
+`dice: [](04-thither.md#^random-encounters-in-thither)`
 
 | dice: d8 | Encounter |
 |----------|-----------|
@@ -140,7 +144,7 @@ To determine what the characters encounter, roll a `d8` and consult the Random E
 
 #### Blink Dogs
 
-The characters spot `1d6 + 2` [blink dogs](3-Mechanics/CLI/bestiary/fey/blink-dog.md) 60 feet ahead of them. Characters who have a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 13 or higher can see that the dogs are surrounding a crudely dug hole in the ground. The characters must get within 5 feet of the hole to see that it's a shallow grave containing the body of a dead blink dog laid out on a reed litter. The dogs howl sadly while solemnly placing gifts for their deceased companion to enjoy in its afterlife. If the ceremony is not disturbed, the howling and gift-giving ends 1 minute later, after which the blink dogs fill in the hole with loose dirt, burying the dead dog. The mournful dogs then lope away.
+The characters spot `dice:1d6+2|noform|noparens|avg` (`1d6 + 2`) [blink dogs](3-Mechanics/CLI/bestiary/fey/blink-dog-xmm.md) 60 feet ahead of them. Characters who have a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 13 or higher can see that the dogs are surrounding a crudely dug hole in the ground. The characters must get within 5 feet of the hole to see that it's a shallow grave containing the body of a dead blink dog laid out on a reed litter. The dogs howl sadly while solemnly placing gifts for their deceased companion to enjoy in its afterlife. If the ceremony is not disturbed, the howling and gift-giving ends 1 minute later, after which the blink dogs fill in the hole with loose dirt, burying the dead dog. The mournful dogs then lope away.
 
 The blink dogs don't take kindly to interruptions, but characters who approach respectfully can talk to them after the ceremony, assuming they are able to speak the dogs' language. The blink dogs reveal that their companion was slain while scouting out Loomlurch and the surrounding area. They urge any characters heading for the hag's lair to be cautious. The blink dogs can reveal the following information about the hag and her lair:
 
@@ -150,7 +154,7 @@ The blink dogs don't take kindly to interruptions, but characters who approach r
 
 #### Buttered Campestri
 
-The characters come across a campfire in the forest. A cauldron of water bubbles over the flames, and a frying pan that holds melted butter rests on a nearby rock. A lone [campestri](3-Mechanics/CLI/bestiary/plant/campestri-wbtw.md) (see appendix C) sings merrily as it dips its cap into the butter. If questioned, the campestri says its friend, Kro'ah, asked it to rub melted butter into its flesh and has promised it a hot bath before dinner. Kro'ah is gathering firewood but should be back soon! Persuading the campestri to leave the campsite requires a successful DC 15 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check. After `1d4 + 2` minutes, Kro'ah the [goblin](3-Mechanics/CLI/bestiary/humanoid/goblin.md) (chaotic neutral) returns for his dinner. In addition to an armful of firewood, the goblin has an explorer's pack.
+The characters come across a campfire in the forest. A cauldron of water bubbles over the flames, and a frying pan that holds melted butter rests on a nearby rock. A lone [campestri](3-Mechanics/CLI/bestiary/plant/campestri-wbtw.md) (see appendix C) sings merrily as it dips its cap into the butter. If questioned, the campestri says its friend, Kro'ah, asked it to rub melted butter into its flesh and has promised it a hot bath before dinner. Kro'ah is gathering firewood but should be back soon! Persuading the campestri to leave the campsite requires a successful DC 15 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check. After `dice:1d4+2|noform|noparens|avg` (`1d4 + 2`) minutes, Kro'ah the [goblin](3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) (chaotic neutral) returns for his dinner. In addition to an armful of firewood, the goblin has an explorer's pack.
 
 Although Kro'ah has no regard for the life of campestris and finds them quite delicious, he won't pick a fight with a group of well-armed adventurers. If the characters leave him alone, he gives them some useful information:
 
@@ -159,13 +163,13 @@ Although Kro'ah has no regard for the life of campestris and finds them quite de
 
 #### Centaur
 
-An aged [centaur](3-Mechanics/CLI/bestiary/monstrosity/centaur.md) named Winterbow approaches the characters and warns them that this realm is fading; they should return to their own world before Prismeer disappears entirely. Winterbow reveals that the other members of his clan galloped away to safety before the mists enveloped Prismeer, but he was too old to keep up with them. The centaur doesn't know the cause of the realm's impending destruction. If the characters seem kind, he tells them to seek out the unicorn at Wayward Pool for answers.
+An aged [centaur](3-Mechanics/CLI/bestiary/fey/centaur-trooper-xmm.md) named Winterbow approaches the characters and warns them that this realm is fading; they should return to their own world before Prismeer disappears entirely. Winterbow reveals that the other members of his clan galloped away to safety before the mists enveloped Prismeer, but he was too old to keep up with them. The centaur doesn't know the cause of the realm's impending destruction. If the characters seem kind, he tells them to seek out the unicorn at Wayward Pool for answers.
 
 Winterbow's walking speed is 25 feet, and his vision is limited to a range of 60 feet. He knows the woods of Thither well enough to point characters in the direction of Loomlurch if that's where they aim to go.
 
 #### Doomed Dryad
 
-A hostile [dryad](3-Mechanics/CLI/bestiary/fey/dryad.md) and seven [awakened shrubs](3-Mechanics/CLI/bestiary/plant/awakened-shrub.md) emerge from the undergrowth and surround the characters. Any character who has a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 13 or higher spots the dryad and the shrubs before they arrive, and all other characters are [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised).
+A hostile [dryad](3-Mechanics/CLI/bestiary/fey/dryad-xmm.md) and seven [awakened shrubs](3-Mechanics/CLI/bestiary/plant/awakened-shrub-xmm.md) emerge from the undergrowth and surround the characters. Any character who has a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 13 or higher spots the dryad and the shrubs before they arrive, and all other characters are [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised).
 
 The dryad, Meadowleaf, was bound to an enchanted tree that Granny Nightshade felled and used to make wooden toys. Believing the characters to be mercenaries hired by Granny Nightshade to capture Will of the Feywild and the Getaway Gang, the dryad points an accusing finger toward them and orders the awakened shrubs, "Show these villains the true meaning of revenge!"
 
@@ -173,7 +177,7 @@ A character can use an action to make a DC 13 Charisma ([Persuasion](3-Mechanics
 
 The dryad is too bitter and angry to apologize for any errors in judgment on her part. Reminding her of the rule of hospitality (see "Rules of Conduct" in chapter 2) is enough to convince her that she should be nicer to travelers passing through the forest, which is the closest thing she has to a home now that her beloved tree is gone.
 
-Deprived of her tree, Meadowleaf is doomed to sink ever deeper into despair. If her encounter with the characters ends peacefully, she urges them to restore Zybilna to power so that other dryads won't suffer a similar fate. She also gives the characters three sycamore seeds. A creature that eats one of these seeds gains the benefit of a [pass without trace](3-Mechanics/CLI/spells/pass-without-trace.md) spell, which lasts for 1 hour.
+Deprived of her tree, Meadowleaf is doomed to sink ever deeper into despair. If her encounter with the characters ends peacefully, she urges them to restore Zybilna to power so that other dryads won't suffer a similar fate. She also gives the characters three sycamore seeds. A creature that eats one of these seeds gains the benefit of a [pass without trace](3-Mechanics/CLI/spells/pass-without-trace-xphb.md) spell, which lasts for 1 hour.
 
 #### Grandfather Tree
 
@@ -186,7 +190,7 @@ The characters happen upon the following scene:
 > Eight tiny houses made of woven twigs are nestled among the boughs of the tree. Squirrels dart nervously around these wee domiciles.
 ^1fb
 
-The tree is dying due to the presence of the evil hag: it has simply given up the will to live. The tree is home to twenty-four [pixies](3-Mechanics/CLI/bestiary/fey/pixie.md), all of which are [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) when the characters first arrive. The pixies share their twig houses with three families of squirrels. Less than an hour ago, three [redcaps](3-Mechanics/CLI/bestiary/fey/redcap-mpmm.md) emerged from the woods and started throwing rocks at the pixie houses, trying to destroy them out of spite. The pixies retaliated by polymorphing the redcaps into [goats](3-Mechanics/CLI/bestiary/beast/goat.md). When the [polymorph](3-Mechanics/CLI/spells/polymorph.md) spells wear off in about 10 minutes, the pixies plan to polymorph the redcaps again unless they leave immediately. The pixies are unaccustomed to dealing with redcaps and don't know what else to do.
+The tree is dying due to the presence of the evil hag: it has simply given up the will to live. The tree is home to twenty-four [pixies](3-Mechanics/CLI/bestiary/fey/pixie-xmm.md), all of which are [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) when the characters first arrive. The pixies share their twig houses with three families of squirrels. Less than an hour ago, three [redcaps](3-Mechanics/CLI/bestiary/fey/redcap-mpmm.md) emerged from the woods and started throwing rocks at the pixie houses, trying to destroy them out of spite. The pixies retaliated by polymorphing the redcaps into [goats](3-Mechanics/CLI/bestiary/beast/goat-xmm.md). When the [polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md) spells wear off in about 10 minutes, the pixies plan to polymorph the redcaps again unless they leave immediately. The pixies are unaccustomed to dealing with redcaps and don't know what else to do.
 
 If the characters approach the tree and do not appear threatening, three pixies named Amaryllis, Calluna, and Zinnia become visible and warn the characters not to slay the goats, lest they transform back into redcaps. The pixies are nonviolent and would appreciate the characters' help. One thing the characters can do is gather up the redcaps' sickles (which they dropped when they started throwing rocks at the tree). The seizure of these weapons causes the goats to attack.
 
@@ -208,17 +212,17 @@ The characters come across a trail of monstrous claw prints on the forest floor.
 
 #### Owlbear and Chariot
 
-The characters encounter a domesticated [owlbear](3-Mechanics/CLI/bestiary/monstrosity/owlbear.md) yoked to a dilapidated elven chariot. It ran off into the woods after its rider, an elf, was snatched from the chariot by the jabberwock that frequents Zybilna's palace (see chapter 5). The owlbear's harness boss is engraved with a branch of the tree for which she is named: Juniper. The chariot is big enough to hold two Medium characters and their gear.
+The characters encounter a domesticated [owlbear](3-Mechanics/CLI/bestiary/monstrosity/owlbear-xmm.md) yoked to a dilapidated elven chariot. It ran off into the woods after its rider, an elf, was snatched from the chariot by the jabberwock that frequents Zybilna's palace (see chapter 5). The owlbear's harness boss is engraved with a branch of the tree for which she is named: Juniper. The chariot is big enough to hold two Medium characters and their gear.
 
 Any character who succeeds on a DC 15 Wisdom ([Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling)) check can calm Juniper and use her as a steed. The owlbear must be fed at least 8 pounds of meat every day to keep her docile. If she goes just one day without a proper meal, Juniper turns on her new owners and tries to eat them.
 
-![Someone forgot where they ...](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/057-03-003-owlbear.webp#center "Someone forgot where they parked their owlbear and chariot")
+![Someone forgot where they parked their owlbear and chariot](file://adventure/WBtW/057-03-003.owlbear.webp#center)
 
 #### Pixies
 
-Three [pixies](3-Mechanics/CLI/bestiary/fey/pixie.md) sit around a tiny table, sipping tea and nibbling cakes. A 6-inch-long wedge made of wood lies on the ground nearby. The pixies found this piece of wood (a doorstop) on one of their recent forays into the Material Plane and are arguing about what it could be. Spiderlily thinks it's a slice of cake made for a treant, Cowslip thinks it's an exercise bench for mice, and Maypole is convinced it's a troll's toothpick.
+Three [pixies](3-Mechanics/CLI/bestiary/fey/pixie-xmm.md) sit around a tiny table, sipping tea and nibbling cakes. A 6-inch-long wedge made of wood lies on the ground nearby. The pixies found this piece of wood (a doorstop) on one of their recent forays into the Material Plane and are arguing about what it could be. Spiderlily thinks it's a slice of cake made for a treant, Cowslip thinks it's an exercise bench for mice, and Maypole is convinced it's a troll's toothpick.
 
-The pixies entreat the characters to settle their dispute. They are profoundly disappointed to learn of the doorstop's mundane purpose and giggle with delight if they are treated to a convincing lie. Either way, they give a reed whistle to the character who impressed them the most. Once before the end of this adventure, that character can blow the whistle to summon the three pixies. This effect functions as a [conjure woodland beings](3-Mechanics/CLI/spells/conjure-woodland-beings.md) spell that summons only the three pixies and doesn't require concentration. The pixies fly away when the spell ends after 1 hour.
+The pixies entreat the characters to settle their dispute. They are profoundly disappointed to learn of the doorstop's mundane purpose and giggle with delight if they are treated to a convincing lie. Either way, they give a reed whistle to the character who impressed them the most. Once before the end of this adventure, that character can blow the whistle to summon the three pixies. This effect functions as a [conjure woodland beings](3-Mechanics/CLI/spells/conjure-woodland-beings-xphb.md) spell that summons only the three pixies and doesn't require concentration. The pixies fly away when the spell ends after 1 hour.
 
 ## Locations in Thither
 
@@ -254,7 +258,7 @@ Characters who announce their arrival hear an old man invite them inside the cav
 > Inside the cave, a wizened old man wearing a blindfold sits at a spinning wheel, surrounded by piles of gold. As he spins, he reaches down and grasps handfuls of coins, which transform at his touch into gleaming gold fibers.
 ^208
 
-Nib is an unarmed human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md) (neutral) from a city called Waterdeep on a world called Toril. He is [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), but only while wearing his blindfold. His cave contains a total of 27,213 gp, heaped in piles on the floor—what's left of Nib's acquired wealth. The gold radiates an aura of conjuration magic if inspected with a [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell. Appendix D has additional roleplaying notes for Nib.
+Nib is an unarmed human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) (neutral) from a city called Waterdeep on a world called Toril. He is [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), but only while wearing his blindfold. His cave contains a total of 27,213 gp, heaped in piles on the floor—what's left of Nib's acquired wealth. The gold radiates an aura of conjuration magic if inspected with a [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell. Appendix D has additional roleplaying notes for Nib.
 
 If the characters inquire about Nib's predicament, he recounts his sorry tale:
 
@@ -263,22 +267,24 @@ If the characters inquire about Nib's predicament, he recounts his sorry tale:
 > "I've led a cruel and heartless existence. I earned these riches by exploiting my tenants' misery, buying up condemned property and renting it out for an exorbitant fee. Granny Nightshade is helping me to make amends. I told her I wanted to put my bad deeds behind me and my ill-gotten gains to good use. She cursed me to dwell forever in this cave, spinning my gold into useful items for anyone who comes my way."
 ^209
 
-In accordance with the rule of hospitality (see "Rules of Conduct" in chapter 2), Nib offers to craft a gift for each character. Taking up a pair of knitting needles, he swiftly knits his gold yarn into an object that retains a golden luster or some amount of golden color in its design. Roll a `d8` and refer to the Gold-spun Gifts table to determine each item. (All the items listed in the table are uncommon magic items.) If a character asks Nib to make something specific, Nib honors that request, provided the desired item is a nonmagical item worth no more than 1,000 gp, or a magic item of common or uncommon rarity. Nib can make only one gift for each character, and his spinning wheel can't work its magic under any other hand. Nib's supply of gold coins decreases by an amount equal to the value of the item he creates (minimum 1 gp). A common magic item reduces his supply by 100 gp, while an uncommon magic item reduces it by 500 gp.
+In accordance with the rule of hospitality (see "Rules of Conduct" in chapter 2), Nib offers to craft a gift for each character. Taking up a pair of knitting needles, he swiftly knits his gold yarn into an object that retains a golden luster or some amount of golden color in its design. Roll a `dice:d8|noform|noparens|avg` (`d8`) and refer to the Gold-spun Gifts table to determine each item. (All the items listed in the table are uncommon magic items.) If a character asks Nib to make something specific, Nib honors that request, provided the desired item is a nonmagical item worth no more than 1,000 gp, or a magic item of common or uncommon rarity. Nib can make only one gift for each character, and his spinning wheel can't work its magic under any other hand. Nib's supply of gold coins decreases by an amount equal to the value of the item he creates (minimum 1 gp). A common magic item reduces his supply by 100 gp, while an uncommon magic item reduces it by 500 gp.
 
 A character might feel obliged to honor the rule of reciprocity (see "Rules of Conduct" in chapter 2) and offer Nib something in return for his gifts. Nib kindly accepts whatever the character offers but isn't looking for help to end his curse, because as long as Granny Nightshade remains in control of Thither, he sees no hope of escape.
 
 **Gold-spun Gifts**
 
+`dice: [](04-thither.md#^gold-spun-gifts)`
+
 | dice: d8 | Gift |
 |----------|------|
-| 1 | [Amulet of proof against detection and location](3-Mechanics/CLI/items/amulet-of-proof-against-detection-and-location.md) |
-| 2 | [Bag of holding](3-Mechanics/CLI/items/bag-of-holding.md) |
-| 3 | [Boots of elvenkind](3-Mechanics/CLI/items/boots-of-elvenkind.md) |
-| 4 | [Bracers of archery](3-Mechanics/CLI/items/bracers-of-archery.md) |
-| 5 | [Cloak of protection](3-Mechanics/CLI/items/cloak-of-protection.md) |
-| 6 | [Gloves of thievery](3-Mechanics/CLI/items/gloves-of-thievery.md) |
-| 7 | [Wand of secrets](3-Mechanics/CLI/items/wand-of-secrets.md) |
-| 8 | Tiny hourglass that functions like an [elemental gem](3-Mechanics/CLI/items/elemental-gem-blue-sapphire.md) of the blue sapphire (air elemental) variety |
+| 1 | [Amulet of proof against detection and location](3-Mechanics/CLI/items/amulet-of-proof-against-detection-and-location-xdmg.md) |
+| 2 | [Bag of holding](3-Mechanics/CLI/items/bag-of-holding-xdmg.md) |
+| 3 | [Boots of elvenkind](3-Mechanics/CLI/items/boots-of-elvenkind-xdmg.md) |
+| 4 | [Bracers of archery](3-Mechanics/CLI/items/bracers-of-archery-xdmg.md) |
+| 5 | [Cloak of protection](3-Mechanics/CLI/items/cloak-of-protection-xdmg.md) |
+| 6 | [Gloves of thievery](3-Mechanics/CLI/items/gloves-of-thievery-xdmg.md) |
+| 7 | [Wand of secrets](3-Mechanics/CLI/items/wand-of-secrets-xdmg.md) |
+| 8 | Tiny hourglass that functions like an [elemental gem](3-Mechanics/CLI/items/elemental-gem-blue-sapphire-xdmg.md) of the blue sapphire (air elemental) variety |
 ^gold-spun-gifts
 
 #### Nib's Haunts
@@ -292,7 +298,7 @@ As Nib works, characters who have a passive Wisdom ([Perception](3-Mechanics/CLI
 
 Nib wears his blindfold to avoid inadvertently glancing over his shoulder or catching glimpses of the apparitions reflected in his piles of gold.
 
-Nib warns the characters not to take any of his gold, lest they be cursed like him. Any character who steals gold from Nib's cave is haunted by `1d4` apparitions similar to those that haunt Nib. As a consequence of these hauntings, the character gains 1 level of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) after finishing a long rest. Levels of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) gained from this effect cannot be removed until the character ends the haunting by returning the gold. A [wish](3-Mechanics/CLI/spells/wish.md) spell ends the hauntings and automatically returns the stolen gold to the cave. A [remove curse](3-Mechanics/CLI/spells/remove-curse.md) or [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md) spell cast on the culprit suppresses the effect for 24 hours.
+Nib warns the characters not to take any of his gold, lest they be cursed like him. Any character who steals gold from Nib's cave is haunted by `dice:1d4|noform|noparens|avg` (`1d4`) apparitions similar to those that haunt Nib. As a consequence of these hauntings, the character gains 1 level of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) after finishing a long rest. Levels of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) gained from this effect cannot be removed until the character ends the haunting by returning the gold. A [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell ends the hauntings and automatically returns the stolen gold to the cave. A [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md) or [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md) spell cast on the culprit suppresses the effect for 24 hours.
 
 Nib has been to Loomlurch, and has visited the goblin candy market (area L2), Granny Nightshade's parlor (area L3), and the workshop (area L4). If the characters ask Nib for more information about Granny Nightshade and Loomlurch, he imparts the following details:
 
@@ -309,21 +315,21 @@ This encounter features a raggedy group of children called the Getaway Gang. Nib
 > Up ahead, a small group of children frolics around a leafy oak tree, their gleeful yelps carrying through the forest. Painted swings dangle from the tree's branches. Nestled in its crown is a ramshackle treehouse.
 ^20d
 
-The tree is a [treant](3-Mechanics/CLI/bestiary/plant/treant.md) named Little Oak. If they see strangers, the children scamper up ladders and take cover in their treehouse. Their leader, Will of the Feywild, barks at the adventurers, "Stand down or face merry hell!" Little Oak provides a home for this gang of rascals, all of whom escaped captivity in Loomlurch with Will's help.
+The tree is a [treant](3-Mechanics/CLI/bestiary/plant/treant-xmm.md) named Little Oak. If they see strangers, the children scamper up ladders and take cover in their treehouse. Their leader, Will of the Feywild, barks at the adventurers, "Stand down or face merry hell!" Little Oak provides a home for this gang of rascals, all of whom escaped captivity in Loomlurch with Will's help.
 
 Adventurers who threaten the children incur the wrath of Little Oak, which uproots itself and thunders to their defense. If the treant or one of its animated trees reduces a character to 0 hit points with a melee attack, it knocks the character [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) instead of dealing a mortal wound. [Unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) characters are either tied up and questioned by Will or dragged to another part of the forest away from Little Oak.
 
-If Little Oak is reduced to 0 hit points, the treant topples, destroying the Getaway Gang's treehouse and dealing 10 (`3d6`) bludgeoning damage to each creature inside it.
+If Little Oak is reduced to 0 hit points, the treant topples, destroying the Getaway Gang's treehouse and dealing `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) bludgeoning damage to each creature inside it.
 
 #### Will of the Feywild
 
-Will of the Feywild is not the spindly, 11-year-old boy he appears to be. He's an [oni](3-Mechanics/CLI/bestiary/giant/oni.md) that has taken human form. His true name is Mugan, and he used to work for [Skabatha Nightshade](3-Mechanics/CLI/bestiary/npc/skabatha-nightshade-wbtw.md) as a kidnapper of children until the hag's sisters placed a curse on him that warmed his heart, changing his alignment from lawful evil to chaotic good. He now strives to help children escape from Skabatha's clutches. Skabatha assumes that Mugan simply left her employment; she is unaware of the curse her sisters placed on the oni and doesn't know that Will of the Feywild is not a human boy. Appendix D has additional roleplaying notes for Will of the Feywild.
+Will of the Feywild is not the spindly, 11-year-old boy he appears to be. He's an [oni](3-Mechanics/CLI/bestiary/fiend/oni-xmm.md) that has taken human form. His true name is Mugan, and he used to work for [Skabatha Nightshade](3-Mechanics/CLI/bestiary/npc/skabatha-nightshade-wbtw.md) as a kidnapper of children until the hag's sisters placed a curse on him that warmed his heart, changing his alignment from lawful evil to chaotic good. He now strives to help children escape from Skabatha's clutches. Skabatha assumes that Mugan simply left her employment; she is unaware of the curse her sisters placed on the oni and doesn't know that Will of the Feywild is not a human boy. Appendix D has additional roleplaying notes for Will of the Feywild.
 
 If the oni is affected by a spell that ends a curse, it regains its evil alignment and attacks whoever is responsible for lifting the curse, shouting, "How could you?" as it fights to the death.
 
 The oni has a pet [displacer beast kitten](3-Mechanics/CLI/bestiary/monstrosity/displacer-beast-kitten-wbtw.md) (see the accompanying stat block) named Star, which it abandons if its curse is ended. Characters who aided Dirlagraun in the Witchlight Carnival (see chapter 1) might guess that Star is the older displacer beast's offspring. If they show Star the mirrored ball, it leaps about excitedly. If he is told about Dirlagraun, Will of the Feywild reluctantly agrees to return Star to his parent, but only if the characters help him free the remaining children that are trapped in Loomlurch.
 
-![Displacer Beast Kitten](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/058-637677438126059474.webp#center)
+![Displacer Beast Kitten](file://adventure/WBtW/058-637677438126059474.webp#center)
 
 #### The Getaway Gang
 
@@ -334,7 +340,7 @@ The Getaway Gang has four members:
 - Sloane, a sarcastic, ginger-haired female wood elf  
 - Zennor, a tenacious female orc  
 
-Bobi, Sloane, and Zennor are noncombatants (treat them as unarmed, chaotic good [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner.md)) who appear to be eight years old, but they are several years older and wiser than they look. The magic of the Feywild has kept them young.
+Bobi, Sloane, and Zennor are noncombatants (treat them as unarmed, chaotic good [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) who appear to be eight years old, but they are several years older and wiser than they look. The magic of the Feywild has kept them young.
 
 Speaking to the Getaway Gang about Loomlurch yields the following information:
 
@@ -379,7 +385,7 @@ The Getaway Gang fashioned the unicorn costume so that they could reach the wate
 
 If the Story Tracker indicates that the unicorn horn is here, it replaces the wooden horn on the kids' unicorn costume. The children don't know that the horn is from a real unicorn.
 
-![Squirt the Oilcan](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/059-637677445481636392.webp#center)
+![Squirt the Oilcan](file://adventure/WBtW/059-637677445481636392.webp#center)
 
 #### Development
 
@@ -400,9 +406,9 @@ Characters on their way to Loomlurch or Little Oak are likely to pass by Wayward
 > Mist drifts over the surface of a small lake. Forested crags line the shore on one side of the lake, and mossy rocks protrude from the shallows. Near the center of the lake is a rocky islet.
 ^219
 
-Those who try to come within 1,000 feet of the pool's shoreline find that any path they take through the forest leads them back to where they started, and flying creatures find themselves unintentionally veering off course. This glamor is the work of a unicorn named Lamorna, who has claimed Wayward Pool as her domain. To reach the shore, one must be a unicorn or adopt the guise of one. The Getaway Gang has a unicorn costume that can accommodate two characters; other characters can satisfy the pool's protective ward by attaching fake unicorn horns to their heads. False horns can easily be hewn from wood or created using a [silent image](3-Mechanics/CLI/spells/silent-image.md) spell or similar magic.
+Those who try to come within 1,000 feet of the pool's shoreline find that any path they take through the forest leads them back to where they started, and flying creatures find themselves unintentionally veering off course. This glamor is the work of a unicorn named Lamorna, who has claimed Wayward Pool as her domain. To reach the shore, one must be a unicorn or adopt the guise of one. The Getaway Gang has a unicorn costume that can accommodate two characters; other characters can satisfy the pool's protective ward by attaching fake unicorn horns to their heads. False horns can easily be hewn from wood or created using a [silent image](3-Mechanics/CLI/spells/silent-image-xphb.md) spell or similar magic.
 
-![Lamorna the unicorn conjur...](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/060-03-004-lamorna.webp#center "Lamorna the unicorn conjures a watery effigy of her lost mate, Elidon")
+![Lamorna the unicorn conjures a watery effigy of her lost mate, Elidon](file://adventure/WBtW/060-03-004.lamorna.webp#center)
 
 The wizard [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md), founder of the League of Malevolence (see appendix B), has ordered the assassin [Zarak](3-Mechanics/CLI/bestiary/npc/zarak-wbtw.md) to hunt down Lamorna and chop off her horn. [Zarak](3-Mechanics/CLI/bestiary/npc/zarak-wbtw.md) lurks in the forested outskirts of the pool, trying to find a way to the shore. (He doesn't know about the "look like a unicorn" requirement.) Characters who have a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 15 higher get the feeling they are being watched. See "Zarak Attacks!" below for more information.
 
@@ -418,7 +424,7 @@ As long as Lamorna is alive, the following regional effects apply within 1,000 f
 
 Getting to the islet in the middle of the lake requires crossing 250 feet of fresh, still water. The lake is 30 feet deep, and the islet is 30 feet wide and 40 feet long.
 
-Perched atop the islet's highest point, 30 feet above the surface of the water, is an iron bowl filled with coals. If a creature lights a fire in the bowl using the coals, Lamorna the [unicorn](3-Mechanics/CLI/bestiary/celestial/unicorn.md) appears on the lakeshore 1 minute later and waits for the characters there; otherwise, she remains hidden.
+Perched atop the islet's highest point, 30 feet above the surface of the water, is an iron bowl filled with coals. If a creature lights a fire in the bowl using the coals, Lamorna the [unicorn](3-Mechanics/CLI/bestiary/celestial/unicorn-xmm.md) appears on the lakeshore 1 minute later and waits for the characters there; otherwise, she remains hidden.
 
 If Lamorna appears, read:
 
@@ -458,16 +464,16 @@ On Lamorna's first turn after the surprise round, she teleports away, denying [Z
 
 [Zarak](3-Mechanics/CLI/bestiary/npc/zarak-wbtw.md) is willing to give up his hunt in exchange for gold or if the characters seem likely to kill him. Characters who tell [Zarak](3-Mechanics/CLI/bestiary/npc/zarak-wbtw.md) about the riches in Nib's cave (see "Nib's Cave" earlier in the chapter) pique his greed; if he is led there, he takes all the gold he can carry and falls prey to Nib's curse.
 
-The characters can try to capture [Zarak](3-Mechanics/CLI/bestiary/npc/zarak-wbtw.md), but he'd rather die than surrender his weapons and his freedom. He's not much use as a hostage, since no other member of the League of Malevolence cares what happens to him, and he refuses to divulge the secret ways to and from the Palace of Heart's Desire. But if a [charm person](3-Mechanics/CLI/spells/charm-person.md) spell or similar magic is used to make him friendly toward one or more of the characters, he can be coaxed into sharing the following information with them:
+The characters can try to capture [Zarak](3-Mechanics/CLI/bestiary/npc/zarak-wbtw.md), but he'd rather die than surrender his weapons and his freedom. He's not much use as a hostage, since no other member of the League of Malevolence cares what happens to him, and he refuses to divulge the secret ways to and from the Palace of Heart's Desire. But if a [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md) spell or similar magic is used to make him friendly toward one or more of the characters, he can be coaxed into sharing the following information with them:
 
 - Most of the creatures in Zybilna's palace, including Zybilna, are frozen in time. The hags of the Hourglass Coven used an artifact called [Iggwilv's Cauldron](3-Mechanics/CLI/items/iggwilvs-cauldron-wbtw.md) to accomplish this effect. [Zarak](3-Mechanics/CLI/bestiary/npc/zarak-wbtw.md) doesn't know exactly how the cauldron or its magic works.  
 - The self-proclaimed leader of the League of Malevolence is a human sorcerer named [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md). He wants to take custody of a magic staff belonging to his hated rival, the wizard [Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md), who is among those frozen in Zybilna's palace. Apparently, a unicorn's horn is needed to free [Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md) from temporal stasis, which would then enable [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) to seize [Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md)'s staff.  
-- [Zargash](3-Mechanics/CLI/bestiary/npc/zargash-wbtw.md), a human priest of Orcus, is another member of the League of Malevolence. Although he hopes to challenge [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md)'s leadership one day, [Zargash](3-Mechanics/CLI/bestiary/npc/zargash-wbtw.md) won't do anything about it as long as [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) is protected by [Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md), a mercenary who has a [flame tongue longsword](3-Mechanics/CLI/items/flame-tongue.md).  
+- [Zargash](3-Mechanics/CLI/bestiary/npc/zargash-wbtw.md), a human priest of Orcus, is another member of the League of Malevolence. Although he hopes to challenge [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md)'s leadership one day, [Zargash](3-Mechanics/CLI/bestiary/npc/zargash-wbtw.md) won't do anything about it as long as [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) is protected by [Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md), a mercenary who has a [flame tongue longsword](3-Mechanics/CLI/items/flame-tongue-xdmg.md).  
 - A fifth member of the League of Malevolence, a human warlock named [Skylla](3-Mechanics/CLI/bestiary/npc/skylla-wbtw.md), gets her magic from an archfey named Baba Yaga. [Skylla](3-Mechanics/CLI/bestiary/npc/skylla-wbtw.md) knows more about [Iggwilv's Cauldron](3-Mechanics/CLI/items/iggwilvs-cauldron-wbtw.md) and the hags of the Hourglass Coven than anyone else (as far as [Zarak](3-Mechanics/CLI/bestiary/npc/zarak-wbtw.md) knows). But she has gone missing, and none of the other members of the league know where to find her.  
 
 #### Development
 
-Lamorna's mate, Elidon, has been transformed into a flying rocking horse that Granny Nightshade rides as a mount. If the spell on Elidon is broken and he is reunited with Lamorna, she rewards each character with a [charm of heroism](3-Mechanics/CLI/rewards/charm-of-heroism.md) (see ""Supernatural Gifts"" in the "Dungeon Master's Guide").
+Lamorna's mate, Elidon, has been transformed into a flying rocking horse that Granny Nightshade rides as a mount. If the spell on Elidon is broken and he is reunited with Lamorna, she rewards each character with a [charm of heroism](3-Mechanics/CLI/rewards/charm-of-heroism-xdmg.md) (see ""Supernatural Gifts"" in the "Dungeon Master's Guide").
 
 ## Loomlurch
 
@@ -504,7 +510,7 @@ Before the party enters Loomlurch, Will of the Feywild—if he is present—outl
 
 All of Loomlurch's denizens are aware of Granny Nightshade's daily routine, which is as follows:
 
-- After waking from a long rest, she putters about in her garden (area L5) for `1d3` hours.  
+- After waking from a long rest, she putters about in her garden (area L5) for `dice:1d3|noform|noparens|avg` (`1d3`) hours.  
 - Most of her day is spent in the kitchen (area L13), with occasional visits to the study (area L14).  
 - Before going to bed, the hag spends 1 hour conducting an inspection of the sewing room (area L9), the textile mill (area L12), and the workshop (area L4). After the inspection, Granny Nightshade moves to her bedroom (area L16), miniaturizes herself, and takes a long rest inside the dollhouse there.  
 
@@ -526,7 +532,7 @@ Skabatha is true to her word, returning one lost thing for each task completed w
 
 #### Skabatha's Clockwork Key
 
-The clockwork key embedded in Skabatha's back rotates quickly when she's in a good mood and slows down as her mood sours. When she is furious, the key comes to a dead stop. When the key stops turning, Skabatha attacks objects or creatures indiscriminately until something lifts her spirits and quells her rage, such as the defeat of an enemy or some other triumph, whereupon her key starts turning again. Whenever Skabatha loses her temper and turns violent, `1d3` redcaps sprout in her garden (see area L15 and "Skabatha's Minions" below).
+The clockwork key embedded in Skabatha's back rotates quickly when she's in a good mood and slows down as her mood sours. When she is furious, the key comes to a dead stop. When the key stops turning, Skabatha attacks objects or creatures indiscriminately until something lifts her spirits and quells her rage, such as the defeat of an enemy or some other triumph, whereupon her key starts turning again. Whenever Skabatha loses her temper and turns violent, `dice:1d3|noform|noparens|avg` (`1d3`) redcaps sprout in her garden (see area L15 and "Skabatha's Minions" below).
 
 The key can't be removed from Skabatha's back while she lives, and it serves no function in the adventure other than to reflect her current mood.
 
@@ -554,19 +560,19 @@ The despair of Loomlurch's children has given rise to six [boggles](3-Mechanics/
 
 #### Cradlefall
 
-![](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/061-03-005-cradlefalls-dragon-in-the-box.webp#center)
+![](file://adventure/WBtW/061-03-005.cradlefalls-dragon-in-the-box.webp#center)
 
-This [green dragon wyrmling](3-Mechanics/CLI/bestiary/dragon/green-dragon-wyrmling.md) likes to hide in painted wooden boxes, of which there are three: one each in areas L3, L6, and L7. Each box is 3 feet on a side and has a hinged lid. A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals an aura of conjuration magic around a box. A crank protruding from one side of the box attaches to a tiny metal music box mounted to the wooden box's inside wall. Winding the crank causes the music box to play a 10-second tune reminiscent of a child's lullaby. As the final note sounds, roll a `d8`. If the roll is 3 or lower and Cradlefall has not yet been defeated, the wyrmling bursts out like a jack-in-the-box, attacking creatures he considers his enemies. If the wyrmling has been dealt with, the lid springs open, but the box is empty.
+This [green dragon wyrmling](3-Mechanics/CLI/bestiary/dragon/green-dragon-wyrmling-xmm.md) likes to hide in painted wooden boxes, of which there are three: one each in areas L3, L6, and L7. Each box is 3 feet on a side and has a hinged lid. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of conjuration magic around a box. A crank protruding from one side of the box attaches to a tiny metal music box mounted to the wooden box's inside wall. Winding the crank causes the music box to play a 10-second tune reminiscent of a child's lullaby. As the final note sounds, roll a `dice:d8|noform|noparens|avg` (`d8`). If the roll is 3 or lower and Cradlefall has not yet been defeated, the wyrmling bursts out like a jack-in-the-box, attacking creatures he considers his enemies. If the wyrmling has been dealt with, the lid springs open, but the box is empty.
 
 While curled up in a box with the lid closed, Cradlefall can use an action to teleport himself and anything he is holding to another closed box in Loomlurch. When he is not hiding in a box, Cradlefall curls up in front of the oven in Granny Nightshade's kitchen (area L13). Appendix D has additional roleplaying notes for Cradlefall.
 
 #### Redcaps
 
-Whenever Skabatha's windup key runs down, her anger boils over, causing `1d3` murderous [redcaps](3-Mechanics/CLI/bestiary/fey/redcap-mpmm.md) (see appendix C) to sprout in area L15. These redcaps are too hateful to serve as guards, so Skabatha sends them scuttling off into Thither to wreak havoc. Until she does so, the redcaps remain in area L15 and attack other creatures on sight.
+Whenever Skabatha's windup key runs down, her anger boils over, causing `dice:1d3|noform|noparens|avg` (`1d3`) murderous [redcaps](3-Mechanics/CLI/bestiary/fey/redcap-mpmm.md) (see appendix C) to sprout in area L15. These redcaps are too hateful to serve as guards, so Skabatha sends them scuttling off into Thither to wreak havoc. Until she does so, the redcaps remain in area L15 and attack other creatures on sight.
 
 #### Tin Soldiers
 
-These [ten automatons](3-Mechanics/CLI/bestiary/construct/tin-soldier-wbtw.md) are fashioned to look like stout infantry soldiers, and they obey Skabatha without question. Six of them remain in the barracks (area L7), and the remaining four patrol the balconies outside areas L8 and L12. They charge forth to investigate any suspicious activity they see or hear, meaning that they are easily distracted. Each one is a Small (3-foot-tall) suit of [animated armor](3-Mechanics/CLI/bestiary/construct/animated-armor.md) with 27 (`6d6 + 6`) hit points.
+These [ten automatons](3-Mechanics/CLI/bestiary/construct/tin-soldier-wbtw.md) are fashioned to look like stout infantry soldiers, and they obey Skabatha without question. Six of them remain in the barracks (area L7), and the remaining four patrol the balconies outside areas L8 and L12. They charge forth to investigate any suspicious activity they see or hear, meaning that they are easily distracted. Each one is a Small (3-foot-tall) suit of [animated armor](3-Mechanics/CLI/bestiary/construct/animated-armor-xmm.md) with `dice:6d6+6|noform|noparens|avg|text(27)` (`6d6 + 6`) hit points.
 
 ### Lost Children
 
@@ -598,8 +604,8 @@ Children free of Granny Nightshade's tyranny have no easy way to return home, bu
 The following descriptions are keyed to the map of Loomlurch.
 
 > [!gallery]
-> ![Loomlurch](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/062-map-3-2-loomlurch.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/063-map-3-2-loomlurch-player.webp#gallery)
+> ![Loomlurch](file://adventure/WBtW/062-map-3.2-loomlurch.webp#gallery)
+> ![Player Version](file://adventure/WBtW/063-map-3.2-loomlurch-player.webp#gallery)
 
 #### L1. Root Bridges
 
@@ -621,9 +627,9 @@ The characters can enter this area from the eastern root bridge or by traversing
 > Three stalls selling candy are situated in this clearing, lit by windows carved into the giant fallen tree to one side of it. Two goblins are working in each stall, and the whole enterprise is watched closely by a goblin with a toffee apple head who appears to be muttering quietly to himself.
 ^233
 
-![Chucklehead](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/064-03-006-chucklehead.webp#center)
+![Chucklehead](file://adventure/WBtW/064-03-006.chucklehead.webp#center)
 
-This market sells goblin-made candies of all sorts. Six [goblins](3-Mechanics/CLI/bestiary/humanoid/goblin.md) (lawful neutral) work here, two per stall, under the watchful gaze of their [goblin boss](3-Mechanics/CLI/bestiary/humanoid/goblin-boss.md), Chucklehead (neutral), whose head has been reshaped by fey magic to look like a toffee apple. The stallholders greet patrons warmly and invite them to sample and buy their delicious wares. Meanwhile, Chucklehead watches out for thieves.
+This market sells goblin-made candies of all sorts. Six [goblins](3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) (lawful neutral) work here, two per stall, under the watchful gaze of their [goblin boss](3-Mechanics/CLI/bestiary/fey/goblin-boss-xmm.md), Chucklehead (neutral), whose head has been reshaped by fey magic to look like a toffee apple. The stallholders greet patrons warmly and invite them to sample and buy their delicious wares. Meanwhile, Chucklehead watches out for thieves.
 
 ##### Chucklehead
 
@@ -633,11 +639,13 @@ Chucklehead is protective of Mishka (see area L13) and wants to help her get awa
 
 ##### Merchant Stalls
 
-The goods sold here are delicious but made with disgusting ingredients. Examples include beetles encased in hard candy, lollipops made from compacted ants, and jellied worms. The stallholders charge one trinket per treat. Roll a `d8` and consult the Candy Treats table to determine what magical effect befalls a creature that eats one of these treats. Each effect lasts for 1 hour.
+The goods sold here are delicious but made with disgusting ingredients. Examples include beetles encased in hard candy, lollipops made from compacted ants, and jellied worms. The stallholders charge one trinket per treat. Roll a `dice:d8|noform|noparens|avg` (`d8`) and consult the Candy Treats table to determine what magical effect befalls a creature that eats one of these treats. Each effect lasts for 1 hour.
 
 If a creature eats multiple treats and gets the same effect twice, extend the duration of the effect by 1 hour. A creature can have up to three different magical effects on it at any given time. If a creature eats a candy treat while it is already affected by three others, don't roll on the table. Instead, the creature must make a DC 11 Constitution saving throw; on a failed save, the creature is [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) for 8 hours.
 
 **Candy Treats**
+
+`dice: [](04-thither.md#^candy-treats)`
 
 | dice: d8 | Effect |
 |----------|--------|
@@ -645,10 +653,10 @@ If a creature eats multiple treats and gets the same effect twice, extend the du
 | 2 | Eating the candy causes you to foam at the mouth, making it difficult (but not impossible) for you to speak. |
 | 3 | Your fingers leave indelible stains on anything you touch. |
 | 4 | Your head swells to twice its normal size. |
-| 5 | You shrink, as though affected by the reduce effect of an [enlarge/reduce](3-Mechanics/CLI/spells/enlarge-reduce.md) spell. |
+| 5 | You shrink, as though affected by the reduce effect of an [enlarge/reduce](3-Mechanics/CLI/spells/enlarge-reduce-xphb.md) spell. |
 | 6 | Fireflies are drawn to you and form a persistent cloud around you, shedding bright light in a 5-foot radius and dim light for an additional 5 feet. |
-| 7 | You grow, as though affected by the enlarge effect of an [enlarge/reduce](3-Mechanics/CLI/spells/enlarge-reduce.md) spell. |
-| 8 | You are targeted by a [polymorph](3-Mechanics/CLI/spells/polymorph.md) spell and automatically fail the saving throw against it. The new form is a butterfly (use the [bat](3-Mechanics/CLI/bestiary/beast/bat.md) stat block, but omit its [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision), Echolocation trait, and Bite attack). |
+| 7 | You grow, as though affected by the enlarge effect of an [enlarge/reduce](3-Mechanics/CLI/spells/enlarge-reduce-xphb.md) spell. |
+| 8 | You are targeted by a [polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md) spell and automatically fail the saving throw against it. The new form is a butterfly (use the [bat](3-Mechanics/CLI/bestiary/beast/bat-xmm.md) stat block, but omit its [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision), Echolocation trait, and Bite attack). |
 ^candy-treats
 
 #### L3. Parlor
@@ -662,11 +670,11 @@ The door to area L4 is closed but not locked.
 
 If [Bavlorna Blightstraw](3-Mechanics/CLI/bestiary/npc/bavlorna-blightstraw-wbtw.md) retreated to Loomlurch after fleeing her home in chapter 2, her [bobbing lily pad](3-Mechanics/CLI/items/bobbing-lily-pad-wbtw.md) (see appendix A) lies on the floor next to the box, vaguely resembling a leaf-shaped carpet. Bavlorna herself can be found in area L14.
 
-Three of the armchairs are trained [mimics](3-Mechanics/CLI/bestiary/monstrosity/mimic.md) in disguise. They are magically compelled to remain in this room and adhere to creatures only when Granny Nightshade orders them to do so. The mimics are trained in nonlethal combat; characters reduced to 0 hit points by the mimics are stable rather than dying, giving the hag a chance to decide what to do with the [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) victims.
+Three of the armchairs are trained [mimics](3-Mechanics/CLI/bestiary/monstrosity/mimic-xmm.md) in disguise. They are magically compelled to remain in this room and adhere to creatures only when Granny Nightshade orders them to do so. The mimics are trained in nonlethal combat; characters reduced to 0 hit points by the mimics are stable rather than dying, giving the hag a chance to decide what to do with the [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) victims.
 
 ##### Dragon-in-the-Box
 
-The wooden box with the crank is one of the boxes where [Cradlefall](3-Mechanics/CLI/bestiary/dragon/green-dragon-wyrmling.md) might be found (see "Skabatha's Minions" earlier in the chapter).
+The wooden box with the crank is one of the boxes where [Cradlefall](3-Mechanics/CLI/bestiary/dragon/green-dragon-wyrmling-xmm.md) might be found (see "Skabatha's Minions" earlier in the chapter).
 
 ##### Tea with Granny Nightshade
 
@@ -685,7 +693,7 @@ Characters who arrange a meeting with Granny Nightshade through Chucklehead (are
 
 Characters who scour the parlor for treasure find the following items:
 
-- A [spell scroll](3-Mechanics/CLI/items/spell-scroll.md) of [speak with plants](3-Mechanics/CLI/spells/speak-with-plants.md) tucked in a side table drawer  
+- A [spell scroll](3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [speak with plants](3-Mechanics/CLI/spells/speak-with-plants-xphb.md) tucked in a side table drawer  
 - A set of four silver teaspoons engraved with pained facial expressions (5 gp per spoon)  
 - A bronze candlestick shaped like a bird's leg (10 gp)  
 
@@ -727,7 +735,7 @@ Characters who ransack the workshop uncover the following valuables:
 > 
 > A [boggle](3-Mechanics/CLI/bestiary/fey/boggle-mpmm.md) excretes oil from its pores and can make the oil slippery or sticky. [Squirt the oilcan](3-Mechanics/CLI/bestiary/npc/squirt-the-oilcan-wbtw.md) needs slippery boggle oil to use its Boggle Oil action, and it can hold up to three applications of the oil. Boggle oil normally evaporates after 1 hour, but the oil is preserved indefinitely inside Squirt.
 > 
-> When a boggle creates a puddle of slippery oil on the ground, a character can scoop up `1d3` applications of the oil from the puddle (a process that takes 1 minute) before the oil disappears.
+> When a boggle creates a puddle of slippery oil on the ground, a character can scoop up `dice:1d3|noform|noparens|avg` (`1d3`) applications of the oil from the puddle (a process that takes 1 minute) before the oil disappears.
 > 
 > A friendly boggle will create three applications of boggle oil in exchange for a gift of equal perceived value, such as a trinket. An indifferent boggle expects a better gift for the same amount of oil, such as a bag of candy, a gemstone, or a magnifying glass. An unfriendly or hostile boggle won't cooperate unless it is captured and forced to create oil to avoid punishment.
 ^boggle-oil
@@ -758,39 +766,39 @@ This outdoor garden extends almost the entire length of Loomlurch. The doors to 
 
 ##### Animal Pens
 
-The pens contain seven [goats](3-Mechanics/CLI/bestiary/beast/goat.md), five adult pigs (use the [boar](3-Mechanics/CLI/bestiary/beast/boar.md) stat block), and a Small piglet (noncombatant) named Oink, who is beloved by Philomena (see area L4).
+The pens contain seven [goats](3-Mechanics/CLI/bestiary/beast/goat-xmm.md), five adult pigs (use the [boar](3-Mechanics/CLI/bestiary/beast/boar-xmm.md) stat block), and a Small piglet (noncombatant) named Oink, who is beloved by Philomena (see area L4).
 
 ##### Compost Heap
 
-The compost heap is a [shambling mound](3-Mechanics/CLI/bestiary/plant/shambling-mound.md) that remains motionless until it is disturbed or until it rises to attack. If the mound is motionless at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn't observed the mound moving or acting, that creature must succeed on a DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check to discern that the mound is animate.
+The compost heap is a [shambling mound](3-Mechanics/CLI/bestiary/plant/shambling-mound-xmm.md) that remains motionless until it is disturbed or until it rises to attack. If the mound is motionless at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn't observed the mound moving or acting, that creature must succeed on a DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check to discern that the mound is animate.
 
-Granny Nightshade earlier took a cutting from the shambling mound's root stem, binding it to her service. If a character uses a [speak with plants](3-Mechanics/CLI/spells/speak-with-plants.md) spell to communicate with the shambling mound, it tells the character that the creature must obey the hag until its stolen root is returned to it. If a character promises to return the root to it, the shambling mound stops attacking and waits here for the characters to come back. If the root is brought back and given to it, the shambling mound goes on a rampage through the garden, destroying and devouring everything it can while leaving the characters and their allies unmolested, then shambles into the forest, never to return. The cutting can be found inside one of the cookbooks in area L13.
+Granny Nightshade earlier took a cutting from the shambling mound's root stem, binding it to her service. If a character uses a [speak with plants](3-Mechanics/CLI/spells/speak-with-plants-xphb.md) spell to communicate with the shambling mound, it tells the character that the creature must obey the hag until its stolen root is returned to it. If a character promises to return the root to it, the shambling mound stops attacking and waits here for the characters to come back. If the root is brought back and given to it, the shambling mound goes on a rampage through the garden, destroying and devouring everything it can while leaving the characters and their allies unmolested, then shambles into the forest, never to return. The cutting can be found inside one of the cookbooks in area L13.
 
 ##### Mushrooms and Toadstools
 
-Granny Nightshade grows many kinds of Feywild fungi, five of which have useful (and in some cases magical) properties. Roll `3d8` to determine how many of each mushroom can be harvested from this location. A character who examines a certain kind of mushroom can, with a successful DC 15 Intelligence ([Nature](3-Mechanics/CLI/rules/skills.md#Nature)) check, ascertain its properties:
+Granny Nightshade grows many kinds of Feywild fungi, five of which have useful (and in some cases magical) properties. Roll `dice:3d8|noform|noparens|avg` (`3d8`) to determine how many of each mushroom can be harvested from this location. A character who examines a certain kind of mushroom can, with a successful DC 15 Intelligence ([Nature](3-Mechanics/CLI/rules/skills.md#Nature)) check, ascertain its properties:
 
 - **Butterfly Saddle.** Each of these bright yellow toadstools has a ruffled, saddle-shaped cap properly sized for a pixie or sprite to sit on. They taste like butter and can be used as a substitute for that ingredient in recipes.  
-- **Eldercap.** Eating one of these white and gray mushrooms causes the eater to look much older for 1 hour. This magical effect is an illusion that can be ended with a [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md) spell.  
-- **Executioner's Hood.** Each of these mushrooms has a black, hood-shaped cap. Any creature that consumes an executioner's hood must succeed on a DC 12 Constitution saving throw or fall into a cataleptic state that is indistinguishable from death. This magical effect is identical to that of the [feign death](3-Mechanics/CLI/spells/feign-death.md) spell (including its duration).  
+- **Eldercap.** Eating one of these white and gray mushrooms causes the eater to look much older for 1 hour. This magical effect is an illusion that can be ended with a [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) spell.  
+- **Executioner's Hood.** Each of these mushrooms has a black, hood-shaped cap. Any creature that consumes an executioner's hood must succeed on a DC 12 Constitution saving throw or fall into a cataleptic state that is indistinguishable from death. This magical effect is identical to that of the [feign death](3-Mechanics/CLI/spells/feign-death-xphb.md) spell (including its duration).  
 - **Hummingbrella.** A hummingbrella is a colorful mushroom with a frilly, parasol-shaped cap that drips sweet nectar and attracts hummingbirds. Eating one has the same effect as drinking antitoxin.  
 - **Pricklenoggin.** Each of these mushrooms has short, prickly spines growing out of its red cap. Hats made from pricklenoggin caps are popular in the fey courts and considered very fashionable. Most tiny Fey would be grateful to receive one as a gift.  
 
-![Feywild mushrooms, from le...](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/065-03-007-fungus.webp#center "Feywild mushrooms, from left to right: butterfly saddle, eldercap, executioner's hood, hummingbrella, and pricklenoggin")
+![Feywild mushrooms, from left to right: butterfly saddle, eldercap, executioner's hood, hummingbrella, and pricklenoggin](file://adventure/WBtW/065-03-007.fungus.webp#center)
 
 ##### Plant Beds
 
-Many plants grow in Granny Nightshade's garden—licorice, sugarcane, marshmallow, and more. Characters who examine the plant beds discover a dark secret: each bed is nourished by the buried remains of a Humanoid. Mud-encrusted skulls protrude from the soil, with vegetation sprouting from their open jaws and eye sockets. As an action once per day, Granny Nightshade can raise eight [skeletons](3-Mechanics/CLI/bestiary/undead/skeleton.md) from the earth, but she must be within 30 feet of the plant beds to use this power.
+Many plants grow in Granny Nightshade's garden—licorice, sugarcane, marshmallow, and more. Characters who examine the plant beds discover a dark secret: each bed is nourished by the buried remains of a Humanoid. Mud-encrusted skulls protrude from the soil, with vegetation sprouting from their open jaws and eye sockets. As an action once per day, Granny Nightshade can raise eight [skeletons](3-Mechanics/CLI/bestiary/undead/skeleton-xmm.md) from the earth, but she must be within 30 feet of the plant beds to use this power.
 
 ##### Pumpkin Patch and Staircase
 
 Several large pumpkins grow in one spot amid thick, leafy vines. A wooden staircase on the edge of the pumpkin patch ascends to a 20-foot-high wooden balcony outside area L8.
 
-If a creature other than Granny Nightshade or a Small Humanoid (such as a human child or a halfling) enters the pumpkin patch, three fat pumpkins burst open, and a [giant poisonous snake](3-Mechanics/CLI/bestiary/beast/giant-poisonous-snake.md) slithers out of each of them. Granny Nightshade has cast an [awaken](3-Mechanics/CLI/spells/awaken.md) spell on each of these snakes, giving it an Intelligence score of 10 and the ability to speak Common. Their names are Essaveth, Jahassi, and Sinius. They act as watchdogs, but they won't climb stairs. If one of these snakes is wounded, it slithers into the pumpkin patch on its next turn, gaining total cover. On subsequent turns, it tries to hide and has advantage on Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) checks as long as the pumpkin patch provides cover.
+If a creature other than Granny Nightshade or a Small Humanoid (such as a human child or a halfling) enters the pumpkin patch, three fat pumpkins burst open, and a [giant poisonous snake](3-Mechanics/CLI/bestiary/beast/giant-venomous-snake-xmm.md) slithers out of each of them. Granny Nightshade has cast an [awaken](3-Mechanics/CLI/spells/awaken-xphb.md) spell on each of these snakes, giving it an Intelligence score of 10 and the ability to speak Common. Their names are Essaveth, Jahassi, and Sinius. They act as watchdogs, but they won't climb stairs. If one of these snakes is wounded, it slithers into the pumpkin patch on its next turn, gaining total cover. On subsequent turns, it tries to hide and has advantage on Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) checks as long as the pumpkin patch provides cover.
 
 ##### Screaming Scarecrows
 
-Five scarecrows are staked in a line near the pumpkin patch, and a [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals an aura of abjuration magic around each one. If an intruder moves within 50 feet of any of them, all five scarecrows scream loudly enough to alert everyone inside Loomlurch. Each scarecrow is a Medium object with AC 11, 5 hit points, vulnerability to fire damage, and immunity to poison and psychic damage.
+Five scarecrows are staked in a line near the pumpkin patch, and a [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of abjuration magic around each one. If an intruder moves within 50 feet of any of them, all five scarecrows scream loudly enough to alert everyone inside Loomlurch. Each scarecrow is a Medium object with AC 11, 5 hit points, vulnerability to fire damage, and immunity to poison and psychic damage.
 
 #### L6. Rocking Horse
 
@@ -803,19 +811,19 @@ The door to area L11 is locked, and Granny Nightshade has the only key (see "Ska
 
 The rocking horse is actually a [flying rocking horse](3-Mechanics/CLI/bestiary/construct/flying-rocking-horse-wbtw.md) (see the accompanying stat block) that Granny Nightshade uses to soar across Prismeer. The horse is positioned so that it can attack trespassers who approach the door. Any character who gets within 5 feet of the rocking horse notices a depression on its forehead. Any character who succeeds on a DC 10 Intelligence check correctly intuits that a horn once protruded from this depression.
 
-The rocking horse used to be a unicorn named Elidon until the hags of the Hourglass Coven turned it into an obedient Construct. If a character finds Elidon's lost unicorn horn and places it on the rocking horse's brow while the horse has at least 1 hit point remaining, the curse is broken and the rocking horse magically transforms into the [unicorn](3-Mechanics/CLI/bestiary/celestial/unicorn.md) Elidon, who appears at full health. Elidon is happy to repay the characters for their heroism but is equally eager to return to his mate, Lamorna (see "Wayward Pool" earlier in the chapter). Convincing him to join the party requires a successful DC 17 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check.
+The rocking horse used to be a unicorn named Elidon until the hags of the Hourglass Coven turned it into an obedient Construct. If a character finds Elidon's lost unicorn horn and places it on the rocking horse's brow while the horse has at least 1 hit point remaining, the curse is broken and the rocking horse magically transforms into the [unicorn](3-Mechanics/CLI/bestiary/celestial/unicorn-xmm.md) Elidon, who appears at full health. Elidon is happy to repay the characters for their heroism but is equally eager to return to his mate, Lamorna (see "Wayward Pool" earlier in the chapter). Convincing him to join the party requires a successful DC 17 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check.
 
-![Flying Rocking Horse](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/066-637677439290543113.webp#center)
+![Flying Rocking Horse](file://adventure/WBtW/066-637677439290543113.webp#center)
 
 Whether he stays with the party or not, Elidon intends to honor the rule of reciprocity (see "Rules of Conduct" in chapter 2) and offers to use his magic to aid the characters in the following ways before parting company with them:
 
 - He can use his Healing Touch action to treat a character's wounds and remove any poisons or diseases afflicting that character.  
 - Once a day, he can teleport himself and up to three willing party members to any location in Thither up to 1 mile away.  
-- He can cast [pass without trace](3-Mechanics/CLI/spells/pass-without-trace.md) on himself and the entire party at will. This spell requires Elidon's concentration and lasts for up to 1 hour.  
+- He can cast [pass without trace](3-Mechanics/CLI/spells/pass-without-trace-xphb.md) on himself and the entire party at will. This spell requires Elidon's concentration and lasts for up to 1 hour.  
 
 ##### Dragon-in-the-Box
 
-The wooden box with the crank is one of the boxes where [Cradlefall](3-Mechanics/CLI/bestiary/dragon/green-dragon-wyrmling.md) might be found (see "Skabatha's Minions" earlier in the chapter).
+The wooden box with the crank is one of the boxes where [Cradlefall](3-Mechanics/CLI/bestiary/dragon/green-dragon-wyrmling-xmm.md) might be found (see "Skabatha's Minions" earlier in the chapter).
 
 #### L7. Tin Soldier Barracks
 
@@ -828,7 +836,7 @@ The wooden box with the crank is one of the boxes where [Cradlefall](3-Mechanics
 
 The staircase ends after 20 feet at a landing outside area L8.
 
-Each small house is designed to hold one of Granny Nightshade's [tin soldiers](3-Mechanics/CLI/bestiary/construct/tin-soldier-wbtw.md). When the characters arrive, four soldiers are on patrol in areas L8 and L12, and the remaining six tin soldiers are inside their domiciles, behind closed doors. Each of these six Constructs is a Small (3-foot-tall) suit of [animated armor](3-Mechanics/CLI/bestiary/construct/animated-armor.md) with 27 (`6d6 + 6`) hit points.
+Each small house is designed to hold one of Granny Nightshade's [tin soldiers](3-Mechanics/CLI/bestiary/construct/tin-soldier-wbtw.md). When the characters arrive, four soldiers are on patrol in areas L8 and L12, and the remaining six tin soldiers are inside their domiciles, behind closed doors. Each of these six Constructs is a Small (3-foot-tall) suit of [animated armor](3-Mechanics/CLI/bestiary/construct/animated-armor-xmm.md) with `dice:6d6+6|noform|noparens|avg|text(27)` (`6d6 + 6`) hit points.
 
 The tin soldiers burst from their small houses and march forth if they hear combat in this room or an adjoining area, or if Skabatha or Pincushion calls for them. If the characters witness the soldiers emerge, read:
 
@@ -841,13 +849,13 @@ The six tin soldiers operate as a unit and march to the beat of the drum, which 
 
 ##### Dragon-in-the-Box
 
-The wooden box with the crank is one of the boxes where [Cradlefall](3-Mechanics/CLI/bestiary/dragon/green-dragon-wyrmling.md) might be found (see "Skabatha's Minions" earlier in the chapter).
+The wooden box with the crank is one of the boxes where [Cradlefall](3-Mechanics/CLI/bestiary/dragon/green-dragon-wyrmling-xmm.md) might be found (see "Skabatha's Minions" earlier in the chapter).
 
-![March of the Tin Soldiers](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/067-03-008-march-of-the-tin-soldiers.webp#center)
+![March of the Tin Soldiers](file://adventure/WBtW/067-03-008.march-of-the-tin-soldiers.webp#center)
 
 #### L8. Workhouse Dormitory
 
-Two 3-foot-tall tin soldiers patrol the balcony outside this room. Each [tin soldier](3-Mechanics/CLI/bestiary/construct/tin-soldier-wbtw.md) is a Small suit of [animated armor](3-Mechanics/CLI/bestiary/construct/animated-armor.md) with 27 (`6d6 + 6`) hit points. The doors leading to this room are closed but unlocked.
+Two 3-foot-tall tin soldiers patrol the balcony outside this room. Each [tin soldier](3-Mechanics/CLI/bestiary/construct/tin-soldier-wbtw.md) is a Small suit of [animated armor](3-Mechanics/CLI/bestiary/construct/animated-armor-xmm.md) with `dice:6d6+6|noform|noparens|avg|text(27)` (`6d6 + 6`) hit points. The doors leading to this room are closed but unlocked.
 
 > [!readaloud] 
 > 
@@ -864,7 +872,7 @@ Pud hisses for the characters to be quiet, nodding toward the soldiers on the ba
 
 Any effect that neutralizes poison can cure Brottor. If the characters lack the means to cure Brottor on their own, they can use hummingbrella mushrooms (found in areas L5 and L13) to neutralize the poison.
 
-If his ailment remains untreated, the dwarf falls into a coma after 5 hours. A character who administers to the dwarf for 1 hour and succeeds on a DC 10 Wisdom ([Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)) check can delay the onset of the coma for an additional `1d4 + 1` hours.
+If his ailment remains untreated, the dwarf falls into a coma after 5 hours. A character who administers to the dwarf for 1 hour and succeeds on a DC 10 Wisdom ([Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)) check can delay the onset of the coma for an additional `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) hours.
 
 If the characters save Brottor's life, Pud silently vows not to betray them to the hag.
 
@@ -887,7 +895,7 @@ A closed, unlocked door connects this room to a 5-foot-high wooden balcony that 
 > A plump halfling boy and a young, fluffy bugbear sit at work benches, watched over by a living, child-sized doll with buttons for eyes. An animated carpet prances around the children, who pay it no attention. The sewing room contains rolls of fabric, bobbins of thread, knitting needles, and pincushions.
 ^25e
 
-Materials for the workshop are sewn here under the watchful gaze of Pincushion, a [living doll](3-Mechanics/CLI/bestiary/construct/living-doll-wbtw.md) (see appendix C for its stat block). The prancing carpet is a [rug of smothering](3-Mechanics/CLI/bestiary/construct/rug-of-smothering.md) that defends Pincushion and keeps strangers away from the children. Pincushion carries a key that locks and unlocks the doors to the kitchen (area L13). The key dangles from a hoop attached to its waist.
+Materials for the workshop are sewn here under the watchful gaze of Pincushion, a [living doll](3-Mechanics/CLI/bestiary/construct/living-doll-wbtw.md) (see appendix C for its stat block). The prancing carpet is a [rug of smothering](3-Mechanics/CLI/bestiary/construct/animated-rug-of-smothering-xmm.md) that defends Pincushion and keeps strangers away from the children. Pincushion carries a key that locks and unlocks the doors to the kitchen (area L13). The key dangles from a hoop attached to its waist.
 
 The living doll challenges intruders and demands to know why they're trespassing here. To satisfy it, a character must succeed on a DC 10 Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception)) check. On a failed check, Pincushion hollers for the tin soldiers at area L7. If satisfied, Pincushion asks the characters to wait here while it hurries to notify Skabatha of the newcomers' presence. The rug stays behind to make sure the children don't leave. Appendix D has additional roleplaying notes for Pincushion.
 
@@ -912,11 +920,11 @@ The doors in this chamber are closed but not locked. When the characters enter f
 > Moths cluster around a lantern that hangs from the ceiling in the middle of a hallway, casting flitting shadows on the walls. The hall contains three sliding doors along the walls, and a heavier hinged door stands at the opposite end.
 ^263
 
-The three cupboards, accessed by sliding the doors open, hold workshop supplies, boxes of junk, and other mundane bric-a-brac. If one or more characters spend at least 15 minutes searching a cupboard, they find `1d4` trinkets inside it (each one determined by rolling on the Feywild Trinkets table in the introduction).
+The three cupboards, accessed by sliding the doors open, hold workshop supplies, boxes of junk, and other mundane bric-a-brac. If one or more characters spend at least 15 minutes searching a cupboard, they find `dice:1d4|noform|noparens|avg` (`1d4`) trinkets inside it (each one determined by rolling on the Feywild Trinkets table in the introduction).
 
 ##### Large Cupboard
 
-If the characters didn't dispose of her in chapter 1, Sowpig stands in the middle of the largest cupboard, silent and unmoving. She is a Small [ghoul](3-Mechanics/CLI/bestiary/undead/ghoul.md) with 17 (`5d6`) hit points. Moths that live in the cupboard have encased Sowpig's body in silk. Opening the cupboard door releases a swarm of moths, which is harmless and always moves toward the nearest light source. Any space that it occupies is lightly obscured.
+If the characters didn't dispose of her in chapter 1, Sowpig stands in the middle of the largest cupboard, silent and unmoving. She is a Small [ghoul](3-Mechanics/CLI/bestiary/undead/ghoul-xmm.md) with `dice:5d6|noform|noparens|avg|text(17)` (`5d6`) hit points. Moths that live in the cupboard have encased Sowpig's body in silk. Opening the cupboard door releases a swarm of moths, which is harmless and always moves toward the nearest light source. Any space that it occupies is lightly obscured.
 
 After the swarm has been released, Sowpig emerges from her silk cocoon to ask why she has been disturbed. The ghoul assumes that the characters are Granny Nightshade's workers, sent to fetch her for a new task. She has no interest in the day-to-day affairs of Loomlurch and attacks the characters only if they threaten Granny Nightshade in the ghoul's presence or seem particularly suspicious. Sowpig follows them through the lair and shares an occasional joke, which is always dark and upsetting. Appendix D has additional roleplaying notes for Sowpig.
 
@@ -943,7 +951,7 @@ When the characters arrive, the portraits show images of Granny Nightshade and h
 
 The portraits are enchanted to display the last creature that pricked its skin on the brambles' thorns in addition to its four closest family members, if it has any. These family members can be living or dead. (If the creature has fewer than four close family members, any remaining portraits are blank.) Each portrait magically animates to create the impression that the subject is looking around and shifting uncomfortably, but the animation has the quality of an old movie. The moving images are silent.
 
-![Magical Portrait of Tasha](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/068-03-009-magical-portrait.webp#center)
+![Magical Portrait of Tasha](file://adventure/WBtW/068-03-009.magical-portrait.webp#center)
 
 ##### Pricking Thorns
 
@@ -951,7 +959,7 @@ Any creature that reaches toward a portrait must succeed on a DC 15 Dexterity sa
 
 #### L12. Textile Mill
 
-Two 3-foot-tall tin soldiers patrol the balcony outside this room, guarding against outside intruders. Each one is a Small suit of [animated armor](3-Mechanics/CLI/bestiary/construct/animated-armor.md) with 27 (`6d6 + 6`) hit points. Both doors to this room are closed but not locked. The tin soldiers open the door and enter the room if they hear any commotion within.
+Two 3-foot-tall tin soldiers patrol the balcony outside this room, guarding against outside intruders. Each one is a Small suit of [animated armor](3-Mechanics/CLI/bestiary/construct/animated-armor-xmm.md) with `dice:6d6+6|noform|noparens|avg|text(27)` (`6d6 + 6`) hit points. Both doors to this room are closed but not locked. The tin soldiers open the door and enter the room if they hear any commotion within.
 
 > [!readaloud] 
 > 
@@ -970,7 +978,7 @@ If Squirt is with the party, it encourages the characters to acquire as much sli
 
 Three children are working here when the characters arrive: Yevelda (an 8-year-old female goblin), Callybon (an 11-year-old female forest gnome), and her brother, Pogo (a 9-year-old male forest gnome). The children are eager to escape Loomlurch but won't converse with strangers until the area is cleared of boggles.
 
-If the characters ask the children for help navigating the hag's lair, Yevelda reveals that she knows a secret route into Skabatha's bedroom (area L16). To take that route, a character must climb out of the storeroom window, clamber across branches that grow out of the upright trees and pass above area L13, and then hop onto the windowsill of the hag's bedroom. To reach the windowsill, a character must succeed on a DC 13 Dexterity ([Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)) check. On a failed check, the character falls 20 feet onto the roof of area L13, taking 7 (`2d6`) bludgeoning damage.
+If the characters ask the children for help navigating the hag's lair, Yevelda reveals that she knows a secret route into Skabatha's bedroom (area L16). To take that route, a character must climb out of the storeroom window, clamber across branches that grow out of the upright trees and pass above area L13, and then hop onto the windowsill of the hag's bedroom. To reach the windowsill, a character must succeed on a DC 13 Dexterity ([Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)) check. On a failed check, the character falls 20 feet onto the roof of area L13, taking `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) bludgeoning damage.
 
 On one of her forays into the hag's private quarters, Yevelda witnessed Pud (see area L8) reporting to the hag. She hasn't told anyone about this yet and is unwilling to share her knowledge about the secret route to area L16 while Pud is present.
 
@@ -993,7 +1001,7 @@ The door to L14 is ajar, and the doors to areas L11 and L15 are locked. Granny N
 > A young human girl shackled to a worktable is hard at work peeling potatoes. Set into the floor nearby is a padlocked iron grate through which you hear a gruff male voice say, "Are those potatoes I smell?"
 ^272
 
-Cradlefall, the [green dragon wyrmling](3-Mechanics/CLI/bestiary/dragon/green-dragon-wyrmling.md), spends much of his time dozing in here by the oven. If the characters have not encountered the wyrmling elsewhere, read:
+Cradlefall, the [green dragon wyrmling](3-Mechanics/CLI/bestiary/dragon/green-dragon-wyrmling-xmm.md), spends much of his time dozing in here by the oven. If the characters have not encountered the wyrmling elsewhere, read:
 
 > [!readaloud] 
 > 
@@ -1010,9 +1018,9 @@ If Skabatha isn't present, Mishka tells the characters about the hag's daily rou
 
 ##### Oven
 
-This oven is large enough to cook a Medium creature whole. A 5-foot-wide iron door in the front of the oven allows one to reach into the oven's interior without disturbing the fuming cauldron that rests atop it. The oven's flames are produced by a [fire elemental](3-Mechanics/CLI/bestiary/elemental/fire-elemental.md) that is bound inside the clay enclosure. Its coal-black eyes are visible inside the flames to anyone who peers inside the oven. While it is trapped in this manner, the elemental can't be targeted or harmed directly.
+This oven is large enough to cook a Medium creature whole. A 5-foot-wide iron door in the front of the oven allows one to reach into the oven's interior without disturbing the fuming cauldron that rests atop it. The oven's flames are produced by a [fire elemental](3-Mechanics/CLI/bestiary/elemental/fire-elemental-xmm.md) that is bound inside the clay enclosure. Its coal-black eyes are visible inside the flames to anyone who peers inside the oven. While it is trapped in this manner, the elemental can't be targeted or harmed directly.
 
-Any creature that enters the hot oven or starts its turn inside it takes 10 (`2d6 + 3`) fire damage. A character can try to shove a Medium or smaller creature into the oven, if the creature is within 5 feet of the oven's open door (see ""Shoving a Creature"" in the "Player's Handbook"). If the creature is looking into the oven when it is shoved, the Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check to shove the creature is made with advantage.
+Any creature that enters the hot oven or starts its turn inside it takes `dice:2d6+3|noform|noparens|avg|text(10)` (`2d6 + 3`) fire damage. A character can try to shove a Medium or smaller creature into the oven, if the creature is within 5 feet of the oven's open door (see ""Shoving a Creature"" in the "Player's Handbook"). If the creature is looking into the oven when it is shoved, the Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check to shove the creature is made with advantage.
 
 The oven is a Large object with AC 13, 30 hit points, vulnerability to cold damage, and immunity to fire, poison, and psychic damage. If the oven is reduced to 15 hit points or fewer, the elemental escapes from captivity and occupies an open space next to the oven. The elemental waits in the kitchen for Granny Nightshade to appear, then attacks her. It attacks the characters only if they harm it.
 
@@ -1034,7 +1042,7 @@ When [Elkhorn](3-Mechanics/CLI/bestiary/npc/elkhorn-wbtw.md) and his friends fir
 
 ##### Cauldron
 
-The cauldron is nearly full of hot melted candy, which bubbles gently. As an action, a creature can spill the cauldron's contents onto another creature within 5 feet of it. The target must succeed on a DC 12 Dexterity saving throw or take 2 (`1d4`) fire damage; in addition, the creature is covered with a sticky, crunchy candy coating that is easily washed off with water.
+The cauldron is nearly full of hot melted candy, which bubbles gently. As an action, a creature can spill the cauldron's contents onto another creature within 5 feet of it. The target must succeed on a DC 12 Dexterity saving throw or take `dice:1d4|noform|noparens|avg|text(2)` (`1d4`) fire damage; in addition, the creature is covered with a sticky, crunchy candy coating that is easily washed off with water.
 
 ##### Cookbooks
 
@@ -1050,7 +1058,7 @@ Searching Granny Nightshade's kitchen reveals the following treasures:
 - An ornate eight-minute hourglass (75 gp)  
 - A moldy wooden coffer labeled "Mushrooms" (in Elvish) that contains two butterfly saddles and a hummingbrella (see area L5 for descriptions of these mushrooms)  
 
-In addition, [Elkhorn](3-Mechanics/CLI/bestiary/npc/elkhorn-wbtw.md)'s [shield](3-Mechanics/CLI/items/shield.md) and [+1 longsword](3-Mechanics/CLI/items/1-weapon.md) can be found inside a small cupboard.
+In addition, [Elkhorn](3-Mechanics/CLI/bestiary/npc/elkhorn-wbtw.md)'s [shield](3-Mechanics/CLI/items/shield-xphb.md) and [+1 longsword](3-Mechanics/CLI/items/1-weapon-xdmg.md) can be found inside a small cupboard.
 
 #### L14. Study
 
@@ -1081,7 +1089,7 @@ The shelves contain books of Feywild lore, all written in Elvish, each of which 
 
 *Twilight Tides* is a fat, wrinkled book about navigating the oceans of the Feywild.
 
-After two books were stolen from her collection (volumes 3 and 8 of *Tales from the Gloaming Court*), Skabatha placed wards on every one of the remaining books. Any book that is removed from her study turns to ashes instantly. A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals an aura of abjuration magic around each book.
+After two books were stolen from her collection (volumes 3 and 8 of *Tales from the Gloaming Court*), Skabatha placed wards on every one of the remaining books. Any book that is removed from her study turns to ashes instantly. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of abjuration magic around each book.
 
 Shelved among the books are hundreds of scrolls that bear no magical wards; they describe encounters with individuals who struck bargains with Skabatha, and the horrible curses she put on each of them for failing to uphold their end.
 
@@ -1102,7 +1110,7 @@ This desk contains quills, ink, a human skull fashioned into a lantern, a treasu
 > *Granny Nightshade*
 ^280
 
-Any character who can rightfully claim this reward is better off not doing so, for it comes in the form of a potion that, if drunk, gives the imbiber a Strength score of 4 (the strength of a normal [octopus](3-Mechanics/CLI/bestiary/beast/octopus.md)). The effect lasts until the creature receives the benefit of a [remove curse](3-Mechanics/CLI/spells/remove-curse.md) spell, a [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md) spell, or similar magic.
+Any character who can rightfully claim this reward is better off not doing so, for it comes in the form of a potion that, if drunk, gives the imbiber a Strength score of 4 (the strength of a normal [octopus](3-Mechanics/CLI/bestiary/beast/octopus-xmm.md)). The effect lasts until the creature receives the benefit of a [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md) spell, a [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md) spell, or similar magic.
 
 ##### Treasure
 
@@ -1121,7 +1129,7 @@ Among the junk in the rolltop desk are the following interesting items:
 
 The toadstools are the tips of the hats worn by six [redcaps](3-Mechanics/CLI/bestiary/fey/redcap-mpmm.md) (see appendix C) that are forming under the earth. Any creature that tries to pick a toadstool causes its redcap to rise up out of the earth, outraged at being awakened early. This redcap is not fully formed and has half its normal hit points.
 
-Whenever Granny Nightshade's key stops turning, `1d3` redcaps emerge fully grown from this patch, leaving any remaining redcaps under the soil, still not fully formed. The risen redcaps loiter here until they see something they can kill or until Granny Nightshade gives them a mission.
+Whenever Granny Nightshade's key stops turning, `dice:1d3|noform|noparens|avg` (`1d3`) redcaps emerge fully grown from this patch, leaving any remaining redcaps under the soil, still not fully formed. The risen redcaps loiter here until they see something they can kill or until Granny Nightshade gives them a mission.
 
 The redcaps are hostile toward creatures other than Granny Nightshade. However, if a redcap is offered a gift, it accepts the gift and becomes so angry at the thought of having to reciprocate (see "Rules of Conduct" in chapter 2) that it clutches its chest and keels over dead at the start of its next turn.
 
@@ -1140,9 +1148,9 @@ If [Skabatha Nightshade](3-Mechanics/CLI/bestiary/npc/skabatha-nightshade-wbtw.m
 
 The dollhouse is fully enclosed, rather than being open at the back as a normal dollhouse would be. A Tiny creature can enter the dollhouse through its front door or one of its windows and explore its interior, which has a gloomy foyer, parlor, kitchen, and dining room on the ground floor; two bedrooms, a sewing room, and a nonfunctional bath on the second floor; and a spooky, spacious attic. If you used the "Lost Things" adventure hook and Granny Nightshade stole from the characters, any items that their lost things were transformed into are kept inside the dollhouse's attic, along with the items listed in the "Treasure" section below.
 
-Characters who inspect the outside of the dollhouse closely can see that the roof is hinged, like the lid of a toy box. It is held shut by an [arcane lock](3-Mechanics/CLI/spells/arcane-lock.md) spell that only Granny Nightshade can bypass without using magic. No amount of brute force will open the sealed roof, but a [knock](3-Mechanics/CLI/spells/knock.md) spell or similar magic opens it, granting access to the attic and its contents. Granny Nightshade also set a password ("rumpleclump") that, when spoken within 5 feet of the dollhouse, suppresses the [arcane lock](3-Mechanics/CLI/spells/arcane-lock.md) spell for 1 minute. Cradlefall and Pincushion know the password but won't divulge it unless their very existence is threatened. Mishka (see area L13) also knows the password and shares it with any characters who are willing to help her.
+Characters who inspect the outside of the dollhouse closely can see that the roof is hinged, like the lid of a toy box. It is held shut by an [arcane lock](3-Mechanics/CLI/spells/arcane-lock-xphb.md) spell that only Granny Nightshade can bypass without using magic. No amount of brute force will open the sealed roof, but a [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell or similar magic opens it, granting access to the attic and its contents. Granny Nightshade also set a password ("rumpleclump") that, when spoken within 5 feet of the dollhouse, suppresses the [arcane lock](3-Mechanics/CLI/spells/arcane-lock-xphb.md) spell for 1 minute. Cradlefall and Pincushion know the password but won't divulge it unless their very existence is threatened. Mishka (see area L13) also knows the password and shares it with any characters who are willing to help her.
 
-Creatures inside the dollhouse can't be affected by spells or attacks that originate outside the dollhouse, and the dollhouse is enchanted to be immune to all damage. If it is knocked over, each creature inside the dollhouse must succeed on a DC 15 Dexterity saving throw or take `1d6` bludgeoning damage from colliding with walls, furniture, and junk.
+Creatures inside the dollhouse can't be affected by spells or attacks that originate outside the dollhouse, and the dollhouse is enchanted to be immune to all damage. If it is knocked over, each creature inside the dollhouse must succeed on a DC 15 Dexterity saving throw or take `dice:1d6|noform|noparens|avg` (`1d6`) bludgeoning damage from colliding with walls, furniture, and junk.
 
 ##### Jar of Moths
 
@@ -1160,7 +1168,7 @@ The attic of the dollhouse contains the following valuable items:
 - A false eye made of solid gold (25 gp)  
 - A cracked hand mirror with a gaudy, bejeweled handle and frame (65 gp)  
 
-![Skabatha's Dollhouse](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/069-03-010-skabathas-dollhouse.webp#center)
+![Skabatha's Dollhouse](file://adventure/WBtW/069-03-010.skabathas-dollhouse.webp#center)
 
 #### L17. Aviary
 
@@ -1171,9 +1179,9 @@ The door to area L16 is closed but not locked.
 > Old, empty birdhouses are nailed to the walls of this cramped room, and a dozen birdcages hang from the ceiling. The cages are filled with tiny clockwork sparrows. As the birds' gears turn, the air thrums with rhythmic ticking. Paper and quills are heaped on a small writing desk under the cages. A pair of open windows overlook the forest beyond. Carved into the wall above one window is the word "Hither," and above the other is the word "Yon."
 ^28b
 
-Granny Nightshade uses the mechanical sparrows to relay messages to her sisters. The sparrows use the [hawk](3-Mechanics/CLI/bestiary/beast/hawk.md) stat block but are Constructs that are immune to poison and psychic damage; the effects of exhaustion; and the [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), and [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) conditions.
+Granny Nightshade uses the mechanical sparrows to relay messages to her sisters. The sparrows use the [hawk](3-Mechanics/CLI/bestiary/beast/hawk-xmm.md) stat block but are Constructs that are immune to poison and psychic damage; the effects of exhaustion; and the [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), and [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) conditions.
 
-The sparrows have their names engraved on their breasts. (Example names include Glyff, Pim, and Zwee. Create others as needed.) If a creature speaks a sparrow's name aloud and gives it a task, it flies off as though affected by an [animal messenger](3-Mechanics/CLI/spells/animal-messenger.md) spell. In addition to delivering spoken messages, a mechanical sparrow can also carry written letters.
+The sparrows have their names engraved on their breasts. (Example names include Glyff, Pim, and Zwee. Create others as needed.) If a creature speaks a sparrow's name aloud and gives it a task, it flies off as though affected by an [animal messenger](3-Mechanics/CLI/spells/animal-messenger-xphb.md) spell. In addition to delivering spoken messages, a mechanical sparrow can also carry written letters.
 
 ##### Writing Desk
 
@@ -1218,4 +1226,4 @@ The writing desk contains three letters, two from Bavlorna and one from Endelyn:
 
 At any time, Squirt can lead the characters through the mists of Prismeer to the mountains of Yon. If the characters have not yet encountered Squirt, steer them to Little Oak or have the treant come to them. If Squirt was lost or destroyed, choose another creature to serve as their guide to Yon. Little Oak would be a fine choice.
 
-![The forest of Thither is h...](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/070-03-011-forest-of-thither.webp#center "The forest of Thither is home to other strange creatures, including a giant, storytelling spider named Yarnspinner, who is detailed in &quot;Domains of Delight&quot;")
+![The forest of Thither is home to other strange creatures, including a giant, storytelling spider named Yarnspinner, who is detailed in &quot;Domains of Delight&quot;](file://adventure/WBtW/070-03-011.forest-of-thither.webp#center)

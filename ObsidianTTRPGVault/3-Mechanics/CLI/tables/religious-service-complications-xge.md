@@ -12,6 +12,8 @@ aliases:
 
 **Religious Service Complications**
 
+`dice: [](religious-service-complications-xge.md#^religious-service-complications)`
+
 | dice: d6 | Complication |
 |----------|--------------|
 | 1 | You have offended a priest through your words or actions.* |

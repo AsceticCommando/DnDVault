@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Torogar Steelfist"
 ---
-# [Torogar Steelfist](3-Mechanics\CLI\bestiary\npc/torogar-steelfist-bgdia.md)
+# [Torogar Steelfist](3-Mechanics/CLI/bestiary/npc/torogar-steelfist-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 112*  
 
 ```statblock
@@ -37,7 +37,7 @@ aliases:
   - "strength": !!int "11"
   - "constitution": !!int "9"
 "gear":
-  - "[scimitar](3-Mechanics/CLI/items/scimitar.md)"
+  - "[scimitar](3-Mechanics/CLI/items/scimitar-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 9"
 "languages": "Abyssal, Common"
@@ -57,7 +57,7 @@ aliases:
       \ has resistance to bludgeoning, piercing, and slashing damage."
     "name": "Rage (Recharges after a Short or Long Rest)"
   - "desc": "Torogar wears [gauntlets of flaming fury](3-Mechanics/CLI/items/gauntlets-of-flaming-fury-bgdia.md)\
-      \ and a [belt of fire giant strength](3-Mechanics/CLI/items/belt-of-fire-giant-strength.md).\
+      \ and a [belt of fire giant strength](3-Mechanics/CLI/items/belt-of-fire-giant-strength-xdmg.md).\
       \ Without the belt, his Strength is 21. He also carries a [soul coin](3-Mechanics/CLI/items/soul-coin-bgdia.md)."
     "name": "Special Equipment"
 "actions":
@@ -73,6 +73,6 @@ aliases:
     "name": "Horns"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/torogar-steelfist-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Torogar%20Steelfist.webp"
 ```
 ^statblock

@@ -12,6 +12,8 @@ aliases:
 
 **Heliod's Quests**
 
+`dice: [](heliods-quests-mot.md#^heliods-quests)`
+
 | dice: d6 | Adventure Goal |
 |----------|----------------|
 | 1 | Bring a shard of sunlight to a place of unending darkness. |

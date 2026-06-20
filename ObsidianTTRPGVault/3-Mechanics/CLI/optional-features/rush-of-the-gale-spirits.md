@@ -11,4 +11,4 @@ aliases:
 # Rush of the Gale Spirits
 *Source: Player's Handbook p. 81*  
 
-You can spend 2 ki points to cast [gust of wind](3-Mechanics/CLI/spells/gust-of-wind.md).
+You can spend 2 ki points to cast [gust of wind](3-Mechanics/CLI/spells/gust-of-wind-xphb.md).

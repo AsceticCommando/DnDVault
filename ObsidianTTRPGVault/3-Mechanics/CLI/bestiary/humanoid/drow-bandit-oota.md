@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Drow Bandit"
 ---
-# [Drow Bandit](3-Mechanics\CLI\bestiary\humanoid/drow-bandit-oota.md)
+# [Drow Bandit](3-Mechanics/CLI/bestiary/humanoid/drow-bandit-oota.md)
 *Source: Out of the Abyss p. 194*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Neutral Evil"
 "ac": !!int "12"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
 "modifier": !!int "1"
@@ -35,16 +35,17 @@ aliases:
   - !!int "10"
 "speed": "30 ft."
 "gear":
-  - "[light crossbow](3-Mechanics/CLI/items/light-crossbow.md)"
-  - "[scimitar](3-Mechanics/CLI/items/scimitar.md)"
+  - "[light crossbow](3-Mechanics/CLI/items/light-crossbow-xphb.md)"
+  - "[scimitar](3-Mechanics/CLI/items/scimitar-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
   \ Perception 10"
 "languages": "any one language (usually Common), Elvish, Undercommon"
 "cr": "1/8"
 "traits":
-  - "desc": "The drow bandit\n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md)\n\
-      \n**1/day each:** [darkness](3-Mechanics/CLI/spells/darkness.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md),\
-      \ [levitate](3-Mechanics/CLI/spells/levitate.md) (self only)"
+  - "desc": "The drow bandit\n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md)\n\
+      \n**1/day each:** [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [faerie\
+      \ fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md), [levitate](3-Mechanics/CLI/spells/levitate-xphb.md)\
+      \ (self only)"
     "name": "Innate Spellcasting"
   - "desc": "The drow bandit"
     "name": "Fey Ancestry"
@@ -59,6 +60,6 @@ aliases:
     "name": "Light Crossbow"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/drow-bandit-oota.webp"
+"image": "file://bestiary/tokens/OotA/Drow%20Bandit.webp"
 ```
 ^statblock

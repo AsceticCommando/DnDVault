@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Kurr"
 ---
-# [Kurr](3-Mechanics\CLI\bestiary\npc/kurr-oota.md)
+# [Kurr](3-Mechanics/CLI/bestiary/npc/kurr-oota.md)
 *Source: Out of the Abyss p. 179*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "gnoll"
 "alignment": "Chaotic Evil"
 "ac": !!int "14"
-"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor.md)"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor-xphb.md)"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
 "modifier": !!int "2"
@@ -59,6 +59,6 @@ aliases:
     "name": "Claw"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/kurr-oota.webp"
+"image": "file://bestiary/tokens/OotA/Kurr.webp"
 ```
 ^statblock

@@ -15,7 +15,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Kruthik Hive Lord"
 ---
-# [Kruthik Hive Lord](3-Mechanics\CLI\bestiary\monstrosity/kruthik-hive-lord-mpmm.md)
+# [Kruthik Hive Lord](3-Mechanics/CLI/bestiary/monstrosity/kruthik-hive-lord-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 169, Mordenkainen's Tome of Foes p. 212*  
 
 A hive lord rules each kruthik hive. When the hive lord dies, the surviving members of the hive abandon their lair and search for a new one. When a suitable location is found, the largest kruthik in the hive undergoes a metamorphosis, forming a cocoon around itself and emerging several weeks later as a hive lord—a bigger and smarter kruthik with the ability to spray digestive acid from its maw. The hive lord claims the largest chamber of the lair and keeps several adult kruthiks nearby as bodyguards.
@@ -89,7 +89,7 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/kruthik-hive-lord-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Kruthik%20Hive%20Lord.webp"
 ```
 ^statblock
 

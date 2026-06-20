@@ -12,6 +12,8 @@ aliases:
 
 **House Tarkanan Assignments**
 
+`dice: [](house-tarkanan-assignments-erlw.md#^house-tarkanan-assignments)`
+
 | dice: d4 | Assignment |
 |----------|------------|
 | 1 | Steal a satchel full of research on the War of the Mark, carried by a wizard who works at Morgrave University. |

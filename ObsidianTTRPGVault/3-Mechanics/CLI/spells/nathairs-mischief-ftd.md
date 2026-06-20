@@ -4,20 +4,25 @@ cssclasses:
 - json5e-spell
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
-- ttrpg-cli/spell/class/bard/magical-secrets
+- ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/sorcerer
 - ttrpg-cli/spell/class/wizard
 - ttrpg-cli/spell/feat/adept-of-the-red-robes
+- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
 - ttrpg-cli/spell/level/2nd-level
 - ttrpg-cli/spell/school/illusion
 - ttrpg-cli/spell/subclass/arcane-trickster
+- ttrpg-cli/spell/subclass/college-of-lore
 - ttrpg-cli/spell/subclass/eldritch-knight
+- ttrpg-cli/spell/subclass/illusionist
 classes:
-- Bard (Magical Secrets)
+- Bard
+- Bard (College of Lore)
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
+- Wizard (Illusionist)
 aliases:
 - "Nathair's Mischief"
 ---
@@ -34,6 +39,8 @@ You fill a 20-foot cube you can see within range with fey and draconic magic. Ro
 
 **Mischievous Surge**
 
+`dice: [](nathairs-mischief-ftd.md#^mischievous-surge)`
+
 | dice: d4 | Effect |
 |----------|--------|
 | 1 | The smell of apple pie fills the air, and each creature in the cube must succeed on a Wisdom saving throw or become [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) by you until the start of your next turn. |
@@ -42,6 +49,6 @@ You fill a 20-foot cube you can see within range with fey and draconic magic. Ro
 | 4 | Drops of molasses hover in the cube, making it difficult terrain until the start of your next turn. |
 ^mischievous-surge
 
-**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard (Illusionist)](3-Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Fizban's Treasury of Dragons p. 20*

@@ -12,6 +12,8 @@ aliases:
 
 **Container Contents**
 
+`dice: [](dungeon-dressing-container-contents.md#^container-contents)`
+
 | dice: d100 | Item |
 |------------|------|
 | 1-3 | Ash |

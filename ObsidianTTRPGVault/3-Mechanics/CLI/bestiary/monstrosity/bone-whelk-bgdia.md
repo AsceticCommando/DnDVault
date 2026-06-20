@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Bone Whelk"
 ---
-# [Bone Whelk](3-Mechanics\CLI\bestiary\monstrosity/bone-whelk-bgdia.md)
+# [Bone Whelk](3-Mechanics/CLI/bestiary/monstrosity/bone-whelk-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 119*  
 
 Bone whelks are large mollusks that excrete an adhesive to attach skulls, bones, and other detritus to their bodies for protection.
@@ -58,6 +58,6 @@ Bone whelks are large mollusks that excrete an adhesive to attach skulls, bones,
     "name": "Bite"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/bone-whelk-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Bone%20Whelk.webp"
 ```
 ^statblock

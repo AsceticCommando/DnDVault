@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Ayik Ur"
 ---
-# [Ayik Ur](3-Mechanics\CLI\bestiary\npc/ayik-ur-dsotdq.md)
+# [Ayik Ur](3-Mechanics/CLI/bestiary/npc/ayik-ur-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 211*  
 
 The youthful archer [Ayik](3-Mechanics/CLI/bestiary/npc/ayik-ur-dsotdq.md) is the consummate survivor. As the Dragon Armies swarmed over his homeland of Khur, he became a refugee, but not before his leg was injured by a charging warhorse. Even as he fled, he swore to lend his bow in the fight against the Dragon Armies. He is defiant and cocky to the point of recklessness, challenging his enemies to finish what the Dragon Armies started back in Khur.
@@ -24,7 +24,7 @@ The youthful archer [Ayik](3-Mechanics/CLI/bestiary/npc/ayik-ur-dsotdq.md) is th
 "subtype": "human"
 "alignment": "Neutral Good"
 "ac": !!int "15"
-"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor.md)"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
 "modifier": !!int "3"
@@ -50,8 +50,8 @@ The youthful archer [Ayik](3-Mechanics/CLI/bestiary/npc/ayik-ur-dsotdq.md) is th
   - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+3"
 "gear":
-  - "[longbow](3-Mechanics/CLI/items/longbow.md)"
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[longbow](3-Mechanics/CLI/items/longbow-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "passive Perception 15"
 "languages": "Common"
 "traits":
@@ -69,6 +69,6 @@ The youthful archer [Ayik](3-Mechanics/CLI/bestiary/npc/ayik-ur-dsotdq.md) is th
     "name": "Longbow"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/npc/token/ayik-ur-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Ayik%20Ur.webp"
 ```
 ^statblock

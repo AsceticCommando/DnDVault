@@ -12,6 +12,8 @@ aliases:
 
 **Human Names – Chinese, Male**
 
+`dice: [](human-names-chinese-male-xge.md#^human-names-chinese-male)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Bingwen |

@@ -18,7 +18,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Zaratan"
 ---
-# [Zaratan](3-Mechanics\CLI\bestiary\elemental/zaratan-mpmm.md)
+# [Zaratan](3-Mechanics/CLI/bestiary/elemental/zaratan-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 278, Mordenkainen's Tome of Foes p. 201*  
 
 When a zaratan is summoned from the Elemental Plane of Earth, the ground rises up to take the shape of a hulking, armored reptile. A zaratan's steps trigger shock waves severe enough to level structures. It expresses its rage through trumpeting calls and the occasional boulder or blast of debris it spews from its cavernous maw. If seriously injured, a zaratan retracts its appendages to gain shelter beneath its impervious shell, biding its time until it recovers and can resume its march.
@@ -122,7 +122,7 @@ When a zaratan is summoned from the Elemental Plane of Earth, the ground rises u
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/elemental/token/zaratan-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Zaratan.webp"
 ```
 ^statblock
 

@@ -11,7 +11,7 @@ aliases:
 ---
 # Heliod
 *Source: Mythic Odysseys of Theros p. 46* 
-![](3-Mechanics/CLI/deities/img/mot-030-02-03-heliod.webp#symbol)
+![](file://deities/MOT/030-02-03-heliod.webp#symbol)
 
 - **Alignment**: Lawful Good
 - **Domains**: Light
@@ -55,7 +55,7 @@ The brilliance of Heliod's sun is impossible to ignore. Thus, virtually everyone
 
 Some families, particularly in the polis of Meletis, follow a practice of bowing in the direction of dawn's first light—or winking, in a gesture of respect for the sun god's luminous "eye." More dedicated worshipers offer short litanies at dawn, noon, and dusk, acknowledging the sun's passage across the sky.
 
-![](3-Mechanics/CLI/deities/img/mot-031-02-07.webp#center)
+![](file://deities/MOT/031-02-07.webp#center)
 
 > [!readaloud] Myths of Heliod
 > 
@@ -100,6 +100,8 @@ Heliod can be a fickle god, but once you have devoted yourself to him as a champ
 
 **Heliod's Favor**
 
+`dice: [](theros-heliod-mot.md#^heliods-favor)`
+
 | dice: d6 | Circumstance |
 |----------|--------------|
 | 1 | You were born at noon on the summer solstice—perhaps even in the midst of Heliod's great feast. |
@@ -115,6 +117,8 @@ Heliod can be a fickle god, but once you have devoted yourself to him as a champ
 Following Heliod means devoting yourself to the cause of law and justice. In fact, champions of Heliod are sometimes more constant in their pursuit of those ideals than the god himself, who can be emotional and short-tempered. As a follower of Heliod, consider the ideals on the Heliod's Ideals table as alternatives to those suggested for your background.
 
 **Heliod's Ideals**
+
+`dice: [](theros-heliod-mot.md#^heliods-ideals)`
 
 | dice: d6 | Ideal |
 |----------|-------|

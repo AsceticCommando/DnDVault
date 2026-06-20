@@ -12,6 +12,8 @@ aliases:
 
 **NPC Mannerisms**
 
+`dice: [](npc-mannerisms.md#^npc-mannerisms)`
+
 | dice: d20 | Mannerism |
 |-----------|-----------|
 | 1 | Prone to singing, whistling, or humming quietly |

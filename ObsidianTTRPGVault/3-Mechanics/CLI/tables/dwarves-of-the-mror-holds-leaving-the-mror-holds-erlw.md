@@ -12,6 +12,8 @@ aliases:
 
 **Leaving the Mror Holds**
 
+`dice: [](dwarves-of-the-mror-holds-leaving-the-mror-holds-erlw.md#^leaving-the-mror-holds)`
+
 | dice: d8 | Reason for Leaving |
 |----------|--------------------|
 | 1 | A feud with a rival clan has gotten out of hand, and it's best that you spend a few decades away from the Holds while things cool down. |

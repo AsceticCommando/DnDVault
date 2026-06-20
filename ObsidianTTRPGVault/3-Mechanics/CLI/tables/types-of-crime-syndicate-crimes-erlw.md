@@ -12,6 +12,8 @@ aliases:
 
 **Syndicate Crimes**
 
+`dice: [](types-of-crime-syndicate-crimes-erlw.md#^syndicate-crimes)`
+
 | dice: d6 | Crime |
 |----------|-------|
 | 1 | **Acquisitions and Retrieval**. Your job is to acquire assets for the syndicate. You might steal important documents or clear out a location for use as a hideout. |

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Archduke Zariel of Avernus"
 ---
-# [Archduke Zariel of Avernus](3-Mechanics\CLI\bestiary\npc/archduke-zariel-of-avernus-bgdia.md)
+# [Archduke Zariel of Avernus](3-Mechanics/CLI/bestiary/npc/archduke-zariel-of-avernus-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 243*  
 
 Once a mighty angel charged with watching the tides of the Blood War, Zariel succumbed to the corrupting influence of the Nine Hells and fell from grace. Asmodeus admired Zariel's passion for war and offered her rulership of Avernus. She accepted his offer and was transformed by Asmodeus into an archdevil.
@@ -59,8 +59,8 @@ Zariel recently defeated the demon lord Kostchtchie and took his hammer, Matalot
 "condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
   \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
 "gear":
-  - "[javelin](3-Mechanics/CLI/items/javelin.md)"
-  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
+  - "[javelin](3-Mechanics/CLI/items/javelin-xphb.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
   \ Perception 26"
 "languages": "all, telepathy 120 ft."
@@ -68,13 +68,13 @@ Zariel recently defeated the demon lord Kostchtchie and took his hammer, Matalot
 "traits":
   - "desc": "Zariel's innate spellcasting ability is Charisma (spell save DC 26).\
       \ She can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [alter self](3-Mechanics/CLI/spells/alter-self.md) (can become\
-      \ Medium when changing her appearance), [detect evil and good](3-Mechanics/CLI/spells/detect-evil-and-good.md),\
-      \ [fireball](3-Mechanics/CLI/spells/fireball.md), [invisibility](3-Mechanics/CLI/spells/invisibility.md)\
-      \ (self only), [wall of fire](3-Mechanics/CLI/spells/wall-of-fire.md)\n\n**3/day\
-      \ each:** [blade barrier](3-Mechanics/CLI/spells/blade-barrier.md), [dispel\
-      \ evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good.md), [finger of\
-      \ death](3-Mechanics/CLI/spells/finger-of-death.md)"
+      \n**At will:** [alter self](3-Mechanics/CLI/spells/alter-self-xphb.md) (can\
+      \ become Medium when changing her appearance), [detect evil and good](3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md),\
+      \ [fireball](3-Mechanics/CLI/spells/fireball-xphb.md), [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md)\
+      \ (self only), [wall of fire](3-Mechanics/CLI/spells/wall-of-fire-xphb.md)\n\
+      \n**3/day each:** [blade barrier](3-Mechanics/CLI/spells/blade-barrier-xphb.md),\
+      \ [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md),\
+      \ [finger of death](3-Mechanics/CLI/spells/finger-of-death-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "Magical darkness doesn't impede Zariel's darkvision."
     "name": "Devil's Sight"
@@ -127,6 +127,6 @@ Zariel recently defeated the demon lord Kostchtchie and took his hammer, Matalot
     "name": "Teleport"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/archduke-zariel-of-avernus-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Archduke%20Zariel%20of%20Avernus.webp"
 ```
 ^statblock

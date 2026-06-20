@@ -58,11 +58,11 @@ If you want your archfey to have an obsession, you can determine it randomly by 
 
 ![Obsessions; Archfey Obsession](3-Mechanics/CLI/tables/obsessions-archfey-obsession-dod.md)
 
-![A centaur guards an archfey's palace.](3-Mechanics/CLI/books/domains-of-delight/img/006.webp#center)
+![A centaur guards an archfey's palace.](file://book/DoD/006.webp#center)
 
 ### Signature Magic
 
-Almost every archfey has a signature magical power, and this power might be tied to their appearance or personality; for example, a metallic archfey might have the power to corrode or heat metal, while a madcap archfey might have the power to cause wild magic effects similar to those described the [Wild Magic Surge](3-Mechanics/CLI/tables/wild-magic-surge-phb.md) table in the "Sorcerer" section of the Player's Handbook. The Signature Magic table presents some other possibilities.
+Almost every archfey has a signature magical power, and this power might be tied to their appearance or personality; for example, a metallic archfey might have the power to corrode or heat metal, while a madcap archfey might have the power to cause wild magic effects similar to those described the [Wild Magic Surge](3-Mechanics/CLI/tables/wild-magic-surge-xphb.md) table in the "Sorcerer" section of the Player's Handbook. The Signature Magic table presents some other possibilities.
 
 ![Signature Magic](3-Mechanics/CLI/tables/signature-magic-dod.md)
 
@@ -80,7 +80,7 @@ Alternatively, choose a stat block of CR 5 or higher that has one of the followi
 
 ### Fey Rebirth
 
-If the archfey dies in its Domain of Delight, it revives with all its hit points `1d4` days later in a safe location in that domain.
+If the archfey dies in its Domain of Delight, it revives with all its hit points `dice:1d4|noform|noparens|avg` (`1d4`) days later in a safe location in that domain.
 
 ### Legendary Resistance (3/Day)
 

@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Female Steeder"
 ---
-# [Female Steeder](3-Mechanics\CLI\bestiary\monstrosity/female-steeder-mpmm.md)
+# [Female Steeder](3-Mechanics/CLI/bestiary/monstrosity/female-steeder-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 231, Mordenkainen's Tome of Foes p. 238*  
 
 ## Steeders
@@ -76,7 +76,7 @@ Rather than spinning webs, steeders excrete a viscous substance from their legs.
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/female-steeder-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Female%20Steeder.webp"
 ```
 ^statblock
 

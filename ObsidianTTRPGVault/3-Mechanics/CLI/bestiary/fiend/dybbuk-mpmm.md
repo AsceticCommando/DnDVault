@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Dybbuk"
 ---
-# [Dybbuk](3-Mechanics\CLI\bestiary\fiend/dybbuk-mpmm.md)
+# [Dybbuk](3-Mechanics/CLI/bestiary/fiend/dybbuk-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 113, Mordenkainen's Tome of Foes p. 132*  
 
 Dybbuks are demons that terrorize mortals on the Material Plane by possessing corpses and giving them a semblance of life, after which the demons use them to engage in a range of sordid activities.
@@ -83,8 +83,8 @@ In their natural form, dybbuks appear as translucent flying jellyfish, trailing 
     "name": "Possess Corpse (Recharge 6)"
   - "desc": "The dybbuk casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 12):\n\n**At\
-      \ will:** [dimension door](3-Mechanics/CLI/spells/dimension-door.md)\n\n**3/day:**\
-      \ [phantasmal force](3-Mechanics/CLI/spells/phantasmal-force.md)"
+      \ will:** [dimension door](3-Mechanics/CLI/spells/dimension-door-xphb.md)\n\n\
+      **3/day:** [phantasmal force](3-Mechanics/CLI/spells/phantasmal-force-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "While Possess Corpse is active, the dybbuk makes the corpse do something\
@@ -99,7 +99,7 @@ In their natural form, dybbuks appear as translucent flying jellyfish, trailing 
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/dybbuk-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Dybbuk.webp"
 ```
 ^statblock
 

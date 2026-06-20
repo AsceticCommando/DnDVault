@@ -12,6 +12,8 @@ aliases:
 
 **Bazaar Merchants**
 
+`dice: [](middle-dura-bazaar-merchants-erlw.md#^bazaar-merchants)`
+
 | dice: d10 | Merchant |
 |-----------|----------|
 | 1 | **Secondhand Strings**. A must-stop shop for the bard on a budget, with a variety of gently used instruments. |

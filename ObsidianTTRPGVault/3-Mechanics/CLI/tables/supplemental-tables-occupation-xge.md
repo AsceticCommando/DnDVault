@@ -12,6 +12,8 @@ aliases:
 
 **Occupation**
 
+`dice: [](supplemental-tables-occupation-xge.md#^occupation)`
+
 | dice: d100 | Occupation |
 |------------|------------|
 | 1-5 | Academic |

@@ -12,6 +12,8 @@ aliases:
 
 **Silver Dragon Personality Traits**
 
+`dice: [](creating-a-silver-dragon-silver-dragon-personality-traits-ftd.md#^silver-dragon-personality-traits)`
+
 | dice: d8 | Trait |
 |----------|-------|
 | 1 | People are so wonderfully varied, and I do so love experiencing life with them. |

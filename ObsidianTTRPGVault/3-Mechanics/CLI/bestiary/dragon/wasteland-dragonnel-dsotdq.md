@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Wasteland Dragonnel"
 ---
-# [Wasteland Dragonnel](3-Mechanics\CLI\bestiary\dragon/wasteland-dragonnel-dsotdq.md)
+# [Wasteland Dragonnel](3-Mechanics/CLI/bestiary/dragon/wasteland-dragonnel-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 201*  
 
 The Northern Wastes of Ansalon are home to wasteland dragonnels, draconic creatures closely related to copper dragons. Wasteland dragonnels are lithe and quick, with scales the color of dull copper. These playful creatures defend their territory by flying out of a foe's reach and spitting potent acid, in an approximation of their copper dragon relatives.
@@ -61,6 +61,6 @@ Dragonnels are distantly related to chromatic and metallic dragons and resemble 
     "name": "Acid Spit"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/wasteland-dragonnel-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Wasteland%20Dragonnel.webp"
 ```
 ^statblock

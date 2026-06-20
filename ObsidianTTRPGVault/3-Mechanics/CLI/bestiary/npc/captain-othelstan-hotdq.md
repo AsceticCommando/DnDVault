@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Captain Othelstan"
 ---
-# [Captain Othelstan](3-Mechanics\CLI\bestiary\npc/captain-othelstan-hotdq.md)
+# [Captain Othelstan](3-Mechanics/CLI/bestiary/npc/captain-othelstan-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 89, Tyranny of Dragons p. 181*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "human"
 "alignment": "Lawful Evil"
 "ac": !!int "19"
-"ac_class": "[splint armor](3-Mechanics/CLI/items/splint-armor.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[splint armor](3-Mechanics/CLI/items/splint-armor-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "93"
 "hit_dice": "11d10 + 33"
 "modifier": !!int "0"
@@ -47,8 +47,8 @@ aliases:
   - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+4"
 "gear":
-  - "[flail](3-Mechanics/CLI/items/flail.md)"
-  - "[spear](3-Mechanics/CLI/items/spear.md)"
+  - "[flail](3-Mechanics/CLI/items/flail-xphb.md)"
+  - "[spear](3-Mechanics/CLI/items/spear-xphb.md)"
 "senses": "passive Perception 15"
 "languages": "Common, Draconic, Giant"
 "cr": "5"
@@ -72,6 +72,6 @@ aliases:
 "source":
   - "HotDQ"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/npc/token/captain-othelstan-hotdq.webp"
+"image": "file://bestiary/tokens/HotDQ/Captain%20Othelstan.webp"
 ```
 ^statblock

@@ -12,6 +12,8 @@ aliases:
 
 **Orc Male Names**
 
+`dice: [](orc-names-orc-male-names-vgm.md#^orc-male-names)`
+
 | dice: d12 | Name |
 |-----------|------|
 | 1 | Grutok |

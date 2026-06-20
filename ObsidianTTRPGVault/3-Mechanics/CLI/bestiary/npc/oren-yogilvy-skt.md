@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Oren Yogilvy"
 ---
-# [Oren Yogilvy](3-Mechanics\CLI\bestiary\npc/oren-yogilvy-skt.md)
+# [Oren Yogilvy](3-Mechanics/CLI/bestiary/npc/oren-yogilvy-skt.md)
 *Source: Storm King's Thunder p. 252*  
 
 Oren came to Northfurrow's End looking for easy work and found it. He sings for his supper, drinks like a fish, and wanders the fields at night dreaming up new lyrics to entertain the inn's other guests. Oren likes to stir up trouble from time to time, but he doesn't have a mean bone in his body.
@@ -50,7 +50,7 @@ Flaw:"I have a knack for putting myself in harm's way. Good thing I'm lucky!"
     "desc": "+5"
 "damage_resistances": "poison"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Common, Halfling"
 "traits":
@@ -77,6 +77,6 @@ Flaw:"I have a knack for putting myself in harm's way. Good thing I'm lucky!"
     "name": "Dagger"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/oren-yogilvy-skt.webp"
+"image": "file://bestiary/tokens/SKT/Oren%20Yogilvy.webp"
 ```
 ^statblock

@@ -12,6 +12,8 @@ aliases:
 
 **Academy Type**
 
+`dice: [](academy-type-tce.md#^academy-type)`
+
 | dice: d6 | Academy Types |
 |----------|---------------|
 | 1 | **Boarding School**. Students and faculty enjoy a familial relationship on a self-contained campus. |

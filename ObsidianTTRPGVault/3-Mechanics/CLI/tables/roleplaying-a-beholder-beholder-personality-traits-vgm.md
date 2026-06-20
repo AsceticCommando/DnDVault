@@ -12,6 +12,8 @@ aliases:
 
 **Beholder Personality Traits**
 
+`dice: [](roleplaying-a-beholder-beholder-personality-traits-vgm.md#^beholder-personality-traits)`
+
 | dice: d8 | Personality Trait |
 |----------|-------------------|
 | 1 | I enjoy lording my superiority over others. |

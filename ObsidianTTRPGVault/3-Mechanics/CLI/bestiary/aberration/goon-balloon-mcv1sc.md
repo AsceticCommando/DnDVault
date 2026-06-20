@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Goon Balloon"
 ---
-# [Goon Balloon](3-Mechanics\CLI\bestiary\aberration/goon-balloon-mcv1sc.md)
+# [Goon Balloon](3-Mechanics/CLI/bestiary/aberration/goon-balloon-mcv1sc.md)
 *Source: Monstrous Compendium Volume 1: Spelljammer Creatures p. 9*  
 
 > [!quote] A quote from Final log entry of Arquebus Graves, giff first mate of the wasp ship Lightning Bolt  
@@ -82,6 +82,6 @@ Although they can seem playful and harmless, goon balloons are quite mean-spirit
     "name": "Float"
 "source":
   - "MCV1SC"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/goon-balloon-mcv1sc.webp"
+"image": "file://bestiary/tokens/MCV1SC/Goon%20Balloon.webp"
 ```
 ^statblock

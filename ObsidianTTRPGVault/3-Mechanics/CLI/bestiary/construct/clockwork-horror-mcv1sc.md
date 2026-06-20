@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Clockwork Horror"
 ---
-# [Clockwork Horror](3-Mechanics\CLI\bestiary\construct/clockwork-horror-mcv1sc.md)
+# [Clockwork Horror](3-Mechanics/CLI/bestiary/construct/clockwork-horror-mcv1sc.md)
 *Source: Monstrous Compendium Volume 1: Spelljammer Creatures p. 4*  
 
 Clockwork horrors are ruthless insectile automatons—eldritch machines encased in adamantine or some other precious metal. They roam Wildspace in commandeered spelljamming ships, gathering the precious metals and crystals they need to build more of their kind. Clockwork horrors have no goal beyond replication and will stop at nothing to create new clockwork horrors. The time it takes for a clockwork horror to build another of its kind, assuming it has the requisite materials, is approximately ten days.
@@ -59,7 +59,7 @@ When a clockwork horror dies, the magic that created it consumes it over a perio
 "languages": "Thri-kreen, Ziklight"
 "cr": "2"
 "traits":
-  - "desc": "If targeted by [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md),\
+  - "desc": "If targeted by [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
       \ the horror must succeed on a Constitution saving throw against the caster's\
       \ spell save DC or fall [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)\
       \ for 1 minute or until it takes any damage."
@@ -88,6 +88,6 @@ When a clockwork horror dies, the magic that created it consumes it over a perio
     "name": "Spelljamming Helm Interface"
 "source":
   - "MCV1SC"
-"image": "3-Mechanics/CLI/bestiary/construct/token/clockwork-horror-mcv1sc.webp"
+"image": "file://bestiary/tokens/MCV1SC/Clockwork%20Horror.webp"
 ```
 ^statblock

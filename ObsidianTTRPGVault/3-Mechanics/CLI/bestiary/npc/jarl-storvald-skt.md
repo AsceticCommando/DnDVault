@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Jarl Storvald"
 ---
-# [Jarl Storvald](3-Mechanics\CLI\bestiary\npc/jarl-storvald-skt.md)
+# [Jarl Storvald](3-Mechanics/CLI/bestiary/npc/jarl-storvald-skt.md)
 *Source: Storm King's Thunder p. 165*  
 
 Gigantic reavers from the freezing lands beyond civilization, frost giants are fierce, hardy warriors that survive on the spoils of their raids and pillaging.They respect only brute strength and skill in battle, demonstrating both with their scars and the grisly trophies they take from their enemies.
@@ -96,7 +96,7 @@ Some giants abandon their own gods and fall prey to demon cults, paying homage t
     "desc": "+6"
 "damage_immunities": "cold"
 "gear":
-  - "[greataxe](3-Mechanics/CLI/items/greataxe.md)"
+  - "[greataxe](3-Mechanics/CLI/items/greataxe-xphb.md)"
 "senses": "passive Perception 13"
 "languages": "Common, Giant, Giant Owl"
 "cr": "8"
@@ -117,13 +117,13 @@ Some giants abandon their own gods and fall prey to demon cults, paying homage t
       \ 28 (4d10 + 6) bludgeoning damage."
     "name": "Rock"
   - "desc": "Storvald casts one of the following spells, requiring no material components\
-      \ and using Wisdom as the spellcasting ability:\n\n**1/day each:** [jump](3-Mechanics/CLI/spells/jump.md),\
-      \ [locate animals or plants](3-Mechanics/CLI/spells/locate-animals-or-plants.md),\
-      \ [locate object](3-Mechanics/CLI/spells/locate-object.md), [water breathing](3-Mechanics/CLI/spells/water-breathing.md),\
-      \ [water walk](3-Mechanics/CLI/spells/water-walk.md)"
+      \ and using Wisdom as the spellcasting ability:\n\n**1/day each:** [jump](3-Mechanics/CLI/spells/jump-xphb.md),\
+      \ [locate animals or plants](3-Mechanics/CLI/spells/locate-animals-or-plants-xphb.md),\
+      \ [locate object](3-Mechanics/CLI/spells/locate-object-xphb.md), [water breathing](3-Mechanics/CLI/spells/water-breathing-xphb.md),\
+      \ [water walk](3-Mechanics/CLI/spells/water-walk-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/jarl-storvald-skt.webp"
+"image": "file://bestiary/tokens/SKT/Jarl%20Storvald.webp"
 ```
 ^statblock

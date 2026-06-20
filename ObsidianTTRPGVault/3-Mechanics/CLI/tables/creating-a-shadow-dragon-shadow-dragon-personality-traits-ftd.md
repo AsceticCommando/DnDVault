@@ -12,6 +12,8 @@ aliases:
 
 **Shadow Dragon Personality Traits**
 
+`dice: [](creating-a-shadow-dragon-shadow-dragon-personality-traits-ftd.md#^shadow-dragon-personality-traits)`
+
 | dice: d8 | Trait |
 |----------|-------|
 | 1 | I am a creature of endless consumption, always looking for the next thing to possess or devour. |

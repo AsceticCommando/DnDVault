@@ -13,6 +13,6 @@ aliases:
 ![Stagefright's Lines](3-Mechanics/CLI/tables/stagefrights-lines-wbtw.md)
 
 > [!gallery]
-> ![](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/140-8-10-001-stagefrights-lines.webp#gallery)
-> ![](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/140-9-10-002-stagefrights-lines.webp#gallery)
-> ![](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/140-10-10-003-stagefrights-lines.webp#gallery)
+> ![](file://adventure/WBtW/140-8-10-001.stagefrights-lines.webp#gallery)
+> ![](file://adventure/WBtW/140-9-10-002.stagefrights-lines.webp#gallery)
+> ![](file://adventure/WBtW/140-10-10-003.stagefrights-lines.webp#gallery)

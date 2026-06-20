@@ -12,6 +12,8 @@ aliases:
 
 **Human Names – Niger-Congo, Female**
 
+`dice: [](human-names-niger-congo-female-xge.md#^human-names-niger-congo-female)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Abebi |

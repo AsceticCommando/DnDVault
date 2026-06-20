@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Duergar Stone Guard"
 ---
-# [Duergar Stone Guard](3-Mechanics\CLI\bestiary\humanoid/duergar-stone-guard-mpmm.md)
+# [Duergar Stone Guard](3-Mechanics/CLI/bestiary/humanoid/duergar-stone-guard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 110, Mordenkainen's Tome of Foes p. 191*  
 
 Stone guards are elite troops deployed in small numbers to bolster war bands of regulars or organized into elite strike forces for specific missions.
@@ -46,7 +46,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "subtype": "dwarf"
 "alignment": "Any alignment"
 "ac": !!int "18"
-"ac_class": "[chain mail](3-Mechanics/CLI/items/chain-mail.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[chain mail](3-Mechanics/CLI/items/chain-mail-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "39"
 "hit_dice": "6d8 + 12"
 "modifier": !!int "0"
@@ -60,8 +60,8 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "speed": "25 ft."
 "damage_resistances": "poison"
 "gear":
-  - "[javelin](3-Mechanics/CLI/items/javelin.md)"
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[javelin](3-Mechanics/CLI/items/javelin-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
   \ Perception 10"
 "languages": "Dwarvish, Undercommon"
@@ -72,7 +72,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
       \ conditions."
     "name": "Duergar Resilience"
   - "desc": "The duergar has advantage on attack rolls and Dexterity saving throws\
-      \ while standing within 5 feet of an ally wielding a [shield](3-Mechanics/CLI/items/shield.md)."
+      \ while standing within 5 feet of an ally wielding a [shield](3-Mechanics/CLI/items/shield-xphb.md)."
     "name": "Phalanx Formation"
   - "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
       \ as on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks\
@@ -107,7 +107,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/duergar-stone-guard-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Duergar%20Stone%20Guard.webp"
 ```
 ^statblock
 

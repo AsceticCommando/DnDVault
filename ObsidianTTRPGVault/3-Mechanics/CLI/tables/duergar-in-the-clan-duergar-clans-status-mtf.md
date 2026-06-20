@@ -12,6 +12,8 @@ aliases:
 
 **Duergar Clan's Status**
 
+`dice: [](duergar-in-the-clan-duergar-clans-status-mtf.md#^duergar-clans-status)`
+
 | dice: d6 | Status |
 |----------|--------|
 | 1 | Mighty. Conquered several dwarven strongholds, dominates Underdark region |

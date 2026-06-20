@@ -12,6 +12,8 @@ aliases:
 
 **Silver Dragon Art Objects**
 
+`dice: [](silver-dragon-treasures-silver-dragon-art-objects-ftd.md#^silver-dragon-art-objects)`
+
 | dice: d10 | Object |
 |-----------|--------|
 | 1 | A group portrait of nobles set in a faded mahogany frame, one corner of which is etched with signatures |

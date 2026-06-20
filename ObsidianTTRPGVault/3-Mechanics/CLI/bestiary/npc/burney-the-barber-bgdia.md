@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Burney the Barber"
 ---
-# [Burney the Barber](3-Mechanics\CLI\bestiary\npc/burney-the-barber-bgdia.md)
+# [Burney the Barber](3-Mechanics/CLI/bestiary/npc/burney-the-barber-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 129*  
 
 ```statblock
@@ -53,24 +53,24 @@ aliases:
 "traits":
   - "desc": "If Burney fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
-  - "desc": "Burney has the benefits of the [healer](3-Mechanics/CLI/feats/healer.md)\
-      \ feat as well as proficiency with both the [healer's kit](3-Mechanics/CLI/items/healers-kit.md)\
-      \ and the [herbalism kit](3-Mechanics/CLI/items/herbalism-kit.md)."
+  - "desc": "Burney has the benefits of the [healer](3-Mechanics/CLI/feats/healer-xphb.md)\
+      \ feat as well as proficiency with both the [healer's kit](3-Mechanics/CLI/items/healers-kit-xphb.md)\
+      \ and the [herbalism kit](3-Mechanics/CLI/items/herbalism-kit-xphb.md)."
     "name": "Healer"
   - "desc": "Burney has received several blessings in her service to Bahamut:\n\n\
       - Unless Burney decided otherwise, once any creature less powerful than a deity\
       \ has taken three steps from her, they can no longer remember her or having\
       \ interacted with her specifically.  \n- Burney is under the effect of a permanent\
-      \ [mind blank](3-Mechanics/CLI/spells/mind-blank.md) spell, and cannot be detected\
-      \ by magical or mundane means unless she wishes it. In exchange for this blessing,\
-      \ Burney can take no direct action against the denizens of the Nine Hells, though\
-      \ she can certainly enlist the help of those who can.  \n- Burney always knows\
-      \ the location of the Wandering Emporium and can transport herself there as\
-      \ though by a [word of recall](3-Mechanics/CLI/spells/word-of-recall.md) spell.\
-      \ This explains why Burney simply seems to appear amid the fully deployed marketplace\
-      \ each morning it is active to provide service and tell stories.  \n- Once each\
-      \ day, when Burney so desires, she can instantly transport herself to the court\
-      \ of Bahamut via a powerful blessing akin to the [plane shift](3-Mechanics/CLI/spells/plane-shift.md)\
+      \ [mind blank](3-Mechanics/CLI/spells/mind-blank-xphb.md) spell, and cannot\
+      \ be detected by magical or mundane means unless she wishes it. In exchange\
+      \ for this blessing, Burney can take no direct action against the denizens of\
+      \ the Nine Hells, though she can certainly enlist the help of those who can.\
+      \  \n- Burney always knows the location of the Wandering Emporium and can transport\
+      \ herself there as though by a [word of recall](3-Mechanics/CLI/spells/word-of-recall-xphb.md)\
+      \ spell. This explains why Burney simply seems to appear amid the fully deployed\
+      \ marketplace each morning it is active to provide service and tell stories.\
+      \  \n- Once each day, when Burney so desires, she can instantly transport herself\
+      \ to the court of Bahamut via a powerful blessing akin to the [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md)\
       \ spell.  "
     "name": "Bahamut's Blessings"
 "actions":
@@ -131,6 +131,6 @@ aliases:
     "name": "Wing Attack (Costs 2 Actions)"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/burney-the-barber-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Burney%20the%20Barber.webp"
 ```
 ^statblock

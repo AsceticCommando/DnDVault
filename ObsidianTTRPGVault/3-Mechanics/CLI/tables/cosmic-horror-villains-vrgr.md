@@ -12,6 +12,8 @@ aliases:
 
 **Cosmic Horror Villains**
 
+`dice: [](cosmic-horror-villains-vrgr.md#^cosmic-horror-villains)`
+
 | dice: d8 | Villain |
 |----------|---------|
 | 1 | A smiling minstrel with yellow eyes and music that drives listeners to murder |

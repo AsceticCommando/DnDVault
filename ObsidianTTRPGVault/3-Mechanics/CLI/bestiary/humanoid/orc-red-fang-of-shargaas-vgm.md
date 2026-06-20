@@ -17,7 +17,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Orc Red Fang of Shargaas"
 ---
-# [Orc Red Fang of Shargaas](3-Mechanics\CLI\bestiary\humanoid/orc-red-fang-of-shargaas-vgm.md)
+# [Orc Red Fang of Shargaas](3-Mechanics/CLI/bestiary/humanoid/orc-red-fang-of-shargaas-vgm.md)
 *Source: Volo's Guide to Monsters p. 185*  
 
 Shargaas is the orc deity of deep darkness and sneakiness, a murderous god who hates anything that lives that isn't an orc. Orcs consider Shargaas to be a divinity suited to pariahs and weaklings, all of them unfit for true roles in tribal life. These outsiders live in the most remote, deepest parts of the tribe's domain.
@@ -44,7 +44,7 @@ In addition, orcs have special relationships with two creatures that are sometim
 "subtype": "orc"
 "alignment": "Chaotic Evil"
 "ac": !!int "15"
-"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor.md)"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
 "hp": !!int "52"
 "hit_dice": "8d8 + 16"
 "modifier": !!int "3"
@@ -64,8 +64,8 @@ In addition, orcs have special relationships with two creatures that are sometim
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
 "gear":
-  - "[dart](3-Mechanics/CLI/items/dart.md)"
-  - "[scimitar](3-Mechanics/CLI/items/scimitar.md)"
+  - "[dart](3-Mechanics/CLI/items/dart-xphb.md)"
+  - "[scimitar](3-Mechanics/CLI/items/scimitar-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 12"
 "languages": "Common, Orc"
@@ -94,12 +94,12 @@ In addition, orcs have special relationships with two creatures that are sometim
   - "desc": "*Ranged Weapon Attack:* +5 to hit, range 20/60 ft., one target. *Hit:*\
       \ 10 (3d4 + 3) piercing damage."
     "name": "Dart"
-  - "desc": "The orc casts [darkness](3-Mechanics/CLI/spells/darkness.md) without\
+  - "desc": "The orc casts [darkness](3-Mechanics/CLI/spells/darkness-xphb.md) without\
       \ any components. Wisdom is its spellcasting ability."
     "name": "Veil of Shargaas (Recharges after a Short or Long Rest)"
 "source":
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/orc-red-fang-of-shargaas-vgm.webp"
+"image": "file://bestiary/tokens/VGM/Orc%20Red%20Fang%20of%20Shargaas.webp"
 ```
 ^statblock
 

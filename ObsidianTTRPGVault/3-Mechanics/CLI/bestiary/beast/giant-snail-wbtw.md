@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Giant Snail"
 ---
-# [Giant Snail](3-Mechanics\CLI\bestiary\beast/giant-snail-wbtw.md)
+# [Giant Snail](3-Mechanics/CLI/bestiary/beast/giant-snail-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 234*  
 
 These large mollusks retreat into their hardy shells when threatened, and they're particularly susceptible to being injured by contact with salt.
@@ -55,6 +55,6 @@ These large mollusks retreat into their hardy shells when threatened, and they'r
     "name": "Shell Defense"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/beast/token/giant-snail-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Giant%20Snail.webp"
 ```
 ^statblock

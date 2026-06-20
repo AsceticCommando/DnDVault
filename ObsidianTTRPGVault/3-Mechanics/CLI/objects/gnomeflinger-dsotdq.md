@@ -19,7 +19,7 @@ While taking an action to aim the gnomeflinger, you set the maximum horizontal d
 
 ```ad-statblock
 title: Gnomeflinger
-![](3-Mechanics/CLI/objects/token/gnomeflinger-dsotdq.webp#token)
+![](file://objects/tokens/DSotDQ/Gnomeflinger.webp#token)
 *Large Siege weapon*
 
 - **Armor Class** 15

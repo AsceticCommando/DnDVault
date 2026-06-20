@@ -13,8 +13,8 @@ aliases:
 This section of the gazetteer provides a glimpse of the wonder and adventure found in the lands beyond Khorvaire's horizon. Use these entries to inspire adventures that take place in these distant lands, and to introduce trinkets or relics from foreign realms into Khorvaire.
 
 > [!gallery]
-> ![Map 2.2: Islands of Aerenal](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/082-map-aerenal-small.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/083-map-aerenal-large.webp#gallery)
+> ![Map 2.2: Islands of Aerenal](file://book/ERLW/082-map-aerenal-small.webp#gallery)
+> ![Player Version](file://book/ERLW/083-map-aerenal-large.webp#gallery)
 
 ## Aerenal
 
@@ -32,7 +32,7 @@ Necromancy is a pillar of Aereni society, distinct from the sinister power most 
 
 Aereni civilization is over twenty thousand years old. Secure in their island sanctuary, the elves watched nations of goblins and humans rise and fall. The Aereni possess secrets and powers the rest of Khorvaire has yet to discover, but they are more interested in perfecting their ancient traditions than in innovation and discovery. An Aereni wizard might spend a decade refining the pronunciation of a single spell's incantation. For now, humanity can't match the power of the elves. If that balance changes, will Aerenal take action?
 
-![Shae Mordai](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/084-2-14.webp#center)
+![Shae Mordai](file://book/ERLW/084-2-14.webp#center)
 
 ### Notable Locations
 
@@ -141,12 +141,12 @@ Khyber is an ever-present threat. Any deep passage could connect to a realm of f
 
 Cults of the Dragon Below often have ties to Khyber. Some serve aberrations or fight alongside dolgrims and dolgaunts (see "chapter 6"). Others can unintentionally threaten a community by releasing something from the underworld: an unnatural disease, a malevolent demon, or a strange and addictive drug. In dealing with such a cult, the question is not only how to stop their current machinations, but how to seal the passage or prevent it from posing an ongoing threat.
 
-Treasures from Khyber can take many forms. The daelkyr create living tools, including symbionts (see "chapter 5"), but any magic item could be presented as an organic creation: a living [cloak of the mountebank](3-Mechanics/CLI/items/cape-of-the-mountebank.md) that teleports its wearer through the plane of madness; a [dagger of venom](3-Mechanics/CLI/items/dagger-of-venom.md) made from chitin and muscle, similar to a scorpion's barb; a [crystal ball](3-Mechanics/CLI/items/crystal-ball.md) made by the daelkyr [Belashyrra](3-Mechanics/CLI/bestiary/npc/belashyrra-erlw.md) that looks like a giant eye, casting visions of distant places directly into the wielder's mind. Items recovered from fiendish demiplanes might be constructed from standard materials but have a sinister aspect or appearance, such as a [sword of life stealing](3-Mechanics/CLI/items/sword-of-life-stealing.md) from the Abyssal Forest of Khar made of jagged, blackened steel. Shadows trail the blade, and it issues a hungry moan any time it draws blood.
+Treasures from Khyber can take many forms. The daelkyr create living tools, including symbionts (see "chapter 5"), but any magic item could be presented as an organic creation: a living [cloak of the mountebank](3-Mechanics/CLI/items/cape-of-the-mountebank-xdmg.md) that teleports its wearer through the plane of madness; a [dagger of venom](3-Mechanics/CLI/items/dagger-of-venom-xdmg.md) made from chitin and muscle, similar to a scorpion's barb; a [crystal ball](3-Mechanics/CLI/items/crystal-ball-xdmg.md) made by the daelkyr [Belashyrra](3-Mechanics/CLI/bestiary/npc/belashyrra-erlw.md) that looks like a giant eye, casting visions of distant places directly into the wielder's mind. Items recovered from fiendish demiplanes might be constructed from standard materials but have a sinister aspect or appearance, such as a [sword of life stealing](3-Mechanics/CLI/items/sword-of-life-stealing-xdmg.md) from the Abyssal Forest of Khar made of jagged, blackened steel. Shadows trail the blade, and it issues a hungry moan any time it draws blood.
 
 > [!embed-item]- Khyber Trinket
 > ![Khyber Trinket](3-Mechanics/CLI/items/khyber-trinket-erlw.md)
 
-![Frostfell](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/085-2-15.webp#center)
+![Frostfell](file://book/ERLW/085-2-15.webp#center)
 
 ## North and South Poles
 
@@ -230,7 +230,7 @@ Although outsiders aren't welcome in Riedra, the empire is a powerful nation and
 
 Riedrans rarely appear on the streets of Khorvaire, but Inspired ambassadors attend every court. Although the Inspired present themselves as generous and kind, a darker force followed them across the sea. The Dreaming Dark is an enigmatic order of monks, assassins, warlocks, and mystics. Their ultimate agenda remains unknown, but they hunt the kalashtar and some believe they can control people by manipulating their dreams. While most people dismiss the Dreaming Dark as a foolish story, you might uncover the truth behind the tales.
 
-Both the Inspired of Riedra and the kalashtar of Adar possess psychic powers, and treasures from Sarlona reflect this. A set of Sarlonan [sending stones](3-Mechanics/CLI/items/sending-stones.md) might take the form of crystals that allow telepathic communication. The [rod of rulership](3-Mechanics/CLI/items/rod-of-rulership.md), [ring of mind shielding](3-Mechanics/CLI/items/ring-of-mind-shielding.md), [ring of telekinesis](3-Mechanics/CLI/items/ring-of-telekinesis.md), [potion of mind reading](3-Mechanics/CLI/items/potion-of-mind-reading.md), and the [medallion of thoughts](3-Mechanics/CLI/items/medallion-of-thoughts.md) could represent psychic items from Sarlona.
+Both the Inspired of Riedra and the kalashtar of Adar possess psychic powers, and treasures from Sarlona reflect this. A set of Sarlonan [sending stones](3-Mechanics/CLI/items/sending-stones-xdmg.md) might take the form of crystals that allow telepathic communication. The [rod of rulership](3-Mechanics/CLI/items/rod-of-rulership-xdmg.md), [ring of mind shielding](3-Mechanics/CLI/items/ring-of-mind-shielding-xdmg.md), [ring of telekinesis](3-Mechanics/CLI/items/ring-of-telekinesis-xdmg.md), [potion of mind reading](3-Mechanics/CLI/items/potion-of-mind-reading-xdmg.md), and the [medallion of thoughts](3-Mechanics/CLI/items/medallion-of-thoughts-xdmg.md) could represent psychic items from Sarlona.
 
 In addition to psychic treasures, Sarlona is a source of a number of exotic plants and medicines. Dreamlily (described in chapter 4) is a useful Sarlonan narcotic, but over the course of the past few decades it has become a common recreational drug.
 
@@ -240,8 +240,8 @@ In addition to psychic treasures, Sarlona is a source of a number of exotic plan
 ## Xen'drik
 
 > [!gallery]
-> ![Map 2.3: Continent of Xen'drik](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/086-map-xendrik-small.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/087-map-xendrik-large.webp#gallery)
+> ![Map 2.3: Continent of Xen'drik](file://book/ERLW/086-map-xendrik-small.webp#gallery)
+> ![Player Version](file://book/ERLW/087-map-xendrik-large.webp#gallery)
 
 In Xen'drik, you could...
 

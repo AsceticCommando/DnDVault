@@ -12,7 +12,7 @@ aliases:
 ---
 # Thassa
 *Source: Mythic Odysseys of Theros p. 79* 
-![](3-Mechanics/CLI/deities/img/mot-052-02-03-thassa.webp#symbol)
+![](file://deities/MOT/052-02-03-Thassa.webp#symbol)
 
 - **Alignment**: Neutral
 - **Domains**: Knowledge, Tempest
@@ -54,7 +54,7 @@ Among humans, Thassa is worshiped by those who rely on bountiful seas for susten
 
 Thassa's most fervent human worshipers offer prayers at high and low tide. If possible, they do so at the water's edge. At low tide they walk barefoot out onto the tidal flats, relishing the touch of Thassa's seabed.
 
-![](3-Mechanics/CLI/deities/img/mot-053-02-18.webp#center)
+![](file://deities/MOT/053-02-18.webp#center)
 
 > [!readaloud] Myths of Thassa
 > 
@@ -93,6 +93,8 @@ In much the same way that the sea and its secrets simply exist, Thassa trusts th
 
 **Thassa's Favor**
 
+`dice: [](theros-thassa-mot.md#^thassas-favor)`
+
 | dice: d6 | Circumstance |
 |----------|--------------|
 | 1 | You nearly drowned in a shipwreck, but Thassa answered your prayers for deliverance. |
@@ -108,6 +110,8 @@ In much the same way that the sea and its secrets simply exist, Thassa trusts th
 Following Thassa means devoting yourself to a particular way of perceiving the world. Thassa herself seldom takes a stand on moral issues, preferring to let matters play out, but her mortal champions can't usually afford to be so patient. As a follower of Thassa, consider the ideals on the Thassa's Ideals table as alternatives to those suggested for your background.
 
 **Thassa's Ideals**
+
+`dice: [](theros-thassa-mot.md#^thassas-ideals)`
 
 | dice: d6 | Ideal |
 |----------|-------|

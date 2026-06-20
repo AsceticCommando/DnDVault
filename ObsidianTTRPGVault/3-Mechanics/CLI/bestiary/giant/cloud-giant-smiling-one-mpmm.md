@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Cloud Giant Smiling One"
 ---
-# [Cloud Giant Smiling One](3-Mechanics\CLI\bestiary\giant/cloud-giant-smiling-one-mpmm.md)
+# [Cloud Giant Smiling One](3-Mechanics/CLI/bestiary/giant/cloud-giant-smiling-one-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 81, Volo's Guide to Monsters p. 146*  
 
 Smiling ones are cloud giants who honor and emulate the craftiness and deceit of the deity Memnor above all else. They are tricksters supreme who use sleight of hand, deception, misdirection, and magic in their pursuit of wealth. They also possess a flair for unpredictability and a wicked sense of humor. Smiling ones overstep all bounds of decorum with their behavior, doing and saying things that even other knavish folk consider beneath their dignity.
@@ -55,7 +55,7 @@ Smiling ones take their name from the strange two-faced masks they wear. The smi
 "languages": "Common, Giant"
 "cr": "11"
 "traits":
-  - "desc": "The giant can cast the [control weather](3-Mechanics/CLI/spells/control-weather.md)\
+  - "desc": "The giant can cast the [control weather](3-Mechanics/CLI/spells/control-weather-xphb.md)\
       \ spell, requiring no material components and using Charisma as the spellcasting\
       \ ability."
     "name": "Control Weather (8th-level Spell)"
@@ -75,12 +75,13 @@ Smiling ones take their name from the strange two-faced masks they wear. The smi
     "name": "Change Shape"
   - "desc": "The giant casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 15):\n\n**At\
-      \ will:** [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [fog cloud](3-Mechanics/CLI/spells/fog-cloud.md),\
-      \ [light](3-Mechanics/CLI/spells/light.md), [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md)\n\
-      \n**3/day each:** [invisibility](3-Mechanics/CLI/spells/invisibility.md), [silent\
-      \ image](3-Mechanics/CLI/spells/silent-image.md), [suggestion](3-Mechanics/CLI/spells/suggestion.md),\
-      \ [tongues](3-Mechanics/CLI/spells/tongues.md)\n\n**1/day each:** [gaseous form](3-Mechanics/CLI/spells/gaseous-form.md),\
-      \ [major image](3-Mechanics/CLI/spells/major-image.md)"
+      \ will:** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [fog\
+      \ cloud](3-Mechanics/CLI/spells/fog-cloud-xphb.md), [light](3-Mechanics/CLI/spells/light-xphb.md),\
+      \ [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\n**3/day\
+      \ each:** [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md), [silent\
+      \ image](3-Mechanics/CLI/spells/silent-image-xphb.md), [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md),\
+      \ [tongues](3-Mechanics/CLI/spells/tongues-xphb.md)\n\n**1/day each:** [gaseous\
+      \ form](3-Mechanics/CLI/spells/gaseous-form-xphb.md), [major image](3-Mechanics/CLI/spells/major-image-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The giant teleports, along with any equipment it is wearing or carrying,\
@@ -89,7 +90,7 @@ Smiling ones take their name from the strange two-faced masks they wear. The smi
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/giant/token/cloud-giant-smiling-one-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Cloud%20Giant%20Smiling%20One.webp"
 ```
 ^statblock
 

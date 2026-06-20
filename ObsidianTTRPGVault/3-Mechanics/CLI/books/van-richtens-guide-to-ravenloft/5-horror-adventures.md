@@ -12,7 +12,7 @@ aliases:
 
 Creating your own horror adventures is like crafting any other D&D adventure with one exception: your goal is to horrify your players in the most fun way possible. Frightening adventures benefit from an atmosphere of dread, conceived through a combination of terrifying narratives, dramatic presentation, and game elements encouraging fear. Drawing out the anxiety and anticipation of players requires deliberate consideration, though. The tools and techniques in this chapter provide ways to make sure your game is both spooky and safe in ways right for your specific group. A toolbox of horror-focused rules also provides options for what sort of grim adventures you might create. At the end of this chapter, a horror adventure puts these methods to use and leads characters on their first steps into the Domains of Dread.
 
-![During a séance, a spirit ...](3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/105-04-001-intro-splash.webp#center "During a séance, a spirit makes itself known to the Keepers of the Feather")
+![During a séance, a spirit makes itself known to the Keepers of the Feather](file://book/VRGR/105-04-001.intro-splash.webp#center)
 
 ## Preparing for Horror
 
@@ -210,7 +210,7 @@ A typical D&D session is longer than a typical horror movie, and it can be hard 
 
 Beyond impromptu checks, once during a session, after a scheduled break, check in with the group and consider asking the following questions:
 
-![](3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/106-04-002.webp#center)
+![](file://book/VRGR/106-04-002.webp#center)
 
 - What do your characters hope will happen?  
 - What do your characters worry might happen?  
@@ -256,7 +256,7 @@ Ravenloft has a tradition of adventures featuring setting-specific props and mem
 
 ### Tarokka Deck
 
-In both 1983's adventure *Ravenloft* and 2016's adventure Curse of Strahd, the plot changes in accordance with cards drawn from a tarokka deck. A tarokka deck contains fifty-four tarot-like, fortune-telling cards, each one bearing one of the following symbols:
+In both 1983's adventure *Ravenloft* and 2016's adventure Curse of Strahd, the plot changes in accordance with cards drawn from a [tarokka deck](3-Mechanics/CLI/decks/tarokka-deck-rhw.md). A tarokka deck contains fifty-four tarot-like, fortune-telling cards, each one bearing one of the following symbols:
 
 - **Crowns.** The portentous cards of the high deck are marked with crowns but are not themselves a suit. The figures on these fourteen cards represent distinct forces of fate, change, and despair.  
 - **Coins.** The ten cards of this suit symbolize avarice and the desire for personal gain.  
@@ -266,13 +266,13 @@ In both 1983's adventure *Ravenloft* and 2016's adventure Curse of Strahd, the p
 
 Tarokka decks allow you run encounters where fortune-tellers predict characters' fates. Once you're familiar with the cards and their meanings, you can interpret them in ways that tie in to the characters' pasts or events in your adventures. You can also use the results of tarokka readings to guide your campaign and make sure predictions come to pass.
 
-The tarokka hails from the same world as the domain of Barovia, but it and its users have since spread throughout the Domains of Dread. Further details and a complete tarokka deck appear in the adventure Curse of Strahd.
+The tarokka hails from the same world as the domain of Barovia, but it and its users have since spread throughout the Domains of Dread. Further details and a complete [tarokka deck](3-Mechanics/CLI/decks/tarokka-deck-rhw.md) appear in the adventure Curse of Strahd.
 
 ### Spirit Board
 
-![](3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/107-04-003.webp#center)
+![](file://book/VRGR/107-04-003.webp#center)
 
-Spirit boards are tools to contact and divine the will of spirits or other mysterious forces. Upon placing their fingertips on a planchette set atop the board, assembled users feel forces move the planchette toward letters and symbols, gradually revealing a cryptic message. The spirits boards common in the Land of the Mists were first created by members of the "Keepers of the Feather" (see "chapter 3"), and feature half-understood images from their occult studies and Barovian lore. These markings include symbols from the tarokka deck, which carry the same meanings as they do upon those cards. All manner of mysterious beings consider a spirit board's use an invitation to communicate with the living, resulting in messages shared from beyond the grave and frightful revelations.
+Spirit boards are tools to contact and divine the will of spirits or other mysterious forces. Upon placing their fingertips on a planchette set atop the board, assembled users feel forces move the planchette toward letters and symbols, gradually revealing a cryptic message. The spirits boards common in the Land of the Mists were first created by members of the "Keepers of the Feather" (see "chapter 3"), and feature half-understood images from their occult studies and Barovian lore. These markings include symbols from the [tarokka deck](3-Mechanics/CLI/decks/tarokka-deck-rhw.md), which carry the same meanings as they do upon those cards. All manner of mysterious beings consider a spirit board's use an invitation to communicate with the living, resulting in messages shared from beyond the grave and frightful revelations.
 
 This book's "appendix" provides a depiction of a spirit board to use in your adventures, while a planchette to be used with it appears here. The adventure "The House of Lament" later in this chapter features séances employing a spirit board. When making use of this game prop, you take the role of the forces guiding the planchette. Move the planchette subtly to reveal mysterious messages appropriate to your adventures.
 
@@ -296,13 +296,13 @@ Curses aren't something to throw around lightly. They should be dramatically app
 - Murdering or grievously harming an innocent  
 - Stealing a treasure that is meaningful to an entire culture  
 
-In cases where the curse arises from a creature, such as a dying villain's last breath, the pronouncement of the curse is clear. When there is no wronged party present to lay the curse directly, the curse should be obvious in some way, such as a warning of dire consequences carved into the wall of an ancient crypt or relayed by a spell such as [magic mouth](3-Mechanics/CLI/spells/magic-mouth.md).
+In cases where the curse arises from a creature, such as a dying villain's last breath, the pronouncement of the curse is clear. When there is no wronged party present to lay the curse directly, the curse should be obvious in some way, such as a warning of dire consequences carved into the wall of an ancient crypt or relayed by a spell such as [magic mouth](3-Mechanics/CLI/spells/magic-mouth-xphb.md).
 
 ### Components of a Curse
 
 Most curses have three distinct components: pronouncement, burden, and resolution. Whatever form these take, at least one of them, especially the burden or resolution, should have an ironic connection to the action that triggered the curse.
 
-![A dying priest of Ezra curses his murderer](3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/108-04-004-a-dying-priest-of-ezra.webp#center)
+![A dying priest of Ezra curses his murderer](file://book/VRGR/108-04-004.a-dying-priest-of-ezra.webp#center)
 
 #### Pronouncement
 
@@ -322,8 +322,8 @@ A curse's burden is the effect that causes hardship and suffering to the curse's
 - The victim has disadvantage on attack rolls, ability checks, saving throws, or some combination of the three. This can be tied to a single ability score or applied generally.  
 - The victim can't communicate using language, whether through speaking, sign language, writing, telepathy, or any other means.  
 - The victim gains 3 levels of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) that can't be removed while the curse endures.  
-- When the victim finishes a long rest, they must succeed on a DC 15 Constitution saving throw, or their hit point maximum is reduced by `1d10`. If this reduces their hit point maximum to 0, the victim dies, and their body crumbles to dust.  
-- When the victim takes damage, they take an extra `1d10` necrotic damage. This effect can't happen again until the start of the victim's next turn.  
+- When the victim finishes a long rest, they must succeed on a DC 15 Constitution saving throw, or their hit point maximum is reduced by `dice:1d10|noform|noparens|avg` (`1d10`). If this reduces their hit point maximum to 0, the victim dies, and their body crumbles to dust.  
+- When the victim takes damage, they take an extra `dice:1d10|noform|noparens|avg` (`1d10`) necrotic damage. This effect can't happen again until the start of the victim's next turn.  
 - The victim gains a Dark Gift (see "chapter 1") appropriate to the circumstances surrounding the curse.  
 - The victim gains vulnerability to one damage type.  
 - The victim's Strength, Dexterity, or Constitution score is reduced to 3, and the victim can't be raised from the dead while the curse lasts.  
@@ -333,11 +333,11 @@ A curse's burden is the effect that causes hardship and suffering to the curse's
 
 Sometimes a curse can be ended by making restitution to a wronged party (or their closest kin in the case of a death) or reparation if something was stolen or destroyed. The resolution might be declared as part of the pronouncement, or it may be left to those who suffer the curse to make amends on their own. Research and divination can offer clues or even reveal the exact steps needed to resolve the curse.
 
-While more general curses can lifted by a [remove curse](3-Mechanics/CLI/spells/remove-curse.md) spell, more specific or dramatic curses can't be permanently lifted through spells. Magic can offer temporary respite, though. A [remove curse](3-Mechanics/CLI/spells/remove-curse.md) spell cast on the victim of such a curse suppresses the burden for 1 hour. A [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md) spell suppresses the burden until the victim finishes a long rest. Death usually ends a curse, but the curse returns in full force if the cursed character returns to life without resolving the curse.
+While more general curses can lifted by a [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md) spell, more specific or dramatic curses can't be permanently lifted through spells. Magic can offer temporary respite, though. A [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md) spell cast on the victim of such a curse suppresses the burden for 1 hour. A [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md) spell suppresses the burden until the victim finishes a long rest. Death usually ends a curse, but the curse returns in full force if the cursed character returns to life without resolving the curse.
 
 ##### Persistent Curses
 
-When a curse is resolved, its effects usually end immediately. Some more insidious curses might linger beyond the resolution but can then be removed by a [remove curse](3-Mechanics/CLI/spells/remove-curse.md) spell or similar magic if the victim succeeds on a DC 15 Charisma saving throw when the spell is cast. If the save fails, it can be repeated after a specific interval passes, usually 1 month, with the curse ending on a successful save. Adjust the DC of a particularly weak curse to 10 or that of a stronger one to 20.
+When a curse is resolved, its effects usually end immediately. Some more insidious curses might linger beyond the resolution but can then be removed by a [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md) spell or similar magic if the victim succeeds on a DC 15 Charisma saving throw when the spell is cast. If the save fails, it can be repeated after a specific interval passes, usually 1 month, with the curse ending on a successful save. Adjust the DC of a particularly weak curse to 10 or that of a stronger one to 20.
 
 Here are some examples of curse resolutions:
 
@@ -362,7 +362,7 @@ Provided here are several example curses and the circumstances surrounding them.
 > [!embed-reward]- Innocent Blood
 > ![Innocent Blood](3-Mechanics/CLI/rewards/innocent-blood-vrgr.md)
 
-![In Har'Akir, an ancient cu...](3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/109-04-005-ancient-curse.webp#center "In Har'Akir, an ancient curse awakens the Children of Ankhtepot")
+![In Har'Akir, an ancient curse awakens the Children of Ankhtepot](file://book/VRGR/109-04-005.ancient-curse.webp#center)
 
 ## Fear and Stress
 

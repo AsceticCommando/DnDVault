@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Doric"
 ---
-# [Doric](3-Mechanics\CLI\bestiary\npc/doric-hat-tg.md)
+# [Doric](3-Mechanics/CLI/bestiary/npc/doric-hat-tg.md)
 *Source: Honor Among Thieves: Thieves' Gallery*  
 
 The tiefling Doric was taken in by a wood elf enclave in Neverwinter Wood after being abandoned as a child, and she guards her adoptive community with nature's ferocity. The Circle of the Moon has taught her to heed her primal instincts, which rarely lead her astray. She can be brusque, but she will fight tooth and nail for a cause she believes in.
@@ -26,7 +26,7 @@ Doric has joined the Emerald Enclave, a network of survivalists who tend to the 
 "subtype": "druid"
 "alignment": "Neutral Good"
 "ac": !!int "14"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "104"
 "hit_dice": "16d8 + 32"
 "modifier": !!int "3"
@@ -52,7 +52,7 @@ Doric has joined the Emerald Enclave, a network of survivalists who tend to the 
     "desc": "+7"
 "damage_resistances": "fire"
 "gear":
-  - "[sling](3-Mechanics/CLI/items/sling.md)"
+  - "[sling](3-Mechanics/CLI/items/sling-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 17"
 "languages": "Common, Druidic, Elvish, Infernal, Sylvan"
@@ -68,10 +68,11 @@ Doric has joined the Emerald Enclave, a network of survivalists who tend to the 
       \ 8 (2d4 + 3) bludgeoning damage."
     "name": "Sling"
   - "desc": "Doric casts one of the following spells, using Wisdom as the spellcasting\
-      \ ability (spell save DC 15):\n\n**At will:** [animal messenger](3-Mechanics/CLI/spells/animal-messenger.md),\
-      \ [beast sense](3-Mechanics/CLI/spells/beast-sense.md), [speak with animals](3-Mechanics/CLI/spells/speak-with-animals.md)\n\
-      \n**2/day each:** [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md), [entangle](3-Mechanics/CLI/spells/entangle.md),\
-      \ [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md), [thunderwave](3-Mechanics/CLI/spells/thunderwave.md)"
+      \ ability (spell save DC 15):\n\n**At will:** [animal messenger](3-Mechanics/CLI/spells/animal-messenger-xphb.md),\
+      \ [beast sense](3-Mechanics/CLI/spells/beast-sense-xphb.md), [speak with animals](3-Mechanics/CLI/spells/speak-with-animals-xphb.md)\n\
+      \n**2/day each:** [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md),\
+      \ [entangle](3-Mechanics/CLI/spells/entangle-xphb.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md),\
+      \ [thunderwave](3-Mechanics/CLI/spells/thunderwave-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "Doric magically transforms into a Beast with a challenge rating of 3\
@@ -92,6 +93,6 @@ Doric has joined the Emerald Enclave, a network of survivalists who tend to the 
     "name": "Fiery Rebuke (3/Day)"
 "source":
   - "HAT-TG"
-"image": "3-Mechanics/CLI/bestiary/npc/token/doric-hat-tg.webp"
+"image": "file://bestiary/tokens/HAT-TG/Doric.webp"
 ```
 ^statblock

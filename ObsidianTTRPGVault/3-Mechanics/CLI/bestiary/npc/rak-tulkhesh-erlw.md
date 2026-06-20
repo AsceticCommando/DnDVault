@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Rak Tulkhesh"
 ---
-# [Rak Tulkhesh](3-Mechanics\CLI\bestiary\npc/rak-tulkhesh-erlw.md)
+# [Rak Tulkhesh](3-Mechanics/CLI/bestiary/npc/rak-tulkhesh-erlw.md)
 *Source: Eberron: Rising from the Last War p. 303*  
 
 Called the Rage of War, Rak Tulkhesh is the incarnation of impulses that drives many mortals to battle. Fear, greed, hatred—these are seeds that the Rage of War sows in the hopes of producing a bloody harvest.
@@ -81,10 +81,11 @@ Some thirty overlords are bound in Khyber. Two are described here: Rak Tulkhesh 
 "traits":
   - "desc": "Rak Tulkhesh's spellcasting ability is Charisma (spell save DC 24). He\
       \ can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md),\
-      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), [spirit guardians](3-Mechanics/CLI/spells/spirit-guardians.md)\n\
-      \n**1/day each:** [banishing smite](3-Mechanics/CLI/spells/banishing-smite.md),\
-      \ [blinding smite](3-Mechanics/CLI/spells/blinding-smite.md), [staggering smite](3-Mechanics/CLI/spells/staggering-smite.md)"
+      \n**At will:** [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [spirit guardians](3-Mechanics/CLI/spells/spirit-guardians-xphb.md)\n\
+      \n**1/day each:** [banishing smite](3-Mechanics/CLI/spells/banishing-smite-xphb.md),\
+      \ [blinding smite](3-Mechanics/CLI/spells/blinding-smite-xphb.md), [staggering\
+      \ smite](3-Mechanics/CLI/spells/staggering-smite-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "Rak Tulkhesh scores a critical hit on a roll of 19 or 20 and rolls the\
       \ damage dice three times, instead of twice."
@@ -123,7 +124,7 @@ Some thirty overlords are bound in Khyber. Two are described here: Rak Tulkhesh 
 "legendary_actions":
   - "desc": "Rak Tulkhesh makes one weapon attack."
     "name": "Attack"
-  - "desc": "Rak Tulkhesh casts [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md)."
+  - "desc": "Rak Tulkhesh casts [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md)."
     "name": "End Magic (Costs 2 Actions)"
   - "desc": "Each creature within 60 feet of Rak Tulkhesh must succeed on a DC 24\
       \ Wisdom saving throw or use its reaction to make a melee weapon attack against\
@@ -134,6 +135,6 @@ Some thirty overlords are bound in Khyber. Two are described here: Rak Tulkhesh 
     "name": "Provoke Rage (Costs 3 Actions)"
 "source":
   - "ERLW"
-"image": "3-Mechanics/CLI/bestiary/npc/token/rak-tulkhesh-erlw.webp"
+"image": "file://bestiary/tokens/ERLW/Rak%20Tulkhesh.webp"
 ```
 ^statblock

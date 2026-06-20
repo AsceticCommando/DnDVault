@@ -12,8 +12,8 @@ aliases:
 - "Steel"
 ---
 # Steel
-*Weapon ([longsword](3-Mechanics/CLI/items/longsword.md)), very rare (requires attunement by a good-aligned creature)*  
-![](3-Mechanics/CLI/items/img/steel.webp#right)
+*Weapon ([longsword](3-Mechanics/CLI/items/longsword-xphb.md)), very rare (requires attunement by a good-aligned creature)*  
+![](file://items/WBtW/Steel.webp#right)
 
 - **Damage**:
   - One-handed: 1d8 slashing
@@ -25,7 +25,7 @@ You have a +2 bonus to attack and damage rolls made with this magic weapon.
 
 ## Revivify
 
-You can use an action to cast the [revivify](3-Mechanics/CLI/spells/revivify.md) spell from the sword. You must touch the target with the sword to cast the spell. Once this property of the weapon is used, it can't be used again until the next dawn.
+You can use an action to cast the [revivify](3-Mechanics/CLI/spells/revivify-xphb.md) spell from the sword. You must touch the target with the sword to cast the spell. Once this property of the weapon is used, it can't be used again until the next dawn.
 
 ## Sentience
 

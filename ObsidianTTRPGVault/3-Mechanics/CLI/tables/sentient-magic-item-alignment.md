@@ -12,6 +12,8 @@ aliases:
 
 **Sentient Magic Item Alignment**
 
+`dice: [](sentient-magic-item-alignment.md#^sentient-magic-item-alignment)`
+
 | dice: d100 | Alignment |
 |------------|-----------|
 | 01-15 | Lawful good |

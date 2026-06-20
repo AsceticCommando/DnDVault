@@ -10,7 +10,7 @@ aliases:
 ---
 # Firbolg
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 15*  
-![](3-Mechanics/CLI/races/img/firbolg.webp#right)
+![](file://races/MPMM/Firbolg.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Size**: Medium
@@ -21,7 +21,7 @@ aliases:
 
 ### Firbolg Magic
 
-You can cast [detect magic](3-Mechanics/CLI/spells/detect-magic.md) and [disguise self](3-Mechanics/CLI/spells/disguise-self.md) spells with this trait. When you use this version of [disguise self](3-Mechanics/CLI/spells/disguise-self.md), you can seem up to 3 feet shorter or taller. Once you cast either of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using any spell slots you have.
+You can cast [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) and [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md) spells with this trait. When you use this version of [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md), you can seem up to 3 feet shorter or taller. Once you cast either of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using any spell slots you have.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
 

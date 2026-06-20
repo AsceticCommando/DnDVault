@@ -12,6 +12,8 @@ aliases:
 
 **Gnome Bonds**
 
+`dice: [](gnome-tables-gnome-bonds-mtf.md#^gnome-bonds)`
+
 | dice: d6 | Bond |
 |----------|------|
 | 1 | You pledge to bring something of immense value back to your burrow. |

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Augrek Brighthelm"
 ---
-# [Augrek Brighthelm](3-Mechanics\CLI\bestiary\npc/augrek-brighthelm-skt.md)
+# [Augrek Brighthelm](3-Mechanics/CLI/bestiary/npc/augrek-brighthelm-skt.md)
 *Source: Storm King's Thunder p. 247*  
 
 Sheriff's deputy Augrek guards the southwest gate of Bryn Shander and welcomes visitors to town. She has a good heart.
@@ -30,7 +30,7 @@ Flaw:"I'm head over heels in love with Sheriff Southwell. One day I hope to marr
 "subtype": "Shield dwarf"
 "alignment": "Lawful Good"
 "ac": !!int "15"
-"ac_class": "[chain shirt](3-Mechanics/CLI/items/chain-shirt.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[chain shirt](3-Mechanics/CLI/items/chain-shirt-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "13"
 "hit_dice": "2d8 + 4"
 "modifier": !!int "0"
@@ -49,8 +49,8 @@ Flaw:"I'm head over heels in love with Sheriff Southwell. One day I hope to marr
     "desc": "+2"
 "damage_resistances": "poison"
 "gear":
-  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow.md)"
-  - "[warhammer](3-Mechanics/CLI/items/warhammer.md)"
+  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow-xphb.md)"
+  - "[warhammer](3-Mechanics/CLI/items/warhammer-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 12"
 "languages": "Common, Dwarvish"
@@ -73,6 +73,6 @@ Flaw:"I'm head over heels in love with Sheriff Southwell. One day I hope to marr
     "name": "Heavy Crossbow"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/augrek-brighthelm-skt.webp"
+"image": "file://bestiary/tokens/SKT/Augrek%20Brighthelm.webp"
 ```
 ^statblock

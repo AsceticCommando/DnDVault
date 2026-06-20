@@ -18,7 +18,7 @@ The Scavenger handles like a small bus and is used to sift through battlefield d
 
 ```ad-statblock
 title: Scavenger
-![](3-Mechanics/CLI/vehicles/token/scavenger-bgdia.webp#token)
+![](file://vehicles/tokens/BGDIA/Scavenger.webp#token)
 *Huge vehicle (4 tons 1000 lb.); land*
 
 - **Cargo Capacity** 2 tons

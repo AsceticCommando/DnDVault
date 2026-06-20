@@ -10,7 +10,7 @@ aliases:
 ---
 # Lizardfolk
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 26*  
-![](3-Mechanics/CLI/races/img/lizardfolk.webp#right)
+![](file://races/MPMM/Lizardfolk.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Size**: Medium
@@ -24,7 +24,7 @@ Your walking speed is 30 feet, and you have a swimming speed equal to your walki
 
 ### Bite
 
-You have a fanged maw that you can use to make unarmed strikes. When you hit with it, the strike deals `1d6` + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike.
+You have a fanged maw that you can use to make unarmed strikes. When you hit with it, the strike deals `dice:1d6|noform|noparens|avg` (`1d6`) + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike.
 
 ### Hold Breath
 

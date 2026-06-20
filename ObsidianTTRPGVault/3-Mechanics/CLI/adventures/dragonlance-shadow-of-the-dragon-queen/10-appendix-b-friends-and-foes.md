@@ -47,28 +47,30 @@ Red Dragon Army forces threaten the characters and the lands surrounding Kalaman
 
 **Dragon Army Encounters**
 
+`dice: [](10-appendix-b-friends-and-foes.md#^dragon-army-encounters)`
+
 | dice: d100 | Encounter |
 |------------|-----------|
-| 1–5 | `1d6` [Dragon Army soldiers](3-Mechanics/CLI/bestiary/humanoid/dragon-army-soldier-dsotdq.md)* |
-| 6–11 | `1d6` [baaz draconians](3-Mechanics/CLI/bestiary/monstrosity/baaz-draconian-dsotdq.md)* |
+| 1–5 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [Dragon Army soldiers](3-Mechanics/CLI/bestiary/humanoid/dragon-army-soldier-dsotdq.md)* |
+| 6–11 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [baaz draconians](3-Mechanics/CLI/bestiary/monstrosity/baaz-draconian-dsotdq.md)* |
 | 12–16 | 1 [Dragon Army dragonnel](3-Mechanics/CLI/bestiary/dragon/dragon-army-dragonnel-dsotdq.md)* and 1 [Dragon Army officer](3-Mechanics/CLI/bestiary/humanoid/dragon-army-officer-dsotdq.md)* |
-| 17–20 | `1d6` [Dragon Army soldiers](3-Mechanics/CLI/bestiary/humanoid/dragon-army-soldier-dsotdq.md)* battling `2d4` [kender skirmishers](3-Mechanics/CLI/bestiary/humanoid/kender-skirmisher-dsotdq.md)* |
-| 21–26 | `2d6` [hobgoblins](3-Mechanics/CLI/bestiary/humanoid/hobgoblin.md) and their fewmaster (commander), 1 [hobgoblin captain](3-Mechanics/CLI/bestiary/humanoid/hobgoblin-captain.md) |
-| 27–32 | `1d6` [Dragon Army soldiers](3-Mechanics/CLI/bestiary/humanoid/dragon-army-soldier-dsotdq.md)* and 1 [Dragon Army officer](3-Mechanics/CLI/bestiary/humanoid/dragon-army-officer-dsotdq.md)* |
-| 33–38 | `1d4` [baaz draconians](3-Mechanics/CLI/bestiary/monstrosity/baaz-draconian-dsotdq.md)* and 1 [bozak draconian](3-Mechanics/CLI/bestiary/monstrosity/bozak-draconian-dsotdq.md)* |
-| 39–45 | `2d4` [Dragon Army soldiers](3-Mechanics/CLI/bestiary/humanoid/dragon-army-soldier-dsotdq.md)* battling `2d6` [Kalaman soldiers](3-Mechanics/CLI/bestiary/humanoid/kalaman-soldier-dsotdq.md)* |
-| 46–50 | `1d6` [baaz draconians](3-Mechanics/CLI/bestiary/monstrosity/baaz-draconian-dsotdq.md)* and 1 [Dragon Army officer](3-Mechanics/CLI/bestiary/humanoid/dragon-army-officer-dsotdq.md)* |
-| 51–55 | `2d4` [Dragon Army soldiers](3-Mechanics/CLI/bestiary/humanoid/dragon-army-soldier-dsotdq.md)* with `2d4` [mastiffs](3-Mechanics/CLI/bestiary/beast/mastiff.md) hunting an escaped prisoner |
-| 56–60 | `1d6` [kapak draconians](3-Mechanics/CLI/bestiary/monstrosity/kapak-draconian-dsotdq.md)* disguised as travelers |
-| 61–65 | 1 [priest](3-Mechanics/CLI/bestiary/humanoid/priest.md) of Takhisis seeking to convert a group of `2d6` [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner.md) to the Dragon Queen's worship |
-| 66–71 | `1d4` flying [sivak draconians](3-Mechanics/CLI/bestiary/monstrosity/sivak-draconian-dsotdq.md)* |
-| 72–76 | `1d4` [sivak draconians](3-Mechanics/CLI/bestiary/monstrosity/sivak-draconian-dsotdq.md)* using their Shape Theft reaction to take the form of kender travelers |
-| 77–80 | 1 [aurak draconian](3-Mechanics/CLI/bestiary/monstrosity/aurak-draconian-dsotdq.md)* and `1d6` [Dragon Army soldiers](3-Mechanics/CLI/bestiary/humanoid/dragon-army-soldier-dsotdq.md)* |
-| 81–84 | `1d4` [skeletal knights](3-Mechanics/CLI/bestiary/undead/skeletal-knight-dsotdq.md)* on [warhorses](3-Mechanics/CLI/bestiary/beast/warhorse.md) |
-| 85–89 | 1 [aurak draconian](3-Mechanics/CLI/bestiary/monstrosity/aurak-draconian-dsotdq.md)* using [disguise self](3-Mechanics/CLI/spells/disguise-self.md) to look like the captive of 2 [sivak draconians](3-Mechanics/CLI/bestiary/monstrosity/sivak-draconian-dsotdq.md)* |
-| 90–93 | `1d6` [sivak draconians](3-Mechanics/CLI/bestiary/monstrosity/sivak-draconian-dsotdq.md)* transporting a captive, a [priest](3-Mechanics/CLI/bestiary/humanoid/priest.md) of a non-evil god |
-| 94–99 | `1d6` [skeletal knights](3-Mechanics/CLI/bestiary/undead/skeletal-knight-dsotdq.md)* led by [Caradoc](3-Mechanics/CLI/bestiary/npc/caradoc-dsotdq.md),* who's using his Possession action to control a [noble](3-Mechanics/CLI/bestiary/humanoid/noble.md) |
-| 00 | 1 [Dragon Army officer](3-Mechanics/CLI/bestiary/humanoid/dragon-army-officer-dsotdq.md)* and 1 [young red dragon](3-Mechanics/CLI/bestiary/dragon/young-red-dragon.md) |
+| 17–20 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [Dragon Army soldiers](3-Mechanics/CLI/bestiary/humanoid/dragon-army-soldier-dsotdq.md)* battling `dice:2d4\|noform\|noparens\|avg` (`2d4`) [kender skirmishers](3-Mechanics/CLI/bestiary/humanoid/kender-skirmisher-dsotdq.md)* |
+| 21–26 | `dice:2d6\|noform\|noparens\|avg` (`2d6`) [hobgoblins](3-Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md) and their fewmaster (commander), 1 [hobgoblin captain](3-Mechanics/CLI/bestiary/fey/hobgoblin-captain-xmm.md) |
+| 27–32 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [Dragon Army soldiers](3-Mechanics/CLI/bestiary/humanoid/dragon-army-soldier-dsotdq.md)* and 1 [Dragon Army officer](3-Mechanics/CLI/bestiary/humanoid/dragon-army-officer-dsotdq.md)* |
+| 33–38 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [baaz draconians](3-Mechanics/CLI/bestiary/monstrosity/baaz-draconian-dsotdq.md)* and 1 [bozak draconian](3-Mechanics/CLI/bestiary/monstrosity/bozak-draconian-dsotdq.md)* |
+| 39–45 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [Dragon Army soldiers](3-Mechanics/CLI/bestiary/humanoid/dragon-army-soldier-dsotdq.md)* battling `dice:2d6\|noform\|noparens\|avg` (`2d6`) [Kalaman soldiers](3-Mechanics/CLI/bestiary/humanoid/kalaman-soldier-dsotdq.md)* |
+| 46–50 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [baaz draconians](3-Mechanics/CLI/bestiary/monstrosity/baaz-draconian-dsotdq.md)* and 1 [Dragon Army officer](3-Mechanics/CLI/bestiary/humanoid/dragon-army-officer-dsotdq.md)* |
+| 51–55 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [Dragon Army soldiers](3-Mechanics/CLI/bestiary/humanoid/dragon-army-soldier-dsotdq.md)* with `dice:2d4\|noform\|noparens\|avg` (`2d4`) [mastiffs](3-Mechanics/CLI/bestiary/beast/mastiff-xmm.md) hunting an escaped prisoner |
+| 56–60 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [kapak draconians](3-Mechanics/CLI/bestiary/monstrosity/kapak-draconian-dsotdq.md)* disguised as travelers |
+| 61–65 | 1 [priest](3-Mechanics/CLI/bestiary/humanoid/priest-xmm.md) of Takhisis seeking to convert a group of `dice:2d6\|noform\|noparens\|avg` (`2d6`) [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) to the Dragon Queen's worship |
+| 66–71 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) flying [sivak draconians](3-Mechanics/CLI/bestiary/monstrosity/sivak-draconian-dsotdq.md)* |
+| 72–76 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [sivak draconians](3-Mechanics/CLI/bestiary/monstrosity/sivak-draconian-dsotdq.md)* using their Shape Theft reaction to take the form of kender travelers |
+| 77–80 | 1 [aurak draconian](3-Mechanics/CLI/bestiary/monstrosity/aurak-draconian-dsotdq.md)* and `dice:1d6\|noform\|noparens\|avg` (`1d6`) [Dragon Army soldiers](3-Mechanics/CLI/bestiary/humanoid/dragon-army-soldier-dsotdq.md)* |
+| 81–84 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [skeletal knights](3-Mechanics/CLI/bestiary/undead/skeletal-knight-dsotdq.md)* on [warhorses](3-Mechanics/CLI/bestiary/beast/warhorse-xmm.md) |
+| 85–89 | 1 [aurak draconian](3-Mechanics/CLI/bestiary/monstrosity/aurak-draconian-dsotdq.md)* using [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md) to look like the captive of 2 [sivak draconians](3-Mechanics/CLI/bestiary/monstrosity/sivak-draconian-dsotdq.md)* |
+| 90–93 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [sivak draconians](3-Mechanics/CLI/bestiary/monstrosity/sivak-draconian-dsotdq.md)* transporting a captive, a [priest](3-Mechanics/CLI/bestiary/humanoid/priest-xmm.md) of a non-evil god |
+| 94–99 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [skeletal knights](3-Mechanics/CLI/bestiary/undead/skeletal-knight-dsotdq.md)* led by [Caradoc](3-Mechanics/CLI/bestiary/npc/caradoc-dsotdq.md),* who's using his Possession action to control a [noble](3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md) |
+| 00 | 1 [Dragon Army officer](3-Mechanics/CLI/bestiary/humanoid/dragon-army-officer-dsotdq.md)* and 1 [young red dragon](3-Mechanics/CLI/bestiary/dragon/young-red-dragon-xmm.md) |
 ^dragon-army-encounters
 
 ## Creatures
@@ -78,7 +80,7 @@ Red Dragon Army forces threaten the characters and the lands surrounding Kalaman
 - [Baaz Draconian](3-Mechanics/CLI/bestiary/monstrosity/baaz-draconian-dsotdq.md)  
 - [Bozak Draconian](3-Mechanics/CLI/bestiary/monstrosity/bozak-draconian-dsotdq.md)  
 - [Caradoc](3-Mechanics/CLI/bestiary/npc/caradoc-dsotdq.md)  
-- [Death Knight](3-Mechanics/CLI/bestiary/undead/death-knight.md)  
+- [Death Knight](3-Mechanics/CLI/bestiary/undead/death-knight-xmm.md)  
 - [Dragon Army Dragonnel](3-Mechanics/CLI/bestiary/dragon/dragon-army-dragonnel-dsotdq.md)  
 - [Dragon Army Officer](3-Mechanics/CLI/bestiary/humanoid/dragon-army-officer-dsotdq.md)  
 - [Dragon Army Soldier](3-Mechanics/CLI/bestiary/humanoid/dragon-army-soldier-dsotdq.md)  

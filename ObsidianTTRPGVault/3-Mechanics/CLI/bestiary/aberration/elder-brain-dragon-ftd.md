@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Elder Brain Dragon"
 ---
-# [Elder Brain Dragon](3-Mechanics\CLI\bestiary\aberration/elder-brain-dragon-ftd.md)
+# [Elder Brain Dragon](3-Mechanics/CLI/bestiary/aberration/elder-brain-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 194*  
 
 One of the few consolations available to those who must contend with a mind flayer colony is the limit of its reach, which spreads only as far as the influence of the colony's elder brain. But this small solace withers away when a colony manages to capture a dragon. Teams of mind flayers bind the dragon, which is subject to a gruesome transformation as the elder brain latches onto the dragon's back and digs its tentacles into the dragon's brain. An elder brain dragon is the nightmarish result.
@@ -90,8 +90,8 @@ Using the mobility of the dragon's body, the elder brain can now serve as a powe
       \nIf a Humanoid is reduced to 0 hit points while infested, the creature is stable\
       \ but remains [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)\
       \ for 6d12 hours. When the period of unconsciousness ends, the creature transforms\
-      \ into a [mind flayer](3-Mechanics/CLI/bestiary/aberration/mind-flayer.md) (see\
-      \ the Monster Manual) with all its hit points. Casting a [wish](3-Mechanics/CLI/spells/wish.md)\
+      \ into a [mind flayer](3-Mechanics/CLI/bestiary/aberration/mind-flayer-xmm.md)\
+      \ (see the Monster Manual) with all its hit points. Casting a [wish](3-Mechanics/CLI/spells/wish-xphb.md)\
       \ spell on the [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)\
       \ creature rids it of the infestation and prevents it from turning into a mind\
       \ flayer."
@@ -108,6 +108,6 @@ Using the mobility of the dragon's body, the elder brain can now serve as a powe
     "name": "Shatter Concentration (Costs 2 Actions)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/elder-brain-dragon-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Elder%20Brain%20Dragon.webp"
 ```
 ^statblock

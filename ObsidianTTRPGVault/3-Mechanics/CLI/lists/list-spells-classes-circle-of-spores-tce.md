@@ -11,24 +11,24 @@ aliases:
 
 ## Cantrip
 
-- [Chill Touch](3-Mechanics/CLI/spells/chill-touch.md "PHB") at class level 5
+- [Chill Touch](3-Mechanics/CLI/spells/chill-touch-xphb.md "XPHB") as cantrip, at class level 2
 
 ## 2nd Level
 
-- [Blindness/Deafness](3-Mechanics/CLI/spells/blindness-deafness.md "PHB") at class level 5
-- [Gentle Repose](3-Mechanics/CLI/spells/gentle-repose.md "PHB") at class level 5
+- [Blindness/Deafness](3-Mechanics/CLI/spells/blindness-deafness-xphb.md "XPHB") at class level 3
+- [Gentle Repose](3-Mechanics/CLI/spells/gentle-repose-xphb.md "XPHB") at class level 3
 
 ## 3rd Level
 
-- [Animate Dead](3-Mechanics/CLI/spells/animate-dead.md "PHB") at class level 5
-- [Gaseous Form](3-Mechanics/CLI/spells/gaseous-form.md "PHB") at class level 5
+- [Animate Dead](3-Mechanics/CLI/spells/animate-dead-xphb.md "XPHB") at class level 5
+- [Gaseous Form](3-Mechanics/CLI/spells/gaseous-form-xphb.md "XPHB") at class level 5
 
 ## 4th Level
 
-- [Blight](3-Mechanics/CLI/spells/blight.md "PHB") at class level 5
-- [Confusion](3-Mechanics/CLI/spells/confusion.md "PHB") at class level 5
+- [Blight](3-Mechanics/CLI/spells/blight-xphb.md "XPHB") at class level 7
+- [Confusion](3-Mechanics/CLI/spells/confusion-xphb.md "XPHB") at class level 7
 
 ## 5th Level
 
-- [Cloudkill](3-Mechanics/CLI/spells/cloudkill.md "PHB") at class level 5
-- [Contagion](3-Mechanics/CLI/spells/contagion.md "PHB") at class level 5
+- [Cloudkill](3-Mechanics/CLI/spells/cloudkill-xphb.md "XPHB") at class level 9
+- [Contagion](3-Mechanics/CLI/spells/contagion-xphb.md "XPHB") at class level 9

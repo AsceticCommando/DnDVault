@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Winged Bull"
 ---
-# [Winged Bull](3-Mechanics\CLI\bestiary\celestial/winged-bull-mot.md)
+# [Winged Bull](3-Mechanics/CLI/bestiary/celestial/winged-bull-mot.md)
 *Source: Mythic Odysseys of Theros p. 214*  
 
 Archons always ride into battle on fearsome winged mounts. Some legends suggest that the mount is actually a physical manifestation of the archon's will, allowing the pair to act with a single mind. The two most common archon mounts are winged bulls and winged lions.
@@ -48,6 +48,6 @@ Archons always ride into battle on fearsome winged mounts. Some legends suggest 
     "name": "Gore"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/celestial/token/winged-bull-mot.webp"
+"image": "file://bestiary/tokens/MOT/Winged%20Bull.webp"
 ```
 ^statblock

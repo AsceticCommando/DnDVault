@@ -30,7 +30,7 @@ The experience point cost to gain a level is always based on your total characte
 
 You gain the hit points from your new class as described for levels after 1st. You gain the 1st-level hit points for a class only when you are a 1st-level character.
 
-You add together the Hit Dice granted by all your classes to form your pool of Hit Dice. if the Hit Dice are the same die type, you can simply pool them together. For example, both the fighter and the paladin have a `d10`, so if you are a paladin 5/fighter 5, you have ten `d10` Hit Dice. If your classes give you Hit Dice of different types, keep track of them separately. If you are a paladin 5/cleric 5, for example, you have five `d10` Hit Dice and five `d8` Hit Dice.
+You add together the Hit Dice granted by all your classes to form your pool of Hit Dice. if the Hit Dice are the same die type, you can simply pool them together. For example, both the fighter and the paladin have a `dice:d10|noform|noparens|avg` (`d10`), so if you are a paladin 5/fighter 5, you have ten `dice:d10|noform|noparens|avg` (`d10`) Hit Dice. If your classes give you Hit Dice of different types, keep track of them separately. If you are a paladin 5/cleric 5, for example, you have five `dice:d10|noform|noparens|avg` (`d10`) Hit Dice and five `dice:d8|noform|noparens|avg` (`d8`) Hit Dice.
 
 ## Proficiency Bonus
 
@@ -72,7 +72,7 @@ Each spell you know and prepare is associated with one of your classes, and you 
 
 You determine your available spell slots by adding together all your levels in the bard, cleric, druid, sorcerer, and wizard classes, half your levels (rounded down) in the paladin and ranger classes, and a third of your fighter or rogue levels (rounded down) if you have the Eldritch Knight or the Arcane Trickster feature. Use this total to determine your spell slots by consulting the Multiclass Spellcaster table.
 
-If you have more than one spellcasting class, this table might give you spell slots of a level that is higher than the spells you know or can prepare. You can use those slots, but only to cast your lower-level spells. If a lower-level spell that you cast, like [burning hands](3-Mechanics/CLI/spells/burning-hands.md), has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don't have any spells of that higher level.
+If you have more than one spellcasting class, this table might give you spell slots of a level that is higher than the spells you know or can prepare. You can use those slots, but only to cast your lower-level spells. If a lower-level spell that you cast, like [burning hands](3-Mechanics/CLI/spells/burning-hands-xphb.md), has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don't have any spells of that higher level.
 
 For example, if you are the aforementioned ranger 4/wizard 3. you count as a 5th-level character when determining your spell slots: you have four 1st-level slots, three 2nd-level slots, and two 3rd-level slots. However, you don't know any 3rd-level spells, nor do you know any 2nd-level ranger spells. You can use the spell slots of those levels to cast the spells you do know—and potentially enhance their effects.
 

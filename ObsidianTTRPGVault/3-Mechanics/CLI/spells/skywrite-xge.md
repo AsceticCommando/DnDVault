@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/spell/class/artificer
-- ttrpg-cli/spell/class/bard/magical-secrets
+- ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/druid
 - ttrpg-cli/spell/class/wizard
 - ttrpg-cli/spell/feat/adept-of-the-red-robes
@@ -13,10 +13,12 @@ tags:
 - ttrpg-cli/spell/ritual
 - ttrpg-cli/spell/school/transmutation
 - ttrpg-cli/spell/subclass/arcane-trickster
+- ttrpg-cli/spell/subclass/college-of-lore
 - ttrpg-cli/spell/subclass/eldritch-knight
 classes:
 - Artificer
-- Bard (Magical Secrets)
+- Bard
+- Bard (College of Lore)
 - Druid
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
@@ -35,6 +37,6 @@ aliases:
 
 You cause up to ten words to form in a part of the sky you can see. The words appear to be made of cloud and remain in place for the spell's duration. The words dissipate when the spell ends. A strong wind can disperse the clouds and end the spell early.
 
-**Classes**: [Artificer](3-Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Artificer](3-Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Xanathar's Guide to Everything p. 165*
+*Source: Xanathar's Guide to Everything p. 165, Elemental Evil Player's Companion p. 22*

@@ -12,6 +12,8 @@ aliases:
 
 **Framing Events**
 
+`dice: [](framing-events.md#^framing-events)`
+
 | dice: d100 | Event |
 |------------|-------|
 | 01-02 | Anniversary of a monarch's reign |

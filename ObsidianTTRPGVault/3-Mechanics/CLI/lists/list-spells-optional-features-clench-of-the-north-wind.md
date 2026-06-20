@@ -11,4 +11,4 @@ aliases:
 
 ## 2nd Level
 
-- [Hold Person](3-Mechanics/CLI/spells/hold-person.md "PHB")
+- [Hold Person](3-Mechanics/CLI/spells/hold-person-xphb.md "XPHB")

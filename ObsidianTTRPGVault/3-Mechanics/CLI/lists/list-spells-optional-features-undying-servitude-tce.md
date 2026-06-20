@@ -11,4 +11,4 @@ aliases:
 
 ## 3rd Level
 
-- [Animate Dead](3-Mechanics/CLI/spells/animate-dead.md "PHB")
+- [Animate Dead](3-Mechanics/CLI/spells/animate-dead-xphb.md "XPHB")

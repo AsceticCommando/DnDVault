@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Babau"
 ---
-# [Babau](3-Mechanics\CLI\bestiary\fiend/babau-mpmm.md)
+# [Babau](3-Mechanics/CLI/bestiary/fiend/babau-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 52, Volo's Guide to Monsters p. 136*  
 
 > [!quote] A quote from Mordenkainen  
@@ -72,14 +72,14 @@ A babau demon has the cunning of a devil and the bloodthirstiness of a demon. It
     "name": "Weakening Gaze"
   - "desc": "The babau casts one of the following spells, requiring no material components\
       \ and using Wisdom as the spellcasting ability (spell save DC 11):\n\n**At will:**\
-      \ [darkness](3-Mechanics/CLI/spells/darkness.md), [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md),\
-      \ [fear](3-Mechanics/CLI/spells/fear.md), [heat metal](3-Mechanics/CLI/spells/heat-metal.md),\
-      \ [levitate](3-Mechanics/CLI/spells/levitate.md)"
+      \ [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
+      \ [fear](3-Mechanics/CLI/spells/fear-xphb.md), [heat metal](3-Mechanics/CLI/spells/heat-metal-xphb.md),\
+      \ [levitate](3-Mechanics/CLI/spells/levitate-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/babau-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Babau.webp"
 ```
 ^statblock
 

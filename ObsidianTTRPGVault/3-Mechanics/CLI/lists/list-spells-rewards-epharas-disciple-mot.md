@@ -11,4 +11,4 @@ aliases:
 
 ## 4th Level
 
-- [Mordenkainen's Private Sanctum](3-Mechanics/CLI/spells/mordenkainens-private-sanctum.md "PHB")
+- [Mordenkainen's Private Sanctum](3-Mechanics/CLI/spells/mordenkainens-private-sanctum-xphb.md "XPHB")

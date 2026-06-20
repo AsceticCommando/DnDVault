@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Draconian Foot Soldier"
 ---
-# [Draconian Foot Soldier](3-Mechanics\CLI\bestiary\monstrosity/draconian-foot-soldier-ftd.md)
+# [Draconian Foot Soldier](3-Mechanics/CLI/bestiary/monstrosity/draconian-foot-soldier-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 178*  
 
 The most numerous draconians are the foot soldiers, who are born from brass, white, or crystal dragon eggs. They are the smallest of their kind, and their slight wings are incapable of flight—though they do afford the draconians some control when falling. These wings are small enough to be hidden beneath a cloak or robe, so foot soldiers sometimes disguise themselves to get close to enemies before springing an ambush. When draconian foot soldiers die, they unleash clouds of petrifying gas, turning their corpses—and any creatures within the clouds—to stone.
@@ -44,7 +44,7 @@ When draconians die, they do not go quietly. Instead, their lifeless bodies unle
   - !!int "10"
 "speed": "30 ft."
 "gear":
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 9"
 "languages": "Common, Draconic"
@@ -69,6 +69,6 @@ When draconians die, they do not go quietly. Instead, their lifeless bodies unle
     "name": "Shortsword"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/draconian-foot-soldier-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Draconian%20Foot%20Soldier.webp"
 ```
 ^statblock

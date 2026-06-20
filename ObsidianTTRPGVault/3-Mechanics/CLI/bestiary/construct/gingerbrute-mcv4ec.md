@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Gingerbrute"
 ---
-# [Gingerbrute](3-Mechanics\CLI\bestiary\construct/gingerbrute-mcv4ec.md)
+# [Gingerbrute](3-Mechanics/CLI/bestiary/construct/gingerbrute-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 Gingerbread cookies baked in the wilds of Eldraine—or made from ingredients grown there—have a habit of developing a life of their own. Known as gingerbrutes, these cookie Constructs are notoriously difficult to pin down.
@@ -75,6 +75,6 @@ The same magic that animates a gingerbrute also makes it extra scrumptious. Thos
     "name": "Gumdrop Slingshot"
 "source":
   - "MCV4EC"
-"image": "3-Mechanics/CLI/bestiary/construct/token/gingerbrute-mcv4ec.webp"
+"image": "file://bestiary/tokens/MCV4EC/Gingerbrute.webp"
 ```
 ^statblock

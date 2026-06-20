@@ -12,6 +12,8 @@ aliases:
 
 **Military Quests**
 
+`dice: [](military-quests-tce.md#^military-quests)`
+
 | dice: d6 | Quest |
 |----------|-------|
 | 1 | **Strike Force**. You undertake a quick, strategic, and devastating attack against an enemy force. |

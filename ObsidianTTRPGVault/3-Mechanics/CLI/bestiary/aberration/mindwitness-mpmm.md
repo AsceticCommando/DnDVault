@@ -13,14 +13,14 @@ statblock-link: "#^statblock"
 aliases:
 - "Mindwitness"
 ---
-# [Mindwitness](3-Mechanics\CLI\bestiary\aberration/mindwitness-mpmm.md)
+# [Mindwitness](3-Mechanics/CLI/bestiary/aberration/mindwitness-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 181, Volo's Guide to Monsters p. 176*  
 
 If a beholder is [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned) and brought to the brine pool of an elder brain, the beholder can be converted into a mindwitness. This alters some of its eye rays and transforms four of its eyestalks into tentacles similar to a mind flayer's. The mindwitness is psychically imprinted with devotion to the elder brain and submission to illithid commands.
 
 A mindwitness's primary function is to improve telepathic communication in a mind flayer colony. A creature in telepathic communication with a mindwitness can converse through it to as many as seven other creatures the mindwitness can see, rapidly disseminating commands and other information.
 
-If separated from its illithid masters, a mindwitness seeks out other telepathic creatures to tell it what to do. Mindwitnesses have been known to ally with [flumphs](3-Mechanics/CLI/bestiary/aberration/flumph.md) and planar beings such as demons, shifting their worldview and alignment to match those of their new masters.
+If separated from its illithid masters, a mindwitness seeks out other telepathic creatures to tell it what to do. Mindwitnesses have been known to ally with [flumphs](3-Mechanics/CLI/bestiary/aberration/flumph-xmm.md) and planar beings such as demons, shifting their worldview and alignment to match those of their new masters.
 
 ```statblock
 "name": "Mindwitness (MPMM)"
@@ -102,7 +102,7 @@ If separated from its illithid masters, a mindwitness seeks out other telepathic
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/mindwitness-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Mindwitness.webp"
 ```
 ^statblock
 

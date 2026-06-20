@@ -12,6 +12,8 @@ aliases:
 
 **Sovereign Contact**
 
+`dice: [](sovereign-contact-tce.md#^sovereign-contact)`
+
 | dice: d6 | Contact |
 |----------|---------|
 | 1 | **Intimate Confidant**. The sovereign's friend or lover seeks to aid their companion in any way possible. |

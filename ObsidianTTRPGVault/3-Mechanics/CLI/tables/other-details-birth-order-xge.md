@@ -12,6 +12,8 @@ aliases:
 
 **Birth Order**
 
+`dice: [](other-details-birth-order-xge.md#^birth-order)`
+
 | dice: 2d6 | Birth Order |
 |-----------|-------------|
 | 2 | Twin, triplet, or quadruplet |

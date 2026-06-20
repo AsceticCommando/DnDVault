@@ -18,7 +18,7 @@ Wizards of the Coast has published other D&D adventures that can serve as spring
 
 ### Lionshield Delivery
 
-Linene Graywind, who runs the trading post in Phandalin on behalf of a mercantile company, the Lionshield Coster, has a colleague, Alaestra Ulgar, who lives in Triboar with her business partner, [Narth Tezrin](3-Mechanics/CLI/bestiary/npc/narth-tezrin-skt.md). Linene has written a letter to her friend, describing recent tribulations in Phandalin, and asks the characters to deliver it. In a note attached to the letter, Linene asks Alaestra to reward her messengers with an old gray bag stitched with animal designs. This item is a [gray bag of tricks](3-Mechanics/CLI/items/bag-of-tricks-gray.md).
+Linene Graywind, who runs the trading post in Phandalin on behalf of a mercantile company, the Lionshield Coster, has a colleague, Alaestra Ulgar, who lives in Triboar with her business partner, [Narth Tezrin](3-Mechanics/CLI/bestiary/npc/narth-tezrin-skt.md). Linene has written a letter to her friend, describing recent tribulations in Phandalin, and asks the characters to deliver it. In a note attached to the letter, Linene asks Alaestra to reward her messengers with an old gray bag stitched with animal designs. This item is a [gray bag of tricks](3-Mechanics/CLI/items/bag-of-tricks-gray-xdmg.md).
 
 ### A Demanding Letter
 

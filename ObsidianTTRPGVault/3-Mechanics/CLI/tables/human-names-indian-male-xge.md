@@ -12,6 +12,8 @@ aliases:
 
 **Human Names – Indian, Male**
 
+`dice: [](human-names-indian-male-xge.md#^human-names-indian-male)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Abhay |

@@ -12,6 +12,8 @@ aliases:
 
 **Drow Adventurer Story Hooks**
 
+`dice: [](elf-tables-drow-adventurer-story-hooks-mtf.md#^drow-adventurer-story-hooks)`
+
 | dice: d8 | Hook |
 |----------|------|
 | 1 | You overheard members of your own house plotting to poison you, so you fled from the Underdark to save yourself. You won't return until you've amassed enough fortune to surround yourself with loyal mercenary bodyguards. |

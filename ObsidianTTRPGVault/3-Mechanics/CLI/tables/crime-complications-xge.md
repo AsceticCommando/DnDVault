@@ -12,6 +12,8 @@ aliases:
 
 **Crime Complications**
 
+`dice: [](crime-complications-xge.md#^crime-complications)`
+
 | dice: d8 | Complication |
 |----------|--------------|
 | 1 | A bounty equal to your earnings is offered for information about your crime.* |

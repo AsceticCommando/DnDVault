@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Dolgaunt"
 ---
-# [Dolgaunt](3-Mechanics\CLI\bestiary\aberration/dolgaunt-erlw.md)
+# [Dolgaunt](3-Mechanics/CLI/bestiary/aberration/dolgaunt-erlw.md)
 *Source: Eberron: Rising from the Last War p. 290*  
 
 Dolgaunts are emaciated hobgoblins with disease-hued flesh. Their eye sockets gape open and empty above a mouth with a wormlike tongue. Writhing cilia cover their bodies, with longer tendrils around their heads and two wiry tentacles protruding from their bare shoulders. A dolgaunt is blind but can perceive its surroundings through the sensitive cilia that cover its skin. It can also absorb life through its tentacles, allowing it to drain the vitality out of any creature it touches.
@@ -82,6 +82,6 @@ When the daelkyr were defeated, the dolgaunts descended into the depths of Khybe
     "name": "Vitality Drain"
 "source":
   - "ERLW"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/dolgaunt-erlw.webp"
+"image": "file://bestiary/tokens/ERLW/Dolgaunt.webp"
 ```
 ^statblock

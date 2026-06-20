@@ -12,14 +12,14 @@ statblock-link: "#^statblock"
 aliases:
 - "Narzugon"
 ---
-# [Narzugon](3-Mechanics\CLI\bestiary\fiend/narzugon-mpmm.md)
+# [Narzugon](3-Mechanics/CLI/bestiary/fiend/narzugon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 190, Mordenkainen's Tome of Foes p. 167*  
 
 Paladins who make deals with devils and carry their twisted sense of honor into the afterlife are especially valuable to the archdukes of the Nine Hells. These narzugons act as horrific perversions of knights errant, carrying out their masters' will.
 
-Narzugons wield hell-forged lances that shunt the souls of any they killed to the River Styx for rebirth as [lemures](3-Mechanics/CLI/bestiary/fiend/lemure.md). Every lance bears the marks of both a narzugon and its master.
+Narzugons wield hell-forged lances that shunt the souls of any they killed to the River Styx for rebirth as [lemures](3-Mechanics/CLI/bestiary/fiend/lemure-xmm.md). Every lance bears the marks of both a narzugon and its master.
 
-Each narzugon claims a [nightmare](3-Mechanics/CLI/bestiary/fiend/nightmare.md) as its mount. These steeds are bound by [infernal tack](3-Mechanics/CLI/items/infernal-tack-mtf.md) and must respond to the summons and commands of the spurs' wearer.
+Each narzugon claims a [nightmare](3-Mechanics/CLI/bestiary/fiend/nightmare-xmm.md) as its mount. These steeds are bound by [infernal tack](3-Mechanics/CLI/items/infernal-tack-mtf.md) and must respond to the summons and commands of the spurs' wearer.
 
 ```statblock
 "name": "Narzugon (MPMM)"
@@ -28,7 +28,7 @@ Each narzugon claims a [nightmare](3-Mechanics/CLI/bestiary/fiend/nightmare.md) 
 "subtype": "devil"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "20"
-"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "112"
 "hit_dice": "15d8 + 45"
 "modifier": !!int "0"
@@ -58,7 +58,7 @@ Each narzugon claims a [nightmare](3-Mechanics/CLI/bestiary/fiend/nightmare.md) 
 "cr": "13"
 "traits":
   - "desc": "The narzugon wears spurs that are part of [infernal tack](3-Mechanics/CLI/items/infernal-tack-mtf.md),\
-      \ which allow it to summon its [nightmare](3-Mechanics/CLI/bestiary/fiend/nightmare.md)\
+      \ which allow it to summon its [nightmare](3-Mechanics/CLI/bestiary/fiend/nightmare-xmm.md)\
       \ companion as an action."
     "name": "Infernal Tack"
   - "desc": "The narzugon has advantage on saving throws against spells and other\
@@ -70,11 +70,11 @@ Each narzugon claims a [nightmare](3-Mechanics/CLI/bestiary/fiend/nightmare.md) 
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 11\
       \ (1d12 + 5) piercing damage plus 16 (3d10) fire damage. If this damage kills\
-      \ a creature with a soul, the soul rises from the River Styx as a [lemure](3-Mechanics/CLI/bestiary/fiend/lemure.md)\
+      \ a creature with a soul, the soul rises from the River Styx as a [lemure](3-Mechanics/CLI/bestiary/fiend/lemure-xmm.md)\
       \ in Avernus in 1d4 hours. If the creature isn't revived before then, only a\
-      \ [wish](3-Mechanics/CLI/spells/wish.md) spell or killing the lemure and casting\
-      \ true resurrection on the creature's original body can restore it to life.\
-      \ Constructs and devils are immune to this effect."
+      \ [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell or killing the lemure and\
+      \ casting true resurrection on the creature's original body can restore it to\
+      \ life. Constructs and devils are immune to this effect."
     "name": "Hellfire Lance"
   - "desc": "Each ally of the narzugon within 60 feet of it can't be [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
       \ or [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) until the\
@@ -92,6 +92,6 @@ Each narzugon claims a [nightmare](3-Mechanics/CLI/bestiary/fiend/nightmare.md) 
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/narzugon-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Narzugon.webp"
 ```
 ^statblock

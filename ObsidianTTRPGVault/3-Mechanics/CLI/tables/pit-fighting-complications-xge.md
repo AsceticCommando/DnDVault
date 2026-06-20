@@ -12,6 +12,8 @@ aliases:
 
 **Pit Fighting Complications**
 
+`dice: [](pit-fighting-complications-xge.md#^pit-fighting-complications)`
+
 | dice: d6 | Complication |
 |----------|--------------|
 | 1 | An opponent swears to take revenge on you.* |

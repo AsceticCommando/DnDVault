@@ -11,5 +11,5 @@ aliases:
 
 ## 2nd Level
 
-- [Enlarge/Reduce](3-Mechanics/CLI/spells/enlarge-reduce.md "PHB") at class level 3
-- [Invisibility](3-Mechanics/CLI/spells/invisibility.md "PHB") at class level 3
+- [Enlarge/Reduce](3-Mechanics/CLI/spells/enlarge-reduce-xphb.md "XPHB") at class level 3
+- [Invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md "XPHB") at class level 5

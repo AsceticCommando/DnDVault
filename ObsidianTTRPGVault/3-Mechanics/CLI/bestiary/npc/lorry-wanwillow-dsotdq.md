@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Lorry Wanwillow"
 ---
-# [Lorry Wanwillow](3-Mechanics\CLI\bestiary\npc/lorry-wanwillow-dsotdq.md)
+# [Lorry Wanwillow](3-Mechanics/CLI/bestiary/npc/lorry-wanwillow-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 177*  
 
 ```statblock
@@ -77,8 +77,8 @@ aliases:
     "name": "Misty Escape"
   - "desc": "Lorry regains 20 hit points at the start of its turn if it has at least\
       \ 1 hit point and isn't in sunlight or running water. If Lorry takes radiant\
-      \ damage or damage from holy water, this trait doesn't function at the start\
-      \ of Lorry's next turn."
+      \ damage or damage from [holy water](3-Mechanics/CLI/items/holy-water-xphb.md),\
+      \ this trait doesn't function at the start of Lorry's next turn."
     "name": "Regeneration"
   - "desc": "Lorry can climb difficult surfaces, including upside down on ceilings,\
       \ without needing to make an ability check."
@@ -109,7 +109,7 @@ aliases:
       \ and Lorry regains hit points equal to that amount. The reduction lasts until\
       \ the target finishes a long rest. The target dies if this effect reduces its\
       \ hit point maximum to 0. A humanoid slain in this way and then buried in the\
-      \ ground rises the following night as a [vampire spawn](3-Mechanics/CLI/bestiary/undead/vampire-spawn.md)\
+      \ ground rises the following night as a [vampire spawn](3-Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md)\
       \ under Lorry's control."
     "name": "Bite (Bat or Vampire Form Only)"
   - "desc": "Lorry targets one humanoid it can see within 30 feet of it. If the target\
@@ -124,9 +124,9 @@ aliases:
       \ the effect lasts 24 hours or until Lorry is destroyed, is on a different plane\
       \ of existence than the target, or takes a bonus action to end the effect."
     "name": "Charm"
-  - "desc": "Lorry magically calls 2d4 swarms of [bats](3-Mechanics/CLI/bestiary/beast/swarm-of-bats.md)\
-      \ or [rats](3-Mechanics/CLI/bestiary/beast/swarm-of-rats.md), provided that\
-      \ the sun isn't up. While outdoors, Lorry can call 3d6 [wolves](3-Mechanics/CLI/bestiary/beast/wolf.md)\
+  - "desc": "Lorry magically calls 2d4 swarms of [bats](3-Mechanics/CLI/bestiary/beast/swarm-of-bats-xmm.md)\
+      \ or [rats](3-Mechanics/CLI/bestiary/beast/swarm-of-rats-xmm.md), provided that\
+      \ the sun isn't up. While outdoors, Lorry can call 3d6 [wolves](3-Mechanics/CLI/bestiary/beast/wolf-xmm.md)\
       \ instead. The called creatures arrive in 1d4 rounds, acting as allies of Lorry\
       \ and obeying its spoken commands. The beasts remain for 1 hour, until Lorry\
       \ dies, or until Lorry dismisses them as a bonus action."
@@ -143,6 +143,6 @@ aliases:
     "name": "Bite (Costs 2 Actions)"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/npc/token/lorry-wanwillow-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Lorry%20Wanwillow.webp"
 ```
 ^statblock

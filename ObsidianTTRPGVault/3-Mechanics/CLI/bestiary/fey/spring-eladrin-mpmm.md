@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Spring Eladrin"
 ---
-# [Spring Eladrin](3-Mechanics\CLI\bestiary\fey/spring-eladrin-mpmm.md)
+# [Spring Eladrin](3-Mechanics/CLI/bestiary/fey/spring-eladrin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 116, Mordenkainen's Tome of Foes p. 196*  
 
 Their hearts filled with joy, spring eladrin cavort through their sylvan realms, their songs and laughter filling the air. These playful eladrin beguile other creatures to fill them with the joy of spring. Their antics can lead other creatures into danger and make mischief for them.
@@ -63,8 +63,8 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
     "desc": "+8"
 "damage_resistances": "psychic"
 "gear":
-  - "[longbow](3-Mechanics/CLI/items/longbow.md)"
-  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
+  - "[longbow](3-Mechanics/CLI/items/longbow-xphb.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 10"
 "languages": "Common, Elvish, Sylvan"
@@ -94,8 +94,9 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
     "name": "Longbow"
   - "desc": "The eladrin casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 16):\n\
-      \n**At will:** [Tasha's hideous laughter](3-Mechanics/CLI/spells/tashas-hideous-laughter.md)\n\
-      \n**1/day each:** [major image](3-Mechanics/CLI/spells/major-image.md), [suggestion](3-Mechanics/CLI/spells/suggestion.md)"
+      \n**At will:** [Tasha's hideous laughter](3-Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md)\n\
+      \n**1/day each:** [major image](3-Mechanics/CLI/spells/major-image-xphb.md),\
+      \ [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The eladrin teleports, along with any equipment it is wearing or carrying,\
@@ -104,7 +105,7 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/fey/token/spring-eladrin-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Spring%20Eladrin.webp"
 ```
 ^statblock
 

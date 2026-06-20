@@ -13,8 +13,8 @@ statblock-link: "#^statblock"
 aliases:
 - "Rothé"
 ---
-# [Rothé](3-Mechanics\CLI\bestiary\beast/rothe-vgm.md)
-*Source: Volo's Guide to Monsters p. 208*  
+# [Rothé](3-Mechanics/CLI/bestiary/beast/rothe-vgm.md)
+*Source: Volo's Guide to Monsters p. 208, Chains of Asmodeus p. 48*  
 
 Ordinary rothé resemble musk oxen and have [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 30 feet.
 
@@ -50,7 +50,8 @@ Ordinary rothé resemble musk oxen and have [darkvision](3-Mechanics/CLI/rules/s
     "name": "Gore"
 "source":
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/beast/token/rothe-vgm.webp"
+  - "CoA"
+"image": "file://bestiary/tokens/VGM/Rothe.webp"
 ```
 ^statblock
 

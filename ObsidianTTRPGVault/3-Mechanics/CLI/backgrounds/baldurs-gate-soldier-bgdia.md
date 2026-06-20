@@ -14,7 +14,7 @@ aliases:
 
 - **Skill Proficiencies.** [Athletics](3-Mechanics/CLI/rules/skills.md#Athletics), [Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)  
 - **Tool Proficiencies.** One type of gaming set, vehicles (land)  
-- **Equipment.** An insignia of rank, a trophy taken from a fallen enemy (a [dagger](3-Mechanics/CLI/items/dagger.md), broken blade, or piece of a banner), a bone [dice set](3-Mechanics/CLI/items/dice-set.md) or [playing card set](3-Mechanics/CLI/items/playing-card-set.md), a set of [common clothes](3-Mechanics/CLI/items/common-clothes.md), and a belt [pouch](3-Mechanics/CLI/items/pouch.md) containing 10 gp  
+- **Equipment.** An insignia of rank, a trophy taken from a fallen enemy (a [dagger](3-Mechanics/CLI/items/dagger-xphb.md), broken blade, or piece of a banner), a bone [dice set](3-Mechanics/CLI/items/dice-set-xphb.md) or [playing card set](3-Mechanics/CLI/items/playing-cards-xphb.md), a set of [common clothes](3-Mechanics/CLI/items/common-clothes.md), and a belt [pouch](3-Mechanics/CLI/items/pouch-xphb.md) containing 10 gp  
 
 Mercenaries, private guards, Watch soldiers, and members of the Flaming Fist number among just a few of the many soldiers on the streets of Baldur's Gate.
 
@@ -48,6 +48,8 @@ You've had enough dealings with crooked soldiers that you can spot the behaviors
 
 During your time as a soldier, you had a specific role to play in your unit or army. Roll a d8 or choose from the options in the table below to determine your role:
 
+`dice: [](baldurs-gate-soldier-bgdia.md#^role)`
+
 | dice: d8 | Role |
 |----------|------|
 | 1 | Officer |
@@ -64,6 +66,8 @@ During your time as a soldier, you had a specific role to play in your unit or a
 
 The horrors of war combined with the rigid discipline of military service leave their mark on all soldiers, shaping their ideals, creating strong bonds, and often leaving them scarred and vulnerable to fear, shame, and hatred.
 
+`dice: [](baldurs-gate-soldier-bgdia.md#^personality-trait)`
+
 | dice: d8 | Personality Trait |
 |----------|-------------------|
 | 1 | I'm always polite and respectful. |
@@ -76,6 +80,8 @@ The horrors of war combined with the rigid discipline of military service leave 
 | 8 | I face problems head-on. A simple, direct solution is the best path to success. |
 ^personality-trait
 
+`dice: [](baldurs-gate-soldier-bgdia.md#^ideal)`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Greater Good. Our lot is to lay down our lives in defense of others. (Good) |
@@ -86,6 +92,8 @@ The horrors of war combined with the rigid discipline of military service leave 
 | 6 | Nation. My city, nation, or people are all that matter. (Any) |
 ^ideal
 
+`dice: [](baldurs-gate-soldier-bgdia.md#^bond)`
+
 | dice: d6 | Bond |
 |----------|------|
 | 1 | I would still lay down my life for the people I served with. |
@@ -95,6 +103,8 @@ The horrors of war combined with the rigid discipline of military service leave 
 | 5 | Those who fight beside me are those worth dying for. |
 | 6 | I fight for those who cannot fight for themselves. |
 ^bond
+
+`dice: [](baldurs-gate-soldier-bgdia.md#^flaw)`
 
 | dice: d6 | Flaw |
 |----------|------|

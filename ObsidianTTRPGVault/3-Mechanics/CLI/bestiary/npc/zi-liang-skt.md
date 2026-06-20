@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Zi Liang"
 ---
-# [Zi Liang](3-Mechanics\CLI\bestiary\npc/zi-liang-skt.md)
+# [Zi Liang](3-Mechanics/CLI/bestiary/npc/zi-liang-skt.md)
 *Source: Storm King's Thunder p. 251*  
 
 Zi Liang is a devout worshiper of Chauntea, the Earth Mother. She has considerably less faith in Goldenfields' defenders, so she patrols the temple-farm during her off-duty hours.
@@ -51,8 +51,8 @@ Flaw:"I don't trust authority. I do what my heart says is right."
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "gear":
-  - "[quarterstaff](3-Mechanics/CLI/items/quarterstaff.md)"
-  - "[sling](3-Mechanics/CLI/items/sling.md)"
+  - "[quarterstaff](3-Mechanics/CLI/items/quarterstaff-xphb.md)"
+  - "[sling](3-Mechanics/CLI/items/sling-xphb.md)"
 "senses": "passive Perception 15"
 "languages": "Common, Elvish, Goblin"
 "traits":
@@ -79,6 +79,6 @@ Flaw:"I don't trust authority. I do what my heart says is right."
     "name": "Sling"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/zi-liang-skt.webp"
+"image": "file://bestiary/tokens/SKT/Zi%20Liang.webp"
 ```
 ^statblock

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Fist of Bane"
 ---
-# [Fist of Bane](3-Mechanics\CLI\bestiary\humanoid/fist-of-bane-bgdia.md)
+# [Fist of Bane](3-Mechanics/CLI/bestiary/humanoid/fist-of-bane-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 232*  
 
 Bane's devoted followers are warriors who seek to rule through martial strength and intimidation, cruel tyrants who use threats and gifts as needed to ensure loyalty. They enslave those too weak to resist them and shower the strong with gifts and promises of power to turn them into loyal vassals.
@@ -36,7 +36,7 @@ Bane's cultists operate according to strict military hierarchies. The lowest ran
 "subtype": "human"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
-"ac_class": "[chain mail](3-Mechanics/CLI/items/chain-mail.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[chain mail](3-Mechanics/CLI/items/chain-mail-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "22"
 "hit_dice": "4d8 + 4"
 "modifier": !!int "0"
@@ -50,8 +50,8 @@ Bane's cultists operate according to strict military hierarchies. The lowest ran
 "speed": "30 ft."
 "condition_immunities": "[frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
 "gear":
-  - "[longbow](3-Mechanics/CLI/items/longbow.md)"
-  - "[mace](3-Mechanics/CLI/items/mace.md)"
+  - "[longbow](3-Mechanics/CLI/items/longbow-xphb.md)"
+  - "[mace](3-Mechanics/CLI/items/mace-xphb.md)"
 "senses": "passive Perception 11"
 "languages": "Common"
 "cr": "1/2"
@@ -68,6 +68,6 @@ Bane's cultists operate according to strict military hierarchies. The lowest ran
     "name": "Longbow"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/fist-of-bane-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Fist%20of%20Bane.webp"
 ```
 ^statblock

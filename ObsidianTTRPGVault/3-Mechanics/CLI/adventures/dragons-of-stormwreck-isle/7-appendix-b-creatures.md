@@ -10,7 +10,7 @@ aliases:
 # Appendix B: Creatures
 *Source: Dragons of Stormwreck Isle, p. 37* 
 
-![](3-Mechanics/CLI/adventures/dragons-of-stormwreck-isle/img/019-06-001-zombies-attack.webp#center)
+![](file://adventure/DoSI/019-06-001.zombies-attack.webp#center)
 
 This appendix contains stat blocks and short descriptions for the creatures that appear in *Dragons of Stormwreck Isle*.
 
@@ -62,13 +62,13 @@ Every creature has six ability scores (Strength, Dexterity, Constitution, Intell
 
 The Saving Throws entry is reserved for creatures that are proficient in one or more saving throws.
 
-Saving throws in a stat block are shown with the total modifier—the creature's ability modifier plus its proficiency bonus. If a creature's stat block says "Con +4," roll a `d20` and add 4 when the creature makes a saving throw using Constitution.
+Saving throws in a stat block are shown with the total modifier—the creature's ability modifier plus its proficiency bonus. If a creature's stat block says "Con +4," roll a `dice:d20|noform|noparens|avg` (`d20`) and add 4 when the creature makes a saving throw using Constitution.
 
 ### Skills
 
 The Skills entry is reserved for creatures that are proficient in one or more skills.
 
-Skills in a stat block are shown with the total modifier—the creature's ability modifier plus its proficiency bonus. If a creature's stat block says "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth) +4," roll a `d20` and add 4 when the creature makes an ability check using [Stealth](3-Mechanics/CLI/rules/skills.md#Stealth).
+Skills in a stat block are shown with the total modifier—the creature's ability modifier plus its proficiency bonus. If a creature's stat block says "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth) +4," roll a `dice:d20|noform|noparens|avg` (`d20`) and add 4 when the creature makes an ability check using [Stealth](3-Mechanics/CLI/rules/skills.md#Stealth).
 
 ### Vulnerabilities, Resistances, and Immunities
 
@@ -101,7 +101,7 @@ When a creature takes its action, it can choose from the options in the "Actions
 
 The most common actions that a creature takes in combat are melee and ranged attacks. See "Making an Attack" in the "Basic Rules" for how attacks work.
 
-Any damage or other effects that occur as a result of an attack hitting a target are described here. As the DM, you can use the average damage or roll the damage; for this reason, both the average damage and the die expression are presented. For example, if a monster deals 4 (`1d8`) slashing damage with its longsword, that notation means you can have the monster deal 4 damage, or you can roll `1d8` to determine the damage.
+Any damage or other effects that occur as a result of an attack hitting a target are described here. As the DM, you can use the average damage or roll the damage; for this reason, both the average damage and the die expression are presented. For example, if a monster deals `dice:1d8|noform|noparens|avg|text(4)` (`1d8`) slashing damage with its longsword, that notation means you can have the monster deal 4 damage, or you can roll `dice:1d8|noform|noparens|avg` (`1d8`) to determine the damage.
 
 ### Limited Usage
 
@@ -109,29 +109,29 @@ Some special abilities—whether they are traits, actions, or reactions—have r
 
 - **X/Day.** The notation "X/Day" means a special ability can be used a certain number of times, and then the creature must finish a long rest to regain expended uses. For example, "1/Day" means a special ability can be used once, and then the creature must finish a long rest to use it again.  
 
-**Recharge X–Y**. The notation "Recharge X–Y" means a creature can use a special ability once, and then the ability has a random chance of recharging during each subsequent round of combat. At the start of each of the creature's turns, roll a `d6`. If the roll is one of the numbers in the recharge notation, the creature regains the use of that special ability. The ability also recharges when the creature finishes a short or long rest. For example, "Recharge 5–6" means a creature can use the special ability once. Then, at the start of the creature's turn each round, it regains the use of the ability if it rolls a 5 or 6 on a `d6`.
+**Recharge X–Y**. The notation "Recharge X–Y" means a creature can use a special ability once, and then the ability has a random chance of recharging during each subsequent round of combat. At the start of each of the creature's turns, roll a `dice:d6|noform|noparens|avg` (`d6`). If the roll is one of the numbers in the recharge notation, the creature regains the use of that special ability. The ability also recharges when the creature finishes a short or long rest. For example, "Recharge 5–6" means a creature can use the special ability once. Then, at the start of the creature's turn each round, it regains the use of the ability if it rolls a 5 or 6 on a `dice:d6|noform|noparens|avg` (`d6`).
 
 ## Creature Descriptions
 
 The creatures that appear in the adventure are presented in this section in alphabetical order.
 
-- [Blue Dragon Wyrmling](3-Mechanics/CLI/bestiary/dragon/blue-dragon-wyrmling.md)  
-- [Bronze Dragon Wyrmling](3-Mechanics/CLI/bestiary/dragon/bronze-dragon-wyrmling.md)  
-- [Fire Snake](3-Mechanics/CLI/bestiary/elemental/fire-snake.md)  
+- [Blue Dragon Wyrmling](3-Mechanics/CLI/bestiary/dragon/blue-dragon-wyrmling-xmm.md)  
+- [Bronze Dragon Wyrmling](3-Mechanics/CLI/bestiary/dragon/bronze-dragon-wyrmling-xmm.md)  
+- [Fire Snake](3-Mechanics/CLI/bestiary/elemental/salamander-fire-snake-xmm.md)  
 - [Fume Drake](3-Mechanics/CLI/bestiary/elemental/fume-drake-dosi.md)  
-- [Ghoul](3-Mechanics/CLI/bestiary/undead/ghoul.md)  
-- [Harpy](3-Mechanics/CLI/bestiary/monstrosity/harpy.md)  
+- [Ghoul](3-Mechanics/CLI/bestiary/undead/ghoul-xmm.md)  
+- [Harpy](3-Mechanics/CLI/bestiary/monstrosity/harpy-xmm.md)  
 - [Kobold Tinkerer](3-Mechanics/CLI/bestiary/humanoid/kobold-tinkerer-dosi.md)  
-- [Kobold](3-Mechanics/CLI/bestiary/humanoid/kobold.md)  
-- [Myconid Adult](3-Mechanics/CLI/bestiary/plant/myconid-adult.md)  
-- [Myconid Sprout](3-Mechanics/CLI/bestiary/plant/myconid-sprout.md)  
-- [Owlbear](3-Mechanics/CLI/bestiary/monstrosity/owlbear.md)  
+- [Kobold](3-Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm.md)  
+- [Myconid Adult](3-Mechanics/CLI/bestiary/plant/myconid-adult-xmm.md)  
+- [Myconid Sprout](3-Mechanics/CLI/bestiary/plant/myconid-sprout-xmm.md)  
+- [Owlbear](3-Mechanics/CLI/bestiary/monstrosity/owlbear-xmm.md)  
 - [Runara](3-Mechanics/CLI/bestiary/npc/runara-dosi.md)  
 - [Sinensa](3-Mechanics/CLI/bestiary/npc/sinensa-dosi.md)  
 - [Spore Servant Octopus](3-Mechanics/CLI/bestiary/plant/spore-servant-octopus-dosi.md)  
-- [Stirge](3-Mechanics/CLI/bestiary/beast/stirge.md)  
+- [Stirge](3-Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md)  
 - [Tarak](3-Mechanics/CLI/bestiary/npc/tarak-dosi.md)  
 - [Varnoth](3-Mechanics/CLI/bestiary/npc/varnoth-dosi.md)  
-- [Violet Fungus](3-Mechanics/CLI/bestiary/plant/violet-fungus.md)  
-- [Winged Kobold](3-Mechanics/CLI/bestiary/humanoid/winged-kobold.md)  
-- [Zombie](3-Mechanics/CLI/bestiary/undead/zombie.md)
+- [Violet Fungus](3-Mechanics/CLI/bestiary/plant/violet-fungus-xmm.md)  
+- [Winged Kobold](3-Mechanics/CLI/bestiary/dragon/winged-kobold-xmm.md)  
+- [Zombie](3-Mechanics/CLI/bestiary/undead/zombie-xmm.md)

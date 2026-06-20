@@ -12,11 +12,13 @@ aliases:
 
 **Breaking a Greater Contract**
 
+`dice: [](breaking-a-contract-breaking-a-greater-contract-dod.md#^breaking-a-greater-contract)`
+
 | dice: d8 | Penalty |
 |----------|---------|
 | 1 | You can't speak or cast spells with verbal components. Whenever you try to speak, you bray like a donkey instead. |
 | 2–3 | You magically transform into an owl. You retain your languages, your ability to speak, and your mental ability scores (Intelligence, Wisdom, and Charisma). You otherwise have the statistics of an owl. |
 | 4–5 | You can't attune to magic items. If you are currently attuned to one or more magic items, your attunement to those items ends immediately. |
 | 6–7 | You are [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified). |
-| 8 | An iron thorn is magically lodged in your chest. Every day, you can feel it move closer to your heart. If this effect is not ended within 3 days, you die and can't be revived for `5d12` days. |
+| 8 | An iron thorn is magically lodged in your chest. Every day, you can feel it move closer to your heart. If this effect is not ended within 3 days, you die and can't be revived for `dice:5d12\|noform\|noparens\|avg` (`5d12`) days. |
 ^breaking-a-greater-contract

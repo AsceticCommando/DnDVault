@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Satyr Reveler"
 ---
-# [Satyr Reveler](3-Mechanics\CLI\bestiary\fey/satyr-reveler-mot.md)
+# [Satyr Reveler](3-Mechanics/CLI/bestiary/fey/satyr-reveler-mot.md)
 *Source: Mythic Odysseys of Theros p. 242*  
 
 Pursuing lives of endless reverie, satyr revelers eagerly participate in celebrations wherever they find them. Their boisterous natures go far toward tempting others to eat, drink, and carouse with them. Faced with stodgier individuals or outright rivals, satyr revelers don't balk at using the magic of their music, dance, or other performances to charm opponents into joining their festivities. In the aftermath, these satyrs' foes are more likely to suffer embarrassment and groggy mornings than any lasting harm.
@@ -44,7 +44,7 @@ While most satyrs are known for their high spirits, love of revels, and gregario
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
 "gear":
-  - "[shortbow](3-Mechanics/CLI/items/shortbow.md)"
+  - "[shortbow](3-Mechanics/CLI/items/shortbow-xphb.md)"
 "senses": "passive Perception 10"
 "languages": "Common, Sylvan"
 "cr": "1"
@@ -75,6 +75,6 @@ While most satyrs are known for their high spirits, love of revels, and gregario
     "name": "Shortbow"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/fey/token/satyr-reveler-mot.webp"
+"image": "file://bestiary/tokens/MOT/Satyr%20Reveler.webp"
 ```
 ^statblock

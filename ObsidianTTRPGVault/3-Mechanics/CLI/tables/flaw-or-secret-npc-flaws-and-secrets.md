@@ -12,6 +12,8 @@ aliases:
 
 **NPC Flaws and Secrets**
 
+`dice: [](flaw-or-secret-npc-flaws-and-secrets.md#^npc-flaws-and-secrets)`
+
 | dice: d12 | Flaw or Secret |
 |-----------|----------------|
 | 1 | Forbidden love or susceptibility to romance |

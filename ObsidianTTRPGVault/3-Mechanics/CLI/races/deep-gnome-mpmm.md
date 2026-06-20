@@ -10,7 +10,7 @@ aliases:
 ---
 # Deep Gnome
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 11*  
-![](3-Mechanics/CLI/races/img/deep-gnome.webp#right)
+![](file://races/MPMM/Deep%20Gnome.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Type**: humanoid
@@ -30,7 +30,7 @@ You can see in dim light within 120 feet of you as if it were bright light and i
 
 ### Gift of the Svirfneblin
 
-Starting at 3rd level, you can cast the [disguise self](3-Mechanics/CLI/spells/disguise-self.md) spell with this trait. Starting at 5th level, you can also cast the [nondetection](3-Mechanics/CLI/spells/nondetection.md) spell with it, without requiring a material component. Once you cast either of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these using spell slots you have of the appropriate level.
+Starting at 3rd level, you can cast the [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md) spell with this trait. Starting at 5th level, you can also cast the [nondetection](3-Mechanics/CLI/spells/nondetection-xphb.md) spell with it, without requiring a material component. Once you cast either of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these using spell slots you have of the appropriate level.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
 

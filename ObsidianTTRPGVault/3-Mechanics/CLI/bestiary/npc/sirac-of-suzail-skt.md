@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Sirac of Suzail"
 ---
-# [Sirac of Suzail](3-Mechanics\CLI\bestiary\npc/sirac-of-suzail-skt.md)
+# [Sirac of Suzail](3-Mechanics/CLI/bestiary/npc/sirac-of-suzail-skt.md)
 *Source: Storm King's Thunder p. 247*  
 
 An acolyte of Torm, Sirac grew up on the streets of Suzail, the capital of Cormyr. He came to Icewind Dale to become a knucklehead trout fisher but instead found religion. The misbegotten son of Artus Cimber, a renowned human adventurer, Sirac hasn't seen his father since he was a baby.
@@ -30,7 +30,7 @@ Flaw:"I am honest to a fault."
 "subtype": "Chondathan human"
 "alignment": "Lawful Good"
 "ac": !!int "14"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "22"
 "hit_dice": "5d8"
 "modifier": !!int "3"
@@ -50,8 +50,8 @@ Flaw:"I am honest to a fault."
   - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+3"
 "gear":
-  - "[dart](3-Mechanics/CLI/items/dart.md)"
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[dart](3-Mechanics/CLI/items/dart-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "passive Perception 11"
 "languages": "Common, Orc"
 "traits":
@@ -75,6 +75,6 @@ Flaw:"I am honest to a fault."
     "name": "Parry"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/sirac-of-suzail-skt.webp"
+"image": "file://bestiary/tokens/SKT/Sirac%20of%20Suzail.webp"
 ```
 ^statblock

@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Master Thief"
 ---
-# [Master Thief](3-Mechanics\CLI\bestiary\humanoid/master-thief-mpmm.md)
+# [Master Thief](3-Mechanics/CLI/bestiary/humanoid/master-thief-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 174, Volo's Guide to Monsters p. 216*  
 
 Master thieves are known for perpetrating daring heists. They tend to develop a romanticized reputation. A master thief might "retire" from hands-on work to run a thieves' guild, spearhead some covert enterprise, or enjoy a quiet life of luxury.
@@ -21,6 +21,8 @@ Master thieves are known for perpetrating daring heists. They tend to develop a 
 When a master thief completes a challenging heist, they often leave behind a calling card to taunt their victims. You may roll on the Master Thief Calling Cards table to determine what a master thief leaves behind.
 
 **Master Thief Calling Cards**
+
+`dice: [](master-thief-mpmm.md#^master-thief-calling-cards)`
 
 | dice: d10 | Calling Card |
 |-----------|--------------|
@@ -42,7 +44,7 @@ When a master thief completes a challenging heist, they often leave behind a cal
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor.md)"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
 "hp": !!int "84"
 "hit_dice": "13d8 + 26"
 "modifier": !!int "4"
@@ -69,8 +71,8 @@ When a master thief completes a challenging heist, they often leave behind a cal
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+7"
 "gear":
-  - "[shortbow](3-Mechanics/CLI/items/shortbow.md)"
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[shortbow](3-Mechanics/CLI/items/shortbow-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "passive Perception 13"
 "languages": "any one language (usually Common) plus thieves' cant"
 "cr": "5"
@@ -100,7 +102,7 @@ When a master thief completes a challenging heist, they often leave behind a cal
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/master-thief-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Master%20Thief.webp"
 ```
 ^statblock
 

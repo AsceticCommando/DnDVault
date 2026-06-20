@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Eldritch Lich"
 ---
-# [Eldritch Lich](3-Mechanics\CLI\bestiary\undead/eldritch-lich-mcv1sc.md)
+# [Eldritch Lich](3-Mechanics/CLI/bestiary/undead/eldritch-lich-mcv1sc.md)
 *Source: Monstrous Compendium Volume 1: Spelljammer Creatures p. 6*  
 
 From beyond the stars, a Great Old One whispers promises of reality-defying knowledge and world-bending power. When a wizard or a warlock hears that whisper and listens too intently, they might set foot on the twisting path toward becoming an eldritch lich.
@@ -26,6 +26,8 @@ An eldritch lich constantly hears bizarre whispers from the Far Realm, to which 
 Multiple entities bear the title Great Old One. You may roll on the Great Old Ones table to determine which entity gave an eldritch lich its parasite.
 
 ### Great Old Ones
+
+`dice: [](eldritch-lich-mcv1sc.md#^form)`
 
 | dice: d6 | Form |
 |----------|------|
@@ -76,7 +78,7 @@ Multiple entities bear the title Great Old One. You may roll on the Great Old On
       \ lich's soul. When the lich dies, it implodes into the parasite, which then\
       \ vanishes into the Far Realm. In 2d4 days, the parasite causes the lich to\
       \ reappear within 1d4 miles of where it died. If the lich died inside a magic\
-      \ circle cast to contain Undead, the lich instead reappears as an [otyugh](3-Mechanics/CLI/bestiary/aberration/otyugh.md)\
+      \ circle cast to contain Undead, the lich instead reappears as an [otyugh](3-Mechanics/CLI/bestiary/aberration/otyugh-xmm.md)\
       \ with all the lich's memories."
     "name": "Far Realm Parasite"
   - "desc": "If the lich fails a saving throw, it can choose to succeed instead."
@@ -93,7 +95,7 @@ Multiple entities bear the title Great Old One. You may roll on the Great Old On
       \ The [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) target can repeat\
       \ the save at the end of each of its turns, ending the effect on itself on a\
       \ success. The third time the target fails the save, the target dies and dissolves\
-      \ into a [gibbering mouther](3-Mechanics/CLI/bestiary/aberration/gibbering-mouther.md)\
+      \ into a [gibbering mouther](3-Mechanics/CLI/bestiary/aberration/gibbering-mouther-xmm.md)\
       \ that obeys the lich and uses the target's initiative."
     "name": "Parasitic Tentacle"
   - "desc": "The lich targets one creature it can see within 120 feet of itself. The\
@@ -103,13 +105,13 @@ Multiple entities bear the title Great Old One. You may roll on the Great Old On
       \ mind."
     "name": "Psychic Whisper"
   - "desc": "The lich casts one of the following spells, using Intelligence as the\
-      \ spellcasting ability (spell save DC 17):\n\n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic.md),\
-      \ [mage hand](3-Mechanics/CLI/spells/mage-hand.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md)\n\
-      \n**2/day each:** [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), [hunger\
-      \ of Hadar](3-Mechanics/CLI/spells/hunger-of-hadar.md), [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt.md)\n\
-      \n**1/day each:** [arcane eye](3-Mechanics/CLI/spells/arcane-eye.md), [dimension\
-      \ door](3-Mechanics/CLI/spells/dimension-door.md), [plane shift](3-Mechanics/CLI/spells/plane-shift.md)\
-      \ (self only)"
+      \ spellcasting ability (spell save DC 17):\n\n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
+      \n**2/day each:** [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
+      \ [hunger of Hadar](3-Mechanics/CLI/spells/hunger-of-hadar-xphb.md), [lightning\
+      \ bolt](3-Mechanics/CLI/spells/lightning-bolt-xphb.md)\n\n**1/day each:** [arcane\
+      \ eye](3-Mechanics/CLI/spells/arcane-eye-xphb.md), [dimension door](3-Mechanics/CLI/spells/dimension-door-xphb.md),\
+      \ [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md) (self only)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "Immediately after taking damage, the lich, along with any equipment it\
@@ -118,6 +120,6 @@ Multiple entities bear the title Great Old One. You may roll on the Great Old On
     "name": "Far Realm Step"
 "source":
   - "MCV1SC"
-"image": "3-Mechanics/CLI/bestiary/undead/token/eldritch-lich-mcv1sc.webp"
+"image": "file://bestiary/tokens/MCV1SC/Eldritch%20Lich.webp"
 ```
 ^statblock

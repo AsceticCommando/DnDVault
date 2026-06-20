@@ -12,6 +12,8 @@ aliases:
 
 **Omens of Keranos**
 
+`dice: [](omens-of-keranos-mot.md#^omens-of-keranos)`
+
 | dice: d6 | dice: d100 | Omen of Keranos |
 |----------|------------|-----------------|
 | 1 | 41 | Lightning strikes, thunder rumbles, or rain falls in a clear sky. |

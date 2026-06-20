@@ -12,6 +12,8 @@ aliases:
 
 **Commanding Officer**
 
+`dice: [](military-force-contact-commanding-officer-tce.md#^commanding-officer)`
+
 | dice: d6 | Officer |
 |----------|---------|
 | 1 | **Tested Veteran**. Your commander is a battle-scarred officer who experienced horrors in combat. They rely on something to dull the pain of their memories or wounds, from a favorite writer's prose to a distracting vice. |

@@ -11,4 +11,4 @@ aliases:
 
 ## 2nd Level
 
-- [Invisibility](3-Mechanics/CLI/spells/invisibility.md "PHB")
+- [Invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md "XPHB")

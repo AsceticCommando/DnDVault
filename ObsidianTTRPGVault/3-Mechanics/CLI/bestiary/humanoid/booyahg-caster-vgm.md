@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Booyahg Caster"
 ---
-# [Booyahg Caster](3-Mechanics\CLI\bestiary\humanoid/booyahg-caster-vgm.md)
+# [Booyahg Caster](3-Mechanics/CLI/bestiary/humanoid/booyahg-caster-vgm.md)
 *Source: Volo's Guide to Monsters p. 42*  
 
 This goblin served under a hobgoblin wizard, stole a look at its master's spellbook, and learned a little wizardry by aping the gestures and words it remembered. The goblin can cast a randomly determined 1st-level wizard spell once per day. Intelligence is its spellcasting ability.
@@ -32,7 +32,7 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
 "subtype": "goblinoid"
 "alignment": "Neutral Evil"
 "ac": !!int "15"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "7"
 "hit_dice": "2d6"
 "modifier": !!int "2"
@@ -48,8 +48,8 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+6"
 "gear":
-  - "[scimitar](3-Mechanics/CLI/items/scimitar.md)"
-  - "[shortbow](3-Mechanics/CLI/items/shortbow.md)"
+  - "[scimitar](3-Mechanics/CLI/items/scimitar-xphb.md)"
+  - "[shortbow](3-Mechanics/CLI/items/shortbow-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 9"
 "languages": "Common, Goblin"
@@ -72,6 +72,6 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
     "name": "Shortbow"
 "source":
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/booyahg-caster-vgm.webp"
+"image": "file://bestiary/tokens/VGM/Booyahg%20Caster.webp"
 ```
 ^statblock

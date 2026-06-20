@@ -12,6 +12,8 @@ aliases:
 
 **Exotic Location**
 
+`dice: [](dungeon-location-exotic-location.md#^exotic-location)`
+
 | dice: d20 | Location |
 |-----------|----------|
 | 1 | Among the branches of a tree |
@@ -33,5 +35,5 @@ aliases:
 | 17 | In a volcano |
 | 18 | On the back of a Gargantuan living creature |
 | 19 | Sealed inside a magical dome of force |
-| 20 | Inside a [Mordenkainen's magnificent mansion](3-Mechanics/CLI/spells/mordenkainens-magnificent-mansion.md) |
+| 20 | Inside a [Mordenkainen's magnificent mansion](3-Mechanics/CLI/spells/mordenkainens-magnificent-mansion-xphb.md) |
 ^exotic-location

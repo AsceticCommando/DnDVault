@@ -12,6 +12,8 @@ aliases:
 
 **Dungeon: Mine**
 
+`dice: [](chamber-purpose-dungeon-mine.md#^dungeon-mine)`
+
 | dice: d20 | Purpose |
 |-----------|---------|
 | 1-2 | Barracks for miners |

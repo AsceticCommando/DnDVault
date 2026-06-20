@@ -12,6 +12,8 @@ aliases:
 
 **Gold Dragon Personality Traits**
 
+`dice: [](creating-a-gold-dragon-gold-dragon-personality-traits-ftd.md#^gold-dragon-personality-traits)`
+
 | dice: d8 | Trait |
 |----------|-------|
 | 1 | I prefer to parley before combat. If villains can be reformed without violence, all the better. |

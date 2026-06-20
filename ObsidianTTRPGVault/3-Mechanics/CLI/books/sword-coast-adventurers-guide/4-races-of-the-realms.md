@@ -45,7 +45,7 @@ Shield dwarves are renowned artisans, particularly in metal and stone. They tend
 
 ### Gold Dwarves
 
-![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag03-02.webp#center)
+![](file://book/SCAG/scag03-02.webp#center)
 
 Gold dwarves are common in the lands to the south and east. They are formidable warriors, proud of their long traditions, with strong ties to clan. They are gruff and haughty and have a love of fine craftsmanship and an eagerness to trade.
 
@@ -71,13 +71,13 @@ Few duergar become adventurers, fewer still on the surface world, because they a
 
 - [Dwarf (Duergar)](3-Mechanics/CLI/races/duergar-mpmm.md)  
 
-![Dethek, the letters and numerals of Dwarvish](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/dwarvish-language.webp#center)
+![Dethek, the letters and numerals of Dwarvish](file://book/SCAG/dwarvish-language.webp#center)
 
 ### Dwarven Deities
 
 The gods of the dwarves are a pantheon, or clan, collectively known as the Morndinsamman.
 
-![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag03-03.webp#center)
+![](file://book/SCAG/scag03-03.webp#center)
 
 #### Forge Father and Revered Mother
 
@@ -129,7 +129,7 @@ Given the race's love of travel, exploration, and new experiences, many moon elv
 
 ### Sun Elves
 
-![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag03-04.webp#center)
+![](file://book/SCAG/scag03-04.webp#center)
 
 Sun elves, also known as gold elves, or Ar'Tel'Quessir, have a reputation for being arrogant and self-important. Many of them believe they are Corellon's chosen people and that other races—even other elves—are subordinate to them in skill, significance, and sophistication. They claim the title of "high elves" with pride, and indeed their race is responsible for great, and sometimes terrible, achievements.
 
@@ -180,13 +180,13 @@ Inherent magical abilities and a preference for dark places make drow naturally 
 > **Wild Elves.** The Sy'Tel'Quessir are considered by many elves to be the most strange of their race, having abandoned or lost much of their ancient culture.
 ^rare-elf-subraces
 
-![Espruar, the letters and numerals of Elvish](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/elvish-language.webp#center)
+![Espruar, the letters and numerals of Elvish](file://book/SCAG/elvish-language.webp#center)
 
 ### Elven Deities
 
 The gods of the Tel'Quessir, collectively known as the Seldarine, have embodied the ideals of the elf people since time immemorial. They are believed to dwell in the realm of Arvandor on the plane of Arborea.
 
-![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag03-05.webp#center)
+![](file://book/SCAG/scag03-05.webp#center)
 
 #### God of the Elves
 
@@ -226,7 +226,7 @@ Some drow exiles have heard the song of Eilistraee, urging them out onto the sur
 
 ## Halflings
 
-![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag03-06.webp#center)
+![](file://book/SCAG/scag03-06.webp#center)
 
 Folk think of elves as aloof and graceful, dwarves as fierce and hardy, and of gnomes—if they think of them at all—as clever and shy. Halflings, in contrast, have the reputation of being deft and plucky.
 
@@ -291,7 +291,7 @@ Many halflings have taken to regular worship of Tymora, seeing her as a helping 
 
 ## Humans
 
-![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag03-07.webp#center)
+![](file://book/SCAG/scag03-07.webp#center)
 
 Humans dwell in every corner of Toril and encompass a full range of cultures and ethnicities. Along the Sword Coast and across the North, humans are the most pervasive of the races and in many places the most dominant. Their cultural and societal makeup runs the gamut, from the cosmopolitan folk who reside in great cities such as Baldur's Gate and Waterdeep to the barbarians who rage throughout the Savage Frontier.
 
@@ -412,7 +412,7 @@ The Ulutiuns are short, dark-haired, golden-skinned people who originated in nor
 > If your Dungeon Master allows this option, then any human from an ethnic group that has its own language is assumed to know that language as well as Common. This ethnic language is treated as a free additional language for such individuals.
 ^option-human-languages
 
-![Thorass, the letters and numerals of Common](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/common-language.webp#center)
+![Thorass, the letters and numerals of Common](file://book/SCAG/common-language.webp#center)
 
 #### Humans' Deities
 
@@ -430,7 +430,7 @@ As with all stories of the ancient past, tales of the origins of the dragonborn 
 
 One story relates that the dragonborn were shaped by the ancient dragon-god Io at the same time that Io created the dragons. In the beginning of days, Io fused brilliant astral spirits with the unchecked fury of the elements. The greater spirits became dragons—creatures so powerful, proud, and willful that they were lords of the newborn world. The lesser spirits became the dragonborn. Although smaller in stature, they were no less draconic in nature. This tale stresses the close kinship between dragons and dragonborn, while reinforcing the natural order of things—dragons rule and dragonborn serve, at least according to the dragonborn's former masters.
 
-![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag03-08.webp#center)
+![](file://book/SCAG/scag03-08.webp#center)
 
 Another legend asserts that Io created the dragons at the birth of the world, but dragonborn did not yet exist. Then, during the Dawn War, Io was killed by the primordial known as Erek-Hus, the King of Terror. With a rough-hewn axe of adamantine, the behemoth split Io from head to tail, cleaving the dragon-god into two equal halves, which rose up as new gods—Bahamut and Tiamat. Droplets of Io's blood, spattered across the world, became the first dragonborn. For some who believe it, this origin story supports the view that dragonborn are clearly inferior to the dragons that were made by Io's loving hand, while others emphasize that the dragonborn arose from Io's own blood—just as two draconic deities arose from the god's severed body. So are the dragonborn not, therefore, like the gods themselves?
 
@@ -462,7 +462,7 @@ Still, some dragonborn do hear the call of the gods of Faerûn and choose to ser
 
 ## Gnomes
 
-![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag03-09.webp#center)
+![](file://book/SCAG/scag03-09.webp#center)
 
 Small of stature and dwelling in the corners of Faerûn away from prying eyes, gnomes are one of the least populous and influential races in the world, called the "Forgotten Folk" by some. This appellation doesn't bother the gnomes; they generally prefer their anonymity and the protection it affords them.
 
@@ -547,7 +547,7 @@ For most folk in Faerûn, the issue isn't so cut and dried. Half-elves are gener
 
 ### Young Race, Old Roots
 
-![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag03-10.webp#center)
+![](file://book/SCAG/scag03-10.webp#center)
 
 In the distant past, half-elves were scarce because humans and elves came into contact only infrequently. The ancient elven kingdoms of Cormanthyr and Myth Drannor had significant populations of half-elves. It is only in the past thousand years or so, as the races have intermingled more and more, that the number of half-elves has increased so that they are now found throughout Faerûn.
 
@@ -591,7 +591,7 @@ Half-orcs in Faerûn have the racial traits of half-orcs in the Player's Handboo
 
 ### Blood Will Tell
 
-![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag03-11.webp#center)
+![](file://book/SCAG/scag03-11.webp#center)
 
 Half-orcs ultimately owe their plight to the deity Gruumsh, the creator of the orcs. Legend has it that when Gruumsh discovered all the territories of the world had been claimed by other races, he swore the orcs would avenge themselves by taking what they wanted by force. The great orc hordes continue to do just that today, appearing periodically from out of the wilderness to raid and scavenge.
 
@@ -639,7 +639,7 @@ Humans with the blood of fiends, most tieflings in Faerûn share a common connec
 
 ### The Mark of Asmodeus
 
-![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag03-12.webp#center)
+![](file://book/SCAG/scag03-12.webp#center)
 
 During the Spellplague, Asmodeus consumed the divine spark of Azuth and thereby achieved godhood. Subsequently, Asmodeus and a coven of warlocks, the Toril Thirteen, performed a rite wherein the archdevil claimed all tieflings in the world as his own, cursing them to bear "the blood of Asmodeus." This act marked all tieflings as "descendants" of the Lord of the Nine Hells, regardless of their true heritage, and changed them into creatures that resembled their supposed progenitor. The other folk of Faerûn, unnerved by the appearance of these devil-beings, became suspicious of all tieflings and occasionally hostile to them.
 
@@ -691,4 +691,4 @@ Mulhorandi surnames that begin with "Sia" or "Zia" followed by a god's name indi
 
 The celestial opposites of the tieflings, aasimar are descended from humans of celestial heritage. Aasimar aren't as prevalent in the Realms as tieflings, but common enough that some become adventurers. Dungeon Masters who want to allow their players to create aasimar characters can find rules for doing so in the Dungeon Master's Guide.
 
-- [Aasimar](3-Mechanics/CLI/races/aasimar-dmg.md)
+- [Aasimar](3-Mechanics/CLI/races/aasimar-xphb.md)

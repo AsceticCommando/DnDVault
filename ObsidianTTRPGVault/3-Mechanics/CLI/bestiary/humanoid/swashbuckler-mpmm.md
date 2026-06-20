@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Swashbuckler"
 ---
-# [Swashbuckler](3-Mechanics\CLI\bestiary\humanoid/swashbuckler-mpmm.md)
+# [Swashbuckler](3-Mechanics/CLI/bestiary/humanoid/swashbuckler-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 238, Volo's Guide to Monsters p. 217*  
 
 Swashbucklers are charming ne'er-do-wells who live by their own codes of honor. They crave notoriety, often indulge in romantic trysts, and eke out livings as pirates and corsairs, rarely staying in one place for too long.
@@ -22,6 +22,8 @@ Swashbucklers are charming ne'er-do-wells who live by their own codes of honor. 
 Many swashbucklers have a signature flourish with which they embellish their actions to make themselves more memorable. You can roll on the Swashbuckler Flourishes table or choose one of the options to find a suitably dramatic flourish for a swashbuckler.
 
 **Swashbuckler Flourishes**
+
+`dice: [](swashbuckler-mpmm.md#^swashbuckler-flourishes)`
 
 | dice: d8 | Flourish |
 |----------|----------|
@@ -41,7 +43,7 @@ Many swashbucklers have a signature flourish with which they embellish their act
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "17"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md), suave defense"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md), suave defense"
 "hp": !!int "66"
 "hit_dice": "12d8 + 12"
 "modifier": !!int "4"
@@ -61,13 +63,13 @@ Many swashbucklers have a signature flourish with which they embellish their act
   - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+6"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
-  - "[rapier](3-Mechanics/CLI/items/rapier.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
+  - "[rapier](3-Mechanics/CLI/items/rapier-xphb.md)"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "3"
 "traits":
-  - "desc": "While the swashbuckler is wearing light or no armor and wielding no [shield](3-Mechanics/CLI/items/shield.md),\
+  - "desc": "While the swashbuckler is wearing light or no armor and wielding no [shield](3-Mechanics/CLI/items/shield-xphb.md),\
       \ its AC includes its Charisma modifier."
     "name": "Suave Defense"
 "actions":
@@ -86,7 +88,7 @@ Many swashbucklers have a signature flourish with which they embellish their act
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/swashbuckler-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Swashbuckler.webp"
 ```
 ^statblock
 

@@ -12,6 +12,8 @@ aliases:
 
 **Amethyst Dragon Adventure Hooks**
 
+`dice: [](amethyst-dragon-adventures-amethyst-dragon-adventure-hooks-ftd.md#^amethyst-dragon-adventure-hooks)`
+
 | dice: d8 | Adventure Hook |
 |----------|----------------|
 | 1 | An amethyst dragon seeks a rare type of crystal found in the domain of a territorial stone giant clan. |

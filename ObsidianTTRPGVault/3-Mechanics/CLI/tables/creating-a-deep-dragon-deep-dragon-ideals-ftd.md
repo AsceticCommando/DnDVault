@@ -12,6 +12,8 @@ aliases:
 
 **Deep Dragon Ideals**
 
+`dice: [](creating-a-deep-dragon-deep-dragon-ideals-ftd.md#^deep-dragon-ideals)`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Understanding. True power comes from the ability to discern other creatures' motivations better than they can discern yours. (Any) |

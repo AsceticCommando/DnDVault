@@ -12,6 +12,8 @@ aliases:
 
 **Sapphire Dragon Art Objects**
 
+`dice: [](sapphire-dragon-treasures-sapphire-dragon-art-objects-ftd.md#^sapphire-dragon-art-objects)`
+
 | dice: d6 | Object |
 |----------|--------|
 | 1 | A battle standard showing the coat of arms of an ancient realm the dragon failed to protect |

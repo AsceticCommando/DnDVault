@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Galvan"
 ---
-# [Galvan](3-Mechanics\CLI\bestiary\npc/galvan-rot.md)
+# [Galvan](3-Mechanics/CLI/bestiary/npc/galvan-rot.md)
 *Source: The Rise of Tiamat p. 9, Tyranny of Dragons p. 12*  
 
 ```statblock
@@ -22,8 +22,8 @@ aliases:
 "subtype": "human"
 "alignment": "Neutral Evil"
 "ac": !!int "16"
-"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor.md); 17\
-  \ with the Blue Dragon Mask"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md);\
+  \ 17 with the Blue Dragon Mask"
 "hp": !!int "110"
 "hit_dice": "17d8 + 34"
 "modifier": !!int "4"
@@ -45,7 +45,7 @@ aliases:
 "damage_resistances": "one of the following: acid, cold, fire, lightning, poison"
 "damage_immunities": "lightning"
 "gear":
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 11"
 "languages": "Common, Draconic, Infernal"
@@ -54,9 +54,9 @@ aliases:
   - "desc": "While Galvan is not presented in an encounter in The Rise of Tiamat,\
       \ the [dragonsoul](3-Mechanics/CLI/bestiary/humanoid/dragonsoul-rot.md) stat\
       \ block has been provided here for ease of use, with optional alterations for\
-      \ the Blue Dragon Mask."
+      \ the [Blue Dragon Mask](3-Mechanics/CLI/items/blue-dragon-mask-rotos.md)."
     "name": "5etools Note"
-  - "desc": "Galvan has the Blue Dragon Mask."
+  - "desc": "Galvan has the [Blue Dragon Mask](3-Mechanics/CLI/items/blue-dragon-mask-rotos.md)."
     "name": "Special Equipment"
   - "desc": "While wearing no armor and wearing the Blue Dragon Mask, Galvan adds\
       \ his Charisma bonus to his AC (included)."
@@ -96,6 +96,6 @@ aliases:
 "source":
   - "RoT"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/npc/token/galvan-rot.webp"
+"image": "file://bestiary/tokens/RoT/Galvan.webp"
 ```
 ^statblock

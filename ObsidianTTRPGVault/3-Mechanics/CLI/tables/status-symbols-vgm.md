@@ -12,6 +12,8 @@ aliases:
 
 **Status Symbols**
 
+`dice: [](status-symbols-vgm.md#^status-symbols)`
+
 | dice: d20 | Status Symbol |
 |-----------|---------------|
 | 1 | Earrings and notches in an ear |

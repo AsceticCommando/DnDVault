@@ -12,6 +12,8 @@ aliases:
 
 **Goblinoid NPCs**
 
+`dice: [](goblinoid-npcs-erlw.md#^goblinoid-npcs)`
+
 | dice: d8 | NPC |
 |----------|-----|
 | 1 | A hobgoblin bard of the Kech Volaar leads an elite team of dungeon delvers to recover Dhakaani artifacts from ancient ruins. |

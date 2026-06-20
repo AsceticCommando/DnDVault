@@ -12,6 +12,8 @@ aliases:
 
 **Dragon Chance**
 
+`dice: [](githyanki-raiding-parties-dragon-chance-mtf.md#^dragon-chance)`
+
 | dice: d6 | result |
 |----------|--------|
 | 1-5 | No dragons |

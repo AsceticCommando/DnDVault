@@ -12,7 +12,7 @@ aliases:
 
 Two of the components that Vizeran needs to craft the talisman for his ritual (see chapter 12) can be found relatively close to the archmage's tower. The Wormwrithings are a honeycomb of tunnels spanning hundreds of miles in the northern reaches of the Underdark, carved from the rock by enormous purple worms. A purple worm nest in the Wormwrithings is an ideal place to find an unhatched purple worm egg. Additionally, Vizeran has heard rumors of a beholder living in the Vast Oblivium, a chasm deep within the Wormwrithings. If the characters didn't obtain the central eye from [Lorthuun](3-Mechanics/CLI/bestiary/npc/lorthuun-oota.md) or Xazax (the beholders in chapter 9), they can search the Vast Oblivium for the beholder believed to lair there.
 
-![](3-Mechanics/CLI/adventures/out-of-the-abyss/img/093-ooa13-01.webp#center)
+![](file://adventure/OotA/093-ooa13-01.webp#center)
 
 ## The Worm Tunnels
 
@@ -20,87 +20,91 @@ The nearest purple worm nesting area mapped out for the characters by [Vizeran D
 
 *Faerzress* permeates only the fringes of the Wormwrithings. While the party explores this region of the Underdark, spellcasters won't have to deal with the effects described under "Faerzress" in chapter 2.
 
-The tunnels created by the purple worms are tubular and roughly 10 feet in diameter. A typical stretch of tunnel is `1d6` miles long before it intersects with another tunnel or a naturally formed cavern.
+The tunnels created by the purple worms are tubular and roughly 10 feet in diameter. A typical stretch of tunnel is `dice:1d6|noform|noparens|avg` (`1d6`) miles long before it intersects with another tunnel or a naturally formed cavern.
 
 ### Random Encounters
 
-As the characters explore the Wormwrithings, check for a random encounter once per day. Roll a `d20` and consult the Wormwrithings Encounters table to determine what, if anything, the characters and their expeditionary force encounter.
+As the characters explore the Wormwrithings, check for a random encounter once per day. Roll a `dice:d20|noform|noparens|avg` (`d20`) and consult the Wormwrithings Encounters table to determine what, if anything, the characters and their expeditionary force encounter.
 
-When an encounter occurs, roll a `d6` to determine how the area is illuminated. A roll of 1 indicates the area is dimly lit by phosphorescent lichen, while a 2–6 indicates the area is dark. The twisting tunnels of the Wormwrithings give creatures the opportunity to surprise the characters (see "Noticing Threats" in chapter 2).
+When an encounter occurs, roll a `dice:d6|noform|noparens|avg` (`d6`) to determine how the area is illuminated. A roll of 1 indicates the area is dimly lit by phosphorescent lichen, while a 2–6 indicates the area is dark. The twisting tunnels of the Wormwrithings give creatures the opportunity to surprise the characters (see "Noticing Threats" in chapter 2).
 
 #### Wormwrithings Encounters
+
+`dice: [](13-chapter-13-the-wormwrithings.md#^encounter)`
 
 | dice: d20 | Encounter |
 |-----------|-----------|
 | 1–10 | No encounter |
-| 11 | 1 [drider](3-Mechanics/CLI/bestiary/monstrosity/drider.md) |
-| 12 | [Drow](3-Mechanics/CLI/bestiary/humanoid/drow.md) hunting party |
-| 13 | `3d6` dwarf [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner.md) |
-| 14 | `1d6` [ettins](3-Mechanics/CLI/bestiary/giant/ettin.md) |
-| 15 | `3d6` [flumphs](3-Mechanics/CLI/bestiary/aberration/flumph.md) |
-| 16 | [Grick](3-Mechanics/CLI/bestiary/monstrosity/grick.md) nest |
-| 17 | 1 [purple worm](3-Mechanics/CLI/bestiary/monstrosity/purple-worm.md) |
-| 18 | `2d6` [troglodytes](3-Mechanics/CLI/bestiary/humanoid/troglodyte.md) |
-| 19 | `1d4` [trolls](3-Mechanics/CLI/bestiary/giant/troll.md) |
-| 20 | 1 [umber hulk](3-Mechanics/CLI/bestiary/monstrosity/umber-hulk.md) |
+| 11 | 1 [drider](3-Mechanics/CLI/bestiary/monstrosity/drider-xmm.md) |
+| 12 | [Drow](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) hunting party |
+| 13 | `dice:3d6\|noform\|noparens\|avg` (`3d6`) dwarf [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) |
+| 14 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [ettins](3-Mechanics/CLI/bestiary/giant/ettin-xmm.md) |
+| 15 | `dice:3d6\|noform\|noparens\|avg` (`3d6`) [flumphs](3-Mechanics/CLI/bestiary/aberration/flumph-xmm.md) |
+| 16 | [Grick](3-Mechanics/CLI/bestiary/aberration/grick-xmm.md) nest |
+| 17 | 1 [purple worm](3-Mechanics/CLI/bestiary/monstrosity/purple-worm-xmm.md) |
+| 18 | `dice:2d6\|noform\|noparens\|avg` (`2d6`) [troglodytes](3-Mechanics/CLI/bestiary/monstrosity/troglodyte-xmm.md) |
+| 19 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [trolls](3-Mechanics/CLI/bestiary/giant/troll-xmm.md) |
+| 20 | 1 [umber hulk](3-Mechanics/CLI/bestiary/monstrosity/umber-hulk-xmm.md) |
 ^encounter
 
 #### Drider
 
-This creature clings to the ceiling and prefers to make ranged attacks against the party. There is a 25 percent chance that the [drider](3-Mechanics/CLI/bestiary/monstrosity/drider.md) can cast spells (use the spellcasting variant in the *Monster Manual*). The drider flees if reduced to 30 or fewer hit points.
+This creature clings to the ceiling and prefers to make ranged attacks against the party. There is a 25 percent chance that the [drider](3-Mechanics/CLI/bestiary/monstrosity/drider-xmm.md) can cast spells (use the spellcasting variant in the *Monster Manual*). The drider flees if reduced to 30 or fewer hit points.
 
 #### Drow Hunting Party
 
-A [drow mage](3-Mechanics/CLI/bestiary/humanoid/drow-mage.md) of House Melarn leads a group of `1d6` [drow](3-Mechanics/CLI/bestiary/humanoid/drow.md) and `2d6` [bugbear](3-Mechanics/CLI/bestiary/humanoid/bugbear.md) slaves through the tunnels in search of a purple worm nursery, where they hope to find a purple worm egg as a gift for their matron mother. If the characters have an egg clearly in their possession, the drow party tries to take it. Otherwise, the drow mage is happy to let the characters and their expeditionary force pass by unchallenged.
+A [drow mage](3-Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md) of House Melarn leads a group of `dice:1d6|noform|noparens|avg` (`1d6`) [drow](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) and `dice:2d6|noform|noparens|avg` (`2d6`) [bugbear](3-Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md) slaves through the tunnels in search of a purple worm nursery, where they hope to find a purple worm egg as a gift for their matron mother. If the characters have an egg clearly in their possession, the drow party tries to take it. Otherwise, the drow mage is happy to let the characters and their expeditionary force pass by unchallenged.
 
 #### Dwarf Commoners
 
-There is a 75 percent chance that these [shield dwarves](3-Mechanics/CLI/bestiary/humanoid/commoner.md) are prospectors from Mithral Hall, hunting for precious stones and minerals. Otherwise, they are refugees who became lost in the Underdark after orcs attacked their stronghold and chased them underground. These dwarves are searching for a route to the surface.
+There is a 75 percent chance that these [shield dwarves](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) are prospectors from Mithral Hall, hunting for precious stones and minerals. Otherwise, they are refugees who became lost in the Underdark after orcs attacked their stronghold and chased them underground. These dwarves are searching for a route to the surface.
 
 ##### Treasure
 
-Each dwarf carries `1d10` pounds of food, `1d4` gallons of water (stored in canteens), and `1d6` gems worth 10 gp each.
+Each dwarf carries `dice:1d10|noform|noparens|avg` (`1d10`) pounds of food, `dice:1d4|noform|noparens|avg` (`1d4`) gallons of water (stored in canteens), and `dice:1d6|noform|noparens|avg` (`1d6`) gems worth 10 gp each.
 
 #### Ettins
 
-These [ettins](3-Mechanics/CLI/bestiary/giant/ettin.md) used to be orogs until the *faerzress* and the corrupting influence of Demogorgon transformed them into two-headed giants. Their transformation can't be undone. They are starving and attack the party on sight.
+These [ettins](3-Mechanics/CLI/bestiary/giant/ettin-xmm.md) used to be orogs until the *faerzress* and the corrupting influence of Demogorgon transformed them into two-headed giants. Their transformation can't be undone. They are starving and attack the party on sight.
 
 #### Flumphs
 
-A cloister of [flumphs](3-Mechanics/CLI/bestiary/aberration/flumph.md) floats through the tunnels. These peaceful creatures have been disturbed by the powerful thoughts of the demon lords. They warn the characters that these evil thoughts have polluted the Underdark, and that kindness is the only response to such evil.
+A cloister of [flumphs](3-Mechanics/CLI/bestiary/aberration/flumph-xmm.md) floats through the tunnels. These peaceful creatures have been disturbed by the powerful thoughts of the demon lords. They warn the characters that these evil thoughts have polluted the Underdark, and that kindness is the only response to such evil.
 
 #### Grick Nest
 
-The characters stumble upon a naturally formed cyst in a tunnel wall. A [grick alpha](3-Mechanics/CLI/bestiary/monstrosity/grick-alpha.md) and `2d4` [gricks](3-Mechanics/CLI/bestiary/monstrosity/grick.md) are using the cyst as a nest, attacking anything that passes by.
+The characters stumble upon a naturally formed cyst in a tunnel wall. A [grick alpha](3-Mechanics/CLI/bestiary/aberration/grick-ancient-xmm.md) and `dice:2d4|noform|noparens|avg` (`2d4`) [gricks](3-Mechanics/CLI/bestiary/aberration/grick-xmm.md) are using the cyst as a nest, attacking anything that passes by.
 
 ##### Treasure
 
-The walls of the cyst have precious crystals growing out of them. Characters can harvest these crystals, collecting `3d6` intact crystals worth 50 gp each.
+The walls of the cyst have precious crystals growing out of them. Characters can harvest these crystals, collecting `dice:3d6|noform|noparens|avg` (`3d6`) intact crystals worth 50 gp each.
 
 #### Purple Worm
 
-Roll a `d6` and consult the [Purple Worm](3-Mechanics/CLI/bestiary/monstrosity/purple-worm.md) Direction table to determine where the purple worm comes from.
+Roll a `dice:d6|noform|noparens|avg` (`d6`) and consult the [Purple Worm](3-Mechanics/CLI/bestiary/monstrosity/purple-worm-xmm.md) Direction table to determine where the purple worm comes from.
 
 #### Purple Worm Direction
 
+`dice: [](13-chapter-13-the-wormwrithings.md#^direction)`
+
 | dice: d6 | Direction |
 |----------|-----------|
-| 1–2 | The purple worm comes from behind the party, heading in the same direction and filling the entire tunnel. The party must either stay ahead of the worm or turn and fight it. If they stay ahead of the worm, the tunnel branches after `1d6` miles. |
-| 3–4 | The purple worm is moving along the tunnel in the opposite direction as the party and appears in front of them. The party must either reverse course or fight the worm. If they reverse course, the tunnel branches after `1d6` miles. |
-| 5–6 | The purple worm is burrowing through the solid rock on a path that intersects with the party's tunnel. The worm erupts from the tunnel wall behind the party, then continues on its way, leaving a new tunnel in its wake. The worm's passage triggers a rockfall in the party's tunnel, and each party member must succeed on a DC 13 Dexterity saving throw or take 10 (`3d6`) bludgeoning damage from falling debris. |
+| 1–2 | The purple worm comes from behind the party, heading in the same direction and filling the entire tunnel. The party must either stay ahead of the worm or turn and fight it. If they stay ahead of the worm, the tunnel branches after `dice:1d6\|noform\|noparens\|avg` (`1d6`) miles. |
+| 3–4 | The purple worm is moving along the tunnel in the opposite direction as the party and appears in front of them. The party must either reverse course or fight the worm. If they reverse course, the tunnel branches after `dice:1d6\|noform\|noparens\|avg` (`1d6`) miles. |
+| 5–6 | The purple worm is burrowing through the solid rock on a path that intersects with the party's tunnel. The worm erupts from the tunnel wall behind the party, then continues on its way, leaving a new tunnel in its wake. The worm's passage triggers a rockfall in the party's tunnel, and each party member must succeed on a DC 13 Dexterity saving throw or take `dice:3d6\|noform\|noparens\|avg\|text(10)` (`3d6`) bludgeoning damage from falling debris. |
 ^direction
 
 #### Troglodytes
 
-These [troglodytes](3-Mechanics/CLI/bestiary/humanoid/troglodyte.md) are heading toward their lair (see "Troglodyte Lair") and attack any other creatures they come across.
+These [troglodytes](3-Mechanics/CLI/bestiary/monstrosity/troglodyte-xmm.md) are heading toward their lair (see "Troglodyte Lair") and attack any other creatures they come across.
 
 #### Trolls
 
-These ravenous, insane [trolls](3-Mechanics/CLI/bestiary/giant/troll.md) attack the party on sight.
+These ravenous, insane [trolls](3-Mechanics/CLI/bestiary/giant/troll-xmm.md) attack the party on sight.
 
 #### Umber Hulk
 
-This [creature](3-Mechanics/CLI/bestiary/monstrosity/umber-hulk.md) is hidden behind a wall and uses its [tremorsense](3-Mechanics/CLI/rules/senses.md#Tremorsense) to detect passing prey, bursting out of a nearby wall to attack the nearest party member. Randomly determine who is attacked, taking into account any NPCs traveling with the characters.
+This [creature](3-Mechanics/CLI/bestiary/monstrosity/umber-hulk-xmm.md) is hidden behind a wall and uses its [tremorsense](3-Mechanics/CLI/rules/senses.md#Tremorsense) to detect passing prey, bursting out of a nearby wall to attack the nearest party member. Randomly determine who is attacked, taking into account any NPCs traveling with the characters.
 
 ## Troglodyte Lair
 
@@ -133,8 +137,8 @@ The characters can turn back without being spotted and find an alternate route b
 ^troglodyte-lair-general-features
 
 > [!gallery]
-> ![Map 13.1: Troglodyte Lair](3-Mechanics/CLI/adventures/out-of-the-abyss/img/094-13-01.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/out-of-the-abyss/img/095-troglodyte-lair-player-version.webp#gallery)
+> ![Map 13.1: Troglodyte Lair](file://adventure/OotA/094-13-01.webp#gallery)
+> ![Player Version](file://adventure/OotA/095-troglodyte-lair-player-version.webp#gallery)
 
 ### 1. Entrance Tunnel
 
@@ -146,61 +150,61 @@ Rubble is piled up along the walls on either side of the tunnel. The rubble on t
 
 ### 2. Cave Floor
 
-H'slaat, a [troglodyte champion of Laogzed](3-Mechanics/CLI/bestiary/humanoid/troglodyte-champion-of-laogzed-oota.md) (see appendix C), and twenty-two [troglodytes](3-Mechanics/CLI/bestiary/humanoid/troglodyte.md) are arrayed in a rough battle line along the south bank of a freshwater stream that nearly bisects the cavern. The stream runs west to east, tumbling down a short waterfall and forming a small pool (area 9). The stream is about 15 feet wide and 3 feet deep at its deepest point. It can be crossed on foot but is difficult terrain.
+H'slaat, a [troglodyte champion of Laogzed](3-Mechanics/CLI/bestiary/humanoid/troglodyte-champion-of-laogzed-oota.md) (see appendix C), and twenty-two [troglodytes](3-Mechanics/CLI/bestiary/monstrosity/troglodyte-xmm.md) are arrayed in a rough battle line along the south bank of a freshwater stream that nearly bisects the cavern. The stream runs west to east, tumbling down a short waterfall and forming a small pool (area 9). The stream is about 15 feet wide and 3 feet deep at its deepest point. It can be crossed on foot but is difficult terrain.
 
 The troglodytes are so distracted that it's possible to sneak through this area undetected as long as the adventurers stay close to the cavern walls. Each character must succeed on a DC 10 Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) check or be noticed by the troglodytes.
 
 #### Development
 
-Any wounded creature entering the stream attracts the [swarm of quippers](3-Mechanics/CLI/bestiary/beast/swarm-of-quippers.md) from area 11.
+Any wounded creature entering the stream attracts the [swarm of quippers](3-Mechanics/CLI/bestiary/beast/swarm-of-piranhas-xmm.md) from area 11.
 
 ### 3. Rise
 
 This upthrust section of the cavern floor is edged by a steep slope to the southwest and a 6-foot-high cliff elsewhere. The cliff requires a successful DC 11 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check to climb.
 
-Five [troglodytes](3-Mechanics/CLI/bestiary/humanoid/troglodyte.md) loyal to H'slaat are stationed here. In addition to their regular attacks, they are armed with javelins that they throw from a pile of twenty-five javelins on the cavern floor near them.
+Five [troglodytes](3-Mechanics/CLI/bestiary/monstrosity/troglodyte-xmm.md) loyal to H'slaat are stationed here. In addition to their regular attacks, they are armed with javelins that they throw from a pile of twenty-five javelins on the cavern floor near them.
 
 > [!note] 
 > 
-> **Javelin.** *Melee or Ranged Weapon Attack*: +4 to hit, reach 5 ft. or range 30/120 ft., one target. *Hit*: 3 (`1d6`) piercing damage.
+> **Javelin.** *Melee or Ranged Weapon Attack*: `dice:1d20+4|noform|noparens|text(+4)` to hit, reach 5 ft. or range 30/120 ft., one target. *Hit*: `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) piercing damage.
 ^446
 
-H'hoort, a [troglodyte](3-Mechanics/CLI/bestiary/humanoid/troglodyte.md) and Chieftain S'slaar's mate, is lashed between two stalagmites here. Another [troglodyte](3-Mechanics/CLI/bestiary/humanoid/troglodyte.md) stands guard next to her. Releasing H'hoort won't earn the adventurers a respite from the opportunistic troglodytes, but if the characters hold her captive, both sides are reluctant to attack them.
+H'hoort, a [troglodyte](3-Mechanics/CLI/bestiary/monstrosity/troglodyte-xmm.md) and Chieftain S'slaar's mate, is lashed between two stalagmites here. Another [troglodyte](3-Mechanics/CLI/bestiary/monstrosity/troglodyte-xmm.md) stands guard next to her. Releasing H'hoort won't earn the adventurers a respite from the opportunistic troglodytes, but if the characters hold her captive, both sides are reluctant to attack them.
 
 ### 4. Basin
 
 The area north of the stream is dominated by a 5-foot-deep basin. A 10-foot-wide furrow on the east side of the basin slopes down toward area 9.
 
-The troglodyte chieftain has arrayed his forces along the narrow strip of high ground between the basin and the stream. Chieftain S'slaar is a [troglodyte](3-Mechanics/CLI/bestiary/humanoid/troglodyte.md) with 20 hit points and a [+2 longsword](3-Mechanics/CLI/items/2-weapon.md). While he wields the sword, S'slaar gains the following action option:
+The troglodyte chieftain has arrayed his forces along the narrow strip of high ground between the basin and the stream. Chieftain S'slaar is a [troglodyte](3-Mechanics/CLI/bestiary/monstrosity/troglodyte-xmm.md) with 20 hit points and a [+2 longsword](3-Mechanics/CLI/items/2-weapon-xdmg.md). While he wields the sword, S'slaar gains the following action option:
 
 > [!note] 
 > 
-> **+2 Longsword.** *Ranged Weapon Attack*: +6 to hit, reach 5 ft., one target. *Hit*: 8 (`1d8 + 4`) slashing damage, or 9 (`1d10 + 4`) slashing damage if used with two hands.
+> **+2 Longsword.** *Ranged Weapon Attack*: `dice:1d20+6|noform|noparens|text(+6)` to hit, reach 5 ft., one target. *Hit*: `dice:1d8+4|noform|noparens|avg|text(8)` (`1d8 + 4`) slashing damage, or `dice:1d10+4|noform|noparens|avg|text(9)` (`1d10 + 4`) slashing damage if used with two hands.
 ^449
 
-S'slaar is accompanied by five [troglodytes](3-Mechanics/CLI/bestiary/humanoid/troglodyte.md) with 20 hit points each and three ordinary [troglodytes](3-Mechanics/CLI/bestiary/humanoid/troglodyte.md).
+S'slaar is accompanied by five [troglodytes](3-Mechanics/CLI/bestiary/monstrosity/troglodyte-xmm.md) with 20 hit points each and three ordinary [troglodytes](3-Mechanics/CLI/bestiary/monstrosity/troglodyte-xmm.md).
 
 #### Treasure
 
-S'slaar's [+2 longsword](3-Mechanics/CLI/items/2-weapon.md) is of drow manufacture (see the "Drowcraft Items" sidebar in appendix B). It has a cross guard shaped like a stylized spider with tiny gems for eyes. Etched into its blade are the words *Oloth tlu malla*, which is a drow expression meaning "Darkness be praised."
+S'slaar's [+2 longsword](3-Mechanics/CLI/items/2-weapon-xdmg.md) is of drow manufacture (see the "Drowcraft Items" sidebar in appendix B). It has a cross guard shaped like a stylized spider with tiny gems for eyes. Etched into its blade are the words *Oloth tlu malla*, which is a drow expression meaning "Darkness be praised."
 
 ### 5. Supplies and Captives
 
-This area is held by H'slaat's forces. One [troglodyte](3-Mechanics/CLI/bestiary/humanoid/troglodyte.md) guards the cave. A character can sneak past the guard with a successful DC 12 Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) check.
+This area is held by H'slaat's forces. One [troglodyte](3-Mechanics/CLI/bestiary/monstrosity/troglodyte-xmm.md) guards the cave. A character can sneak past the guard with a successful DC 12 Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) check.
 
-The cave floor is strewn with gnawed bones—the remains of dead dwarves and drow. A circular pit, nine feet deep, holds six captives—two [drow](3-Mechanics/CLI/bestiary/humanoid/drow.md) and four shield dwarf [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner.md). These unfortunates were separated from larger groups (see "Random Encounters" earlier in this chapter) and captured by the troglodytes. Every couple of days, one of them is eaten by the tribe. The captives are filthy and weak; each has four levels of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) and 1 hit point remaining. Any of the captives can explain the nature of the conflict between H'slaat and S'slaar. If freed, the drow immediately flee into the Underdark, but the dwarves offer to join the expeditionary force if the adventurers liberate them. The drow are male members of House Melarn and are named Rinil and Xol. The shield dwarves hail from the Silver Marches and are named Dauthorn Brightmantle (male), Traldak Xornbane (male), Zulia Stonewhisper (female), and Hargritt Hammerhome (female).
+The cave floor is strewn with gnawed bones—the remains of dead dwarves and drow. A circular pit, nine feet deep, holds six captives—two [drow](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) and four shield dwarf [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md). These unfortunates were separated from larger groups (see "Random Encounters" earlier in this chapter) and captured by the troglodytes. Every couple of days, one of them is eaten by the tribe. The captives are filthy and weak; each has four levels of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) and 1 hit point remaining. Any of the captives can explain the nature of the conflict between H'slaat and S'slaar. If freed, the drow immediately flee into the Underdark, but the dwarves offer to join the expeditionary force if the adventurers liberate them. The drow are male members of House Melarn and are named Rinil and Xol. The shield dwarves hail from the Silver Marches and are named Dauthorn Brightmantle (male), Traldak Xornbane (male), Zulia Stonewhisper (female), and Hargritt Hammerhome (female).
 
 Rubble is piled up along the south wall of the cavern, concealing a hidden passageway to area 1. Anyone with a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 15 or higher notices the passage. Anyone actively searching the rubble must succeed on a DC 10 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check to find it.
 
 #### Treasure
 
-Within the cave, four zurkhwood boxes hold a 50-foot length of spider silk rope, four flasks of oil, twenty pounds of rancid food, a pile of moldy blankets, six maces and sixteen javelins (all battered but usable), four casks of unspoiled wine worth 10 gp each, and a locked tribute chest. It takes a successful DC 15 Dexterity check using thieves' tools to open the chest, which contains 180 gp (minted in Menzoberranzan and Gracklstugh), three gems each worth 50 gp each, a [potion of gaseous form](3-Mechanics/CLI/items/potion-of-gaseous-form.md), and a [+1 dagger](3-Mechanics/CLI/items/1-weapon.md) with silvery, weblike filigree worked into the hilt. The dagger is of drow manufacture (see the "Drowcraft Items" sidebar in appendix B). The crude litters that the troglodytes use to bear these goods are propped up against the cave wall.
+Within the cave, four zurkhwood boxes hold a 50-foot length of spider silk rope, four flasks of oil, twenty pounds of rancid food, a pile of moldy blankets, six maces and sixteen javelins (all battered but usable), four casks of unspoiled wine worth 10 gp each, and a locked tribute chest. It takes a successful DC 15 Dexterity check using thieves' tools to open the chest, which contains 180 gp (minted in Menzoberranzan and Gracklstugh), three gems each worth 50 gp each, a [potion of gaseous form](3-Mechanics/CLI/items/potion-of-gaseous-form-xdmg.md), and a [+1 dagger](3-Mechanics/CLI/items/1-weapon-xdmg.md) with silvery, weblike filigree worked into the hilt. The dagger is of drow manufacture (see the "Drowcraft Items" sidebar in appendix B). The crude litters that the troglodytes use to bear these goods are propped up against the cave wall.
 
 ### 6. Steam Vent
 
 A thick jet of hot steam spews forth from a crack in the floor near the east wall of this cavern. Growing around the steam vent is a patch of fire lichen (see "Fungi of the Underdark" in chapter 2).
 
-Anyone with a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 13 or higher notices a vein of precious gems embedded in the rock wall behind the steam vent. Anyone actively searching the cavern spots the gem deposit automatically. The gems can't be reached without entering a 10-foot-by-10-foot-by-10-foot cloud of hot steam. Any creature that enters the area or starts its turn there takes `1d8` fire damage. The litters in area 5 or a similar object can be used to block the steam emerging from the vent for 1 round before weakening and falling apart.
+Anyone with a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 13 or higher notices a vein of precious gems embedded in the rock wall behind the steam vent. Anyone actively searching the cavern spots the gem deposit automatically. The gems can't be reached without entering a 10-foot-by-10-foot-by-10-foot cloud of hot steam. Any creature that enters the area or starts its turn there takes `dice:1d8|noform|noparens|avg` (`1d8`) fire damage. The litters in area 5 or a similar object can be used to block the steam emerging from the vent for 1 round before weakening and falling apart.
 
 #### Treasure
 
@@ -208,23 +212,23 @@ For each round spent digging at the wall, a character has a 10 percent chance of
 
 ### 7. Troglodyte Outpost
 
-H'slaat stationed four [troglodytes](3-Mechanics/CLI/bestiary/humanoid/troglodyte.md) here to watch for any of S'slaar's forces that might try to make their way into attack position through the outer caverns. These guards are always on alert. One of them carries a horn that it sounds in the event of an attack. If the horn is blown, eight of the troglodytes in area 2 come through area 5 and into this cave to investigate and shore up the defenses.
+H'slaat stationed four [troglodytes](3-Mechanics/CLI/bestiary/monstrosity/troglodyte-xmm.md) here to watch for any of S'slaar's forces that might try to make their way into attack position through the outer caverns. These guards are always on alert. One of them carries a horn that it sounds in the event of an attack. If the horn is blown, eight of the troglodytes in area 2 come through area 5 and into this cave to investigate and shore up the defenses.
 
 ### 8. Roper Lair
 
 This small cavern is filled with stalactites and stalagmites, making the cave floor difficult terrain. No phosphorescent lichen grows here, so the cave is dark.
 
-Two of the stalagmites are [ropers](3-Mechanics/CLI/bestiary/monstrosity/roper.md), while four of the stalactites are [piercers](3-Mechanics/CLI/bestiary/monstrosity/piercer.md) (the ropers' offspring). While lying in wait, the creatures are virtually undetectable. Any party member with a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 20 or higher notices something unusual about the rock formations in the cave. Unless they are recognized, the ropers and piercers surprise anyone entering the area.
+Two of the stalagmites are [ropers](3-Mechanics/CLI/bestiary/aberration/roper-xmm.md), while four of the stalactites are [piercers](3-Mechanics/CLI/bestiary/aberration/piercer-xmm.md) (the ropers' offspring). While lying in wait, the creatures are virtually undetectable. Any party member with a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 20 or higher notices something unusual about the rock formations in the cave. Unless they are recognized, the ropers and piercers surprise anyone entering the area.
 
 #### Treasure
 
-Searching the cave reveals the remains of a half-eaten male drow lying against one wall. The drow carries a small pouch containing 30 gp and two [spell scrolls](3-Mechanics/CLI/items/spell-scroll.md) ([shield](3-Mechanics/CLI/spells/shield.md) and [phantasmal force](3-Mechanics/CLI/spells/phantasmal-force.md)) written on sheets of trillimac (see "Fungi of the Underdark" in chapter 2).
+Searching the cave reveals the remains of a half-eaten male drow lying against one wall. The drow carries a small pouch containing 30 gp and two [spell scrolls](3-Mechanics/CLI/items/spell-scroll-xdmg.md) ([shield](3-Mechanics/CLI/spells/shield-xphb.md) and [phantasmal force](3-Mechanics/CLI/spells/phantasmal-force-xphb.md)) written on sheets of trillimac (see "Fungi of the Underdark" in chapter 2).
 
-If the ropers are killed and cut open, the adventurers find 25 pp in the gizzard of one, and a [ring of protection](3-Mechanics/CLI/items/ring-of-protection.md) in the gizzard of the other.
+If the ropers are killed and cut open, the adventurers find 25 pp in the gizzard of one, and a [ring of protection](3-Mechanics/CLI/items/ring-of-protection-xdmg.md) in the gizzard of the other.
 
 ### 9. Sunken Pool
 
-Water from the stream pours into this 15-foot-deep grotto, forming a 10-foot-deep pool with a narrow crack in the bottom. The pool's water is safe to drink, and growing around the pool's edge are `3d6` waterorbs (see "Fungi of the Underdark" in chapter 2).
+Water from the stream pours into this 15-foot-deep grotto, forming a 10-foot-deep pool with a narrow crack in the bottom. The pool's water is safe to drink, and growing around the pool's edge are `dice:3d6|noform|noparens|avg` (`3d6`) waterorbs (see "Fungi of the Underdark" in chapter 2).
 
 ### 10. Ruins
 
@@ -232,13 +236,13 @@ This large cavern is strewn with zurkhwood beams—enough to make a raft. An old
 
 ### 11. Spawning Pool
 
-The underground stream passes through this cave, traveling west to east. The adventurers can hear something splashing in the water as soon as they enter this area. Any character who enters the stream is immediately attacked by the [swarm of quippers](3-Mechanics/CLI/bestiary/beast/swarm-of-quippers.md) that has spawned here.
+The underground stream passes through this cave, traveling west to east. The adventurers can hear something splashing in the water as soon as they enter this area. Any character who enters the stream is immediately attacked by the [swarm of quippers](3-Mechanics/CLI/bestiary/beast/swarm-of-piranhas-xmm.md) that has spawned here.
 
 ### 12. Geothermic Vents
 
 The adventurers feel the heat emanating from this area as they approach. Thick cracks, some as wide as 2 feet, crisscross the cavern floor, opening up to a pool of molten rock 25 feet beneath the cavern. The dull orange glow of the lava below bathes this area in dim light.
 
-At the end of every minute the adventurers spend here, roll a `d6`. On a roll of 1, `1d4` [magma mephits](3-Mechanics/CLI/bestiary/elemental/magma-mephit.md) emerge from a crack in the floor and attack. No more than twelve mephits appear in a given 24-hour period.
+At the end of every minute the adventurers spend here, roll a `dice:d6|noform|noparens|avg` (`d6`). On a roll of 1, `dice:1d4|noform|noparens|avg` (`1d4`) [magma mephits](3-Mechanics/CLI/bestiary/elemental/magma-mephit-xmm.md) emerge from a crack in the floor and attack. No more than twelve mephits appear in a given 24-hour period.
 
 ### 13. Empty Cave
 
@@ -246,7 +250,7 @@ Rocks and small boulders are piled up along the north wall of this otherwise emp
 
 ### 14. Rally Point
 
-S'slaar's cavalry troops are gathered in this cavern, waiting for their master's order to attack. Six [troglodytes](3-Mechanics/CLI/bestiary/humanoid/troglodyte.md) are mounted on six [giant lizards](3-Mechanics/CLI/bestiary/beast/giant-lizard.md).
+S'slaar's cavalry troops are gathered in this cavern, waiting for their master's order to attack. Six [troglodytes](3-Mechanics/CLI/bestiary/monstrosity/troglodyte-xmm.md) are mounted on six [giant lizards](3-Mechanics/CLI/bestiary/beast/giant-lizard-xmm.md).
 
 Rocks and small boulders are piled up along the south wall. The rubble conceals a tunnel to area 13. Anyone with a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 15 or higher notices the hidden passage. Anyone actively searching the rubble must succeed on a DC 10 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check to find it.
 
@@ -282,9 +286,9 @@ After dealing with or avoiding the troglodytes, the adventurers can continue on 
 > The remnants of a rockfall have opened up a small vaulted cavern along the passageway. Apart from the occasional glowing insect scuttling along the walls, the cavern is dark. Suddenly, a loud voice booms out all around you in Undercommon: "Turn back or suffer a death so horrible you cannot imagine! You have been warned!"
 ^45d
 
-The voice is actually a [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md) cantrip. If no one in the party understands Undercommon, the dire warning is just loud gibberish to them. The cantrip was cast by [Hanne Hallen](3-Mechanics/CLI/bestiary/npc/hanne-hallen-oota.md), a young drow allied with House Mizzrym. Hanne has the statistics of a [drow](3-Mechanics/CLI/bestiary/humanoid/drow.md), with the following modifications:
+The voice is actually a [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md) cantrip. If no one in the party understands Undercommon, the dire warning is just loud gibberish to them. The cantrip was cast by [Hanne Hallen](3-Mechanics/CLI/bestiary/npc/hanne-hallen-oota.md), a young drow allied with House Mizzrym. Hanne has the statistics of a [drow](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md), with the following modifications:
 
-- Hanne's AC is 12, or 15 with [mage armor](3-Mechanics/CLI/spells/mage-armor.md). She doesn't wear a chain shirt.  
+- Hanne's AC is 12, or 15 with [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md). She doesn't wear a chain shirt.  
 - Her Intelligence is 17 (+3).  
 - Add [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana) +5 and [Investigation](3-Mechanics/CLI/rules/skills.md#Investigation) +5 to her skills.  
 - Add Common to her list of known languages.  
@@ -293,11 +297,11 @@ Hanne also has the following Spellcasting feature:
 
 > [!note] 
 > 
-> **Spellcasting.** Hanne is a 1st-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). She has the following wizard spells prepared:
+> **Spellcasting.** Hanne is a 1st-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 13, `dice:1d20+5|noform|noparens|text(+5)` to hit with spell attacks). She has the following wizard spells prepared:
 > 
-> Cantrips (at will): [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md), [ray of frost](3-Mechanics/CLI/spells/ray-of-frost.md)
+> Cantrips (at will): [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md), [ray of frost](3-Mechanics/CLI/spells/ray-of-frost-xphb.md)
 > 
-> 1st Level (2 slots): [shield](3-Mechanics/CLI/spells/shield.md), [mage armor](3-Mechanics/CLI/spells/mage-armor.md)
+> 1st Level (2 slots): [shield](3-Mechanics/CLI/spells/shield-xphb.md), [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)
 ^45e
 
 Hanne's mother, Zhora Hallen, leads the Dark Hunters—drow explorers who steal purple worm eggs. These eggs are prized by wizards, who use them in various arcane rituals. Hanne was on her first egg run with her mother's team when a passing purple worm burst into the tunnel they were traveling through, separating her from the rest of the group. Convinced that her mother and the rest of the Dark Hunters were killed by the purple worm, the headstrong and half-starved young mage-in-training is attempting to make her way back to Menzoberranzan.
@@ -320,8 +324,8 @@ As the characters near the nursery, they get a view of one of its guardians—an
 The tunnel through which the characters travel is directly above area 1 of the nursery. The burrowing of a nearby purple worm weakens the tunnel floor, causing a 10-foot section of it to break apart and collapse. Any character in the area must make a successful DC 15 Dexterity saving throw or fall 25 feet into area 1 below.
 
 > [!gallery]
-> ![Map 13.2: The Worm Nursery](3-Mechanics/CLI/adventures/out-of-the-abyss/img/096-13-02.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/out-of-the-abyss/img/097-worm-nursery-player-version.webp#gallery)
+> ![Map 13.2: The Worm Nursery](file://adventure/OotA/096-13-02.webp#gallery)
+> ![Player Version](file://adventure/OotA/097-worm-nursery-player-version.webp#gallery)
 
 ### 1. Entry Cavern
 
@@ -329,7 +333,7 @@ Any characters dropped into this dark cave have time to recover, while character
 
 ### 2. Fungus Cave
 
-A variety of fungi blankets this dark, 15-foot-high cavern. Every 10 minutes spent foraging here yields `1d3` pounds of edible fungi per forager (to a maximum of 30 pounds).
+A variety of fungi blankets this dark, 15-foot-high cavern. Every 10 minutes spent foraging here yields `dice:1d3|noform|noparens|avg` (`1d3`) pounds of edible fungi per forager (to a maximum of 30 pounds).
 
 The passage to area 3 is a steep slope leading 10 feet upward, and covered in small rocks and gravel. Moving up the slope requires a successful DC 12 Dexterity ([Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)) check. On a failed check, a character slips and tumbles down to the bottom of the slope, taking no damage. If someone at the top of the slope lowers a rope to help other characters climb, no check is necessary.
 
@@ -362,29 +366,29 @@ Scaling the chasm walls without gear requires a successful DC 15 Strength ([Athl
 
 #### Treasure
 
-The skeleton still wears a [ring of free action](3-Mechanics/CLI/items/ring-of-free-action.md) on one bony finger.
+The skeleton still wears a [ring of free action](3-Mechanics/CLI/items/ring-of-free-action-xdmg.md) on one bony finger.
 
 ### 5. Echo Chambers
 
 These three 60-foot-high caverns, hollowed out and expanded by purple worms, are set around area 8 as a defensive measure. Using their saliva, the worms have created thick, resinous strands that stretch from wall to wall. These strands are 2 feet thick and suspended some 50 feet above the floor.
 
-Any noise in one of these chambers (including a normal speaking voice or metal striking metal) causes the strands to reverberate, creating a loud humming that echoes throughout the surrounding caverns, alerting the [purple worms](3-Mechanics/CLI/bestiary/monstrosity/purple-worm.md) to the presence of trespassers.
+Any noise in one of these chambers (including a normal speaking voice or metal striking metal) causes the strands to reverberate, creating a loud humming that echoes throughout the surrounding caverns, alerting the [purple worms](3-Mechanics/CLI/bestiary/monstrosity/purple-worm-xmm.md) to the presence of trespassers.
 
 #### Development
 
-If the adventurers set off a humming in one of these echo chambers, a distant rumbling can be heard and felt as a purple worm burrows toward the egg chamber, arriving there in `1d4` minutes (see area 8 for details).
+If the adventurers set off a humming in one of these echo chambers, a distant rumbling can be heard and felt as a purple worm burrows toward the egg chamber, arriving there in `dice:1d4|noform|noparens|avg` (`1d4`) minutes (see area 8 for details).
 
 ### 6. Caretaker's Quarters
 
-Phosphorescent lichen clings to the walls of this 30-foot-high cavern. Stronk, a brutish [fomorian](3-Mechanics/CLI/bestiary/giant/fomorian.md), lairs here. Somehow the giant formed a bond with the purple worms, becoming a caretaker of their eggs. He regularly checks the eggs, brushes fungus off them, and defends them against predators.
+Phosphorescent lichen clings to the walls of this 30-foot-high cavern. Stronk, a brutish [fomorian](3-Mechanics/CLI/bestiary/giant/fomorian-xmm.md), lairs here. Somehow the giant formed a bond with the purple worms, becoming a caretaker of their eggs. He regularly checks the eggs, brushes fungus off them, and defends them against predators.
 
 Stronk is sleeping on a pile of skins and loudly snoring when the adventurers arrive. Characters looking around the room can see the remnants of the fomorian's grim meals—travelers lost in the Wormwrithings or egg-hunting adventurers.
 
-Venturing into Stronk's lair without waking him requires a successful DC 12 Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) check. If awakened, the fomorian shouts out about "killing egg thieves" and "protecting my precious ones," then fights to defend the nesting area and protect the eggs. If Stronk is reduced to half his hit points or fewer, he charges into the adjoining echo chamber (area 5) and bellows to summon a [purple worm](3-Mechanics/CLI/bestiary/monstrosity/purple-worm.md) before rejoining the battle.
+Venturing into Stronk's lair without waking him requires a successful DC 12 Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) check. If awakened, the fomorian shouts out about "killing egg thieves" and "protecting my precious ones," then fights to defend the nesting area and protect the eggs. If Stronk is reduced to half his hit points or fewer, he charges into the adjoining echo chamber (area 5) and bellows to summon a [purple worm](3-Mechanics/CLI/bestiary/monstrosity/purple-worm-xmm.md) before rejoining the battle.
 
 #### Treasure
 
-All the treasure Stronk has taken from his victims has been placed under his sleeping skins for safekeeping: 40 pp, an electrum brooch worth 120 gp, six gems worth 50 gp each, two [potions of greater healing](3-Mechanics/CLI/items/potion-of-greater-healing.md), and a book of drow poetry worth 100 gp.
+All the treasure Stronk has taken from his victims has been placed under his sleeping skins for safekeeping: 40 pp, an electrum brooch worth 120 gp, six gems worth 50 gp each, two [potions of greater healing](3-Mechanics/CLI/items/potion-of-greater-healing-xdmg.md), and a book of drow poetry worth 100 gp.
 
 ### 7. Entry Chamber
 
@@ -403,19 +407,21 @@ Zhora Hallen and her Dark Hunters enter the purple worm nursery by scaling down 
 
 The ceiling of this cavern is 80 feet high. A pair of purple worms have laid their eggs here, cementing them together and anchoring them to the cavern walls with their resinous saliva. Seven clusters hold six eggs each, as noted on the map. Each egg is a silvery sphere 3 feet in diameter. Its shell is tough (AC 20), but an egg is destroyed if it takes any amount of damage.
 
-Three of the four resin strands anchoring the network of egg clusters to the cavern walls feature stray threads that drop all the way down to the cave floor. It's possible to climb up to the strands at these points to reach the eggs. Traversing the strands is slow going; each 1 foot of distance costs 3 feet of movement. Anyone fighting or taking strenuous action atop a strand must succeed on a DC 10 Dexterity ([Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)) check to avoid falling off. An adventurer who reaches an egg cluster and has a suitable cutting tool (such as a dagger, sword, or axe) can carefully hack an egg out in `2d4` minutes.
+Three of the four resin strands anchoring the network of egg clusters to the cavern walls feature stray threads that drop all the way down to the cave floor. It's possible to climb up to the strands at these points to reach the eggs. Traversing the strands is slow going; each 1 foot of distance costs 3 feet of movement. Anyone fighting or taking strenuous action atop a strand must succeed on a DC 10 Dexterity ([Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)) check to avoid falling off. An adventurer who reaches an egg cluster and has a suitable cutting tool (such as a dagger, sword, or axe) can carefully hack an egg out in `dice:2d4|noform|noparens|avg` (`2d4`) minutes.
 
 The upper reaches of the egg chamber are covered in webs spun by the giant spiders in area 11. Some of these webs reach all the way down to the egg clusters.
 
-For every five minutes the adventurers spend in this room, check for a random encounter by rolling a `d20` and consulting the Egg Chamber Encounters table.
+For every five minutes the adventurers spend in this room, check for a random encounter by rolling a `dice:d20|noform|noparens|avg` (`d20`) and consulting the Egg Chamber Encounters table.
 
 #### Egg Chamber Encounters
+
+`dice: [](13-chapter-13-the-wormwrithings.md#^encounter)`
 
 | dice: d20 | Encounter |
 |-----------|-----------|
 | 1–15 | No encounter |
-| 16–18 | 1 [giant spider](3-Mechanics/CLI/bestiary/beast/giant-spider.md) from area 11 |
-| 19–20 | 1 [purple worm](3-Mechanics/CLI/bestiary/monstrosity/purple-worm.md) |
+| 16–18 | 1 [giant spider](3-Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) from area 11 |
+| 19–20 | 1 [purple worm](3-Mechanics/CLI/bestiary/monstrosity/purple-worm-xmm.md) |
 ^encounter
 
 The giant spider walks on the ceiling and surprises the adventurers unless someone in the party has a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 14 or higher.
@@ -428,9 +434,9 @@ The purple worm attacks anyone it detects in the chamber except the giant spider
 
 This cave is thick with stalactites and stalagmites, and home to thousands of bats. The cavern floor is covered in a thick layer of guano, making the floor difficult terrain. The bats spend most of their time clinging to the cavern's 60-foot-high ceiling, but the noise of the purple worms drives them into a shrieking, flapping frenzy.
 
-Whenever a purple worm enters the area 8 (whether as a random encounter or in response to an alarm from area 5, or as noted in the "Worm Nursery: General Features" sidebar), a [swarm of bats](3-Mechanics/CLI/bestiary/beast/swarm-of-bats.md) flies out of the cave 1 minute before the worm appears. Roll a `d6` to determine which way the bats go. On a roll of 1–3, the bats take the shortest route to the tunnel in area 7 and exit through that tunnel. On a roll of 4–6, the bats take the shortest route to the tunnel in area 14 and exit through that tunnel.
+Whenever a purple worm enters the area 8 (whether as a random encounter or in response to an alarm from area 5, or as noted in the "Worm Nursery: General Features" sidebar), a [swarm of bats](3-Mechanics/CLI/bestiary/beast/swarm-of-bats-xmm.md) flies out of the cave 1 minute before the worm appears. Roll a `dice:d6|noform|noparens|avg` (`d6`) to determine which way the bats go. On a roll of 1–3, the bats take the shortest route to the tunnel in area 7 and exit through that tunnel. On a roll of 4–6, the bats take the shortest route to the tunnel in area 14 and exit through that tunnel.
 
-The swarm doesn't attack unless threatened, but any creature that occupies an area the swarm passes through is buffeted by scores of bats, taking `1d4` bludgeoning damage.
+The swarm doesn't attack unless threatened, but any creature that occupies an area the swarm passes through is buffeted by scores of bats, taking `dice:1d4|noform|noparens|avg` (`1d4`) bludgeoning damage.
 
 #### Development
 
@@ -440,7 +446,7 @@ When the purple worm that caused the bats to swarm exits the nursery, the bats r
 
 The floor of this dark, 60-foot-high cavern is covered in a thick layer of viscous purple worm saliva. Consequently, the floor is difficult terrain. As they enter, adventurers notice dozens of glinting objects in the goo beneath their feet. Further inspection reveals the sparkling objects are precious gems.
 
-For every minute the adventurers spend in this cave, there is a 25 percent chance they attract the attention of `1d4` [giant spiders](3-Mechanics/CLI/bestiary/beast/giant-spider.md) from area 11. The spiders scuttle along the walls and ceiling, avoiding the gooey floor.
+For every minute the adventurers spend in this cave, there is a 25 percent chance they attract the attention of `dice:1d4|noform|noparens|avg` (`1d4`) [giant spiders](3-Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) from area 11. The spiders scuttle along the walls and ceiling, avoiding the gooey floor.
 
 #### Treasure
 
@@ -450,7 +456,7 @@ If the adventurers take 10 minutes to search through the goo, they can retrieve 
 
 Giant spiders enjoy a symbiotic relationship with purple worms and are frequently found lairing in purple worm nurseries. The multitude of predators that seek out the worms' eggs provide the spiders with easy prey, while the presence of the spiders provides additional protection for the hatchery.
 
-The eastern half of this cavern floor is covered in webs stretching up to the ceiling. See ""Dungeon Hazards"" in chapter 5 of the *Dungeon Master's Guide* for rules about webs. Eight [giant spiders](3-Mechanics/CLI/bestiary/beast/giant-spider.md) lurk in the nest, minus any killed elsewhere in the nursery.
+The eastern half of this cavern floor is covered in webs stretching up to the ceiling. See ""Dungeon Hazards"" in chapter 5 of the *Dungeon Master's Guide* for rules about webs. Eight [giant spiders](3-Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) lurk in the nest, minus any killed elsewhere in the nursery.
 
 ### 12. Chasm
 
@@ -458,7 +464,7 @@ A chasm cuts across this cavern, stretching from wall to wall. The chasm is 10 f
 
 #### Treasure
 
-At the bottom of the chasm lie the skeletons of two svirfneblin who tried to leap across the chasm while being chased by a purple worm. Lying near the remains are two miner's picks and a small leather pouch containing a [gem of brightness](3-Mechanics/CLI/items/gem-of-brightness.md).
+At the bottom of the chasm lie the skeletons of two svirfneblin who tried to leap across the chasm while being chased by a purple worm. Lying near the remains are two miner's picks and a small leather pouch containing a [gem of brightness](3-Mechanics/CLI/items/gem-of-brightness-xdmg.md).
 
 ### 13. Exit Tunnel
 
@@ -466,7 +472,7 @@ Characters can exit the worm nursery and return to the Wormwrithings via this pu
 
 ## The Dark Hunters
 
-The Dark Hunters consist of Zhora Hallen (a [drow elite warrior](3-Mechanics/CLI/bestiary/humanoid/drow-elite-warrior.md)) and ten [drow](3-Mechanics/CLI/bestiary/humanoid/drow.md). Each carries adventuring equipment (bedroll, rope, a flask of oil), three days' worth of food and water rations, and `2d6 × 10` gp. Zhora and her comrades survived the purple worm attack that separated them from Hanne (see "Voice in the Dark"). Zhora believes that Hanne is dead.
+The Dark Hunters consist of Zhora Hallen (a [drow elite warrior](3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md)) and ten [drow](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md). Each carries adventuring equipment (bedroll, rope, a flask of oil), three days' worth of food and water rations, and `2d6 × 10` gp. Zhora and her comrades survived the purple worm attack that separated them from Hanne (see "Voice in the Dark"). Zhora believes that Hanne is dead.
 
 Twenty minutes after the characters first enter the purple worm nursery through area 1, Zhora and her Dark Hunters enter these caverns through the tunnel in area 7, then scale down to the cavern floor. They spend a few minutes regrouping and making their way through the southern echo chamber, then arrive in area 8 and scale the resin strands to grab two purple worm eggs. If they encounter the adventurers and Hanne isn't present, the drow are hostile, though they might be convinced to enter a temporary truce with a successful DC 20 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check.
 
@@ -512,14 +518,14 @@ All of the slaves fear Karazikar, and the notion of acting against the beholder 
 > 
 > **Bridges.** The central chasm of Karazikar's Maw is 100 feet across, spanned by bridges made of gut and zurkhwood that are anchored to metal rings in the rock walls of the tunnel entrances. The tunnels are staggered so that the bridges cross over each other at different points. From any bridge, a character can climb or drop 10 feet to reach a bridge leading to a tunnel on an adjacent level.
 > 
-> **Chasm.** The chasm of Karazikar's Maw extends some five hundred feet below the lowest bridged tunnels, plunging into darkness. A fall into the chasm deals `20d6` bludgeoning damage.
+> **Chasm.** The chasm of Karazikar's Maw extends some five hundred feet below the lowest bridged tunnels, plunging into darkness. A fall into the chasm deals `dice:20d6|noform|noparens|avg` (`20d6`) bludgeoning damage.
 > 
 > **Shafts.** The ten vertical shafts around the perimeter of the chasm are each 30 feet wide and 100 feet from top to bottom. They're located 100 feet from the edge of the chasm and connected to it by tunnels. Each shaft features side chambers and small caverns, and has rope ladders for Karazikar's slaves to move up and down them.
 ^the-vast-oblivium-general-features
 
 ### Arrival
 
-![](3-Mechanics/CLI/adventures/out-of-the-abyss/img/098-ooa13-04.webp#center)
+![](file://adventure/OotA/098-ooa13-04.webp#center)
 
 When the characters come within a mile of the Vast Oblivium, they feel a growing sense of being watched. They catch glimpses of eyes peering out of the shadows. These eyes close and vanish when anyone tries to focus on them, and adventurers who search for signs of what caused them must succeed on a DC 11 Wisdom saving throw or gain one level of madness (see "Madness" in chapter 2).
 
@@ -527,22 +533,22 @@ The characters' tunnel ends at the top of one of the exterior shafts of the Vast
 
 #### Welcome to Karazikar's Maw
 
-Shedrak meets visitors at the chasm, greeting them in the name of his master, the great [Karazikar](3-Mechanics/CLI/bestiary/aberration/beholder.md), and asking their business. Use the [mage](3-Mechanics/CLI/bestiary/humanoid/mage.md) statistics to represent Shedrak, with the following modifications:
+Shedrak meets visitors at the chasm, greeting them in the name of his master, the great [Karazikar](3-Mechanics/CLI/bestiary/aberration/beholder-xmm.md), and asking their business. Use the [mage](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) statistics to represent Shedrak, with the following modifications:
 
 - Shedrak is chaotic evil.  
 - He has ten small eyes tattooed on his bald head that allow him to see [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) creatures and objects as if they were visible.  
 - He carries a nonmagical staff topped with a varnished beholder eye. Karazikar can see through this eye and treats it as one of its own eyes for the purpose of using its eye rays. Breaking the staff renders the eye inert and prevents Karazikar from using this property.  
-- He carries a [potion of healing](3-Mechanics/CLI/items/potion-of-healing.md), a [potion of poison](3-Mechanics/CLI/items/potion-of-poison.md), and a [spell scroll](3-Mechanics/CLI/items/spell-scroll.md) of [globe of invulnerability](3-Mechanics/CLI/spells/globe-of-invulnerability.md).  
+- He carries a [potion of healing](3-Mechanics/CLI/items/potion-of-healing-xdmg.md), a [potion of poison](3-Mechanics/CLI/items/potion-of-poison-xdmg.md), and a [spell scroll](3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [globe of invulnerability](3-Mechanics/CLI/spells/globe-of-invulnerability-xphb.md).  
 
 As long as the adventurers are respectful toward Shedrak and his master—and particularly if they claim to carry messages or items of possible interest to the beholder—Shedrak agrees to lead them to Karazikar.
 
-If the characters become hostile, Shedrak orders them to depart, lest they provoke the wrath of his all-powerful master. If attacked, he uses his [globe of invulnerability](3-Mechanics/CLI/spells/globe-of-invulnerability.md) scroll, casts [fly](3-Mechanics/CLI/spells/fly.md) on himself, and flies into the chasm.
+If the characters become hostile, Shedrak orders them to depart, lest they provoke the wrath of his all-powerful master. If attacked, he uses his [globe of invulnerability](3-Mechanics/CLI/spells/globe-of-invulnerability-xphb.md) scroll, casts [fly](3-Mechanics/CLI/spells/fly-xphb.md) on himself, and flies into the chasm.
 
 Shedrak allows up to ten party members accompany him, demanding that the rest of the expeditionary force remain behind. Shedrak then leads the smaller group across a bridge into the middle of Karazikar's Maw.
 
 #### Audience with Karazikar
 
-Whether they're escorted by Shedrak or make their own way into Karazikar's Maw, the adventurers first encounter the [beholder](3-Mechanics/CLI/bestiary/aberration/beholder.md) as they cross the chasm. The beholder descends from the shadowy ceiling, staying at least 20 feet away from the bridge.
+Whether they're escorted by Shedrak or make their own way into Karazikar's Maw, the adventurers first encounter the [beholder](3-Mechanics/CLI/bestiary/aberration/beholder-xmm.md) as they cross the chasm. The beholder descends from the shadowy ceiling, staying at least 20 feet away from the bridge.
 
 If the characters have come to talk, Karazikar hears them out. The beholder is supremely arrogant, and it speaks and understands only Deep Speech and Undercommon. If any of the characters bluff about having information of interest to the beholder, Karazikar mentions the Maze Engine, either to see if the adventurers know of it, or in a scoffing tone to suggest they can't possibly know anything that it has not already learned.
 
@@ -556,13 +562,13 @@ When the beholder is reduced to 0 hit points, its corpse slowly sinks, falling 1
 
 If Karazikar and Shedrak are defeated, the beholder's slaves emerge from various tunnels, file out onto the bridges, and kneel in supplication, worshiping their liberators as gods. Each slave bears the brand of Karazikar on its forehead—a scar shaped like an open eye. The slaves are unarmed and include the following:
 
-- 21 shield dwarf [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner.md)  
-- 17 human [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner.md)  
-- 11 moon elf [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner.md)  
-- 8 female [drow](3-Mechanics/CLI/bestiary/humanoid/drow.md) and 1 male [drow](3-Mechanics/CLI/bestiary/humanoid/drow.md)  
-- 5 [deep gnomes](3-Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md)  
-- 23 [goblins](3-Mechanics/CLI/bestiary/humanoid/goblin.md)  
-- 15 [orogs](3-Mechanics/CLI/bestiary/humanoid/orog.md)  
+- 21 shield dwarf [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)  
+- 17 human [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)  
+- 11 moon elf [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)  
+- 8 female [drow](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) and 1 male [drow](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md)  
+- 5 [deep gnomes](3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md)  
+- 23 [goblins](3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md)  
+- 15 [orogs](3-Mechanics/CLI/bestiary/humanoid/berserker-xmm.md)  
 
 All of the slaves have four levels of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) (see "appendix A" of the *Player's Handbook*) and can't do much more than eat and follow simple instructions. They join the party's expeditionary force if urged or ordered to do so, but they aren't effective combatants until they've rested and reduced their [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) level.
 
@@ -581,13 +587,13 @@ Any slaves that don't join the party are anxious to make their way to the neares
 
 #### Modron Prisoner
 
-One or more slaves can lead characters to a small room on the uppermost level of the complex. The room is sealed off with a 6-inch-thick circular stone door that can be rolled aside with a DC 20 Strength check or opened with a [knock](3-Mechanics/CLI/spells/knock.md) spell or similar magic. The room holds a damaged [duodrone](3-Mechanics/CLI/bestiary/construct/duodrone.md) that Karazikar recently captured in the hopes of unlocking more information about the Maze Engine.
+One or more slaves can lead characters to a small room on the uppermost level of the complex. The room is sealed off with a 6-inch-thick circular stone door that can be rolled aside with a DC 20 Strength check or opened with a [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell or similar magic. The room holds a damaged [duodrone](3-Mechanics/CLI/bestiary/construct/modron-duodrone-xmm.md) that Karazikar recently captured in the hopes of unlocking more information about the Maze Engine.
 
-The duodrone has 1 hit point remaining and speaks its own language of clicks and whirs, always referring to itself as "we" or "us." The demonic madness as scrambled its memory, but if a [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md) spell is cast on it, the modron remembers two things:
+The duodrone has 1 hit point remaining and speaks its own language of clicks and whirs, always referring to itself as "we" or "us." The demonic madness as scrambled its memory, but if a [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md) spell is cast on it, the modron remembers two things:
 
 - "We were part of a great march. We were separated. Then we were lost. Then we were captured. Then we started freaking out. Then you found us."  
 - "We know nothing about a 'Maze Engine.' However, we can detect an Orderer approximately 289 miles south of our present location." (The "Orderer," claims the modron, is a device that brings order to chaos. It is, in fact, what others refer to as the Maze Engine.)  
 
 #### Treasure
 
-The beholder used its disintegration eye ray to carve a rough likeness of itself in the ceiling of Karazikar's Maw—a great stone beholder face glaring down upon the gaping chasm, its central eye a hollow shaft that leads up to a hemispherical vault where the beholder hides its considerable hoard: 15,000 gp, 1,300 pp, ten assorted gems worth 500 gp each, a [gem of seeing](3-Mechanics/CLI/items/gem-of-seeing.md), a [necklace of adaptation](3-Mechanics/CLI/items/necklace-of-adaptation.md), and a [robe of eyes](3-Mechanics/CLI/items/robe-of-eyes.md).
+The beholder used its disintegration eye ray to carve a rough likeness of itself in the ceiling of Karazikar's Maw—a great stone beholder face glaring down upon the gaping chasm, its central eye a hollow shaft that leads up to a hemispherical vault where the beholder hides its considerable hoard: 15,000 gp, 1,300 pp, ten assorted gems worth 500 gp each, a [gem of seeing](3-Mechanics/CLI/items/gem-of-seeing-xdmg.md), a [necklace of adaptation](3-Mechanics/CLI/items/necklace-of-adaptation-xdmg.md), and a [robe of eyes](3-Mechanics/CLI/items/robe-of-eyes-xdmg.md).

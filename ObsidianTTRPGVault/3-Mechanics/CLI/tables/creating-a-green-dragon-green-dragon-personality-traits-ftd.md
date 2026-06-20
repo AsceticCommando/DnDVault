@@ -12,6 +12,8 @@ aliases:
 
 **Green Dragon Personality Traits**
 
+`dice: [](creating-a-green-dragon-green-dragon-personality-traits-ftd.md#^green-dragon-personality-traits)`
+
 | dice: d8 | Trait |
 |----------|-------|
 | 1 | You're either with me or you're against me. Just kidding—you're lunch either way! |

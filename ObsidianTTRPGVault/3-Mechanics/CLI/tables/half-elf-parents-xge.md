@@ -12,6 +12,8 @@ aliases:
 
 **Half-Elf Parents**
 
+`dice: [](half-elf-parents-xge.md#^half-elf-parents)`
+
 | dice: d8 | Parents |
 |----------|---------|
 | 1-5 | One parent was an elf and the other was a human. |

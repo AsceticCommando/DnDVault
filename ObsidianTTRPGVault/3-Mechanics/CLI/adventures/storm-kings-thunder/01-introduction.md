@@ -32,7 +32,7 @@ The recent efforts by dragons to bring Tiamat into the world (as told in the adv
 
 Small folk can only speculate as to the cause of the giants' unrest. It remains to be seen whether the old ordning between the giant types will be restored, or whether a new hierarchy will replace the old one, knocking the storm giants from their lofty perch.
 
-![](3-Mechanics/CLI/adventures/storm-kings-thunder/img/000-giantrunes.webp#center)
+![](file://adventure/SKT/000-giantrunes.webp#center)
 
 ### King Hekaton and His Daughters
 
@@ -56,7 +56,7 @@ The elder sisters, acting in accordance with [Iymrith](3-Mechanics/CLI/bestiary/
 
 In the wake of Hekaton's disappearance, turmoil engulfed his court. After nearly a month of waiting for him to come back, [Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md) reluctantly claimed her father's throne at [Imperator Uthor](3-Mechanics/CLI/bestiary/npc/imperator-uthor-skt.md)'s urging.
 
-![](3-Mechanics/CLI/adventures/storm-kings-thunder/img/001-hekatonanddaughters.webp#center)
+![](file://adventure/SKT/001-hekatonanddaughters.webp#center)
 
 #### Mirran and Nym
 
@@ -78,7 +78,7 @@ Hekaton left behind a piece of regalia called the [Korolnor Scepter](3-Mechanics
 
 The disguised dragon put [Mirran](3-Mechanics/CLI/bestiary/npc/mirran-skt.md) and [Nym](3-Mechanics/CLI/bestiary/npc/nym-skt.md) in contact with representatives of [Slarkrethel](3-Mechanics/CLI/bestiary/npc/slarkrethel-skt.md), a legendary kraken that haunts the Trackless Sea. These small folk belong to a secret yet widespread organization called the Kraken Society. Using information given to them by the evil storm giant sisters, Kraken Society operatives ambushed and killed Queen Neri. [Iymrith](3-Mechanics/CLI/bestiary/npc/iymrith-skt.md) then planted rumors in the storm giant court that the queen had been assassinated by the Lords' Alliance, a confederacy of cities and settlements populated by small folk and scattered throughout the North. The Lords' Alliance represents one of the greatest threats to dragons in Faerûn, so [Iymrith](3-Mechanics/CLI/bestiary/npc/iymrith-skt.md) is keen to bring about its end.
 
-![](3-Mechanics/CLI/adventures/storm-kings-thunder/img/002-giants1.webp#center)
+![](file://adventure/SKT/002-giants1.webp#center)
 
 ### The Giant Lords
 
@@ -100,13 +100,13 @@ Storvald has childhood memories of a legend about the Ice That Never Melts—a p
 
 #### Duke Zalto
 
-Zalto, a fire giant duke, believes that he can become the ruler of all giants by slaughtering their ancient enemies: dragons. [Duke Zalto](3-Mechanics/CLI/bestiary/npc/duke-zalto-skt.md) has set his minions to the task of finding and unearthing fragments of a dragon-slaying colossus called the Vonindod ("titan of death"). Pieces of it were lost in battle, while the rest was dismantled at the end of the ancient war between giants and dragonkind. Once all the pieces are found, Zalto plans to reforge the Vonindod and unleash it on the world. Beneath the Ice Spires lies an ancient fire giant forge called Ironslag. Unfortunately for Zalto, Ironslag's forges aren't hot enough to repair the colossus. The duke, undaunted, plans to steal Maegera, the fire primordial trapped in the subterranean dwarven fortress-city of Gauntlgrym, and trap it within Ironslag's adamantine forge. The dwarves rely on Maegera to heat their own forges. Hesitant to storm the dwarven fortress, Zalto has met with drow representatives of House Xorlarrin, who know the layout of Gauntlgrym well. With their aid, the fire giant duke plans to imprison Maegera in an [iron flask](3-Mechanics/CLI/items/iron-flask.md) and transport the primordial to Ironslag—a goal easier imagined than accomplished.
+Zalto, a fire giant duke, believes that he can become the ruler of all giants by slaughtering their ancient enemies: dragons. [Duke Zalto](3-Mechanics/CLI/bestiary/npc/duke-zalto-skt.md) has set his minions to the task of finding and unearthing fragments of a dragon-slaying colossus called the Vonindod ("titan of death"). Pieces of it were lost in battle, while the rest was dismantled at the end of the ancient war between giants and dragonkind. Once all the pieces are found, Zalto plans to reforge the Vonindod and unleash it on the world. Beneath the Ice Spires lies an ancient fire giant forge called Ironslag. Unfortunately for Zalto, Ironslag's forges aren't hot enough to repair the colossus. The duke, undaunted, plans to steal Maegera, the fire primordial trapped in the subterranean dwarven fortress-city of Gauntlgrym, and trap it within Ironslag's adamantine forge. The dwarves rely on Maegera to heat their own forges. Hesitant to storm the dwarven fortress, Zalto has met with drow representatives of House Xorlarrin, who know the layout of Gauntlgrym well. With their aid, the fire giant duke plans to imprison Maegera in an [iron flask](3-Mechanics/CLI/items/iron-flask-xdmg.md) and transport the primordial to Ironslag—a goal easier imagined than accomplished.
 
 #### Countess Sansuri
 
 Sansuri, a vainglorious cloud giant countess, is one of several cloud giant nobles who have retreated to their cloud castles and embarked on expeditions to map the present-day Sword Coast in search of long-lost Ostorian treasures and battlegrounds. Like archaeologists, they seek to uncover secrets of the past and retrieve relics of their ancient history to impress the gods. Sansuri, a powerful wizard, is searching for something more: a long-lost trove of dragon magic, hidden away by her ancestors. Once cloud giants knock storm giants from the pinnacle of the ordning, she plans to use her newfound magic to destroy her rivals as well as Hekaton's court. But the countess is not happy at present, because her search for the lost trove has not been going well. Frustrated, Sansuri has used powerful magic and guile to capture a bronze dragon named [Felgolos](3-Mechanics/CLI/bestiary/npc/felgolos-skt.md). She is torturing the wyrm for information. The dragon's terrible roars can be heard emanating from Sansuri's cloud castle for miles in every direction.
 
-![](3-Mechanics/CLI/adventures/storm-kings-thunder/img/003-giants2.webp#center)
+![](file://adventure/SKT/003-giants2.webp#center)
 
 ### Factions in the North
 
@@ -235,7 +235,7 @@ Rather than have you track experience points, this adventure assumes that the ch
 
 Of course, you can ignore these milestones and track XP as normal.
 
-![Figure 0.1: Adventure Flowchart](3-Mechanics/CLI/adventures/storm-kings-thunder/img/004-flowchart.webp#center)
+![Figure 0.1: Adventure Flowchart](file://adventure/SKT/004-flowchart.webp#center)
 
 ### Deadly Encounters
 
@@ -249,11 +249,11 @@ A total-party kill ("TPK") need not herald the end of the campaign. Giants and o
 
 #### Random Coin Amounts
 
-The number of coins in a creature's hoard is often represented as a die expression with a multiplier. For example, a giant might have `3d6 × 100` gp in a sack. To determine the number of coins in the sack, roll `3d6` and multiply the result by 100 to get a number between 300 and 1,800. Instead of rolling to determine the number of coins, you can pick an amount that falls within the specified range. If the characters have more loot than they known what to do with, take the minimum. If they seem light on treasure, take the average (in this case, 1,000 gp) or the maximum.
+The number of coins in a creature's hoard is often represented as a die expression with a multiplier. For example, a giant might have `3d6 × 100` gp in a sack. To determine the number of coins in the sack, roll `dice:3d6|noform|noparens|avg` (`3d6`) and multiply the result by 100 to get a number between 300 and 1,800. Instead of rolling to determine the number of coins, you can pick an amount that falls within the specified range. If the characters have more loot than they known what to do with, take the minimum. If they seem light on treasure, take the average (in this case, 1,000 gp) or the maximum.
 
 #### Random Magic Items
 
-Sometimes a treasure hoard contains one or more magic items determined by rolling on the magic item treasure tables in chapter 7 of the "Dungeon Master's Guide". When determining a random magic item, roll a `d100` (or have a player roll for you) and consult the specified table in the "Dungeon Master's Guide". If your players have a "wish list" of magic items, or you think a particular item might be useful to the party, you can forgo the roll and select an item from the table. For example, if the characters find a magic item tied to Magic Item Table B, and the party is light on water-breathing magic heading into chapter 10, you might decide that the item is a [potion of water breathing](3-Mechanics/CLI/items/potion-of-water-breathing.md) or a [cloak of the manta ray](3-Mechanics/CLI/items/cloak-of-the-manta-ray.md), both of which appear on Magic Item Table B in the "Dungeon Master's Guide".
+Sometimes a treasure hoard contains one or more magic items determined by rolling on the magic item treasure tables in chapter 7 of the "Dungeon Master's Guide". When determining a random magic item, roll a `dice:d100|noform|noparens|avg` (`d100`) (or have a player roll for you) and consult the specified table in the "Dungeon Master's Guide". If your players have a "wish list" of magic items, or you think a particular item might be useful to the party, you can forgo the roll and select an item from the table. For example, if the characters find a magic item tied to Magic Item Table B, and the party is light on water-breathing magic heading into chapter 10, you might decide that the item is a [potion of water breathing](3-Mechanics/CLI/items/potion-of-water-breathing-xdmg.md) or a [cloak of the manta ray](3-Mechanics/CLI/items/cloak-of-the-manta-ray-xdmg.md), both of which appear on Magic Item Table B in the "Dungeon Master's Guide".
 
 #### Giant-Sized Treasures
 

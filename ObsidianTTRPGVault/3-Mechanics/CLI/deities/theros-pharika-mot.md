@@ -13,7 +13,7 @@ aliases:
 ---
 # Pharika
 *Source: Mythic Odysseys of Theros p. 70* 
-![](3-Mechanics/CLI/deities/img/mot-046-02-03-pharika.webp#symbol)
+![](file://deities/MOT/046-02-03-pharika.webp#symbol)
 
 - **Alignment**: Neutral Evil
 - **Domains**: Death, Knowledge, Life
@@ -53,7 +53,7 @@ The diseased and the dying alike often make written entreaties to Pharika for a 
 
 Pharika's followers include members of several small mystery cults, which embrace varying aspects of her divine nature. The most infamous of these is the Cult of Frozen Faith, led by a medusa. Initiates receive a lethal dose of poison, become [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), and then are restored to flesh one year later. Petitioners who have Pharika's favor emerge alive and healthy; those she doesn't care for fail to survive the transformation.
 
-![](3-Mechanics/CLI/deities/img/mot-047-02-15.webp#center)
+![](file://deities/MOT/047-02-15.webp#center)
 
 > [!readaloud] Myths of Pharika
 > 
@@ -92,6 +92,8 @@ Pharika craves champions who support her ongoing experiments, torment her enemie
 
 **Pharika's Favor**
 
+`dice: [](theros-pharika-mot.md#^pharikas-favor)`
+
 | dice: d6 | Circumstance |
 |----------|--------------|
 | 1 | You were born in a plague-struck village's final days, ultimately being the only survivor. |
@@ -107,6 +109,8 @@ Pharika craves champions who support her ongoing experiments, torment her enemie
 In accepting Pharika as your patron, you entrust your health and your knowledge to her. As her follower, consider the ideals on the Pharika's Ideals table as alternatives to those suggested for your background.
 
 **Pharika's Ideals**
+
+`dice: [](theros-pharika-mot.md#^pharikas-ideals)`
 
 | dice: d6 | Ideal |
 |----------|-------|

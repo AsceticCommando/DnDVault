@@ -12,6 +12,8 @@ aliases:
 
 **Religious Articles and Furnishings**
 
+`dice: [](dungeon-dressing-religious-articles-and-furnishings.md#^religious-articles-and-furnishings)`
+
 | dice: d100 | Item |
 |------------|------|
 | 1-5 | Altar |

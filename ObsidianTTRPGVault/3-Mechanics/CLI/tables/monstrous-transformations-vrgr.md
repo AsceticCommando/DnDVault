@@ -12,6 +12,8 @@ aliases:
 
 **Monstrous Transformations**
 
+`dice: [](monstrous-transformations-vrgr.md#^monstrous-transformations)`
+
 | dice: d10 | Transformation |
 |-----------|----------------|
 | 1 | The Darklord loses their voice; their words now carve themselves on their skin as lingering scars. |

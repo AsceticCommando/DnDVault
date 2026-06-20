@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Hanne Hallen"
 ---
-# [Hanne Hallen](3-Mechanics\CLI\bestiary\npc/hanne-hallen-oota.md)
+# [Hanne Hallen](3-Mechanics/CLI/bestiary/npc/hanne-hallen-oota.md)
 *Source: Out of the Abyss p. 171*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "Drow elf"
 "alignment": "Neutral Evil"
 "ac": !!int "12"
-"ac_class": "15 with [mage armor](3-Mechanics/CLI/spells/mage-armor.md)"
+"ac_class": "15 with [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
 "hp": !!int "13"
 "hit_dice": "3d8"
 "modifier": !!int "2"
@@ -44,8 +44,8 @@ aliases:
   - "name": "[Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)"
     "desc": "+5"
 "gear":
-  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow.md)"
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
   \ Perception 12"
 "languages": "Elvish, Undercommon, Common"
@@ -53,14 +53,14 @@ aliases:
 "traits":
   - "desc": "Hanne is a 1st-level spellcaster. Her spellcasting ability is Intelligence\
       \ (spell save DC 13, +5 to hit with spell attacks). She has the following wizard\
-      \ spells prepared:\n\n**Cantrips (at will):** [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md),\
-      \ [ray of frost](3-Mechanics/CLI/spells/ray-of-frost.md)\n\n**1st level (4 slots):**\
-      \ [shield](3-Mechanics/CLI/spells/shield.md), [mage armor](3-Mechanics/CLI/spells/mage-armor.md)"
+      \ spells prepared:\n\n**Cantrips (at will):** [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md),\
+      \ [ray of frost](3-Mechanics/CLI/spells/ray-of-frost-xphb.md)\n\n**1st level\
+      \ (4 slots):** [shield](3-Mechanics/CLI/spells/shield-xphb.md), [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
     "name": "Spellcasting"
   - "desc": "Hanne's spellcasting ability is Charisma (spell save DC 11). It can innately\
       \ cast the following spells, requiring no material components:\n\n**At will:**\
-      \ [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md)\n\n**1/day each:**\
-      \ [darkness](3-Mechanics/CLI/spells/darkness.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md)"
+      \ [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md)\n\n**1/day\
+      \ each:** [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "Hanne has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
       \ and magic can't put Hanne to sleep."
@@ -83,6 +83,6 @@ aliases:
     "name": "Hand Crossbow"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/hanne-hallen-oota.webp"
+"image": "file://bestiary/tokens/OotA/Hanne%20Hallen.webp"
 ```
 ^statblock

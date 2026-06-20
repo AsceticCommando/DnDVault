@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Strongheart"
 ---
-# [Strongheart](3-Mechanics\CLI\bestiary\npc/strongheart-wbtw.md)
+# [Strongheart](3-Mechanics/CLI/bestiary/npc/strongheart-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 228*  
 
 Strongheart is a fearless seeker of justice, risking his life to ensure that good triumphs over evil. He is thoughtful, kind, and seldom rash, yet never hesitant to punish those who spit in the face of law and order.
@@ -27,7 +27,7 @@ Strongheart doesn't worship a god but devotes himself to an ideal: that the worl
 "subtype": "human, paladin"
 "alignment": "Lawful Good"
 "ac": !!int "20"
-"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "55"
 "hit_dice": "10d8 + 10"
 "modifier": !!int "1"
@@ -66,14 +66,14 @@ Strongheart doesn't worship a god but devotes himself to an ideal: that the worl
       \ holy light. If he does so, the target is [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded)\
       \ until the start of Strongheart's next turn."
     "name": "Steel"
-  - "desc": "While holding Steel, Strongheart casts [revivify](3-Mechanics/CLI/spells/revivify.md)."
+  - "desc": "While holding Steel, Strongheart casts [revivify](3-Mechanics/CLI/spells/revivify-xphb.md)."
     "name": "Revivify (Recharges at the Next Dawn)"
   - "desc": "Strongheart casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 13):\n\n**3/day each:** [command](3-Mechanics/CLI/spells/command.md),\
-      \ [detect evil and good](3-Mechanics/CLI/spells/detect-evil-and-good.md), [protection\
-      \ from evil and good](3-Mechanics/CLI/spells/protection-from-evil-and-good.md)\n\
-      \n**1/day each:** [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration.md),\
-      \ [remove curse](3-Mechanics/CLI/spells/remove-curse.md), [zone of truth](3-Mechanics/CLI/spells/zone-of-truth.md)"
+      \ spellcasting ability (spell save DC 13):\n\n**3/day each:** [command](3-Mechanics/CLI/spells/command-xphb.md),\
+      \ [detect evil and good](3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md),\
+      \ [protection from evil and good](3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md)\n\
+      \n**1/day each:** [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md),\
+      \ [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md), [zone of truth](3-Mechanics/CLI/spells/zone-of-truth-xphb.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "When a creature Strongheart can see attacks another creature that is\
@@ -82,6 +82,6 @@ Strongheart doesn't worship a god but devotes himself to an ideal: that the worl
     "name": "Protect Another"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/npc/token/strongheart-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Strongheart.webp"
 ```
 ^statblock

@@ -12,6 +12,8 @@ aliases:
 
 **Planar Observatory Adventures**
 
+`dice: [](planar-observatory-adventures-erlw.md#^planar-observatory-adventures)`
+
 | dice: d8 | Adventure Goal |
 |----------|----------------|
 | 1 | A disguised dragon requests assistance repairing a damaged orrery within the observatory. |

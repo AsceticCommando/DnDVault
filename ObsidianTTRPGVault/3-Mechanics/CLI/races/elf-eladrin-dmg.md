@@ -52,8 +52,8 @@ You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle i
 
 ### Elf Weapon Training
 
-You have proficiency with the [longsword](3-Mechanics/CLI/items/longsword.md), [shortsword](3-Mechanics/CLI/items/shortsword.md), [shortbow](3-Mechanics/CLI/items/shortbow.md), and [longbow](3-Mechanics/CLI/items/longbow.md).
+You have proficiency with the [longsword](3-Mechanics/CLI/items/longsword-xphb.md), [shortsword](3-Mechanics/CLI/items/shortsword-xphb.md), [shortbow](3-Mechanics/CLI/items/shortbow-xphb.md), and [longbow](3-Mechanics/CLI/items/longbow-xphb.md).
 
 ### Fey Step
 
-You can cast the [misty step](3-Mechanics/CLI/spells/misty-step.md) spell once using this trait. You regain the ability to do so when you finish a short or long rest.
+You can cast the [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md) spell once using this trait. You regain the ability to do so when you finish a short or long rest.

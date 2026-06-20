@@ -12,6 +12,8 @@ aliases:
 
 **Sharn Watch Adventure Hooks**
 
+`dice: [](sharn-watch-adventure-hooks-erlw.md#^sharn-watch-adventure-hooks)`
+
 | dice: d4 | Adventure Hook |
 |----------|----------------|
 | 1 | The Sharn Watch cracks down on Daask, which leads to violent confrontations in the city's lower wards. |

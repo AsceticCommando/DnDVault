@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Duergar Soulblade"
 ---
-# [Duergar Soulblade](3-Mechanics\CLI\bestiary\humanoid/duergar-soulblade-mpmm.md)
+# [Duergar Soulblade](3-Mechanics/CLI/bestiary/humanoid/duergar-soulblade-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 109, Mordenkainen's Tome of Foes p. 190*  
 
 Soulblades are duergar combatants whose mastery of psionics allows them to manifest blades of psychic energy to slice apart their foes.
@@ -46,7 +46,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "subtype": "dwarf"
 "alignment": "Any alignment"
 "ac": !!int "14"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "27"
 "hit_dice": "6d8"
 "modifier": !!int "3"
@@ -95,7 +95,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/duergar-soulblade-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Duergar%20Soulblade.webp"
 ```
 ^statblock
 

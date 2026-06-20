@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Leucrotta"
 ---
-# [Leucrotta](3-Mechanics\CLI\bestiary\monstrosity/leucrotta-mpmm.md)
+# [Leucrotta](3-Mechanics/CLI/bestiary/monstrosity/leucrotta-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 170, Volo's Guide to Monsters p. 169*  
 
 A leucrotta is what you would get if you took the head of a giant badger, the legs of a deer, and the body of a large hyena, then put them together and reanimated them with demon ichor without bothering to cover up the stink of death.
@@ -82,7 +82,7 @@ A leucrotta's stench would normally warn away prey long before the creature coul
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/leucrotta-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Leucrotta.webp"
 ```
 ^statblock
 

@@ -10,7 +10,7 @@ aliases:
 ---
 # Half-Orc
 *Source: Player's Handbook p. 40. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
-![](3-Mechanics/CLI/races/img/half-orc.webp#right)
+![](file://races/PHB/Half-Orc.webp#right)
 
 - **Ability Scores**: str +2 con +1
 - **Size**: Medium

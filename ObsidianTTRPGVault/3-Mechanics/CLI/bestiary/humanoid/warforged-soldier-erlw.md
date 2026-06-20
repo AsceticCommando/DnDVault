@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Warforged Soldier"
 ---
-# [Warforged Soldier](3-Mechanics\CLI\bestiary\humanoid/warforged-soldier-erlw.md)
+# [Warforged Soldier](3-Mechanics/CLI/bestiary/humanoid/warforged-soldier-erlw.md)
 *Source: Eberron: Rising from the Last War p. 320*  
 
 Warforged soldiers are humanoids formed from wood and steel, then magically imbued with life and sentience. The warforged were created to fight in the Last War, and in the aftermath of that conflict, they struggle to understand their place in the world.
@@ -26,7 +26,7 @@ Most warforged soldiers still serve their former masters, often guarding dragonm
 "subtype": "warforged"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "natural armor, [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "natural armor, [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "30"
 "hit_dice": "4d8 + 12"
 "modifier": !!int "1"
@@ -48,7 +48,7 @@ Most warforged soldiers still serve their former masters, often guarding dragonm
 "damage_resistances": "poison"
 "condition_immunities": "disease"
 "gear":
-  - "[javelin](3-Mechanics/CLI/items/javelin.md)"
+  - "[javelin](3-Mechanics/CLI/items/javelin-xphb.md)"
 "senses": "passive Perception 14"
 "languages": "Common"
 "cr": "1"
@@ -72,6 +72,6 @@ Most warforged soldiers still serve their former masters, often guarding dragonm
     "name": "Protection"
 "source":
   - "ERLW"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/warforged-soldier-erlw.webp"
+"image": "file://bestiary/tokens/ERLW/Warforged%20Soldier.webp"
 ```
 ^statblock

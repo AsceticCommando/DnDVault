@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Xill"
 ---
-# [Xill](3-Mechanics\CLI\bestiary\monstrosity/xill-mff.md)
+# [Xill](3-Mechanics/CLI/bestiary/monstrosity/xill-mff.md)
 *Source: Mordenkainen's Fiendish Folio p. 21*  
 
 Deep within the Ethereal Plane are the demiplanes, miniatures worlds built by powerful archmages and other mighty entities to serve as a private domain. Each demiplane is a designed realm, built for a specific purpose. Some are fortresses, designed to keep wanderers from the material world away. Others are far more sinister, dark realms where evil dreams take root and become ghastly realities. Such is the realm that spawned the xill, horrific, insectoid creatures created long ago to serve an ancient, evil master.
@@ -79,6 +79,6 @@ Little has been heard of Kerpatis. Save for the recent theft of three mighty ite
     "name": "Claw"
 "source":
   - "MFF"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/xill-mff.webp"
+"image": "file://bestiary/tokens/MFF/Xill.webp"
 ```
 ^statblock

@@ -12,6 +12,8 @@ aliases:
 
 **Upper-Class Carousing Complications**
 
+`dice: [](upper-class-carousing-complications-xge.md#^upper-class-carousing-complications)`
+
 | dice: d8 | Complication |
 |----------|--------------|
 | 1 | A pushy noble family wants to marry off one of their scions to you.* |

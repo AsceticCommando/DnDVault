@@ -12,6 +12,8 @@ aliases:
 
 **Dwarf Quirks**
 
+`dice: [](dwarves-in-the-world-dwarf-quirks-mtf.md#^dwarf-quirks)`
+
 | dice: d8 | Quirk |
 |----------|-------|
 | 1 | Water from the sky! It always surprises you. |

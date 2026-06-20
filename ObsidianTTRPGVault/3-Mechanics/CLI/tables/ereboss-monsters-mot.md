@@ -14,11 +14,11 @@ aliases:
 
 | Challenge | Creature |
 |-----------|----------|
-| 1/2 | [Shadow](3-Mechanics/CLI/bestiary/undead/shadow.md) | MM |
+| 1/2 | [Shadow](3-Mechanics/CLI/bestiary/undead/shadow-xmm.md) | MM |
 | 2 | [Two-headed cerberus](3-Mechanics/CLI/bestiary/monstrosity/two-headed-cerberus-mot.md) | MOoT |
 | 3 | [Lampad](3-Mechanics/CLI/bestiary/fey/lampad-mot.md) | MOoT |
-| 3 | [Nightmare](3-Mechanics/CLI/bestiary/fiend/nightmare.md) | MM |
-| 5 | [Night hag](3-Mechanics/CLI/bestiary/fiend/night-hag.md)* | MM |
+| 3 | [Nightmare](3-Mechanics/CLI/bestiary/fiend/nightmare-xmm.md) | MM |
+| 5 | [Night hag](3-Mechanics/CLI/bestiary/fiend/night-hag-xmm.md)* | MM |
 | 9 | [Abhorrent Overlord](3-Mechanics/CLI/bestiary/fiend/abhorrent-overlord-mot.md) | MOoT |
 | 11 | [Doomwake giant](3-Mechanics/CLI/bestiary/giant/doomwake-giant-mot.md) | MOoT |
 | 11 | [Nightmare shepherd](3-Mechanics/CLI/bestiary/fiend/nightmare-shepherd-mot.md) | MOoT |

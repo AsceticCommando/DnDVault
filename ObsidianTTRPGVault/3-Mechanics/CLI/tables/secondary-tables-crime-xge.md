@@ -12,6 +12,8 @@ aliases:
 
 **Crime**
 
+`dice: [](secondary-tables-crime-xge.md#^crime)`
+
 | dice: d8 | Crime |
 |----------|-------|
 | 1 | Murder |

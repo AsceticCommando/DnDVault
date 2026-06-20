@@ -12,6 +12,8 @@ aliases:
 
 **Adventure Villains**
 
+`dice: [](identify-important-npcs-adventure-villains.md#^adventure-villains)`
+
 | dice: d20 | Villain |
 |-----------|---------|
 | 1 | Beast or monstrosity with no particular agenda |

@@ -16,6 +16,8 @@ aliases:
 
 **Trinkets from Xen'drik**
 
+`dice: [](xendrik-trinket-erlw.md#^trinkets-from-xendrik)`
+
 | dice: d8 | Trinket |
 |----------|---------|
 | 1 | A punched ticket for a voyage from Sharn to Stormreach |

@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Diviner Wizard"
 ---
-# [Diviner Wizard](3-Mechanics\CLI\bestiary\humanoid/diviner-wizard-mpmm.md)
+# [Diviner Wizard](3-Mechanics/CLI/bestiary/humanoid/diviner-wizard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 261, Volo's Guide to Monsters p. 213*  
 
 Diviners peer into the future and know that knowledge is power. They might act aloof and mysterious, hinting at omens and secrets, or they might be know-it-alls, spilling insights to advance their own status.
@@ -28,7 +28,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "12"
-"ac_class": "15 with [mage armor](3-Mechanics/CLI/spells/mage-armor.md)"
+"ac_class": "15 with [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
 "hp": !!int "90"
 "hit_dice": "20d8"
 "modifier": !!int "2"
@@ -65,14 +65,14 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
       \ takes half as much damage and isn't [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)."
     "name": "Overwhelming Revelation (Recharge 5-6)"
   - "desc": "The diviner casts one of the following spells, using Intelligence as\
-      \ the spellcasting ability (spell save DC 15):\n\n**At will:** [mage hand](3-Mechanics/CLI/spells/mage-hand.md),\
-      \ [message](3-Mechanics/CLI/spells/message.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md)\n\
-      \n**2/day each:** [arcane eye](3-Mechanics/CLI/spells/arcane-eye.md), [detect\
-      \ magic](3-Mechanics/CLI/spells/detect-magic.md), [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md),\
-      \ [fly](3-Mechanics/CLI/spells/fly.md), [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt.md),\
-      \ [locate object](3-Mechanics/CLI/spells/locate-object.md), [mage armor](3-Mechanics/CLI/spells/mage-armor.md),\
-      \ [Rary's telepathic bond](3-Mechanics/CLI/spells/rarys-telepathic-bond.md)\n\
-      \n**1/day each:** [true seeing](3-Mechanics/CLI/spells/true-seeing.md)"
+      \ the spellcasting ability (spell save DC 15):\n\n**At will:** [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [message](3-Mechanics/CLI/spells/message-xphb.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
+      \n**2/day each:** [arcane eye](3-Mechanics/CLI/spells/arcane-eye-xphb.md), [detect\
+      \ magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [fly](3-Mechanics/CLI/spells/fly-xphb.md), [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt-xphb.md),\
+      \ [locate object](3-Mechanics/CLI/spells/locate-object-xphb.md), [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md),\
+      \ [Rary's telepathic bond](3-Mechanics/CLI/spells/rarys-telepathic-bond-xphb.md)\n\
+      \n**1/day each:** [true seeing](3-Mechanics/CLI/spells/true-seeing-xphb.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "When the diviner or a creature it can see makes an attack roll, a saving\
@@ -83,7 +83,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/diviner-wizard-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Diviner%20Wizard.webp"
 ```
 ^statblock
 

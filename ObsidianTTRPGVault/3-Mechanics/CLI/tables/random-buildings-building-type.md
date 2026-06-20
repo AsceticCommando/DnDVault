@@ -12,6 +12,8 @@ aliases:
 
 **Building Type**
 
+`dice: [](random-buildings-building-type.md#^building-type)`
+
 | dice: d20 | Type |
 |-----------|------|
 | 1-10 | Residence (roll once on Residence table) |

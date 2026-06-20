@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Themberchaud"
 ---
-# [Themberchaud](3-Mechanics\CLI\bestiary\npc/themberchaud-oota.md)
+# [Themberchaud](3-Mechanics/CLI/bestiary/npc/themberchaud-oota.md)
 *Source: Out of the Abyss p. 53*  
 
 ```statblock
@@ -91,6 +91,6 @@ aliases:
     "name": "Wing Attack (Costs 2 Actions)"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/themberchaud-oota.webp"
+"image": "file://bestiary/tokens/OotA/Themberchaud.webp"
 ```
 ^statblock

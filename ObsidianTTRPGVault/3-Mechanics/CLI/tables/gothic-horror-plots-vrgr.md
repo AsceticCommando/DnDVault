@@ -12,6 +12,8 @@ aliases:
 
 **Gothic Horror Plots**
 
+`dice: [](gothic-horror-plots-vrgr.md#^gothic-horror-plots)`
+
 | dice: d8 | Plot |
 |----------|------|
 | 1 | Discover why anyone who utters the prince's true name immediately turns to dust. |

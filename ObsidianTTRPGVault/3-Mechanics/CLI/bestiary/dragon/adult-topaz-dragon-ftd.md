@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Adult Topaz Dragon"
 ---
-# [Adult Topaz Dragon](3-Mechanics\CLI\bestiary\dragon/adult-topaz-dragon-ftd.md)
+# [Adult Topaz Dragon](3-Mechanics/CLI/bestiary/dragon/adult-topaz-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 221*  
 
 Decay and despair are bound up in the nature of topaz dragons, thanks to the necrotic energy of the Negative Plane that suffuses them. Their psionic power manifests the fundamental entropic principle that mortal beings and their creations are ultimately doomed to death and decomposition, and the dragons' demeanor is typically morbid and curmudgeonly as a result.
@@ -78,7 +78,7 @@ The challenge rating of a legendary topaz dragon increases by 1 when it's encoun
 "traits":
   - "desc": "The dragon can breathe both air and water."
     "name": "Amphibious"
-  - "desc": "The dragon can cast [fabricate](3-Mechanics/CLI/spells/fabricate.md),\
+  - "desc": "The dragon can cast [fabricate](3-Mechanics/CLI/spells/fabricate-xphb.md),\
       \ requiring no spell components and using Intelligence as the spellcasting ability."
     "name": "Fabricate (1/Day)"
   - "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
@@ -102,8 +102,8 @@ The challenge rating of a legendary topaz dragon increases by 1 when it's encoun
     "name": "Desiccating Breath (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 17):\n\n\
-      **1/day each:** [bane](3-Mechanics/CLI/spells/bane.md), [control water](3-Mechanics/CLI/spells/control-water.md),\
-      \ [create or destroy water](3-Mechanics/CLI/spells/create-or-destroy-water.md)"
+      **1/day each:** [bane](3-Mechanics/CLI/spells/bane-xphb.md), [control water](3-Mechanics/CLI/spells/control-water-xphb.md),\
+      \ [create or destroy water](3-Mechanics/CLI/spells/create-or-destroy-water-xphb.md)"
     "name": "Spellcasting (Psionics)"
 "bonus_actions":
   - "desc": "The dragon magically transforms into any creature that is Medium or Small,\
@@ -143,7 +143,7 @@ The challenge rating of a legendary topaz dragon increases by 1 when it's encoun
       \ are attracted to the sea within 6 miles of the lair, migrating and hunting\
       \ there in large numbers.  \n- **Watery Sight.** Water within 6 miles of the\
       \ lair is a conduit for the dragon's psionic presence. As an action, the dragon\
-      \ can cast the [clairvoyance](3-Mechanics/CLI/spells/clairvoyance.md) spell,\
+      \ can cast the [clairvoyance](3-Mechanics/CLI/spells/clairvoyance-xphb.md) spell,\
       \ requiring no spell components and targeting any body of water in that region.\
       \  \n\nIf the dragon dies, the population of giant squid in the region returns\
       \ to normal levels over the course of 1d10 days. The existing abundance of crystals\
@@ -164,6 +164,6 @@ The challenge rating of a legendary topaz dragon increases by 1 when it's encoun
     "name": "Essential Reduction (Costs 3 Actions)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/adult-topaz-dragon-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Adult%20Topaz%20Dragon.webp"
 ```
 ^statblock

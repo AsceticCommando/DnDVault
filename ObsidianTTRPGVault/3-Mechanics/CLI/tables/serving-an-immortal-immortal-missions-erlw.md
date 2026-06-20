@@ -12,6 +12,8 @@ aliases:
 
 **Immortal Missions**
 
+`dice: [](serving-an-immortal-immortal-missions-erlw.md#^immortal-missions)`
+
 | dice: d8 | Mission |
 |----------|---------|
 | 1 | While in the tower of Mordain the Fleshweaver, spill blood on the stairs between the third and fourth floors. |

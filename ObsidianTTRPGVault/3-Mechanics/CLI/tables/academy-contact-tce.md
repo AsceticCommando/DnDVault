@@ -12,6 +12,8 @@ aliases:
 
 **Academy Contact**
 
+`dice: [](academy-contact-tce.md#^academy-contact)`
+
 | dice: d6 | Contact |
 |----------|---------|
 | 1 | **Harried Functionary**. A disinterested secretary conveys written correspondence to you from an exceptionally busy or aloof senior faculty member. |

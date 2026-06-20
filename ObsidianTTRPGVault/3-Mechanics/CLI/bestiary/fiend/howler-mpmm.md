@@ -16,7 +16,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Howler"
 ---
-# [Howler](3-Mechanics\CLI\bestiary\fiend/howler-mpmm.md)
+# [Howler](3-Mechanics/CLI/bestiary/fiend/howler-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 155, Mordenkainen's Tome of Foes p. 210*  
 
 > [!quote] A quote from Mordenkainen  
@@ -81,7 +81,7 @@ Howlers rely on speed, numbers, and their mind-numbing howling to corner prey be
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/howler-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Howler.webp"
 ```
 ^statblock
 

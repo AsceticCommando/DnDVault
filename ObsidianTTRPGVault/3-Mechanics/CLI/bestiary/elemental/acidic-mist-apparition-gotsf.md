@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Acidic Mist Apparition"
 ---
-# [Acidic Mist Apparition](3-Mechanics\CLI\bestiary\elemental/acidic-mist-apparition-gotsf.md)
+# [Acidic Mist Apparition](3-Mechanics/CLI/bestiary/elemental/acidic-mist-apparition-gotsf.md)
 *Source: Giants of the Star Forge p. 6*  
 
 ```statblock
@@ -67,6 +67,6 @@ aliases:
     "name": "Whirlwind (Recharge 4-6)"
 "source":
   - "GotSF"
-"image": "3-Mechanics/CLI/bestiary/elemental/token/acidic-mist-apparition-gotsf.webp"
+"image": "file://bestiary/tokens/GotSF/Acidic%20Mist%20Apparition.webp"
 ```
 ^statblock

@@ -11,8 +11,8 @@ aliases:
 
 ## 2nd Level
 
-- [Augury](3-Mechanics/CLI/spells/augury.md "PHB") at class level 10
+- [Augury](3-Mechanics/CLI/spells/augury-xphb.md "XPHB") at class level 10
 
 ## 3rd Level
 
-- [Clairvoyance](3-Mechanics/CLI/spells/clairvoyance.md "PHB") at class level 10
+- [Clairvoyance](3-Mechanics/CLI/spells/clairvoyance-xphb.md "XPHB") at class level 10

@@ -12,6 +12,8 @@ aliases:
 
 **Draconic Character Ties**
 
+`dice: [](heroes-of-the-dragon-draconic-character-ties-ftd.md#^draconic-character-ties)`
+
 | dice: d10 | Draconic Tie |
 |-----------|--------------|
 | 1 | I revere and draw my power from one of the dragon gods—most likely Bahamut or Tiamat, but possibly Sardior or a powerful dragon with heightened dragonsight, such as Aasterinian, Ashardalon, or Chronepsis. (Cleric, paladin, warlock) |

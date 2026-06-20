@@ -26,7 +26,7 @@ All the major themes of Eberron are manifest in the great city of Sharn. It's a 
 
 This chapter details the city for players and DMs alike. The DM can find additional information about the city in "chapter 4".
 
-![An illusory dragon roars a...](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/096-3-01.webp#center "An illusory dragon roars as flying ships zoom among the skyscrapers of Sharn at night")
+![An illusory dragon roars as flying ships zoom among the skyscrapers of Sharn at night](file://book/ERLW/096-3-01.webp#center)
 
 ## The Shape of Sharn
 
@@ -68,7 +68,7 @@ Cyran refugees have filled the district of High Walls in Lower Tavick's Landing 
 
 ## Guide to the City
 
-![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/097-3-02.webp#center)
+![](file://book/ERLW/097-3-02.webp#center)
 
 > [!quote]  
 > 
@@ -95,7 +95,7 @@ Sharn is the most cosmopolitan city on the continent. Describing all the activit
 
 As befits the City of Towers, Sharn is also a city of bridges and balconies. These thoroughfares and outcroppings can be extremely narrow or comfortably wide. Although most of them are bounded by walls or railings, there's always a chance that during your time in Sharn, you or someone you know will go over the edge. So, how do residents cope with this risk?
 
-Those who can afford it usually carry a [feather token](3-Mechanics/CLI/items/feather-token-erlw.md) as insurance. No token? Don't panic! Because of the maze of bridges and spans connecting the towers, there's an excellent chance that you won't fall more than a hundred feet before impacting on a lower bridge. Though this alone might seem like small comfort, it's also true that the major bridges in the upper and middle wards are enchanted with [feather fall](3-Mechanics/CLI/spells/feather-fall.md) effects that trigger automatically, keeping you from crushing an innocent passerby in your descent.
+Those who can afford it usually carry a [feather token](3-Mechanics/CLI/items/feather-token-erlw.md) as insurance. No token? Don't panic! Because of the maze of bridges and spans connecting the towers, there's an excellent chance that you won't fall more than a hundred feet before impacting on a lower bridge. Though this alone might seem like small comfort, it's also true that the major bridges in the upper and middle wards are enchanted with [feather fall](3-Mechanics/CLI/spells/feather-fall-xphb.md) effects that trigger automatically, keeping you from crushing an innocent passerby in your descent.
 
 Many different outcomes could follow a lengthy fall. The Falling in Sharn table presents a few possibilities.
 
@@ -103,9 +103,9 @@ Many different outcomes could follow a lengthy fall. The Falling in Sharn table 
 
 ### Communication Services
 
-Need to get a message to someone? If you're not in a hurry, the Orien post has boxes throughout the city; you can mail a letter for 1 cp. Hiring a courier generally costs between 5 cp and 5 gp, depending on the size of the package and where you need it delivered. You can find Sivis message stations in almost every upper and middle ward, and if you absolutely have to contact someone instantly, the Sivis enclave in the Dragon Towers district (Middle Central) can perform a [sending](3-Mechanics/CLI/spells/sending.md) spell for 200 gp.
+Need to get a message to someone? If you're not in a hurry, the Orien post has boxes throughout the city; you can mail a letter for 1 cp. Hiring a courier generally costs between 5 cp and 5 gp, depending on the size of the package and where you need it delivered. You can find Sivis message stations in almost every upper and middle ward, and if you absolutely have to contact someone instantly, the Sivis enclave in the Dragon Towers district (Middle Central) can perform a [sending](3-Mechanics/CLI/spells/sending-xphb.md) spell for 200 gp.
 
-House Tharashk has brought an innovation to message delivery in Sharn: the use of [gargoyles](3-Mechanics/CLI/bestiary/elemental/gargoyle.md). Tharashk has several of these creatures in its employ, and these flying couriers are a quick way to get a message across the city. If you spot a gargoyle without a burden, you can flag it down, and it costs 5 gp to deliver a letter or a small package.
+House Tharashk has brought an innovation to message delivery in Sharn: the use of [gargoyles](3-Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md). Tharashk has several of these creatures in its employ, and these flying couriers are a quick way to get a message across the city. If you spot a gargoyle without a burden, you can flag it down, and it costs 5 gp to deliver a letter or a small package.
 
 ### Spellcasting Services
 
@@ -138,7 +138,7 @@ Sharn contains a number of major shopping districts. The Tradefair district in M
 
 House Jorasco operates houses of healing throughout the city, largely in the middle and upper wards. The Panaceum in Dragon Towers (Middle Central) is the primary Jorasco enclave. The houses' services use the prices in this book's introduction.
 
-The Panaceum has an altar that can be used to perform [raise dead](3-Mechanics/CLI/spells/raise-dead.md), but this service isn't without its risks. Sometimes the wrong spirit returns to a body, or malevolent ghosts or wraiths might escape from the netherworld along with the person being raised. Before the healers take gold to perform a resurrection, a Jorasco adept will first cast [augury](3-Mechanics/CLI/spells/augury.md). If this divination indicates looming disaster, the adept will reject the request.
+The Panaceum has an altar that can be used to perform [raise dead](3-Mechanics/CLI/spells/raise-dead-xphb.md), but this service isn't without its risks. Sometimes the wrong spirit returns to a body, or malevolent ghosts or wraiths might escape from the netherworld along with the person being raised. Before the healers take gold to perform a resurrection, a Jorasco adept will first cast [augury](3-Mechanics/CLI/spells/augury-xphb.md). If this divination indicates looming disaster, the adept will reject the request.
 
 A few divine spellcasters in Sharn can raise the dead, notably the high priest of the Undying Court in Shae Lias. These devout clerics rarely sell their services, however, and the high priest would need a compelling reason to help someone who has different beliefs.
 
@@ -216,7 +216,7 @@ It's said that the power of the Shadow, the sinister deity of the Dark Six, is a
 > 
 > The beasts of Middle Dura are versatile. The Eagle represents Broken Arch and Stormhold in Middle Dura, and its supporters wear brown and gold. The clever Owl flies for Rattlestone and the Bazaar, and its colors are brown and gray. The Hawk represents Tumbledown and Underlook in Middle Dura, and wearing its blend of tan and brown can usually get you a good price at an inn.
 > 
-> The beasts of Lower Dura are more infamous than reliable. The Griffon flies for Precarious and Oldkeep, and its colors are brown and red. It has never won the race, but there's gold to be made betting on which opponent it will bring down. The Glidewing represents Gate of Gold and The Stores, and its supporters wear green and gray; many believe that the Boromar Clan pays for the upkeep of the mount and its rider. Malleon's Gate used to be represented by the Bat, but twelve years ago they exchanged that mascot for the Gargoyle, whose colors are black and gray. The current [Gargoyle](3-Mechanics/CLI/bestiary/elemental/gargoyle.md) is a stone-faced fellow named Carralag, and his supporters are quite passionate about their winged champion.
+> The beasts of Lower Dura are more infamous than reliable. The Griffon flies for Precarious and Oldkeep, and its colors are brown and red. It has never won the race, but there's gold to be made betting on which opponent it will bring down. The Glidewing represents Gate of Gold and The Stores, and its supporters wear green and gray; many believe that the Boromar Clan pays for the upkeep of the mount and its rider. Malleon's Gate used to be represented by the Bat, but twelve years ago they exchanged that mascot for the Gargoyle, whose colors are black and gray. The current [Gargoyle](3-Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) is a stone-faced fellow named Carralag, and his supporters are quite passionate about their winged champion.
 ^the-sharn-inquisitivethe-race-of-eight-winds-begins
 
 As befits a metropolis that boasts people of all cultures, Sharn hosts a wide variety of sports and athletic events. The Race of Eight Winds occurs once a year. Other events take place on a daily, weekly, or monthly schedule. For instance, shifters hold informal hrazhak competitions every night in Lower Northedge. The ogres of the Cogs are fond of tugs-of-war, arm wrestling, and similarly simple tests of strength. People who want to bet on sports can usually find a gambler willing to set odds in the Firelight district in Lower Menthis, Callestan in Lower Dura, Cornerstone in Middle Tavick's Landing, or Hareth's Folly in Middle Dura. Three exotic sports practiced in the city are described below.
@@ -229,13 +229,13 @@ The only formal hrazhak arena in Sharn is located in the Stone Trees, part of th
 
 #### Skyblades
 
-Common jousting is popular enough throughout Breland, but in Sharn, the sport has taken to the air. In a formal skyblades match, the goal is to knock an opposing rider from the saddle—attacks against mounts are forbidden, along with the use of magic or other supernatural abilities. Formal matches take place in one of Sharn's two aerial arenas, in Cornerstone and Hareth's Folly. Skyblades jousters typically ride [hippogriffs](3-Mechanics/CLI/bestiary/monstrosity/hippogriff.md) and carry blunted lances that deal nonlethal damage.
+Common jousting is popular enough throughout Breland, but in Sharn, the sport has taken to the air. In a formal skyblades match, the goal is to knock an opposing rider from the saddle—attacks against mounts are forbidden, along with the use of magic or other supernatural abilities. Formal matches take place in one of Sharn's two aerial arenas, in Cornerstone and Hareth's Folly. Skyblades jousters typically ride [hippogriffs](3-Mechanics/CLI/bestiary/monstrosity/hippogriff-xmm.md) and carry blunted lances that deal nonlethal damage.
 
 Informal matches, which don't always use the same rules, occur from time to time in Lower and Middle Dura, Tavick's Landing, and Menthis Plateau. An informal match might be played out across an entire district, with competitors weaving between towers and around bridges. The rules for an informal match are set before the start, establishing (among other things) whether magic can be used and mounts can be targeted.
 
 #### Six Stones
 
-A Droaam tradition brought to Sharn by immigrants, six stones is a game for seven competitors, who each pay a base stake. The seven are then sealed in a large chamber with a [cockatrice](3-Mechanics/CLI/bestiary/monstrosity/cockatrice.md). The match ends when six of the players have been turned to stone, at which point the survivor is awarded all the stakes (except for a share set aside for the organizers). A [medusa](3-Mechanics/CLI/bestiary/monstrosity/medusa.md) handler monitors the competition to ensure that rules are followed. Contestants carry no arms or armor, and no magic or supernatural abilities may be used. Additionally, no one is allowed to attack the cockatrice. The challenge lies in outlasting the other contestants and luring them or pushing them into the path of the cockatrice. The battleground might be barren or littered with rubble and cover; it might be lit, or it could be be pitch black.
+A Droaam tradition brought to Sharn by immigrants, six stones is a game for seven competitors, who each pay a base stake. The seven are then sealed in a large chamber with a [cockatrice](3-Mechanics/CLI/bestiary/monstrosity/cockatrice-xmm.md). The match ends when six of the players have been turned to stone, at which point the survivor is awarded all the stakes (except for a share set aside for the organizers). A [medusa](3-Mechanics/CLI/bestiary/monstrosity/medusa-xmm.md) handler monitors the competition to ensure that rules are followed. Contestants carry no arms or armor, and no magic or supernatural abilities may be used. Additionally, no one is allowed to attack the cockatrice. The challenge lies in outlasting the other contestants and luring them or pushing them into the path of the cockatrice. The battleground might be barren or littered with rubble and cover; it might be lit, or it could be be pitch black.
 
 Six stones matches are staged by the criminal organization Daask (see the ""Criminal Activities"" section later in this chapter). The sport is illegal, but the games go on because the matches are confined to Lower Dura and the Cogs and well hidden from the eyes of the Watch. A match usually occurs only once every few months. Sometimes participants voluntarily enter the competition, but most are debtors who have been offered a chance to pay off their loans by winning the match. Daask takes bets on the outcome, and usually earns a tidy sum as its share of the proceeds.
 
@@ -326,7 +326,7 @@ Breland's other arcane order encourages independence and innovation, qualities t
 
 There is one dark stain in the shared history of the arcane orders. Three hundred years ago, a third order arose in Sharn—a sinister cabal called the Closed Circle. This order specialized in transmutation and necromancy and dabbled in the forbidden lore of the daelkyr and the Dragon Below. It's said that the members of the Closed Circle went mad and sought to summon terrible things; whatever the truth, the guild was wiped out more than two hundred years ago by the combined action of the Church of the Silver Flame, the Esoteric Order, and the Guild of Starlight and Shadows. Hidden workshops of the Closed Circle might still be found in Sharn, where vengeful liches or other wizards of the Circle practice their dark arts in hiding.
 
-![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/098-3-03.webp#center)
+![](file://book/ERLW/098-3-03.webp#center)
 
 ## Wards of Sharn
 
@@ -344,7 +344,7 @@ These are stereotypes that don't apply to all wards. Dura is a particularly poor
 
 Each ward is further subdivided into districts, which are neighborhoods defined by an economic role, a separate culture, or both. For example, Lower Northedge includes the districts of Stoneyard, Longstairs, and North Market. It's generally true that the combination of a district's ward and quarter will give you a broad idea of what to expect there. A district in Upper Central will typically be well kept and swarming with guards, while a district in Lower Dura will be squalid and dangerous.
 
-![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/099-3-04.webp#center)
+![](file://book/ERLW/099-3-04.webp#center)
 
 ### Getting Around
 
@@ -366,7 +366,7 @@ Not all the quarters are linked to one another by bridges. The connections that 
 
 Traveling from district to district involves the use of bridges and ramps, along with magic lifts—vast floating disks that slowly ascend and descend along threads of mystical energy. Lifts are mainly used to move cargo and can be up to 30 feet in diameter. Most lifts have rails but aren't fully enclosed; if combatants fight on a lift, someone falling or being pushed off the edge is always a possibility.
 
-For a speedier journey through the streets, House Orien manages a system of carriages for hire. Taking an Orien carriage cuts travel time in half and costs 2 cp per ward traveled. Flight is, of course, the fastest way to get around in Sharn, cutting travel time down to one-sixth of the walking pace (5 minutes per ward). It's also more expensive, at 2 sp per ward. The most common form of aerial transport is the skycoach, but many flying mounts, including [hippogriffs](3-Mechanics/CLI/bestiary/monstrosity/hippogriff.md), [griffons](3-Mechanics/CLI/bestiary/monstrosity/griffon.md), [pteranodons](3-Mechanics/CLI/bestiary/beast/pteranodon.md), and [giant owls](3-Mechanics/CLI/bestiary/beast/giant-owl.md), can be found for hire around the city.
+For a speedier journey through the streets, House Orien manages a system of carriages for hire. Taking an Orien carriage cuts travel time in half and costs 2 cp per ward traveled. Flight is, of course, the fastest way to get around in Sharn, cutting travel time down to one-sixth of the walking pace (5 minutes per ward). It's also more expensive, at 2 sp per ward. The most common form of aerial transport is the skycoach, but many flying mounts, including [hippogriffs](3-Mechanics/CLI/bestiary/monstrosity/hippogriff-xmm.md), [griffons](3-Mechanics/CLI/bestiary/monstrosity/griffon-xmm.md), [pteranodons](3-Mechanics/CLI/bestiary/beast/pteranodon-xmm.md), and [giant owls](3-Mechanics/CLI/bestiary/celestial/giant-owl-xmm.md), can be found for hire around the city.
 
 #### Central Plateau: Important Districts
 
@@ -457,7 +457,7 @@ In the dwarven district of Highhold, a center of activity is Morragin's, which s
 
 The Highwater district is home to the wealthiest inhabitants of Dura and is the site of Pegasus Spire, the enclave of House Vadalis. The temple district of Hope's Peak features the Citadel of Light, a grand temple of Dol Arrah and a bastion for the virtuous. The Overlook district is home to Sharn's kalashtar community and includes the only temple of the Path of Light in Breland.
 
-![The Drunken Dragon in Upper Dura](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/100-3-05.webp#center)
+![The Drunken Dragon in Upper Dura](file://book/ERLW/100-3-05.webp#center)
 
 ### Middle Dura
 
@@ -465,7 +465,7 @@ Middle Dura caters to the working class. Its taverns are modestly priced, but th
 
 The Bazaar of Dura is the largest commercial district in Sharn. In addition to the dozens of permanent shops and smithies, the streets of the bazaar are an ever-changing tapestry of stalls and tents. It's said that you can find anything here, if you're not too worried about where it came from and if you're prepared to contend with the cutpurses that prey on the crowds.
 
-A small selection of merchants that regularly do business at the bazaar is given on the Bazaar Merchants table; roll a `d10`, or choose a location of interest.
+A small selection of merchants that regularly do business at the bazaar is given on the Bazaar Merchants table; roll a `dice:d10|noform|noparens|avg` (`d10`), or choose a location of interest.
 
 ![Middle Dura; Bazaar Merchants](3-Mechanics/CLI/tables/middle-dura-bazaar-merchants-erlw.md)
 
@@ -630,7 +630,7 @@ The Graystone district has deep roots in Karrnathi culture that predate the Last
 
 Tavick's Market is one of Sharn's major market districts; located directly above the Terminus lightning rail station, it's filled with stands selling produce and goods brought in by local farmers.
 
-![House Jorasco's House of H...](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/101-3-06.webp#center "House Jorasco's House of Healing in Middle Tavick's Landing")
+![House Jorasco's House of Healing in Middle Tavick's Landing](file://book/ERLW/101-3-06.webp#center)
 
 ### Lower Tavick's Landing
 
@@ -667,7 +667,7 @@ The five main quarters of Sharn make up the bulk of the city. But a few addition
 
 ### Skyway
 
-![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/102-3-07.webp#center)
+![](file://book/ERLW/102-3-07.webp#center)
 
 A number of floating towers drift above the upper wards of Sharn, but these are dwarfed by Skyway, an entire district suspended above and between Central Plateau and Menthis Plateau. Built on an island of solidified cloud, Skyway holds the mansions of the wealthiest people in Khorvaire—nobles whose feet never touch the ground. It's a realm of wonders, filled with the finest examples of luxury and extravagance that gold can buy and magic can produce. For instance, Cloudpool Park is formed from sculpted cloudstuff, with window panels of ice that provide a view of the city below.
 
@@ -804,7 +804,7 @@ The law is a force to be reckoned with in Sharn. Even in places where the watch 
 
 The Sharn Watch is responsible for enforcing the laws of the city. The sentinels of the watch patrol the streets of Sharn, to all outward appearances vigilant for signs of unrest. In truth, the Sharn Watch is riddled with corruption, from the commanding officers down to the lowliest patrollers. Dedicated guards who truly want to protect the innocent do exist. But bribery nonetheless runs rampant, and the watch has a way of failing to show up somewhere at the same time that Daask or the Boromar Clan is perpetrating some misdeed. The DM can find more information on the watch in "chapter 4".
 
-![An Artificer, with Two Eld...](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/103-3-08.webp#center "An Artificer, with Two Eldritch Cannons, Spies on a Member of the Sharn Watch")
+![An Artificer, with Two Eldritch Cannons, Spies on a Member of the Sharn Watch](file://book/ERLW/103-3-08.webp#center)
 
 ### The King's Citadel
 
@@ -838,7 +838,7 @@ As veterans and heroes of the Last War, many of the Redcloaks are unfriendly tow
 
 Officers of the watch can levy fines on the spot when they catch culprits, which is the typical way that minor crimes are dealt with. For a serious offense, the perpetrator is taken to a garrison and held until a trial can be arranged. A criminal who is considered to be a serious flight risk will be taken to the most secure facility in Sharn—the King's Citadel headquarters.
 
-Typically, a prisoner's case comes to the attention of a local magistrate within `1d4` days. The magistrate reviews the facts of the case and asks the victim to confirm or deny their role in the crime while under the influence of a [zone of truth](3-Mechanics/CLI/spells/zone-of-truth.md) spell. The magistrate will then propose a punishment to the accused; if the offer is refused, the case goes to trial.
+Typically, a prisoner's case comes to the attention of a local magistrate within `dice:1d4|noform|noparens|avg` (`1d4`) days. The magistrate reviews the facts of the case and asks the victim to confirm or deny their role in the crime while under the influence of a [zone of truth](3-Mechanics/CLI/spells/zone-of-truth-xphb.md) spell. The magistrate will then propose a punishment to the accused; if the offer is refused, the case goes to trial.
 
 Punishment for convicted criminals varies, but long-term imprisonment is quite rare. Prisoners who deemed to be too dangerous to be allowed to roam free are more likely to be executed than imprisoned. Typically, a long prison sentence is used only for criminals who can't be allowed to go free, but whose deaths would have negative diplomatic repercussions.
 

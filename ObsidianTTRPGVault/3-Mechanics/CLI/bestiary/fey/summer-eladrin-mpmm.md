@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Summer Eladrin"
 ---
-# [Summer Eladrin](3-Mechanics\CLI\bestiary\fey/summer-eladrin-mpmm.md)
+# [Summer Eladrin](3-Mechanics/CLI/bestiary/fey/summer-eladrin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 116, Mordenkainen's Tome of Foes p. 196*  
 
 When angered, eladrin enter the season of summer, a burning, tempestuous state that transforms them into aggressive warriors eager to vent their wrath. Their magic responds to their fury and amplifies their fighting ability, helping them move with astonishing quickness and strike with terrible force.
@@ -63,8 +63,8 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
     "desc": "+8"
 "damage_resistances": "fire"
 "gear":
-  - "[longbow](3-Mechanics/CLI/items/longbow.md)"
-  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
+  - "[longbow](3-Mechanics/CLI/items/longbow-xphb.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 11"
 "languages": "Common, Elvish, Sylvan"
@@ -102,7 +102,7 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/fey/token/summer-eladrin-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Summer%20Eladrin.webp"
 ```
 ^statblock
 

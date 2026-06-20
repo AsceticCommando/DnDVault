@@ -12,6 +12,8 @@ aliases:
 
 **Volcano Temple Adventures**
 
+`dice: [](volcano-temple-adventures-mot.md#^volcano-temple-adventures)`
+
 | dice: d10 | Adventure Goal |
 |-----------|----------------|
 | 1 | Acquire an item that wasn't up to Purphoros's standards before it's cast into the lava. |

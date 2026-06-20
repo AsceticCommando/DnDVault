@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Undead Tree"
 ---
-# [Undead Tree](3-Mechanics\CLI\bestiary\undead/undead-tree-bgdia.md)
+# [Undead Tree](3-Mechanics/CLI/bestiary/undead/undead-tree-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 109*  
 
 ```statblock
@@ -63,6 +63,6 @@ aliases:
     "name": "Animate Trees (1/Day)"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/undead/token/undead-tree-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Undead%20Tree.webp"
 ```
 ^statblock

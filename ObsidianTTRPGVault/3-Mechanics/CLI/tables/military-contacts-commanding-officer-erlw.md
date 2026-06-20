@@ -12,6 +12,8 @@ aliases:
 
 **Commanding Officer**
 
+`dice: [](military-contacts-commanding-officer-erlw.md#^commanding-officer)`
+
 | dice: d8 | Officer |
 |----------|---------|
 | 1 | An angry officer who yells every order, reprimands you for even the smallest mistake, and fully expects you to fail at every mission you undertake |

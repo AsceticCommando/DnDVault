@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Ironscale Hydra"
 ---
-# [Ironscale Hydra](3-Mechanics\CLI\bestiary\monstrosity/ironscale-hydra-mot.md)
+# [Ironscale Hydra](3-Mechanics/CLI/bestiary/monstrosity/ironscale-hydra-mot.md)
 *Source: Mythic Odysseys of Theros p. 231*  
 
 Five-headed ironscale hydras lurk in the wild places of the world, being common foes for heroes seeking to test their mettle against terrors worthy of the gods' notice. Most ironscale hydras inhabit lakes and boggy caverns, from which they hunt unwary creatures that come for a drink or swim.
@@ -75,6 +75,6 @@ What krakens are to the sea and dragons are to the sky, hydras are to the lands 
     "name": "Bite"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/ironscale-hydra-mot.webp"
+"image": "file://bestiary/tokens/MOT/Ironscale%20Hydra.webp"
 ```
 ^statblock

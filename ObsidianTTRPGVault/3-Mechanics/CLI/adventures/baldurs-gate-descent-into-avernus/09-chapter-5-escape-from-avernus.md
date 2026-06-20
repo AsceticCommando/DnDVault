@@ -10,7 +10,7 @@ aliases:
 # Chapter 5: Escape from Avernus
 *Source: Baldur's Gate: Descent Into Avernus, p. 146* 
 
-![](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/101-efblf-05-01.webp#center)
+![](file://adventure/BGDIA/101-efblf-05-01.webp#center)
 
 All adventures must end, but the best ones end with a bang. The climax of *Baldur's Gate: Descent into Avernus* comes when the characters try to redeem Zariel, save Elturel, or both. This chapter sets out some of the most likely ways for these events to happen. As with all Dungeons  & Dragons adventures, a host of other outcomes are possible, so feel free to let the story evolve beyond the suggested endings outlined in this chapter.
 
@@ -54,9 +54,9 @@ If Zariel is convinced to accept the angelic spark, she grasps the [Sword of Zar
 > The archdevil's words hang in the air for a silent moment, and she glances upward in agonized uncertainty. Then Zariel is bathed in a brilliant wash of radiant light. Her fiery halo disappears, and feathers burst from her leathery wings. All of her diabolical features vanish as her angelic form is restored. At the sight of this blessed transformation, [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) gasps in delight—and transforms into a celestial mammoth with golden fur, feathered wings, and gleaming tusks.
 ^31a
 
-![](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/102-zmysb-05-02.webp#center)
+![](file://adventure/BGDIA/102-zmysb-05-02.webp#center)
 
-All mortal creatures that witness Zariel's apotheosis are surrounded by twinkling wisps of the same light that transformed her, and are infused with a [blessing of health](3-Mechanics/CLI/rewards/blessing-of-health.md) (see ""Other Rewards"" in chapter 7 of the "Dungeon Master's Guide").
+All mortal creatures that witness Zariel's apotheosis are surrounded by twinkling wisps of the same light that transformed her, and are infused with a [blessing of health](3-Mechanics/CLI/rewards/blessing-of-health-xdmg.md) (see ""Other Rewards"" in chapter 7 of the "Dungeon Master's Guide").
 
 Returned to her full celestial glory, Zariel takes on the task of saving the besieged city of Elturel. If Zariel must travel some distance to reach Elturel, make sure the characters have the ability to keep up with the angel, or have her bring them along by magical means.
 
@@ -79,7 +79,7 @@ If the characters return with Elturel to the Material Plane, read or paraphrase 
 > Zariel's tone turns more somber as she says, "You have made an enemy of Asmodeus this day. We have that in common now. I wish you strength and good fortune—and if ever you have need of my power, hold this feather aloft and invoke my name. I shall come to your aid."
 ^31b
 
-Zariel pulls a single golden feather from one of her wings and hands it to the character closest to her. A creature that holds this feather can cast [planar ally](3-Mechanics/CLI/spells/planar-ally.md) as an action, calling Zariel and [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) only, after which the feather dissolves into a ray of sunlight. If the two are called to aid the characters, they do so for up to 1 hour, with no payment asked for in return.
+Zariel pulls a single golden feather from one of her wings and hands it to the character closest to her. A creature that holds this feather can cast [planar ally](3-Mechanics/CLI/spells/planar-ally-xphb.md) as an action, calling Zariel and [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) only, after which the feather dissolves into a ray of sunlight. If the two are called to aid the characters, they do so for up to 1 hour, with no payment asked for in return.
 
 > [!readaloud] 
 > 
@@ -106,7 +106,7 @@ Defeating Zariel is easier said than done. At her full power, the archdevil is m
 
 [Baphomet](3-Mechanics/CLI/bestiary/npc/baphomet-mpmm.md) and [Yeenoghu](3-Mechanics/CLI/bestiary/npc/yeenoghu-mpmm.md) are fighting to claim Avernus for themselves, and [Kostchtchie](3-Mechanics/CLI/bestiary/npc/kostchtchie-bgdia.md) (assuming the characters released him in chapter 3) wants his hammer back. None of them can be trusted. Demon lords are savagery incarnate, and they take orders from no one.
 
-The extent to which Baphomet, [Kostchtchie](3-Mechanics/CLI/bestiary/npc/kostchtchie-bgdia.md), and Yeenoghu are present in Avernus makes it easy for characters to commune with any of these demon lords using [contact other plane](3-Mechanics/CLI/spells/contact-other-plane.md) spells or similar magic.
+The extent to which Baphomet, [Kostchtchie](3-Mechanics/CLI/bestiary/npc/kostchtchie-bgdia.md), and Yeenoghu are present in Avernus makes it easy for characters to commune with any of these demon lords using [contact other plane](3-Mechanics/CLI/spells/contact-other-plane-xphb.md) spells or similar magic.
 
 #### Bel
 
@@ -116,7 +116,7 @@ The extent to which Baphomet, [Kostchtchie](3-Mechanics/CLI/bestiary/npc/kostcht
 
 #### Gargauth
 
-The [pit fiend](3-Mechanics/CLI/bestiary/fiend/pit-fiend.md) Gargauth would like nothing more than to be released from its prison and replace Zariel as Lord of Avernus. If the characters possess the [Shield of the Hidden Lord](3-Mechanics/CLI/items/shield-of-the-hidden-lord-bgdia.md), they can free Gargauth as described in the item's description (see Appendix C).
+The [pit fiend](3-Mechanics/CLI/bestiary/fiend/pit-fiend-xmm.md) Gargauth would like nothing more than to be released from its prison and replace Zariel as Lord of Avernus. If the characters possess the [Shield of the Hidden Lord](3-Mechanics/CLI/items/shield-of-the-hidden-lord-bgdia.md), they can free Gargauth as described in the item's description (see Appendix C).
 
 If released, Gargauth thanks the characters through tears of mirth. The pit fiend's first act is to produce a contract out of thin air, claiming that it will aid the characters in their quest to destroy Zariel if they sign it. The contract is full of convoluted text, and is summarized in its final clause: "I, the undersigned, agree to form a compact with Gargauth, joining with it to destroy the archdevil Zariel. While bound by this compact, no intentional harm shall befall either party by the other party's hand, without voiding this agreement."
 
@@ -128,13 +128,13 @@ In that event, though, Gargauth has left itself an easy out. The only consequenc
 
 The queen of evil dragons is mighty and aloof, and she rarely acts unless her triumph is assured. Challenging an archdevil directly is risky, and [Tiamat](3-Mechanics/CLI/bestiary/npc/tiamat-rot.md) stands to lose a great deal if Zariel prevails. Fortunately, Tiamat has a champion she can send in her stead: [Arkhan the Cruel](3-Mechanics/CLI/bestiary/npc/arkhan-the-cruel-bgdia.md).
 
-The adventurers can't communicate with Tiamat directly, but they can approach Arkhan at his tower (see "Arkhan's Tower"). Arkhan is preoccupied with trying to find a way to free Tiamat from the Nine Hells while also staving off the physical deterioration caused by the [Hand of Vecna](3-Mechanics/CLI/items/hand-of-vecna.md). He won't entertain thoughts of vanquishing Zariel unless there's something in it for him and his dark queen.
+The adventurers can't communicate with Tiamat directly, but they can approach Arkhan at his tower (see "Arkhan's Tower"). Arkhan is preoccupied with trying to find a way to free Tiamat from the Nine Hells while also staving off the physical deterioration caused by the [Hand of Vecna](3-Mechanics/CLI/items/hand-of-vecna-xdmg.md). He won't entertain thoughts of vanquishing Zariel unless there's something in it for him and his dark queen.
 
-![White Abishai](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/103-83py4-05-03.webp#center)
+![White Abishai](file://adventure/BGDIA/103-83py4-05-03.webp#center)
 
-While the head of Zariel would be a grand trophy, a trophy isn't enough to sway Arkhan. The characters must convince him that he can rule Avernus in Zariel's stead, with Tiamat by his side and armies of abishai and infernal dragons at his back. After contemplating this notion, Arkhan raises the [Hand of Vecna](3-Mechanics/CLI/items/hand-of-vecna.md) and boasts, "With this hand, I shall tear Zariel's head from her shoulders and rule Avernus with my queen at my side."
+While the head of Zariel would be a grand trophy, a trophy isn't enough to sway Arkhan. The characters must convince him that he can rule Avernus in Zariel's stead, with Tiamat by his side and armies of abishai and infernal dragons at his back. After contemplating this notion, Arkhan raises the [Hand of Vecna](3-Mechanics/CLI/items/hand-of-vecna-xdmg.md) and boasts, "With this hand, I shall tear Zariel's head from her shoulders and rule Avernus with my queen at my side."
 
-Arkhan declares that he will muster an army and depose Zariel in ten days. Exactly ten days later, two hundred [white abishai](3-Mechanics/CLI/bestiary/fiend/white-abishai-mpmm.md) fly from Arkhan's tower toward Zariel's current location, with Arkhan leading the charge on the back of Asojano the [chimera](3-Mechanics/CLI/bestiary/monstrosity/chimera.md), and [Torogar Steelfist](3-Mechanics/CLI/bestiary/npc/torogar-steelfist-bgdia.md) by his side, carried on the back of Chango the [manticore](3-Mechanics/CLI/bestiary/monstrosity/manticore.md). Arkhan's army is bolstered by five chromatic dragons—one adult dragon of each color—sent by Tiamat to help ensure victory. If they so choose, the characters can join Arkhan. The abishai and the dragons engage Zariel's legions while Arkhan, Torogar, and the characters challenge the archdevil herself. This battle can play out as part of the "Endgame in Elturel" section described at the end of this chapter.
+Arkhan declares that he will muster an army and depose Zariel in ten days. Exactly ten days later, two hundred [white abishai](3-Mechanics/CLI/bestiary/fiend/white-abishai-mpmm.md) fly from Arkhan's tower toward Zariel's current location, with Arkhan leading the charge on the back of Asojano the [chimera](3-Mechanics/CLI/bestiary/monstrosity/chimera-xmm.md), and [Torogar Steelfist](3-Mechanics/CLI/bestiary/npc/torogar-steelfist-bgdia.md) by his side, carried on the back of Chango the [manticore](3-Mechanics/CLI/bestiary/monstrosity/manticore-xmm.md). Arkhan's army is bolstered by five chromatic dragons—one adult dragon of each color—sent by Tiamat to help ensure victory. If they so choose, the characters can join Arkhan. The abishai and the dragons engage Zariel's legions while Arkhan, Torogar, and the characters challenge the archdevil herself. This battle can play out as part of the "Endgame in Elturel" section described at the end of this chapter.
 
 ### Serving Zariel
 
@@ -144,7 +144,7 @@ The characters might decide after meeting Zariel that they wish to serve her, jo
 
 Characters who choose to serve Zariel must sign a contract (see appendix A) forfeiting their souls to the archdevil. She then returns such characters to the Material Plane to do her bidding. Zariel has numerous schemes spinning at any given time, but the adventurers are particularly well suited to preparing Baldur's Gate to meet the same fate as Elturel. As a sign of favor, she bestows a charm upon each character (see "Archdevil Charms").
 
-Characters who die in Zariel's service are reborn as [lemures](3-Mechanics/CLI/bestiary/fiend/lemure.md) from the River Styx. They lose all memories of their previous lives, and their alignment changes to lawful evil. If a character pleased Zariel with their loyalty in life, she might allow them to keep their memories as she promotes them to an NPC devil of your determination.
+Characters who die in Zariel's service are reborn as [lemures](3-Mechanics/CLI/bestiary/fiend/lemure-xmm.md) from the River Styx. They lose all memories of their previous lives, and their alignment changes to lawful evil. If a character pleased Zariel with their loyalty in life, she might allow them to keep their memories as she promotes them to an NPC devil of your determination.
 
 #### Zariel's Sword is Destroyed
 
@@ -152,7 +152,7 @@ With no one to sway Zariel from her path to absolute damnation, Zariel demands t
 
 #### Lulu Falls
 
-For Zariel to fall beyond redemption is the worst outcome for [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md). This unimaginable tragedy shatters the hollyphant's mind, leaving [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) insane. Roll or choose the specific effects of her madness from the [Long-Term Madness table](3-Mechanics/CLI/tables/long-term-madness.md) in "chapter 8" of the "Dungeon Master's Guide", but this madness can be overcome only by a [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md) spell or similar magic.
+For Zariel to fall beyond redemption is the worst outcome for [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md). This unimaginable tragedy shatters the hollyphant's mind, leaving [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) insane. Roll or choose the specific effects of her madness from the [Long-Term Madness table](3-Mechanics/CLI/tables/long-term-madness.md) in "chapter 8" of the "Dungeon Master's Guide", but this madness can be overcome only by a [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md) spell or similar magic.
 
 ### Ruling Avernus
 
@@ -202,7 +202,7 @@ When the characters next set foot in Elturel, [Tiamat](3-Mechanics/CLI/bestiary/
 
 If the demon [Crokek'toeck](3-Mechanics/CLI/bestiary/npc/crokektoeck-bgdia.md) is freed from the scab encasing the Bleeding Citadel, it begins wandering Avernus and devouring all in its path. Though the demon consumes indiscriminately, it hungers most for divine blood. As such, the essence of a good-aligned god, the blood of a good celestial, or even the blood of a good paladin draws [Crokek'toeck](3-Mechanics/CLI/bestiary/npc/crokektoeck-bgdia.md)'s attention from miles away. If the adventurers slather a chain link in blood from such a source, [Crokek'toeck](3-Mechanics/CLI/bestiary/npc/crokektoeck-bgdia.md) picks up the delicious scent and gallops across Avernus toward it.
 
-The creature must bleed willingly upon a chain link. Either it or an ally can use an action to wound the creature for 5 (`1d10`) piercing or slashing damage. This damage can't be negated or reduced, and the infernal energy within the chains causes the creature's hit point maximum to be reduced by an amount equal to the damage taken until the creature finishes a long rest. [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) is willing to make at least part of this sacrifice of blood if the characters ask her.
+The creature must bleed willingly upon a chain link. Either it or an ally can use an action to wound the creature for `dice:1d10|noform|noparens|avg|text(5)` (`1d10`) piercing or slashing damage. This damage can't be negated or reduced, and the infernal energy within the chains causes the creature's hit point maximum to be reduced by an amount equal to the damage taken until the creature finishes a long rest. [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) is willing to make at least part of this sacrifice of blood if the characters ask her.
 
 [Crokek'toeck](3-Mechanics/CLI/bestiary/npc/crokektoeck-bgdia.md) appears near Elturel within 1 hour of the first drop of blood being shed. All nearby devils immediately try to slay the demon, while nearby demons leap to its defense. As the two opposing forces clash, [Crokek'toeck](3-Mechanics/CLI/bestiary/npc/crokektoeck-bgdia.md) slips past the devils. The demon can gnaw through a bloodied chain link in 1 minute.
 
@@ -216,7 +216,7 @@ Destroying Zariel voids all the active contracts she has made with beings across
 
 #### The Fate of Thavius Kreeg
 
-If the characters killed [Thavius Kreeg](3-Mechanics/CLI/bestiary/npc/thavius-kreeg-bgdia.md) in Baldur's Gate, he crawled out of the River Styx as a [lemure](3-Mechanics/CLI/bestiary/fiend/lemure.md). In accordance with the terms of their contract, Zariel promoted him to an [amnizu](3-Mechanics/CLI/bestiary/fiend/amnizu-mpmm.md), then confined him in her fortress (see "Poor Devil: Thavius Kreeg"). If Thavius dies in the Nine Hells as a devil, he is permanently dead—but this does not break the full terms of Zariel's contract. Even with the primary signatory dead, the people of Elturel remain bound to Zariel by the Creed Resolute.
+If the characters killed [Thavius Kreeg](3-Mechanics/CLI/bestiary/npc/thavius-kreeg-bgdia.md) in Baldur's Gate, he crawled out of the River Styx as a [lemure](3-Mechanics/CLI/bestiary/fiend/lemure-xmm.md). In accordance with the terms of their contract, Zariel promoted him to an [amnizu](3-Mechanics/CLI/bestiary/fiend/amnizu-mpmm.md), then confined him in her fortress (see "Poor Devil: Thavius Kreeg"). If Thavius dies in the Nine Hells as a devil, he is permanently dead—but this does not break the full terms of Zariel's contract. Even with the primary signatory dead, the people of Elturel remain bound to Zariel by the Creed Resolute.
 
 ##### Killing Thavius
 
@@ -251,7 +251,7 @@ If the characters present the sword to Zariel and either fail to redeem her or c
 
 Once destroyed, the [Sword of Zariel](3-Mechanics/CLI/items/sword-of-zariel-bgdia.md) can't be restored, ending any hope of redemption for the archdevil.
 
-![](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/104-lempw-05-04.webp#center)
+![](file://adventure/BGDIA/104-lempw-05-04.webp#center)
 
 ### Making a Deal with Zariel
 
@@ -267,13 +267,13 @@ If the characters agree to Zariel's terms, they learn that both demon lords have
 
 If the characters still possess the [Shield of the Hidden Lord](3-Mechanics/CLI/items/shield-of-the-hidden-lord-bgdia.md), Zariel blithely declares that she would consider trading Elturel for it. From within the shield, the pit fiend Gargauth begs and sobs and promises the world to the characters if they spare its life and find a way to restore the devil to its former glory. These are empty promises, though Gargauth's fear is real.
 
-If the characters give her the shield, Zariel casts [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good.md) on it. Her spell causes Gargauth to manifest as a miserable, malformed [pit fiend](3-Mechanics/CLI/bestiary/fiend/pit-fiend.md) at half its hit point maximum and with 4 levels of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion). She commands the characters to destroy the wretch. If they succeed, she casually dismisses them and ignores any attempt by the characters to hold her to promises made without a contract.
+If the characters give her the shield, Zariel casts [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md) on it. Her spell causes Gargauth to manifest as a miserable, malformed [pit fiend](3-Mechanics/CLI/bestiary/fiend/pit-fiend-xmm.md) at half its hit point maximum and with 4 levels of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion). She commands the characters to destroy the wretch. If they succeed, she casually dismisses them and ignores any attempt by the characters to hold her to promises made without a contract.
 
 If the characters press Zariel for a formal agreement before giving her the shield, she presents a fair contract. However, she refuses to both free Elturel and return it to the Material Plane, promising only one or the other in exchange for the shield alone.
 
 ### Dealing with the Companion
 
-The Companion that once warded Elturel against undead is powered by a [planetar](3-Mechanics/CLI/bestiary/celestial/planetar.md) trapped inside it. Long thought of as Elturel's savior, the Companion was also its undoing, for it was the beacon that allowed the power of Avernus to drag the city into the Nine Hells.
+The Companion that once warded Elturel against undead is powered by a [planetar](3-Mechanics/CLI/bestiary/celestial/planetar-xmm.md) trapped inside it. Long thought of as Elturel's savior, the Companion was also its undoing, for it was the beacon that allowed the power of Avernus to drag the city into the Nine Hells.
 
 The Companion is a nearly indestructible metal orb 50 feet in diameter. When it protected Elturel, it hung in the sky like a second sun and emitted sunlight so bright that the orb itself couldn't be seen. Now, lightning plays across the surface of the dull sphere, which is surrounded by a 400-foot-diameter, 10-foot-thick shell of impenetrable, magical darkness. A creature with [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) can't see through this darkness, and nonmagical light can't illuminate it. If this darkness overlaps with an area of light created by a spell of 8th level or lower, the spell that created the light is dispelled.
 
@@ -293,9 +293,9 @@ Alternatively, if the characters strike a bargain with a powerful entity such as
 
 #### The Planetar's Power
 
-If the Companion is shattered or unlocked, the [planetar](3-Mechanics/CLI/bestiary/celestial/planetar.md) inside it is released. The planetar's name is Nascius, and its power can help save Elturel, but only if the infernal chains that bind the city have been severed. If asked to save the city, the planetar takes a brief moment to recover its strength. It then swoops down below the fallen city, rises to set the earthmote on its broad shoulders, and raises Elturel out of Avernus and back to its rightful place in the Material Plane.
+If the Companion is shattered or unlocked, the [planetar](3-Mechanics/CLI/bestiary/celestial/planetar-xmm.md) inside it is released. The planetar's name is Nascius, and its power can help save Elturel, but only if the infernal chains that bind the city have been severed. If asked to save the city, the planetar takes a brief moment to recover its strength. It then swoops down below the fallen city, rises to set the earthmote on its broad shoulders, and raises Elturel out of Avernus and back to its rightful place in the Material Plane.
 
-![](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/105-cfqaj-05-05.webp#center)
+![](file://adventure/BGDIA/105-cfqaj-05-05.webp#center)
 
 ## Endgame in Elturel
 
@@ -316,7 +316,7 @@ This section describes an epic event that can serve as the adventure's climax: E
 > [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) points at the figure with her trunk and whispers, "That's her. Zariel stands exactly where she always does—where the fighting is fiercest."
 ^342
 
-This encounter takes place on an open field bordered by the River Styx, with Zariel visible a mile away. Allow the characters a few moments to plan their next move. When they decide to act, two [horned devils](3-Mechanics/CLI/bestiary/fiend/horned-devil.md) break toward them after a fleeing [glabrezu](3-Mechanics/CLI/bestiary/fiend/glabrezu.md), which is cut down and dissolves to ichor that flows into the Styx. The devils attack at range with Hurl Flame attacks. Each devil has 125 hit points remaining and fights to the death.
+This encounter takes place on an open field bordered by the River Styx, with Zariel visible a mile away. Allow the characters a few moments to plan their next move. When they decide to act, two [horned devils](3-Mechanics/CLI/bestiary/fiend/horned-devil-xmm.md) break toward them after a fleeing [glabrezu](3-Mechanics/CLI/bestiary/fiend/glabrezu-xmm.md), which is cut down and dissolves to ichor that flows into the Styx. The devils attack at range with Hurl Flame attacks. Each devil has 125 hit points remaining and fights to the death.
 
 Between this event and the next, the characters might delve deeper into the melee, or could make their way up to Elturel by flying or climbing.
 
@@ -324,16 +324,16 @@ Between this event and the next, the characters might delve deeper into the mele
 
 The front of Zariel's army has crashed into the flank of the demonic horde, whether on the streets of Elturel or on the battlefield below. Taking on both armies headfirst is impossible, but savvy characters might be able to use the battlefield's geography to avoid combat.
 
-The characters must make three group Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) or Wisdom ([Survival](3-Mechanics/CLI/rules/skills.md#Survival)) checks to navigate the battlefield, with each round of checks increasing in difficulty—DC 15, DC 17, and DC 19. Every time the group fails a check, each character must succeed on a DC 15 Constitution saving throw or take 22 (`4d10`) poison damage plus 22 (`4d10`) fire damage from the noxious gas and flames roiling across the battlefield.
+The characters must make three group Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) or Wisdom ([Survival](3-Mechanics/CLI/rules/skills.md#Survival)) checks to navigate the battlefield, with each round of checks increasing in difficulty—DC 15, DC 17, and DC 19. Every time the group fails a check, each character must succeed on a DC 15 Constitution saving throw or take `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) poison damage plus `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) fire damage from the noxious gas and flames roiling across the battlefield.
 
-After making these ability checks, the characters stumble into a battle between six [hezrous](3-Mechanics/CLI/bestiary/fiend/hezrou.md) and Lucille, the [pit fiend](3-Mechanics/CLI/bestiary/fiend/pit-fiend.md) general they spotted as they were leaving Elturel at the end of chapter 2:
+After making these ability checks, the characters stumble into a battle between six [hezrous](3-Mechanics/CLI/bestiary/fiend/hezrou-xmm.md) and Lucille, the [pit fiend](3-Mechanics/CLI/bestiary/fiend/pit-fiend-xmm.md) general they spotted as they were leaving Elturel at the end of chapter 2:
 
 > [!readaloud] 
 > 
 > A pit fiend wearing an eyeless helm clutches an infernal battle standard in one clawed hand while swinging a huge flaming mace in the other. The pit fiend is beset on all sides by six hulking, froglike demons that croak vile epithets as they tear the pit fiend's flesh with their claws.
 ^344
 
-Two [hezrous](3-Mechanics/CLI/bestiary/fiend/hezrou.md) break off from this melee to attack the characters. The other fiends continue fighting Lucille.
+Two [hezrous](3-Mechanics/CLI/bestiary/fiend/hezrou-xmm.md) break off from this melee to attack the characters. The other fiends continue fighting Lucille.
 
 By the time the characters deal with the hezrous attacking them, Lucille has destroyed the remaining hezrous or sent them scrambling away in search of easier prey. Lucille turns toward the characters, gives them a curt nod, and takes to the air. Characters can attack the pit fiend, which has 175 hit points remaining. If they let it go, the pit fiend returns the favor by using its [helm of devil command](3-Mechanics/CLI/items/helm-of-devil-command-bgdia.md) to issue orders to its troops that the characters are not to be harmed. As the characters make their way toward Zariel, demons that might otherwise cross their path are intercepted by devils, creating an avenue of safe passage for the characters.
 
@@ -343,7 +343,7 @@ Lucille's [helm of devil command](3-Mechanics/CLI/items/helm-of-devil-command-bg
 
 ### Event 3: Showdown with Zariel
 
-At some point, the characters get close to [Archduke Zariel of Avernus](3-Mechanics/CLI/bestiary/npc/archduke-zariel-of-avernus-bgdia.md). When they do, Zariel is locked in combat with a hyena-faced [balor](3-Mechanics/CLI/bestiary/fiend/balor.md)—one of Yeenoghu's demons. A 100-foot-diameter circle has formed around Zariel and the balor, as other devils and demons stay clear of the destruction the two unleash. Unless the characters draw attention to themselves, the fiends pay them no mind.
+At some point, the characters get close to [Archduke Zariel of Avernus](3-Mechanics/CLI/bestiary/npc/archduke-zariel-of-avernus-bgdia.md). When they do, Zariel is locked in combat with a hyena-faced [balor](3-Mechanics/CLI/bestiary/fiend/balor-xmm.md)—one of Yeenoghu's demons. A 100-foot-diameter circle has formed around Zariel and the balor, as other devils and demons stay clear of the destruction the two unleash. Unless the characters draw attention to themselves, the fiends pay them no mind.
 
 If you don't want to roll dice to determine the outcome of this battle, Zariel reduces the balor to 0 hit points after 4 rounds of combat, causing it to explode in a great fireball. When the battle is over, Zariel has 450 hit points remaining and takes a round to collect herself as the eye of the storm that surrounded her dissolves once more into chaos.
 
@@ -351,8 +351,8 @@ If the characters released [Kostchtchie](3-Mechanics/CLI/bestiary/npc/kostchtchi
 
 It is hard for insignificant mortals to gain the archdevil's attention, but if they anger Zariel, aid her in combat, or display [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) or the [Sword of Zariel](3-Mechanics/CLI/items/sword-of-zariel-bgdia.md), she stops what she's doing and gives the characters a chance to speak to her—or to challenge her.
 
-If the characters attempt to break the infernal chains binding Elturel to the posts that are slowly sinking into Avernus (see "Breaking the Chains"), Zariel takes notice when the first chain is sundered or the planetar is released from the Companion. If the characters are making use of a demon to break the chains, Zariel attacks it and defeats it after `2d4` rounds if the characters don't come to the demon's aid. If Tiamat is the one destroying the chains, Zariel attacks the characters in the hopes that Tiamat will cease her attack once her accomplices are slain.
+If the characters attempt to break the infernal chains binding Elturel to the posts that are slowly sinking into Avernus (see "Breaking the Chains"), Zariel takes notice when the first chain is sundered or the planetar is released from the Companion. If the characters are making use of a demon to break the chains, Zariel attacks it and defeats it after `dice:2d4|noform|noparens|avg` (`2d4`) rounds if the characters don't come to the demon's aid. If Tiamat is the one destroying the chains, Zariel attacks the characters in the hopes that Tiamat will cease her attack once her accomplices are slain.
 
 If Zariel is reduced to 100 hit points or fewer, she withdraws to the edge of the battle, taking refuge in her flying fortress if it's nearby and hasn't been destroyed (see "Zariel's Flying Fortress").
 
-![The Blood War is the cosmi...](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/106-vgjbn-05-06-5k.webp#center "The Blood War is the cosmic struggle between the evil forces of Law and Chaos—a war that threatens to tear the multiverse asunder.")
+![The Blood War is the cosmic struggle between the evil forces of Law and Chaos—a war that threatens to tear the multiverse asunder.](file://adventure/BGDIA/106-vgjbn-05-06-5k.webp#center)

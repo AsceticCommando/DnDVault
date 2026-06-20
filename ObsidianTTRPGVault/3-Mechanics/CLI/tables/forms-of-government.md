@@ -12,6 +12,8 @@ aliases:
 
 **Forms of Government**
 
+`dice: [](forms-of-government.md#^forms-of-government)`
+
 | dice: d100 | Government |
 |------------|------------|
 | 01-08 | Autocracy |

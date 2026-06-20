@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Black Abishai"
 ---
-# [Black Abishai](3-Mechanics\CLI\bestiary\fiend/black-abishai-mpmm.md)
+# [Black Abishai](3-Mechanics/CLI/bestiary/fiend/black-abishai-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 38, Mordenkainen's Tome of Foes p. 160*  
 
 Expert assassins and infiltrators, black abishais can weave shadows to mask their presence, allowing them to reach a location where they can deliver a fatal strike to their targets.
@@ -58,7 +58,7 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 "damage_immunities": "acid, fire, poison"
 "condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
 "gear":
-  - "[scimitar](3-Mechanics/CLI/items/scimitar.md)"
+  - "[scimitar](3-Mechanics/CLI/items/scimitar-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
   \ Perception 16"
 "languages": "Draconic, Infernal, telepathy 120 ft."
@@ -78,8 +78,8 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
       \ + 3) force damage."
     "name": "Scimitar"
-  - "desc": "The abishai casts [darkness](3-Mechanics/CLI/spells/darkness.md) at a\
-      \ point within 120 feet of it, requiring no spell components or [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration).\
+  - "desc": "The abishai casts [darkness](3-Mechanics/CLI/spells/darkness-xphb.md)\
+      \ at a point within 120 feet of it, requiring no spell components or [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration).\
       \ Wisdom is its spellcasting ability for this spell. While the spell persists,\
       \ the abishai can move the area of darkness up to 60 feet as a bonus action.\n"
     "name": "Creeping Darkness (Recharge 6)"
@@ -90,7 +90,7 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/black-abishai-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Black%20Abishai.webp"
 ```
 ^statblock
 

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Polukranos"
 ---
-# [Polukranos](3-Mechanics\CLI\bestiary\npc/polukranos-mot.md)
+# [Polukranos](3-Mechanics/CLI/bestiary/npc/polukranos-mot.md)
 *Source: Mythic Odysseys of Theros p. 231*  
 
 Polukranos, called the World Eater, is the mortal manifestation of the eternal ideal of a hydra. In its first incarnation, it fell from Nyx to the mortal world, and so great were its size and strength that the gods Nylea and Heliod combined their power to bind the monster deep within the Nessian Wood. That incarnation was slain, but the eternal ideal remains. A new incarnation of the World Eater is a fearsome omen, as the monster only appears when the pillars of the world tremble and terrible things are afoot in the realm of the gods. Its rampages often presage an age of menace for all civilization.
@@ -99,6 +99,6 @@ What krakens are to the sea and dragons are to the sky, hydras are to the lands 
     "name": "Trampling Charge (Costs 3 Actions)"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/polukranos-mot.webp"
+"image": "file://bestiary/tokens/MOT/Polukranos.webp"
 ```
 ^statblock

@@ -12,6 +12,8 @@ aliases:
 
 **Emerald Dragon Ideals**
 
+`dice: [](creating-an-emerald-dragon-emerald-dragon-ideals-ftd.md#^emerald-dragon-ideals)`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Seclusion. It's safer if others don't know I'm here—safer for me and safer for them. (Any) |

@@ -11,4 +11,4 @@ aliases:
 
 ## Cantrip
 
-- [Thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy.md "PHB") as cantrip, at class level 3
+- [Thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md "XPHB") as cantrip, at class level 3

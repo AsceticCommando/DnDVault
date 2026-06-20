@@ -12,6 +12,8 @@ aliases:
 
 **Omens of Purphoros**
 
+`dice: [](omens-of-purphoros-mot.md#^omens-of-purphoros)`
+
 | dice: d8 | dice: d100 | Omen of Purphoros |
 |----------|------------|-------------------|
 | 1 | 85 | The sound of a hammer rings in the air. |

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Droki"
 ---
-# [Droki](3-Mechanics\CLI\bestiary\npc/droki-oota.md)
+# [Droki](3-Mechanics/CLI/bestiary/npc/droki-oota.md)
 *Source: Out of the Abyss p. 231*  
 
 ## Roleplaying Droki
@@ -28,7 +28,7 @@ Droki is also obsessed with things happening where and when they should. If he i
 "subtype": "derro"
 "alignment": "Chaotic Evil"
 "ac": !!int "15"
-"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor.md)"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
 "hp": !!int "31"
 "hit_dice": "7d6 + 7"
 "modifier": !!int "3"
@@ -44,7 +44,7 @@ Droki is also obsessed with things happening where and when they should. If he i
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
 "gear":
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
   \ Perception 7"
 "languages": "Dwarvish, Undercommon"
@@ -52,11 +52,11 @@ Droki is also obsessed with things happening where and when they should. If he i
 "traits":
   - "desc": "Droki's innate spellcasting ability is Charisma (spell save DC 13). He\
       \ can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md)\n\n\
-      **1/day each:** [darkness](3-Mechanics/CLI/spells/darkness.md), [fear](3-Mechanics/CLI/spells/fear.md),\
-      \ [shatter](3-Mechanics/CLI/spells/shatter.md)"
+      \n**At will:** [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\
+      \n**1/day each:** [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [fear](3-Mechanics/CLI/spells/fear-xphb.md),\
+      \ [shatter](3-Mechanics/CLI/spells/shatter-xphb.md)"
     "name": "Innate Spellcasting"
-  - "desc": "Droki wears [boots of speed](3-Mechanics/CLI/items/boots-of-speed.md)."
+  - "desc": "Droki wears [boots of speed](3-Mechanics/CLI/items/boots-of-speed-xdmg.md)."
     "name": "Special Equipment"
   - "desc": "Droki has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
       \ or [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)."
@@ -88,6 +88,6 @@ Droki is also obsessed with things happening where and when they should. If he i
     "name": "Parry"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/droki-oota.webp"
+"image": "file://bestiary/tokens/OotA/Droki.webp"
 ```
 ^statblock

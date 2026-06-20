@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Ox"
 ---
-# [Ox](3-Mechanics\CLI\bestiary\beast/ox-mpmm.md)
+# [Ox](3-Mechanics/CLI/bestiary/beast/ox-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 72, Volo's Guide to Monsters p. 208*  
 
 Oxen are domesticated cattle bred for milk and meat production and for hauling. Many cultures incorporate the ox into their labor and diets.
@@ -57,7 +57,7 @@ Many kinds of cattle roam the multiverse, some of them domesticated and others f
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/beast/token/ox-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Ox.webp"
 ```
 ^statblock
 

@@ -39,7 +39,7 @@ You have advantage on saving throws against being [charmed](3-Mechanics/CLI/rule
 > 
 > **Skill Versatility.** You gain proficiency in two skills of your choice.
 > 
-> **Elf Weapon Training.** You have proficiency with the [longsword](3-Mechanics/CLI/items/longsword.md), [shortsword](3-Mechanics/CLI/items/shortsword.md), [shortbow](3-Mechanics/CLI/items/shortbow.md), and [longbow](3-Mechanics/CLI/items/longbow.md).
+> **Elf Weapon Training.** You have proficiency with the [longsword](3-Mechanics/CLI/items/longsword-xphb.md), [shortsword](3-Mechanics/CLI/items/shortsword-xphb.md), [shortbow](3-Mechanics/CLI/items/shortbow-xphb.md), and [longbow](3-Mechanics/CLI/items/longbow-xphb.md).
 > 
 > **Cantrip.** You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.
 ^variant-feature-choose-1

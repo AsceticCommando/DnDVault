@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Crystal Dragon Wyrmling"
 ---
-# [Crystal Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/crystal-dragon-wyrmling-ftd.md)
+# [Crystal Dragon Wyrmling](3-Mechanics/CLI/bestiary/dragon/crystal-dragon-wyrmling-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 172*  
 
 Shimmering with radiant energy and brimming with life, crystal dragons enjoy an innate psionic connection to the Positive Plane that suffuses their bodies as well as their personalities with light. Though they prefer to live in desolate, frigid regions, many of them are among the friendliest of dragonkind, nurturing and optimistic.
@@ -39,6 +39,8 @@ Use the Crystal Dragon Personality Traits and Crystal Dragon Ideals tables to in
 
 ### Crystal Dragon Personality Traits
 
+`dice: [](crystal-dragon-wyrmling-ftd.md#^trait)`
+
 | dice: d8 | Trait |
 |----------|-------|
 | 1 | If you're not a thief or a frost giant, let's talk! |
@@ -52,6 +54,8 @@ Use the Crystal Dragon Personality Traits and Crystal Dragon Ideals tables to in
 ^trait
 
 ### Crystal Dragon Ideals
+
+`dice: [](crystal-dragon-wyrmling-ftd.md#^ideal)`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -68,6 +72,8 @@ Use the Crystal Dragon Personality Traits and Crystal Dragon Ideals tables to in
 The Crystal Dragon Adventure Hooks table offers suggestions for stories and adventures involving crystal dragons.
 
 ### Crystal Dragon Adventure Hooks
+
+`dice: [](crystal-dragon-wyrmling-ftd.md#^adventure-hook)`
 
 | dice: d8 | Adventure Hook |
 |----------|----------------|
@@ -86,6 +92,8 @@ The Crystal Dragon Adventure Hooks table offers suggestions for stories and adve
 Crystal dragons are among the most social and hospitable of dragons. They are equal parts mysterious, contemplative, and mischievous, making it difficult to know what to expect of them.
 
 ### Crystal Dragon Wyrmling Connections
+
+`dice: [](crystal-dragon-wyrmling-ftd.md#^connected-creatures)`
 
 | dice: d6 | Connected Creatures |
 |----------|---------------------|
@@ -145,10 +153,10 @@ Crystal dragons are among the most social and hospitable of dragons. They are eq
     "name": "Scintillating Breath (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability:\n\n**At will:** [dancing\
-      \ lights](3-Mechanics/CLI/spells/dancing-lights.md), [guidance](3-Mechanics/CLI/spells/guidance.md)"
+      \ lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md), [guidance](3-Mechanics/CLI/spells/guidance-xphb.md)"
     "name": "Spellcasting (Psionics)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/crystal-dragon-wyrmling-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Crystal%20Dragon%20Wyrmling.webp"
 ```
 ^statblock

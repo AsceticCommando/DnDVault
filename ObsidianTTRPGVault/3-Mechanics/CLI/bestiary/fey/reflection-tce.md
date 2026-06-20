@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Reflection"
 ---
-# [Reflection](3-Mechanics\CLI\bestiary\fey/reflection-tce.md)
+# [Reflection](3-Mechanics/CLI/bestiary/fey/reflection-tce.md)
 *Source: Tasha's Cauldron of Everything p. 158*  
 
 ```statblock
@@ -67,6 +67,6 @@ aliases:
     "name": "Strength Drain"
 "source":
   - "TCE"
-"image": "3-Mechanics/CLI/bestiary/fey/token/reflection-tce.webp"
+"image": "file://bestiary/tokens/TCE/Reflection.webp"
 ```
 ^statblock

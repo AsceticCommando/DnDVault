@@ -11,4 +11,4 @@ aliases:
 
 ## 1st Level
 
-- [Hunter's Mark](3-Mechanics/CLI/spells/hunters-mark.md "PHB")
+- [Hunter's Mark](3-Mechanics/CLI/spells/hunters-mark-xphb.md "XPHB")

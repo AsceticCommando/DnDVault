@@ -99,9 +99,9 @@ The sidekick gains the ability to cast spells. (If the creature already has the 
 
 **Spells Known.** The sidekick knows two cantrips and one 1st-level spell of your choice from its spell list. Here are recommendations for a 1st-level spellcaster of each role:
 
-- **Mage.** [mage hand](3-Mechanics/CLI/spells/mage-hand.md), [ray of frost](3-Mechanics/CLI/spells/ray-of-frost.md), [thunderwave](3-Mechanics/CLI/spells/thunderwave.md)  
-- **Healer.** [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md), [guidance](3-Mechanics/CLI/spells/guidance.md), [sacred flame](3-Mechanics/CLI/spells/sacred-flame.md)  
-- **Prodigy.** [eldritch blast](3-Mechanics/CLI/spells/eldritch-blast.md), [healing word](3-Mechanics/CLI/spells/healing-word.md), [light](3-Mechanics/CLI/spells/light.md)  
+- **Mage.** [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [ray of frost](3-Mechanics/CLI/spells/ray-of-frost-xphb.md), [thunderwave](3-Mechanics/CLI/spells/thunderwave-xphb.md)  
+- **Healer.** [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md), [guidance](3-Mechanics/CLI/spells/guidance-xphb.md), [sacred flame](3-Mechanics/CLI/spells/sacred-flame-xphb.md)  
+- **Prodigy.** [eldritch blast](3-Mechanics/CLI/spells/eldritch-blast-xphb.md), [healing word](3-Mechanics/CLI/spells/healing-word-xphb.md), [light](3-Mechanics/CLI/spells/light-xphb.md)  
 - The Cantrips Known and Spells Known columns of the Spellcaster table shows when the sidekick learns more spells of your choice. Each of the spells in the Spells Known column must be of a level for which the sidekick has spell slots, as shown on the table. For instance, when the sidekick reaches 5th level in this class, it can learn one new spell of 1st or 2nd level.  
 - Additionally, when the sidekick gains a level in this class, you can choose one of the spells it knows from this class and replace it with another spell from its spell list. The new spell must be a cantrip or of a level for which the sidekick has spell slots.  
 
@@ -113,7 +113,7 @@ The sidekick uses its spellcasting ability whenever a spell refers to that abili
 
 <span class='abilityAttackMod'>**Spell attack modifier**: your proficiency bonus + your Spellcasting</span>
 
-**Spellcasting Focus.** The sidekick can use a focus for its spells depending on the choice you made on the Spellcasting table. A Mage can use an arcane focus, a Healer can use a holy symbol, and a Prodigy can use an arcane focus or a [musical instrument](3-Mechanics/CLI/items/musical-instrument.md).
+**Spellcasting Focus.** The sidekick can use a focus for its spells depending on the choice you made on the Spellcasting table. A Mage can use an arcane focus, a Healer can use a holy symbol, and a Prodigy can use an arcane focus or a [musical instrument](3-Mechanics/CLI/items/musical-instrument-xphb.md).
 
 ### Ability Score Improvement (Level 4)
 

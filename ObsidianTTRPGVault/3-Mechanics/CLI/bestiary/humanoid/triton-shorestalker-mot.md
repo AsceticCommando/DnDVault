@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Triton Shorestalker"
 ---
-# [Triton Shorestalker](3-Mechanics\CLI\bestiary\humanoid/triton-shorestalker-mot.md)
+# [Triton Shorestalker](3-Mechanics/CLI/bestiary/humanoid/triton-shorestalker-mot.md)
 *Source: Mythic Odysseys of Theros p. 244*  
 
 Some insults don't wash away with the tides. When surface dwellers threaten the safety of triton communities, impede upon Thassa's holiest depths, or steal the treasures of the deep, triton shorestalkers seek vengeance. Using speed and poison harvested from deadly sea beasts, these triton assassins slip into shallow waters and strike when least expected. Often, surface dwellers don't even realize they've been attacked by shorestalkers, chalking disappearances and deaths up to the innumerable dangers of the sea.
@@ -52,7 +52,8 @@ Clever, far-ranging people of the sea, tritons live rich lives unknown to most l
 "traits":
   - "desc": "The triton's spellcasting ability is Wisdom (spell save DC 12). It can\
       \ innately cast the following spells, requiring no material components:\n\n\
-      **1/day each:** [fog cloud](3-Mechanics/CLI/spells/fog-cloud.md), [gust of wind](3-Mechanics/CLI/spells/gust-of-wind.md)"
+      **1/day each:** [fog cloud](3-Mechanics/CLI/spells/fog-cloud-xphb.md), [gust\
+      \ of wind](3-Mechanics/CLI/spells/gust-of-wind-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "The triton can breathe air and water."
     "name": "Amphibious"
@@ -74,6 +75,6 @@ Clever, far-ranging people of the sea, tritons live rich lives unknown to most l
     "name": "Poisoned Spine"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/triton-shorestalker-mot.webp"
+"image": "file://bestiary/tokens/MOT/Triton%20Shorestalker.webp"
 ```
 ^statblock

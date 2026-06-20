@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Moonstone Dragon Wyrmling"
 ---
-# [Moonstone Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/moonstone-dragon-wyrmling-ftd.md)
+# [Moonstone Dragon Wyrmling](3-Mechanics/CLI/bestiary/dragon/moonstone-dragon-wyrmling-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 213*  
 
 Ancient legends suggest that when the gods came to the First World and tried to populate it with their Humanoid followers, a clever dragon fled to the Feywild to hide a clutch of eggs. The magic of that faerie realm suffused the eggs, which hatched into the first moonstone dragons. Their descendants are now found throughout the Feywild.
@@ -29,6 +29,8 @@ Use the Moonstone Dragon Personality Traits and Moonstone Dragon Ideals tables t
 
 ### Moonstone Dragon Personality Traits
 
+`dice: [](moonstone-dragon-wyrmling-ftd.md#^trait)`
+
 | dice: d8 | Trait |
 |----------|-------|
 | 1 | I often lose track of whether I'm in the Feywild or on the Material Plane. |
@@ -42,6 +44,8 @@ Use the Moonstone Dragon Personality Traits and Moonstone Dragon Ideals tables t
 ^trait
 
 ### Moonstone Dragon Ideals
+
+`dice: [](moonstone-dragon-wyrmling-ftd.md#^ideal)`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -58,6 +62,8 @@ Use the Moonstone Dragon Personality Traits and Moonstone Dragon Ideals tables t
 The Moonstone Dragon Adventure Hooks table offers suggestions for stories and adventures involving moonstone dragons.
 
 ### Moonstone Dragon Adventure Hooks
+
+`dice: [](moonstone-dragon-wyrmling-ftd.md#^adventure-hook)`
 
 | dice: d8 | Adventure Hook |
 |----------|----------------|
@@ -76,6 +82,8 @@ The Moonstone Dragon Adventure Hooks table offers suggestions for stories and ad
 In the Feywild, moonstone dragons interact mostly with pixies, sprites, and other Fey creatures who revere and serve the dragon. Outside the Feywild, they often prefer to communicate with other creatures through dreams.
 
 ### Moonstone Dragon Wyrmling Connections
+
+`dice: [](moonstone-dragon-wyrmling-ftd.md#^connected-creatures)`
 
 | dice: d6 | Connected Creatures |
 |----------|---------------------|
@@ -136,6 +144,6 @@ In the Feywild, moonstone dragons interact mostly with pixies, sprites, and othe
     "name": "Breath Weapon (Recharge 5-6)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/moonstone-dragon-wyrmling-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Moonstone%20Dragon%20Wyrmling.webp"
 ```
 ^statblock

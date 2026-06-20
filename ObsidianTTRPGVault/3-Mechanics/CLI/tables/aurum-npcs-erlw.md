@@ -12,6 +12,8 @@ aliases:
 
 **Aurum NPCs**
 
+`dice: [](aurum-npcs-erlw.md#^aurum-npcs)`
+
 | dice: d4 | NPC |
 |----------|-----|
 | 1 | An aging dwarf—a retired general and an Aurum Concordian—collects unusual constructs, hoping to find a way to transfer his mind into a superior body. |

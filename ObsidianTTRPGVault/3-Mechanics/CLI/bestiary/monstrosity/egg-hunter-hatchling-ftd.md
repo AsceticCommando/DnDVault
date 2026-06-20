@@ -12,10 +12,10 @@ statblock-link: "#^statblock"
 aliases:
 - "Egg Hunter Hatchling"
 ---
-# [Egg Hunter Hatchling](3-Mechanics\CLI\bestiary\monstrosity/egg-hunter-hatchling-ftd.md)
+# [Egg Hunter Hatchling](3-Mechanics/CLI/bestiary/monstrosity/egg-hunter-hatchling-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 193*  
 
-A dragon egg drained by an egg hunter is filled with `1d6` new eggs, which hatch inside the dragon egg's shell in `1d6` days. The egg hunter hatchlings burst forth `1d4` days later, using the needlelike egg tooth that extends from their heads. They are voracious, consuming any other dragon eggs in the vicinity if they can. A hatchling matures into an adult about twenty days after breaking free from its dragon egg.
+A dragon egg drained by an egg hunter is filled with `dice:1d6|noform|noparens|avg` (`1d6`) new eggs, which hatch inside the dragon egg's shell in `dice:1d6|noform|noparens|avg` (`1d6`) days. The egg hunter hatchlings burst forth `dice:1d4|noform|noparens|avg` (`1d4`) days later, using the needlelike egg tooth that extends from their heads. They are voracious, consuming any other dragon eggs in the vicinity if they can. A hatchling matures into an adult about twenty days after breaking free from its dragon egg.
 
 ## Egg Hunters
 
@@ -68,6 +68,6 @@ Egg hunters are parasites that seek out dragon eggs and feed on the contents. Th
     "name": "Rapid Movement"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/egg-hunter-hatchling-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Egg%20Hunter%20Hatchling.webp"
 ```
 ^statblock

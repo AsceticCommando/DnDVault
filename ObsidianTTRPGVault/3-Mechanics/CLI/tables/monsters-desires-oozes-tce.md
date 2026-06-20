@@ -12,6 +12,8 @@ aliases:
 
 **Oozes**
 
+`dice: [](monsters-desires-oozes-tce.md#^oozes)`
+
 | dice: d4 | Desired Offering |
 |----------|------------------|
 | 1 | A vial of putrid liquids |

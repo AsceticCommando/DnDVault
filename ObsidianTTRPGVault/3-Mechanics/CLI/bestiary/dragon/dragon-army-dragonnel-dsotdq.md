@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Dragon Army Dragonnel"
 ---
-# [Dragon Army Dragonnel](3-Mechanics\CLI\bestiary\dragon/dragon-army-dragonnel-dsotdq.md)
+# [Dragon Army Dragonnel](3-Mechanics/CLI/bestiary/dragon/dragon-army-dragonnel-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 201*  
 
 Dragonnels from the volcanic mountains surrounding Sanction are closely related to red dragons, resembling them in scale coloration and general shape. They are cruel and selfish creatures trained by the Dragon Armies to serve as mounts for trusted officers. While they lack a red dragon's destructive breath, these dragonnels are inured to fire, and their vicious teeth and claws flare with embers.
@@ -59,6 +59,6 @@ Dragonnels are distantly related to chromatic and metallic dragons and resemble 
     "name": "Rend"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/dragon-army-dragonnel-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Dragon%20Army%20Dragonnel.webp"
 ```
 ^statblock

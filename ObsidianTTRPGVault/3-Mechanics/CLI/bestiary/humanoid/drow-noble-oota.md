@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Drow Noble"
 ---
-# [Drow Noble](3-Mechanics\CLI\bestiary\humanoid/drow-noble-oota.md)
+# [Drow Noble](3-Mechanics/CLI/bestiary/humanoid/drow-noble-oota.md)
 *Source: Out of the Abyss p. 196*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Neutral Evil"
 "ac": !!int "15"
-"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate.md)"
+"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate-xphb.md)"
 "hp": !!int "9"
 "hit_dice": "2d8"
 "modifier": !!int "1"
@@ -42,15 +42,16 @@ aliases:
   - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+5"
 "gear":
-  - "[rapier](3-Mechanics/CLI/items/rapier.md)"
+  - "[rapier](3-Mechanics/CLI/items/rapier-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
   \ Perception 12"
 "languages": "any two languages, Elvish, Undercommon"
 "cr": "1/8"
 "traits":
-  - "desc": "The drow noble\n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md)\n\
-      \n**1/day each:** [darkness](3-Mechanics/CLI/spells/darkness.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md),\
-      \ [levitate](3-Mechanics/CLI/spells/levitate.md) (self only)"
+  - "desc": "The drow noble\n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md)\n\
+      \n**1/day each:** [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [faerie\
+      \ fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md), [levitate](3-Mechanics/CLI/spells/levitate-xphb.md)\
+      \ (self only)"
     "name": "Innate Spellcasting"
   - "desc": "The drow noble"
     "name": "Fey Ancestry"
@@ -66,6 +67,6 @@ aliases:
     "name": "Parry"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/drow-noble-oota.webp"
+"image": "file://bestiary/tokens/OotA/Drow%20Noble.webp"
 ```
 ^statblock

@@ -12,6 +12,8 @@ aliases:
 
 **System Shock**
 
+`dice: [](massive-damage-system-shock.md#^system-shock)`
+
 | dice: d10 | Effect |
 |-----------|--------|
 | 1 | The creature drops to 0 hit points. |

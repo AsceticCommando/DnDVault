@@ -12,6 +12,8 @@ aliases:
 
 **What Quirk Does It Have**
 
+`dice: [](special-features-what-quirk-does-it-have.md#^what-quirk-does-it-have)`
+
 | dice: d12 | Quirk |
 |-----------|-------|
 | 1 | Blissful. While in possession of the item, the bearer feels fortunate and optimistic about what the future holds. Butterflies and other harmless creatures might frolic in the item's presence. |

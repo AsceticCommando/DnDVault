@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Half-Green Dragon Assassin"
 ---
-# [Half-Green Dragon Assassin](3-Mechanics\CLI\bestiary\humanoid/half-green-dragon-assassin-rot.md)
+# [Half-Green Dragon Assassin](3-Mechanics/CLI/bestiary/humanoid/half-green-dragon-assassin-rot.md)
 *Source: The Rise of Tiamat p. 56, Tyranny of Dragons p. 142*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Any Non-Good alignment"
 "ac": !!int "15"
-"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor.md)"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
 "hp": !!int "78"
 "hit_dice": "12d8 + 24"
 "modifier": !!int "3"
@@ -48,8 +48,8 @@ aliases:
     "desc": "+9"
 "damage_resistances": "poison"
 "gear":
-  - "[light crossbow](3-Mechanics/CLI/items/light-crossbow.md)"
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[light crossbow](3-Mechanics/CLI/items/light-crossbow-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 13"
 "languages": "Thieves' cant plus any two languages, Draconic"
@@ -89,6 +89,6 @@ aliases:
 "source":
   - "RoT"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/half-green-dragon-assassin-rot.webp"
+"image": "file://bestiary/tokens/RoT/Half-Green%20Dragon%20Assassin.webp"
 ```
 ^statblock

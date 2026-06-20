@@ -12,6 +12,8 @@ aliases:
 
 **Aristocrat Contact**
 
+`dice: [](aristocrat-contact-tce.md#^aristocrat-contact)`
+
 | dice: d6 | Contact |
 |----------|---------|
 | 1 | **Common Contact**. A servant with ambitions toward a title works as a go-between for your patron. |

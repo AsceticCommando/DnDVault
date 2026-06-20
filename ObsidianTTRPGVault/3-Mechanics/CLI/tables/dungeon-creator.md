@@ -12,6 +12,8 @@ aliases:
 
 **Dungeon Creator**
 
+`dice: [](dungeon-creator.md#^dungeon-creator)`
+
 | dice: d20 | Creator |
 |-----------|---------|
 | 1 | Beholder |

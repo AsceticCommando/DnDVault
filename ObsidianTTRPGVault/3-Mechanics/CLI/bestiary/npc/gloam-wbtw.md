@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Gloam"
 ---
-# [Gloam](3-Mechanics\CLI\bestiary\npc/gloam-wbtw.md)
+# [Gloam](3-Mechanics/CLI/bestiary/npc/gloam-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 93*  
 
 ```statblock
@@ -56,6 +56,6 @@ aliases:
     "name": "Cloud of Dust"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/npc/token/gloam-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Gloam.webp"
 ```
 ^statblock

@@ -12,6 +12,8 @@ aliases:
 
 **Dwarf Names – Clan**
 
+`dice: [](dwarf-names-clan-xge.md#^dwarf-names-clan)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Aranore |

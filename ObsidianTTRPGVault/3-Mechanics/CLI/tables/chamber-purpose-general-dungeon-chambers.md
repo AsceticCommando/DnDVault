@@ -12,6 +12,8 @@ aliases:
 
 **General Dungeon Chambers**
 
+`dice: [](chamber-purpose-general-dungeon-chambers.md#^general-dungeon-chambers)`
+
 | dice: d100 | Purpose |
 |------------|---------|
 | 01 | Antechamber |

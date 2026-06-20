@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Drow Spy"
 ---
-# [Drow Spy](3-Mechanics\CLI\bestiary\humanoid/drow-spy-oota.md)
+# [Drow Spy](3-Mechanics/CLI/bestiary/humanoid/drow-spy-oota.md)
 *Source: Out of the Abyss p. 195*  
 
 ```statblock
@@ -49,16 +49,17 @@ aliases:
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "gear":
-  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow.md)"
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
   \ Perception 16"
 "languages": "any two languages, Elvish, Undercommon"
 "cr": "1"
 "traits":
-  - "desc": "The drow spy\n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md)\n\
-      \n**1/day each:** [darkness](3-Mechanics/CLI/spells/darkness.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md),\
-      \ [levitate](3-Mechanics/CLI/spells/levitate.md) (self only)"
+  - "desc": "The drow spy\n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md)\n\
+      \n**1/day each:** [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [faerie\
+      \ fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md), [levitate](3-Mechanics/CLI/spells/levitate-xphb.md)\
+      \ (self only)"
     "name": "Innate Spellcasting"
   - "desc": "On each of its turns, the spy can use a bonus action to take the [Dash](3-Mechanics/CLI/rules/actions.md#Dash),\
       \ [Disengage](3-Mechanics/CLI/rules/actions.md#Disengage), or [Hide](3-Mechanics/CLI/rules/actions.md#Hide)\
@@ -84,6 +85,6 @@ aliases:
     "name": "Hand Crossbow"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/drow-spy-oota.webp"
+"image": "file://bestiary/tokens/OotA/Drow%20Spy.webp"
 ```
 ^statblock

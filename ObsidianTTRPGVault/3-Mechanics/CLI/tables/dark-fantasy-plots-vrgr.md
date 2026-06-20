@@ -12,6 +12,8 @@ aliases:
 
 **Dark Fantasy Plots**
 
+`dice: [](dark-fantasy-plots-vrgr.md#^dark-fantasy-plots)`
+
 | dice: d8 | Plot |
 |----------|------|
 | 1 | Track down a beholder-shaped flesh golem and learn why it's targeting specific individuals. |

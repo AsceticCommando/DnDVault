@@ -12,6 +12,8 @@ aliases:
 
 **Work Complications**
 
+`dice: [](work-complications-xge.md#^work-complications)`
+
 | dice: d6 | Complication |
 |----------|--------------|
 | 1 | A difficult customer or a fight with a coworker reduces the wages you earn by one category.* |

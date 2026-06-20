@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Myla"
 ---
-# [Myla](3-Mechanics\CLI\bestiary\npc/myla-dosi.md)
+# [Myla](3-Mechanics/CLI/bestiary/npc/myla-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 9*  
 
 ```statblock
@@ -38,13 +38,13 @@ aliases:
   - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+0"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 10"
 "languages": "Common, Draconic"
 "cr": "1/4"
 "traits":
-  - "desc": "Myla can cast [detect magic](3-Mechanics/CLI/spells/detect-magic.md),\
+  - "desc": "Myla can cast [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
       \ requiring no spell components and using Intelligence as the spellcasting ability."
     "name": "Inquiring Mind (1/Day)"
   - "desc": "Myla has advantage on an attack roll against a creature if at least one\
@@ -64,6 +64,6 @@ aliases:
     "name": "Alchemical Flame (Recharge 6)"
 "source":
   - "DoSI"
-"image": "3-Mechanics/CLI/bestiary/npc/token/myla-dosi.webp"
+"image": "file://bestiary/tokens/DoSI/Myla.webp"
 ```
 ^statblock

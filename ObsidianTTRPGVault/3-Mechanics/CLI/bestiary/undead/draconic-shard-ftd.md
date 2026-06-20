@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Draconic Shard"
 ---
-# [Draconic Shard](3-Mechanics\CLI\bestiary\undead/draconic-shard-ftd.md)
+# [Draconic Shard](3-Mechanics/CLI/bestiary/undead/draconic-shard-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 181*  
 
 Gem dragons wield psionic power, and when a powerful gem dragon perishes, the force of the dragon's will and mind sometimes refuses to pass on. This essence lingers in the form of a psychic remnant called a draconic shard.
@@ -92,7 +92,7 @@ A draconic shard is difficult to destroy. Destroying the shard's spectral form o
       \ it. The object uses the shard's AC, and any damage dealt to the object applies\
       \ to the shard's hit points. The shard inhabits the object until it uses an\
       \ action to leave; until it is turned; until it is reduced to 0 hit points;\
-      \ or until an effect that ends possession, such as a [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good.md)\
+      \ or until an effect that ends possession, such as a [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md)\
       \ spell, is used on it. When it leaves the object, it reappears in the nearest\
       \ unoccupied space.\n\nWhile inhabited, the object becomes a magic item if it\
       \ wasn't already, and a Tiny cracked gemstone matching the kind of gem dragon\
@@ -113,8 +113,8 @@ A draconic shard is difficult to destroy. Destroying the shard's spectral form o
     "name": "Psychic Crush (Recharge 5-6)"
   - "desc": "The shard casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 20):\n\n\
-      **At will:** [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md), [invisibility](3-Mechanics/CLI/spells/invisibility.md),\
-      \ [telekinesis](3-Mechanics/CLI/spells/telekinesis.md)"
+      **At will:** [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md), [telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md)"
     "name": "Spellcasting (Psionics)"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, the draconic shard can expend a use to take one of the following actions.\
@@ -134,6 +134,6 @@ A draconic shard is difficult to destroy. Destroying the shard's spectral form o
     "name": "Commanding Thought (Costs 2 Actions)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/undead/token/draconic-shard-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Draconic%20Shard.webp"
 ```
 ^statblock

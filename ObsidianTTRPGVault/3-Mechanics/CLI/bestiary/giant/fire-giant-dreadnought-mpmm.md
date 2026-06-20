@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Fire Giant Dreadnought"
 ---
-# [Fire Giant Dreadnought](3-Mechanics\CLI\bestiary\giant/fire-giant-dreadnought-mpmm.md)
+# [Fire Giant Dreadnought](3-Mechanics/CLI/bestiary/giant/fire-giant-dreadnought-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 124, Volo's Guide to Monsters p. 147*  
 
 > [!quote] A quote from Mordenkainen  
@@ -35,7 +35,7 @@ When not called on to fight, dreadnoughts maintain their strength by using their
 "type": "giant"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "21"
-"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor.md), [Dual Shields](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor-xphb.md), [Dual Shields](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "187"
 "hit_dice": "15d12 + 90"
 "modifier": !!int "-1"
@@ -83,7 +83,7 @@ When not called on to fight, dreadnoughts maintain their strength by using their
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/giant/token/fire-giant-dreadnought-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Fire%20Giant%20Dreadnought.webp"
 ```
 ^statblock
 

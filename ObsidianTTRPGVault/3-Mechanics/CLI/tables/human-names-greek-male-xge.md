@@ -12,6 +12,8 @@ aliases:
 
 **Human Names – Greek, Male**
 
+`dice: [](human-names-greek-male-xge.md#^human-names-greek-male)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Adonis |

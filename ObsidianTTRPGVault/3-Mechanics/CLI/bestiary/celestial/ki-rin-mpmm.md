@@ -16,7 +16,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Ki-rin"
 ---
-# [Ki-rin](3-Mechanics\CLI\bestiary\celestial/ki-rin-mpmm.md)
+# [Ki-rin](3-Mechanics/CLI/bestiary/celestial/ki-rin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 162, Volo's Guide to Monsters p. 163*  
 
 Ki-rins are noble, celestial creatures. In the Outer Planes, ki-rins in service to benevolent deities take a direct role in the eternal struggle between good and evil. In the mortal world, ki-rins are celebrated far and wide as harbingers of destiny, guardians of the sacred, and counterbalances to the forces of evil.
@@ -87,16 +87,16 @@ When viewed from the outside, a ki-rin's lair is indistinguishable from a natura
     "name": "Sacred Fire"
   - "desc": "The ki-rin casts one of the following spells, requiring no material components\
       \ and using Wisdom as the spellcasting ability (spell save DC 17):\n\n**At will:**\
-      \ [light](3-Mechanics/CLI/spells/light.md), [major image](3-Mechanics/CLI/spells/major-image.md)\
-      \ (6th-level version), [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy.md)\n\
-      \n**3/day each:** [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md), [dispel\
-      \ magic](3-Mechanics/CLI/spells/dispel-magic.md), [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration.md),\
-      \ [sending](3-Mechanics/CLI/spells/sending.md)\n\n**1/day each:** [banishment](3-Mechanics/CLI/spells/banishment.md),\
-      \ [calm emotions](3-Mechanics/CLI/spells/calm-emotions.md), [create food and\
-      \ water](3-Mechanics/CLI/spells/create-food-and-water.md), [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md),\
-      \ [plane shift](3-Mechanics/CLI/spells/plane-shift.md), [protection from evil\
-      \ and good](3-Mechanics/CLI/spells/protection-from-evil-and-good.md), [revivify](3-Mechanics/CLI/spells/revivify.md),\
-      \ [wind walk](3-Mechanics/CLI/spells/wind-walk.md)"
+      \ [light](3-Mechanics/CLI/spells/light-xphb.md), [major image](3-Mechanics/CLI/spells/major-image-xphb.md)\
+      \ (6th-level version), [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
+      \n**3/day each:** [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md),\
+      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md),\
+      \ [sending](3-Mechanics/CLI/spells/sending-xphb.md)\n\n**1/day each:** [banishment](3-Mechanics/CLI/spells/banishment-xphb.md),\
+      \ [calm emotions](3-Mechanics/CLI/spells/calm-emotions-xphb.md), [create food\
+      \ and water](3-Mechanics/CLI/spells/create-food-and-water-xphb.md), [greater\
+      \ restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md), [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md),\
+      \ [protection from evil and good](3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md),\
+      \ [revivify](3-Mechanics/CLI/spells/revivify-xphb.md), [wind walk](3-Mechanics/CLI/spells/wind-walk-xphb.md)"
     "name": "Spellcasting"
 "lair_actions":
   - "desc": "On initiative count 20 (losing initiative ties), a kirin can take one\
@@ -121,7 +121,7 @@ When viewed from the outside, a ki-rin's lair is indistinguishable from a natura
       \ the vicinity:\n\n- **Blessed Nature.** Beasts, Plants, and Celestials within\
       \ 3 miles of the ki-rin's lair grow more vigorous as they evolve toward an idealized\
       \ form. Such creatures are rarely aggressive toward others that aren't normally\
-      \ prey.  \n- **Controlled Weather.** A ki-rin can cast [control weather](3-Mechanics/CLI/spells/control-weather.md)\
+      \ prey.  \n- **Controlled Weather.** A ki-rin can cast [control weather](3-Mechanics/CLI/spells/control-weather-xphb.md)\
       \ while it is within 3 miles of its lair. The spell's point of origin is always\
       \ the point outdoors closest to the center of its lair. The ki-rin doesn't need\
       \ to maintain a clear path to the sky or to concentrate for the change in weather\
@@ -149,7 +149,7 @@ When viewed from the outside, a ki-rin's lair is indistinguishable from a natura
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/celestial/token/ki-rin-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Ki-rin.webp"
 ```
 ^statblock
 

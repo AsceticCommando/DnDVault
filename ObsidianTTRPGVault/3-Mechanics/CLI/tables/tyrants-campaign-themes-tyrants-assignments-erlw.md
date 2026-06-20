@@ -12,6 +12,8 @@ aliases:
 
 **Tyrants Assignments**
 
+`dice: [](tyrants-campaign-themes-tyrants-assignments-erlw.md#^tyrants-assignments)`
+
 | dice: d6 | Assignment |
 |----------|------------|
 | 1 | Kill an important figure without leaving evidence behind so a member of the Tyrants can replace the target. |

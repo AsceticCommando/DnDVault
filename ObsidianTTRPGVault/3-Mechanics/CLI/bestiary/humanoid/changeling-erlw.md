@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Changeling"
 ---
-# [Changeling](3-Mechanics\CLI\bestiary\humanoid/changeling-erlw.md)
+# [Changeling](3-Mechanics/CLI/bestiary/humanoid/changeling-erlw.md)
 *Source: Eberron: Rising from the Last War p. 317*  
 
 Changelings are a humanoid race of shapechangers who conceal their true identities behind false faces. Their gifts of mimicry allow them to appear as members of any humanoid culture, playing the part of a dwarf one day and a dragonborn the next. Although changelings can adopt any guise, most rely on a few established personas, each with a developed history and a network of friends and acquaintances.
@@ -25,7 +25,7 @@ Changelings are a humanoid race of shapechangers who conceal their true identiti
 "subtype": "changeling, shapechanger"
 "alignment": "Any alignment"
 "ac": !!int "13"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "22"
 "hit_dice": "4d8 + 4"
 "modifier": !!int "2"
@@ -49,7 +49,7 @@ Changelings are a humanoid race of shapechangers who conceal their true identiti
   - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+5"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Common, Dwarvish, Elvish, Halfling, Thieves' cant"
 "cr": "1/2"
@@ -72,6 +72,6 @@ Changelings are a humanoid race of shapechangers who conceal their true identiti
     "name": "Unsettling Visage (Recharges after a Short or Long Rest)"
 "source":
   - "ERLW"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/changeling-erlw.webp"
+"image": "file://bestiary/tokens/ERLW/Changeling.webp"
 ```
 ^statblock

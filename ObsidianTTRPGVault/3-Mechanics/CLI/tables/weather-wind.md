@@ -12,6 +12,8 @@ aliases:
 
 **Wind**
 
+`dice: [](weather-wind.md#^wind)`
+
 | dice: d20 | Wind |
 |-----------|------|
 | 1-12 | no wind |

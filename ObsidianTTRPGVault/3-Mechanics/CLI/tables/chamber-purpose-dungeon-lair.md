@@ -12,6 +12,8 @@ aliases:
 
 **Dungeon: Lair**
 
+`dice: [](chamber-purpose-dungeon-lair.md#^dungeon-lair)`
+
 | dice: d20 | Purpose |
 |-----------|---------|
 | 1 | Armory stocked with weapons and armor |

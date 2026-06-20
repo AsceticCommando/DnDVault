@@ -11,12 +11,14 @@ aliases:
 ---
 # Feywild Trinket
 *Adventuring gear*  
-![](3-Mechanics/CLI/items/img/feywild-trinket.webp#right)
+![](file://items/WBtW/Feywild%20Trinket.webp#right)
 
 
 The Feywild Trinkets table that follows offers a selection of trinkets appropriate for Feywild-themed adventures such as this one. Players whose characters have the feylost or Witchlight hand background can roll on this table instead of the "Trinkets" table in the "Player's Handbook" to determine what trinkets their characters possess. The adventure includes a few encounters that require you to roll on the table to determine what random trinkets the characters find in key locations.
 
 **Feywild Trinkets**
+
+`dice: [](feywild-trinket-wbtw.md#^feywild-trinkets)`
 
 | dice: d100 | Trinket |
 |------------|---------|

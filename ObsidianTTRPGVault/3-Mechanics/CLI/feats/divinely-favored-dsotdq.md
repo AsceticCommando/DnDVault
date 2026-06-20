@@ -15,7 +15,7 @@ aliases:
 
 A god chose you to carry a spark of their power.
 
-You learn one cantrip of your choice from the cleric spell list and one 1st-level spell based on the alignment of your character, as specified in the Alignment Spells table below. You also learn the [augury](3-Mechanics/CLI/spells/augury.md) spell.
+You learn one cantrip of your choice from the cleric spell list and one 1st-level spell based on the alignment of your character, as specified in the Alignment Spells table below. You also learn the [augury](3-Mechanics/CLI/spells/augury-xphb.md) spell.
 
 **Alignment Spells**
 
@@ -26,7 +26,7 @@ You learn one cantrip of your choice from the cleric spell list and one 1st-leve
 | Neutral | Choose one 1st-level druid spell |
 ^alignment-spells
 
-You can cast the chosen 1st-level spell and the [augury](3-Mechanics/CLI/spells/augury.md) spell without a spell slot, and you must finish a long rest before you can cast either of these spells in this way again. You can also cast these spells using spell slots you have of the appropriate level.
+You can cast the chosen 1st-level spell and the [augury](3-Mechanics/CLI/spells/augury-xphb.md) spell without a spell slot, and you must finish a long rest before you can cast either of these spells in this way again. You can also cast these spells using spell slots you have of the appropriate level.
 
 Your spellcasting ability for this feat's spells is Intelligence, Wisdom, or Charisma (choose when you select this feat).
 

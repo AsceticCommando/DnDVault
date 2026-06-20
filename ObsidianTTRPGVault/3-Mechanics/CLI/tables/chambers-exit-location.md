@@ -12,6 +12,8 @@ aliases:
 
 **Exit Location**
 
+`dice: [](chambers-exit-location.md#^exit-location)`
+
 | dice: d20 | Location |
 |-----------|----------|
 | 1-7 | Wall opposite entrance |

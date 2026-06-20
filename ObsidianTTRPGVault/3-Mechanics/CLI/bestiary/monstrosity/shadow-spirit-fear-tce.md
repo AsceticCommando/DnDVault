@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Shadow Spirit (Fear)"
 ---
-# [Shadow Spirit (Fear)](3-Mechanics\CLI\bestiary\monstrosity/shadow-spirit-fear-tce.md)
+# [Shadow Spirit (Fear)](3-Mechanics/CLI/bestiary/monstrosity/shadow-spirit-fear-tce.md)
 *Source: Tasha's Cauldron of Everything p. 114*  
 
 ```statblock

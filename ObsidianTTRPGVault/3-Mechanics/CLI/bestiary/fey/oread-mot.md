@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Oread"
 ---
-# [Oread](3-Mechanics\CLI\bestiary\fey/oread-mot.md)
+# [Oread](3-Mechanics/CLI/bestiary/fey/oread-mot.md)
 *Source: Mythic Odysseys of Theros p. 237*  
 
 Aggressive oreads number among the most dangerous nymphs, as they embody the wild might of flames, volcanism, and the hidden forces of the earth. These creatures typically dwell in remote mountain crags and near volcanoes, where they caper among the forces of dissolution and rebirth. During avalanches and volcanic eruptions, groups of oreads might race ahead of the destruction, dancing, singing, and doing what they can to maximize the impending devastation.
@@ -67,10 +67,10 @@ A nymph doesn't require food, drink, or sleep.
 "traits":
   - "desc": "The oread's spellcasting ability is Charisma (spell save DC 14, +6 to\
       \ hit with spell attacks). It can innately cast the following spells, requiring\
-      \ no material components:\n\n**At will:** [fire bolt](3-Mechanics/CLI/spells/fire-bolt.md)\
-      \ (see \"Actions\" below)\n\n**3/day:** [burning hands](3-Mechanics/CLI/spells/burning-hands.md)\n\
-      \n**1/day each:** [hellish rebuke](3-Mechanics/CLI/spells/hellish-rebuke.md)\
-      \ (see \"Reactions\" below), [scorching ray](3-Mechanics/CLI/spells/scorching-ray.md)"
+      \ no material components:\n\n**At will:** [fire bolt](3-Mechanics/CLI/spells/fire-bolt-xphb.md)\
+      \ (see \"Actions\" below)\n\n**3/day:** [burning hands](3-Mechanics/CLI/spells/burning-hands-xphb.md)\n\
+      \n**1/day each:** [hellish rebuke](3-Mechanics/CLI/spells/hellish-rebuke-xphb.md)\
+      \ (see \"Reactions\" below), [scorching ray](3-Mechanics/CLI/spells/scorching-ray-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "The oread is [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
       \ while fully immersed in fire."
@@ -95,6 +95,6 @@ A nymph doesn't require food, drink, or sleep.
     "name": "Hellish Rebuke (2nd-Level Spell; 1/Day)"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/fey/token/oread-mot.webp"
+"image": "file://bestiary/tokens/MOT/Oread.webp"
 ```
 ^statblock

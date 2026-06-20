@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Chamberlain of Zuggtmoy"
 ---
-# [Chamberlain of Zuggtmoy](3-Mechanics\CLI\bestiary\plant/chamberlain-of-zuggtmoy-oota.md)
+# [Chamberlain of Zuggtmoy](3-Mechanics/CLI/bestiary/plant/chamberlain-of-zuggtmoy-oota.md)
 *Source: Out of the Abyss p. 230*  
 
 ```statblock
@@ -71,6 +71,6 @@ aliases:
     "name": "Infestation Spores (1/Day)"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/plant/token/chamberlain-of-zuggtmoy-oota.webp"
+"image": "file://bestiary/tokens/OotA/Chamberlain%20of%20Zuggtmoy.webp"
 ```
 ^statblock

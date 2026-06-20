@@ -11,4 +11,4 @@ aliases:
 
 ## 4th Level
 
-- [Wall of Fire](3-Mechanics/CLI/spells/wall-of-fire.md "PHB")
+- [Wall of Fire](3-Mechanics/CLI/spells/wall-of-fire-xphb.md "XPHB")

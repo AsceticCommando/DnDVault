@@ -20,7 +20,7 @@ Character advancement through this section of the adventure is important. The jo
 
 ## Fellow Travelers
 
-![](3-Mechanics/CLI/adventures/out-of-the-abyss/img/083-ooa10-01.webp#center)
+![](file://adventure/OotA/083-ooa10-01.webp#center)
 
 The characters initially traveled through the Underdark as a small group, perhaps joined by a few of their fellow prisoners from Velkynvelve and other allies they met along the way. Now, they return to the subterranean realm at the head of a group of allies that might outnumber the adventurers four-to-one, depending on how many NPCs were recruited from the factions in Gauntlgrym (see chapter 8). This changes some of the conditions described in "Underdark Travel" in chapter 2.
 
@@ -102,9 +102,11 @@ If the expeditionary force is made up of diverse factions, the players also need
 
 ## Random Events
 
-The adventurers must contend with a variety of events as they lead their forces through the Underdark. Every other day of travel or camping in the Underdark, an event automatically occurs. Roll a `d20` and consult the Random Events table, or choose a suitable event.
+The adventurers must contend with a variety of events as they lead their forces through the Underdark. Every other day of travel or camping in the Underdark, an event automatically occurs. Roll a `dice:d20|noform|noparens|avg` (`d20`) and consult the Random Events table, or choose a suitable event.
 
 For the rules on madness, see chapter 2 of this adventure and chapter 8, ""Running the Game"," in the *Dungeon Master's Guide*.
+
+`dice: [](10-chapter-10-descent-into-the-depths.md#^event)`
 
 | dice: d20 | Event |
 |-----------|-------|
@@ -121,30 +123,34 @@ For the rules on madness, see chapter 2 of this adventure and chapter 8, ""Runni
 
 ### Battle Aftermath
 
-The party stumbles upon the remains of one or more creatures slaughtered by rampaging demons. Roll a `d10` and consult the Corpses table to determine what they find. A thorough search of the area yields no treasure.
+The party stumbles upon the remains of one or more creatures slaughtered by rampaging demons. Roll a `dice:d10|noform|noparens|avg` (`d10`) and consult the Corpses table to determine what they find. A thorough search of the area yields no treasure.
 
 #### Corpses
 
+`dice: [](10-chapter-10-descent-into-the-depths.md#^corpse-present)`
+
 | dice: d10 | Corpse Present |
 |-----------|----------------|
-| 1 | 1 dead [behir](3-Mechanics/CLI/bestiary/monstrosity/behir.md) |
-| 2–3 | `1d4` dead [drow](3-Mechanics/CLI/bestiary/humanoid/drow.md) and `1d4`−1 dead [giant lizards](3-Mechanics/CLI/bestiary/beast/giant-lizard.md) |
-| 4–5 | `3d8` dead [giant fire beetles](3-Mechanics/CLI/bestiary/beast/giant-fire-beetle.md) (their glands are no longer glowing) |
-| 6–7 | `2d4` dead [gricks](3-Mechanics/CLI/bestiary/monstrosity/grick.md) |
-| 8–9 | `2d4` dead [kuo-toa](3-Mechanics/CLI/bestiary/humanoid/kuo-toa.md) |
-| 10 | 1 dead [purple worm](3-Mechanics/CLI/bestiary/monstrosity/purple-worm.md) |
+| 1 | 1 dead [behir](3-Mechanics/CLI/bestiary/monstrosity/behir-xmm.md) |
+| 2–3 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) dead [drow](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) and `dice:1d4\|noform\|noparens\|avg` (`1d4`)−1 dead [giant lizards](3-Mechanics/CLI/bestiary/beast/giant-lizard-xmm.md) |
+| 4–5 | `dice:3d8\|noform\|noparens\|avg` (`3d8`) dead [giant fire beetles](3-Mechanics/CLI/bestiary/beast/giant-fire-beetle-xmm.md) (their glands are no longer glowing) |
+| 6–7 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) dead [gricks](3-Mechanics/CLI/bestiary/aberration/grick-xmm.md) |
+| 8–9 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) dead [kuo-toa](3-Mechanics/CLI/bestiary/aberration/kuo-toa-xmm.md) |
+| 10 | 1 dead [purple worm](3-Mechanics/CLI/bestiary/monstrosity/purple-worm-xmm.md) |
 ^corpse-present
 
-Roll a `d6` and consult the Scavengers table to determine what scavengers, if any, are feasting on the remains.
+Roll a `dice:d6|noform|noparens|avg` (`d6`) and consult the Scavengers table to determine what scavengers, if any, are feasting on the remains.
 
 ##### Scavengers
 
+`dice: [](10-chapter-10-descent-into-the-depths.md#^scavengers)`
+
 | dice: d6 | Scavengers |
 |----------|------------|
-| 1–2 | `1d3` [black puddings](3-Mechanics/CLI/bestiary/ooze/black-pudding.md) |
-| 3–4 | `1d4` [carrion crawlers](3-Mechanics/CLI/bestiary/monstrosity/carrion-crawler.md) |
-| 5 | `1d6` [gnolls](3-Mechanics/CLI/bestiary/humanoid/gnoll.md) and `1d6` [hyenas](3-Mechanics/CLI/bestiary/beast/hyena.md) |
-| 6 | 1 [otyugh](3-Mechanics/CLI/bestiary/aberration/otyugh.md) |
+| 1–2 | `dice:1d3\|noform\|noparens\|avg` (`1d3`) [black puddings](3-Mechanics/CLI/bestiary/ooze/black-pudding-xmm.md) |
+| 3–4 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [carrion crawlers](3-Mechanics/CLI/bestiary/monstrosity/carrion-crawler-xmm.md) |
+| 5 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [gnolls](3-Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm.md) and `dice:1d6\|noform\|noparens\|avg` (`1d6`) [hyenas](3-Mechanics/CLI/bestiary/beast/hyena-xmm.md) |
+| 6 | 1 [otyugh](3-Mechanics/CLI/bestiary/aberration/otyugh-xmm.md) |
 ^scavengers
 
 ### Creature Encounter
@@ -153,25 +159,29 @@ Roll on the Creature Encounters table in chapter 2 or the Darklake Creature Enco
 
 ### Demon Encounter
 
-Roll a `d20` and consult the Demon Encounters table to determine what appears. If the characters stumble upon Juiblex and flee immediately, the demon lord doesn't pursue or attack them.
+Roll a `dice:d20|noform|noparens|avg` (`d20`) and consult the Demon Encounters table to determine what appears. If the characters stumble upon Juiblex and flee immediately, the demon lord doesn't pursue or attack them.
 
 #### Demon Encounters
 
+`dice: [](10-chapter-10-descent-into-the-depths.md#^encounter)`
+
 | dice: d20 | Encounter |
 |-----------|-----------|
-| 1–4 | `1d4` [barlguras](3-Mechanics/CLI/bestiary/fiend/barlgura.md) |
-| 5–8 | `1d4` [chasmes](3-Mechanics/CLI/bestiary/fiend/chasme.md) |
-| 9–10 | `1d2` [hezrous](3-Mechanics/CLI/bestiary/fiend/hezrou.md) |
-| 11–14 | `1d4` [shadow demons](3-Mechanics/CLI/bestiary/fiend/shadow-demon.md) |
-| 15–18 | `1d3` [vrocks](3-Mechanics/CLI/bestiary/fiend/vrock.md) |
+| 1–4 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [barlguras](3-Mechanics/CLI/bestiary/fiend/barlgura-xmm.md) |
+| 5–8 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [chasmes](3-Mechanics/CLI/bestiary/fiend/chasme-xmm.md) |
+| 9–10 | `dice:1d2\|noform\|noparens\|avg` (`1d2`) [hezrous](3-Mechanics/CLI/bestiary/fiend/hezrou-xmm.md) |
+| 11–14 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [shadow demons](3-Mechanics/CLI/bestiary/fiend/shadow-demon-xmm.md) |
+| 15–18 | `dice:1d3\|noform\|noparens\|avg` (`1d3`) [vrocks](3-Mechanics/CLI/bestiary/fiend/vrock-xmm.md) |
 | 19–20 | [Juiblex](3-Mechanics/CLI/bestiary/npc/juiblex-mpmm.md) (see appendix D) |
 ^encounter
 
 ### Discipline Problem
 
-A discipline problem is revealed among the NPCs. Roll a `d6` and consult the Discipline Problems table to determine what transpires.
+A discipline problem is revealed among the NPCs. Roll a `dice:d6|noform|noparens|avg` (`d6`) and consult the Discipline Problems table to determine what transpires.
 
 #### Discipline Problems
+
+`dice: [](10-chapter-10-descent-into-the-depths.md#^problem)`
 
 | dice: d6 | Problem |
 |----------|---------|
@@ -182,9 +192,11 @@ A discipline problem is revealed among the NPCs. Roll a `d6` and consult the Dis
 
 ### Disease
 
-One or more NPC party members contract a disease. Roll a `d4` to determine how many NPCs are affected, then roll a `d6` and consult the Diseases table to determine which disease is contracted. See in chapter 8, ""Running the Game"," in the *Dungeon Master's Guide* for descriptions of cackle fever, sewer plague, and sight rot.
+One or more NPC party members contract a disease. Roll a `dice:d4|noform|noparens|avg` (`d4`) to determine how many NPCs are affected, then roll a `dice:d6|noform|noparens|avg` (`d6`) and consult the Diseases table to determine which disease is contracted. See in chapter 8, ""Running the Game"," in the *Dungeon Master's Guide* for descriptions of cackle fever, sewer plague, and sight rot.
 
 #### Diseases
+
+`dice: [](10-chapter-10-descent-into-the-depths.md#^disease)`
 
 | dice: d6 | Disease |
 |----------|---------|
@@ -196,7 +208,9 @@ One or more NPC party members contract a disease. Roll a `d4` to determine how m
 
 ### Madness
 
-One NPC party member goes mad. To determine the kind of madness, roll a `d6` and consult the Madness table below. To determine the madness effect, roll percentile dice and consult the appropriate table in "chapter 8" of the *Dungeon Master's Guide*.
+One NPC party member goes mad. To determine the kind of madness, roll a `dice:d6|noform|noparens|avg` (`d6`) and consult the Madness table below. To determine the madness effect, roll percentile dice and consult the appropriate table in "chapter 8" of the *Dungeon Master's Guide*.
+
+`dice: [](10-chapter-10-descent-into-the-depths.md#^madness)`
 
 | dice: d6 | Madness |
 |----------|---------|
@@ -207,15 +221,15 @@ One NPC party member goes mad. To determine the kind of madness, roll a `d6` and
 
 ### Poisoned NPCs
 
-One or more NPC party members are [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) for `1d10 × 10` hours by eating tainted food or poisonous Underdark mushrooms. Roll a `d12` to determine how many NPCs are [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) in this way.
+One or more NPC party members are [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) for `1d10 × 10` hours by eating tainted food or poisonous Underdark mushrooms. Roll a `dice:d12|noform|noparens|avg` (`d12`) to determine how many NPCs are [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) in this way.
 
 ### Spoiled Supplies
 
-The party's provisions become infested with Underdark vermin or infected with spores that render them poisonous. Unless the characters have access to [purify food and drink](3-Mechanics/CLI/spells/purify-food-and-drink.md) or similar magic, the party must dispose of `3d6` days of rations.
+The party's provisions become infested with Underdark vermin or infected with spores that render them poisonous. Unless the characters have access to [purify food and drink](3-Mechanics/CLI/spells/purify-food-and-drink-xphb.md) or similar magic, the party must dispose of `dice:3d6|noform|noparens|avg` (`3d6`) days of rations.
 
 ### Vanishing NPCs
 
-One or more NPC party members go missing and are never seen again. Roll a `d4` to determine how many NPCs vanish in this way. Efforts to find them or magically contact them turn up no trace.
+One or more NPC party members go missing and are never seen again. Roll a `dice:d4|noform|noparens|avg` (`d4`) to determine how many NPCs vanish in this way. Efforts to find them or magically contact them turn up no trace.
 
 ## Underdark Outposts
 
@@ -248,7 +262,7 @@ At some point after [the Pudding King](3-Mechanics/CLI/bestiary/npc/the-pudding-
 
 #### Reinforcements
 
-The deep gnomes of Blingdenstone are valuable allies. In gratitude for the adventurers' aid, they offer to reinforce the party's expeditionary force with twelve [deep gnomes](3-Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md). Chief Dorbo Diggermattock can also be persuaded to lend additional aid and troops, if the heroes present a compelling case. Use the information in chapter 6 to guide any negotiations or arrangements the adventurers attempt to make with the svirfneblin.
+The deep gnomes of Blingdenstone are valuable allies. In gratitude for the adventurers' aid, they offer to reinforce the party's expeditionary force with twelve [deep gnomes](3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md). Chief Dorbo Diggermattock can also be persuaded to lend additional aid and troops, if the heroes present a compelling case. Use the information in chapter 6 to guide any negotiations or arrangements the adventurers attempt to make with the svirfneblin.
 
 ### The Darklake
 
@@ -282,7 +296,7 @@ If the characters spend much time in Gracklstugh, they become caught up in a rus
 
 The duergar and derro hatch a scheme to sacrifice [Themberchaud](3-Mechanics/CLI/bestiary/npc/themberchaud-oota.md) as an offering to Demogorgon, drawing the demon prince to their city and pledging themselves to the Prince of Demons. A few of them even have delusions that they can somehow bind or influence the demon lord's power, or that the demon lord will lead them in conquering the whole of the Underdark. Meanwhile, rumors mount that the drow of Menzoberranzan are behind the demonic incursion. Tales range from the drow raising a mighty army of demons to a summoning spell gone terribly wrong. A demonic rampage is said to have nearly destroyed the City of Spiders, and characters with knowledge of the situation in Menzoberranzan are of great interest to all the factions of Gracklstugh. Any evidence that the drow are responsible for the presence of the demon lords stokes the already blazing embers of animosity against the dark elves, with the more militant factions of Gracklstugh calling for a renewed war of vengeance against Menzoberranzan.
 
-![](3-Mechanics/CLI/adventures/out-of-the-abyss/img/084-ooa10-02.webp#center)
+![](file://adventure/OotA/084-ooa10-02.webp#center)
 
 ### Menzoberranzan
 
@@ -290,26 +304,26 @@ The characters might decide to visit Menzoberranzan before heading to Gravenholl
 
 #### March on Menzoberranzan
 
-![](3-Mechanics/CLI/adventures/out-of-the-abyss/img/085-ooa10-03.webp#center)
+![](file://adventure/OotA/085-ooa10-03.webp#center)
 
-If the characters advance their expeditionary force toward the drow city, word of their approach reaches Menzoberranzan two days before their arrival, and the drow dispatch a well-armed defense force to destroy the surface dwellers. Racing ahead of this drow force is a high elf from Silverymoon named [Khalessa Draga](3-Mechanics/CLI/bestiary/npc/khalessa-draga-oota.md). A deep cover agent of the Lords' Alliance, Khalessa has been spying on the drow for years—so long, in fact, that her superiors are beginning to wonder if she's a defector. [Khalessa](3-Mechanics/CLI/bestiary/npc/khalessa-draga-oota.md) is a loyal alliance [spy](3-Mechanics/CLI/bestiary/humanoid/spy.md) with the following statistical modifications:
+If the characters advance their expeditionary force toward the drow city, word of their approach reaches Menzoberranzan two days before their arrival, and the drow dispatch a well-armed defense force to destroy the surface dwellers. Racing ahead of this drow force is a high elf from Silverymoon named [Khalessa Draga](3-Mechanics/CLI/bestiary/npc/khalessa-draga-oota.md). A deep cover agent of the Lords' Alliance, Khalessa has been spying on the drow for years—so long, in fact, that her superiors are beginning to wonder if she's a defector. [Khalessa](3-Mechanics/CLI/bestiary/npc/khalessa-draga-oota.md) is a loyal alliance [spy](3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md) with the following statistical modifications:
 
 - Khalessa's alignment is neutral.  
 - She has [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 60 feet.  
 - She speaks Common, Elvish, and Undercommon.  
 - Khalessa's fey ancestry gives her advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), and magic can't put her to sleep.  
-- She can cast the [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md) cantrip at will.  
-- She owns a [hat of disguise](3-Mechanics/CLI/items/hat-of-disguise.md), which she uses to appear as a female drow while in the company of drow, and she wears a [piwafwi](3-Mechanics/CLI/items/piwafwi-cloak-of-elvenkind-oota.md) (see appendix B).  
+- She can cast the [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md) cantrip at will.  
+- She owns a [hat of disguise](3-Mechanics/CLI/items/hat-of-disguise-xdmg.md), which she uses to appear as a female drow while in the company of drow, and she wears a [piwafwi](3-Mechanics/CLI/items/piwafwi-cloak-of-elvenkind-oota.md) (see appendix B).  
 
 Khalessa urges the characters to turn back. If they don't, she fears that the drow force will overwhelm them. Having blown her cover to warn the characters, she asks to stay with them until they reach Gauntlgrym or an alliance settlement.
 
-The leaders of the drow force are a female [drow elite warrior](3-Mechanics/CLI/bestiary/humanoid/drow-elite-warrior.md) named Ryzliir Symryvvin and her consort, a male [drow mage](3-Mechanics/CLI/bestiary/humanoid/drow-mage.md) named Velgor Zolond. They are joined by a prisoner in manacles—an unarmed and unarmored male human [knight](3-Mechanics/CLI/bestiary/humanoid/knight.md) of the Order of the Gauntlet named [Aljanor Keenblade](3-Mechanics/CLI/bestiary/npc/aljanor-keenblade-oota.md). Sir Aljanor was captured during a surface raid months ago, and the drow have beaten him such that he has only 3 hit points remaining. Members of the order traveling in the party's expeditionary force recognize Sir Aljanor instantly and are [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised); they assumed he had been killed.
+The leaders of the drow force are a female [drow elite warrior](3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) named Ryzliir Symryvvin and her consort, a male [drow mage](3-Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md) named Velgor Zolond. They are joined by a prisoner in manacles—an unarmed and unarmored male human [knight](3-Mechanics/CLI/bestiary/humanoid/knight-xmm.md) of the Order of the Gauntlet named [Aljanor Keenblade](3-Mechanics/CLI/bestiary/npc/aljanor-keenblade-oota.md). Sir Aljanor was captured during a surface raid months ago, and the drow have beaten him such that he has only 3 hit points remaining. Members of the order traveling in the party's expeditionary force recognize Sir Aljanor instantly and are [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised); they assumed he had been killed.
 
-![](3-Mechanics/CLI/adventures/out-of-the-abyss/img/086-ooa10-04.webp#center)
+![](file://adventure/OotA/086-ooa10-04.webp#center)
 
 Ryzliir vows to execute Aljanor unless the characters withdraw their expeditionary force immediately. Under no circumstances will she willingly release her prisoner. If the characters refuse to turn back, Ryzliir kills Aljanor and orders her own force to attack. If the characters leave Aljanor behind or allow him to die, members of the party's expeditionary force in league with the Order of the Gauntlet who make it back to Gauntlgrym report the incident to Sir Lanniver Strayl (see chapter 8).
 
-Ryzliir and Velgor are mounted on [giant riding lizards](3-Mechanics/CLI/bestiary/beast/giant-riding-lizard-oota.md) (see the end of chapter 8 for statistics), and Aljanor rides behind Velgor. Ryzliir commands a force of six [drow](3-Mechanics/CLI/bestiary/humanoid/drow.md) warriors, twelve [bugbear](3-Mechanics/CLI/bestiary/humanoid/bugbear.md) slaves, and sixty [goblin](3-Mechanics/CLI/bestiary/humanoid/goblin.md) slaves. If all the drow are killed, the goblinoids flee as their morale breaks.
+Ryzliir and Velgor are mounted on [giant riding lizards](3-Mechanics/CLI/bestiary/beast/giant-riding-lizard-oota.md) (see the end of chapter 8 for statistics), and Aljanor rides behind Velgor. Ryzliir commands a force of six [drow](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) warriors, twelve [bugbear](3-Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md) slaves, and sixty [goblin](3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) slaves. If all the drow are killed, the goblinoids flee as their morale breaks.
 
 Sir Aljanor has made his peace with Tyr and expects to die. He is disappointed if good lives are lost in a foolish attempt to rescue him. If he survives, he accepts any offer to join the party's expeditionary force and is quick to assume a leadership role.
 
@@ -317,7 +331,7 @@ Sir Aljanor has made his peace with Tyr and expects to die. He is disappointed i
 
 If the characters return to Neverlight Grove, myconids loyal to [Sovereign Basidia](3-Mechanics/CLI/bestiary/npc/sovereign-basidia-oota.md) (including [Stool](3-Mechanics/CLI/bestiary/npc/stool-oota.md) and [Rumpadump](3-Mechanics/CLI/bestiary/npc/rumpadump-oota.md) if they remained behind) try to intercept them before their arrival and warn them off. The myconids say that matters have become grave, and that the characters should avoid the grove at all costs.
 
-If the adventurers don't leave immediately, six [myconid adults](3-Mechanics/CLI/bestiary/plant/myconid-adult.md), four [quaggoth spore servants](3-Mechanics/CLI/bestiary/plant/quaggoth-spore-servant.md), and four [awakened zurkhwoods](3-Mechanics/CLI/bestiary/plant/awakened-zurkhwood-oota.md) (see appendix C) loyal to Sovereign Phylo cut off their retreat. They surround the characters and their followers, offering to escort them to Phylo as the sovereign's honored guests.
+If the adventurers don't leave immediately, six [myconid adults](3-Mechanics/CLI/bestiary/plant/myconid-adult-xmm.md), four [quaggoth spore servants](3-Mechanics/CLI/bestiary/plant/myconid-spore-servant-xmm.md), and four [awakened zurkhwoods](3-Mechanics/CLI/bestiary/plant/awakened-zurkhwood-oota.md) (see appendix C) loyal to Sovereign Phylo cut off their retreat. They surround the characters and their followers, offering to escort them to Phylo as the sovereign's honored guests.
 
 Sovereign Phylo is friendly and offers all visitors food and drink; however, his offerings are [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned). Each creature that consumes the food or drink must succeed on a DC 13 Constitution saving throw or become [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) for 8 hours. The creature is also [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) while [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) in this way. Any creature that remains [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) in the grove for 1 hour or more is afflicted by Zuggtmoy's spores, as described in chapter 5.
 
@@ -325,4 +339,4 @@ If the characters take Basidia's advice and turn back, the myconid sovereign pro
 
 ### Velkynvelve
 
-If the adventurers return to the drow outpost where they were imprisoned, they find Velkynvelve under the command of a [drow mage](3-Mechanics/CLI/bestiary/humanoid/drow-mage.md) named Servan Llarabbar. Six male [drow](3-Mechanics/CLI/bestiary/humanoid/drow.md) report to him, while three more male [drow](3-Mechanics/CLI/bestiary/humanoid/drow.md) and one female [drow elite warrior](3-Mechanics/CLI/bestiary/humanoid/drow-elite-warrior.md) have been locked in the slave pen. The prisoners are afflicted with various forms of indefinite madness (roll on the Indefinite Madness table in "chapter 8" of the *Dungeon Master's Guide*). Even Servan is beginning to show heightened megalomania and paranoia, seeing enemies everywhere. He has delusions of grandeur and fantasies about declaring Velkynvelve independent of Menzoberranzan, rallying followers to his side and eventually toppling the matriarchs of the great houses.
+If the adventurers return to the drow outpost where they were imprisoned, they find Velkynvelve under the command of a [drow mage](3-Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md) named Servan Llarabbar. Six male [drow](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) report to him, while three more male [drow](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) and one female [drow elite warrior](3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) have been locked in the slave pen. The prisoners are afflicted with various forms of indefinite madness (roll on the Indefinite Madness table in "chapter 8" of the *Dungeon Master's Guide*). Even Servan is beginning to show heightened megalomania and paranoia, seeing enemies everywhere. He has delusions of grandeur and fantasies about declaring Velkynvelve independent of Menzoberranzan, rallying followers to his side and eventually toppling the matriarchs of the great houses.

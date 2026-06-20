@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Orok"
 ---
-# [Orok](3-Mechanics\CLI\bestiary\npc/orok-skt.md)
+# [Orok](3-Mechanics/CLI/bestiary/npc/orok-skt.md)
 *Source: Storm King's Thunder p. 115*  
 
 ```statblock
@@ -34,8 +34,8 @@ aliases:
   - !!int "8"
 "speed": "30 ft."
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
-  - "[sling](3-Mechanics/CLI/items/sling.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
+  - "[sling](3-Mechanics/CLI/items/sling-xphb.md)"
 "senses": "passive Perception 8"
 "languages": "Bothii, Common"
 "cr": "1/8"
@@ -52,6 +52,6 @@ aliases:
     "name": "Sling"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/orok-skt.webp"
+"image": "file://bestiary/tokens/SKT/Orok.webp"
 ```
 ^statblock

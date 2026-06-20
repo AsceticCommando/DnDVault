@@ -12,6 +12,8 @@ aliases:
 
 **Bronze Dragon Ideals**
 
+`dice: [](creating-a-bronze-dragon-bronze-dragon-ideals-ftd.md#^bronze-dragon-ideals)`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Action. Passivity is shameful. We owe it to the world and ourselves to try to improve things, even if we can't guarantee success. (Any) |

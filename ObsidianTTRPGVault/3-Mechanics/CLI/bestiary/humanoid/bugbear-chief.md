@@ -15,7 +15,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Bugbear Chief"
 ---
-# [Bugbear Chief](3-Mechanics\CLI\bestiary\humanoid/bugbear-chief.md)
+# [Bugbear Chief](3-Mechanics/CLI/bestiary/humanoid/bugbear-chief.md)
 *Source: Monster Manual p. 33*  
 
 Bugbears are born for battle and mayhem. Surviving by raiding and hunting, they bully the weak and despise being bossed around, but their love of carnage means they will fight for powerful masters if bloodshed and treasure are assured.
@@ -39,7 +39,7 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
 "subtype": "goblinoid"
 "alignment": "Chaotic Evil"
 "ac": !!int "17"
-"ac_class": "[chain shirt](3-Mechanics/CLI/items/chain-shirt.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[chain shirt](3-Mechanics/CLI/items/chain-shirt-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
 "modifier": !!int "2"
@@ -59,8 +59,8 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
   - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+3"
 "gear":
-  - "[javelin](3-Mechanics/CLI/items/javelin.md)"
-  - "[morningstar](3-Mechanics/CLI/items/morningstar.md)"
+  - "[javelin](3-Mechanics/CLI/items/javelin-xphb.md)"
+  - "[morningstar](3-Mechanics/CLI/items/morningstar-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 11"
 "languages": "Common, Goblin"
@@ -90,7 +90,7 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
     "name": "Javelin"
 "source":
   - "MM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/bugbear-chief.webp"
+"image": "file://bestiary/tokens/MM/Bugbear%20Chief.webp"
 ```
 ^statblock
 

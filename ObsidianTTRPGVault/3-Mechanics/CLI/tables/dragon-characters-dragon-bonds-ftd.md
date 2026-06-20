@@ -12,6 +12,8 @@ aliases:
 
 **Dragon Bonds**
 
+`dice: [](dragon-characters-dragon-bonds-ftd.md#^dragon-bonds)`
+
 | dice: d10 | Bond |
 |-----------|------|
 | 1 | I treasure one particular item in my hoard—a gift from a person I loved, who is long since dead. |

@@ -12,6 +12,8 @@ aliases:
 
 **Everyday Impact**
 
+`dice: [](everyday-impact-erlw.md#^everyday-impact)`
+
 | dice: d6 | Impact |
 |----------|--------|
 | 1 | A supply shortage is causing tension in the community. This shortage could be of a basic commodity (such as bread), a luxury item (such as wine), or an important service. |

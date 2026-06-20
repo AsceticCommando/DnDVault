@@ -12,6 +12,8 @@ aliases:
 
 **Faerie Dragon Personality Traits**
 
+`dice: [](creating-a-faerie-dragon-faerie-dragon-personality-traits-ftd.md#^faerie-dragon-personality-traits)`
+
 | dice: d8 | Trait |
 |----------|-------|
 | 1 | Some people say I have a short attention span, and that I'm easily distractible, but they don't... oh wow, is that a lute? |

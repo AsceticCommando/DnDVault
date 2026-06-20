@@ -14,7 +14,7 @@ aliases:
 
 - **Skill Proficiencies.** [Insight](3-Mechanics/CLI/rules/skills.md#Insight) and one Intelligence, Wisdom, or Charisma skill of your choice, as appropriate to your faction  
 - **Languages.** Any two of your choice  
-- **Equipment.** Badge or emblem of your faction, a copy of a seminal faction text (or code-book for a covert faction), a set of [common clothes](3-Mechanics/CLI/items/common-clothes.md), and a [pouch](3-Mechanics/CLI/items/pouch.md) containing 15 gp  
+- **Equipment.** Badge or emblem of your faction, a copy of a seminal faction text (or code-book for a covert faction), a set of [common clothes](3-Mechanics/CLI/items/common-clothes.md), and a [pouch](3-Mechanics/CLI/items/pouch-xphb.md) containing 15 gp  
 
 Many organizations active in the North and across the face of Faerûn aren't bound by strictures of geography. These factions pursue their agendas without regard for political boundaries, and their members operate anywhere the organization deems necessary. These groups employ listeners, rumormongers, smugglers, sellswords, cache-holders (people who guard caches of wealth or magic for use by the faction's operatives), haven keepers, and message drop minders, to name a few. At the core of every faction are those who don't merely fulfill a small function for that organization, but who serve as its hands, head, and heart.
 
@@ -50,6 +50,6 @@ As a faction agent, you have access to a secret network of supporters and operat
 
 ## Suggested Characteristics
 
-Use the tables for the [acolyte](3-Mechanics/CLI/backgrounds/acolyte.md) background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a faction agent. (For instance, consider the words "faith" and "faction" to be interchangeable.)
+Use the tables for the [acolyte](3-Mechanics/CLI/backgrounds/acolyte-xphb.md) background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a faction agent. (For instance, consider the words "faith" and "faction" to be interchangeable.)
 
 Your bond might be associated with other members of your faction, or a location or an object that is important to your faction. The ideal you strive for is probably in keeping with the tenets and principles of your faction, but might be more personal in nature.

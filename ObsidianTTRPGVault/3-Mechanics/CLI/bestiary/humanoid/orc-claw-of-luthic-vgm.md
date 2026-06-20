@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Orc Claw of Luthic"
 ---
-# [Orc Claw of Luthic](3-Mechanics\CLI\bestiary\humanoid/orc-claw-of-luthic-vgm.md)
+# [Orc Claw of Luthic](3-Mechanics/CLI/bestiary/humanoid/orc-claw-of-luthic-vgm.md)
 *Source: Volo's Guide to Monsters p. 183*  
 
 Luthic is Gruumsh's wife and the paragon of maternity to all orcs. She is the Cave Mother, a fierce dweller in the darkness who raises new broods of orcs to be vicious and strong. Her symbol is the cave bear, and orc females raise such bears alongside orc whelps. Females particularly attracted to Luthic grow long nails and lacquer them, learning to use these claws as weapons much as Luthic uses her own.
@@ -39,7 +39,7 @@ In addition, orcs have special relationships with two creatures that are sometim
 "subtype": "orc"
 "alignment": "Chaotic Evil"
 "ac": !!int "14"
-"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor.md)"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor-xphb.md)"
 "hp": !!int "45"
 "hit_dice": "6d8 + 18"
 "modifier": !!int "2"
@@ -65,14 +65,14 @@ In addition, orcs have special relationships with two creatures that are sometim
 "traits":
   - "desc": "The orc is a 5th-level spellcaster. Its spellcasting ability is Wisdom\
       \ (spell save DC 12, +4 to hit with spell attacks). The orc has the following\
-      \ cleric spells prepared:\n\n**Cantrips (at will):** [guidance](3-Mechanics/CLI/spells/guidance.md),\
-      \ [mending](3-Mechanics/CLI/spells/mending.md), [resistance](3-Mechanics/CLI/spells/resistance.md),\
-      \ [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy.md)\n\n**1st level (4 slots):**\
-      \ [bane](3-Mechanics/CLI/spells/bane.md), [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md),\
-      \ [guiding bolt](3-Mechanics/CLI/spells/guiding-bolt.md)\n\n**2nd level (3 slots):**\
-      \ [augury](3-Mechanics/CLI/spells/augury.md), [warding bond](3-Mechanics/CLI/spells/warding-bond.md)\n\
-      \n**3rd level (2 slots):** [bestow curse](3-Mechanics/CLI/spells/bestow-curse.md),\
-      \ [create food and water](3-Mechanics/CLI/spells/create-food-and-water.md)"
+      \ cleric spells prepared:\n\n**Cantrips (at will):** [guidance](3-Mechanics/CLI/spells/guidance-xphb.md),\
+      \ [mending](3-Mechanics/CLI/spells/mending-xphb.md), [resistance](3-Mechanics/CLI/spells/resistance-xphb.md),\
+      \ [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n**1st level (4\
+      \ slots):** [bane](3-Mechanics/CLI/spells/bane-xphb.md), [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md),\
+      \ [guiding bolt](3-Mechanics/CLI/spells/guiding-bolt-xphb.md)\n\n**2nd level\
+      \ (3 slots):** [augury](3-Mechanics/CLI/spells/augury-xphb.md), [warding bond](3-Mechanics/CLI/spells/warding-bond-xphb.md)\n\
+      \n**3rd level (2 slots):** [bestow curse](3-Mechanics/CLI/spells/bestow-curse-xphb.md),\
+      \ [create food and water](3-Mechanics/CLI/spells/create-food-and-water-xphb.md)"
     "name": "Spellcasting"
   - "desc": "As a bonus action, the orc can move up to its speed toward a hostile\
       \ creature that it can see."
@@ -86,7 +86,7 @@ In addition, orcs have special relationships with two creatures that are sometim
     "name": "Claw"
 "source":
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/orc-claw-of-luthic-vgm.webp"
+"image": "file://bestiary/tokens/VGM/Orc%20Claw%20of%20Luthic.webp"
 ```
 ^statblock
 

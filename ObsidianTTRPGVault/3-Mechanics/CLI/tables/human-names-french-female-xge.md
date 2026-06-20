@@ -12,6 +12,8 @@ aliases:
 
 **Human Names – French, Female**
 
+`dice: [](human-names-french-female-xge.md#^human-names-french-female)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Aalis |

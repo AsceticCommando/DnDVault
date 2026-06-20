@@ -12,6 +12,8 @@ aliases:
 
 **Dragon Turtle Ideals**
 
+`dice: [](creating-a-dragon-turtle-dragon-turtle-ideals-ftd.md#^dragon-turtle-ideals)`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Endurance. We who dwell beneath the waves can weather all storms. (Any) |

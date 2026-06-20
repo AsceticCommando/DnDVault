@@ -60,7 +60,7 @@ Most of the beholders in the world live apart from others of their kind, and the
 
 A solitary beholder gathers (or inherits) inferior creatures that it uses as minions. These creatures help defend the lair and also serve as shock troops if the beholder vacates its lair to prey on the inhabitants of the surrounding area. Often, it plunders its neighbors' homes for knowledge and treasure. After the beholder secures the spoils it desires from its enemies, it allows its minions to divide the remaining booty.
 
-![](3-Mechanics/CLI/books/volos-guide-to-monsters/img/c1-1.webp#center)
+![](file://book/VGM/c1-1.webp#center)
 
 #### Eye Tyrants
 
@@ -132,7 +132,7 @@ A beholder picks its own name, piecing together sounds and syllables that have s
 
 A beholder analyzes its opponents, makes note of armor, weapons, and tactics, and adjusts its strategy to eliminate the most dangerous threats as quickly as possible. Although a beholder's specific actions will vary with each encounter, the creature's behavior is largely governed by the tactics discussed below.
 
-![](3-Mechanics/CLI/books/volos-guide-to-monsters/img/volo01-02.webp#center)
+![](file://book/VGM/volo01-02.webp#center)
 
 #### Stay out of Range and Sight
 
@@ -220,7 +220,7 @@ The most mundane function of the petrification ray is as a means of decorating a
 
 A beholder's disintegration ray is a useful tool for excavation. The beholder can also manipulate the ray with pinpoint control, enabling it to cut and shape objects as though it were wielding a fine chisel, drill holes too small for an arrow to pass through, carve masonry blocks out of raw stone, amputate limbs, or brand creatures with burn-like scars. This ray and the telekinetic ray are the basis for a beholder's ability to shape its lair to its very specific and exacting needs, whether sculpting rooms or fabricating traps.
 
-![](3-Mechanics/CLI/books/volos-guide-to-monsters/img/c1-2.webp#center)
+![](file://book/VGM/c1-2.webp#center)
 
 ### Variant Abilities
 
@@ -230,17 +230,17 @@ This section provides several alternative spell effects for a beholder's eye. Ea
 
 Unless otherwise indicated, an alternative ability has the same range as the eye ray it is replacing, and it affects only one creature per use (even if the ability is based on a spell that normally affects an area or multiple targets). The saving throw for an alternative ability uses the same DC and the same ability score as the spell the eye ray is based on.
 
-- **Antimagic Cone.** [mirage arcane](3-Mechanics/CLI/spells/mirage-arcane.md), [power word stun](3-Mechanics/CLI/spells/power-word-stun.md) (affecting the weakest non-stunned target in the cone each round)  
-- **Charm Ray.** [banishment](3-Mechanics/CLI/spells/banishment.md) (1 minute), [confusion](3-Mechanics/CLI/spells/confusion.md) (1 minute)  
-- **Death Ray.** [circle of death](3-Mechanics/CLI/spells/circle-of-death.md) (10-foot-radius sphere; `4d6` necrotic damage to all creatures in the area), [feeblemind](3-Mechanics/CLI/spells/feeblemind.md)  
-- **Disintegration Ray.** [chain lightning](3-Mechanics/CLI/spells/chain-lightning.md) (primary target takes `6d8` lightning damage; two secondary targets within 30 feet of the primary target take `3d8` lightning damage each), [eyebite](3-Mechanics/CLI/spells/eyebite.md) (sickened effect; 1 minute)  
-- **Enervation Ray.** [create undead](3-Mechanics/CLI/spells/create-undead.md) (usable regardless of the time of day), [polymorph](3-Mechanics/CLI/spells/polymorph.md) (1 minute)  
-- **Fear Ray.** [gaseous form](3-Mechanics/CLI/spells/gaseous-form.md) (self or willing creature only), [moonbeam](3-Mechanics/CLI/spells/moonbeam.md)  
-- **Paralyzing Ray.** [modify memory](3-Mechanics/CLI/spells/modify-memory.md), [silence](3-Mechanics/CLI/spells/silence.md) (1 minute)  
-- **Petrification Ray.** [Otto's irresistible dance](3-Mechanics/CLI/spells/ottos-irresistible-dance.md) (1 minute), [wall of ice](3-Mechanics/CLI/spells/wall-of-ice.md) (1 minute; one 10-foot-square panel)  
-- **Sleep Ray.** [blindness/deafness](3-Mechanics/CLI/spells/blindness-deafness.md), [misty step](3-Mechanics/CLI/spells/misty-step.md) (self or willing creature only)   
-- **Slowing Ray.** [bestow curse](3-Mechanics/CLI/spells/bestow-curse.md) (1 minute), [sleet storm](3-Mechanics/CLI/spells/sleet-storm.md) (one 10-foot-cube)  
-- **Telekinesis Ray.** [geas](3-Mechanics/CLI/spells/geas.md) (1 hour), [wall of force](3-Mechanics/CLI/spells/wall-of-force.md) (1 minute; one 10-foot-square panel)  
+- **Antimagic Cone.** [mirage arcane](3-Mechanics/CLI/spells/mirage-arcane-xphb.md), [power word stun](3-Mechanics/CLI/spells/power-word-stun-xphb.md) (affecting the weakest non-stunned target in the cone each round)  
+- **Charm Ray.** [banishment](3-Mechanics/CLI/spells/banishment-xphb.md) (1 minute), [confusion](3-Mechanics/CLI/spells/confusion-xphb.md) (1 minute)  
+- **Death Ray.** [circle of death](3-Mechanics/CLI/spells/circle-of-death-xphb.md) (10-foot-radius sphere; `dice:4d6|noform|noparens|avg` (`4d6`) necrotic damage to all creatures in the area), [feeblemind](3-Mechanics/CLI/spells/befuddlement-xphb.md)  
+- **Disintegration Ray.** [chain lightning](3-Mechanics/CLI/spells/chain-lightning-xphb.md) (primary target takes `dice:6d8|noform|noparens|avg` (`6d8`) lightning damage; two secondary targets within 30 feet of the primary target take `dice:3d8|noform|noparens|avg` (`3d8`) lightning damage each), [eyebite](3-Mechanics/CLI/spells/eyebite-xphb.md) (sickened effect; 1 minute)  
+- **Enervation Ray.** [create undead](3-Mechanics/CLI/spells/create-undead-xphb.md) (usable regardless of the time of day), [polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md) (1 minute)  
+- **Fear Ray.** [gaseous form](3-Mechanics/CLI/spells/gaseous-form-xphb.md) (self or willing creature only), [moonbeam](3-Mechanics/CLI/spells/moonbeam-xphb.md)  
+- **Paralyzing Ray.** [modify memory](3-Mechanics/CLI/spells/modify-memory-xphb.md), [silence](3-Mechanics/CLI/spells/silence-xphb.md) (1 minute)  
+- **Petrification Ray.** [Otto's irresistible dance](3-Mechanics/CLI/spells/ottos-irresistible-dance-xphb.md) (1 minute), [wall of ice](3-Mechanics/CLI/spells/wall-of-ice-xphb.md) (1 minute; one 10-foot-square panel)  
+- **Sleep Ray.** [blindness/deafness](3-Mechanics/CLI/spells/blindness-deafness-xphb.md), [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md) (self or willing creature only)   
+- **Slowing Ray.** [bestow curse](3-Mechanics/CLI/spells/bestow-curse-xphb.md) (1 minute), [sleet storm](3-Mechanics/CLI/spells/sleet-storm-xphb.md) (one 10-foot-cube)  
+- **Telekinesis Ray.** [geas](3-Mechanics/CLI/spells/geas-xphb.md) (1 hour), [wall of force](3-Mechanics/CLI/spells/wall-of-force-xphb.md) (1 minute; one 10-foot-square panel)  
 
 ### Beholder Lairs
 
@@ -252,9 +252,9 @@ Regardless of its overall configuration, every beholder's lair is oriented to ta
 
 Minions and other creatures under a beholder's control generally have their own living spaces in the lair. Because a beholder's minions are typically not able to fly, many of these chambers are connected to others by staircases or gently sloping ramps in addition to the tunnels, so the beholder can easily move its minions around as the need arises.
 
-![Beholder Lair (DM)](3-Mechanics/CLI/books/volos-guide-to-monsters/img/beholder-lair-dm.webp#center)
+![Beholder Lair (DM)](file://book/VGM/Beholder-Lair-DM.webp#center)
 
-![Beholder Lair (Players)](3-Mechanics/CLI/books/volos-guide-to-monsters/img/beholder-lair-players.webp#center)
+![Beholder Lair (Players)](file://book/VGM/Beholder-Lair-Players.webp#center)
 
 Common rooms found in a beholder's lair are described in the sections that follow.
 
@@ -606,7 +606,7 @@ Crafting this form of magic is painstakingly slow. Imagine a wizard who crafts a
 
 Carving a magical rune into an item imbues it with power. Like any other magic item, it can be used to activate one or more magical effects. A magical rune can also be inscribed upon a surface to create effects similar to those of a glyph of warding or symbol spell. The rune itself determines what sort of magic the item or surface holds. For example, a storm rune carved into a stone might allow the stone's possessor to control the weather. The same rune carved into door or chest might deal thunder damage to anyone who opens it.
 
-![](3-Mechanics/CLI/books/volos-guide-to-monsters/img/volo01-04.webp#center)
+![](file://book/VGM/volo01-04.webp#center)
 
 ### A Giant's Bag
 
@@ -633,7 +633,7 @@ Giants have a well-deserved reputation as living siege engines-all of them can h
 
 Most of the games that giants play involve throwing rocks in ways that hone their skills for hunting and war. One of the most popular contests, especially among fire giants, involves nothing more than taking turns trying to knock each other down with boulders. Frost giants build targets out of snow and ice and compete to see who can knock down the most with a single toss. A popular one-on-one game begins with the challenger throwing a stone as far as it can. The giant who was challenged then goes to where the stone landed and hurls it back at the challenger. A challenger who is stronger wins, because the return throw will fall short, but a giant who took on a better thrower will stumble away, nursing its injuries, as a lesson that arrogance has a price.
 
-![](3-Mechanics/CLI/books/volos-guide-to-monsters/img/volo01-05.webp#center)
+![](file://book/VGM/volo01-05.webp#center)
 
 In battle against puny creatures, giants use boulders that fit in one hand. When giants fight enormous foes (such as dragons) or enormous targets (such as castles), they prefer to hurl stones so large that even a giant must use both arms to lift and throw one. Giants throw just as accurately with both arms as with one, a feat most humans would find impossible. These attacks are effective only at shorter ranges, however, for obvious reasons.
 
@@ -677,7 +677,7 @@ Cloud giants are aptly named, or at least were at one time. Few of them live lit
 
 No one can build those majestic structures any longer. The methods of their construction were lost (along with much other knowledge) when Ostoria fell. Some cloud giants believe the information might yet be buried in some long-forgotten, ruined library. Rumors of its existence crop up from time to time, stirring debate and dreams of resurgent glory among the cloud giants, but definite information has proven impossible to obtain. Many cloud giants think that someday, a hero will unearth this ancient secret. Until then, they must be satisfied with watching clouds drift past their mountaintop  homes instead of living atop those clouds as in days of yore.
 
-![](3-Mechanics/CLI/books/volos-guide-to-monsters/img/volo01-06.webp#center)
+![](file://book/VGM/volo01-06.webp#center)
 
 #### Family First
 
@@ -722,7 +722,7 @@ A mask is prized both for its material value and for its accuracy in expressing 
 
 ### Fire Giants
 
-![](3-Mechanics/CLI/books/volos-guide-to-monsters/img/volo01-07.webp#center)
+![](file://book/VGM/volo01-07.webp#center)
 
 The fire giants were the officers, engineers, and crafters of ancient Ostoria. Their position and unparalleled skill, along with their domineering outlook, make them haughty and arrogant.
 
@@ -765,7 +765,7 @@ Giants that stand low in the ordning are assigned to manage slaves and mining op
 
 ### Frost Giants
 
-![](3-Mechanics/CLI/books/volos-guide-to-monsters/img/volo01-08.webp#center)
+![](file://book/VGM/volo01-08.webp#center)
 
 Frost giants dwell in the remote, frozen places of the world. Anything warmer than the flesh of a recently killed elk is as flame to them. As a sailor fears the howl of the wind heralding a storm, the denizens of ice-capped mountains and northern steppes shudder at the war horns that presage the arrival of Thrym's blue-skinned, icy children.
 
@@ -818,7 +818,7 @@ Hill giants are the weakest of the true giants. They have the shortest stature, 
 
 Since eating is the only thing hill giants care about, a tribe is always led by its fattest, heaviest member-the most successful and thus the most admired one in the group. The qualities that other creatures expect or demand of their leaders-such as intellect, decision-making ability, and personal magnetism-have no importance to hill giants. They are neither recognized nor rewarded, except to the extent that a hill giant with slightly above average smarts might use trickery or intimidation to grab more food than its neighbors.
 
-![](3-Mechanics/CLI/books/volos-guide-to-monsters/img/c1-3.webp#center)
+![](file://book/VGM/c1-3.webp#center)
 
 #### Dens of Squalor and Stench
 
@@ -912,7 +912,7 @@ Family members visit this tomb-chamber often to pay respects to their ancestors.
 
 ### Storm Giants
 
-![](3-Mechanics/CLI/books/volos-guide-to-monsters/img/volo01-09.webp#center)
+![](file://book/VGM/volo01-09.webp#center)
 
 Storm giants, the most powerful and majestic of giant-kind, are also the most aloof and the least understood. Uvarjotens aren't just forces of nature; they are bound to nature, and are extensions of it, in mystical ways that humans find hard to comprehend.
 
@@ -961,7 +961,7 @@ Gnolls remind the world of the horrors posed by the hordes of the Abyss, and the
 
 Whenever the demon lord Yeenoghu enters the Material Plane and goes on a rampage, he leaves a great trail of corpses in his wake. As the Lord of Savagery despoils the land, packs of hyenas trail him and feast on the victims until the dead flesh of Yeenoghu's prey leave them bloated and unable to move. Then, in a shower of blood and gristle, the hyenas transform into gnolls, which take up Yeenoghu's awful mission to kill and destroy anything in their path.
 
-![](3-Mechanics/CLI/books/volos-guide-to-monsters/img/volo01-10.webp#center)
+![](file://book/VGM/volo01-10.webp#center)
 
 ### Yeenoghu
 
@@ -1131,7 +1131,7 @@ Rarely, a war band includes orcs, humans, or other humanoids that have sworn loy
 
 Almost all cultists are brutish individuals touched by insanity, one step above the hyenas that trail behind the war band's path. They aren't gnolls, and thus don't receive their inspiration directly from Yeenoghu. Yet exceptions do occur. If an individual of great intelligence and great ability heeds Yeenoghu's call, the Lord of Savagery might elevate it to the leadership of its band. Such champions are rare, and a band led by a cultist is capable of feats that are beyond a group of gnolls-accomplishments that combine the gnolls' savagery with a humanlike level of intelligence and planning.
 
-![](3-Mechanics/CLI/books/volos-guide-to-monsters/img/volo01-11.webp#center)
+![](file://book/VGM/volo01-11.webp#center)
 
 ### Gnoll Allies
 
@@ -1179,7 +1179,7 @@ Ghoul packs emerge from graveyards and dungeons to trail in the wake of a war ba
 
 Large packs of hyenas follow gnoll war bands. For their part, the gnolls largely ignore these animals. They tend to gather around fangs in battle, eager to partake of Yeenoghu's blessing and its horrid transformation.
 
-![](3-Mechanics/CLI/books/volos-guide-to-monsters/img/c1-4.webp#center)
+![](file://book/VGM/c1-4.webp#center)
 
 #### Leucrottas
 
@@ -1227,7 +1227,7 @@ On the surface, goblins, bugbears, and hobgoblins are as different as halflings,
 
 Goblins occupy an uneasy place in a dangerous world, and they react by lashing out at any creatures they believe they can bully. Cunning in battle and cruel in victory, goblins are fawning and servile in defeat, just as in their own society lower castes must scrape before those of greater status and as goblin tribes bow before other goblinoids.
 
-![](3-Mechanics/CLI/books/volos-guide-to-monsters/img/volo01-12.webp#center)
+![](file://book/VGM/volo01-12.webp#center)
 
 #### Beast Masters and Slave Drivers
 
@@ -1292,11 +1292,11 @@ This goblin served under a hobgoblin wizard, stole a look at its master's spellb
 
 ##### Booyahg Wielder
 
-This goblin found a magic item (a [necklace of fireballs](3-Mechanics/CLI/items/necklace-of-fireballs.md), a [circlet of blasting](3-Mechanics/CLI/items/circlet-of-blasting.md), or the like) and learned how to use it.
+This goblin found a magic item (a [necklace of fireballs](3-Mechanics/CLI/items/necklace-of-fireballs-xdmg.md), a [circlet of blasting](3-Mechanics/CLI/items/circlet-of-blasting-xdmg.md), or the like) and learned how to use it.
 
 ##### Booyahg Whip
 
-Khurgorbaeyag saw fit to gift this goblin with powers that enable it to dominate others. The goblin has `1d3` other goblins that slavishly obey its orders.
+Khurgorbaeyag saw fit to gift this goblin with powers that enable it to dominate others. The goblin has `dice:1d3|noform|noparens|avg` (`1d3`) other goblins that slavishly obey its orders.
 
 ##### Booyahg Slave
 
@@ -1304,7 +1304,7 @@ This goblin warlock serves a patron who can extract payment in flesh if the gobl
 
 ##### Booyahg Booyahg Booyahg
 
-This goblin is a sorcerer with the wild magic origin whose every casting, including cantrips, is accompanied by a wild magic surge. Use the [mage](3-Mechanics/CLI/bestiary/humanoid/mage.md) stat block in the "Monster Manual" to represent this goblin, adding darkvision and the Nimble Escape traits common to all goblins. Each time the goblin casts a spell, there is an accompanying surge of wild magic; roll on the [Wild Magic Surge](3-Mechanics/CLI/tables/wild-magic-surge-phb.md) table in the "Player's Handbook" to determine the wild magic effect.
+This goblin is a sorcerer with the wild magic origin whose every casting, including cantrips, is accompanied by a wild magic surge. Use the [mage](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) stat block in the "Monster Manual" to represent this goblin, adding darkvision and the Nimble Escape traits common to all goblins. Each time the goblin casts a spell, there is an accompanying surge of wild magic; roll on the [Wild Magic Surge](3-Mechanics/CLI/tables/wild-magic-surge-xphb.md) table in the "Player's Handbook" to determine the wild magic effect.
 
 > [!note] Who's the Boss?
 > 
@@ -1330,7 +1330,7 @@ Tribes of goblins take up residence in shrouded valleys, shadowy forests, and ca
 
 When goblins expand a mine, the tunnels they dig are narrow and warren-like. Goblins live both within these tunnels and on the surface around the outside of the area. They guard the territory around the mine for miles, sending out patrols of hunters equipped with war horns and using wolves as watchdogs to alert them to intruders.
 
-![](3-Mechanics/CLI/books/volos-guide-to-monsters/img/c1-5.webp#center)
+![](file://book/VGM/c1-5.webp#center)
 
 ##### Outskirts
 
@@ -1394,9 +1394,9 @@ Bugbears have no use for priests or shamans. No one needs to tell them what thei
 
 In an act of worship that also sometimes attracts favorable attention from their gods, bugbears sever the heads of defeated foes, cut away or stitch open the eyelids, and leave the mouths hanging open. The heads are then placed on spikes or hung from cords around a bugbear den. The heads themselves are trophies that honor Hruggek, and their ever-staring eyes are an homage to sleepless Grankhul.
 
-The heads of leaders and mighty opponents are particularly sacred, and offering up such a trophy can provide a bugbear gang with a special boon. A gang that gains the favor of Hruggek and Grankhul in this way might find that the head will emit a shout when an enemy gets too close (in the fashion of an alarm spell). Sometimes the heads of people who have information the bugbears need speak their secrets amid blubbered pleas for mercy (as with the [speak with dead](3-Mechanics/CLI/spells/speak-with-dead.md) spell).
+The heads of leaders and mighty opponents are particularly sacred, and offering up such a trophy can provide a bugbear gang with a special boon. A gang that gains the favor of Hruggek and Grankhul in this way might find that the head will emit a shout when an enemy gets too close (in the fashion of an alarm spell). Sometimes the heads of people who have information the bugbears need speak their secrets amid blubbered pleas for mercy (as with the [speak with dead](3-Mechanics/CLI/spells/speak-with-dead-xphb.md) spell).
 
-![](3-Mechanics/CLI/books/volos-guide-to-monsters/img/volo01-13.webp#center)
+![](file://book/VGM/volo01-13.webp#center)
 
 ### Hobgoblins
 
@@ -1505,7 +1505,7 @@ Every legion's headquarters includes a command center where the warlord meets wi
 
 The quarters for troops are austere but sufficient, as are the necessary stables and dens to hold the legion's animals and beasts. Legions that have need of such amenities also set aside space for a library, which can double as a school and training facility for spellcasters. If a hobgoblin lair has a prison, it's usually a small one—miscreants are incarcerated for only a short time before facing the hobgoblins' harsh justice.
 
-![](3-Mechanics/CLI/books/volos-guide-to-monsters/img/volo01-14.webp#center)
+![](file://book/VGM/volo01-14.webp#center)
 
 ### Maglubiyet's Will Be Done
 
@@ -1614,9 +1614,9 @@ A war camp might be a permanent settlement that a hobgoblin legion uses as a gar
 
 The basic layout of a war camp is circular. To prepare the site, slaves, goblins, and any beasts fit for the purpose dig a ditch around the desired location, interrupted in places where wide paths provide access to the center of the enclosed area. Inside this ring of excavation are sections of a wooden palisade, each part capped with a gate and a tower on either end. These outer walls and gates aren't regularly manned or patrolled, because the occupants aren't concerned about being taken by surprise. If an enemy force does approach, though, these barriers do a good job of delaying any incursion until the goblinoids can rally their defenses.
 
-![Goblin War Camp (DM)](3-Mechanics/CLI/books/volos-guide-to-monsters/img/goblin-war-camp-dm.webp#center)
+![Goblin War Camp (DM)](file://book/VGM/Goblin-War-Camp-DM.webp#center)
 
-![Goblin War Camp (Players)](3-Mechanics/CLI/books/volos-guide-to-monsters/img/goblin-war-camp-players.webp#center)
+![Goblin War Camp (Players)](file://book/VGM/Goblin-War-Camp-Players.webp#center)
 
 Inside the surrounding bulwark, the goblinoids all have their separate quarters, organized according to their wonts. Typical of any camp are the wide paths that crisscross it, running from each gate through the center of the camp and out the other side. This configuration enables all the goblinoids to swiftly rally and exit the camp en masse to meet an approaching threat.
 
@@ -1670,7 +1670,7 @@ Near the block stands a post or a rack with various weapons that represent the s
 
 Hags are crones who represent corruption of ideals and goals, and they delight in seeing the innocent and good brought low. They are inhuman monsters, their forms twisted by evil. Shapechangers and blasphemers, they ally with other hags to form magical covens with extra powers. They collect and remember secret knowledge that is better lost and forgotten. Desperate mortals come to them looking for advice, only to have their requests fulfilled in ways that bring great suffering to themselves and their loved ones.
 
-![](3-Mechanics/CLI/books/volos-guide-to-monsters/img/volo01-16.webp#center)
+![](file://book/VGM/volo01-16.webp#center)
 
 ### Ugly, Unpredictable, and Old
 
@@ -1752,7 +1752,7 @@ Over the course of a seemingly endless lifetime, a hag typically discovers or cr
 
 A grandmother or some other hag of great age and renown might know unique rituals that can temporarily or permanently alter or transform a creature, bring back the dead for a limited time, rewrite memories, or siphon emotions. At the other end of the spectrum, even a hag without lofty status is likely to have strange, single-use items that don't emulate common spells or even follow the normal rules of magic. For inspiration in devising the effects of such weird items, see "Charms" in chapter 7 of the *Dungeon Master's Guide.*
 
-If you want a hag to use a weird object of this sort in a combat situation, provide her with an item that produces a CR-appropriate spell effect when the hag manipulates or activates it. The effect might be a benefit to herself or an attack against her enemies. For example, a green hag (CR 3) might smash an ornate hand mirror, producing a cloud of glass shards that damages creatures like [cloud of daggers](3-Mechanics/CLI/spells/cloud-of-daggers.md) (a 2nd-level spell). She might instead uncork a bottle of wasps that surround her and stitch up her wounds with their stingers, healing her as [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md) (cast as a 2nd-level spell). Or she could take a mummified toad from her pocket and throw it into her cauldron, which immediately spews out inky blackness equivalent to [darkness](3-Mechanics/CLI/spells/darkness.md) (a 2nd-level spell).
+If you want a hag to use a weird object of this sort in a combat situation, provide her with an item that produces a CR-appropriate spell effect when the hag manipulates or activates it. The effect might be a benefit to herself or an attack against her enemies. For example, a green hag (CR 3) might smash an ornate hand mirror, producing a cloud of glass shards that damages creatures like [cloud of daggers](3-Mechanics/CLI/spells/cloud-of-daggers-xphb.md) (a 2nd-level spell). She might instead uncork a bottle of wasps that surround her and stitch up her wounds with their stingers, healing her as [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md) (cast as a 2nd-level spell). Or she could take a mummified toad from her pocket and throw it into her cauldron, which immediately spews out inky blackness equivalent to [darkness](3-Mechanics/CLI/spells/darkness-xphb.md) (a 2nd-level spell).
 
 A hag carefully shepherds her use of weird magic because the items in her repertoire are often impossible to duplicate or replace. To reflect this fact, a hag should be able to use weird magic only once or twice per encounter in her lair, or only once per encounter if she is elsewhere. A hag who is expecting a fight might be better prepared and able (or willing) to use weird magic one additional time per encounter.
 
@@ -1770,7 +1770,7 @@ Usually only the hag that obtained or created them can use her mounts and vehicl
 
 If a hag allows any other creature to use one of them as part of a bargain, she must be expecting an immense return on her investment.
 
-![](3-Mechanics/CLI/books/volos-guide-to-monsters/img/c1-6.webp#center)
+![](file://book/VGM/c1-6.webp#center)
 
 ### Types of Hags
 
@@ -1827,34 +1827,34 @@ Some covens gather for a specific purpose, such as to defeat a champion of good,
 
 For a coven whose members are obsessed with death and the ability to manipulate it, an appropriate spell list would be:
 
-1st level (4 slots): [false life](3-Mechanics/CLI/spells/false-life.md), [inflict wounds](3-Mechanics/CLI/spells/inflict-wounds.md)  
-2nd level (3 slots): [gentle repose](3-Mechanics/CLI/spells/gentle-repose.md), [ray of enfeeblement](3-Mechanics/CLI/spells/ray-of-enfeeblement.md)  
-3rd level (3 slots): [animate dead](3-Mechanics/CLI/spells/animate-dead.md) [revivify](3-Mechanics/CLI/spells/revivify.md), [speak with dead](3-Mechanics/CLI/spells/speak-with-dead.md)  
-4th level (3 slots): [blight](3-Mechanics/CLI/spells/blight.md), [death ward](3-Mechanics/CLI/spells/death-ward.md)  
-5th level (2 slots): [contagion](3-Mechanics/CLI/spells/contagion.md), [raise dead](3-Mechanics/CLI/spells/raise-dead.md)  
-6th level (1 slot): [circle of death](3-Mechanics/CLI/spells/circle-of-death.md)  
+1st level (4 slots): [false life](3-Mechanics/CLI/spells/false-life-xphb.md), [inflict wounds](3-Mechanics/CLI/spells/inflict-wounds-xphb.md)  
+2nd level (3 slots): [gentle repose](3-Mechanics/CLI/spells/gentle-repose-xphb.md), [ray of enfeeblement](3-Mechanics/CLI/spells/ray-of-enfeeblement-xphb.md)  
+3rd level (3 slots): [animate dead](3-Mechanics/CLI/spells/animate-dead-xphb.md) [revivify](3-Mechanics/CLI/spells/revivify-xphb.md), [speak with dead](3-Mechanics/CLI/spells/speak-with-dead-xphb.md)  
+4th level (3 slots): [blight](3-Mechanics/CLI/spells/blight-xphb.md), [death ward](3-Mechanics/CLI/spells/death-ward-xphb.md)  
+5th level (2 slots): [contagion](3-Mechanics/CLI/spells/contagion-xphb.md), [raise dead](3-Mechanics/CLI/spells/raise-dead-xphb.md)  
+6th level (1 slot): [circle of death](3-Mechanics/CLI/spells/circle-of-death-xphb.md)  
 
 ##### Nature
 
 Hags might seek to exert control over their environment and the creatures in it by mastering the following group of spells:
 
-1st level (4 slots): [entangle](3-Mechanics/CLI/spells/entangle.md), [speak with animals](3-Mechanics/CLI/spells/speak-with-animals.md)  
-2nd level (3 slots): [flaming sphere](3-Mechanics/CLI/spells/flaming-sphere.md), [moonbeam](3-Mechanics/CLI/spells/moonbeam.md), [spike growth](3-Mechanics/CLI/spells/spike-growth.md)  
-3rd level (3 slots): [call lightning](3-Mechanics/CLI/spells/call-lightning.md), [plant growth](3-Mechanics/CLI/spells/plant-growth.md)  
-4th level (3 slots): [dominate beast](3-Mechanics/CLI/spells/dominate-beast.md), [grasping vine](3-Mechanics/CLI/spells/grasping-vine.md)  
-5th level (2 slots): [insect plague](3-Mechanics/CLI/spells/insect-plague.md), [tree stride](3-Mechanics/CLI/spells/tree-stride.md)  
-6th level (1 slot): [wall of thorns](3-Mechanics/CLI/spells/wall-of-thorns.md)  
+1st level (4 slots): [entangle](3-Mechanics/CLI/spells/entangle-xphb.md), [speak with animals](3-Mechanics/CLI/spells/speak-with-animals-xphb.md)  
+2nd level (3 slots): [flaming sphere](3-Mechanics/CLI/spells/flaming-sphere-xphb.md), [moonbeam](3-Mechanics/CLI/spells/moonbeam-xphb.md), [spike growth](3-Mechanics/CLI/spells/spike-growth-xphb.md)  
+3rd level (3 slots): [call lightning](3-Mechanics/CLI/spells/call-lightning-xphb.md), [plant growth](3-Mechanics/CLI/spells/plant-growth-xphb.md)  
+4th level (3 slots): [dominate beast](3-Mechanics/CLI/spells/dominate-beast-xphb.md), [grasping vine](3-Mechanics/CLI/spells/grasping-vine-xphb.md)  
+5th level (2 slots): [insect plague](3-Mechanics/CLI/spells/insect-plague-xphb.md), [tree stride](3-Mechanics/CLI/spells/tree-stride-xphb.md)  
+6th level (1 slot): [wall of thorns](3-Mechanics/CLI/spells/wall-of-thorns-xphb.md)  
 
 ##### Prophecy
 
 The power to affect the future or perceive things out of the norm could make these spells attractive to a coven:
 
-1st level (4 slots): [bane](3-Mechanics/CLI/spells/bane.md), [bless](3-Mechanics/CLI/spells/bless.md)  
-2nd level (3 slots): [augury](3-Mechanics/CLI/spells/augury.md), [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md)  
-3rd level (3 slots): [clairvoyance](3-Mechanics/CLI/spells/clairvoyance.md), [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), [nondetection](3-Mechanics/CLI/spells/nondetection.md)  
-4th level (3 slots): [arcane eye](3-Mechanics/CLI/spells/arcane-eye.md), [locate creature](3-Mechanics/CLI/spells/locate-creature.md)  
-5th level (2 slots): [geas](3-Mechanics/CLI/spells/geas.md), [legend lore](3-Mechanics/CLI/spells/legend-lore.md)  
-6th level (1 slot): [true seeing](3-Mechanics/CLI/spells/true-seeing.md)  
+1st level (4 slots): [bane](3-Mechanics/CLI/spells/bane-xphb.md), [bless](3-Mechanics/CLI/spells/bless-xphb.md)  
+2nd level (3 slots): [augury](3-Mechanics/CLI/spells/augury-xphb.md), [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md)  
+3rd level (3 slots): [clairvoyance](3-Mechanics/CLI/spells/clairvoyance-xphb.md), [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [nondetection](3-Mechanics/CLI/spells/nondetection-xphb.md)  
+4th level (3 slots): [arcane eye](3-Mechanics/CLI/spells/arcane-eye-xphb.md), [locate creature](3-Mechanics/CLI/spells/locate-creature-xphb.md)  
+5th level (2 slots): [geas](3-Mechanics/CLI/spells/geas-xphb.md), [legend lore](3-Mechanics/CLI/spells/legend-lore-xphb.md)  
+6th level (1 slot): [true seeing](3-Mechanics/CLI/spells/true-seeing-xphb.md)  
 
 > [!note] The Rule of Three
 > 
@@ -1867,9 +1867,9 @@ The power to affect the future or perceive things out of the norm could make the
 
 No matter what form it takes, a hag's home is a manifestation of her basic nature. It is ugly, eerie, or unnerving in some way, often incorporating some aspect of decay, such as a dead tree, a ruined tower, or a menacing cave entrance that resembles a skull.
 
-![Hag Lairs (DM)](3-Mechanics/CLI/books/volos-guide-to-monsters/img/hag-lair-dm.webp#center)
+![Hag Lairs (DM)](file://book/VGM/Hag-Lair-DM.webp#center)
 
-![Hag Lairs (Players)](3-Mechanics/CLI/books/volos-guide-to-monsters/img/hag-lair-players.webp#center)
+![Hag Lairs (Players)](file://book/VGM/Hag-Lair-Players.webp#center)
 
 Whether naturally or by manufactured means, the lair is well defended from intrusion. It might be reachable only by a steep mountain path, or it might be surrounded by a fence the hag builds out of posts capped with magically warded skulls. Often, a lair reflects the outlook of its primary inhabitant-a murderous hag's home might be crafted to look like a coffin or a mausoleum, and that of a gluttonous one might look like a tavern or a gingerbread house. Because such places are convenient for them, sea hags often establish their lairs inside the hulls of wrecked or abandoned ships.
 
@@ -1902,7 +1902,7 @@ On initiative count 20 (losing initiative ties), the hag can take a lair action 
 
 A powerful **annis hag** might have the following additional lair action:
 
-- The hag creates a thick cloud of caustic black smoke that fills a 20-foot-radius sphere centered on a point she can see within 120 feet her. The cloud lasts until initiative count 20 on the next round. Creatures and objects in or behind the smoke are heavily obscured. A creature that enters the cloud for the first time on a turn or starts its turn there takes 10 (`3d6`) acid damage.  
+- The hag creates a thick cloud of caustic black smoke that fills a 20-foot-radius sphere centered on a point she can see within 120 feet her. The cloud lasts until initiative count 20 on the next round. Creatures and objects in or behind the smoke are heavily obscured. A creature that enters the cloud for the first time on a turn or starts its turn there takes `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) acid damage.  
 
 A powerful **bheur hag** might have the following additional lair action:
 
@@ -1915,7 +1915,7 @@ A powerful **green hag** might have the following additional lair action:
 A powerful **night hag** might have the following additional lair actions:
 
 - One creature the hag can see within 120 feet of her must succeed on a DC 15 Charisma saving throw or be banished to a prison demiplane. To escape, the creature must use its action to make a Charisma check contested by the hag's. If the creature wins, it escapes the demiplane. Otherwise, the effect ends on initiative count 20 on the next round. When the effect ends, the creature reappears in the space it left or in the nearest unoccupied space if that one is occupied.  
-- The hag targets up to three creatures that she can see within 60 feet of her. Each target must succeed on a DC 15 Constitution saving throw or be flung up to 30 feet through the air. A creature that strikes a solid object or is released in midair takes `1d6` bludgeoning damage for every 10 feet moved or fallen.  
+- The hag targets up to three creatures that she can see within 60 feet of her. Each target must succeed on a DC 15 Constitution saving throw or be flung up to 30 feet through the air. A creature that strikes a solid object or is released in midair takes `dice:1d6|noform|noparens|avg` (`1d6`) bludgeoning damage for every 10 feet moved or fallen.  
 
 A powerful **sea hag** might have the following additional lair actions:
 
@@ -1926,7 +1926,7 @@ A powerful **sea hag** might have the following additional lair actions:
 
 A hag's foul nature slowly suffuses the environment around her lair, twisting it to evil.
 
-Each hag's lair is the source of three to five regional effects; the home of a grandmother, an auntie, or a coven has more effects than the lair of a single hag, including some that can directly harm intruders. Any regional effect that requires a creature to make a saving throw uses the save DC of the hag's most powerful ability. These effects either end immediately if the hag dies or abandons the lair, or take up to `2d10` days to fade away.
+Each hag's lair is the source of three to five regional effects; the home of a grandmother, an auntie, or a coven has more effects than the lair of a single hag, including some that can directly harm intruders. Any regional effect that requires a creature to make a saving throw uses the save DC of the hag's most powerful ability. These effects either end immediately if the hag dies or abandons the lair, or take up to `dice:2d10|noform|noparens|avg` (`2d10`) days to fade away.
 
 #### Regional Effects
 
@@ -1947,7 +1947,7 @@ A powerful **bheur hag** creates one or more of the following additional regiona
 
 - Small avalanches of snow intermittently fall, blocking a path or burying intruders. A buried creature is restrained and has to hold its breath until it is dug out.  
 - Human-sized blocks of ice appear, containing frozen corpses. These corpses might break free and attack as zombies, or their spirits might attack as specters.  
-- Blizzards come without warning. A blizzard occurs once every `2d12` hours and lasts `1d3` hours. During a storm, creatures moving overland travel at half normal speed, and normal visibility is reduced to 30 feet.  
+- Blizzards come without warning. A blizzard occurs once every `dice:2d12|noform|noparens|avg` (`2d12`) hours and lasts `dice:1d3|noform|noparens|avg` (`1d3`) hours. During a storm, creatures moving overland travel at half normal speed, and normal visibility is reduced to 30 feet.  
 - Roads, paths, and trails twist and turn back on themselves, making navigation in the area exceedingly difficult.  
 
 A powerful **green hag** creates one or more of the following additional regional effects within 1 mile of her lair:
@@ -2022,7 +2022,7 @@ Some human communities hire kobolds to dig their sewer tunnels, paying them with
 
 Because the kobolds make sure they stay out of the way of anyone more dangerous than themselves, grow their own subterranean food, and prefer to sneak about at night, the people of a town might go for weeks or months without noticing evidence that kobolds are in the area, and years between actual sightings.
 
-![](3-Mechanics/CLI/books/volos-guide-to-monsters/img/c1-7.webp#center)
+![](file://book/VGM/c1-7.webp#center)
 
 ### Able Scavengers
 
@@ -2128,7 +2128,7 @@ Us the tables below to generate a Kobold Name and scale color.
 
 ### Tactics
 
-![](3-Mechanics/CLI/books/volos-guide-to-monsters/img/volo01-18.webp#center)
+![](file://book/VGM/volo01-18.webp#center)
 
 Because they are physically weak individually, kobolds know they have to use superior numbers and cunning to take down powerful foes. In addition to their Pack Tactics trait described in the Monster Manual, they use traps, ambushes, terrain, allied monsters, and any other advantage they can squeeze out of their environment. Essentially, the only way kobolds can win is not to play fair.
 
@@ -2167,9 +2167,9 @@ Kobolds are cautious and fearful of bears, since bears often seek to live in cav
 
 The lair of a kobold tribe is usually a maze of twisty little passages, sometimes stretching for hundreds of yards, and frequently guarded by traps. The area has a host of intersections, abrupt dead-ends, tunnels that cross over or under one another, concealed passages, and other features that make the lair difficult for outsiders  to navigate.
 
-![Kobold Lair (DM)](3-Mechanics/CLI/books/volos-guide-to-monsters/img/kobold-lair-dm.webp#center)
+![Kobold Lair (DM)](file://book/VGM/Kobold-Lair-DM.webp#center)
 
-![Kobold Lair (Players)](3-Mechanics/CLI/books/volos-guide-to-monsters/img/kobold-lair-players.webp#center)
+![Kobold Lair (Players)](file://book/VGM/Kobold-Lair-Players.webp#center)
 
 Creatures larger than a kobold have to squat or crawl in order to fit through the tunnels of a kobold warren, which by itself is enough to deter most hostile humanoids (such as orcs or hobgoblins) from trying to invade the kobolds' territory. Adventurers trying to eradicate a kobold infestation often find themselves stuck in low passages too narrow to turn around in, forcing them to move in single file and putting the burden of combat on the first and last people in line.
 
@@ -2278,7 +2278,7 @@ Through some quirk of the illithids' parasitic nature, the cultural sophisticati
 
 This phenomenon extends to all displays of culture, from modes of architecture to the decorations that adorn illithid funerary brain jars.
 
-![](3-Mechanics/CLI/books/volos-guide-to-monsters/img/c1-8.webp#center)
+![](file://book/VGM/c1-8.webp#center)
 
 #### Ceremorphosis
 
@@ -2306,7 +2306,7 @@ An elder brain also sees itself as a savior of the mind flayer race and a living
 
 See chapter 3 for more information on elder brains.
 
-![](3-Mechanics/CLI/books/volos-guide-to-monsters/img/volo01-19.webp#center)
+![](file://book/VGM/volo01-19.webp#center)
 
 #### Renegade Illithids
 
@@ -2400,7 +2400,7 @@ The physiology of mind flayers doesn't leave them well equipped for typical huma
 
 The "writing" of mind flayers, known as Qualith, isn't as simple as a set of symbols representing sounds or ideas. An inscription in Qualith captures the thoughts of its creator and psionically transmits the thoughts to a mind flayer who later reads the inscription by touching it with its tentacles. Mind flayers write in Qualith by psionically imprinting their messages on nonmagical, nonliving material they grasp or caress with their tentacles. The imprinting causes imperceptible surface changes to the object, and abrasion or degradation of the material can cause the inscription to fade and fail.
 
-An expression in Qualith is made up of four-line stanzas packed into interlocking blocks, creating complex patterns that are indecipherable by other creatures. Someone that touches a Qualith inscription, however, can receive fragmentary insight into the multilayered thoughts contained within it. A non-illithid that wants to understand a Qualith inscription can make an Intelligence check (DC based on the complexity of the contained thoughts) to try to derive some of the inscription's meaning. Multiple successful attempts might uncover different aspects about the illithid author, its intended meaning, and its intended audience. A failed attempt results in a crushing headache and, in extreme cases, madness. A [comprehend languages](3-Mechanics/CLI/spells/comprehend-languages.md) spell provides understanding of the inscription roughly equivalent to what a mind flayer would get from it.
+An expression in Qualith is made up of four-line stanzas packed into interlocking blocks, creating complex patterns that are indecipherable by other creatures. Someone that touches a Qualith inscription, however, can receive fragmentary insight into the multilayered thoughts contained within it. A non-illithid that wants to understand a Qualith inscription can make an Intelligence check (DC based on the complexity of the contained thoughts) to try to derive some of the inscription's meaning. Multiple successful attempts might uncover different aspects about the illithid author, its intended meaning, and its intended audience. A failed attempt results in a crushing headache and, in extreme cases, madness. A [comprehend languages](3-Mechanics/CLI/spells/comprehend-languages-xphb.md) spell provides understanding of the inscription roughly equivalent to what a mind flayer would get from it.
 
 ### Mind Flayer Thralls
 
@@ -2414,7 +2414,7 @@ The process of transforming a creature into a thrall requires the entire colony'
 
 A thrall-to-be is first rendered docile through psionic means. Using a low-power version of its Mind Blast ability, the mind flayer bombards the victim with energy that washes through its synapses like acid, clearing away its former personality and leaving it a partially empty shell. This step takes 24 hours. Over the next 48 hours, the illithids rebuild the victim's memories and personality, and the victim gains the skills and talents it needs to perform its intended function.
 
-The process that creates a thrall changes almost everything about the victim. The creature retains its Hit Dice, hit points, racial traits (but not proficiencies granted by race), and all of its ability scores except for Intelligence. After the first stage of the process, the creature's Intelligence is halved; when the second stage is over, its Intelligence score increases by `1d6`.
+The process that creates a thrall changes almost everything about the victim. The creature retains its Hit Dice, hit points, racial traits (but not proficiencies granted by race), and all of its ability scores except for Intelligence. After the first stage of the process, the creature's Intelligence is halved; when the second stage is over, its Intelligence score increases by `dice:1d6|noform|noparens|avg` (`1d6`).
 
 To complete the process, the thrall receives a new set of proficiencies, a new alignment, and a new personality. Some colonies have learned how to salvage a victim's psionic abilities during the process or how to implant psionic powers into their thralls. Also, some colonies know how to leave a victim's persona intact while infusing it with a fanatical loyalty to the colony's elder brain as well as telepathic power that allows the victim to communicate with its new masters as if it were a mind flayer. This sort of thrall makes a perfect spy, since most would never suspect its true nature.
 
@@ -2466,13 +2466,13 @@ A neothelid arises when a tadpole pool is left untended. The tadpoles turn again
 
 See chapter 3 of this book for more information on neothelids.
 
-![](3-Mechanics/CLI/books/volos-guide-to-monsters/img/volo01-20.webp#center)
+![](file://book/VGM/volo01-20.webp#center)
 
 ### Mind Flayer Lairs
 
 In the lair of a mind flayer colony, the safety and security of its residents is all-important. As a result, illithid lairs are always well hidden and well defended, almost always underground, and within easy reach of humanoids and their succulent brains.
 
-![Mind Flayer Colony (DM)](3-Mechanics/CLI/books/volos-guide-to-monsters/img/mind-flayer-colony-dm.webp#center)
+![Mind Flayer Colony (DM)](file://book/VGM/Mind-Flayer-Colony-DM.webp#center)
 
 No two lairs are the same, as the resident elder brain drives the form and function of each one. The lair shown in the accompanying map is typical and includes many elements found in every colony's stronghold.
 
@@ -2492,7 +2492,7 @@ Freshly captured victims are processed in the cleansing chambers. Their gear is 
 
 > [!note] Funerary Brain Jars
 > 
-> When a mind flayer dies, other mind flayers try to salvage the dead illithid's brain and bring it to the colony's brine pool for the elder brain to consume. For this purpose, mind flayers craft funerary brain jars made of stone. Every jar is made for an individual, inscribed with Qualith and artwork that relate the mind flayer's accomplishments. Often a mind flayer's funerary brain jar is created long before the illithid's death and updated as the years pass, with the jar serving as a diary of sorts for the one whose brain will eventually fill it. After it is filled with brine, a funerary brain jar can preserve a brain without spoiling for `1d4 + 10` days.
+> When a mind flayer dies, other mind flayers try to salvage the dead illithid's brain and bring it to the colony's brine pool for the elder brain to consume. For this purpose, mind flayers craft funerary brain jars made of stone. Every jar is made for an individual, inscribed with Qualith and artwork that relate the mind flayer's accomplishments. Often a mind flayer's funerary brain jar is created long before the illithid's death and updated as the years pass, with the jar serving as a diary of sorts for the one whose brain will eventually fill it. After it is filled with brine, a funerary brain jar can preserve a brain without spoiling for `dice:1d4+10|noform|noparens|avg` (`1d4 + 10`) days.
 ^funerary-brain-jars
 
 #### Common Room
@@ -2587,7 +2587,7 @@ Some mind flayer colonies have developed the ability to create or modify certain
 
 *Weapon (any sword), rare (requires attunement by a specific individual)*
 
-Mind flayers can turn any nonmagical sword into a mind blade. Only one creature can attune to it: either a specific mind flayer or one of its thralls. In the hands of any other creature, the mind blade functions as a normal sword of its kind. In the hands of its intended wielder, the mind blade is a magic weapon that deals an extra `2d6` psychic damage to any target it hits.
+Mind flayers can turn any nonmagical sword into a mind blade. Only one creature can attune to it: either a specific mind flayer or one of its thralls. In the hands of any other creature, the mind blade functions as a normal sword of its kind. In the hands of its intended wielder, the mind blade is a magic weapon that deals an extra `dice:2d6|noform|noparens|avg` (`2d6`) psychic damage to any target it hits.
 
 #### Mind Carapace Armor
 
@@ -2599,7 +2599,7 @@ Any nonmagical suit of heavy armor can be turned by mind flayers into mind carap
 
 *Weapon (whip), rare (requires attunement by a mind flayer)*
 
-In the hands of a creature other than a mind flayer, a mind lash functions as a normal whip. In the hands of an illithid, this magic weapon strips away a creature's will to survive as it also strips away flesh, dealing an extra `2d4` psychic damage to any target it hits. Any creature that takes psychic damage from the mind lash must also succeed on a DC 15 Wisdom saving throw or have disadvantage on Intelligence, Wisdom, and Charisma saving throws for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+In the hands of a creature other than a mind flayer, a mind lash functions as a normal whip. In the hands of an illithid, this magic weapon strips away a creature's will to survive as it also strips away flesh, dealing an extra `dice:2d4|noform|noparens|avg` (`2d4`) psychic damage to any target it hits. Any creature that takes psychic damage from the mind lash must also succeed on a DC 15 Wisdom saving throw or have disadvantage on Intelligence, Wisdom, and Charisma saving throws for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 #### Shield of Far Sight
 
@@ -2607,7 +2607,7 @@ In the hands of a creature other than a mind flayer, a mind lash functions as a 
 
 A mind flayer skilled at crafting magic items creates a shield of far sight by harvesting an eye from an intelligent humanoid and magically implanting it on the outer surface of a nonmagical shield. The shield becomes a magic item once the eye is implanted, whereupon the mind flayer can give the shield to a thrall or hang it on a wall in its lair. As long as the shield is on the same plane of existence as its creator, the mind flayer can see through the shield's eye, which has darkvision out to a range of 60 feet. While peering through this magical eye, the mind flayer can use its Mind Blast action as though it were standing behind the shield.
 
-If a shield of far sight is destroyed, the mind flayer that created it is blinded for `2d12` hours.
+If a shield of far sight is destroyed, the mind flayer that created it is blinded for `dice:2d12|noform|noparens|avg` (`2d12`) hours.
 
 ### Mind Flayer Augmentations
 
@@ -2617,13 +2617,13 @@ Some mind flayer colonies augment their thralls with nonmagical gear to make the
 
 Illithids don't always provide their thralls with normal weapons, such as swords and axes. Sometimes they improve the natural capabilities of thralls by giving them new anatomy. Flensing claws take the form of articulated digits that extend into long metal blades. The claws are knitted into the flesh and bones of a creature's arms and can't be removed without surgical amputation.
 
-Each set of flensing claws is designed for a specific creature and can't be used by anyone else. A creature equipped with flensing claws can use its action to make one melee weapon attack with the claws. The claws deal slashing damage based on the creature's size: Small, `1d8`; Medium, `1d10`; Large, `1d12`; or Huge, `2d8`. The creature adds its proficiency bonus and Strength modifier to any attack roll made with the claws, and its Strength modifier to its damage roll when it hits a target with the claws. Tiny and Gargantuan creatures can't be fitted with flensing claws.
+Each set of flensing claws is designed for a specific creature and can't be used by anyone else. A creature equipped with flensing claws can use its action to make one melee weapon attack with the claws. The claws deal slashing damage based on the creature's size: Small, `dice:1d8|noform|noparens|avg` (`1d8`); Medium, `dice:1d10|noform|noparens|avg` (`1d10`); Large, `dice:1d12|noform|noparens|avg` (`1d12`); or Huge, `dice:2d8|noform|noparens|avg` (`2d8`). The creature adds its proficiency bonus and Strength modifier to any attack roll made with the claws, and its Strength modifier to its damage roll when it hits a target with the claws. Tiny and Gargantuan creatures can't be fitted with flensing claws.
 
 #### Survival Mantle
 
 This carapace-like augmentation encases portions of the wearer's shoulders, neck, and chest. A survival mantle is equivalent to a suit of nonmagical half plate armor and takes just as long to don or doff. It can't be worn with other kinds of armor.
 
-A creature wearing a survival mantle can breathe normally in any environment (including a vacuum) and has advantage on saving throws against harmful gases (such as those created by a [cloudkill](3-Mechanics/CLI/spells/cloudkill.md) spell, a [stinking cloud](3-Mechanics/CLI/spells/stinking-cloud.md) spell, inhaled poisons, and the breath weapons of some dragons).
+A creature wearing a survival mantle can breathe normally in any environment (including a vacuum) and has advantage on saving throws against harmful gases (such as those created by a [cloudkill](3-Mechanics/CLI/spells/cloudkill-xphb.md) spell, a [stinking cloud](3-Mechanics/CLI/spells/stinking-cloud-xphb.md) spell, inhaled poisons, and the breath weapons of some dragons).
 
 ### Treasure
 
@@ -2641,7 +2641,7 @@ Every soldier who lives through a fight with orcs tells of confronting a hulking
 
 Savage and fearless, orc tribes are ever in search of elves, dwarves, and humans to destroy. Motivated by their hatred of the civilized races of the world and their need to satisfy the demands of their deities, the orcs know that if they fight well and bring glory to their tribe, Gruumsh will call them home to the plane of Acheron. It is there in the afterlife where the chosen ones will join Gruumsh and his armies in their endless extraplanar battle for supremacy.
 
-![](3-Mechanics/CLI/books/volos-guide-to-monsters/img/volo01-22.webp#center)
+![](file://book/VGM/volo01-22.webp#center)
 
 ### Gods of the Orcs
 
@@ -2696,7 +2696,7 @@ A heavily laden wagon that requires the strongest orcs to return it to the lair 
 
 The loss of a tribe's war wagon can undermine the chieftain's authority and cause the tribe to collapse into chaos, with the survivors scattering either to join new tribes or to strike out on their own. At the other extreme, warriors that return home with a heavily laden wagon or after heroically defending it from thieves gain great respect and advance higher in the tribe's pecking order.
 
-![](3-Mechanics/CLI/books/volos-guide-to-monsters/img/c1-9.webp#center)
+![](file://book/VGM/c1-9.webp#center)
 
 #### All Are Fighters
 
@@ -2724,7 +2724,7 @@ An orc tribe typically has no more than a few hundred members, because a larger 
 
 On some occasions, though, tribes that have a common concern band together. The result is an orc horde-a sea of slavering killers that washes over the countryside and leaves vast tracts of devastation in its wake. Such an event is rare in the extreme, but its consequences can lay low entire nations that are unable to stand against the wave.
 
-![](3-Mechanics/CLI/books/volos-guide-to-monsters/img/volo01-23.webp#center)
+![](file://book/VGM/volo01-23.webp#center)
 
 ### Orc Culture and Beliefs
 
@@ -2816,9 +2816,9 @@ On rare occasions, a non-orc that has gained control over a tribe performs a rit
 
 An orc tribe needs a home base of sorts-a place where warriors can reconnoiter after a raid, and ideally also a site that can be easily defended to ensure the safety of the tribe's noncombatants. Orcs establish their encampments mainly in mountainous areas, around and within deep caves or large crevasses in the rock. Although they prefer such terrain for strategic purposes, they can adapt and thrive in almost any environment.
 
-![Orc Stronghold (DM)](3-Mechanics/CLI/books/volos-guide-to-monsters/img/orc-stronghold-dm.webp#center)
+![Orc Stronghold (DM)](file://book/VGM/Orc-Stronghold-DM.webp#center)
 
-![Orc Stronghold (Players)](3-Mechanics/CLI/books/volos-guide-to-monsters/img/orc-stronghold-players.webp#center)
+![Orc Stronghold (Players)](file://book/VGM/Orc-Stronghold-Players.webp#center)
 
 Every encampment is divided along lines of worship. Those who revere Gruumsh, Ilneval, Bahgtru, and Luthic are given the best parts of the lair, while the followers of Yurtrus and Shargaas are relegated to the deep, dark recesses of the site, away from the rest of the tribe.
 
@@ -2920,7 +2920,7 @@ The detached, intellectual nature of the yuan-ti doesn't lend itself to fervent 
 
 In addition to the three primary deities discussed below, the yuan-ti worship over a dozen other "serpent gods"-lesser beings such as animal spirits, ascended heroes, divine servants of more powerful gods, and demon lords. Many of the cults devoted to these lesser gods are unique to a particular city, and followers of the three main yuan-ti deities usually consider these religious practices quaint rather than threatening.
 
-![](3-Mechanics/CLI/books/volos-guide-to-monsters/img/volo01-25.webp#center)
+![](file://book/VGM/volo01-25.webp#center)
 
 #### Dendar
 
@@ -2965,7 +2965,7 @@ The yuan-ti's dispassionate attitude toward religion is especially evident among
 
 The serpent gods don't wish to be brought low, or to be bled of power as Merrshaulk was, so they mollify their worshipers with pronouncements that hint at what the supplicants seek. The truth is never easy to ferret out, but rarely an exceptionally clever yuan-ti succeeds in attaining divine form and vanquishing its benefactor. This cannibalistic pressure from mortals means that the lower ranks of the serpent gods experience a change every century or so, although often it is the newest yuan-ti godling that falls prey to the next one's ambitions.
 
-![](3-Mechanics/CLI/books/volos-guide-to-monsters/img/volo01-26.webp#center)
+![](file://book/VGM/volo01-26.webp#center)
 
 ### Structured Society
 
@@ -3077,7 +3077,7 @@ You can customize a yuan-ti by giving it one or more of the following traits.
 
 ##### Acid Slime (Abomination, Anathema, or Malison Only)
 
-As a bonus action, the yuan-ti can coat its body in a slimy acid that lasts for 1 minute. A creature that touches the yuan-ti, hits it with a melee attack while within 5 feet of it, or is hit by its constrict attack takes 5 (`1d10`) acid damage.
+As a bonus action, the yuan-ti can coat its body in a slimy acid that lasts for 1 minute. A creature that touches the yuan-ti, hits it with a melee attack while within 5 feet of it, or is hit by its constrict attack takes `dice:1d10|noform|noparens|avg|text(5)` (`1d10`) acid damage.
 
 ##### Chameleon Skin
 
@@ -3097,7 +3097,7 @@ The following action options are restricted to certain kinds of yuan-ti.
 
 ##### Bite (Pureblood Only)
 
-Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 3 (`1d4`) piercing damage plus 3 (`1d6`) poison damage. If the pureblood uses Multiattack, it can make two melee attacks, but can use its bite only once.
+Melee Weapon Attack: `dice:1d20+3|noform|noparens|text(+3)` to hit, reach 5 ft., one creature. Hit: `dice:1d4|noform|noparens|avg|text(3)` (`1d4`) piercing damage plus `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) poison damage. If the pureblood uses Multiattack, it can make two melee attacks, but can use its bite only once.
 
 ##### Polymorph into Snake (Abomination or Malison Only;
 
@@ -3109,7 +3109,7 @@ Recharge 6). The yuan-ti targets a creature it can see within 60 feet of it. The
 
 ##### Sticks to Snakes (Abomination or Malison Only;
 
-Recharge 6). The yuan-ti transforms a pile of sticks, arrows, or similar-sized pieces of wood into a [swarm of poisonous snakes](3-Mechanics/CLI/bestiary/beast/swarm-of-poisonous-snakes.md). The swarm acts as an ally of the yuan-ti and obeys its spoken commands. The swarm remains for 1 minute, after which it turns back into the original materials.
+Recharge 6). The yuan-ti transforms a pile of sticks, arrows, or similar-sized pieces of wood into a [swarm of poisonous snakes](3-Mechanics/CLI/bestiary/beast/swarm-of-venomous-snakes-xmm.md). The swarm acts as an ally of the yuan-ti and obeys its spoken commands. The swarm remains for 1 minute, after which it turns back into the original materials.
 
 ### Roleplaying a Yuan-ti
 
@@ -3139,7 +3139,7 @@ Most yuan-ti cities were built during the height of their empire centuries ago. 
 
 Because the yuan-ti were previously human, their architecture reflects human ideas about art and beauty. Over time this perspective was skewed toward the concept that the snake is the perfect form, so serpents are a common theme in their aesthetic.
 
-![](3-Mechanics/CLI/books/volos-guide-to-monsters/img/volo01-27.webp#center)
+![](file://book/VGM/volo01-27.webp#center)
 
 The major buildings in a city usually have four sides and a sloped or staggered pyramid-like exterior. It is customary for stone buildings to have a series of tiles or carvings of snakes encircling the ground level at head height. These features are sometimes trapped or magically warded to prevent anyone from climbing the building's exterior. Interior walls usually have floor-level holes or tunnels that a Medium or Large snake could pass through, allowing the yuan-ti's serpentine pets, as well as abominations and malisons in snake form, to bypass human-style doors for convenience or in order to respond quickly to invaders. In well-traveled areas, ramps replace stairs, making it easier to snake-bodied yuan-ti to move between levels.
 
@@ -3153,17 +3153,17 @@ Particularly in their cities, yuan-ti rely on poison traps to keep intruders, sp
 
 In a typical yuan-ti city, one of the busiest and most prominent buildings is the temple complex that houses yuan-ti and their followers while it provides facilities for worship, sacrifice, and all the other hallmarks of daily life. The accompanying map is an example of such a location.
 
-![Yuan-Ti Temple (DM)](3-Mechanics/CLI/books/volos-guide-to-monsters/img/yuan-ti-temple-dm.webp#center)
+![Yuan-Ti Temple (DM)](file://book/VGM/Yuan-Ti-Temple-DM.webp#center)
 
-![Yuan-Ti Temple—Level 1 (Players)](3-Mechanics/CLI/books/volos-guide-to-monsters/img/yuan-ti-temple-l1.webp#center)
+![Yuan-Ti Temple—Level 1 (Players)](file://book/VGM/Yuan-Ti-Temple-L1.webp#center)
 
-![Yuan-Ti Temple—Level 2 (Players)](3-Mechanics/CLI/books/volos-guide-to-monsters/img/yuan-ti-temple-l2.webp#center)
+![Yuan-Ti Temple—Level 2 (Players)](file://book/VGM/Yuan-Ti-Temple-L2.webp#center)
 
-![Yuan-Ti Temple—Level 3 (Players)](3-Mechanics/CLI/books/volos-guide-to-monsters/img/yuan-ti-temple-l3.webp#center)
+![Yuan-Ti Temple—Level 3 (Players)](file://book/VGM/Yuan-Ti-Temple-L3.webp#center)
 
-![Yuan-Ti Temple—Level 4 (Players)](3-Mechanics/CLI/books/volos-guide-to-monsters/img/yuan-ti-temple-l4.webp#center)
+![Yuan-Ti Temple—Level 4 (Players)](file://book/VGM/Yuan-Ti-Temple-L4.webp#center)
 
-![Yuan-Ti Temple—Level 5 (Players)](3-Mechanics/CLI/books/volos-guide-to-monsters/img/yuan-ti-temple-l5.webp#center)
+![Yuan-Ti Temple—Level 5 (Players)](file://book/VGM/Yuan-Ti-Temple-L5.webp#center)
 
 #### Cultist Level
 
@@ -3197,4 +3197,4 @@ Yuan-ti employ a variety of creatures as spies and protectors. The Yuan-ti Agent
 
 ![Random Yuan-ti Servants; Yuan-ti Protectors](3-Mechanics/CLI/tables/random-yuan-ti-servants-yuan-ti-protectors-vgm.md)
 
-![](3-Mechanics/CLI/books/volos-guide-to-monsters/img/c1-10.webp#center)
+![](file://book/VGM/c1-10.webp#center)

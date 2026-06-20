@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Bakaris the Younger"
 ---
-# [Bakaris the Younger](3-Mechanics\CLI\bestiary\npc/bakaris-the-younger-dsotdq.md)
+# [Bakaris the Younger](3-Mechanics/CLI/bestiary/npc/bakaris-the-younger-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 57*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "human"
 "alignment": "Neutral Evil"
 "ac": !!int "15"
-"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate.md)"
+"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate-xphb.md)"
 "hp": !!int "9"
 "hit_dice": "2d8"
 "modifier": !!int "1"
@@ -42,7 +42,7 @@ aliases:
   - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+5"
 "gear":
-  - "[rapier](3-Mechanics/CLI/items/rapier.md)"
+  - "[rapier](3-Mechanics/CLI/items/rapier-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "any two languages"
 "cr": "1/8"
@@ -56,6 +56,6 @@ aliases:
     "name": "Parry"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/npc/token/bakaris-the-younger-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Bakaris%20the%20Younger.webp"
 ```
 ^statblock

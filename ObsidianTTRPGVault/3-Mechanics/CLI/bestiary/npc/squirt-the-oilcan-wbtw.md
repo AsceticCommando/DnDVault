@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Squirt the Oilcan"
 ---
-# [Squirt the Oilcan](3-Mechanics\CLI\bestiary\npc/squirt-the-oilcan-wbtw.md)
+# [Squirt the Oilcan](3-Mechanics/CLI/bestiary/npc/squirt-the-oilcan-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 110*  
 
 ## Roleplaying Notes
@@ -86,6 +86,6 @@ Chaotic neutral.
     "name": "Boggle Oil (3 Applications)"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/npc/token/squirt-the-oilcan-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Squirt%20the%20Oilcan.webp"
 ```
 ^statblock

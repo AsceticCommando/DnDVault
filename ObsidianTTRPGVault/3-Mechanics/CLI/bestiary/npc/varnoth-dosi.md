@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Varnoth"
 ---
-# [Varnoth](3-Mechanics\CLI\bestiary\npc/varnoth-dosi.md)
+# [Varnoth](3-Mechanics/CLI/bestiary/npc/varnoth-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 47*  
 
 A hardened mercenary captain, Varnoth Wender is an experienced professional fighter. She is usually unarmed, but she keeps her old sword beneath the mattress in her cell (in area A1 in Dragon's Rest).
@@ -45,7 +45,7 @@ A hardened mercenary captain, Varnoth Wender is an experienced professional figh
   - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+2"
 "gear":
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Common"
 "cr": "2"
@@ -57,6 +57,6 @@ A hardened mercenary captain, Varnoth Wender is an experienced professional figh
     "name": "Shortsword"
 "source":
   - "DoSI"
-"image": "3-Mechanics/CLI/bestiary/npc/token/varnoth-dosi.webp"
+"image": "file://bestiary/tokens/DoSI/Varnoth.webp"
 ```
 ^statblock

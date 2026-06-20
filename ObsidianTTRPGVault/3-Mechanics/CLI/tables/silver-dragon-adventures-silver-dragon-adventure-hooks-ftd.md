@@ -12,6 +12,8 @@ aliases:
 
 **Silver Dragon Adventure Hooks**
 
+`dice: [](silver-dragon-adventures-silver-dragon-adventure-hooks-ftd.md#^silver-dragon-adventure-hooks)`
+
 | dice: d8 | Adventure Hook |
 |----------|----------------|
 | 1 | For centuries, a silver dragon has posed as a sage dwelling on a mountaintop. Now it's time to retire this persona without alarming the people who have grown reliant on the sage's advice. |

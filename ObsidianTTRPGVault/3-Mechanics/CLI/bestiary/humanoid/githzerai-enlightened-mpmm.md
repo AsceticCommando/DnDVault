@@ -15,7 +15,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Githzerai Enlightened"
 ---
-# [Githzerai Enlightened](3-Mechanics\CLI\bestiary\humanoid/githzerai-enlightened-mpmm.md)
+# [Githzerai Enlightened](3-Mechanics/CLI/bestiary/humanoid/githzerai-enlightened-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 143, Mordenkainen's Tome of Foes p. 208*  
 
 Some spiritual githzerai spend long hours in meditation to transcend the limits of their forms and to apprehend the nature of reality. Zerths who complete the next tier of their training become known as the enlightened.
@@ -77,9 +77,10 @@ Githzerai are otherworldly folk with psionic powers who share an ancestral link 
     "name": "Temporal Strike (Recharge 6)"
   - "desc": "The githzerai casts one of the following spells, requiring no spell components\
       \ and using Wisdom as the spellcasting ability (spell save DC 16):\n\n**At will:**\
-      \ [mage hand](3-Mechanics/CLI/spells/mage-hand.md) (the hand is invisible)\n\
-      \n**3/day:** [see invisibility](3-Mechanics/CLI/spells/see-invisibility.md)\n\
-      \n**1/day each:** [plane shift](3-Mechanics/CLI/spells/plane-shift.md), [teleport](3-Mechanics/CLI/spells/teleport.md)"
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md) (the hand is invisible)\n\
+      \n**3/day:** [see invisibility](3-Mechanics/CLI/spells/see-invisibility-xphb.md)\n\
+      \n**1/day each:** [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md),\
+      \ [teleport](3-Mechanics/CLI/spells/teleport-xphb.md)"
     "name": "Spellcasting (Psionics)"
 "reactions":
   - "desc": "When the githzerai falls, it reduces any falling damage it takes by 50."
@@ -87,7 +88,7 @@ Githzerai are otherworldly folk with psionic powers who share an ancestral link 
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/githzerai-enlightened-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Githzerai%20Enlightened.webp"
 ```
 ^statblock
 

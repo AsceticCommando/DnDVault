@@ -12,6 +12,8 @@ aliases:
 
 **War-Torn Villains**
 
+`dice: [](war-torn-survivor-war-torn-villains-erlw.md#^war-torn-villains)`
+
 | dice: d6 | Villain |
 |----------|---------|
 | 1 | The villain doesn't know (or refuses to believe) that the war has ended. |

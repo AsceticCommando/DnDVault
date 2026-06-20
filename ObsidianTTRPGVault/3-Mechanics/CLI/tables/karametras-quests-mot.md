@@ -12,6 +12,8 @@ aliases:
 
 **Karametra's Quests**
 
+`dice: [](karametras-quests-mot.md#^karametras-quests)`
+
 | dice: d6 | Adventure Goal |
 |----------|----------------|
 | 1 | Plant a fruit-bearing tree where one has never grown. |

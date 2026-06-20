@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Aarakocra Simulacrum"
 ---
-# [Aarakocra Simulacrum](3-Mechanics\CLI\bestiary\humanoid/aarakocra-simulacrum-skt.md)
+# [Aarakocra Simulacrum](3-Mechanics/CLI/bestiary/humanoid/aarakocra-simulacrum-skt.md)
 *Source: Storm King's Thunder p. 188*  
 
 ```statblock
@@ -37,7 +37,7 @@ aliases:
   - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
 "gear":
-  - "[javelin](3-Mechanics/CLI/items/javelin.md)"
+  - "[javelin](3-Mechanics/CLI/items/javelin-xphb.md)"
 "senses": "passive Perception 15"
 "languages": "Auran, Aarakocra"
 "cr": "1/8"
@@ -47,8 +47,8 @@ aliases:
       \ extra 3 (1d6) damage to the target."
     "name": "Dive Attack"
   - "desc": "When a simulacrum drops to 0 hit points or is subjected to a successful\
-      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md) spell (DC 17), it reverts\
-      \ to ice and snow and is destroyed."
+      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) spell (DC 17),\
+      \ it reverts to ice and snow and is destroyed."
     "name": "Simulacra"
 "actions":
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
@@ -71,6 +71,6 @@ aliases:
     "name": "Summon Air Elemental"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/aarakocra-simulacrum-skt.webp"
+"image": "file://bestiary/tokens/SKT/Aarakocra%20Simulacrum.webp"
 ```
 ^statblock

@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Neothelid"
 ---
-# [Neothelid](3-Mechanics\CLI\bestiary\aberration/neothelid-mpmm.md)
+# [Neothelid](3-Mechanics/CLI/bestiary/aberration/neothelid-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 193, Volo's Guide to Monsters p. 181*  
 
 A slime-covered worm of immense size, a neothelid is the result of the mind flayer reproductive cycle gone horribly wrong. When an illithid colony collapses, typically after an external assault, and the elder brain is killed, the colony's tadpoles are suddenly freed from their fate. They no longer serve as food—and are no longer fed by their caretakers. Driven by hunger, they turn to devouring one another. Only one tadpole survives out of the thousands in the colony's pool, and it emerges as a neothelid.
@@ -52,9 +52,9 @@ Mind flayers consider neothelids dangerous abominations—normally they eat or d
   - "desc": "The neothelid is aware of the presence of creatures within 1 mile of\
       \ it that have an Intelligence score of 4 or higher. It knows the distance and\
       \ direction to each creature, as well as each creature's Intelligence score,\
-      \ but can't sense anything else about it. A creature protected by a [mind blank](3-Mechanics/CLI/spells/mind-blank.md)\
-      \ spell, a [nondetection](3-Mechanics/CLI/spells/nondetection.md) spell, or\
-      \ similar magic can't be perceived in this manner."
+      \ but can't sense anything else about it. A creature protected by a [mind blank](3-Mechanics/CLI/spells/mind-blank-xphb.md)\
+      \ spell, a [nondetection](3-Mechanics/CLI/spells/nondetection-xphb.md) spell,\
+      \ or similar magic can't be perceived in this manner."
     "name": "Creature Sense"
   - "desc": "The neothelid has advantage on saving throws against spells and other\
       \ magical effects."
@@ -81,13 +81,13 @@ Mind flayers consider neothelids dangerous abominations—normally they eat or d
     "name": "Acid Breath (Recharge 5-6)"
   - "desc": "The neothelid casts one of the following spells, requiring no spell components\
       \ and using Wisdom as the spellcasting ability (spell save DC 16):\n\n**At will:**\
-      \ [levitate](3-Mechanics/CLI/spells/levitate.md)\n\n**1/day each:** [confusion](3-Mechanics/CLI/spells/confusion.md),\
-      \ [feeblemind](3-Mechanics/CLI/spells/feeblemind.md), [telekinesis](3-Mechanics/CLI/spells/telekinesis.md)"
+      \ [levitate](3-Mechanics/CLI/spells/levitate-xphb.md)\n\n**1/day each:** [confusion](3-Mechanics/CLI/spells/confusion-xphb.md),\
+      \ [feeblemind](3-Mechanics/CLI/spells/befuddlement-xphb.md), [telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md)"
     "name": "Spellcasting (Psionics)"
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/neothelid-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Neothelid.webp"
 ```
 ^statblock
 

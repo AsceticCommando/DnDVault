@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Harengon Sniper"
 ---
-# [Harengon Sniper](3-Mechanics\CLI\bestiary\humanoid/harengon-sniper-wbtw.md)
+# [Harengon Sniper](3-Mechanics/CLI/bestiary/humanoid/harengon-sniper-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 235*  
 
 Harengons are rabbit-folk native to the Feywild, through they often migrate to the Material Plane. They love to travel on foot and rarely stay in one place for long.
@@ -25,7 +25,7 @@ Not all harengons are mean-spirited bullies like the ones presented here. Every 
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "14"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "9"
 "hit_dice": "2d8"
 "modifier": !!int "3"
@@ -47,8 +47,8 @@ Not all harengons are mean-spirited bullies like the ones presented here. Every 
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
 "gear":
-  - "[club](3-Mechanics/CLI/items/club.md)"
-  - "[light crossbow](3-Mechanics/CLI/items/light-crossbow.md)"
+  - "[club](3-Mechanics/CLI/items/club-xphb.md)"
+  - "[light crossbow](3-Mechanics/CLI/items/light-crossbow-xphb.md)"
 "senses": "passive Perception 15"
 "languages": "Common, Sylvan"
 "cr": "1/4"
@@ -67,6 +67,6 @@ Not all harengons are mean-spirited bullies like the ones presented here. Every 
     "name": "Light Crossbow"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/harengon-sniper-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Harengon%20Sniper.webp"
 ```
 ^statblock

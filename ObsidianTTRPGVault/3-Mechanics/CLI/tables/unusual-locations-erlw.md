@@ -12,6 +12,8 @@ aliases:
 
 **Unusual Locations**
 
+`dice: [](unusual-locations-erlw.md#^unusual-locations)`
+
 | dice: d6 | Location |
 |----------|----------|
 | 1 | A pool of glowing water sits in the middle of a ruined and abandoned village. Anyone who looks into the water sees brief reflections of the long-dead villagers going about their lives in harmony and joy. |

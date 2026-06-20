@@ -12,6 +12,8 @@ aliases:
 
 **Human Names – Mesoamerican, Male**
 
+`dice: [](human-names-mesoamerican-male-xge.md#^human-names-mesoamerican-male)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Achcauhtli |

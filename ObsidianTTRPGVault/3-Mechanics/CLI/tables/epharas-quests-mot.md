@@ -12,6 +12,8 @@ aliases:
 
 **Ephara's Quests**
 
+`dice: [](epharas-quests-mot.md#^epharas-quests)`
+
 | dice: d6 | Adventure Goal |
 |----------|----------------|
 | 1 | Oust the corrupt leader of a town or a city. |

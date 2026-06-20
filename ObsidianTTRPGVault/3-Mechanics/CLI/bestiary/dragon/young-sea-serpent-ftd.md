@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Young Sea Serpent"
 ---
-# [Young Sea Serpent](3-Mechanics\CLI\bestiary\dragon/young-sea-serpent-ftd.md)
+# [Young Sea Serpent](3-Mechanics/CLI/bestiary/dragon/young-sea-serpent-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 219*  
 
 Sea serpents rank alongside dragon turtles as some of the most feared predators of the deep and inspire many sailors' worst nightmares. Their strong fins propel them through the water at great speed.
@@ -82,6 +82,6 @@ Living amid the wreckage of sunken ships or in deep sea caves, sea serpents coll
     "name": "Rime Breath (Recharge 5-6)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/young-sea-serpent-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Young%20Sea%20Serpent.webp"
 ```
 ^statblock

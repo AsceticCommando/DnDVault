@@ -12,6 +12,8 @@ aliases:
 
 **House Contacts**
 
+`dice: [](dragonmarked-house-contacts-house-contacts-erlw.md#^house-contacts)`
+
 | dice: d8 | Contact |
 |----------|---------|
 | 1 | A lesser guild functionary who is cowed by your group (especially if it includes a dragonmarked character) and apologetic about giving you assignments |

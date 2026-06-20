@@ -12,6 +12,8 @@ aliases:
 
 **Fey Desires for Greater Contracts**
 
+`dice: [](price-of-a-contract-fey-desires-for-greater-contracts-dod.md#^fey-desires-for-greater-contracts)`
+
 | dice: d8 | What the Fey Wants |
 |----------|--------------------|
 | 1 | One of your fingers |

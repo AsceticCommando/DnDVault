@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Adult Red Dracolich"
 ---
-# [Adult Red Dracolich](3-Mechanics\CLI\bestiary\dragon/adult-red-dracolich-tce.md)
+# [Adult Red Dracolich](3-Mechanics/CLI/bestiary/dragon/adult-red-dracolich-tce.md)
 *Source: Tasha's Cauldron of Everything p. 137*  
 
 ```statblock
@@ -99,6 +99,6 @@ aliases:
     "name": "Wing Attack (Costs 2 Actions)"
 "source":
   - "TCE"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/adult-red-dracolich-tce.webp"
+"image": "file://bestiary/tokens/TCE/Adult%20Red%20Dracolich.webp"
 ```
 ^statblock

@@ -12,6 +12,8 @@ aliases:
 
 **Dwarf Names – Male**
 
+`dice: [](dwarf-names-male-xge.md#^dwarf-names-male)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Adrik |

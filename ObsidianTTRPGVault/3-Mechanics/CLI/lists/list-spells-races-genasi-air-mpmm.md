@@ -11,12 +11,12 @@ aliases:
 
 ## Cantrip
 
-- [Shocking Grasp](3-Mechanics/CLI/spells/shocking-grasp.md "PHB") at class level 3
+- [Shocking Grasp](3-Mechanics/CLI/spells/shocking-grasp-xphb.md "XPHB") as cantrip
 
 ## 1st Level
 
-- [Feather Fall](3-Mechanics/CLI/spells/feather-fall.md "PHB") at class level 3
+- [Feather Fall](3-Mechanics/CLI/spells/feather-fall-xphb.md "XPHB") at class level 3
 
 ## 2nd Level
 
-- [Levitate](3-Mechanics/CLI/spells/levitate.md "PHB") at class level 3
+- [Levitate](3-Mechanics/CLI/spells/levitate-xphb.md "XPHB") at class level 5

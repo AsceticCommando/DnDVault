@@ -12,6 +12,8 @@ aliases:
 
 **Githzerai Mission Purpose**
 
+`dice: [](githzerai-groups-githzerai-mission-purpose-mtf.md#^githzerai-mission-purpose)`
+
 | dice: d4 | Purpose |
 |----------|---------|
 | 1 | Hunting a specific mind flayer colony |

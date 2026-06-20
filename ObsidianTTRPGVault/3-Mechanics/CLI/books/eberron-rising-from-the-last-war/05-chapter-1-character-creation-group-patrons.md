@@ -119,7 +119,7 @@ As members of an adventurers' guild, your group gains the following benefits:
 
 **Referrals**. The guild can recommend hired services to its members, drawing on other guild members' experiences to provide honest, reliable, and skillful hirelings.
 
-**Storage**. The guild will store items for its members. The Clifftop guild has an account with House Kundarak banks that allow its members to store valuables in secure vaults. Some guilds have access to items such as a [bag of holding](3-Mechanics/CLI/items/bag-of-holding.md) or a safe that opens into a similar extradimensional space. In the worst case, an item can be hidden in a guildhall's basement for a time.
+**Storage**. The guild will store items for its members. The Clifftop guild has an account with House Kundarak banks that allow its members to store valuables in secure vaults. Some guilds have access to items such as a [bag of holding](3-Mechanics/CLI/items/bag-of-holding-xdmg.md) or a safe that opens into a similar extradimensional space. In the worst case, an item can be hidden in a guildhall's basement for a time.
 
 ### Build Your Group
 
@@ -131,7 +131,7 @@ Typically, an adventuring group has no particular contact within the larger guil
 
 ![Adventurers' Guild Contacts; Guild Contacts](3-Mechanics/CLI/tables/adventurers-guild-contacts-guild-contacts-erlw.md)
 
-![Headquarters of the Clifftop Adventurers' Guild](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/057-1-42.webp#center)
+![Headquarters of the Clifftop Adventurers' Guild](file://book/ERLW/057-1-42.webp#center)
 
 ### Guild Adventures
 
@@ -234,7 +234,7 @@ Some criminals believe you can't do a job without betraying your partners. Perha
 
 ![Rival Outfit; Group Rivals](3-Mechanics/CLI/tables/rival-outfit-group-rivals-erlw.md)
 
-![Boromar Clan Nightclub](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/058-1-43.webp#center)
+![Boromar Clan Nightclub](file://book/ERLW/058-1-43.webp#center)
 
 ### Crime Syndicate Contacts
 
@@ -257,7 +257,7 @@ The city of Sharn is unusual in that it is home to no less than four powerful sy
 
 **The Tyrants**. The Tyrants are a mysterious group of shapeshifters who traffic in all manner of information. They sell secrets, blackmail powerful people, and forge everything from identification papers to coins and works of art.
 
-**Running Your Own**. Rather than join an existing syndicate, you can start your own. You need to establish your own headquarters and direct the activities of the `3d6` criminals who work for you. By claiming a 15 percent share of their take, you can rely on an income that will sustain you at a modest lifestyle, plus an additional `1d6` gp in profit per week. You can access contraband and fences as described earlier in this section, but you don't get a discount at syndicate-owned businesses unless you acquire some businesses of your own. You can also use the Running a Business downtime activity to direct the activities of your syndicate.
+**Running Your Own**. Rather than join an existing syndicate, you can start your own. You need to establish your own headquarters and direct the activities of the `dice:3d6|noform|noparens|avg` (`3d6`) criminals who work for you. By claiming a 15 percent share of their take, you can rely on an income that will sustain you at a modest lifestyle, plus an additional `dice:1d6|noform|noparens|avg` (`1d6`) gp in profit per week. You can access contraband and fences as described earlier in this section, but you don't get a discount at syndicate-owned businesses unless you acquire some businesses of your own. You can also use the Running a Business downtime activity to direct the activities of your syndicate.
 
 ## Dragonmarked House
 
@@ -338,7 +338,7 @@ The Twelve is headquartered in a many-spired keep that floats in the air above t
 
 With a long record of providing benefit to society at large, the Twelve is widely respected. Some of their closest allies include the following groups:
 
-![Headquarters of the Twelve](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/059-1-44.webp#center)
+![Headquarters of the Twelve](file://book/ERLW/059-1-44.webp#center)
 
 **Dragonmarked Houses**. Above all, the Twelve has the almost universal support of the dragonmarked houses, which provide the funding to support its continued operation. One of the few things that all the houses agree on is that the Twelve should be allowed to do its work in peace. Agents of the Twelve can count on at least a minimal level of assistance from the houses in case of dire need.
 
@@ -370,7 +370,7 @@ The King's Citadel is based in Breland's capital city of Wroat, under the comman
 
 The Sharn office of the King's Citadel is in Andith Tower in the Ambassador Towers district. Though a knight marshal commands the office, most of the King's Citadel members in Sharn are Dark Lanterns, and thus under the authority of a scheming and ruthless gnome named Talleon Haliar Tonan.
 
-![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/060-1-45.webp#center)
+![](file://book/ERLW/060-1-45.webp#center)
 
 #### Agents
 
@@ -518,7 +518,7 @@ With a head of state as your group's patron, you gain the following benefits:
 
 A head of state like Prince Oargev requires a variety of adventurers to do the range of tasks they require. Depending on the kinds of work you do, your party might include some or all of these roles:
 
-![Prince Oargev ir'Wynarn](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/061-1-46.webp#center)
+![Prince Oargev ir'Wynarn](file://book/ERLW/061-1-46.webp#center)
 
 **Civil Servant**. The vast majority of work performed on behalf of a head of state has very little to do with deadly adventure: it's about prosecuting and judging criminals in the courts of law, hearing the petitions and complaints of citizens, collecting taxes, and interminable amounts of paperwork. Once in a while, though, a faithful Civil Servant gets forcefully pulled from this work and thrust into life-or-death situations, with or without help from more hardened adventurers. The knowledge and experience of a Civil Servant can often be useful, with some developing skills as clerics, rogues, wizards, or other classes. Such characters often come from the sage background and have proficiency in skills that reflect their studies, such as [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana), [History](3-Mechanics/CLI/rules/skills.md#History), [Nature](3-Mechanics/CLI/rules/skills.md#Nature), and [Religion](3-Mechanics/CLI/rules/skills.md#Religion).
 
@@ -564,7 +564,7 @@ A mysterious figure who appears in lofty myths and children's fables, Sora Kell 
 
 One fact is indisputable: Sora Kell is an immortal being who employs mortals to do her bidding. In exchange, she trades lore from her boundless stores of magic items, racks of scrolls, libraries of ancient spells, maps of forgotten ruins, and tomes unveiling the mysteries of the multiverse, which she has secreted away in caches across the planes.
 
-![Sora Kell and a Dreamer](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/062-1-47.webp#center)
+![Sora Kell and a Dreamer](file://book/ERLW/062-1-47.webp#center)
 
 #### Appearances
 
@@ -695,7 +695,7 @@ A wide variety of talents can be useful in the work of an inquisitive, leading t
 
 **Consultant**. Sometimes skilled individuals end up working alongside inquisitives for a time. Such Consultants might work for a newspaper, study an esoteric field, or write crime fiction for a living. This character is usually similar to an Investigator, but typically has an unusual background or expert knowledge. The relationship between a Consultant and the rest of the party can be a source of drama—or comedy.
 
-![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/063-1-48.webp#center)
+![](file://book/ERLW/063-1-48.webp#center)
 
 **Interrogator**. The Interrogator specializes in interaction with suspects, witnesses, or others who need persuasion to reveal what they know. A high Charisma combined with proficiency in both [Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion) and [Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation) prove helpful in this role. Bards, paladins, and sorcerers have both the requisite talents and the ability to supplement their interrogations with magic.
 
@@ -749,13 +749,13 @@ As an elite group of special forces, the Redcloaks don't include inexperienced a
 
 First, the Redcloaks do sometimes take inexperienced adventurers under their wings. Existing Redcloaks proved themselves on the battlefields of the Last War; if the group is to continue, the Redcloaks of the future have to learn the soldier's trade in different battles. To such ends, senior members of the battalion send your party on missions across Khorvaire to provide you with combat experience as well as to further Redcloak goals.
 
-Alternatively, your DM might decide to start the campaign with your characters at a higher level and already established as members of the Redcloaks (see ""Starting at Higher Level"" in chapter 1 of the "Dungeon Master's Guide"). In this case, you might also begin with magic items and other gear reflecting your status in the organization. The standard-issue uniform for the Redcloaks is a hooded crimson [cloak of protection](3-Mechanics/CLI/items/cloak-of-protection.md) bearing two badges: the seal of the Brelish crown on the left shoulder and a snarling displacer beast surrounded by the words, "First in battle, last to fall"—the Redcloak insignia and motto—on the right.
+Alternatively, your DM might decide to start the campaign with your characters at a higher level and already established as members of the Redcloaks (see ""Starting at Higher Level"" in chapter 1 of the "Dungeon Master's Guide"). In this case, you might also begin with magic items and other gear reflecting your status in the organization. The standard-issue uniform for the Redcloaks is a hooded crimson [cloak of protection](3-Mechanics/CLI/items/cloak-of-protection-xdmg.md) bearing two badges: the seal of the Brelish crown on the left shoulder and a snarling displacer beast surrounded by the words, "First in battle, last to fall"—the Redcloak insignia and motto—on the right.
 
 #### Allies
 
 As part of Breland's military forces, the Redcloaks can count on the support of the crown, the King's Citadel, and the larger Brelish army, largely summarized as the following parties:
 
-![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/064-1-49.webp#center)
+![](file://book/ERLW/064-1-49.webp#center)
 
 **King Boranel**. The king of Breland is a cautious advocate of the Redcloaks. He values their contributions but fears their power, which is why he divided the battalion after the end of the war. Still, he rewards loyalty among the Redcloaks by showing loyalty to them in return. Again and again, he has proven himself willing to exercise his power on behalf of a loyal Redcloak.
 
@@ -794,7 +794,7 @@ A military unit, like most adventuring parties, incorporates a range of useful s
 
 **Commander**. Every band of infantry has its leader, even if that person isn't a officer. The Commander earns that position through some combination of high Charisma and Intelligence—the ability to inspire and the capacity to plan. Proficiency in skills such as [Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion) and [History](3-Mechanics/CLI/rules/skills.md#History) can be helpful as well. The Commander might be a career soldier (with that background) or someone from a noble background placed in command by virtue of birth. A Commander might be a fighter, bard, cleric, paladin, or even wizard—as magic proves valuable in military engagements.
 
-**Medic**. Keeping soldiers alive is essential to military success, and that's the Medic's job. In an elite unit of adventurers, the Medic is often a cleric or has another class with healing ability, but these characters are also often proficient in the [Medicine](3-Mechanics/CLI/rules/skills.md#Medicine) skill or use of a [herbalism kit](3-Mechanics/CLI/items/herbalism-kit.md). A Medic can be a soldier who demonstrated aptitude in healing and got moved into this position, or a character from a different background (such as acolyte, sage, or even hermit) who decided to put medical expertise to military use.
+**Medic**. Keeping soldiers alive is essential to military success, and that's the Medic's job. In an elite unit of adventurers, the Medic is often a cleric or has another class with healing ability, but these characters are also often proficient in the [Medicine](3-Mechanics/CLI/rules/skills.md#Medicine) skill or use of a [herbalism kit](3-Mechanics/CLI/items/herbalism-kit-xphb.md). A Medic can be a soldier who demonstrated aptitude in healing and got moved into this position, or a character from a different background (such as acolyte, sage, or even hermit) who decided to put medical expertise to military use.
 
 **Scout**. Trained in navigating the wilderness and laying ambushes for enemy soldiers, the Scout melds the combat skill of a fighter with the skills of a ranger or rogue. High Dexterity and Wisdom scores, combined with proficiency in the [Nature](3-Mechanics/CLI/rules/skills.md#Nature), [Perception](3-Mechanics/CLI/rules/skills.md#Perception), [Stealth](3-Mechanics/CLI/rules/skills.md#Stealth), and [Survival](3-Mechanics/CLI/rules/skills.md#Survival) skills, support this character's core capabilities. Scouts are often recruited from people who are more familiar with the wilds than with city streets, including folk heroes, hermits, and outlanders.
 
@@ -840,7 +840,7 @@ Every nation in Khorvaire has its military forces. In addition to the Redcloak B
 
 #### Running Your Own
 
-Rather than join an existing force, you might choose to form your own mercenary outfit. You can assemble a unit of `3d10` soldiers housed in a headquarters with an armory, barracks, and private quarters for you and any other officers. Your group earns `3d20` gp per month, plus enough money to maintain your headquarters. You might be able to acquire weapons and armor through an arms dealer at a 20 percent discount, at the DM's discretion. You give the orders to those beneath you and take orders from no one, but that means that you are ultimately responsible for the activities of everyone in your outfit.
+Rather than join an existing force, you might choose to form your own mercenary outfit. You can assemble a unit of `dice:3d10|noform|noparens|avg` (`3d10`) soldiers housed in a headquarters with an armory, barracks, and private quarters for you and any other officers. Your group earns `dice:3d20|noform|noparens|avg` (`3d20`) gp per month, plus enough money to maintain your headquarters. You might be able to acquire weapons and armor through an arms dealer at a 20 percent discount, at the DM's discretion. You give the orders to those beneath you and take orders from no one, but that means that you are ultimately responsible for the activities of everyone in your outfit.
 
 You can use the Running a Business downtime activity to direct the activities of your unit and potentially increase your earnings, as described at the start of this section.
 
@@ -872,7 +872,7 @@ The *Korranberg Chronicle* is widely known and respected as a source of balanced
 
 **House Orien**. House Orien distributes the *Chronicle* along its mail and lightning rail runs across Khorvaire, helping the newspaper reach a huge audience. Employees of the *Chronicle* can travel on lightning rail coaches at a discounted rate of 15 cp/mile (instead of the usual 2 sp/mile).
 
-**House Sivis**. The newspaper also cooperates closely with House Sivis to facilitate communication between the main office and the field offices, as well as between reporters and their editors. The house bills the *Chronicle* directly for communications using [speaking stones](3-Mechanics/CLI/items/speaking-stone-erlw.md) or [sending](3-Mechanics/CLI/spells/sending.md) spells directed to the newspaper's main office.
+**House Sivis**. The newspaper also cooperates closely with House Sivis to facilitate communication between the main office and the field offices, as well as between reporters and their editors. The house bills the *Chronicle* directly for communications using [speaking stones](3-Mechanics/CLI/items/speaking-stone-erlw.md) or [sending](3-Mechanics/CLI/spells/sending-xphb.md) spells directed to the newspaper's main office.
 
 **Zilargo**. The gnome nation of Zilargo is generally friendly to the newspaper. The senior editors, publisher, and owners of the *Chronicle* are influential people in the city of Korranberg and Zilargo as a whole. In extreme circumstances Zilargo officials might be persuaded to advocate for the newspaper's employees.
 
@@ -886,7 +886,7 @@ The *Korranberg Chronicle* is dedicated to learning and reporting the truth, and
 
 **House Thuranni**. The snoops and spies of the *Chronicle* have pried one time too many into House Thuranni's private affairs. No member or agent of the house will cooperate with *Chronicle* reporters under any circumstances.
 
-![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/065-1-50.webp#center)
+![](file://book/ERLW/065-1-50.webp#center)
 
 ### Patron Benefits
 
@@ -964,7 +964,7 @@ Besides the well-respected *Korranberg Chronicle*, other newspapers in Khorvaire
 
 #### Running Your Own
 
-Rather than work for an existing outlet, you can run your own newspaper. You own a small office and a printing press, and keep `2d4` employees to manage daily tasks and keep the paper going to press. You gain the benefit of press access as described earlier. Additionally, you can use the Running a Business downtime activity to direct the activities of your paper in hopes of increasing your earnings, as described at the start of this section.
+Rather than work for an existing outlet, you can run your own newspaper. You own a small office and a printing press, and keep `dice:2d4|noform|noparens|avg` (`2d4`) employees to manage daily tasks and keep the paper going to press. You gain the benefit of press access as described earlier. Additionally, you can use the Running a Business downtime activity to direct the activities of your paper in hopes of increasing your earnings, as described at the start of this section.
 
 ## Religious Order
 
@@ -982,7 +982,7 @@ As templars of the Silver Flame, you have distinctive silver tabards to wear ove
 
 The order of the Templars of the Silver Flame is represented on the Council of Cardinals that serves as the governing body of Thrane and the church. Seven commanders govern the knights of the order under the Grand Master's leadership: one for each of the Five Nations of old, one for foreign lands, and one for the seas. Their assistants carry the title of marshal, but no real division of rank exists beneath them.
 
-![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/066-1-51.webp#center)
+![](file://book/ERLW/066-1-51.webp#center)
 
 Knights templar are free to wander the world in pursuit of the order's aims. When leaving the jurisdiction of one commander and entering that of another, it is a knight's responsibility to promptly report to the commander of the new area, in case that commander has a pressing need for a knight to perform a mission. The commanders try to keep each other informed about where knights are operating and what they are doing, but this system works better in some places—and between some commanders—than others.
 
@@ -1111,7 +1111,7 @@ A group sponsored by a university might look very much like any other adventurin
 
 **Field Researcher**. The academic in your group might also be a character with plenty of training and experience in the dangerous life of an adventurer. Sometimes called tomb raiders or grave robbers, such characters know that groundbreaking work requires firsthand experience with the creatures, cultures, forces, and histories being investigated, and the best way to get that is in the field. This role is similar to the Scholar, but the Field Researcher is armed with combat-oriented spells that supplement the knowledge-focused capabilities of the Scholar, preparing them to face those who guard the world's greatest secrets.
 
-![Morgrave University](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/067-1-52.webp#center)
+![Morgrave University](file://book/ERLW/067-1-52.webp#center)
 
 **Financier**. Whether they're hunting for grants or seeking donations from wealthy philanthropists, the Financier seeks the funds to pay for academic expeditions. Such characters might know their ways around ballrooms, boardrooms, and seedy taverns, willing to do whats necessary to get what they need. Those in this role often exude Charisma and might be adept with the [Deception](3-Mechanics/CLI/rules/skills.md#Deception), [Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation), and [Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion) skills. Bards and rogues make natural academic Financiers, as do those with the charlatan and noble backgrounds.
 

@@ -15,7 +15,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Bodak"
 ---
-# [Bodak](3-Mechanics\CLI\bestiary\undead/bodak-mpmm.md)
+# [Bodak](3-Mechanics/CLI/bestiary/undead/bodak-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 64, Volo's Guide to Monsters p. 127*  
 
 A bodak is the undying remains of someone who revered Orcus. Devoid of life and soul, it exists only to cause death.
@@ -92,7 +92,7 @@ A bodak retains vague impressions of its past life. It seeks out its former alli
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/undead/token/bodak-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Bodak.webp"
 ```
 ^statblock
 

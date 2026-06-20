@@ -12,6 +12,8 @@ aliases:
 
 **Human Names – English, Female**
 
+`dice: [](human-names-english-female-xge.md#^human-names-english-female)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Adelaide |

@@ -12,6 +12,8 @@ aliases:
 
 **Sentient Special Purpose**
 
+`dice: [](sentient-special-purpose.md#^sentient-special-purpose)`
+
 | dice: d10 | Purpose |
 |-----------|---------|
 | 1 | Aligned: The item seeks to defeat or destroy those of a diametrically opposed alignment. (Such an item is never neutral.) |

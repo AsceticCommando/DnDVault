@@ -24,7 +24,7 @@ Typically, the DM uses a map as an outline of the adventure, tracking the charac
 
 The DM's notes, including a key to the map, describe what the adventurers find as they enter each new area. Sometimes, the passage of time and the adventurers' actions determine what happens, so the DM might use a time line or a flowchart to track their progress instead of a map.
 
-![](3-Mechanics/CLI/books/players-handbook-2014/img/ch8.webp#center)
+![](file://book/PHB/ch8.webp#center)
 
 ## Time
 
@@ -66,7 +66,7 @@ Characters in wagons, carriages, or other land vehicles choose a pace as normal.
 
 Certain special mounts, such as a pegasus or griffon, or special vehicles, such as a carpet of flying, allow you to travel more swiftly. The Dungeon Master's Guide contains more information on special methods of travel.
 
-![Travel Pace](3-Mechanics/CLI/tables/travel-pace-phb.md)
+![Travel Pace](3-Mechanics/CLI/tables/travel-pace-xphb.md)
 
 #### Difficult Terrain
 
@@ -171,7 +171,7 @@ By its nature, adventuring involves delving into places that are dark, dangerous
 
 A fall from a great height is one of the most common hazards facing an adventurer.
 
-At the end of a fall, a creature takes `1d6` bludgeoning damage for every 10 feet it fell, to a maximum of `20d6`. The creature lands [prone](3-Mechanics/CLI/rules/conditions.md#Prone), unless it avoids taking damage from the fall.
+At the end of a fall, a creature takes `dice:1d6|noform|noparens|avg` (`1d6`) bludgeoning damage for every 10 feet it fell, to a maximum of `dice:20d6|noform|noparens|avg` (`20d6`). The creature lands [prone](3-Mechanics/CLI/rules/conditions.md#Prone), unless it avoids taking damage from the fall.
 
 #### Suffocating
 
@@ -209,7 +209,7 @@ Many creatures in fantasy gaming worlds, especially those that dwell underground
 
 A creature with truesight can, out to a specific range, see in normal and magical darkness, see [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceives the original form of a shapechanger or a creature that is transformed by magic. Furthermore, the creature can see into the Ethereal Plane.
 
-![](3-Mechanics/CLI/books/players-handbook-2014/img/c81.webp#center)
+![](file://book/PHB/c81.webp#center)
 
 #### Food and Water
 
@@ -342,7 +342,7 @@ Downtime activities other than the ones presented below are possible. If you wan
 
 ##### Crafting
 
-You can craft nonmagical objects, including adventuring equipment and works of art. You must be proficient with tools related to the object you are trying to create (typically artisan's tools). You might also need access to special materials or locations necessary to create it. For example, someone proficient with [smith's tools](3-Mechanics/CLI/items/smiths-tools.md) needs a forge in order to craft a sword or suit of armor.
+You can craft nonmagical objects, including adventuring equipment and works of art. You must be proficient with tools related to the object you are trying to create (typically artisan's tools). You might also need access to special materials or locations necessary to create it. For example, someone proficient with [smith's tools](3-Mechanics/CLI/items/smiths-tools-xphb.md) needs a forge in order to craft a sword or suit of armor.
 
 For every day of downtime you spend crafting, you can craft one or more items with a total market value not exceeding 5 gp, and you must expend raw materials worth half the total market value. If something you want to craft has a market value greater than 5 gp, you make progress every day in 5-gp increments until you reach the market value of the item. For example, a suit of plate armor (market value 1,500 gp) takes 300 days to craft by yourself.
 

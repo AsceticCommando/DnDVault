@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Felbarren Dwarf"
 ---
-# [Felbarren Dwarf](3-Mechanics\CLI\bestiary\humanoid/felbarren-dwarf-skt.md)
+# [Felbarren Dwarf](3-Mechanics/CLI/bestiary/humanoid/felbarren-dwarf-skt.md)
 *Source: Storm King's Thunder p. 79*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Lawful Good"
 "ac": !!int "16"
-"ac_class": "[chain shirt](3-Mechanics/CLI/items/chain-shirt.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[chain shirt](3-Mechanics/CLI/items/chain-shirt-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
 "modifier": !!int "1"
@@ -39,7 +39,7 @@ aliases:
     "desc": "+2"
 "damage_resistances": "poison"
 "gear":
-  - "[spear](3-Mechanics/CLI/items/spear.md)"
+  - "[spear](3-Mechanics/CLI/items/spear-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 12"
 "languages": "any one language (usually Common), Dwarvish"
@@ -54,6 +54,6 @@ aliases:
     "name": "Spear"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/felbarren-dwarf-skt.webp"
+"image": "file://bestiary/tokens/SKT/Felbarren%20Dwarf.webp"
 ```
 ^statblock

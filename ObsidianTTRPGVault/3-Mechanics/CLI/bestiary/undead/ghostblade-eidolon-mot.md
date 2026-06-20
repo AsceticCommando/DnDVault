@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Ghostblade Eidolon"
 ---
-# [Ghostblade Eidolon](3-Mechanics\CLI\bestiary\undead/ghostblade-eidolon-mot.md)
+# [Ghostblade Eidolon](3-Mechanics/CLI/bestiary/undead/ghostblade-eidolon-mot.md)
 *Source: Mythic Odysseys of Theros p. 222*  
 
 When a mortal soul traumatically sacrifices its identity in order to escape the Underworld as a Returned, its identity manifests as a spirit-like eidolon. While eidolons possess many of the skills and details related to their past lives, they're disconnected from those experiences, choosing to wander the world or brood in haunts they're drawn to in death. They care nothing for morbid reunions with their lost bodies or Returned remnants.
@@ -71,6 +71,6 @@ Of the various types of eidolons, ghostblade eidolons typically arise from falle
     "name": "Ghostblade"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/undead/token/ghostblade-eidolon-mot.webp"
+"image": "file://bestiary/tokens/MOT/Ghostblade%20Eidolon.webp"
 ```
 ^statblock

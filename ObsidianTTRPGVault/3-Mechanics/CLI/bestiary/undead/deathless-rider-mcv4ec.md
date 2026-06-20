@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Deathless Rider"
 ---
-# [Deathless Rider](3-Mechanics\CLI\bestiary\undead/deathless-rider-mcv4ec.md)
+# [Deathless Rider](3-Mechanics/CLI/bestiary/undead/deathless-rider-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 Legends told in the courts of Eldraine suggest that the deathless riders serve a warlock-queen, known simply as the Shadow Queen, who rules from a castle called Dynnistan. It isn't known whether these legends are based on any true experience or are simply the result of imagination trying to account for a terrifying and unexplained phenomenon.
@@ -34,7 +34,7 @@ A typical deathless rider's mount is a warhorse skeleton, though some lich-knigh
 "type": "undead"
 "alignment": "typically  Lawful Evil"
 "ac": !!int "18"
-"ac_class": "[chain mail](3-Mechanics/CLI/items/chain-mail.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[chain mail](3-Mechanics/CLI/items/chain-mail-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "84"
 "hit_dice": "13d8 + 26"
 "modifier": !!int "0"
@@ -90,6 +90,6 @@ A typical deathless rider's mount is a warhorse skeleton, though some lich-knigh
     "name": "Fell Glare"
 "source":
   - "MCV4EC"
-"image": "3-Mechanics/CLI/bestiary/undead/token/deathless-rider-mcv4ec.webp"
+"image": "file://bestiary/tokens/MCV4EC/Deathless%20Rider.webp"
 ```
 ^statblock

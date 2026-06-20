@@ -12,6 +12,8 @@ aliases:
 
 **Omens of Kruphix**
 
+`dice: [](omens-of-kruphix-mot.md#^omens-of-kruphix)`
+
 | dice: d6 | dice: d100 | Omen of Kruphix |
 |----------|------------|-----------------|
 | 1 | 53 | The natural world falls utterly silent. |

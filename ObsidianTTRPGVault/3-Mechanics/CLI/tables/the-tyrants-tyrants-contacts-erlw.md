@@ -12,6 +12,8 @@ aliases:
 
 **Tyrants Contacts**
 
+`dice: [](the-tyrants-tyrants-contacts-erlw.md#^tyrants-contacts)`
+
 | dice: d4 | Contact |
 |----------|---------|
 | 1 | **Korryn** (elf) maintains Korryn's Quill, a shop in the Bazaar of Dura that sells supplies for artists and scribes. In addition to being a remarkable calligrapher, Korryn is an expert forger. |

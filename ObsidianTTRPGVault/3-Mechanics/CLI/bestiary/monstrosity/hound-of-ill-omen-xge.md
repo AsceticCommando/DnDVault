@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Hound of Ill Omen"
 ---
-# [Hound of Ill Omen](3-Mechanics\CLI\bestiary\monstrosity/hound-of-ill-omen-xge.md)
+# [Hound of Ill Omen](3-Mechanics/CLI/bestiary/monstrosity/hound-of-ill-omen-xge.md)
 *Source: Xanathar's Guide to Everything p. 50*  
 
 ```statblock
@@ -73,6 +73,6 @@ aliases:
     "name": "Bite"
 "source":
   - "XGE"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/hound-of-ill-omen-xge.webp"
+"image": "file://bestiary/tokens/XGE/Hound%20of%20Ill%20Omen.webp"
 ```
 ^statblock

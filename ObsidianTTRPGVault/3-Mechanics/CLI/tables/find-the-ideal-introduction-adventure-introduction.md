@@ -12,6 +12,8 @@ aliases:
 
 **Adventure Introduction**
 
+`dice: [](find-the-ideal-introduction-adventure-introduction.md#^adventure-introduction)`
+
 | dice: d12 | Introduction |
 |-----------|--------------|
 | 1 | While traveling in the wilderness, the characters fall into a sinkhole that opens beneath their feet, dropping them into the adventure location. |

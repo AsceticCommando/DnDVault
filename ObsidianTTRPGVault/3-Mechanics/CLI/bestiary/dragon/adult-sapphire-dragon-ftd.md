@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Adult Sapphire Dragon"
 ---
-# [Adult Sapphire Dragon](3-Mechanics\CLI\bestiary\dragon/adult-sapphire-dragon-ftd.md)
+# [Adult Sapphire Dragon](3-Mechanics/CLI/bestiary/dragon/adult-sapphire-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 215*  
 
 The thunderous clash of conflict is part of the very nature of sapphire dragons. Militant and territorial, they defend their lairs fiercely, ambushing intruders and plotting assaults against their rivals. The sonic pulse of their breath weapon sows weakness, leaving the victims unable to fight back.
@@ -39,6 +39,8 @@ Use the Sapphire Dragon Personality Traits and Sapphire Dragon Ideals tables to 
 
 ### Sapphire Dragon Personality Traits
 
+`dice: [](adult-sapphire-dragon-ftd.md#^trait)`
+
 | dice: d8 | Trait |
 |----------|-------|
 | 1 | I often fixate on specific historical battles or wars and won't rest until my hoard contains that conflict's most significant artifacts. |
@@ -52,6 +54,8 @@ Use the Sapphire Dragon Personality Traits and Sapphire Dragon Ideals tables to 
 ^trait
 
 ### Sapphire Dragon Ideals
+
+`dice: [](adult-sapphire-dragon-ftd.md#^ideal)`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -68,6 +72,8 @@ Use the Sapphire Dragon Personality Traits and Sapphire Dragon Ideals tables to 
 The Sapphire Dragon Adventure Hooks table offers suggestions for stories and adventures involving sapphire dragons.
 
 ### Sapphire Dragon Adventure Hooks
+
+`dice: [](adult-sapphire-dragon-ftd.md#^adventure-hook)`
 
 | dice: d8 | Adventure Hook |
 |----------|----------------|
@@ -86,6 +92,8 @@ The Sapphire Dragon Adventure Hooks table offers suggestions for stories and adv
 Sapphire dragons are generally solitary creatures. On the rare occasion that one forms nonhostile relationships with other beings, it is almost always to bolster the defenses of the dragon's lair and hoard.
 
 ### Adult Sapphire Dragon Connections
+
+`dice: [](adult-sapphire-dragon-ftd.md#^connected-creatures)`
 
 | dice: d8 | Connected Creatures |
 |----------|---------------------|
@@ -189,9 +197,9 @@ The challenge rating of a legendary sapphire dragon increases by 1 when it's enc
     "name": "Debilitating Breath (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 17):\n\n\
-      **1/day each:** [dissonant whispers](3-Mechanics/CLI/spells/dissonant-whispers.md),\
-      \ [hold monster](3-Mechanics/CLI/spells/hold-monster.md), [meld into stone](3-Mechanics/CLI/spells/meld-into-stone.md),\
-      \ [telekinesis](3-Mechanics/CLI/spells/telekinesis.md)"
+      **1/day each:** [dissonant whispers](3-Mechanics/CLI/spells/dissonant-whispers-xphb.md),\
+      \ [hold monster](3-Mechanics/CLI/spells/hold-monster-xphb.md), [meld into stone](3-Mechanics/CLI/spells/meld-into-stone-xphb.md),\
+      \ [telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md)"
     "name": "Spellcasting (Psionics)"
 "bonus_actions":
   - "desc": "The dragon magically transforms into any creature that is Medium or Small,\
@@ -225,14 +233,14 @@ The challenge rating of a legendary sapphire dragon increases by 1 when it's enc
       - **Crystal Profusion.** Natural stone within 6 miles of the lair grows plentiful\
       \ crystal formations and veins of sapphire gemstones, particularly underground.\
       \  \n- **Stony Sight.** Natural stone within 6 miles of the lair is a conduit\
-      \ for the dragon's psionic presence. As an action, the dragon can cast the [clairvoyance](3-Mechanics/CLI/spells/clairvoyance.md)\
+      \ for the dragon's psionic presence. As an action, the dragon can cast the [clairvoyance](3-Mechanics/CLI/spells/clairvoyance-xphb.md)\
       \ spell, requiring no spell components and targeting any natural stone formation\
       \ in that region.  \n- **Telepathic Enhancement.** The dragon's psionic energy\
       \ enhances the mental powers of other creatures. Any creature capable of telepathic\
       \ communication has its telepathy range doubled while within 1 mile of the lair.\
       \ This includes creatures with innate telepathy and magical telepathy such as\
-      \ the [Rary's telepathic bond](3-Mechanics/CLI/spells/rarys-telepathic-bond.md)\
-      \ spell.  \n- **Thriving Wildlife.** [Giant spiders](3-Mechanics/CLI/bestiary/beast/giant-spider.md)\
+      \ the [Rary's telepathic bond](3-Mechanics/CLI/spells/rarys-telepathic-bond-xphb.md)\
+      \ spell.  \n- **Thriving Wildlife.** [Giant spiders](3-Mechanics/CLI/bestiary/beast/giant-spider-xmm.md)\
       \ (a sapphire dragon's favorite prey) are attracted to the area within 6 miles\
       \ of the lair and settle there in large numbers.  \n\nIf the dragon dies, the\
       \ population of giant spiders in the region returns to normal levels over the\
@@ -255,6 +263,6 @@ The challenge rating of a legendary sapphire dragon increases by 1 when it's enc
     "name": "Telekinetic Fling (Costs 3 Actions)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/adult-sapphire-dragon-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Adult%20Sapphire%20Dragon.webp"
 ```
 ^statblock

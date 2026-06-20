@@ -12,6 +12,8 @@ aliases:
 
 **Cosmic Horror Adventure Sites**
 
+`dice: [](cosmic-horror-adventure-sites-vrgr.md#^cosmic-horror-adventure-sites)`
+
 | dice: d8 | Adventure Site |
 |----------|----------------|
 | 1 | A hidden floor of the royal library |

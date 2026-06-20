@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Stone Giant Statue"
 ---
-# [Stone Giant Statue](3-Mechanics\CLI\bestiary\construct/stone-giant-statue-skt.md)
+# [Stone Giant Statue](3-Mechanics/CLI/bestiary/construct/stone-giant-statue-skt.md)
 *Source: Storm King's Thunder p. 127*  
 
 ```statblock
@@ -52,6 +52,6 @@ aliases:
     "name": "Magic Weapons"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/construct/token/stone-giant-statue-skt.webp"
+"image": "file://bestiary/tokens/SKT/Stone%20Giant%20Statue.webp"
 ```
 ^statblock

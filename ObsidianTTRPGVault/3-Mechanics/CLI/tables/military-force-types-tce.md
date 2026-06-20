@@ -12,6 +12,8 @@ aliases:
 
 **Military Force Types**
 
+`dice: [](military-force-types-tce.md#^military-force-types)`
+
 | dice: d6 | Military Organization |
 |----------|-----------------------|
 | 1 | **Standing Army**. A standing army serves as the highly disciplined and structured guardian of a province or an entire nation. Strict tiers of command ensure coordination between branches of the force. |

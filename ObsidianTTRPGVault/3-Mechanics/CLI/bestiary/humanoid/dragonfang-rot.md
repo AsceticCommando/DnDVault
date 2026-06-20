@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Dragonfang"
 ---
-# [Dragonfang](3-Mechanics\CLI\bestiary\humanoid/dragonfang-rot.md)
+# [Dragonfang](3-Mechanics/CLI/bestiary/humanoid/dragonfang-rot.md)
 *Source: The Rise of Tiamat p. 89, Tyranny of Dragons p. 182*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "human"
 "alignment": "Neutral Evil"
 "ac": !!int "15"
-"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor.md)"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
 "hp": !!int "78"
 "hit_dice": "12d8 + 24"
 "modifier": !!int "3"
@@ -43,7 +43,7 @@ aliases:
     "desc": "+6"
 "damage_resistances": "one of the following: acid, cold, fire, lightning, poison"
 "gear":
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "passive Perception 11"
 "languages": "Common, Draconic, Infernal"
 "cr": "5"
@@ -77,6 +77,6 @@ aliases:
 "source":
   - "RoT"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/dragonfang-rot.webp"
+"image": "file://bestiary/tokens/RoT/Dragonfang.webp"
 ```
 ^statblock

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Ember"
 ---
-# [Ember](3-Mechanics\CLI\bestiary\npc/ember-mcv2dc.md)
+# [Ember](3-Mechanics/CLI/bestiary/npc/ember-mcv2dc.md)
 *Source: Monstrous Compendium Volume 2: Dragonlance Creatures p. 5*  
 
 > [!quote]  
@@ -115,6 +115,6 @@ Empowered by Takhisis herself, Ember's innate fire can sear those nearby, and hi
     "name": "Searing Bite (Costs 2 Actions)"
 "source":
   - "MCV2DC"
-"image": "3-Mechanics/CLI/bestiary/npc/token/ember-mcv2dc.webp"
+"image": "file://bestiary/tokens/MCV2DC/Ember.webp"
 ```
 ^statblock

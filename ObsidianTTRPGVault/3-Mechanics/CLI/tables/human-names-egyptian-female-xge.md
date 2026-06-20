@@ -12,6 +12,8 @@ aliases:
 
 **Human Names – Egyptian, Female**
 
+`dice: [](human-names-egyptian-female-xge.md#^human-names-egyptian-female)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | A'at |

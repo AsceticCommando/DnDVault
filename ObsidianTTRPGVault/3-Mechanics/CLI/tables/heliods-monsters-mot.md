@@ -14,12 +14,12 @@ aliases:
 
 | Challenge | Creature |
 |-----------|----------|
-| 1/8 | [Noble](3-Mechanics/CLI/bestiary/humanoid/noble.md) |
-| 2 | [Centaur](3-Mechanics/CLI/bestiary/monstrosity/centaur.md) |
-| 2 | [Griffon](3-Mechanics/CLI/bestiary/monstrosity/griffon.md) |
-| 2 | [Pegasus](3-Mechanics/CLI/bestiary/celestial/pegasus.md) |
+| 1/8 | [Noble](3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md) |
+| 2 | [Centaur](3-Mechanics/CLI/bestiary/fey/centaur-trooper-xmm.md) |
+| 2 | [Griffon](3-Mechanics/CLI/bestiary/monstrosity/griffon-xmm.md) |
+| 2 | [Pegasus](3-Mechanics/CLI/bestiary/celestial/pegasus-xmm.md) |
 | 3 | [Fleecemane lion](3-Mechanics/CLI/bestiary/monstrosity/fleecemane-lion-mot.md) |
-| 9 | [Cloud giant](3-Mechanics/CLI/bestiary/giant/cloud-giant.md) |
-| 11 | [Roc](3-Mechanics/CLI/bestiary/monstrosity/roc.md) |
-| 23 | [Empyrean](3-Mechanics/CLI/bestiary/celestial/empyrean.md) |
+| 9 | [Cloud giant](3-Mechanics/CLI/bestiary/giant/cloud-giant-xmm.md) |
+| 11 | [Roc](3-Mechanics/CLI/bestiary/monstrosity/roc-xmm.md) |
+| 23 | [Empyrean](3-Mechanics/CLI/bestiary/miscellaneous/empyrean-xmm.md) |
 ^heliods-monsters

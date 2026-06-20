@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Ogre Goblin Hucker"
 ---
-# [Ogre Goblin Hucker](3-Mechanics\CLI\bestiary\giant/ogre-goblin-hucker-skt.md)
+# [Ogre Goblin Hucker](3-Mechanics/CLI/bestiary/giant/ogre-goblin-hucker-skt.md)
 *Source: Storm King's Thunder p. 50*  
 
 ```statblock
@@ -21,7 +21,7 @@ aliases:
 "type": "giant"
 "alignment": "Chaotic Evil"
 "ac": !!int "11"
-"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor.md)"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor-xphb.md)"
 "hp": !!int "59"
 "hit_dice": "7d10 + 21"
 "modifier": !!int "-1"
@@ -34,8 +34,8 @@ aliases:
   - !!int "7"
 "speed": "40 ft."
 "gear":
-  - "[greatclub](3-Mechanics/CLI/items/greatclub.md)"
-  - "[javelin](3-Mechanics/CLI/items/javelin.md)"
+  - "[greatclub](3-Mechanics/CLI/items/greatclub-xphb.md)"
+  - "[javelin](3-Mechanics/CLI/items/javelin-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 8"
 "languages": "Common, Giant"
@@ -55,6 +55,6 @@ aliases:
     "name": "Goblin Projectile"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/giant/token/ogre-goblin-hucker-skt.webp"
+"image": "file://bestiary/tokens/SKT/Ogre%20Goblin%20Hucker.webp"
 ```
 ^statblock

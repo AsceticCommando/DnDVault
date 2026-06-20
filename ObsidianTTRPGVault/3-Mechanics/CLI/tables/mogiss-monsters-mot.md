@@ -14,13 +14,13 @@ aliases:
 
 | Challenge | Creature |
 |-----------|----------|
-| 1 | [Death dog](3-Mechanics/CLI/bestiary/monstrosity/death-dog.md) |
-| 2 | [Berserker](3-Mechanics/CLI/bestiary/humanoid/berserker.md) |
+| 1 | [Death dog](3-Mechanics/CLI/bestiary/monstrosity/death-dog-xmm.md) |
+| 2 | [Berserker](3-Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) |
 | 3 | [Fleecemane lion](3-Mechanics/CLI/bestiary/monstrosity/fleecemane-lion-mot.md) |
-| 3 | [Manticore](3-Mechanics/CLI/bestiary/monstrosity/manticore.md) |
-| 3 | [Minotaur](3-Mechanics/CLI/bestiary/monstrosity/minotaur.md) |
+| 3 | [Manticore](3-Mechanics/CLI/bestiary/monstrosity/manticore-xmm.md) |
+| 3 | [Minotaur](3-Mechanics/CLI/bestiary/monstrosity/minotaur-of-baphomet-xmm.md) |
 | 5 | [Catoblepas](3-Mechanics/CLI/bestiary/monstrosity/catoblepas-mpmm.md)* |
-| 6 | [Cyclops](3-Mechanics/CLI/bestiary/giant/cyclops.md)* |
+| 6 | [Cyclops](3-Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm.md)* |
 | 7 | [Theran chimera](3-Mechanics/CLI/bestiary/monstrosity/theran-chimera-mot.md) |
 | 8 | [Blackguard](3-Mechanics/CLI/bestiary/humanoid/blackguard-mpmm.md) |
 ^mogiss-monsters

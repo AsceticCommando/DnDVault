@@ -12,6 +12,8 @@ aliases:
 
 **Red Dragon Adventure Hooks**
 
+`dice: [](red-dragon-adventures-red-dragon-adventure-hooks-ftd.md#^red-dragon-adventure-hooks)`
+
 | dice: d8 | Adventure Hook |
 |----------|----------------|
 | 1 | A red dragon has spent years hunting a stolen treasure, which has fallen into the hands of adventurers who have no idea where it came from. |

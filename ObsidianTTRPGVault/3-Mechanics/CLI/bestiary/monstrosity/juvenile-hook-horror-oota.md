@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Juvenile Hook Horror"
 ---
-# [Juvenile Hook Horror](3-Mechanics\CLI\bestiary\monstrosity/juvenile-hook-horror-oota.md)
+# [Juvenile Hook Horror](3-Mechanics/CLI/bestiary/monstrosity/juvenile-hook-horror-oota.md)
 *Source: Out of the Abyss p. 34*  
 
 ```statblock
@@ -54,6 +54,6 @@ aliases:
     "name": "Hook"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/juvenile-hook-horror-oota.webp"
+"image": "file://bestiary/tokens/OotA/Juvenile%20Hook%20Horror.webp"
 ```
 ^statblock

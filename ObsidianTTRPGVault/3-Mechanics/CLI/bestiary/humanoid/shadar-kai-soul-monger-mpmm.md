@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Shadar-kai Soul Monger"
 ---
-# [Shadar-kai Soul Monger](3-Mechanics\CLI\bestiary\humanoid/shadar-kai-soul-monger-mpmm.md)
+# [Shadar-kai Soul Monger](3-Mechanics/CLI/bestiary/humanoid/shadar-kai-soul-monger-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 214, Mordenkainen's Tome of Foes p. 226*  
 
 Wracked with despair over the loss of memories of a brighter time, soul mongers crave the vitality of others. The aching void within a soul monger radiates outward, manifesting as an unbearable weight that drains the vigor of anyone unfortunate enough to be in their presence. Those who have escaped the onslaught of a soul monger can hardly shake the memory of the sound they make—the moan of a tortured soul, lost in a bottomless well of tragedy.
@@ -42,7 +42,7 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
 "subtype": "elf"
 "alignment": "Typically  Neutral Evil"
 "ac": !!int "15"
-"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor.md)"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
 "hp": !!int "136"
 "hit_dice": "21d8 + 42"
 "modifier": !!int "3"
@@ -100,14 +100,14 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
     "name": "Wave of Weariness (Recharge 4-6)"
   - "desc": "The shadar-kai casts one of the following spells, requiring no material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 16):\n\n**1/day each:** [bestow curse](3-Mechanics/CLI/spells/bestow-curse.md),\
-      \ [finger of death](3-Mechanics/CLI/spells/finger-of-death.md), [gaseous form](3-Mechanics/CLI/spells/gaseous-form.md),\
-      \ [seeming](3-Mechanics/CLI/spells/seeming.md)"
+      \ DC 16):\n\n**1/day each:** [bestow curse](3-Mechanics/CLI/spells/bestow-curse-xphb.md),\
+      \ [finger of death](3-Mechanics/CLI/spells/finger-of-death-xphb.md), [gaseous\
+      \ form](3-Mechanics/CLI/spells/gaseous-form-xphb.md), [seeming](3-Mechanics/CLI/spells/seeming-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/shadar-kai-soul-monger-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Shadar-kai%20Soul%20Monger.webp"
 ```
 ^statblock
 

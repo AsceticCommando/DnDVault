@@ -12,6 +12,8 @@ aliases:
 
 **NPC Bonds**
 
+`dice: [](npc-bonds.md#^npc-bonds)`
+
 | dice: d10 | Bond |
 |-----------|------|
 | 1 | Dedicated to fulfilling a personal life goal |

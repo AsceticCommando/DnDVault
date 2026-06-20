@@ -12,6 +12,8 @@ aliases:
 
 **Giant Ideals**
 
+`dice: [](roleplaying-a-giant-giant-ideals-vgm.md#^giant-ideals)`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | The Ordning. Annam created the ordning for the good of all giants, and it's our duty to uphold his vision. (Lawful) |

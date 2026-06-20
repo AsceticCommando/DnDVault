@@ -12,6 +12,8 @@ aliases:
 
 **Suppressed Memories**
 
+`dice: [](lost-memories-suppressed-memories-vrgr.md#^suppressed-memories)`
+
 | dice: d6 | Memory |
 |----------|--------|
 | 1 | You're paralyzed on a cold table. Clicking sounds surround you. Pallid tentacles slither toward your face, each ending in gleaming surgical instruments. What are they trying to do? |

@@ -12,6 +12,8 @@ aliases:
 
 **Human Names – Polynesian, Male**
 
+`dice: [](human-names-polynesian-male-xge.md#^human-names-polynesian-male)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Afa |

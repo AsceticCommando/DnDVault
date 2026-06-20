@@ -11,8 +11,8 @@ aliases:
 
 ## Cantrip
 
-- [Mending](3-Mechanics/CLI/spells/mending.md "PHB") as cantrip
+- [Mending](3-Mechanics/CLI/spells/mending-xphb.md "XPHB") as cantrip
 
 ## 1st Level
 
-- [Shield of Faith](3-Mechanics/CLI/spells/shield-of-faith.md "PHB") as cantrip
+- [Shield of Faith](3-Mechanics/CLI/spells/shield-of-faith-xphb.md "XPHB")

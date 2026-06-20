@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Oracle"
 ---
-# [Oracle](3-Mechanics\CLI\bestiary\humanoid/oracle-mot.md)
+# [Oracle](3-Mechanics/CLI/bestiary/humanoid/oracle-mot.md)
 *Source: Mythic Odysseys of Theros p. 238*  
 
 Oracles posses the ability to interpret the patterns and language of Nyx, divining from it the flow of fates and the will of the gods. Most of these gifted—or cursed—mortals communicate with a single god, interpreting their intentions for the wider world. Others aren't aligned with a god and observe the night sky, reading Nyx like a vast, cryptic scroll for insights.
@@ -51,11 +51,11 @@ Oracles posses the ability to interpret the patterns and language of Nyx, divini
 "traits":
   - "desc": "The oracle's spellcasting ability is Wisdom (spell save DC 13, +5 to\
       \ hit with spell attacks). It can innately cast the following spells, requiring\
-      \ no material components:\n\n**At will:** [guidance](3-Mechanics/CLI/spells/guidance.md),\
-      \ [light](3-Mechanics/CLI/spells/light.md), [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy.md)\n\
-      \n**3/day each:** [bless](3-Mechanics/CLI/spells/bless.md), [guiding bolt](3-Mechanics/CLI/spells/guiding-bolt.md),\
-      \ [healing word](3-Mechanics/CLI/spells/healing-word.md), [hold person](3-Mechanics/CLI/spells/hold-person.md)\n\
-      \n**1/day each:** [augury](3-Mechanics/CLI/spells/augury.md), [scrying](3-Mechanics/CLI/spells/scrying.md)"
+      \ no material components:\n\n**At will:** [guidance](3-Mechanics/CLI/spells/guidance-xphb.md),\
+      \ [light](3-Mechanics/CLI/spells/light-xphb.md), [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
+      \n**3/day each:** [bless](3-Mechanics/CLI/spells/bless-xphb.md), [guiding bolt](3-Mechanics/CLI/spells/guiding-bolt-xphb.md),\
+      \ [healing word](3-Mechanics/CLI/spells/healing-word-xphb.md), [hold person](3-Mechanics/CLI/spells/hold-person-xphb.md)\n\
+      \n**1/day each:** [augury](3-Mechanics/CLI/spells/augury-xphb.md), [scrying](3-Mechanics/CLI/spells/scrying-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "While the oracle is wearing no armor and wielding no shield, its AC includes\
       \ its Wisdom modifier. In addition, a creature that hits the oracle with a melee\
@@ -72,6 +72,6 @@ Oracles posses the ability to interpret the patterns and language of Nyx, divini
     "name": "Divine Insight (3/Day)"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/oracle-mot.webp"
+"image": "file://bestiary/tokens/MOT/Oracle.webp"
 ```
 ^statblock

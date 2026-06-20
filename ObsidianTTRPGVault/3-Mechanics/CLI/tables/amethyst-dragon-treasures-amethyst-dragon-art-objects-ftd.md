@@ -12,6 +12,8 @@ aliases:
 
 **Amethyst Dragon Art Objects**
 
+`dice: [](amethyst-dragon-treasures-amethyst-dragon-art-objects-ftd.md#^amethyst-dragon-art-objects)`
+
 | dice: d8 | Object |
 |----------|--------|
 | 1 | A complex orrery of the planes of existence made of engraved movable plates of precious metals and set with gemstones |

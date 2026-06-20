@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Drow Scout"
 ---
-# [Drow Scout](3-Mechanics\CLI\bestiary\humanoid/drow-scout-oota.md)
+# [Drow Scout](3-Mechanics/CLI/bestiary/humanoid/drow-scout-oota.md)
 *Source: Out of the Abyss p. 191*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Neutral Evil"
 "ac": !!int "13"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "16"
 "hit_dice": "3d8 + 3"
 "modifier": !!int "2"
@@ -44,16 +44,17 @@ aliases:
   - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+5"
 "gear":
-  - "[longbow](3-Mechanics/CLI/items/longbow.md)"
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[longbow](3-Mechanics/CLI/items/longbow-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
   \ Perception 15"
 "languages": "any one language (usually Common), Elvish, Undercommon"
 "cr": "1/2"
 "traits":
-  - "desc": "The drow scout\n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md)\n\
-      \n**1/day each:** [darkness](3-Mechanics/CLI/spells/darkness.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md),\
-      \ [levitate](3-Mechanics/CLI/spells/levitate.md) (self only)"
+  - "desc": "The drow scout\n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md)\n\
+      \n**1/day each:** [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [faerie\
+      \ fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md), [levitate](3-Mechanics/CLI/spells/levitate-xphb.md)\
+      \ (self only)"
     "name": "Innate Spellcasting"
   - "desc": "The scout has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
       \ checks that rely on hearing or sight."
@@ -73,6 +74,6 @@ aliases:
     "name": "Longbow"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/drow-scout-oota.webp"
+"image": "file://bestiary/tokens/OotA/Drow%20Scout.webp"
 ```
 ^statblock

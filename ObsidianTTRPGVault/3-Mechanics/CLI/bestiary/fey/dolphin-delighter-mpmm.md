@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Dolphin Delighter"
 ---
-# [Dolphin Delighter](3-Mechanics\CLI\bestiary\fey/dolphin-delighter-mpmm.md)
+# [Dolphin Delighter](3-Mechanics/CLI/bestiary/fey/dolphin-delighter-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 97*  
 
 In the Feywild, dolphin delighters brighten the moods of those who travel the seas of the Domains of Delight. Telepathically singing sea chanteys, these dolphins leap and teleport through the luminous waters of Faerie and the Material Plane, and they are faithful allies to any who battle the forces of gloom and brutality under the waves.
@@ -77,7 +77,7 @@ Dolphins are clever, social marine mammals that feed on small fish and squid. An
     "name": "Fey Leap"
 "source":
   - "MPMM"
-"image": "3-Mechanics/CLI/bestiary/fey/token/dolphin-delighter-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Dolphin%20Delighter.webp"
 ```
 ^statblock
 

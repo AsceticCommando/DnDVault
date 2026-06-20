@@ -24,7 +24,7 @@ Work on the runic colossus is almost complete. Unless capable heroes arrive to r
 
 > [!note] Design Note
 > 
-> If you have "Glory of the Giants", you can follow along with the process we used to create this adventure. The basic adventure seed—"a fire giant captures a renowned Humanoid smith"—comes from the Fire Giant Skill table ("chapter 2"), with additional inspiration from the ""Magnum Opus"" adventure idea connected to the "Star Forge" ("chapter 4"). The name of the giant villain comes from the Giant Names table (chapter 2), and the encounters within the Star Forge are inspired by the Fire Giant Encounters table ("chapter 3") and the Elemental Fire Encounters table (chapter 3). The "map of the Star Forge" is in chapter 4. The giant wrestlers of Fireside Monastery are firbolgs ("chapter 6"), and several other monsters in the adventure come from the bestiary in chapter 6 (cinder hulk; fire giant forgecaller; fire giant of Evil Fire). Information about fire giant bags ("chapter 5") fills out the treasure characters might acquire along the way.
+> If you have "Glory of the Giants", you can follow along with the process we used to create this adventure. The basic adventure seed—"a fire giant captures a renowned Humanoid smith"—comes from the [Fire Giant Skill table](3-Mechanics/CLI/tables/the-ordning-fire-giant-skill-bgg.md) ("chapter 2"), with additional inspiration from the ""Magnum Opus"" adventure idea connected to the "Star Forge" ("chapter 4"). The name of the giant villain comes from the [Giant Names table](3-Mechanics/CLI/tables/giants-names-bgg.md) (chapter 2), and the encounters within the Star Forge are inspired by the [Fire Giant Encounters table](3-Mechanics/CLI/tables/fire-giant-encounters-bgg.md) ("chapter 3") and the [Elemental Fire Encounters table](3-Mechanics/CLI/tables/elemental-fire-encounters-bgg.md) (chapter 3). The "map of the Star Forge" is in chapter 4. The giant wrestlers of Fireside Monastery are firbolgs ("chapter 6"), and several other monsters in the adventure come from the bestiary in chapter 6 ([cinder hulk](3-Mechanics/CLI/bestiary/elemental/cinder-hulk-bgg.md); [fire giant forgecaller](3-Mechanics/CLI/bestiary/giant/fire-giant-forgecaller-bgg.md); [fire giant of Evil Fire](3-Mechanics/CLI/bestiary/giant/fire-giant-of-evil-fire-bgg.md)). Information about [fire giant bags](3-Mechanics/CLI/tables/fire-giant-bag-contents-fire-giant-bag-items-bgg.md) ("chapter 5") fills out the treasure characters might acquire along the way.
 ^design-note
 
 ## Running This Adventure
@@ -44,7 +44,7 @@ If the prospect of doing a good deed isn't enough to entice the characters, you 
 
 ## Getting Started
 
-The adventure begins when the characters are approached by a knight named Evin Giltall (lawful good, human [knight](3-Mechanics/CLI/bestiary/humanoid/knight.md)). Evin beseeches the characters to rescue his uncle Theldin, who was kidnapped by a fire giant named Brimskarda.
+The adventure begins when the characters are approached by a knight named Evin Giltall (lawful good, human [knight](3-Mechanics/CLI/bestiary/humanoid/knight-xmm.md)). Evin beseeches the characters to rescue his uncle Theldin, who was kidnapped by a fire giant named Brimskarda.
 
 In the course of their conversation, Evin conveys the following points to the characters:
 
@@ -62,7 +62,7 @@ The Fireside Monastery is the name of an ancient stone cloister about ten miles 
 
 ### Fireside Giant Wrestlers
 
-A Fireside giant wrestler uses the firbolg wanderer stat block (see the appendix).
+A Fireside giant wrestler uses the [firbolg wanderer](3-Mechanics/CLI/bestiary/humanoid/firbolg-wanderer-bgg.md) stat block (see the appendix).
 
 ### Meeting Diasma
 
@@ -110,23 +110,23 @@ As long as at least one character wins a contest, the party earns that contest's
 
 Diasma leads the party to the base of a 100-foot-tall cliff. A series of hempen ropes dangle from the clifftop. Each competitor must climb one of these ropes. The first competitor to reach the clifftop wins the contest. A competitor who stops touching one of the ropes at any point is disqualified.
 
-At the start of the contest's second round, wrestlers atop the cliff dribble boiling oil down each rope. A creature that starts its turn holding onto the oily rope takes 5 (`2d4`) fire damage, or half as much damage with a successful DC 10 Dexterity saving throw. A creature must succeed on a DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check to climb an oily rope. Failing this check by 5 or more causes the creature to fall.
+At the start of the contest's second round, wrestlers atop the cliff dribble boiling oil down each rope. A creature that starts its turn holding onto the oily rope takes `dice:2d4|noform|noparens|avg|text(5)` (`2d4`) fire damage, or half as much damage with a successful DC 10 Dexterity saving throw. A creature must succeed on a DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check to climb an oily rope. Failing this check by 5 or more causes the creature to fall.
 
 ##### Prize
 
-If a character wins the contest of fire giant's spirit, Diasma awards the party a [potion of fire giant strength](3-Mechanics/CLI/items/potion-of-fire-giant-strength.md).
+If a character wins the contest of fire giant's spirit, Diasma awards the party a [potion of fire giant strength](3-Mechanics/CLI/items/potion-of-fire-giant-strength-xdmg.md).
 
 #### Cloud Giant's Grace
 
 Each competitor must carry a 200-pound boulder across a 150-foot-wide lava field. If the boulder touches the ground, the competitor is disqualified. The first competitor to reach the other end of the lava field without dropping the boulder wins the contest.
 
-The lava field is a smooth tract of hardened lava that still smolders with intense heat. A creature that ends its turn touching the ground of the lava field takes 21 (`6d6`) fire damage.
+The lava field is a smooth tract of hardened lava that still smolders with intense heat. A creature that ends its turn touching the ground of the lava field takes `dice:6d6|noform|noparens|avg|text(21)` (`6d6`) fire damage.
 
 At the start of the contest's second round, a volcano erupts, sending large boulders crashing down the mountainside. At the start of each competitor's turn, the competitor must succeed on a DC 14 Dexterity saving throw or have the [prone](3-Mechanics/CLI/rules/conditions.md#Prone) condition. The boulders settle across the lava field at the end of the second round, creating potential safe spots for competitors to jump between to avoid touching the lava field.
 
 ##### Prize
 
-If a character wins the contest of cloud giant's grace, Diasma awards the party a [potion of flying](3-Mechanics/CLI/items/potion-of-flying.md).
+If a character wins the contest of cloud giant's grace, Diasma awards the party a [potion of flying](3-Mechanics/CLI/items/potion-of-flying-xdmg.md).
 
 #### Stone Giant's Resolve
 
@@ -138,7 +138,7 @@ This is a contest of willpower, not fortitude. The crashing waterfall is almost 
 
 ##### Prize
 
-If a character wins the contest of stone giant's resolve, Diasma awards the party a [Quaal's feather token (tree)](3-Mechanics/CLI/items/quaals-feather-token-tree.md).
+If a character wins the contest of stone giant's resolve, Diasma awards the party a [Quaal's feather token (tree)](3-Mechanics/CLI/items/quaals-feather-token-tree-xdmg.md).
 
 #### Concluding the Contests
 
@@ -152,7 +152,7 @@ From the Fireside Monastery, it's a three-hour hike to the crater's rim.
 
 ### Battle on the Crater Rim
 
-On the rim of the Star Forge's crater, four [fire giants](3-Mechanics/CLI/bestiary/giant/fire-giant.md) harry the [adult red dragon](3-Mechanics/CLI/bestiary/dragon/adult-red-dragon.md) Akaanvaerd. The five combatants move around the crater's rim while fighting, effectively patrolling the perimeter. If the characters don't want to alert these enemies to their presence at the Star Forge, they need to sneak toward the crater's floor.
+On the rim of the Star Forge's crater, four [fire giants](3-Mechanics/CLI/bestiary/giant/fire-giant-xmm.md) harry the [adult red dragon](3-Mechanics/CLI/bestiary/dragon/adult-red-dragon-xmm.md) Akaanvaerd. The five combatants move around the crater's rim while fighting, effectively patrolling the perimeter. If the characters don't want to alert these enemies to their presence at the Star Forge, they need to sneak toward the crater's floor.
 
 To sneak into the crater unseen, the party must make a group Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) check. The DC is 23 to avoid the notice of Akaanvaerd. On a failed check, Akaanvaerd spots the characters, but he doesn't pursue them immediately. At your discretion, the dragon might arrive at the Star Forge just in time to complicate (or simplify, depending on how things go) the party's encounter with Brimskarda.
 
@@ -181,14 +181,14 @@ Read aloud the following to describe what the characters see in the crater:
 > You stand atop a roughly circular ridge nestled into the mountainside. The ridge overlooks a massive crater, in the center of which is a stone structure that glows brightly from within. A shallow lake surrounds the island on which the stone structure stands. Similar, smaller structures dot the lake's shore. The way into the crater's basin is a hazardous slope of loose scree.
 ^01e
 
-From the crater's rim, it's a 150-foot descent to the lake's edge. The safest path to the lake is a series of switchbacks along the crater's southern slope; a character can spot these switchbacks with a successful DC 12 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. Characters who take this path arrive at the crater floor just south of area 1 (see the "Star Forge Locations" section). A creature that travels by foot along any other part of the slope must succeed on a DC 12 Dexterity ([Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)) check to maintain its balance on the hazardous scree. On a failed check, the creature tumbles down the steep slope; the creature takes 21 (`6d6`) bludgeoning damage and has the [prone](3-Mechanics/CLI/rules/conditions.md#Prone) condition when it reaches the crater floor.
+From the crater's rim, it's a 150-foot descent to the lake's edge. The safest path to the lake is a series of switchbacks along the crater's southern slope; a character can spot these switchbacks with a successful DC 12 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. Characters who take this path arrive at the crater floor just south of area 1 (see the "Star Forge Locations" section). A creature that travels by foot along any other part of the slope must succeed on a DC 12 Dexterity ([Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)) check to maintain its balance on the hazardous scree. On a failed check, the creature tumbles down the steep slope; the creature takes `dice:6d6|noform|noparens|avg|text(21)` (`6d6`) bludgeoning damage and has the [prone](3-Mechanics/CLI/rules/conditions.md#Prone) condition when it reaches the crater floor.
 
 ### Star Forge Features
 
 Areas around the Star Forge share the following features:
 
 - **Ceilings.** The ceiling inside the Star Forge is 100 feet high. Ceilings in any of the shelters around the lake are 50 feet high.  
-- **Light.** The forge itself is a great housing of iron. Pipes extend from a central vessel, channeling the radiance of the forge into a vent so bright it's painful to look at. Giant runes etched on the iron flare with white light. The Star Forge sheds bright light for 100 feet and dim light for another 100 feet. An Undead that starts its turn in the bright light takes 3 (`1d6`) radiant damage. On a clear night, the light is visible for 300 miles.  
+- **Light.** The forge itself is a great housing of iron. Pipes extend from a central vessel, channeling the radiance of the forge into a vent so bright it's painful to look at. Giant runes etched on the iron flare with white light. The Star Forge sheds bright light for 100 feet and dim light for another 100 feet. An Undead that starts its turn in the bright light takes `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) radiant damage. On a clear night, the light is visible for 300 miles.  
 - **Walls.** The walls of the Star Forge and the shelters around the lake are made from stone reinforced with iron. A 5-foot section of wall has AC 18, 20 hit points, and immunity to poison and psychic damage.  
 
 ### Star Forge Locations
@@ -196,8 +196,8 @@ Areas around the Star Forge share the following features:
 These locations are keyed to the map.
 
 > [!gallery]
-> ![Map: Star Forge](3-Mechanics/CLI/adventures/giants-of-the-star-forge/img/000-map-0-01-star-forge.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/giants-of-the-star-forge/img/001-map-0-01-star-forge-player.webp#gallery)
+> ![Map: Star Forge](file://adventure/GotSF/000-map-0.01-star-forge.webp#gallery)
+> ![Player Version](file://adventure/GotSF/001-map-0.01-star-forge-player.webp#gallery)
 
 #### 1: Broken Bridge
 
@@ -206,7 +206,7 @@ These locations are keyed to the map.
 > Crumbling piers and shattered bits of arches are all that remain of this broken stone bridge.
 ^022
 
-When the characters reach the bridge, three apparitions of acidic mist float up from the lake below to meet the party. The apparitions are vaguely human-shaped and are hostile toward the characters. Each [apparition](3-Mechanics/CLI/bestiary/elemental/acidic-mist-apparition-gotsf.md) uses the [air elemental](3-Mechanics/CLI/bestiary/elemental/air-elemental.md) stat block with the following changes:
+When the characters reach the bridge, three apparitions of acidic mist float up from the lake below to meet the party. The apparitions are vaguely human-shaped and are hostile toward the characters. Each [apparition](3-Mechanics/CLI/bestiary/elemental/acidic-mist-apparition-gotsf.md) uses the [air elemental](3-Mechanics/CLI/bestiary/elemental/air-elemental-xmm.md) stat block with the following changes:
 
 - The apparition has immunity to acid damage.  
 - The apparition's Slam attack deals acid damage instead of bludgeoning damage.  
@@ -224,7 +224,7 @@ The compromised runestone in area 5 has enabled some of the fallen star beneath 
 
 ##### Acidic Fumes
 
-A creature that starts its turn within 10 feet of the water's edge or anywhere in the air within 100 feet above the water must make a DC 15 Constitution saving throw, taking 21 (`6d6`) acid damage on a failed save, or half as much damage on a successful one. A creature that starts its turn submerged in the water takes 42 (`12d6`) acid damage.
+A creature that starts its turn within 10 feet of the water's edge or anywhere in the air within 100 feet above the water must make a DC 15 Constitution saving throw, taking `dice:6d6|noform|noparens|avg|text(21)` (`6d6`) acid damage on a failed save, or half as much damage on a successful one. A creature that starts its turn submerged in the water takes `dice:12d6|noform|noparens|avg|text(42)` (`12d6`) acid damage.
 
 #### 3: Iron Shelter
 
@@ -233,11 +233,11 @@ A creature that starts its turn within 10 feet of the water's edge or anywhere i
 > This massive iron dwelling sports large doors, furniture, and fixtures. The building is divided into two chambers: a long bedchamber to the north and a workshop to the south. A simple furnace—its light and heat humble compared to the Star Forge—fills one wall of the southern chamber. Heaped in a pile near the furnace are metal building materials, gigantic pieces of rusty armor, and a variety of oversized trinkets clearly made for giants. Two massive figures toil at the furnace.
 ^027
 
-Two cinder hulks (see the appendix) loyal to Brimskarda stoke the forge in this shelter's southern room. They've been ordered to collect metal scraps from around the lake, melt them down into ingots, and transfer the ingots to the Star Forge. The cinder hulks are hostile toward the characters and attack them immediately.
+Two [cinder hulks](3-Mechanics/CLI/bestiary/elemental/cinder-hulk-bgg.md) (see the appendix) loyal to Brimskarda stoke the forge in this shelter's southern room. They've been ordered to collect metal scraps from around the lake, melt them down into ingots, and transfer the ingots to the Star Forge. The cinder hulks are hostile toward the characters and attack them immediately.
 
 ##### Treasure
 
-A character who searches the pile of trinkets finds two [rings of resistance (acid)](3-Mechanics/CLI/items/ring-of-acid-resistance.md) sized for fire giants. A Medium or Small Humanoid can wear one of these rings like a bangle.
+A character who searches the pile of trinkets finds two [rings of resistance (acid)](3-Mechanics/CLI/items/ring-of-acid-resistance-xdmg.md) sized for fire giants. A Medium or Small Humanoid can wear one of these rings like a bangle.
 
 Also within the pile is a stone medallion the size of a dinner plate, inscribed with the fire rune. A character can repair the cracked runestone in area 5 by removing the runestone and replacing it with this medallion.
 
@@ -254,7 +254,7 @@ The other shelters around the lake have similar features and lie in different st
 > "None shall pass," the giant intones. At these words, two serpentine creatures of living flame slither to join her side.
 ^02b
 
-Brimskarda's most trusted companion, her sister Zohelm, guards the path to the Star Forge. Zohelm is a fire giant of evil fire (see the appendix), and she is accompanied by two [salamanders](3-Mechanics/CLI/bestiary/elemental/salamander.md) she summoned from the Elemental Plane of Fire. The three guard the area of the island south of the Star Forge and stamp out any intruders they find. They particularly enjoy driving enemies toward the nearby lake and throwing them into its acidic waters.
+Brimskarda's most trusted companion, her sister Zohelm, guards the path to the Star Forge. Zohelm is a [fire giant of evil fire](3-Mechanics/CLI/bestiary/giant/fire-giant-of-evil-fire-bgg.md) (see the appendix), and she is accompanied by two [salamanders](3-Mechanics/CLI/bestiary/elemental/salamander-xmm.md) she summoned from the Elemental Plane of Fire. The three guard the area of the island south of the Star Forge and stamp out any intruders they find. They particularly enjoy driving enemies toward the nearby lake and throwing them into its acidic waters.
 
 ##### Treasure
 
@@ -275,7 +275,7 @@ Each pillar has AC 16, 30 hit points, and immunity to poison and psychic damage.
 
 A character who knows the Giant language can repair the cracked runestone with a successful DC 15 Dexterity check using either mason's tools or the [Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand) skill. Failing the check causes the runestone to break. Alternatively, any character can remove the cracked runestone and replace it with the stone medallion in area 3 (see "Treasure").
 
-If the runestone is repaired, the light seeping from the pillar dims, and the wards containing the fallen star restabilize. Any acid damage dealt by the acidic lake water (see area 2) is halved. After `1d10` days, the lake's water becomes safe to drink.
+If the runestone is repaired, the light seeping from the pillar dims, and the wards containing the fallen star restabilize. Any acid damage dealt by the acidic lake water (see area 2) is halved. After `dice:1d10|noform|noparens|avg` (`1d10`) days, the lake's water becomes safe to drink.
 
 If the runestone breaks, the light of the fallen star beneath the Star Forge shines even more intensely, and more acid seeps from the star into the surrounding lake. The Star Forge sheds bright light for 200 feet and dim light for another 200 feet. Any acid damage dealt by the acidic lake water (see area 2) is doubled.
 
@@ -293,7 +293,7 @@ If the characters haven't yet faced Brimskarda, add the following when you descr
 > A heavily armored giant with iron-gray skin and brassy hair hammers a piece of red-hot metal at the anvil. Like the human, she wears dark-tinted goggles to protect her eyes from the blinding light of the furnace.
 ^032
 
-The giant smith is Brimskarda, a lawful evil fire giant forgecaller (see the appendix). Theldin (neutral good, human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md)) toils alongside his kidnapper, performing the work that requires finer movements.
+The giant smith is Brimskarda, a lawful evil [fire giant forgecaller](3-Mechanics/CLI/bestiary/giant/fire-giant-forgecaller-bgg.md) (see the appendix). Theldin (neutral good, human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) toils alongside his kidnapper, performing the work that requires finer movements.
 
 Brimskarda has no interest in negotiating with the characters or bartering for Theldin's freedom. All she wants is to reaffirm her lofty position in the ordning. To achieve her goal, she requires Theldin's expert, nimble hands. Together the smiths will soon complete what Brimskarda is sure will be her magnum opus: a titanic war machine called a runic colossus. Theldin fears for his life and therefore does whatever Brimskarda demands.
 
@@ -301,7 +301,7 @@ Brimskarda stays close to the furnace, knowing that her immunity to its intense 
 
 ##### Blinding Furnace
 
-A creature that starts its turn within 60 feet of the furnace must succeed on a DC 15 Constitution saving throw or take 22 (`4d10`) fire damage and have the [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) condition until the start of the creature's next turn. On a successful save, the creature takes half as much damage only.
+A creature that starts its turn within 60 feet of the furnace must succeed on a DC 15 Constitution saving throw or take `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) fire damage and have the [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) condition until the start of the creature's next turn. On a successful save, the creature takes half as much damage only.
 
 Brimskarda and Theldin wear protective goggles that make them immune to the furnace's blinding light. Brimskarda is immune to fire damage. The shackle Theldin wears is magical; as long as the shackle is within 120 feet of the Star Forge, its wearer is immune to fire damage.
 
@@ -323,7 +323,7 @@ If the characters free Theldin, he insists they help him destroy the runic colos
 
 ## Conclusion
 
-Once the characters free Theldin and return the smith to his home, they've completed their quest and earned their reward. If the characters didn't already coax such a promise from Evin at the adventure's outset, Theldin offers to craft a magic weapon or suit of armor for his saviors. This could be a [+2 weapon](3-Mechanics/CLI/items/2-weapon.md), a suit of [+1 armor](3-Mechanics/CLI/items/1-armor.md), or some other rare magic item of your choice.
+Once the characters free Theldin and return the smith to his home, they've completed their quest and earned their reward. If the characters didn't already coax such a promise from Evin at the adventure's outset, Theldin offers to craft a magic weapon or suit of armor for his saviors. This could be a [+2 weapon](3-Mechanics/CLI/items/2-weapon-xdmg.md), a suit of [+1 armor](3-Mechanics/CLI/items/1-armor-xdmg.md), or some other rare magic item of your choice.
 
 If Theldin doesn't return home safely, Evin and other members of the city's royalty build a funerary pyre to honor the smith and mourn his loss. Evin thanks the characters for their efforts but cannot give them a reward; the city must preserve all the wealth it can now that its prized smith is gone.
 
@@ -333,7 +333,7 @@ In the event of Brimskarda's death, the dragon Akaanvaerd once again claims the 
 
 ## Appendix
 
-- Cinder Hulk  
-- Firbolg Wanderer  
-- Fire Giant Forgecaller  
-- Fire Giant of Evil Fire
+- [Cinder Hulk](3-Mechanics/CLI/bestiary/elemental/cinder-hulk-bgg.md)  
+- [Firbolg Wanderer](3-Mechanics/CLI/bestiary/humanoid/firbolg-wanderer-bgg.md)  
+- [Fire Giant Forgecaller](3-Mechanics/CLI/bestiary/giant/fire-giant-forgecaller-bgg.md)  
+- [Fire Giant of Evil Fire](3-Mechanics/CLI/bestiary/giant/fire-giant-of-evil-fire-bgg.md)

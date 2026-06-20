@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Nevermind Gnome Mastermind"
 ---
-# [Nevermind Gnome Mastermind](3-Mechanics\CLI\bestiary\humanoid/nevermind-gnome-mastermind-mcv2dc.md)
+# [Nevermind Gnome Mastermind](3-Mechanics/CLI/bestiary/humanoid/nevermind-gnome-mastermind-mcv2dc.md)
 *Source: Monstrous Compendium Volume 2: Dragonlance Creatures p. 11*  
 
 The gnome masterminds of Mount Nevermind temper their creativity with years of experience. While they still create wild inventions on a whim, these masterminds also wield at least one more stable clockwork invention—typically something that affords the mastermind more movement, extends their reach with extra appendages, or both.
@@ -27,7 +27,7 @@ Mount Nevermind is a hollow, dormant volcano on the island of Sancrist in Krynn.
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "15"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "82"
 "hit_dice": "15d6 + 30"
 "modifier": !!int "4"
@@ -94,6 +94,6 @@ Mount Nevermind is a hollow, dormant volcano on the island of Sancrist in Krynn.
     "name": "Thunderscream"
 "source":
   - "MCV2DC"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/nevermind-gnome-mastermind-mcv2dc.webp"
+"image": "file://bestiary/tokens/MCV2DC/Nevermind%20Gnome%20Mastermind.webp"
 ```
 ^statblock

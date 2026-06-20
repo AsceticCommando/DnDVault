@@ -11,4 +11,4 @@ aliases:
 
 ## 5th Level
 
-- [Wall of Stone](3-Mechanics/CLI/spells/wall-of-stone.md "PHB")
+- [Wall of Stone](3-Mechanics/CLI/spells/wall-of-stone-xphb.md "XPHB")

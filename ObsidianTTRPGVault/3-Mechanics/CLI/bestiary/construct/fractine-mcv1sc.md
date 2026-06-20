@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Fractine"
 ---
-# [Fractine](3-Mechanics\CLI\bestiary\construct/fractine-mcv1sc.md)
+# [Fractine](3-Mechanics/CLI/bestiary/construct/fractine-mcv1sc.md)
 *Source: Monstrous Compendium Volume 1: Spelljammer Creatures p. 7*  
 
 > [!quote] A quote from Emilou the Charismatic, Warlock and Scion of Acamar  
@@ -69,8 +69,8 @@ Bludgeoning, piercing, slashing, and thunder damage can cause a fractine to brea
       \ magical effects."
     "name": "Magic Resistance"
   - "desc": "A spellcaster can use the fractine as a substitute focus when casting\
-      \ the [scrying](3-Mechanics/CLI/spells/scrying.md) spell or similar magic, provided\
-      \ the spellcaster and the fractine are within 5 feet of each other."
+      \ the [scrying](3-Mechanics/CLI/spells/scrying-xphb.md) spell or similar magic,\
+      \ provided the spellcaster and the fractine are within 5 feet of each other."
     "name": "Scrying Focus"
   - "desc": "The fractine can occupy another creature's space and vice versa. It can\
       \ move through other creatures and objects as if they were difficult terrain,\
@@ -96,7 +96,7 @@ Bludgeoning, piercing, slashing, and thunder damage can cause a fractine to brea
       \ demiplane is released instantly. A released creature reappears in an unoccupied\
       \ space as close to the fractine (or where it died) as possible. A creature\
       \ can leave the demiplane on its own by using magic that enables planar travel,\
-      \ such as the [plane shift](3-Mechanics/CLI/spells/plane-shift.md) spell."
+      \ such as the [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md) spell."
     "name": "Imprison"
 "reactions":
   - "desc": "In response to being damaged by a creature it can see within 120 feet\
@@ -114,6 +114,6 @@ Bludgeoning, piercing, slashing, and thunder damage can cause a fractine to brea
     "name": "Split"
 "source":
   - "MCV1SC"
-"image": "3-Mechanics/CLI/bestiary/construct/token/fractine-mcv1sc.webp"
+"image": "file://bestiary/tokens/MCV1SC/Fractine.webp"
 ```
 ^statblock

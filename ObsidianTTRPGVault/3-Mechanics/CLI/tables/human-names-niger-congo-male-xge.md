@@ -12,6 +12,8 @@ aliases:
 
 **Human Names – Niger-Congo, Male**
 
+`dice: [](human-names-niger-congo-male-xge.md#^human-names-niger-congo-male)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Abebe |

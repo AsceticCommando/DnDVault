@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Mite"
 ---
-# [Mite](3-Mechanics\CLI\bestiary\fey/mite-mff.md)
+# [Mite](3-Mechanics/CLI/bestiary/fey/mite-mff.md)
 *Source: Mordenkainen's Fiendish Folio p. 14*  
 
 Mites are vexing fey creatures that delight in causing minor havoc and playing irritating pranks, making even the coolest, most experienced adventurers prone to outbursts of destructive frustration. When mites are about, even the simplest task can turn into a disaster, and a mild disagreement can quickly become a brawl.
@@ -56,7 +56,7 @@ Dungeons infested with mites for a long period of time devolve into chaotic batt
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+6"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 9"
 "languages": "Sylvan, Undercommon"
@@ -80,6 +80,6 @@ Dungeons infested with mites for a long period of time devolve into chaotic batt
     "name": "Blood Boiling Hex (Recharge 6)"
 "source":
   - "MFF"
-"image": "3-Mechanics/CLI/bestiary/fey/token/mite-mff.webp"
+"image": "file://bestiary/tokens/MFF/Mite.webp"
 ```
 ^statblock

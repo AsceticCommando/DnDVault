@@ -27,7 +27,7 @@ You can't be [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified).
 
 ## Earthen Step
 
-You can cast [meld into stone](3-Mechanics/CLI/spells/meld-into-stone.md) as a bonus action. Once you use this property, you can't use it again until you finish a short or long rest.
+You can cast [meld into stone](3-Mechanics/CLI/spells/meld-into-stone-xphb.md) as a bonus action. Once you use this property, you can't use it again until you finish a short or long rest.
 
 ## Gift of Stone
 

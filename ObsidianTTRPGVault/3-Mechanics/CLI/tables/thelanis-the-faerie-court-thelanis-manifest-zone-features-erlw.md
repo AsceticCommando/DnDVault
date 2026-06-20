@@ -12,10 +12,12 @@ aliases:
 
 **Thelanis Manifest Zone Features**
 
+`dice: [](thelanis-the-faerie-court-thelanis-manifest-zone-features-erlw.md#^thelanis-manifest-zone-features)`
+
 | dice: d4 | Feature |
 |----------|---------|
-| 1 | Fey trees whose wood is imbued with magical properties grow here, along with a copse of guardian [treants](3-Mechanics/CLI/bestiary/plant/treant.md) and awakened flora. |
+| 1 | Fey trees whose wood is imbued with magical properties grow here, along with a copse of guardian [treants](3-Mechanics/CLI/bestiary/plant/treant-xmm.md) and awakened flora. |
 | 2 | A circle of mushrooms serves as a portal to Thelanis when the proper offering is placed in its center. |
-| 3 | An eladrin commune that holds powerful esoteric knowledge is nestled in the depths of a forest inhabited by large numbers of [pixies](3-Mechanics/CLI/bestiary/fey/pixie.md). |
+| 3 | An eladrin commune that holds powerful esoteric knowledge is nestled in the depths of a forest inhabited by large numbers of [pixies](3-Mechanics/CLI/bestiary/fey/pixie-xmm.md). |
 | 4 | The magic of the fey runs deep here. Saving throws against enchantment and illusion spells are made with disadvantage. |
 ^thelanis-manifest-zone-features

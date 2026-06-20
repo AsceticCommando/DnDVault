@@ -11,4 +11,4 @@ aliases:
 
 ## 3rd Level
 
-- [Blink](3-Mechanics/CLI/spells/blink.md "PHB")
+- [Blink](3-Mechanics/CLI/spells/blink-xphb.md "XPHB")

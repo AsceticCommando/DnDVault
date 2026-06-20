@@ -12,7 +12,7 @@ aliases:
 ---
 # Kruphix
 *Source: Mythic Odysseys of Theros p. 61* 
-![](3-Mechanics/CLI/deities/img/mot-040-02-03-kruphix.webp#symbol)
+![](file://deities/MOT/040-02-03-kruphix.webp#symbol)
 
 - **Alignment**: Neutral
 - **Domains**: Knowledge, Trickery
@@ -56,7 +56,7 @@ Many pray to Kruphix when they need to find something lost, but few dedicate the
 
 Rituals honoring Kruphix are usually performed at boundaries, both temporal and spatial: shorelines, riverbanks, equinoxes, and sunsets. One of the god's greatest festivals is the Agrypnion ("the Watching"), which marks the end of winter and the close of the year.
 
-![](3-Mechanics/CLI/deities/img/mot-041-02-12.webp#center)
+![](file://deities/MOT/041-02-12.webp#center)
 
 > [!readaloud] Myths of Kruphix
 > 
@@ -94,6 +94,8 @@ Kruphix's champions are less his agents than his charges, and he is loath to rel
 
 **Kruphix's Favor**
 
+`dice: [](theros-kruphix-mot.md#^kruphixs-favor)`
+
 | dice: d6 | Circumstance |
 |----------|--------------|
 | 1 | Followers of Kruphix claim you were born under a bizarre omen, but will not explain what it means. |
@@ -109,6 +111,8 @@ Kruphix's champions are less his agents than his charges, and he is loath to rel
 Kruphix doesn't demand adherence to any philosophy, and the reasons to follow him are as numberless as the stars. As a follower of Kruphix, consider the options on the Kruphix's Ideals table as alternatives to those suggested for your background.
 
 **Kruphix's Ideals**
+
+`dice: [](theros-kruphix-mot.md#^kruphixs-ideals)`
 
 | dice: d6 | Ideal |
 |----------|-------|

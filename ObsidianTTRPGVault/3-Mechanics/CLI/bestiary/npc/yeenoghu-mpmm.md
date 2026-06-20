@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Yeenoghu"
 ---
-# [Yeenoghu](3-Mechanics\CLI\bestiary\npc/yeenoghu-mpmm.md)
+# [Yeenoghu](3-Mechanics/CLI/bestiary/npc/yeenoghu-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 270, Mordenkainen's Tome of Foes p. 155*  
 
 The Beast of Butchery appears as a great scarred gnoll, towering 14 feet tall. Yeenoghu is the Gnoll Lord, and his creations are made in his twisted image. When the demon lord hunted across the Material Plane, packs of hyenas followed in his wake, and those that ate of great Yeenoghu's kills became gnolls. Few others worship the Beast of Butchery, but those who do tend to take on a gnoll-like aspect, hunching over and filing their teeth down to points.
@@ -28,7 +28,7 @@ The Gnoll Lord is covered in matted fur and leathery hide, and his face resemble
 
 ## Yeenoghu's Lair
 
-Yeenoghu's lair in the Abyss is called the Death Dells. Its barren hills and ravines serve as a hunting ground, where he pursues captured mortals in a cruel game. Yeenoghu's lair is a place of blood and death, populated by [gnolls](3-Mechanics/CLI/bestiary/humanoid/gnoll.md), [hyenas](3-Mechanics/CLI/bestiary/beast/hyena.md), and [ghouls](3-Mechanics/CLI/bestiary/undead/ghoul.md), and there are few structures or signs of civilization on his layer of the Abyss.
+Yeenoghu's lair in the Abyss is called the Death Dells. Its barren hills and ravines serve as a hunting ground, where he pursues captured mortals in a cruel game. Yeenoghu's lair is a place of blood and death, populated by [gnolls](3-Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm.md), [hyenas](3-Mechanics/CLI/bestiary/beast/hyena-xmm.md), and [ghouls](3-Mechanics/CLI/bestiary/undead/ghoul-xmm.md), and there are few structures or signs of civilization on his layer of the Abyss.
 
 The challenge rating of Yeenoghu is 25 (75,000 XP) when he's encountered in his lair.
 
@@ -65,7 +65,7 @@ The challenge rating of Yeenoghu is 25 (75,000 XP) when he's encountered in his 
 "condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
   \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
 "gear":
-  - "[flail](3-Mechanics/CLI/items/flail.md)"
+  - "[flail](3-Mechanics/CLI/items/flail-xphb.md)"
 "senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
   \ Perception 24"
 "languages": "all, telepathy 120 ft."
@@ -94,9 +94,10 @@ The challenge rating of Yeenoghu is 25 (75,000 XP) when he's encountered in his 
     "name": "Bite"
   - "desc": "Yeenoghu casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 17):\n\n**At\
-      \ will:** [detect magic](3-Mechanics/CLI/spells/detect-magic.md)\n\n**3/day\
-      \ each:** [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), [fear](3-Mechanics/CLI/spells/fear.md),\
-      \ [invisibility](3-Mechanics/CLI/spells/invisibility.md)\n\n**1/day:** [teleport](3-Mechanics/CLI/spells/teleport.md)"
+      \ will:** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md)\n\n**3/day\
+      \ each:** [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [fear](3-Mechanics/CLI/spells/fear-xphb.md),\
+      \ [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md)\n\n**1/day:**\
+      \ [teleport](3-Mechanics/CLI/spells/teleport-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "When Yeenoghu reduces a creature to 0 hit points with a melee attack,\
@@ -145,6 +146,6 @@ The challenge rating of Yeenoghu is 25 (75,000 XP) when he's encountered in his 
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/npc/token/yeenoghu-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Yeenoghu.webp"
 ```
 ^statblock

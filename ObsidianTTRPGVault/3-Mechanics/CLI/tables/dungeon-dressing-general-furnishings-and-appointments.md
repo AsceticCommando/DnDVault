@@ -12,6 +12,8 @@ aliases:
 
 **General Furnishings and Appointments**
 
+`dice: [](dungeon-dressing-general-furnishings-and-appointments.md#^general-furnishings-and-appointments)`
+
 | dice: d100 | Item |
 |------------|------|
 | 1 | Altar |

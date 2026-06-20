@@ -12,6 +12,8 @@ aliases:
 
 **Gatekeeper Adventure Hooks**
 
+`dice: [](gatekeeper-adventure-hooks-erlw.md#^gatekeeper-adventure-hooks)`
+
 | dice: d8 | Adventure Hook |
 |----------|----------------|
 | 1 | While pursuing rumors of lycanthrope activity, the characters discover a good-aligned werebear that is working with the Gatekeepers to stop an incursion from Khyber. |

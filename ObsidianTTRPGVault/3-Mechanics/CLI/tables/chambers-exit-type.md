@@ -12,6 +12,8 @@ aliases:
 
 **Exit Type**
 
+`dice: [](chambers-exit-type.md#^exit-type)`
+
 | dice: d20 | Type |
 |-----------|------|
 | 1-10 | Door (roll on the Door Type table) |

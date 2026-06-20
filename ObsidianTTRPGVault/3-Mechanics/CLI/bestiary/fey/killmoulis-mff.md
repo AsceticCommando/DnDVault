@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Killmoulis"
 ---
-# [Killmoulis](3-Mechanics\CLI\bestiary\fey/killmoulis-mff.md)
+# [Killmoulis](3-Mechanics/CLI/bestiary/fey/killmoulis-mff.md)
 *Source: Mordenkainen's Fiendish Folio p. 13*  
 
 A killmoulis can be either a bane or boon to an adventuring party. When kept well fed with tasty treats, this creature is a helpful assistant that mends armor, collects herbs that make the blandest rations into a feast, and turns a dull, uncomfortable campsite into a welcoming refuge. But if a party abuses or neglects a killmoulis, the creature's mean-spirited thirst for revenge can turn even the simplest expedition into a draining ordeal that leaves adventurers tired, dispirited, and sullen.
@@ -75,6 +75,6 @@ Once a killmoulis is angered, it continues to tail a group and visit its curse u
     "name": "Curse of Poor Hospitality (1/Day)"
 "source":
   - "MFF"
-"image": "3-Mechanics/CLI/bestiary/fey/token/killmoulis-mff.webp"
+"image": "file://bestiary/tokens/MFF/Killmoulis.webp"
 ```
 ^statblock

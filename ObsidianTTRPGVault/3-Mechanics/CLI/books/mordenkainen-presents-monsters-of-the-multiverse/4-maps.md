@@ -11,9 +11,9 @@ aliases:
 *Source: Mordenkainen Presents: Monsters of the Multiverse* 
 
 > [!gallery]
-> ![Mind Flayer Colony](3-Mechanics/CLI/books/mordenkainen-presents-monsters-of-the-multiverse/img/mind-flayer-colony.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/mordenkainen-presents-monsters-of-the-multiverse/img/mind-flayer-colony.webp#gallery)
+> ![Mind Flayer Colony](file://book/MPMM/Mind%20Flayer%20Colony.webp#gallery)
+> ![Player Version](file://book/MPMM/Mind%20Flayer%20Colony.webp#gallery)
 
 > [!gallery]
-> ![Yuan-ti Temple](3-Mechanics/CLI/books/mordenkainen-presents-monsters-of-the-multiverse/img/yuan-ti-temple.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/mordenkainen-presents-monsters-of-the-multiverse/img/yuan-ti-temple-player-version.webp#gallery)
+> ![Yuan-ti Temple](file://book/MPMM/Yuan-ti%20Temple.webp#gallery)
+> ![Player Version](file://book/MPMM/Yuan-ti%20Temple%20%28Player%20Version%29.webp#gallery)

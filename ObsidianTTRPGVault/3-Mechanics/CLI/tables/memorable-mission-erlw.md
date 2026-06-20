@@ -12,6 +12,8 @@ aliases:
 
 **Memorable Mission**
 
+`dice: [](memorable-mission-erlw.md#^memorable-mission)`
+
 | dice: d4 | Mission |
 |----------|---------|
 | 1 | **Betrayal**. A former associate turned against you. You escaped, and want revenge. |

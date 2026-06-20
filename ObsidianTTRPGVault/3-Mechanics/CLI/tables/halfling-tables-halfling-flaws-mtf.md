@@ -12,6 +12,8 @@ aliases:
 
 **Halfling Flaws**
 
+`dice: [](halfling-tables-halfling-flaws-mtf.md#^halfling-flaws)`
+
 | dice: d6 | Flaw |
 |----------|------|
 | 1 | You can't resist poking your nose where it doesn't belong. |

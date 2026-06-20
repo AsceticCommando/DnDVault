@@ -18,7 +18,7 @@ A Devil's Ride is a two-wheeled infernal war machine that handles like a motorcy
 
 ```ad-statblock
 title: Devil's Ride
-![](3-Mechanics/CLI/vehicles/token/devils-ride-bgdia.webp#token)
+![](file://vehicles/tokens/BGDIA/Devil%27s%20Ride.webp#token)
 *Large vehicle ( 500 lb.); land*
 
 - **Cargo Capacity**  100 lb.

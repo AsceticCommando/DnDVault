@@ -12,6 +12,8 @@ aliases:
 
 **Githyanki Ideals**
 
+`dice: [](gith-tables-githyanki-ideals-mtf.md#^githyanki-ideals)`
+
 | dice: d4 | Trait |
 |----------|-------|
 | 1 | Fidelity. Warriors are only as good as the vows they keep. |

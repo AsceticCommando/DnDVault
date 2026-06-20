@@ -15,7 +15,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Yuan-ti Broodguard"
 ---
-# [Yuan-ti Broodguard](3-Mechanics\CLI\bestiary\monstrosity/yuan-ti-broodguard-mpmm.md)
+# [Yuan-ti Broodguard](3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-broodguard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 273, Volo's Guide to Monsters p. 203*  
 
 > [!quote] A quote from Mordenkainen  
@@ -77,7 +77,7 @@ Most broodguards are made from human captives forced to consume a magical brew t
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/yuan-ti-broodguard-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Yuan-ti%20Broodguard.webp"
 ```
 ^statblock
 

@@ -12,6 +12,8 @@ aliases:
 
 **Special Circumstances**
 
+`dice: [](dwarves-on-the-move-special-circumstances-mtf.md#^special-circumstances)`
+
 | dice: d4 | Circumstance |
 |----------|--------------|
 | 1 | Suspicious of all outsiders |

@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Autumn Eladrin"
 ---
-# [Autumn Eladrin](3-Mechanics\CLI\bestiary\fey/autumn-eladrin-mpmm.md)
+# [Autumn Eladrin](3-Mechanics/CLI/bestiary/fey/autumn-eladrin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 115, Mordenkainen's Tome of Foes p. 195*  
 
 Eladrin often enter the autumn season when they are overcome by feelings of goodwill. In this aspect, they defuse conflicts and alleviate suffering by using their magic to relieve any ailments that afflict the people who come to them for aid. They tolerate no violence in their presence and move quickly to settle disputes, to ensure that peace continues to reign.
@@ -62,8 +62,8 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
     "desc": "+7"
 "damage_resistances": "psychic"
 "gear":
-  - "[longbow](3-Mechanics/CLI/items/longbow.md)"
-  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
+  - "[longbow](3-Mechanics/CLI/items/longbow-xphb.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 13"
 "languages": "Common, Elvish, Sylvan"
@@ -93,11 +93,11 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
     "name": "Longbow"
   - "desc": "The eladrin casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 16):\n\
-      \n**At will:** [hold person](3-Mechanics/CLI/spells/hold-person.md)\n\n**2/day\
-      \ each:** [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md) (as a 5th-level\
-      \ spell), [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration.md)\n\
-      \n**1/day each:** [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md),\
-      \ [revivify](3-Mechanics/CLI/spells/revivify.md)"
+      \n**At will:** [hold person](3-Mechanics/CLI/spells/hold-person-xphb.md)\n\n\
+      **2/day each:** [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md) (as\
+      \ a 5th-level spell), [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md)\n\
+      \n**1/day each:** [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md),\
+      \ [revivify](3-Mechanics/CLI/spells/revivify-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The eladrin teleports, along with any equipment it is wearing or carrying,\
@@ -112,7 +112,7 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/fey/token/autumn-eladrin-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Autumn%20Eladrin.webp"
 ```
 ^statblock
 

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Wildfire Spirit"
 ---
-# [Wildfire Spirit](3-Mechanics\CLI\bestiary\elemental/wildfire-spirit-tce.md)
+# [Wildfire Spirit](3-Mechanics/CLI/bestiary/elemental/wildfire-spirit-tce.md)
 *Source: Tasha's Cauldron of Everything p. 40*  
 
 ```statblock
@@ -49,6 +49,6 @@ aliases:
     "name": "Fiery Teleportation"
 "source":
   - "TCE"
-"image": "3-Mechanics/CLI/bestiary/elemental/token/wildfire-spirit-tce.webp"
+"image": "file://bestiary/tokens/TCE/Wildfire%20Spirit.webp"
 ```
 ^statblock

@@ -10,7 +10,7 @@ aliases:
 ---
 # Centaur
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 9*  
-![](3-Mechanics/CLI/races/img/centaur.webp#right)
+![](file://races/MPMM/Centaur.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Type**: fey
@@ -35,7 +35,7 @@ In addition, any climb that requires hands and feet is especially difficult for 
 
 ### Hooves
 
-You have hooves that you can use to make unarmed strikes. When you hit with them, the strike deals `1d6` + your Strength modifier bludgeoning damage, instead of the bludgeoning damage normal for an unarmed strike.
+You have hooves that you can use to make unarmed strikes. When you hit with them, the strike deals `dice:1d6|noform|noparens|avg` (`1d6`) + your Strength modifier bludgeoning damage, instead of the bludgeoning damage normal for an unarmed strike.
 
 ### Natural Affinity
 

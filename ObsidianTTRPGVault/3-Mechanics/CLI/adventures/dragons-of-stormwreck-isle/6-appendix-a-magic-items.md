@@ -20,9 +20,9 @@ A magic item's description explains how the item works. Handling a magic item is
 
 These items are in alphabetical order.
 
-- [Boots of Elvenkind](3-Mechanics/CLI/items/boots-of-elvenkind.md)  
-- [Elixir of Health](3-Mechanics/CLI/items/elixir-of-health.md)  
-- [Potion of Healing](3-Mechanics/CLI/items/potion-of-healing.md)  
-- [Potion of Resistance](3-Mechanics/CLI/items/potion-of-resistance.md)  
-- [Spell Scroll](3-Mechanics/CLI/items/spell-scroll.md)  
-- [+1 Weapon](3-Mechanics/CLI/items/1-weapon.md)
+- [Boots of Elvenkind](3-Mechanics/CLI/items/boots-of-elvenkind-xdmg.md)  
+- [Elixir of Health](3-Mechanics/CLI/items/elixir-of-health-xdmg.md)  
+- [Potion of Healing](3-Mechanics/CLI/items/potion-of-healing-xdmg.md)  
+- [Potion of Resistance](3-Mechanics/CLI/items/potion-of-resistance-xdmg.md)  
+- [Spell Scroll](3-Mechanics/CLI/items/spell-scroll-xdmg.md)  
+- [+1 Weapon](3-Mechanics/CLI/items/1-weapon-xdmg.md)

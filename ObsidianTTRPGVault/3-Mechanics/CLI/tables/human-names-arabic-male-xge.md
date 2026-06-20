@@ -12,6 +12,8 @@ aliases:
 
 **Human Names – Arabic, Male**
 
+`dice: [](human-names-arabic-male-xge.md#^human-names-arabic-male)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Abbad |

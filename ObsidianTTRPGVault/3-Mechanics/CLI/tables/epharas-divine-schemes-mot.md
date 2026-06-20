@@ -12,6 +12,8 @@ aliases:
 
 **Ephara's Divine Schemes**
 
+`dice: [](epharas-divine-schemes-mot.md#^epharas-divine-schemes)`
+
 | dice: d4 | Scheme |
 |----------|--------|
 | 1 | Ephara tries to curry Karametra's favor, hoping to persuade her to use her influence over agriculture to help the cities under Ephara's protection flourish. But Karametra, as the patron of Setessa, thinks that Ephara's focus on cities is dangerous and damaging to the lands. Nylea lashes out at both Karametra and Ephara, believing them to be working together. |

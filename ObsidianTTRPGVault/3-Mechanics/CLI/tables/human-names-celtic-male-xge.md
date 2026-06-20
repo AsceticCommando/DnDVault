@@ -12,6 +12,8 @@ aliases:
 
 **Human Names – Celtic, Male**
 
+`dice: [](human-names-celtic-male-xge.md#^human-names-celtic-male)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Airell |

@@ -12,6 +12,8 @@ aliases:
 
 **Crystal Dragon Ideals**
 
+`dice: [](creating-a-crystal-dragon-crystal-dragon-ideals-ftd.md#^crystal-dragon-ideals)`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Exploration. Yesterday is already known. Today is for something new. (Chaotic) |

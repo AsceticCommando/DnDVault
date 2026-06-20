@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Lady Illmarrow"
 ---
-# [Lady Illmarrow](3-Mechanics\CLI\bestiary\npc/lady-illmarrow-erlw.md)
+# [Lady Illmarrow](3-Mechanics/CLI/bestiary/npc/lady-illmarrow-erlw.md)
 *Source: Eberron: Rising from the Last War p. 296*  
 
 Lady Illmarrow is a legend—an ancient lich said to dwell in a castle of bone and ice in the coldest regions of the Lhazaar Principalities. Some stories say that she is served by a legion of undead and that she maintains a court of vampires and ghosts in her palace of ice. Other tales claim that when anyone dies in Lhazaar, Illmarrow chooses whether to take their soul before it passes on to the Keeper and Dolurrh.
@@ -92,27 +92,29 @@ Though she takes great pleasure in fighting the dragons and elves who destroyed 
 "traits":
   - "desc": "Illmarrow is a 20th-level spellcaster. Her spellcasting ability is Intelligence\
       \ (spell save DC 23, +15 to hit with spell attacks). Illmarrow has the following\
-      \ wizard spells prepared:\n\n**Cantrips (at will):** [chill touch](3-Mechanics/CLI/spells/chill-touch.md)\
-      \ (see \"Actions\" below), [fire bolt](3-Mechanics/CLI/spells/fire-bolt.md),\
-      \ [mage hand](3-Mechanics/CLI/spells/mage-hand.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md),\
-      \ [ray of frost](3-Mechanics/CLI/spells/ray-of-frost.md)\n\n**1st level (4 slots):**\
-      \ [magic missile](3-Mechanics/CLI/spells/magic-missile.md), [shield](3-Mechanics/CLI/spells/shield.md),\
-      \ [sleep](3-Mechanics/CLI/spells/sleep.md)\n\n**2nd level (3 slots):** [blur](3-Mechanics/CLI/spells/blur.md),\
-      \ [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md), [mirror image](3-Mechanics/CLI/spells/mirror-image.md)\n\
-      \n**3rd level (3 slots):** [animate dead](3-Mechanics/CLI/spells/animate-dead.md),\
-      \ [counterspell](3-Mechanics/CLI/spells/counterspell.md), [fireball](3-Mechanics/CLI/spells/fireball.md),\
-      \ [fly](3-Mechanics/CLI/spells/fly.md), [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt.md)\n\
-      \n**4th level (3 slots):** [blight](3-Mechanics/CLI/spells/blight.md), [confusion](3-Mechanics/CLI/spells/confusion.md),\
-      \ [polymorph](3-Mechanics/CLI/spells/polymorph.md)\n\n**5th level (3 slots):**\
-      \ [cloudkill](3-Mechanics/CLI/spells/cloudkill.md), [cone of cold](3-Mechanics/CLI/spells/cone-of-cold.md),\
-      \ [hold monster](3-Mechanics/CLI/spells/hold-monster.md), [scrying](3-Mechanics/CLI/spells/scrying.md)\n\
-      \n**6th level (2 slots):** [chain lightning](3-Mechanics/CLI/spells/chain-lightning.md),\
-      \ [circle of death](3-Mechanics/CLI/spells/circle-of-death.md), [create undead](3-Mechanics/CLI/spells/create-undead.md)\n\
-      \n**7th level (2 slots):** [finger of death](3-Mechanics/CLI/spells/finger-of-death.md),\
-      \ [forcecage](3-Mechanics/CLI/spells/forcecage.md), [prismatic spray](3-Mechanics/CLI/spells/prismatic-spray.md)\n\
-      \n**8th level (1 slots):** [incendiary cloud](3-Mechanics/CLI/spells/incendiary-cloud.md),\
-      \ [maze](3-Mechanics/CLI/spells/maze.md)\n\n**9th level (1 slots):** [power\
-      \ word kill](3-Mechanics/CLI/spells/power-word-kill.md), [time stop](3-Mechanics/CLI/spells/time-stop.md)"
+      \ wizard spells prepared:\n\n**Cantrips (at will):** [chill touch](3-Mechanics/CLI/spells/chill-touch-xphb.md)\
+      \ (see \"Actions\" below), [fire bolt](3-Mechanics/CLI/spells/fire-bolt-xphb.md),\
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md),\
+      \ [ray of frost](3-Mechanics/CLI/spells/ray-of-frost-xphb.md)\n\n**1st level\
+      \ (4 slots):** [magic missile](3-Mechanics/CLI/spells/magic-missile-xphb.md),\
+      \ [shield](3-Mechanics/CLI/spells/shield-xphb.md), [sleep](3-Mechanics/CLI/spells/sleep-xphb.md)\n\
+      \n**2nd level (3 slots):** [blur](3-Mechanics/CLI/spells/blur-xphb.md), [detect\
+      \ thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md), [mirror image](3-Mechanics/CLI/spells/mirror-image-xphb.md)\n\
+      \n**3rd level (3 slots):** [animate dead](3-Mechanics/CLI/spells/animate-dead-xphb.md),\
+      \ [counterspell](3-Mechanics/CLI/spells/counterspell-xphb.md), [fireball](3-Mechanics/CLI/spells/fireball-xphb.md),\
+      \ [fly](3-Mechanics/CLI/spells/fly-xphb.md), [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt-xphb.md)\n\
+      \n**4th level (3 slots):** [blight](3-Mechanics/CLI/spells/blight-xphb.md),\
+      \ [confusion](3-Mechanics/CLI/spells/confusion-xphb.md), [polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md)\n\
+      \n**5th level (3 slots):** [cloudkill](3-Mechanics/CLI/spells/cloudkill-xphb.md),\
+      \ [cone of cold](3-Mechanics/CLI/spells/cone-of-cold-xphb.md), [hold monster](3-Mechanics/CLI/spells/hold-monster-xphb.md),\
+      \ [scrying](3-Mechanics/CLI/spells/scrying-xphb.md)\n\n**6th level (2 slots):**\
+      \ [chain lightning](3-Mechanics/CLI/spells/chain-lightning-xphb.md), [circle\
+      \ of death](3-Mechanics/CLI/spells/circle-of-death-xphb.md), [create undead](3-Mechanics/CLI/spells/create-undead-xphb.md)\n\
+      \n**7th level (2 slots):** [finger of death](3-Mechanics/CLI/spells/finger-of-death-xphb.md),\
+      \ [forcecage](3-Mechanics/CLI/spells/forcecage-xphb.md), [prismatic spray](3-Mechanics/CLI/spells/prismatic-spray-xphb.md)\n\
+      \n**8th level (1 slots):** [incendiary cloud](3-Mechanics/CLI/spells/incendiary-cloud-xphb.md),\
+      \ [maze](3-Mechanics/CLI/spells/maze-xphb.md)\n\n**9th level (1 slots):** [power\
+      \ word kill](3-Mechanics/CLI/spells/power-word-kill-xphb.md), [time stop](3-Mechanics/CLI/spells/time-stop-xphb.md)"
     "name": "Spellcasting"
   - "desc": "If Illmarrow fails a saving throw, she can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
@@ -167,6 +169,6 @@ Though she takes great pleasure in fighting the dragons and elves who destroyed 
     "name": "Poison Breath (Costs 3 Actions)"
 "source":
   - "ERLW"
-"image": "3-Mechanics/CLI/bestiary/npc/token/lady-illmarrow-erlw.webp"
+"image": "file://bestiary/tokens/ERLW/Lady%20Illmarrow.webp"
 ```
 ^statblock

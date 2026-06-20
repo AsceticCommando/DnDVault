@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Steel Predator"
 ---
-# [Steel Predator](3-Mechanics\CLI\bestiary\construct/steel-predator-mpmm.md)
+# [Steel Predator](3-Mechanics/CLI/bestiary/construct/steel-predator-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 232, Mordenkainen's Tome of Foes p. 239*  
 
 A steel predator is a merciless machine with one purpose: to locate and kill its target regardless of distance and obstacles.
@@ -87,13 +87,13 @@ If all goes according to plan, a steel predator slays its target and then volunt
     "name": "Stunning Roar (Recharge 5-6)"
   - "desc": "The steel predator casts one of the following spells, requiring no spell\
       \ components and using Wisdom as the spellcasting ability:\n\n**3/day each:**\
-      \ [dimension door](3-Mechanics/CLI/spells/dimension-door.md) (self only), [plane\
-      \ shift](3-Mechanics/CLI/spells/plane-shift.md) (self only)"
+      \ [dimension door](3-Mechanics/CLI/spells/dimension-door-xphb.md) (self only),\
+      \ [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md) (self only)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/construct/token/steel-predator-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Steel%20Predator.webp"
 ```
 ^statblock
 

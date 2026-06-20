@@ -15,12 +15,12 @@ statblock-link: "#^statblock"
 aliases:
 - "Yeth Hound"
 ---
-# [Yeth Hound](3-Mechanics\CLI\bestiary\fey/yeth-hound-mpmm.md)
+# [Yeth Hound](3-Mechanics/CLI/bestiary/fey/yeth-hound-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 271, Volo's Guide to Monsters p. 201*  
 
 Granted by mighty Fey to individuals who please them, yeth hounds serve their masters like hunting dogs. They race in pursuit of their prey, running it down until it's too exhausted to fight back. Only the threat of dawn drives the pack back into hiding.
 
-A pack of yeth hounds can be created by powerful Fey such as the Queen of Air and Darkness. Each pack's master can telepathically communicate with their yeth hounds to give the pack commands from afar. If a pack's master is killed, the hounds seek out a new master, typically an evil [vampire](3-Mechanics/CLI/bestiary/undead/vampire.md), [necromancer](3-Mechanics/CLI/bestiary/humanoid/necromancer-wizard-mpmm.md), or [hag](3-Mechanics/CLI/bestiary/fey/green-hag.md).
+A pack of yeth hounds can be created by powerful Fey such as the Queen of Air and Darkness. Each pack's master can telepathically communicate with their yeth hounds to give the pack commands from afar. If a pack's master is killed, the hounds seek out a new master, typically an evil [vampire](3-Mechanics/CLI/bestiary/undead/vampire-xmm.md), [necromancer](3-Mechanics/CLI/bestiary/humanoid/necromancer-wizard-mpmm.md), or [hag](3-Mechanics/CLI/bestiary/fey/green-hag-xmm.md).
 
 ```statblock
 "name": "Yeth Hound (MPMM)"
@@ -83,7 +83,7 @@ A pack of yeth hounds can be created by powerful Fey such as the Queen of Air an
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/fey/token/yeth-hound-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Yeth%20Hound.webp"
 ```
 ^statblock
 

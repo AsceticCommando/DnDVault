@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "High Fae Mage"
 ---
-# [High Fae Mage](3-Mechanics\CLI\bestiary\fey/high-fae-mage-mcv4ec.md)
+# [High Fae Mage](3-Mechanics/CLI/bestiary/fey/high-fae-mage-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 High fae mages are some of the mightiest magic users among the faeries of Eldraine. These skilled spellcasters have mastered the arcane art of dealmaking among the fae, magically negotiating themselves advantages in battle.
@@ -38,7 +38,7 @@ The high fae are ruled by Talion, the Kindly Lord. Talion is as strange, ancient
 "subtype": "sorcerer"
 "alignment": "Any alignment"
 "ac": !!int "14"
-"ac_class": "17 with [mage armor](3-Mechanics/CLI/spells/mage-armor.md)"
+"ac_class": "17 with [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
 "hp": !!int "148"
 "hit_dice": "27d8 + 27"
 "modifier": !!int "4"
@@ -85,11 +85,11 @@ The high fae are ruled by Talion, the Kindly Lord. Talion is as strange, ancient
     "name": "Negotiate Life (Recharge 5-6)"
   - "desc": "The high fae casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 19):\n\
-      \n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md), [detect\
-      \ magic](3-Mechanics/CLI/spells/detect-magic.md), [druidcraft](3-Mechanics/CLI/spells/druidcraft.md),\
-      \ [mage armor](3-Mechanics/CLI/spells/mage-armor.md) (self only)\n\n**2/day\
-      \ each:** [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md), [gust of wind](3-Mechanics/CLI/spells/gust-of-wind.md),\
-      \ [mirror image](3-Mechanics/CLI/spells/mirror-image.md)"
+      \n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
+      \ [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [druidcraft](3-Mechanics/CLI/spells/druidcraft-xphb.md),\
+      \ [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md) (self only)\n\n**2/day\
+      \ each:** [faerie fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md), [gust of\
+      \ wind](3-Mechanics/CLI/spells/gust-of-wind-xphb.md), [mirror image](3-Mechanics/CLI/spells/mirror-image-xphb.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "The high fae interrupts a creature it can see that is casting a spell\
@@ -99,6 +99,6 @@ The high fae are ruled by Talion, the Kindly Lord. Talion is as strange, ancient
     "name": "Fae Counterspell"
 "source":
   - "MCV4EC"
-"image": "3-Mechanics/CLI/bestiary/fey/token/high-fae-mage-mcv4ec.webp"
+"image": "file://bestiary/tokens/MCV4EC/High%20Fae%20Mage.webp"
 ```
 ^statblock

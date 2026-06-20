@@ -12,6 +12,8 @@ aliases:
 
 **Rejection of Faith**
 
+`dice: [](chapter-2-khorvaire-gazetteer-faiths-of-khorvaire-rejection-of-faith-erlw.md#^rejection-of-faith)`
+
 | dice: d6 | Rejection |
 |----------|-----------|
 | 1 | You believe that the magic of clerics and paladins doesn't come from deities, but from the caster's inner power or belief. |

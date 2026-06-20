@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Chuul Spore Servant"
 ---
-# [Chuul Spore Servant](3-Mechanics\CLI\bestiary\plant/chuul-spore-servant-oota.md)
+# [Chuul Spore Servant](3-Mechanics/CLI/bestiary/plant/chuul-spore-servant-oota.md)
 *Source: Out of the Abyss p. 228*  
 
 ```statblock
@@ -51,6 +51,6 @@ aliases:
     "name": "Pincer"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/plant/token/chuul-spore-servant-oota.webp"
+"image": "file://bestiary/tokens/OotA/Chuul%20Spore%20Servant.webp"
 ```
 ^statblock

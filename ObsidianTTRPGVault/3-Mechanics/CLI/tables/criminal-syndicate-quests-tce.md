@@ -12,6 +12,8 @@ aliases:
 
 **Criminal Syndicate Quests**
 
+`dice: [](criminal-syndicate-quests-tce.md#^criminal-syndicate-quests)`
+
 | dice: d6 | Quest |
 |----------|-------|
 | 1 | **Acquisition and Retrieval**. You acquire assets for the syndicate. You steal important documents or clear out locations for use as hideouts. |

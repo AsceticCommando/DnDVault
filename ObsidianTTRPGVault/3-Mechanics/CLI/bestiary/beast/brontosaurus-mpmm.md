@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Brontosaurus"
 ---
-# [Brontosaurus](3-Mechanics\CLI\bestiary\beast/brontosaurus-mpmm.md)
+# [Brontosaurus](3-Mechanics/CLI/bestiary/beast/brontosaurus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 95, Volo's Guide to Monsters p. 139*  
 
 This massive four-legged dinosaur is large enough that most predators leave it alone. Its deadly tail can drive away or kill smaller threats.
@@ -54,7 +54,7 @@ This massive four-legged dinosaur is large enough that most predators leave it a
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/beast/token/brontosaurus-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Brontosaurus.webp"
 ```
 ^statblock
 

@@ -12,6 +12,8 @@ aliases:
 
 **Gold Dragon Adventure Hooks**
 
+`dice: [](gold-dragon-adventures-gold-dragon-adventure-hooks-ftd.md#^gold-dragon-adventure-hooks)`
+
 | dice: d8 | Adventure Hook |
 |----------|----------------|
 | 1 | When two cities stand on the brink of war, someone needs to make the arduous journey to convince a gold dragon to arbitrate the dispute. |

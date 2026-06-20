@@ -12,6 +12,8 @@ aliases:
 
 **Erebos's Quests**
 
+`dice: [](ereboss-quests-mot.md#^ereboss-quests)`
+
 | dice: d6 | Adventure Goal |
 |----------|----------------|
 | 1 | Capture a hero who came back to Theros as a Returned and send them back to the Underworld. |

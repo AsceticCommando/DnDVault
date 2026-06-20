@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Istarian Drone"
 ---
-# [Istarian Drone](3-Mechanics\CLI\bestiary\construct/istarian-drone-dsotdq.md)
+# [Istarian Drone](3-Mechanics/CLI/bestiary/construct/istarian-drone-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 202*  
 
 Istarian drones are ancient Constructs made of marble and gleaming metal inlaid with crystals that flash with sparks of electricity. Created to build the fantastic structures that once marked the glory of Istar, these drones resemble short, stout mantises. They have four scuttling insectile legs and barbed, scythe-shaped arms for carrying and placing building materials. The drones create a viscous gel that hardens into crystalline mortar, which they can repurpose to restrain attackers.
@@ -68,6 +68,6 @@ Istarian drones are ancient Constructs made of marble and gleaming metal inlaid 
     "name": "Crystalline Spit (Recharge 5-6)"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/construct/token/istarian-drone-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Istarian%20Drone.webp"
 ```
 ^statblock

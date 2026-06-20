@@ -12,6 +12,8 @@ aliases:
 
 **Fiends**
 
+`dice: [](monsters-desires-fiends-tce.md#^fiends)`
+
 | dice: d4 | Desired Offering |
 |----------|------------------|
 | 1 | Your soul |

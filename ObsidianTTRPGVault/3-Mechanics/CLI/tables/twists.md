@@ -12,6 +12,8 @@ aliases:
 
 **Twists**
 
+`dice: [](twists.md#^twists)`
+
 | dice: d10 | Twist |
 |-----------|-------|
 | 1 | The adventurers are racing against other creatures with the same or opposite goal. |

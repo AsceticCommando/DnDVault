@@ -12,6 +12,8 @@ aliases:
 
 **Folk Horror Settings**
 
+`dice: [](folk-horror-settings-vrgr.md#^folk-horror-settings)`
+
 | dice: d6 | Setting |
 |----------|---------|
 | 1 | A countryside with stretches of hayfields, colorful barns, and perpetually smiling residents |

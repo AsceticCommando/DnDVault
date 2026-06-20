@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Quenthel Baenre"
 ---
-# [Quenthel Baenre](3-Mechanics\CLI\bestiary\npc/quenthel-baenre-oota.md)
+# [Quenthel Baenre](3-Mechanics/CLI/bestiary/npc/quenthel-baenre-oota.md)
 *Source: Out of the Abyss p. 204*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "Drow elf"
 "alignment": "Neutral Evil"
 "ac": !!int "19"
-"ac_class": "[+3 scale mail](3-Mechanics/CLI/items/3-armor.md)"
+"ac_class": "[+3 scale mail](3-Mechanics/CLI/items/3-armor-xdmg.md)"
 "hp": !!int "132"
 "hit_dice": "24d8 + 24"
 "modifier": !!int "2"
@@ -58,9 +58,10 @@ aliases:
     "name": "Spellcasting"
   - "desc": "Quenthel's spellcasting ability is Charisma (spell save DC 19). She can\
       \ innately cast the following spells, requiring no material components:\n\n\
-      **At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md)\n\n\
-      **1/day each:** [darkness](3-Mechanics/CLI/spells/darkness.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md),\
-      \ [levitate](3-Mechanics/CLI/spells/levitate.md) (self only)"
+      **At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md)\n\
+      \n**1/day each:** [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [faerie\
+      \ fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md), [levitate](3-Mechanics/CLI/spells/levitate-xphb.md)\
+      \ (self only)"
     "name": "Innate Spellcasting"
   - "desc": "Quenthel has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
       \ and magic can't put Quenthel to sleep."
@@ -69,7 +70,7 @@ aliases:
       \ as on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks\
       \ that rely on sight."
     "name": "Sunlight Sensitivity"
-  - "desc": "Quenthel wields a [tentacle rod](3-Mechanics/CLI/items/tentacle-rod.md)."
+  - "desc": "Quenthel wields a [tentacle rod](3-Mechanics/CLI/items/tentacle-rod-xdmg.md)."
     "name": "Special Equipment"
 "actions":
   - "desc": "Quenthel makes three tentacle rod attacks."
@@ -77,7 +78,7 @@ aliases:
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
       \ + 2) piercing damage plus 17 (5d6) poison damage."
     "name": "Scourge"
-  - "desc": "Quenthel attempts to magically summon a [yochlol](3-Mechanics/CLI/bestiary/fiend/yochlol.md)\
+  - "desc": "Quenthel attempts to magically summon a [yochlol](3-Mechanics/CLI/bestiary/fiend/yochlol-xmm.md)\
       \ with a 30 percent chance of success. If the attempt fails, Quenthel takes\
       \ 5 (1d10) psychic damage. Otherwise, the summoned demon appears in an unoccupied\
       \ space within 60 feet of its summoner, acts as an ally of its summoner, and\
@@ -93,12 +94,12 @@ aliases:
       \ it can repeat the saving throw, ending the effect on itself on a success."
     "name": "Tentacle Rod"
   - "desc": "While seated on her throne, Quenthel can use an action on her turn to\
-      \ cast [disintegrate](3-Mechanics/CLI/spells/disintegrate.md) (save DC 19).\
-      \ A target that fails its saving throw takes 10d6 + 40 force damage. If this\
-      \ damage reduces the target to 0 hit points, it is disintegrated."
+      \ cast [disintegrate](3-Mechanics/CLI/spells/disintegrate-xphb.md) (save DC\
+      \ 19). A target that fails its saving throw takes 10d6 + 40 force damage. If\
+      \ this damage reduces the target to 0 hit points, it is disintegrated."
     "name": "Throne Activation"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/quenthel-baenre-oota.webp"
+"image": "file://bestiary/tokens/OotA/Quenthel%20Baenre.webp"
 ```
 ^statblock

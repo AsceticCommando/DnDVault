@@ -12,6 +12,8 @@ aliases:
 
 **Omens of Erebos**
 
+`dice: [](omens-of-erebos-mot.md#^omens-of-erebos)`
+
 | dice: d8 | dice: d100 | Omen of Erebos |
 |----------|------------|----------------|
 | 1 | 13 | Small animals drop dead within an area. |

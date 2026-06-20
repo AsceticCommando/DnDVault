@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Rystia Zav"
 ---
-# [Rystia Zav](3-Mechanics\CLI\bestiary\npc/rystia-zav-oota.md)
+# [Rystia Zav](3-Mechanics/CLI/bestiary/npc/rystia-zav-oota.md)
 *Source: Out of the Abyss p. 135*  
 
 ```statblock
@@ -49,8 +49,8 @@ aliases:
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "gear":
-  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow.md)"
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "passive Perception 16"
 "languages": "any two languages"
 "cr": "1"
@@ -75,6 +75,6 @@ aliases:
     "name": "Hand Crossbow"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/rystia-zav-oota.webp"
+"image": "file://bestiary/tokens/OotA/Rystia%20Zav.webp"
 ```
 ^statblock

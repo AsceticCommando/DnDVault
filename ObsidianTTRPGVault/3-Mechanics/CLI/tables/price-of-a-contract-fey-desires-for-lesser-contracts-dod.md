@@ -12,6 +12,8 @@ aliases:
 
 **Fey Desires for Lesser Contracts**
 
+`dice: [](price-of-a-contract-fey-desires-for-lesser-contracts-dod.md#^fey-desires-for-lesser-contracts)`
+
 | dice: d8 | What the Fey Wants |
 |----------|--------------------|
 | 1 | Your singing voice |

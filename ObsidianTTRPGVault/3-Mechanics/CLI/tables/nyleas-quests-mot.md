@@ -12,6 +12,8 @@ aliases:
 
 **Nylea's Quests**
 
+`dice: [](nyleas-quests-mot.md#^nyleas-quests)`
+
 | dice: d6 | Adventure Goal |
 |----------|----------------|
 | 1 | Free a hydra that has been captured and imprisoned in a menagerie. |

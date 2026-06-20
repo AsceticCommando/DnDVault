@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Black Greatwyrm"
 ---
-# [Black Greatwyrm](3-Mechanics\CLI\bestiary\dragon/black-greatwyrm-ftd.md)
+# [Black Greatwyrm](3-Mechanics/CLI/bestiary/dragon/black-greatwyrm-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 168*  
 
 The most ancient chromatic dragons, who have survived over twelve hundred years of mortal life and acquired vast hoards worth millions of gold pieces, can achieve a form of apotheosis, reaching a level of power approaching that of Tiamat's mighty aspect. The competitive avarice of dragonkind and the interference of adventurers prevent most dragons from attaining this level of power. But a chromatic dragon who can outwit all rivals and overcome all potential thieves can rise to become one of the mightiest of dragons.
@@ -119,6 +119,6 @@ In both size and power, chromatic greatwyrms exceed even ancient dragons. The en
     "name": "Chromatic Flare (Costs 2 Actions)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/black-greatwyrm-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Black%20Greatwyrm.webp"
 ```
 ^statblock

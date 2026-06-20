@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Rool"
 ---
-# [Rool](3-Mechanics\CLI\bestiary\npc/rool-skt.md)
+# [Rool](3-Mechanics/CLI/bestiary/npc/rool-skt.md)
 *Source: Storm King's Thunder p. 221*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Neutral Evil"
 "ac": !!int "15"
-"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor.md)"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
 "hp": !!int "78"
 "hit_dice": "12d8 + 24"
 "modifier": !!int "3"
@@ -48,8 +48,8 @@ aliases:
     "desc": "+9"
 "damage_resistances": "poison"
 "gear":
-  - "[light crossbow](3-Mechanics/CLI/items/light-crossbow.md)"
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[light crossbow](3-Mechanics/CLI/items/light-crossbow-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 13"
 "languages": "Thieves' cant plus any two languages, Orc"
@@ -85,6 +85,6 @@ aliases:
     "name": "Light Crossbow"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/rool-skt.webp"
+"image": "file://bestiary/tokens/SKT/Rool.webp"
 ```
 ^statblock

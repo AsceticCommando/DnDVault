@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Knight of Eldraine"
 ---
-# [Knight of Eldraine](3-Mechanics\CLI\bestiary\humanoid/knight-of-eldraine-mcv4ec.md)
+# [Knight of Eldraine](3-Mechanics/CLI/bestiary/humanoid/knight-of-eldraine-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 The realm of Eldraine once consisted of five knightly courts: Ardenvale, Embereth, Garenbrig, Locthwain, and Vantress. In ancient times, the courts were established around five relics of tremendous magical power and unknown origin. Each relic is a magical embodiment of one of the five virtues the knights of the realm hold as standards of excellence.
@@ -41,7 +41,7 @@ Knights of Eldraine channel their devotion to the virtues of the realm into magi
 "subtype": "human"
 "alignment": "Any alignment"
 "ac": !!int "20"
-"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "78"
 "hit_dice": "12d8 + 24"
 "modifier": !!int "1"
@@ -57,9 +57,9 @@ Knights of Eldraine channel their devotion to the virtues of the realm into magi
   - "constitution": !!int "4"
   - "wisdom": !!int "2"
 "gear":
-  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow.md)"
-  - "[lance](3-Mechanics/CLI/items/lance.md)"
-  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
+  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow-xphb.md)"
+  - "[lance](3-Mechanics/CLI/items/lance-xphb.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
 "senses": "passive Perception 10"
 "languages": "Common"
 "cr": "3"
@@ -86,6 +86,6 @@ Knights of Eldraine channel their devotion to the virtues of the realm into magi
     "name": "Heavy Crossbow"
 "source":
   - "MCV4EC"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/knight-of-eldraine-mcv4ec.webp"
+"image": "file://bestiary/tokens/MCV4EC/Knight%20of%20Eldraine.webp"
 ```
 ^statblock

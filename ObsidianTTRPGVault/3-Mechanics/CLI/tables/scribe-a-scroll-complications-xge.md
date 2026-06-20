@@ -12,6 +12,8 @@ aliases:
 
 **Scribe a Scroll Complications**
 
+`dice: [](scribe-a-scroll-complications-xge.md#^scribe-a-scroll-complications)`
+
 | dice: d6 | Complication |
 |----------|--------------|
 | 1 | You bought up the last of the rare ink used to craft scrolls, angering a wizard in town. |

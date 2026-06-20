@@ -12,6 +12,8 @@ aliases:
 
 **Beholder Names**
 
+`dice: [](beholder-names-vgm.md#^beholder-names)`
+
 | dice: d20 | Name |
 |-----------|------|
 | 1 | Barixis |

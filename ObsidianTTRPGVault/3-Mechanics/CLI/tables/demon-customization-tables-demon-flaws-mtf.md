@@ -12,6 +12,8 @@ aliases:
 
 **Demon Flaws**
 
+`dice: [](demon-customization-tables-demon-flaws-mtf.md#^demon-flaws)`
+
 | dice: d6 | Flaw |
 |----------|------|
 | 1 | I act based on instinct, rarely with a plan. |

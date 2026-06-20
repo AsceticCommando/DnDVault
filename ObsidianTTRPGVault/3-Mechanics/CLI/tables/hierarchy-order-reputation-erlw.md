@@ -12,6 +12,8 @@ aliases:
 
 **Order Reputation**
 
+`dice: [](hierarchy-order-reputation-erlw.md#^order-reputation)`
+
 | dice: d6 | Reputation |
 |----------|------------|
 | 1 | **Faithful Few**. You are seen as righteous crusaders, upholding the highest ideals of your faith and doing the gods' work in the world. Your deeds and methods are rarely, if ever, questioned. |

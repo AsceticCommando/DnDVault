@@ -12,16 +12,18 @@ aliases:
 
 **Forest Shrine Adventures**
 
+`dice: [](forest-shrine-adventures-mot.md#^forest-shrine-adventures)`
+
 | dice: d10 | Adventure Goal |
 |-----------|----------------|
-| 1 | Get permission from the shrine's [druids](3-Mechanics/CLI/bestiary/humanoid/druid.md) to take part in a sacred hunt with them. |
-| 2 | Prevent game hunters from killing a [unicorn](3-Mechanics/CLI/bestiary/celestial/unicorn.md), and lead the unicorn to a shrine for shelter. |
-| 3 | Find a [scout](3-Mechanics/CLI/bestiary/humanoid/scout.md) from the shrine who has gone missing. |
+| 1 | Get permission from the shrine's [druids](3-Mechanics/CLI/bestiary/humanoid/druid-xmm.md) to take part in a sacred hunt with them. |
+| 2 | Prevent game hunters from killing a [unicorn](3-Mechanics/CLI/bestiary/celestial/unicorn-xmm.md), and lead the unicorn to a shrine for shelter. |
+| 3 | Find a [scout](3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md) from the shrine who has gone missing. |
 | 4 | Escape a shrine after being captured and held there for crimes against the forest. |
 | 5 | Rescue trophy hunters being tortured at a shrine. |
-| 6 | Earn a [druid's](3-Mechanics/CLI/bestiary/humanoid/druid.md) trust to learn a valuable secret about the forest. |
+| 6 | Earn a [druid's](3-Mechanics/CLI/bestiary/humanoid/druid-xmm.md) trust to learn a valuable secret about the forest. |
 | 7 | Retrieve a sacred weapon held in the grove. |
-| 8 | Recruit the help of the shrine's [druids](3-Mechanics/CLI/bestiary/humanoid/druid.md) to defeat a group of poachers. |
+| 8 | Recruit the help of the shrine's [druids](3-Mechanics/CLI/bestiary/humanoid/druid-xmm.md) to defeat a group of poachers. |
 | 9 | Acquire a beast companion from the shrine. |
-| 10 | Defend the shrine from a group of [harpies](3-Mechanics/CLI/bestiary/monstrosity/harpy.md). |
+| 10 | Defend the shrine from a group of [harpies](3-Mechanics/CLI/bestiary/monstrosity/harpy-xmm.md). |
 ^forest-shrine-adventures

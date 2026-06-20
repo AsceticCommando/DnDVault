@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Paper Bird"
 ---
-# [Paper Bird](3-Mechanics\CLI\bestiary\construct/paper-bird-wbtw.md)
+# [Paper Bird](3-Mechanics/CLI/bestiary/construct/paper-bird-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 166*  
 
 Endelyn writes her correspondence on sheets of enchanted parchment, which she then folds into the shape of paper birds that fly to their intended recipients. If a message's recipient is on another plane of existence or is otherwise unreachable, the paper bird bursts into flames on takeoff and is instantly destroyed.
@@ -56,6 +56,6 @@ The paper birds are hostile toward all creatures except the hags of the Hourglas
     "name": "Sharp Edges"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/construct/token/paper-bird-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Paper%20Bird.webp"
 ```
 ^statblock

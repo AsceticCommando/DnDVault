@@ -12,6 +12,8 @@ aliases:
 
 **Omens of Iroas**
 
+`dice: [](omens-of-iroas-mot.md#^omens-of-iroas)`
+
 | dice: d6 | dice: d100 | Omen of Iroas |
 |----------|------------|---------------|
 | 1 | 29 | The rousing blare of distant trumpets drowns out other sounds. |

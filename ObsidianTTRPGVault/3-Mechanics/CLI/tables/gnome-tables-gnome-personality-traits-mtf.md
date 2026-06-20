@@ -12,6 +12,8 @@ aliases:
 
 **Gnome Personality Traits**
 
+`dice: [](gnome-tables-gnome-personality-traits-mtf.md#^gnome-personality-traits)`
+
 | dice: d6 | Personality Trait |
 |----------|-------------------|
 | 1 | Once you develop a liking for something, you quickly become obsessed with it. |

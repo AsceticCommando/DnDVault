@@ -12,6 +12,8 @@ aliases:
 
 **Black Dragon Personality Traits**
 
+`dice: [](creating-a-black-dragon-black-dragon-personality-traits-ftd.md#^black-dragon-personality-traits)`
+
 | dice: d8 | Trait |
 |----------|-------|
 | 1 | I demonstrate my brilliance through the cruel subtlety of my actions. |

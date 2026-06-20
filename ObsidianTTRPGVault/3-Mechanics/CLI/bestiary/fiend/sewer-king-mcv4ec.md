@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Sewer King"
 ---
-# [Sewer King](3-Mechanics\CLI\bestiary\fiend/sewer-king-mcv4ec.md)
+# [Sewer King](3-Mechanics/CLI/bestiary/fiend/sewer-king-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 Sewer kings are hulking, monstrous rats empowered by fiendish blood. This unholy influence gives sewer kings their enormous size, supernatural strength, wicked cunning, and ability to speak.
@@ -77,6 +77,6 @@ Deep in the bowels of towns and cities, sewer kings reign over underground vermi
     "name": "Skitter"
 "source":
   - "MCV4EC"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/sewer-king-mcv4ec.webp"
+"image": "file://bestiary/tokens/MCV4EC/Sewer%20King.webp"
 ```
 ^statblock

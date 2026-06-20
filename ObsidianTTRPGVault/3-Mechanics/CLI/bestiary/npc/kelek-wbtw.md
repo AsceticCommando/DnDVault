@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Kelek"
 ---
-# [Kelek](3-Mechanics\CLI\bestiary\npc/kelek-wbtw.md)
+# [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 219*  
 
 Kelek is a greedy, narcissistic sociopath who revels in chaos but is a coward at heart. The fact that he's highly intelligent makes him even more dangerous. More than anything, he wants the staff of power in the possession of his most hated foe, Ringlerun (described later in this appendix).
@@ -25,7 +25,7 @@ Kelek is a greedy, narcissistic sociopath who revels in chaos but is a coward at
 "subtype": "human, sorcerer"
 "alignment": "Chaotic Evil"
 "ac": !!int "12"
-"ac_class": "[bracers of defense](3-Mechanics/CLI/items/bracers-of-defense.md)"
+"ac_class": "[bracers of defense](3-Mechanics/CLI/items/bracers-of-defense-xdmg.md)"
 "hp": !!int "45"
 "hit_dice": "7d8 + 14"
 "modifier": !!int "0"
@@ -49,8 +49,8 @@ Kelek is a greedy, narcissistic sociopath who revels in chaos but is a coward at
 "languages": "Common, Draconic, Elvish"
 "cr": "5"
 "traits":
-  - "desc": "Kelek wears [bracers of defense](3-Mechanics/CLI/items/bracers-of-defense.md)\
-      \ and carries a [staff of striking](3-Mechanics/CLI/items/staff-of-striking.md)\
+  - "desc": "Kelek wears [bracers of defense](3-Mechanics/CLI/items/bracers-of-defense-xdmg.md)\
+      \ and carries a [staff of striking](3-Mechanics/CLI/items/staff-of-striking-xdmg.md)\
       \ with 10 charges. The staff regains 1d6 + 4 expended charges daily at dawn.\
       \ If its last charge is expended, roll a d20; on a 1, the staff becomes a nonmagical\
       \ quarterstaff."
@@ -73,11 +73,11 @@ Kelek is a greedy, narcissistic sociopath who revels in chaos but is a coward at
       \ damage on a failed save, or half as much damage on a successful one."
     "name": "Fiery Explosion (Recharge 4-6)"
   - "desc": "Kelek casts one of the following spells, using Charisma as the spellcasting\
-      \ ability (spell save DC 14):\n\n**At will:** [light](3-Mechanics/CLI/spells/light.md),\
-      \ [mage hand](3-Mechanics/CLI/spells/mage-hand.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md)\n\
-      \n**1/day each:** [dominate beast](3-Mechanics/CLI/spells/dominate-beast.md),\
-      \ [fly](3-Mechanics/CLI/spells/fly.md), [mirror image](3-Mechanics/CLI/spells/mirror-image.md),\
-      \ [web](3-Mechanics/CLI/spells/web.md)"
+      \ ability (spell save DC 14):\n\n**At will:** [light](3-Mechanics/CLI/spells/light-xphb.md),\
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
+      \n**1/day each:** [dominate beast](3-Mechanics/CLI/spells/dominate-beast-xphb.md),\
+      \ [fly](3-Mechanics/CLI/spells/fly-xphb.md), [mirror image](3-Mechanics/CLI/spells/mirror-image-xphb.md),\
+      \ [web](3-Mechanics/CLI/spells/web-xphb.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "When he is hit by an attack, Kelek protects himself with an [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
@@ -86,6 +86,6 @@ Kelek is a greedy, narcissistic sociopath who revels in chaos but is a coward at
     "name": "Arcane Defense (3/Day)"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/npc/token/kelek-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Kelek.webp"
 ```
 ^statblock

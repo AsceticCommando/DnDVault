@@ -11,4 +11,4 @@ aliases:
 
 ## 1st Level
 
-- [Cure Wounds](3-Mechanics/CLI/spells/cure-wounds.md "PHB")
+- [Cure Wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md "XPHB")

@@ -18,7 +18,7 @@ The following pages provide easy-to-use versions of Appendix D from The Wild Bey
 ## Cards
 
 ### Agdon Longscarf the Harengon
-![](3-Mechanics/CLI/decks/img/roleplaying-cards-001-1.webp#card)
+![](file://decks/WBtW/Roleplaying%20Cards/001-1.webp#card)
 CHAPTER 2: HITHER
 
 This harengon brigand is an insufferable braggart and a daring thief who's willing to put himself in seemingly precarious situations when he has an audience, confident that his speed and cunning will see him through danger. He leads by example rather than by dictate.
@@ -30,7 +30,7 @@ This harengon brigand is an insufferable braggart and a daring thief who's willi
 - **Flaw.** "My confidence is bound up in my scarf's powers. I'm quite the coward without it."  
 
 ### Amidor the Dandelion
-![](3-Mechanics/CLI/decks/img/roleplaying-cards-001-2.webp#card)
+![](file://decks/WBtW/Roleplaying%20Cards/001-2.webp#card)
 CHAPTER 4: YON
 
 This 3-foot-tall talking dandelion finds poetry in everything and is quick to fall head over heels in love. A humble idealist, Amidor never puts its own needs above the needs of others.
@@ -42,7 +42,7 @@ This 3-foot-tall talking dandelion finds poetry in everything and is quick to fa
 - **Flaw.** "I cannot resist a pretty face or a heavenly scent."  
 
 ### Alagarthas the Elf Prince
-![](3-Mechanics/CLI/decks/img/roleplaying-cards-001-3.webp#card)
+![](file://decks/WBtW/Roleplaying%20Cards/001-3.webp#card)
 CHAPTER 4: YON
 
 This prince made a bargain with Endelyn Moongrave and is paying the price. He longs to return to his home in the Misty Forest and deal with the threat of an evil green dragon that nests there.
@@ -54,7 +54,7 @@ This prince made a bargain with Endelyn Moongrave and is paying the price. He lo
 - **Flaw.** "To relent is to show weakness, and I shall not be seen as weak. It is my destiny to be king."  
 
 ### Argantle the Korred Queen
-![](3-Mechanics/CLI/decks/img/roleplaying-cards-001-4.webp#card)
+![](file://decks/WBtW/Roleplaying%20Cards/001-4.webp#card)
 CHAPTER 4: YON
 
 Queen Argantle sports a generous beard and whiskers. Her hair is shorn on one side, from where Endelyn Moongrave recently snipped off the queen's precious, powerful locks. Argantle wears an abundance of shale jewelry that doesn't seem to weigh her down in the least.
@@ -66,7 +66,7 @@ Queen Argantle sports a generous beard and whiskers. Her hair is shorn on one si
 - **Flaw.** "I am quick to make enemies and slow to make friends."  
 
 ### Burly the Bugbear
-![](3-Mechanics/CLI/decks/img/roleplaying-cards-002-1.webp#card)
+![](file://decks/WBtW/Roleplaying%20Cards/002-1.webp#card)
 CHAPTER 1: WITCHLIGHT CARNIVAL
 
 Burly and his brother, Hurly, joined the carnival as youngsters. Hurly disappeared a few months ago, and search parties failed to locate him. Mister Witch and Mister Light convinced Burly to stay with the carnival afterward, rather than continue the search on his own. When he's not straining at some feat of athleticism, he's reading books of poetry.
@@ -78,7 +78,7 @@ Burly and his brother, Hurly, joined the carnival as youngsters. Hurly disappear
 - **Flaw.** "Sometimes I forget my own strength and accidentally break things. Especially fragile things."  
 
 ### Chucklehead the Goblin
-![](3-Mechanics/CLI/decks/img/roleplaying-cards-002-2.webp#card)
+![](file://decks/WBtW/Roleplaying%20Cards/002-2.webp#card)
 CHAPTER 3: THITHER
 
 Chucklehead's real name is Fug. He has a strong affection for Mishka (the only child in Loomlurch who doesn't fear or mock him) and treats her like a younger sibling. He resists any attempt to remove the maggot that lives in his head, because he fears losing it might turn him back into the uncaring, self-serving person he was previously.
@@ -90,7 +90,7 @@ Chucklehead's real name is Fug. He has a strong affection for Mishka (the only c
 - **Flaw.** "The maggot showed me my true self. I'll always love it for that, even as it eats my head."  
 
 ### Candlefoot the Mime
-![](3-Mechanics/CLI/decks/img/roleplaying-cards-002-3.webp#card)
+![](file://decks/WBtW/Roleplaying%20Cards/002-3.webp#card)
 CHAPTER 1: WITCHLIGHT CARNIVAL
 
 Candlefoot's appearance is strangely monochromatic, due to the chaotic magic of a reckless sorcerer to whom he was apprenticed in his youth. After fleeing his master, Candlefoot found a home in the Witchlight Carnival. He can communicate only through mime until his stolen voice is retrieved from the kenku warlock, Kettlesteam.
@@ -102,7 +102,7 @@ Candlefoot's appearance is strangely monochromatic, due to the chaotic magic of 
 - **Flaw.** "I'm afraid of my own reflection and avoid looking into mirrors. The Hall of Illusions terrifies me."  
 
 ### Clapperclaw the Scarecrow
-![](3-Mechanics/CLI/decks/img/roleplaying-cards-002-4.webp#card)
+![](file://decks/WBtW/Roleplaying%20Cards/002-4.webp#card)
 CHAPTER 2: HITHER
 
 Despite the loss of its original head, this child-sized scarecrow retains an upbeat demeanor characterized by its affinity for gallows humor. With its long claws and rattling gourd head, Clapperclaw knows it can be off-putting to strangers, and it relies on humor to defuse tension.
@@ -114,7 +114,7 @@ Despite the loss of its original head, this child-sized scarecrow retains an upb
 - **Flaw.** "I'm self-conscious about my replacement head."  
 
 ### Gleam the Elf Acrobat
-![](3-Mechanics/CLI/decks/img/roleplaying-cards-003-2.webp#card)
+![](file://decks/WBtW/Roleplaying%20Cards/003-2.webp#card)
 CHAPTER 4: YON
 
 Gleam is blessed with kindness, grace, and the power of moonlight. She wears a crescent moon mask and is one-half of an acrobatic duo called the Selenelion twins, alongside Glister, her sunny twin. Gleam wants to reunite with her twin and return to the Witchlight Carnival, where they belong.
@@ -126,7 +126,7 @@ Gleam is blessed with kindness, grace, and the power of moonlight. She wears a c
 - **Flaw.** "I avoid conflict. Even a simple argument leaves me flustered and longing to be elsewhere."  
 
 ### Glister the Elf Acrobat
-![](3-Mechanics/CLI/decks/img/roleplaying-cards-003-4.webp#card)
+![](file://decks/WBtW/Roleplaying%20Cards/003-4.webp#card)
 CHAPTER 4: YON
 
 Glister is blessed with confidence, grace, and the power of the sun. She wears a sun mask and is one-half of an acrobatic duo called the Selenelion twins, alongside Gleam, her shy twin. Glister is content to remain Endelyn's "guest" in Motherhorn if it means her sibling is safe from the hag's wickedness.
@@ -138,7 +138,7 @@ Glister is blessed with confidence, grace, and the power of the sun. She wears a
 - **Flaw.** "When I'm not the center of attention, I become sullen and moody."  
 
 ### Hurly the Bugbear
-![](3-Mechanics/CLI/decks/img/roleplaying-cards-004-1.webp#card)
+![](file://decks/WBtW/Roleplaying%20Cards/004-1.webp#card)
 CHAPTER 4: YON
 
 Hurly's brusque nature and short temper made life in the Witchlight Carnival hard for him. His prickly demeanor stems from the fact that he lacks the talent to be what he wants to be: an entertainer. Mister Witch and Mister Light gave him menial jobs because they knew his limitations. By allowing him to perform in her theater, Endelyn Moongrave confirmed what Hurly knew to be true: that Witch and Light were right all along.
@@ -150,7 +150,7 @@ Hurly's brusque nature and short temper made life in the Witchlight Carnival har
 - **Flaw.** "I'm quick to lose my temper."  
 
 ### Kettlesteam the Kenku
-![](3-Mechanics/CLI/decks/img/roleplaying-cards-004-2.webp#card)
+![](file://decks/WBtW/Roleplaying%20Cards/004-2.webp#card)
 CHAPTER 1: WITCHLIGHT CARNIVAL
 
 Kettlesteam delights in causing trouble at the carnival. She uses a combination of mimicry and conjured illusions to communicate; she has overheard so many conversations that she can talk in one of several different voices.
@@ -162,7 +162,7 @@ Kettlesteam delights in causing trouble at the carnival. She uses a combination 
 - **Flaw.** "I have a volatile temper (mimics the sound of a kettle boiling over)."  
 
 ### Jingle Jangle the Goblin
-![](3-Mechanics/CLI/decks/img/roleplaying-cards-004-3.webp#card)
+![](file://decks/WBtW/Roleplaying%20Cards/004-3.webp#card)
 CHAPTER 2: HITHER
 
 Jingle Jangle is a kind soul who refers to herself in the third person. She has a knack for finding keys and is thrilled to add new ones to her collection. She also gives keys as gifts to those who need them.
@@ -176,7 +176,7 @@ Jingle Jangle seeks a quiet life far away from locked doors and the intrigues of
 - **Flaw.** "Jingle Jangle is frightened by locked doors!"  
 
 ### Mister Light
-![](3-Mechanics/CLI/decks/img/roleplaying-cards-004-4.webp#card)
+![](file://decks/WBtW/Roleplaying%20Cards/004-4.webp#card)
 CHAPTER 1: WITCHLIGHT CARNIVAL
 
 Mister Light is the face of the Witchlight Carnival. He's a loud, flamboyant ringleader who'll do anything to maintain the carnival's happy atmosphere.
@@ -190,7 +190,7 @@ Mister Light wears a harlequin suit and a jaunty hat. When he presides over the 
 - **Flaw.** "I was the crueler of the two of us, long ago. Perhaps that streak of violence hasn't quite left me."  
 
 ### Mister Witch
-![](3-Mechanics/CLI/decks/img/roleplaying-cards-005-1.webp#card)
+![](file://decks/WBtW/Roleplaying%20Cards/005-1.webp#card)
 CHAPTER 1: WITCHLIGHT CARNIVAL
 
 Mister Witch is businesslike and humorless as he deals with staff and keeps the carnival running on schedule. A smile on his visage is a rare event, and it fades quickly.
@@ -204,7 +204,7 @@ Mister Witch dresses with panache, though in muted tones, and always carries his
 - **Flaw.** "I'm too confident in my own authority to see the seeds of doubt in the carnival staff."  
 
 ### Nib the Miser
-![](3-Mechanics/CLI/decks/img/roleplaying-cards-005-2.webp#card)
+![](file://decks/WBtW/Roleplaying%20Cards/005-2.webp#card)
 CHAPTER 3: THITHER
 
 Nib (whose real name is Meryl Caberstock) is a tall, rake-thin, elderly man dressed in threadbare finery and a housecoat. He wears a blindfold to avoid glimpsing the apparitions that curse him, but their presence still unnerves him.
@@ -216,7 +216,7 @@ Nib (whose real name is Meryl Caberstock) is a tall, rake-thin, elderly man dres
 - **Flaw.** "Yes, I'm scared. If you'd done all the things I've done, you'd be scared too."  
 
 ### Morgort the Bullywug Knight
-![](3-Mechanics/CLI/decks/img/roleplaying-cards-005-3.webp#card)
+![](file://decks/WBtW/Roleplaying%20Cards/005-3.webp#card)
 CHAPTER 2: HITHER
 
 The Knight of Warts is known for her skill at piloting balloons. Justice and moral clarity guide her every action. Despite being held prisoner for treason, she claims that her honor remains intact. Even if it means losing her title, she refuses to bow to King Gullop XIX or renounce her friend and companion, Wigglewog, with whom she conspired to help Sir Talavar escape Bavlorna's clutches.
@@ -228,7 +228,7 @@ The Knight of Warts is known for her skill at piloting balloons. Justice and mor
 - **Flaw.** "I'm a snob who criticizes the state and quality of weapons wielded by others."  
 
 ### Northwind the Treant Sapling
-![](3-Mechanics/CLI/decks/img/roleplaying-cards-005-4.webp#card)
+![](file://decks/WBtW/Roleplaying%20Cards/005-4.webp#card)
 CHAPTER 1: WITCHLIGHT CARNIVAL
 
 Northwind embodies the joys of spring, finding childlike wonder in everything from a story told by a stranger to a drop of morning dew. The sapling hails from a line of Feywild treants and travels as the Witchlight Carnival's landscaper, laying down silk ribbons to form rivers and planting acorns that grow rapidly into splendid oak trees.
@@ -240,7 +240,7 @@ Northwind embodies the joys of spring, finding childlike wonder in everything fr
 - **Flaw.** "Oops! I simply cannot keep a secret."  
 
 ### Palasha the Mermaid
-![](3-Mechanics/CLI/decks/img/roleplaying-cards-006-1.webp#card)
+![](file://decks/WBtW/Roleplaying%20Cards/006-1.webp#card)
 CHAPTER 1: WITCHLIGHT CARNIVAL
 
 Palasha is an elegant and operatic mermaid whose long fins billow even when she's not underwater. She sculpts water with her extraordinary voice, creating astounding displays of aquatic magic. Palasha's distant yet demanding nature has earned her a reputation for being haughty, but really, she's just slow to trust.
@@ -252,12 +252,12 @@ Palasha is an elegant and operatic mermaid whose long fins billow even when she'
 - **Flaw.** "I have trouble showing my true feelings, which makes me seem aloof."  
 
 ### Shon the Hunchback
-![](3-Mechanics/CLI/decks/img/roleplaying-cards-006-2.webp#card)
+![](file://decks/WBtW/Roleplaying%20Cards/006-2.webp#card)
 CHAPTER 5: PALACE OF HEART'S DESIRE
 
 Shon knows that Zybilna is the archmage Iggwilv in a new form—a change for the better, in his estimation. He would never cross Zybilna, to whom he owes his career.
 
-Shon and his "hump" (a [giant wolf spider](3-Mechanics/CLI/bestiary/beast/giant-wolf-spider.md) named Gray that rides on Shon's back) are never apart for very long.
+Shon and his "hump" (a [giant wolf spider](3-Mechanics/CLI/bestiary/beast/giant-wolf-spider-xmm.md) named Gray that rides on Shon's back) are never apart for very long.
 
 - **Alignment.** Neutral.  
 - **Personality Trait.** "I like books more than people."  
@@ -266,7 +266,7 @@ Shon and his "hump" (a [giant wolf spider](3-Mechanics/CLI/bestiary/beast/giant-
 - **Flaw.** "If you're put off by my abrasiveness, know that I couldn't care less. I don't need any more friends."  
 
 ### Pincushion the Living Doll
-![](3-Mechanics/CLI/decks/img/roleplaying-cards-006-3.webp#card)
+![](file://decks/WBtW/Roleplaying%20Cards/006-3.webp#card)
 CHAPTER 3: THITHER
 
 Pincushion is Skabatha Nightshade's childhood doll—an animated nanny brought to life by Baba Yaga to help educate Skabatha. The doll's magic has kept it well preserved, despite its great age. Granny Nightshade has put Pincushion in charge of producing fabric for her toy workshop—a job the doll considers beneath it.
@@ -278,7 +278,7 @@ Pincushion is Skabatha Nightshade's childhood doll—an animated nanny brought t
 - **Flaw.** "I crave flattery."  
 
 ### Sir Talavar the Faerie Dragon
-![](3-Mechanics/CLI/decks/img/roleplaying-cards-006-4.webp#card)
+![](file://decks/WBtW/Roleplaying%20Cards/006-4.webp#card)
 CHAPTER 2: HITHER
 
 Sir Talavar is an esteemed member of the Seelie Court and a loyal vassal of the Summer Queen. Many of Sir Talavar's squires have gone on to become knights of great renown. The venerable faerie dragon has an encouraging, can-do demeanor and an unwavering sense of honor.
@@ -290,7 +290,7 @@ Sir Talavar is an esteemed member of the Seelie Court and a loyal vassal of the 
 - **Flaw.** "My knightly oaths are tested most strongly by my craving for hard candy."  
 
 ### Sowpig the Ghoul
-![](3-Mechanics/CLI/decks/img/roleplaying-cards-007-1.webp#card)
+![](file://decks/WBtW/Roleplaying%20Cards/007-1.webp#card)
 CHAPTER 1: WITCHLIGHT CARNIVAL & CHAPTER 3: THITHER
 
 Skabatha Nightshade encountered this small ghoul while collecting grave dust in a cemetery on the Material Plane. The hag brought Sowpig to Loomlurch and fed her bowls of carrion. Sowpig lures children from the Witchlight Carnival into the hag's clutches so that Granny Nightshade can put them to work in her toy shop.
@@ -302,7 +302,7 @@ Skabatha Nightshade encountered this small ghoul while collecting grave dust in 
 - **Flaw.** "I'm a soulless husk incapable of remorse."  
 
 ### Stagefright the Goblin
-![](3-Mechanics/CLI/decks/img/roleplaying-cards-007-2.webp#card)
+![](file://decks/WBtW/Roleplaying%20Cards/007-2.webp#card)
 CHAPTER 4: YON
 
 This goblin's real name is Onk. He oversees the goblin laborers who work behind the scenes at Motherhorn. He also serves as the theater's master of ceremonies.
@@ -316,7 +316,7 @@ Stagefright carries a fool's scepter topped with a visage similar to his, and he
 - **Flaw.** "I treat everyone like props."  
 
 ### Squirt the Oilcan
-![](3-Mechanics/CLI/decks/img/roleplaying-cards-007-3.webp#card)
+![](file://decks/WBtW/Roleplaying%20Cards/007-3.webp#card)
 CHAPTER 3: THITHER
 
 Originally a nonsentient oilcan, Squirt was carried to the Feywild by dwarves hoping to harvest boggle oil. Though the expedition was a success, the dwarves were put to sleep by pixie magic. During a celebration that erupted around them, an elf used her magic to animate the oilcan in jest. Having come alive at a party, Squirt was imbued with the urge to seek out fun wherever it can be found.
@@ -328,7 +328,7 @@ Originally a nonsentient oilcan, Squirt was carried to the Feywild by dwarves ho
 - **Flaw.** "I'm too tired to fly today. You carry me."  
 
 ### Thaco the Clown
-![](3-Mechanics/CLI/decks/img/roleplaying-cards-007-4.webp#card)
+![](file://decks/WBtW/Roleplaying%20Cards/007-4.webp#card)
 CHAPTER 1: WITCHLIGHT CARNIVAL
 
 Thaco is the longest-serving Witchlight hand, but no one really knows his history and scarcely any dare to ask, for he almost never speaks and harbors a malicious streak that is kept in check by Mister Witch. He paints his face with a grin and puffs on a bubble pipe. Thaco has retired from performing and no longer stages his knife-throwing act due to an unfortunate incident that took place in the Big Top some time ago.
@@ -340,7 +340,7 @@ Thaco is the longest-serving Witchlight hand, but no one really knows his histor
 - **Flaw.** "I can't stand children. They're like roaches."  
 
 ### Thinnings the Butler
-![](3-Mechanics/CLI/decks/img/roleplaying-cards-008-1.webp#card)
+![](file://decks/WBtW/Roleplaying%20Cards/008-1.webp#card)
 CHAPTER 5: PALACE OF HEART'S DESIRE
 
 Zybilna's butler appears as a lanky man clad in faded brown clothes. Thinnings longs to see Prismeer's archfey freed from temporal stasis and her enemies fed their comeuppance. He helps anyone whose goals align with his own, but he abhors violence and shuns combat.
@@ -352,7 +352,7 @@ Zybilna's butler appears as a lanky man clad in faded brown clothes. Thinnings l
 - **Flaw.** "Don't expect me to come to your rescue. I didn't get this far by being brave or foolhardy."  
 
 ### Will of the Feywild
-![](3-Mechanics/CLI/decks/img/roleplaying-cards-008-2.webp#card)
+![](file://decks/WBtW/Roleplaying%20Cards/008-2.webp#card)
 CHAPTER 3: THITHER
 
 Will looks like an 11-year-old lad dressed in a homemade tunic and a spider silk cloak. He is the polymorphed form of an oni named Mugan, who served Granny Nightshade until a curse changed his alignment from lawful evil to chaotic good. Will's time in the forests of Thither has imbued him with a personality common among fairykind: boastful, impulsive, and full of mirth.
@@ -364,7 +364,7 @@ Will looks like an 11-year-old lad dressed in a homemade tunic and a spider silk
 - **Flaw.** "I'm as stubborn and slippery as a toad. I won't and I shan't, but I will if I can't!"  
 
 ### Vansel the Satyr
-![](3-Mechanics/CLI/decks/img/roleplaying-cards-008-3.webp#card)
+![](file://decks/WBtW/Roleplaying%20Cards/008-3.webp#card)
 CHAPTER 2: HITHER
 
 The satyr Vansel is a vagabond who travels the Feywild in a constant state of amusement at whatever befalls him. He enjoys bathing and splashing in water, picking flowers, and eating wild mushrooms. He has no shame with regard to who he is and what he looks like, and he has a knack for small talk, reveling in the opportunity to chat with anyone about anything.
@@ -376,7 +376,7 @@ The satyr Vansel is a vagabond who travels the Feywild in a constant state of am
 - **Flaw.** "I laugh in the face of danger, often to my detriment."  
 
 ### Zybilna of Prismeer
-![](3-Mechanics/CLI/decks/img/roleplaying-cards-008-4.webp#card)
+![](file://decks/WBtW/Roleplaying%20Cards/008-4.webp#card)
 CHAPTER 5: PALACE OF HEART'S DESIRE
 
 Iggwilv was a brilliant, calculating figure hardly prone to emotional outbursts, but as Zybilna, she allows her emotions to run rampant and is more likely to find herself in the grip of happiness, anger, or melancholy. This is the price she pays to exert control over the Feywild and impose her will on the domain of Prismeer.

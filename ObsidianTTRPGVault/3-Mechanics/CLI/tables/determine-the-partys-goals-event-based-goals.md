@@ -12,6 +12,8 @@ aliases:
 
 **Event-Based Goals**
 
+`dice: [](determine-the-partys-goals-event-based-goals.md#^event-based-goals)`
+
 | dice: d20 | Goal |
 |-----------|------|
 | 1 | Bring the villain to justice. |

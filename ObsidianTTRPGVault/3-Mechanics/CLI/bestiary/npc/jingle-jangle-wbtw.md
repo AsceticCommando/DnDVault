@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Jingle Jangle"
 ---
-# [Jingle Jangle](3-Mechanics\CLI\bestiary\npc/jingle-jangle-wbtw.md)
+# [Jingle Jangle](3-Mechanics/CLI/bestiary/npc/jingle-jangle-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 70*  
 
 Jingle Jangle's obsession with keys serves as a cautionary tale for those who would enter into a bargain with Bavlorna Blightstraw. The goblin once sought the hag's help in a desperate attempt to undo what she thought was a terrible curse: wherever Jingle Jangle went, she felt a tormenting fear of being caught on the wrong side of a locked door. When she appealed to Bavlorna for aid, the hag removed the goblin's ability to perceive that fear and replaced it with an insatiable and overwhelming need to collect keys. So great is this obsession that Jingle Jangle has lost her own sense of self and now refers to herself only in the third person.
@@ -28,7 +28,7 @@ Jingle Jangle seeks a quiet life far away from locked doors and the intrigues of
 "subtype": "goblinoid"
 "alignment": "Chaotic Good"
 "ac": !!int "15"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "7"
 "hit_dice": "2d6"
 "modifier": !!int "2"
@@ -58,6 +58,6 @@ Jingle Jangle seeks a quiet life far away from locked doors and the intrigues of
     "name": "Flail of Locks"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/npc/token/jingle-jangle-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Jingle%20Jangle.webp"
 ```
 ^statblock

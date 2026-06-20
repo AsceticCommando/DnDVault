@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Lord Soth"
 ---
-# [Lord Soth](3-Mechanics\CLI\bestiary\npc/lord-soth-dsotdq.md)
+# [Lord Soth](3-Mechanics/CLI/bestiary/npc/lord-soth-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 206*  
 
 Lord Soth is the most powerful death knight on Krynn. Once a Solamnic Knight of the Order of the Rose, Soth was a paragon of virtue and justice who allowed his pride to lead him down an evil path. The gods gave Soth a chance at redemption, charging him with confronting the Kingpriest of Istar and averting the Cataclysm. However, he was undone by his pride, abandoned his quest, and allowed the Cataclysm to devastate Krynn. Soth perished during the Cataclysm but then rose from the ashes as an Undead horror. In his cursed castle, Dargaard Keep, Soth long ignored the ruined world, but the Dragon Queen's summons has called his evil forth once more.
@@ -26,7 +26,7 @@ In battle, Soth is a terror, wielding the last remnant of the Cataclysm's fires 
 "subtype": "paladin"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
-"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor.md)"
+"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "228"
 "hit_dice": "24d8 + 120"
 "modifier": !!int "0"
@@ -86,10 +86,11 @@ In battle, Soth is a terror, wielding the last remnant of the Cataclysm's fires 
     "name": "Word of Death (1/Day)"
   - "desc": "Soth casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 19):\n\n**At\
-      \ will:** [command](3-Mechanics/CLI/spells/command.md) (cast at 3rd level)\n\
-      \n**2/day each:** [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), [hold\
-      \ person](3-Mechanics/CLI/spells/hold-person.md) (cast at 3rd level)\n\n**1/day:**\
-      \ [banishment](3-Mechanics/CLI/spells/banishment.md) (cast at 6th level)"
+      \ will:** [command](3-Mechanics/CLI/spells/command-xphb.md) (cast at 3rd level)\n\
+      \n**2/day each:** [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
+      \ [hold person](3-Mechanics/CLI/spells/hold-person-xphb.md) (cast at 3rd level)\n\
+      \n**1/day:** [banishment](3-Mechanics/CLI/spells/banishment-xphb.md) (cast at\
+      \ 6th level)"
     "name": "Spellcasting"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, Lord can expend a use to take one of the following actions. Lord regains\
@@ -108,6 +109,6 @@ In battle, Soth is a terror, wielding the last remnant of the Cataclysm's fires 
     "name": "Cast a Spell (Costs 3 Actions)"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/npc/token/lord-soth-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Lord%20Soth.webp"
 ```
 ^statblock

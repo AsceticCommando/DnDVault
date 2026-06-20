@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Beldora"
 ---
-# [Beldora](3-Mechanics\CLI\bestiary\npc/beldora-skt.md)
+# [Beldora](3-Mechanics/CLI/bestiary/npc/beldora-skt.md)
 *Source: Storm King's Thunder p. 249*  
 
 Beldora is a member of the Harpers who survives using her wits and wiles. She looks like a homeless waif, but she's a survivor who shies away from material wealth.
@@ -53,8 +53,8 @@ Flaw:"I like lying to people. Makes life more interesting, no?"
   - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+5"
 "gear":
-  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow.md)"
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "passive Perception 13"
 "languages": "Common, Draconic, Dwarvish, Halfling"
 "traits":
@@ -78,6 +78,6 @@ Flaw:"I like lying to people. Makes life more interesting, no?"
     "name": "Duck and Cover"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/beldora-skt.webp"
+"image": "file://bestiary/tokens/SKT/Beldora.webp"
 ```
 ^statblock

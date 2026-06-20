@@ -12,6 +12,8 @@ aliases:
 
 **NPC Ideals**
 
+`dice: [](dm-screen-npc-ideals-screen.md#^npc-ideals)`
+
 | dice: d20 | Ideal (Alignment) |
 |-----------|-------------------|
 | 1 | Aspiration (any) |

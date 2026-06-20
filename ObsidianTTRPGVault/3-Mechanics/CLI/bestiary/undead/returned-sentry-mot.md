@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Returned Sentry"
 ---
-# [Returned Sentry](3-Mechanics\CLI\bestiary\undead/returned-sentry-mot.md)
+# [Returned Sentry](3-Mechanics/CLI/bestiary/undead/returned-sentry-mot.md)
 *Source: Mythic Odysseys of Theros p. 241*  
 
 Most new or purposeless Returned are easily manipulated into serving their more forceful brethren. Having purpose forced upon them, these Returned perform simple, artless tasks with middling efficiency. Their one virtue is their tirelessness, which makes them exceptional guards. In the necropoleis, this sees many Returned employed as sentries, though they might also be messengers or laborers. If threatened, groups of these Returned work well together, sharing the unified goals of overcoming their foes and getting back to the task at hand.
@@ -27,7 +27,7 @@ Returned reenter the world blank and undead. No longer possessing the ability to
 "type": "undead"
 "alignment": "Lawful Evil"
 "ac": !!int "15"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "22"
 "hit_dice": "4d8 + 4"
 "modifier": !!int "2"
@@ -43,8 +43,8 @@ Returned reenter the world blank and undead. No longer possessing the ability to
 "damage_immunities": "poison"
 "condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
 "gear":
-  - "[sling](3-Mechanics/CLI/items/sling.md)"
-  - "[spear](3-Mechanics/CLI/items/spear.md)"
+  - "[sling](3-Mechanics/CLI/items/sling-xphb.md)"
+  - "[spear](3-Mechanics/CLI/items/spear-xphb.md)"
 "senses": "passive Perception 11"
 "languages": "the languages it knew in life"
 "cr": "1"
@@ -71,6 +71,6 @@ Returned reenter the world blank and undead. No longer possessing the ability to
     "name": "Sling"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/undead/token/returned-sentry-mot.webp"
+"image": "file://bestiary/tokens/MOT/Returned%20Sentry.webp"
 ```
 ^statblock

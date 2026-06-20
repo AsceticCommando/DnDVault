@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Triton Master of Waves"
 ---
-# [Triton Master of Waves](3-Mechanics\CLI\bestiary\humanoid/triton-master-of-waves-mot.md)
+# [Triton Master of Waves](3-Mechanics/CLI/bestiary/humanoid/triton-master-of-waves-mot.md)
 *Source: Mythic Odysseys of Theros p. 245*  
 
 Triton masters of waves sculpt storms and change the tides, bending the sea to their will. Drawing forth living currents and the icy cold of the deep, these mages make the ocean their ally, using it to defend their people or enact Thassa's wishes. While dire threats from the land might bring them to coastal shallows, most masters of waves keep to the ocean's depths.
@@ -59,21 +59,21 @@ Clever, far-ranging people of the sea, tritons live rich lives unknown to most l
 "traits":
   - "desc": "The triton's spellcasting ability is Charisma (spell save DC 15, +7 to\
       \ hit with spell attacks). It can innately cast the following spells, requiring\
-      \ no material components:\n\n**At will:** [ray of frost](3-Mechanics/CLI/spells/ray-of-frost.md)\
-      \ (see \"Actions\" below)\n\n**2/day:** [cone of cold](3-Mechanics/CLI/spells/cone-of-cold.md)\n\
-      \n**1/day each:** [fog cloud](3-Mechanics/CLI/spells/fog-cloud.md), [gust of\
-      \ wind](3-Mechanics/CLI/spells/gust-of-wind.md), [wind wall](3-Mechanics/CLI/spells/wind-wall.md)"
+      \ no material components:\n\n**At will:** [ray of frost](3-Mechanics/CLI/spells/ray-of-frost-xphb.md)\
+      \ (see \"Actions\" below)\n\n**2/day:** [cone of cold](3-Mechanics/CLI/spells/cone-of-cold-xphb.md)\n\
+      \n**1/day each:** [fog cloud](3-Mechanics/CLI/spells/fog-cloud-xphb.md), [gust\
+      \ of wind](3-Mechanics/CLI/spells/gust-of-wind-xphb.md), [wind wall](3-Mechanics/CLI/spells/wind-wall-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "The triton can breathe air and water."
     "name": "Amphibious"
-  - "desc": "As a bonus action, the triton magically summons 1d4 [water weirds](3-Mechanics/CLI/bestiary/elemental/water-weird.md).\
+  - "desc": "As a bonus action, the triton magically summons 1d4 [water weirds](3-Mechanics/CLI/bestiary/elemental/water-weird-xmm.md).\
       \ The summoned weirds appear in unoccupied spaces in water within 60 feet of\
       \ the triton. The water weirds act immediately after the triton on the same\
       \ initiative count and fight until they're destroyed. They disappear if the\
       \ triton dies."
     "name": "Summon Water Weird (Recharges after a Short or Long Rest)"
 "actions":
-  - "desc": "The triton makes two attacks using Wave Touch and casts [ray of frost](3-Mechanics/CLI/spells/ray-of-frost.md)."
+  - "desc": "The triton makes two attacks using Wave Touch and casts [ray of frost](3-Mechanics/CLI/spells/ray-of-frost-xphb.md)."
     "name": "Multiattack"
   - "desc": "*Melee Spell Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 22 (4d10)\
       \ cold damage."
@@ -90,6 +90,6 @@ Clever, far-ranging people of the sea, tritons live rich lives unknown to most l
     "name": "Frigid Shield"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/triton-master-of-waves-mot.webp"
+"image": "file://bestiary/tokens/MOT/Triton%20Master%20of%20Waves.webp"
 ```
 ^statblock

@@ -17,7 +17,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Lonely Sorrowsworn"
 ---
-# [Lonely Sorrowsworn](3-Mechanics\CLI\bestiary\monstrosity/lonely-sorrowsworn-mpmm.md)
+# [Lonely Sorrowsworn](3-Mechanics/CLI/bestiary/monstrosity/lonely-sorrowsworn-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 223, Mordenkainen's Tome of Foes p. 232*  
 
 The sorrow of isolation afflicts many creatures that lurk in the Shadowfell, but the need for companionship is never manifested more dramatically than in the lonely sorrowsworn—also called the Lonely. When these sorrowsworn spot other creatures, they feel keenly the need for interaction and launch their harpoon-like arms to drag their victims closer.
@@ -74,7 +74,7 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/lonely-sorrowsworn-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Lonely%20Sorrowsworn.webp"
 ```
 ^statblock
 

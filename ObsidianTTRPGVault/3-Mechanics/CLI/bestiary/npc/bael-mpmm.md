@@ -12,10 +12,10 @@ statblock-link: "#^statblock"
 aliases:
 - "Bael"
 ---
-# [Bael](3-Mechanics\CLI\bestiary\npc/bael-mpmm.md)
+# [Bael](3-Mechanics/CLI/bestiary/npc/bael-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 54, Mordenkainen's Tome of Foes p. 170*  
 
-With the Blood War between devils and demons raging for eons and no end in sight, opportunities abound for ambitious archdevils to win fame, glory, and power in the ongoing struggle. Duke Bael, one of Mammon's most important vassals, has won fame and acclaim for his victories. Charged with leading sixty-six companies of [barbed devils](3-Mechanics/CLI/bestiary/fiend/barbed-devil.md), Bael has proven to be a tactical genius, earning esteem for himself and his master as a result of victory after victory over the abyssal host. Mammon relies on Bael to safeguard his holdings because of Bael's battle acumen. During a time when so many other archdevils have lost their positions, Mammon has never been ousted, which is a testament to Bael's skill on the battlefield.
+With the Blood War between devils and demons raging for eons and no end in sight, opportunities abound for ambitious archdevils to win fame, glory, and power in the ongoing struggle. Duke Bael, one of Mammon's most important vassals, has won fame and acclaim for his victories. Charged with leading sixty-six companies of [barbed devils](3-Mechanics/CLI/bestiary/fiend/barbed-devil-xmm.md), Bael has proven to be a tactical genius, earning esteem for himself and his master as a result of victory after victory over the abyssal host. Mammon relies on Bael to safeguard his holdings because of Bael's battle acumen. During a time when so many other archdevils have lost their positions, Mammon has never been ousted, which is a testament to Bael's skill on the battlefield.
 
 For his accomplishments, Bael has been granted the title of Bronze General. His accolades notwithstanding, he has had a difficult time navigating the quagmire of infernal politics. His critics call him naive, though never to his face. His primary interest has always been leading soldiers in battle, so he finds it frustrating to have his ambitions of ascending to a higher rank constantly stymied by politically shrewd rivals.
 
@@ -32,7 +32,7 @@ Despite his lack of interest in affairs outside battle, or perhaps because of it
 "subtype": "devil"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
-"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor.md)"
+"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "189"
 "hit_dice": "18d10 + 90"
 "modifier": !!int "3"
@@ -95,12 +95,13 @@ Despite his lack of interest in affairs outside battle, or perhaps because of it
     "name": "Teleport"
   - "desc": "Bael casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 21):\n\n**At\
-      \ will:** [alter self](3-Mechanics/CLI/spells/alter-self.md) (can become Medium),\
-      \ [charm person](3-Mechanics/CLI/spells/charm-person.md), [detect magic](3-Mechanics/CLI/spells/detect-magic.md),\
-      \ [invisibility](3-Mechanics/CLI/spells/invisibility.md), [major image](3-Mechanics/CLI/spells/major-image.md)\n\
-      \n**3/day each:** [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), [fly](3-Mechanics/CLI/spells/fly.md),\
-      \ [suggestion](3-Mechanics/CLI/spells/suggestion.md), [wall of fire](3-Mechanics/CLI/spells/wall-of-fire.md)\n\
-      \n**1/day:** [dominate monster](3-Mechanics/CLI/spells/dominate-monster.md)"
+      \ will:** [alter self](3-Mechanics/CLI/spells/alter-self-xphb.md) (can become\
+      \ Medium), [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md), [detect\
+      \ magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md),\
+      \ [major image](3-Mechanics/CLI/spells/major-image-xphb.md)\n\n**3/day each:**\
+      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [fly](3-Mechanics/CLI/spells/fly-xphb.md),\
+      \ [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md), [wall of fire](3-Mechanics/CLI/spells/wall-of-fire-xphb.md)\n\
+      \n**1/day:** [dominate monster](3-Mechanics/CLI/spells/dominate-monster-xphb.md)"
     "name": "Spellcasting"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, Bael can expend a use to take one of the following actions. Bael regains\
@@ -115,6 +116,6 @@ Despite his lack of interest in affairs outside battle, or perhaps because of it
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/npc/token/bael-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Bael.webp"
 ```
 ^statblock

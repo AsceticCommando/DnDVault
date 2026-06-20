@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Flying Dagger"
 ---
-# [Flying Dagger](3-Mechanics\CLI\bestiary\construct/flying-dagger-bgdia.md)
+# [Flying Dagger](3-Mechanics/CLI/bestiary/construct/flying-dagger-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 30*  
 
 ```statblock
@@ -41,17 +41,17 @@ aliases:
   \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified),\
   \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
 "gear":
-  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
 "senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft. (blind\
   \ beyond this radius), passive Perception 7"
 "languages": ""
 "cr": "1/8"
 "traits":
   - "desc": "The dagger is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
-      \ while in the area of an [antimagic field](3-Mechanics/CLI/spells/antimagic-field.md).\
-      \ If targeted by [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), the\
-      \ dagger must succeed on a Constitution saving throw against the caster's spell\
-      \ save DC or fall [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)\
+      \ while in the area of an [antimagic field](3-Mechanics/CLI/spells/antimagic-field-xphb.md).\
+      \ If targeted by [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
+      \ the dagger must succeed on a Constitution saving throw against the caster's\
+      \ spell save DC or fall [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)\
       \ for 1 minute."
     "name": "Antimagic Susceptibility"
   - "desc": "While the dagger remains motionless and isn't flying, it is indistinguishable\
@@ -63,6 +63,6 @@ aliases:
     "name": "Dagger"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/construct/token/flying-dagger-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Flying%20Dagger.webp"
 ```
 ^statblock

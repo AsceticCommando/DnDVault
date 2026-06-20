@@ -11,4 +11,4 @@ aliases:
 
 ## 4th Level
 
-- [Confusion](3-Mechanics/CLI/spells/confusion.md "PHB")
+- [Confusion](3-Mechanics/CLI/spells/confusion-xphb.md "XPHB")

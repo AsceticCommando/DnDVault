@@ -15,7 +15,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Choker"
 ---
-# [Choker](3-Mechanics\CLI\bestiary\aberration/choker-mpmm.md)
+# [Choker](3-Mechanics/CLI/bestiary/aberration/choker-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 76, Mordenkainen's Tome of Foes p. 123*  
 
 The choker is a subterranean predator far more dangerous than its small size and spindly, rubbery limbs would suggest.
@@ -76,7 +76,7 @@ Chokers tend to set their ambushes alone, rather than working in concert, but wh
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/choker-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Choker.webp"
 ```
 ^statblock
 

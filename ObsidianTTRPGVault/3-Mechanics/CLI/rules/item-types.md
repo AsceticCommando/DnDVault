@@ -3,37 +3,42 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
+- ttrpg-cli/compendium/src/5e/aag
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/compendium/src/5e/phb
+- ttrpg-cli/compendium/src/5e/xdmg
+- ttrpg-cli/compendium/src/5e/xphb
 aliases:
 - "Item Types"
 ---
 # Item Types
 
 ## Adventuring Gear
-_Source: Player's Handbook p. 148_
+_Source: Player's Handbook (2024) p. 222. Available in the Free Rules (2024)_
 
 ## Ammunition
-_Source: Dungeon Master's Guide p. 267_
+_Source: Player's Handbook (2024) p. 222. Available in the Free Rules (2024)_
 
 ## Ammunition
-_Source: Player's Handbook p. 148_
+_Source: Dungeon Master's Guide (2024) p. 72_
 
 ## Artisan's Tools
-_Source: Player's Handbook p. 154_
+_Source: Player's Handbook (2024) p. 220. Available in the Free Rules (2024)_
 
-These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.
+**Artisan's Tool.** Artisan's Tools are each focused on crafting items and pursuing a trade. Each type of Artisan's Tools tools requires a separate proficiency.
+
+If you have proficiency with a tool, add your [Proficiency Bonus](3-Mechanics/CLI/rules/variant-rules/proficiency-xphb.md) to any ability check you make that uses the tool. If you have proficiency in a skill that's used with that check, you have [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on the check too.
 
 ## Explosive
-_Source: Dungeon Master's Guide p. 267_
+_Source: Dungeon Master's Guide (2024) p. 72_
 
 ## Food and Drink
-_Source: Player's Handbook p. 158_
+_Source: Player's Handbook (2024) p. 231. Available in the Free Rules (2024)_
 
 ## Gaming Set
-_Source: Player's Handbook p. 154_
+_Source: Player's Handbook (2024) p. 221. Available in the Free Rules (2024)_
 
-If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.
+**Tool (Gaming Set).** If you have proficiency with a tool, add your [Proficiency Bonus](3-Mechanics/CLI/rules/variant-rules/proficiency-xphb.md) to any ability check you make that uses the tool. If you have proficiency in a skill that's used with that check, you have [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on the check too.
 
 Proficiency with a gaming set applies to one type of game, such as Three-Dragon Ante or games of chance that use dice.
 
@@ -62,15 +67,18 @@ Sleight of Hand is a useful skill for cheating at a game, as it allows you to sw
 ^gaming-set
 
 ## Generic Variant
+_Source: Dungeon Master's Guide (2024) p. 216_
+
+## Generic Variant
 _Source: Dungeon Master's Guide p. 135_
 
 ## Heavy Armor
-_Source: Player's Handbook p. 145_
+_Source: Player's Handbook (2024) p. 219. Available in the Free Rules (2024)_
 
 ## Instrument
-_Source: Player's Handbook p. 154_
+_Source: Player's Handbook (2024) p. 221. Available in the Free Rules (2024)_
 
-If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency.
+**Tool (Musical Instrument).** If you have proficiency with a tool, add your [Proficiency Bonus](3-Mechanics/CLI/rules/variant-rules/proficiency-xphb.md) to any ability check you make that uses the tool. If you have proficiency in a skill that's used with that check, you have [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on the check too.
 
 Proficiency with a musical instrument indicates you are familiar with the techniques used to play it. You also have knowledge of some songs commonly performed with that instrument.
 
@@ -95,27 +103,33 @@ As part of a long rest, you can compose a new tune and lyrics for your instrumen
 ^musical-instrument
 
 ## Light Armor
-_Source: Player's Handbook p. 144_
+_Source: Player's Handbook (2024) p. 219. Available in the Free Rules (2024)_
 
 ## Medium Armor
-_Source: Player's Handbook p. 144_
+_Source: Player's Handbook (2024) p. 219. Available in the Free Rules (2024)_
 
 ## Melee Weapon
-_Source: Player's Handbook p. 146_
+_Source: Player's Handbook (2024) p. 213. Available in the Free Rules (2024)_
 
 ## Mount
-_Source: Player's Handbook p. 155_
+_Source: Player's Handbook (2024) p. 230. Available in the Free Rules (2024)_
+
+## Other
+_Source: Player's Handbook (2024) p. 213_
 
 ## Other
 _Source: Player's Handbook p. 143_
 
 ## Potion
-_Source: Player's Handbook p. 148_
+_Source: Player's Handbook (2024) p. 222. Available in the Free Rules (2024)_
 
 ## Ranged Weapon
-_Source: Player's Handbook p. 146_
+_Source: Player's Handbook (2024) p. 214. Available in the Free Rules (2024)_
 
-**Range.** A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range.
+**Range.** A Range weapon has a range in parentheses after the Ammunition or Thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second is the weapon's long range. When attacking a target beyond normal range, you have [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on the attack roll. You can't attack a target beyond the long range.
+
+## Ring
+_Source: Dungeon Master's Guide (2024) p. 216_
 
 ## Ring
 _Source: Dungeon Master's Guide p. 139_
@@ -123,80 +137,90 @@ _Source: Dungeon Master's Guide p. 139_
 ## Rod
 _Source: Dungeon Master's Guide p. 139_
 
+## Rod
+_Source: Dungeon Master's Guide (2024) p. 216_
+
 ## Scroll
-_Source: Dungeon Master's Guide p. 139_
+_Source: Player's Handbook (2024) p. 222. Available in the Free Rules (2024)_
 
 ## Shield
-_Source: Player's Handbook p. 144_
+_Source: Player's Handbook (2024) p. 219. Available in the Free Rules (2024)_
 
 ## Spellcasting Focus
-_Source: Player's Handbook p. 148_
+_Source: Player's Handbook (2024) p. 222. Available in the Free Rules (2024)_
 
 ## Tack and Harness
-_Source: Player's Handbook p. 155_
+_Source: Player's Handbook (2024) p. 230. Available in the Free Rules (2024)_
 
 ## Tool
-_Source: Player's Handbook p. 154_
+_Source: Player's Handbook (2024) p. 220. Available in the Free Rules (2024)_
+
+**Tool.** If you have proficiency with a tool, add your [Proficiency Bonus](3-Mechanics/CLI/rules/variant-rules/proficiency-xphb.md) to any ability check you make that uses the tool. If you have proficiency in a skill that's used with that check, you have [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on the check too.
+
+## Trade Bar
+_Source: Dungeon Master's Guide (2024) p. 213_
+
+**Trade Bar.** Because large numbers of coins can be difficult to transport and account for, many merchants prefer to use trade bars—ingots of precious metals and alloys (usually silver). These bars are valued by weight.
 
 ## Trade Good
-_Source: Player's Handbook p. 146_
+_Source: Dungeon Master's Guide (2024) p. 213_
 
-Most wealth is not in coins. It is measured in livestock, grain, land, rights to collect taxes, or rights to resources (such as a mine or a forest).
-
-Guilds, nobles, and royalty regulate trade. Chartered companies are granted rights to conduct trade along certain routes, to send merchant ships to various ports, or to buy or sell specific goods. Guilds set prices for the goods or services that they control, and determine who may or may not offer those goods and services. Merchants commonly exchange trade goods without using currency.
+**Trade Good.** Merchants commonly exchange trade goods without using currency.
 
 ## Treasure
 _Source: Dungeon Master's Guide p. 133_
 
 ## Treasure (Art Object)
-_Source: Dungeon Master's Guide p. 133_
+_Source: Dungeon Master's Guide (2024) p. 215_
+
+**Treasure (Art Object).** Idols cast of solid gold, necklaces studded with precious stones, paintings of ancient kings, bejeweled dishes—art objects include all these and more.
 
 ## Treasure (Coinage)
-_Source: Player's Handbook p. 143_
+_Source: Player's Handbook (2024) p. 213. Available in the Free Rules (2024)_
+
+**Treasure (Coinage).** Characters often find coins on their adventures and can spend those coins in shops, inns, and other businesses. Coins come in different denominations based on the relative worth of their material. The Coin Values table lists coins and how much they're worth relative to the Gold Piece, which is the game's main coin. For example, 100 Copper Pieces are worth 1 Gold Piece.
+
+A coin weighs about a third of an ounce, so fifty coins weigh a pound.
 
 ## Treasure (Gemstone)
-_Source: Dungeon Master's Guide p. 133_
+_Source: Dungeon Master's Guide (2024) p. 214_
+
+**Treasure (Gemstone).** Gemstones are small, lightweight, and easily secured compared to their same value in coins.
 
 ## Vehicle (Air)
-_Source: Dungeon Master's Guide p. 119_
+_Source: Player's Handbook (2024) p. 230. Available in the Free Rules (2024)_
 
-**Crew.** A ship needs a crew of skilled hirelings to function. As per the Player's Handbook, one skilled hireling costs at least 2 gp per day. The minimum number of skilled hirelings needed to crew a ship depends on the type of vessel.
+**Speed.** A ship sailing against a strong wind moves at half speed. In a dead calm (no wind), waterborne ships can't move under sail and must be rowed. Keelboats and Rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can't be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A Rowboat can be carried and weighs 100 pounds.
 
-You can track the loyalty of individual crew members or the crew as a whole using the optional loyalty rules in chapter 4 of the Dungeon Master's Guide. If at least half the crew becomes disloyal during a voyage, the crew turns hostile and stages a mutiny. If the ship is berthed, disloyal crew members leave the ship and never return.
+**Crew.** A ship larger than a Keelboat or Rowboat needs a crew of skilled hirelings (see ""Services"") to function. The minimum number of skilled hirelings needed to crew a ship depends on the type of ship.
 
-**Passengers.** This indicates the number of Small and Medium passengers the ship can accommodate.
+**Passengers.** The number of Small and Medium passengers the ship can accommodate using hammocks. A ship outfitted with private accommodations can carry one-fifth as many passengers. A passenger usually pays 5 SP per day for a hammock, but prices can vary from ship to ship. A small private cabin usually costs 2 GP per day.
 
-Accommodations consist of shared hammocks in tight quarters. A ship outfitted with private accommodations can carry one-fifth as many passengers.
+**Damage Threshold.** See the [rules glossary](3-Mechanics/CLI/rules/variant-rules/damage-threshold-xphb.md).
 
-A passenger is usually expected to pay 5 sp per day for a hammock, but prices can vary from ship to ship. A small private cabin usually costs 2 gp per day.
-
-**Cargo.** The maximum tonnage the ship can carry.
-
-**Damage Threshold.** If a ship has a Damage Threshold, it has immunity to all damage unless it takes an amount of damage equal to or greater than its damage threshold, in which case it takes damage as normal. Any damage that fails to meet or exceed the damage threshold is considered superficial and doesn't reduce the ship's hit points.
-
-**Ship Repair.** Repairs to a damaged ship can be made while the vessel is berthed. Repairing 1 hit point of damage requires 1 day and costs 20 gp for materials and labor.
+**Ship Repair.** Repairs to a damaged ship can be made while the vessel is berthed. Repairing 1 [Hit Point](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) of damage requires 1 day and costs 20 GP for materials and labor. If the repairs are made in a location where supplies and skilled labor are abundant, such as a city shipyard, the repair time and cost are halved.
 
 ## Vehicle (Land)
-_Source: Player's Handbook p. 155_
+_Source: Player's Handbook (2024) p. 230. Available in the Free Rules (2024)_
+
+## Vehicle (Space)
+_Source: Astral Adventurer's Guide p. 24_
 
 ## Vehicle (Water)
-_Source: Dungeon Master's Guide p. 119_
+_Source: Player's Handbook (2024) p. 230. Available in the Free Rules (2024)_
 
-**Crew.** A ship needs a crew of skilled hirelings to function. As per the Player's Handbook, one skilled hireling costs at least 2 gp per day. The minimum number of skilled hirelings needed to crew a ship depends on the type of vessel.
+**Speed.** A ship sailing against a strong wind moves at half speed. In a dead calm (no wind), waterborne ships can't move under sail and must be rowed. Keelboats and Rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can't be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A Rowboat can be carried and weighs 100 pounds.
 
-You can track the loyalty of individual crew members or the crew as a whole using the optional loyalty rules in chapter 4 of the Dungeon Master's Guide. If at least half the crew becomes disloyal during a voyage, the crew turns hostile and stages a mutiny. If the ship is berthed, disloyal crew members leave the ship and never return.
+**Crew.** A ship larger than a Keelboat or Rowboat needs a crew of skilled hirelings (see ""Services"") to function. The minimum number of skilled hirelings needed to crew a ship depends on the type of ship.
 
-**Passengers.** This indicates the number of Small and Medium passengers the ship can accommodate.
+**Passengers.** The number of Small and Medium passengers the ship can accommodate using hammocks. A ship outfitted with private accommodations can carry one-fifth as many passengers. A passenger usually pays 5 SP per day for a hammock, but prices can vary from ship to ship. A small private cabin usually costs 2 GP per day.
 
-Accommodations consist of shared hammocks in tight quarters. A ship outfitted with private accommodations can carry one-fifth as many passengers.
+**Damage Threshold.** See the [rules glossary](3-Mechanics/CLI/rules/variant-rules/damage-threshold-xphb.md).
 
-A passenger is usually expected to pay 5 sp per day for a hammock, but prices can vary from ship to ship. A small private cabin usually costs 2 gp per day.
+**Ship Repair.** Repairs to a damaged ship can be made while the vessel is berthed. Repairing 1 [Hit Point](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) of damage requires 1 day and costs 20 GP for materials and labor. If the repairs are made in a location where supplies and skilled labor are abundant, such as a city shipyard, the repair time and cost are halved.
 
-**Cargo.** The maximum tonnage the ship can carry.
-
-**Damage Threshold.** If a ship has a Damage Threshold, it has immunity to all damage unless it takes an amount of damage equal to or greater than its damage threshold, in which case it takes damage as normal. Any damage that fails to meet or exceed the damage threshold is considered superficial and doesn't reduce the ship's hit points.
-
-**Ship Repair.** Repairs to a damaged ship can be made while the vessel is berthed. Repairing 1 hit point of damage requires 1 day and costs 20 gp for materials and labor.
+## Wand
+_Source: Dungeon Master's Guide (2024) p. 216_
 
 ## Wand
 _Source: Dungeon Master's Guide p. 139_

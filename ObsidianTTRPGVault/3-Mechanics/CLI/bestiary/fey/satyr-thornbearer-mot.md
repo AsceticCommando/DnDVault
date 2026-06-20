@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Satyr Thornbearer"
 ---
-# [Satyr Thornbearer](3-Mechanics\CLI\bestiary\fey/satyr-thornbearer-mot.md)
+# [Satyr Thornbearer](3-Mechanics/CLI/bestiary/fey/satyr-thornbearer-mot.md)
 *Source: Mythic Odysseys of Theros p. 243*  
 
 Not all satyrs live lives of pure whimsy. When forced to defend their friends and homes, satyr thornbearers are quick to take up their bows and strike against danger. Particularly amid the dense trees of the Skola Vale, these satyr skirmishers cooperate in loose teams, using guerrilla tactics to harass foes then melt back into the forest. The blessings of Nylea aid the satyrs in protecting their home, and a single arrow from a thornbearer's bow might rain down like a volley from a whole army.
@@ -25,7 +25,7 @@ While most satyrs are known for their high spirits, love of revels, and gregario
 "type": "fey"
 "alignment": "Chaotic Neutral"
 "ac": !!int "15"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "38"
 "hit_dice": "7d8 + 7"
 "modifier": !!int "4"
@@ -45,7 +45,7 @@ While most satyrs are known for their high spirits, love of revels, and gregario
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+6"
 "gear":
-  - "[shortbow](3-Mechanics/CLI/items/shortbow.md)"
+  - "[shortbow](3-Mechanics/CLI/items/shortbow-xphb.md)"
 "senses": "passive Perception 15"
 "languages": "Common, Sylvan"
 "cr": "2"
@@ -71,6 +71,6 @@ While most satyrs are known for their high spirits, love of revels, and gregario
     "name": "Hail of Arrows (Recharges after a Short or Long Rest)"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/fey/token/satyr-thornbearer-mot.webp"
+"image": "file://bestiary/tokens/MOT/Satyr%20Thornbearer.webp"
 ```
 ^statblock

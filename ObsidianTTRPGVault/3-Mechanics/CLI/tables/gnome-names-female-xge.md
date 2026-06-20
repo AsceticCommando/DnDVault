@@ -12,6 +12,8 @@ aliases:
 
 **Gnome Names – Female**
 
+`dice: [](gnome-names-female-xge.md#^gnome-names-female)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Abalaba |

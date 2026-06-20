@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Grazilaxx"
 ---
-# [Grazilaxx](3-Mechanics\CLI\bestiary\npc/grazilaxx-oota.md)
+# [Grazilaxx](3-Mechanics/CLI/bestiary/npc/grazilaxx-oota.md)
 *Source: Out of the Abyss p. 29*  
 
 ```statblock
@@ -21,7 +21,7 @@ aliases:
 "type": "aberration"
 "alignment": "Neutral"
 "ac": !!int "15"
-"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate.md)"
+"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate-xphb.md)"
 "hp": !!int "71"
 "hit_dice": "13d8 + 13"
 "modifier": !!int "1"
@@ -55,7 +55,7 @@ aliases:
 "languages": "Deep Speech, Undercommon, telepathy 120 ft., Dwarvish, Elvish"
 "cr": "7"
 "traits":
-  - "desc": "Grazilaxx can innately cast can cast the [teleport](3-Mechanics/CLI/spells/teleport.md)\
+  - "desc": "Grazilaxx can innately cast can cast the [teleport](3-Mechanics/CLI/spells/teleport-xphb.md)\
       \ spell once per day, but the intended destination must be within 30 feet of\
       \ another society member. This teleport effect can be disrupted (see \"Faerzress\"\
       ), which is how society members sometimes end up in far corners of the Underdark,\
@@ -63,9 +63,9 @@ aliases:
     "name": "Innate Spellcasting"
   - "desc": "Grazilaxx's innate spellcasting ability is Intelligence (spell save DC\
       \ 15). It can innately cast the following spells, requiring no components:\n\
-      \n**At will:** [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md),\
-      \ [levitate](3-Mechanics/CLI/spells/levitate.md)\n\n**1/day each:** [dominate\
-      \ monster](3-Mechanics/CLI/spells/dominate-monster.md), [plane shift](3-Mechanics/CLI/spells/plane-shift.md)\
+      \n**At will:** [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [levitate](3-Mechanics/CLI/spells/levitate-xphb.md)\n\n**1/day each:** [dominate\
+      \ monster](3-Mechanics/CLI/spells/dominate-monster-xphb.md), [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md)\
       \ (self only)"
     "name": "Innate Spellcasting (Psionics)"
   - "desc": "Grazilaxx has advantage on saving throws against spells and other magical\
@@ -92,6 +92,6 @@ aliases:
     "name": "Mind Blast (Recharge 5-6)"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/grazilaxx-oota.webp"
+"image": "file://bestiary/tokens/OotA/Grazilaxx.webp"
 ```
 ^statblock

@@ -11,7 +11,7 @@ aliases:
 # Dragon Fear
 *Source: Xanathar's Guide to Everything p. 74*  
 
-**Prerequisite**: [Dragonborn](3-Mechanics/CLI/races/dragonborn.md)
+**Prerequisite**: [Dragonborn](3-Mechanics/CLI/races/dragonborn-xphb.md)
 
 When angered, you radiate menace. You gain the following benefits:
 

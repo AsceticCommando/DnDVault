@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Animated Breath"
 ---
-# [Animated Breath](3-Mechanics\CLI\bestiary\elemental/animated-breath-ftd.md)
+# [Animated Breath](3-Mechanics/CLI/bestiary/elemental/animated-breath-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 163*  
 
 A chromatic dragon's breath weapon is a manifestation of the energy that suffuses the dragon. With sufficient practice, dragons can learn to draw on magic from the Elemental Planes to shape their breath weapons into bipedal form, creating Elemental creatures called animated breaths. Chromatic dragons often use these creatures as guardians for their hoards or send them out to gather treasure from the territory around their lairs.
@@ -76,6 +76,6 @@ An animated breath is a bipedal creature formed from the same energy as the brea
     "name": "Lightning Burst (Lightning Form Only)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/elemental/token/animated-breath-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Animated%20Breath.webp"
 ```
 ^statblock

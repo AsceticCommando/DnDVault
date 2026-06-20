@@ -12,6 +12,8 @@ aliases:
 
 **Debts**
 
+`dice: [](why-do-you-need-200-gold-pieces-debts-erlw.md#^debts)`
+
 | dice: d10 | Debt |
 |-----------|------|
 | 1 | You committed a crime during the Last War, and now you're being blackmailed by someone who has proof. You can justify your actions, but the law won't care. |

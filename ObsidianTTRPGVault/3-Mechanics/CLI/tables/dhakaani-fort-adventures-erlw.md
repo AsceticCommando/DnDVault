@@ -12,6 +12,8 @@ aliases:
 
 **Dhakaani Fort Adventures**
 
+`dice: [](dhakaani-fort-adventures-erlw.md#^dhakaani-fort-adventures)`
+
 | dice: d10 | Adventure Goal |
 |-----------|----------------|
 | 1 | Steal an ancient magic weapon from the fort's commander. |

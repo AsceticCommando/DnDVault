@@ -12,6 +12,8 @@ aliases:
 
 **Dungeon Location**
 
+`dice: [](dungeon-location.md#^dungeon-location)`
+
 | dice: d100 | Location |
 |------------|----------|
 | 01-04 | A building in a city |

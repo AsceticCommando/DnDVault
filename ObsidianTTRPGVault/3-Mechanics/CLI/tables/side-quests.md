@@ -12,6 +12,8 @@ aliases:
 
 **Side Quests**
 
+`dice: [](side-quests.md#^side-quests)`
+
 | dice: d8 | Side Quest |
 |----------|------------|
 | 1 | Find a specific item rumored to be in the area. |

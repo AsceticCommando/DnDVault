@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Bheur Hag"
 ---
-# [Bheur Hag](3-Mechanics\CLI\bestiary\fey/bheur-hag-mpmm.md)
+# [Bheur Hag](3-Mechanics/CLI/bestiary/fey/bheur-hag-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 62, Volo's Guide to Monsters p. 160*  
 
 Bheur hags live in wintry lands, favoring snowy mountains. These hags become more active during winter, using their ice and weather magic to make life miserable for nearby settlements.
@@ -59,7 +59,7 @@ In combat, a bheur hag also strives to inspire horror. When near a recently slai
 "languages": "Auran, Common, Giant"
 "cr": "7"
 "traits":
-  - "desc": "The hag can cast the [control weather](3-Mechanics/CLI/spells/control-weather.md)\
+  - "desc": "The hag can cast the [control weather](3-Mechanics/CLI/spells/control-weather-xphb.md)\
       \ spell, requiring no material components and using Charisma as the spellcasting\
       \ ability."
     "name": "Control Weather (1/Day)"
@@ -96,14 +96,14 @@ In combat, a bheur hag also strives to inspire horror. When near a recently slai
     "name": "Horrific Feast"
   - "desc": "While holding or riding the graystaff, the hag casts one of the following\
       \ spells, requiring no material components and using Charisma as the spellcasting\
-      \ ability (spell save DC 14):\n\n**At will:** [hold person](3-Mechanics/CLI/spells/hold-person.md)\n\
-      \n**1/day each:** [cone of cold](3-Mechanics/CLI/spells/cone-of-cold.md), [ice\
-      \ storm](3-Mechanics/CLI/spells/ice-storm.md), [wall of ice](3-Mechanics/CLI/spells/wall-of-ice.md)"
+      \ ability (spell save DC 14):\n\n**At will:** [hold person](3-Mechanics/CLI/spells/hold-person-xphb.md)\n\
+      \n**1/day each:** [cone of cold](3-Mechanics/CLI/spells/cone-of-cold-xphb.md),\
+      \ [ice storm](3-Mechanics/CLI/spells/ice-storm-xphb.md), [wall of ice](3-Mechanics/CLI/spells/wall-of-ice-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/fey/token/bheur-hag-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Bheur%20Hag.webp"
 ```
 ^statblock
 

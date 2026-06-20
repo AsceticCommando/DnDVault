@@ -12,6 +12,8 @@ aliases:
 
 **Moral Quandaries**
 
+`dice: [](moral-quandaries.md#^moral-quandaries)`
+
 | dice: d20 | Quandary |
 |-----------|----------|
 | 1-3 | Ally quandary |

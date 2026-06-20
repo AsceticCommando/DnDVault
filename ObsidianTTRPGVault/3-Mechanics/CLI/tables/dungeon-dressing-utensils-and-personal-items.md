@@ -12,6 +12,8 @@ aliases:
 
 **Utensils and Personal Items**
 
+`dice: [](dungeon-dressing-utensils-and-personal-items.md#^utensils-and-personal-items)`
+
 | dice: d100 | Item |
 |------------|------|
 | 1 | Awl |

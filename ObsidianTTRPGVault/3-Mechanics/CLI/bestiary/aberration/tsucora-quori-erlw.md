@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Tsucora Quori"
 ---
-# [Tsucora Quori](3-Mechanics\CLI\bestiary\aberration/tsucora-quori-erlw.md)
+# [Tsucora Quori](3-Mechanics/CLI/bestiary/aberration/tsucora-quori-erlw.md)
 *Source: Eberron: Rising from the Last War p. 307*  
 
 Tsucora quori are nightmarish creatures. Their headless torsos are covered with eyes and twitching limbs, including two massive arms that end in powerful pincers, and a serpentine tail tipped with a vicious stinger. They are cruel and calculating, enjoying the power they wield over others as they concoct elaborate schemes to advance their own positions and discredit their rivals.
@@ -62,7 +62,8 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
 "traits":
   - "desc": "The quori's spellcasting ability is Charisma (spell save DC 14). It can\
       \ innately cast the following spells, requiring no components:\n\n**At will:**\
-      \ [charm person](3-Mechanics/CLI/spells/charm-person.md)\n\n**1/day:** [fear](3-Mechanics/CLI/spells/fear.md)"
+      \ [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md)\n\n**1/day:**\
+      \ [fear](3-Mechanics/CLI/spells/fear-xphb.md)"
     "name": "Innate Spellcasting (Psionics)"
 "actions":
   - "desc": "The quori makes three attacks: one pincer attack, one attack with its\
@@ -93,7 +94,7 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
       \ uses the possessed target's statistics, but doesn't gain access to the target's\
       \ knowledge, class features, or proficiencies.\n\nThe possession lasts until\
       \ the body drops to 0 hit points, the quori ends it as a bonus action, or the\
-      \ quori is forced out by an effect like the [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good.md)\
+      \ quori is forced out by an effect like the [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md)\
       \ spell. When the possession ends, the quori reappears in an unoccupied space\
       \ within 5 feet of the body. The target is immune to this quori's Possession\
       \ for 24 hours after succeeding on the saving throw or after the possession\
@@ -101,6 +102,6 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
     "name": "Possession (Recharge 6)"
 "source":
   - "ERLW"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/tsucora-quori-erlw.webp"
+"image": "file://bestiary/tokens/ERLW/Tsucora%20Quori.webp"
 ```
 ^statblock

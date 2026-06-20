@@ -13,4 +13,4 @@ aliases:
 
 **Prerequisite**: Level 6
 
-You can spend 3 ki points to cast [shatter](3-Mechanics/CLI/spells/shatter.md).
+You can spend 3 ki points to cast [shatter](3-Mechanics/CLI/spells/shatter-xphb.md).

@@ -4,12 +4,10 @@ cssclasses:
 - json5e-spell
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/spell/class/bard/magical-secrets
 - ttrpg-cli/spell/class/warlock
 - ttrpg-cli/spell/level/4th-level
 - ttrpg-cli/spell/school/necromancy
 classes:
-- Bard (Magical Secrets)
 - Warlock
 aliases:
 - "Shadow of Moil"
@@ -25,8 +23,8 @@ aliases:
 
 Flame-like shadows wreathe your body until the spell ends, causing you to become heavily obscured to others. The shadows turn dim light within 10 feet of you into darkness, and bright light in the same area to dim light.
 
-Until the spell ends, you have resistance to radiant damage. In addition, whenever a creature within 10 feet of you hits you with an attack, the shadows lash out at that creature, dealing it `2d8` necrotic damage.
+Until the spell ends, you have resistance to radiant damage. In addition, whenever a creature within 10 feet of you hits you with an attack, the shadows lash out at that creature, dealing it `dice:2d8|noform|noparens|avg` (`2d8`) necrotic damage.
 
-**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock](3-Mechanics/CLI/lists/list-spells-classes-warlock.md)
+**Classes**: [Warlock](3-Mechanics/CLI/lists/list-spells-classes-warlock.md)
 
 *Source: Xanathar's Guide to Everything p. 164*

@@ -14,7 +14,7 @@ The combination of ability scores, race, class, and background defines your char
 
 Chapter 6 of the Player's Handbook defines two optional sets of rules for customizing your character: multiclassing and feats. Multiclassing lets you combine classes together, and feats are special options you can choose instead of increasing your ability scores as you gain levels. Your DM decides whether these options are available in a campaign.
 
-![](3-Mechanics/CLI/books/players-handbook-2014/img/ch6.webp#center)
+![](file://book/PHB/ch6.webp#center)
 
 ## Multiclassing
 
@@ -82,7 +82,7 @@ If a cantrip of yours increases in power at higher levels, the increase is based
 
 You determine your available spell slots by adding together all your levels in the bard, cleric, druid, sorcerer, and wizard classes, half your levels (rounded down) in the paladin and ranger classes, and a third of your fighter or rogue levels (rounded down) if you have the Eldritch Knight or the Arcane Trickster feature. Use this total to determine your spell slots by consulting the Multiclass Spellcaster table.
 
-If you have more than one spellcasting class, this table might give you spell slots of a level that is higher than the spells you know or can prepare. You can use those slots, but only to cast your lower-level spells. If a lower-level spell that you cast, like [burning hands](3-Mechanics/CLI/spells/burning-hands.md), has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don't have any spells of that higher level.
+If you have more than one spellcasting class, this table might give you spell slots of a level that is higher than the spells you know or can prepare. You can use those slots, but only to cast your lower-level spells. If a lower-level spell that you cast, like [burning hands](3-Mechanics/CLI/spells/burning-hands-xphb.md), has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don't have any spells of that higher level.
 
 For example, if you are the aforementioned ranger 4/wizard 3, you count as a 5th-level character when determining your spell slots: you have four 1st-level slots, three 2nd-level slots, and two 3rd-level slots. However, you don't know any 3rd-level spells, nor do you know any 2nd-level ranger spells. You can use the spell slots of those levels to cast the spells you do know—and potentially enhance their effects.
 
@@ -90,7 +90,7 @@ For example, if you are the aforementioned ranger 4/wizard 3, you count as a 5th
 
 If you have both the Spellcasting class feature and the Pact Magic class feature from the warlock class, you can use the spell slots you gain from the Pact Magic feature to cast spells you know or have prepared from classes with the Spellcasting class feature, and you can use the spell slots you gain from the Spellcasting class feature to cast warlock spells you know.
 
-![Spellcasting; Multiclass Spellcaster: Spell Slots per Spell Level](3-Mechanics/CLI/tables/spellcasting-multiclass-spellcaster-spell-slots-per-spell-level-phb.md)
+![Spellcasting; Multiclass Spellcaster: Spell Slots per Spell Level](3-Mechanics/CLI/tables/spellcasting-multiclass-spellcaster-spell-slots-per-spell-level-xphb.md)
 
 #### Starting Equipment
 

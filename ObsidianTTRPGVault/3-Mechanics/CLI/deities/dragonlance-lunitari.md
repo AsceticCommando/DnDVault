@@ -10,7 +10,7 @@ aliases:
 ---
 # Lunitari
 *Source: Dragonlance: Shadow of the Dragon Queen p. 16* 
-![Symbols Left to Right: Gil...](3-Mechanics/CLI/deities/img/dsotdq-013-00-033-neutral-god-symbols.webp#symbol "Symbols Left to Right: Gilean, Chislev, and Lunitari")
+![Symbols Left to Right: Gilean, Chislev, and Lunitari](file://deities/DSotDQ/013-00-033.neutral-god-symbols.webp#symbol)
 
 - **Alignment**: Neutral
 - **Category**: Neutral

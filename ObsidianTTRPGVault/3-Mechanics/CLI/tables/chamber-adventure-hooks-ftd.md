@@ -12,6 +12,8 @@ aliases:
 
 **Chamber Adventure Hooks**
 
+`dice: [](chamber-adventure-hooks-ftd.md#^chamber-adventure-hooks)`
+
 | dice: d6 | Adventure Hook |
 |----------|----------------|
 | 1 | An agent of the Chamber has plundered the research of an eccentric sage whose work is widely considered nonsense, suggesting that something important is hidden in the sage's notes. |

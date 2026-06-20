@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Dragon Army Officer"
 ---
-# [Dragon Army Officer](3-Mechanics\CLI\bestiary\humanoid/dragon-army-officer-dsotdq.md)
+# [Dragon Army Officer](3-Mechanics/CLI/bestiary/humanoid/dragon-army-officer-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 200*  
 
 The Dragon Armies gather fanatical followers to their ranks. Recruits are indoctrinated to revere the Dragon Queen and view dragons as her favored servants. Troops in the Dragon Army wield weapons blessed by Takhisis to strike with the power of the dragons they fight alongside.
@@ -27,7 +27,7 @@ The weapons of Dragon Army troops are blessed with an infusion of dragon breath.
 "type": "humanoid"
 "alignment": "typically  Lawful Evil"
 "ac": !!int "19"
-"ac_class": "[splint](3-Mechanics/CLI/items/splint-armor.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[splint](3-Mechanics/CLI/items/splint-armor-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
 "modifier": !!int "2"
@@ -48,8 +48,8 @@ The weapons of Dragon Army troops are blessed with an infusion of dragon breath.
   - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
 "gear":
-  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow.md)"
-  - "[lance](3-Mechanics/CLI/items/lance.md)"
+  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow-xphb.md)"
+  - "[lance](3-Mechanics/CLI/items/lance-xphb.md)"
 "senses": "passive Perception 14"
 "languages": "Common, Draconic"
 "cr": "3"
@@ -73,6 +73,6 @@ The weapons of Dragon Army troops are blessed with an infusion of dragon breath.
     "name": "Assault Orders (Recharge 5-6)"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/dragon-army-officer-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Dragon%20Army%20Officer.webp"
 ```
 ^statblock

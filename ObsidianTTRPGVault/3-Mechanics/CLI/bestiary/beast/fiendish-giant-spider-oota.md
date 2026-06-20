@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Fiendish Giant Spider"
 ---
-# [Fiendish Giant Spider](3-Mechanics\CLI\bestiary\beast/fiendish-giant-spider-oota.md)
+# [Fiendish Giant Spider](3-Mechanics/CLI/bestiary/beast/fiendish-giant-spider-oota.md)
 *Source: Out of the Abyss p. 97*  
 
 ```statblock
@@ -64,6 +64,6 @@ aliases:
     "name": "Bite"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/beast/token/fiendish-giant-spider-oota.webp"
+"image": "file://bestiary/tokens/OotA/Fiendish%20Giant%20Spider.webp"
 ```
 ^statblock

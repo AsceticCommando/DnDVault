@@ -11,8 +11,8 @@ aliases:
 - "Witchlight Vane"
 ---
 # Witchlight Vane
-*Melee weapon ([mace](3-Mechanics/CLI/items/mace.md)), legendary (requires attunement by a mister light or his handpicked successor)*  
-![](3-Mechanics/CLI/items/img/witchlight-vane.webp#right)
+*Melee weapon ([mace](3-Mechanics/CLI/items/mace-xphb.md)), legendary (requires attunement by a mister light or his handpicked successor)*  
+![](file://items/WBtW/Witchlight%20Vane.webp#right)
 
 - **Weight**: 3.0 lbs.
 
@@ -20,7 +20,7 @@ This ornate rod is topped by a pair of butterfly wings and incorporates bits of 
 
 ## Magic Weapon
 
-In the hands of one who is attuned to it, the vane can be wielded as a magic mace that grants a +3 bonus to attack and damage rolls made with it. In addition, the vane deals an extra `1d8` radiant damage on a hit.
+In the hands of one who is attuned to it, the vane can be wielded as a magic mace that grants a +3 bonus to attack and damage rolls made with it. In addition, the vane deals an extra `dice:1d8|noform|noparens|avg` (`1d8`) radiant damage on a hit.
 
 ## Sense Mood
 
@@ -38,6 +38,6 @@ The vane has the following additional properties:
 
 - The creature holding the vane has vulnerability to lightning damage.  
 - The creature attuned to the vane can't be [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), or [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned).  
-- While carrying the vane, the creature attuned to it can cast the [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md), [polymorph](3-Mechanics/CLI/spells/polymorph.md), or [ray of frost](3-Mechanics/CLI/spells/ray-of-frost.md) spell as an action, requiring no spell components and using Charisma as the spellcasting ability. After the vane's [polymorph](3-Mechanics/CLI/spells/polymorph.md) spell is cast, roll a `d8`; on a roll of 3 or 8, the vane can't be used to cast this spell again until the next dawn.  
+- While carrying the vane, the creature attuned to it can cast the [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md), [polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md), or [ray of frost](3-Mechanics/CLI/spells/ray-of-frost-xphb.md) spell as an action, requiring no spell components and using Charisma as the spellcasting ability. After the vane's [polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md) spell is cast, roll a `dice:d8|noform|noparens|avg` (`d8`); on a roll of 3 or 8, the vane can't be used to cast this spell again until the next dawn.  
 
 *Source: The Wild Beyond the Witchlight p. 27*

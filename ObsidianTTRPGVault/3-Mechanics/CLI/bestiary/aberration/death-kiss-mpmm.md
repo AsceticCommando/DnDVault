@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Death Kiss"
 ---
-# [Death Kiss](3-Mechanics\CLI\bestiary\aberration/death-kiss-mpmm.md)
+# [Death Kiss](3-Mechanics/CLI/bestiary/aberration/death-kiss-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 85, Volo's Guide to Monsters p. 124*  
 
 A death kiss is a lesser beholder that can come into being when a true beholder has a vivid nightmare about losing blood. Its coloration and shape resemble those of the beholder that dreamed it into existence, but its hue is more muted, and instead of magical eye rays, it has ten long tentacles, each ending in a mouth full of teeth. It can speak through any of its tentacle-maws in a high-pitched, nasal voice.
@@ -79,7 +79,7 @@ A death kiss lacks the combat finesse and intelligence of a true beholder. In mo
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/death-kiss-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Death%20Kiss.webp"
 ```
 ^statblock
 

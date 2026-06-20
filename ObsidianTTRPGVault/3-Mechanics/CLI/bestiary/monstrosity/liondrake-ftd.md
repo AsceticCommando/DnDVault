@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Liondrake"
 ---
-# [Liondrake](3-Mechanics\CLI\bestiary\monstrosity/liondrake-ftd.md)
+# [Liondrake](3-Mechanics/CLI/bestiary/monstrosity/liondrake-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 207*  
 
 A liondrake is a solitary and territorial predator with the long neck and wings of a brass dragon and the head and body of a lion (including a luxurious mane on males). Sometimes known as dragonnes, liondrakes rely on their ferocity and their frightful roar to overcome prey and drive off rivals.
@@ -66,6 +66,6 @@ Liondrakes are voracious hunters that range across well-established territories.
     "name": "Blood-Chilling Roar (Recharge 4-6)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/liondrake-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Liondrake.webp"
 ```
 ^statblock

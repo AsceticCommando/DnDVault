@@ -12,6 +12,8 @@ aliases:
 
 **Boromar Clan Assignments**
 
+`dice: [](boromar-clan-campaign-themes-boromar-clan-assignments-erlw.md#^boromar-clan-assignments)`
+
 | dice: d6 | Assignment |
 |----------|------------|
 | 1 | Find evidence of an affair between two members of different dragonmarked houses. |

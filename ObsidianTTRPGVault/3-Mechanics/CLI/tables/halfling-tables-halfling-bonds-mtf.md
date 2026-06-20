@@ -12,6 +12,8 @@ aliases:
 
 **Halfling Bonds**
 
+`dice: [](halfling-tables-halfling-bonds-mtf.md#^halfling-bonds)`
+
 | dice: d6 | Bond |
 |----------|------|
 | 1 | The safety of your village is worth any sacrifice. |

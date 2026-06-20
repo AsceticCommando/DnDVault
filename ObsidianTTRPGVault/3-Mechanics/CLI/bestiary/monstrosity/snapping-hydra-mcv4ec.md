@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Snapping Hydra"
 ---
-# [Snapping Hydra](3-Mechanics\CLI\bestiary\monstrosity/snapping-hydra-mcv4ec.md)
+# [Snapping Hydra](3-Mechanics/CLI/bestiary/monstrosity/snapping-hydra-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 A rare variety of hydra native to the wilds of Eldraine, snapping hydras resemble giant, many-headed turtles. Snapping hydras dwell at the bottom of the wild's largest lakes, or along shorelines where the wilds meet the ocean. These monstrous creatures are aptly named; their bites are known to snap giants' arms cleanly in half.
@@ -76,6 +76,6 @@ Snapping hydras have naturally long life spans and strong instincts of self-pres
     "name": "Shell Defense"
 "source":
   - "MCV4EC"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/snapping-hydra-mcv4ec.webp"
+"image": "file://bestiary/tokens/MCV4EC/Snapping%20Hydra.webp"
 ```
 ^statblock

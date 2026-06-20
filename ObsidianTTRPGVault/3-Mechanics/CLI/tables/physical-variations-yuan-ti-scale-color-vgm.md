@@ -12,6 +12,8 @@ aliases:
 
 **Yuan-ti Scale Color**
 
+`dice: [](physical-variations-yuan-ti-scale-color-vgm.md#^yuan-ti-scale-color)`
+
 | dice: d100 | Scale Color |
 |------------|-------------|
 | 1-6 | black |

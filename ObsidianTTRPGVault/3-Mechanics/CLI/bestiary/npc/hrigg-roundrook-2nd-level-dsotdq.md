@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Hrigg Roundrook (2nd Level)"
 ---
-# [Hrigg Roundrook (2nd Level)](3-Mechanics\CLI\bestiary\npc/hrigg-roundrook-2nd-level-dsotdq.md)
+# [Hrigg Roundrook (2nd Level)](3-Mechanics/CLI/bestiary/npc/hrigg-roundrook-2nd-level-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 211*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "dwarf"
 "alignment": "Lawful Good"
 "ac": !!int "16"
-"ac_class": "[half plate](3-Mechanics/CLI/items/half-plate-armor.md)"
+"ac_class": "[half plate](3-Mechanics/CLI/items/half-plate-armor-xphb.md)"
 "hp": !!int "16"
 "hit_dice": "3d8 + 3"
 "modifier": !!int "1"
@@ -47,16 +47,16 @@ aliases:
     "desc": "+4"
 "damage_resistances": "poison"
 "gear":
-  - "[maul](3-Mechanics/CLI/items/maul.md)"
+  - "[maul](3-Mechanics/CLI/items/maul-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 14"
 "languages": "Common, Dwarvish"
 "traits":
   - "desc": "Hrigg's spellcasting ability is Wisdom (spell save DC 12, +4 to hit with\
       \ spell attacks). He has the following cleric spells prepared:\n\n**At will:**\
-      \ [guidance](3-Mechanics/CLI/spells/guidance.md), [sacred flame](3-Mechanics/CLI/spells/sacred-flame.md)\n\
-      \n**1st level (2 slots):** [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md),\
-      \ [bless](3-Mechanics/CLI/spells/bless.md)"
+      \ [guidance](3-Mechanics/CLI/spells/guidance-xphb.md), [sacred flame](3-Mechanics/CLI/spells/sacred-flame-xphb.md)\n\
+      \n**1st level (2 slots):** [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md),\
+      \ [bless](3-Mechanics/CLI/spells/bless-xphb.md)"
     "name": "Spellcasting"
   - "desc": "Hrigg is proficient with simple and martial weapons and light and medium\
       \ armor."

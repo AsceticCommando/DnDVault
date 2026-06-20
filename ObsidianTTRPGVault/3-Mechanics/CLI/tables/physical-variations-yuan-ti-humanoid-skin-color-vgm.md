@@ -12,6 +12,8 @@ aliases:
 
 **Yuan-ti Humanoid Skin Color**
 
+`dice: [](physical-variations-yuan-ti-humanoid-skin-color-vgm.md#^yuan-ti-humanoid-skin-color)`
+
 | dice: d20 | Humanoid Skin Color |
 |-----------|---------------------|
 | 1-4 | Dark brown |

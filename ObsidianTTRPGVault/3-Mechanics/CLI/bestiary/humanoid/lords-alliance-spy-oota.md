@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Lords' Alliance Spy"
 ---
-# [Lords' Alliance Spy](3-Mechanics\CLI\bestiary\humanoid/lords-alliance-spy-oota.md)
+# [Lords' Alliance Spy](3-Mechanics/CLI/bestiary/humanoid/lords-alliance-spy-oota.md)
 *Source: Out of the Abyss p. 131*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "human"
 "alignment": "Neutral"
 "ac": !!int "13"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "27"
 "hit_dice": "6d8"
 "modifier": !!int "2"
@@ -50,8 +50,8 @@ aliases:
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "gear":
-  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow.md)"
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "passive Perception 16"
 "languages": "Common, Dwarvish"
 "cr": "1"
@@ -76,6 +76,6 @@ aliases:
     "name": "Hand Crossbow"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/lords-alliance-spy-oota.webp"
+"image": "file://bestiary/tokens/OotA/Lords%27%20Alliance%20Spy.webp"
 ```
 ^statblock

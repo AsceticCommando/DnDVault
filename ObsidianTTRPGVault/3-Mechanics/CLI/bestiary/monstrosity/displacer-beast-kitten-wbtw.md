@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Displacer Beast Kitten"
 ---
-# [Displacer Beast Kitten](3-Mechanics\CLI\bestiary\monstrosity/displacer-beast-kitten-wbtw.md)
+# [Displacer Beast Kitten](3-Mechanics/CLI/bestiary/monstrosity/displacer-beast-kitten-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 108*  
 
 ```statblock
@@ -51,6 +51,6 @@ aliases:
     "name": "Tentacles"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/displacer-beast-kitten-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Displacer%20Beast%20Kitten.webp"
 ```
 ^statblock

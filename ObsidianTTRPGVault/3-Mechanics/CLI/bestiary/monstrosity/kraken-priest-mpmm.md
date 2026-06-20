@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Kraken Priest"
 ---
-# [Kraken Priest](3-Mechanics\CLI\bestiary\monstrosity/kraken-priest-mpmm.md)
+# [Kraken Priest](3-Mechanics/CLI/bestiary/monstrosity/kraken-priest-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 167, Volo's Guide to Monsters p. 215*  
 
 A kraken can seem godlike to folk who have faced its fury. Those who mistake its might for divine power and those who seek to appease the monster through veneration are sometimes rewarded with power, to serve thereafter as kraken priests.
@@ -68,16 +68,16 @@ Every kraken priest undergoes a change in appearance that reflects the kraken's 
     "name": "Voice of the Kraken (Recharges after a Short or Long Rest)"
   - "desc": "The priest casts one of the following spells, requiring no material components\
       \ and using Wisdom as the spellcasting ability (spell save DC 13):\n\n**At will:**\
-      \ [command](3-Mechanics/CLI/spells/command.md), [create or destroy water](3-Mechanics/CLI/spells/create-or-destroy-water.md)\n\
-      \n**3/day each:** [control water](3-Mechanics/CLI/spells/control-water.md),\
-      \ [darkness](3-Mechanics/CLI/spells/darkness.md), [water breathing](3-Mechanics/CLI/spells/water-breathing.md),\
-      \ [water walk](3-Mechanics/CLI/spells/water-walk.md)\n\n**1/day:** [Evard's\
-      \ black tentacles](3-Mechanics/CLI/spells/evards-black-tentacles.md)"
+      \ [command](3-Mechanics/CLI/spells/command-xphb.md), [create or destroy water](3-Mechanics/CLI/spells/create-or-destroy-water-xphb.md)\n\
+      \n**3/day each:** [control water](3-Mechanics/CLI/spells/control-water-xphb.md),\
+      \ [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [water breathing](3-Mechanics/CLI/spells/water-breathing-xphb.md),\
+      \ [water walk](3-Mechanics/CLI/spells/water-walk-xphb.md)\n\n**1/day:** [Evard's\
+      \ black tentacles](3-Mechanics/CLI/spells/evards-black-tentacles-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/kraken-priest-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Kraken%20Priest.webp"
 ```
 ^statblock
 

@@ -12,6 +12,8 @@ aliases:
 
 **Invading Forces**
 
+`dice: [](assault-or-invasion-invading-forces.md#^invading-forces)`
+
 | dice: d8 | Invading Forces |
 |----------|-----------------|
 | 1 | A criminal enterprise |

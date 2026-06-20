@@ -12,6 +12,8 @@ aliases:
 
 **Giants**
 
+`dice: [](monsters-desires-giants-tce.md#^giants)`
+
 | dice: d4 | Desired Offering |
 |----------|------------------|
 | 1 | A dwarf admitting giant-craft to be superior to dwarf-craft |

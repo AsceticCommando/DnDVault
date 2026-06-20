@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Golden Stag"
 ---
-# [Golden Stag](3-Mechanics\CLI\bestiary\beast/golden-stag-hotdq.md)
+# [Golden Stag](3-Mechanics/CLI/bestiary/beast/golden-stag-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 35, Tyranny of Dragons p. 51*  
 
 ```statblock
@@ -51,6 +51,6 @@ aliases:
 "source":
   - "HotDQ"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/beast/token/golden-stag-hotdq.webp"
+"image": "file://bestiary/tokens/HotDQ/Golden%20Stag.webp"
 ```
 ^statblock

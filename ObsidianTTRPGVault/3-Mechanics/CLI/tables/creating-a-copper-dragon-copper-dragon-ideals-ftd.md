@@ -12,6 +12,8 @@ aliases:
 
 **Copper Dragon Ideals**
 
+`dice: [](creating-a-copper-dragon-copper-dragon-ideals-ftd.md#^copper-dragon-ideals)`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Beauty. The ability to create, appreciate, and sustain beauty is the true measure of a creature or civilization. (Good) |

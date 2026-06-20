@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Khargra"
 ---
-# [Khargra](3-Mechanics\CLI\bestiary\elemental/khargra-mff.md)
+# [Khargra](3-Mechanics/CLI/bestiary/elemental/khargra-mff.md)
 *Source: Mordenkainen's Fiendish Folio p. 12*  
 
 The bizarre khargra is a flying creature from the Elemental Plane of Earth that devours any metals it encounters. Though normally content to eat raw veins of ore, this creature considers refined and crafted metals to be particularly delectable.
@@ -85,6 +85,6 @@ A number of clans among the dwarves, duergar, and azers have trained khargras as
     "name": "Opportunistic Hunger"
 "source":
   - "MFF"
-"image": "3-Mechanics/CLI/bestiary/elemental/token/khargra-mff.webp"
+"image": "file://bestiary/tokens/MFF/Khargra.webp"
 ```
 ^statblock

@@ -12,6 +12,8 @@ aliases:
 
 **Island Inhabitants**
 
+`dice: [](island-inhabitants-mot.md#^island-inhabitants)`
+
 | dice: d10 | Inhabitants |
 |-----------|-------------|
 | 1 | The Last. Creatures that think they're the last of their kind—perhaps Returned, leonin, or humans—make their home on the island. |

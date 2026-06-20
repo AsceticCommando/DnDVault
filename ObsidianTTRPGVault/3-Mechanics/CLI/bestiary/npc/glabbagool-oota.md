@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Glabbagool"
 ---
-# [Glabbagool](3-Mechanics\CLI\bestiary\npc/glabbagool-oota.md)
+# [Glabbagool](3-Mechanics/CLI/bestiary/npc/glabbagool-oota.md)
 *Source: Out of the Abyss p. 35*  
 
 Juiblex's arrival in the Underdark has granted Glabbagool sentience and awareness. The ooze is genuinely curious about other creatures and wants to learn more about the world. It defends itself if attacked, but doesn't otherwise try to harm the characters, instead asking who they are, where they come from, and why they have come to the temple.
@@ -77,6 +77,6 @@ Juiblex's arrival in the Underdark has granted Glabbagool sentience and awarenes
     "name": "Engulf"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/glabbagool-oota.webp"
+"image": "file://bestiary/tokens/OotA/Glabbagool.webp"
 ```
 ^statblock

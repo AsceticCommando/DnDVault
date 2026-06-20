@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Dolphin"
 ---
-# [Dolphin](3-Mechanics\CLI\bestiary\beast/dolphin-mpmm.md)
+# [Dolphin](3-Mechanics/CLI/bestiary/beast/dolphin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 97, Volo's Guide to Monsters p. 208*  
 
 Dolphins are symbols of wisdom and playfulness among the sea folk of many worlds. Found in oceans and in the Elemental Plane of Water, dolphins are befriended by druids and rangers, and many tales speak of dolphins that appeared out of nowhere to protect swimmers from sharks and other aquatic predators.
@@ -60,7 +60,7 @@ Dolphins are clever, social marine mammals that feed on small fish and squid. An
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/beast/token/dolphin-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Dolphin.webp"
 ```
 ^statblock
 

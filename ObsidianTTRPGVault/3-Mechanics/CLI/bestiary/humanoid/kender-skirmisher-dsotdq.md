@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Kender Skirmisher"
 ---
-# [Kender Skirmisher](3-Mechanics\CLI\bestiary\humanoid/kender-skirmisher-dsotdq.md)
+# [Kender Skirmisher](3-Mechanics/CLI/bestiary/humanoid/kender-skirmisher-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 204*  
 
 Kender skirmishers are fearless fighters who use stealth and wiliness to defend their friends and homes. They excel at disrupting their enemies by sabotaging crucial equipment or by taunting opponents into making rash decisions. They wield the signature kender weapon: the hoopak, a combination spear and sling staff.
@@ -20,6 +20,8 @@ Kender skirmishers are fearless fighters who use stealth and wiliness to defend 
 ## Kender Taunts
 
 Roll on or choose an entry from the Kender Taunts table to determine how a kender skirmisher infuriates an opponent in battle.
+
+`dice: [](kender-skirmisher-dsotdq.md#^taunt)`
 
 | dice: d4 | Taunt |
 |----------|-------|
@@ -35,7 +37,7 @@ Roll on or choose an entry from the Kender Taunts table to determine how a kende
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "14"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "14"
 "hit_dice": "4d6"
 "modifier": !!int "3"
@@ -76,6 +78,6 @@ Roll on or choose an entry from the Kender Taunts table to determine how a kende
     "name": "Elusive"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/kender-skirmisher-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Kender%20Skirmisher.webp"
 ```
 ^statblock

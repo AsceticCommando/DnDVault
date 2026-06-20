@@ -12,14 +12,14 @@ statblock-link: "#^statblock"
 aliases:
 - "Smiler the Defiler"
 ---
-# [Smiler the Defiler](3-Mechanics\CLI\bestiary\npc/smiler-the-defiler-bgdia.md)
+# [Smiler the Defiler](3-Mechanics/CLI/bestiary/npc/smiler-the-defiler-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 133*  
 
 Smiler has an unnerving smile—hence his name.
 
 A more apt name for this eladrin would be Smiler the Beguiler, as he's constantly trying to intoxicate others with his relentless optimism and shocking recklessness. Smiler thinks he can accomplish anything with a positive attitude and some death-defying stunt. Although he admits others might end up getting killed by his actions, he believes he can bend the multiverse to his whims if he tries hard enough. He's really quite insane.
 
-One of Smiler's favorite antics is to use a [hallucinatory terrain](3-Mechanics/CLI/spells/hallucinatory-terrain.md) spell to create a little bit of the Feywild in Avernus: a beautiful woodland glade in which to lose himself for a few hours while he meditates and plots.
+One of Smiler's favorite antics is to use a [hallucinatory terrain](3-Mechanics/CLI/spells/hallucinatory-terrain-xphb.md) spell to create a little bit of the Feywild in Avernus: a beautiful woodland glade in which to lose himself for a few hours while he meditates and plots.
 
 This eladrin adventurer from the Feywild became stranded in Avernus after his companions abandoned him. He has spent the past seventy years roaming Avernus, making deals with fiends to survive. Smiler eventually sold his soul to a pit fiend, who gave him the means to topple a nycaloth warlord named Yarrasto. Smiler took control of the nycaloth's warband and their infernal war machines. Smiler's gang came to be known as Smiler's Defilers, and their ferocity terrified the other warlords of Avernus for a while.
 
@@ -32,7 +32,7 @@ Three of Smiler's rivals—Bitter Breath, Feonor, and Princeps Kovik—joined fo
 "subtype": "elf"
 "alignment": "Chaotic Evil"
 "ac": !!int "18"
-"ac_class": "[+2 leather armor](3-Mechanics/CLI/items/2-armor.md)"
+"ac_class": "[+2 leather armor](3-Mechanics/CLI/items/2-armor-xdmg.md)"
 "hp": !!int "165"
 "hit_dice": "22d8 + 66"
 "modifier": !!int "5"
@@ -51,7 +51,7 @@ Three of Smiler's rivals—Bitter Breath, Feonor, and Princeps Kovik—joined fo
     "desc": "+7"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "gear":
-  - "[+1 shortsword](3-Mechanics/CLI/items/1-weapon.md)"
+  - "[+1 shortsword](3-Mechanics/CLI/items/1-weapon-xdmg.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 10"
 "languages": "Common, Elvish, Sylvan"
@@ -59,12 +59,12 @@ Three of Smiler's rivals—Bitter Breath, Feonor, and Princeps Kovik—joined fo
 "traits":
   - "desc": "Smiler's innate spellcasting ability is Charisma (spell save DC 15).\
       \ He can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [charm person](3-Mechanics/CLI/spells/charm-person.md), [Tasha's\
-      \ hideous laughter](3-Mechanics/CLI/spells/tashas-hideous-laughter.md)\n\n**3/day\
-      \ each:** [confusion](3-Mechanics/CLI/spells/confusion.md), [enthrall](3-Mechanics/CLI/spells/enthrall.md),\
-      \ [suggestion](3-Mechanics/CLI/spells/suggestion.md)\n\n**1/day each:** [hallucinatory\
-      \ terrain](3-Mechanics/CLI/spells/hallucinatory-terrain.md), [Otto's irresistible\
-      \ dance](3-Mechanics/CLI/spells/ottos-irresistible-dance.md)"
+      \n**At will:** [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md),\
+      \ [Tasha's hideous laughter](3-Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md)\n\
+      \n**3/day each:** [confusion](3-Mechanics/CLI/spells/confusion-xphb.md), [enthrall](3-Mechanics/CLI/spells/enthrall-xphb.md),\
+      \ [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md)\n\n**1/day each:**\
+      \ [hallucinatory terrain](3-Mechanics/CLI/spells/hallucinatory-terrain-xphb.md),\
+      \ [Otto's irresistible dance](3-Mechanics/CLI/spells/ottos-irresistible-dance-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "As a bonus action, Smiler can teleport up to 30 feet to an unoccupied\
       \ space that he can see or to the empty seat of his infernal war machine."
@@ -84,6 +84,6 @@ Three of Smiler's rivals—Bitter Breath, Feonor, and Princeps Kovik—joined fo
     "name": "+1 Shortsword"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/smiler-the-defiler-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Smiler%20the%20Defiler.webp"
 ```
 ^statblock

@@ -24,11 +24,11 @@ A Domain of Delight might have a prevailing theme, which you can determine rando
 
 ![Domain Theme](3-Mechanics/CLI/tables/domain-theme-dod.md)
 
-![An intrepid gnome adventur...](3-Mechanics/CLI/books/domains-of-delight/img/007.webp#center "An intrepid gnome adventurer traverses a moonlit stream while scowling flowers look on.")
+![An intrepid gnome adventurer traverses a moonlit stream while scowling flowers look on.](file://book/DoD/007.webp#center)
 
 ## Coming and Going
 
-Travelers who don't have access to [plane shift](3-Mechanics/CLI/spells/plane-shift.md) spells or similar magic must rely on other means to travel to and from a Domain of Delight. Fey crossings are the most common means of transit between the Material Plane and the Feywild; more information about them can be found in the Dungeon Master's Guide.
+Travelers who don't have access to [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md) spells or similar magic must rely on other means to travel to and from a Domain of Delight. Fey crossings are the most common means of transit between the Material Plane and the Feywild; more information about them can be found in the Dungeon Master's Guide.
 
 An archfey is usually aware of any Fey crossings that allow creatures to enter and leave the archfey's domain and may protect these Fey crossings or leave them unguarded. Some Fey crossings operate only at certain times or when certain conditions are met. The Fey Crossings table allows you to randomly determine the characteristics of a fey crossing that allows passage to and from a Domain of Delight. Your Domain of Delight can have as few or as many Fey crossings as you like, and they need not all be the same in appearance or function.
 
@@ -40,7 +40,7 @@ Geographical features on one side of a fey crossing tend to be similar to those 
 
 Visitors to a Domain of Delight are often confounded by the Feywild's power to distort distance, time, and reality. A traveler might see a hilltop that appears to be a mile away and march toward it, only to find the hilltop getting farther away. Similarly, a wanderer who asks for directions might be told to follow a particular trail, only to discover the trail changes course depending on the mood of those who travel along it. Determining how far one has traveled in a particular amount of time can be a headscratcher.
 
-![One never knows where a &quot;s...](3-Mechanics/CLI/books/domains-of-delight/img/008.webp#center "One never knows where a &quot;shortcut&quot; through the Feywild might lead.")
+![One never knows where a &quot;shortcut&quot; through the Feywild might lead.](file://book/DoD/008.webp#center)
 
 ### Magical Shortcuts
 
@@ -75,7 +75,7 @@ When you wish to include such a region, roll on the Weird Magic Effects table to
 
 > [!note] Awakened Beasts
 > 
-> Awakened Beasts (Beasts that have received the benefits of an [awaken](3-Mechanics/CLI/spells/awaken.md) spell) are common in the Feywild, where they often serve as spies and companions.
+> Awakened Beasts (Beasts that have received the benefits of an [awaken](3-Mechanics/CLI/spells/awaken-xphb.md) spell) are common in the Feywild, where they often serve as spies and companions.
 ^awakened-beasts
 
 ## Domain Denizens
@@ -86,7 +86,7 @@ Just because a creature doesn't appear on the Feywild Creatures table doesn't me
 
 ![Domain Denizens; Feywild Creatures](3-Mechanics/CLI/tables/domain-denizens-feywild-creatures-dod.md)
 
-![A boggle uses its innate m...](3-Mechanics/CLI/books/domains-of-delight/img/009.webp#center "A boggle uses its innate magic to pluck a vial from a crone's belt.")
+![A boggle uses its innate magic to pluck a vial from a crone's belt.](file://book/DoD/009.webp#center)
 
 ### Domain Visitors
 

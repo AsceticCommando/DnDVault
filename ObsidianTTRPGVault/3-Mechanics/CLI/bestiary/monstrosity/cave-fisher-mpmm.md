@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Cave Fisher"
 ---
-# [Cave Fisher](3-Mechanics\CLI\bestiary\monstrosity/cave-fisher-mpmm.md)
+# [Cave Fisher](3-Mechanics/CLI/bestiary/monstrosity/cave-fisher-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 73, Volo's Guide to Monsters p. 130*  
 
 A cave fisher is a subterranean arachnid with a long snout that houses spinnerets, enabling the creature to produce sticky filaments, much like the strands of a spider's webbing, which the creature uses to snag prey.
@@ -89,7 +89,7 @@ While some folk hunt cave fishers to kill them to harvest their filaments, shell
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/cave-fisher-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Cave%20Fisher.webp"
 ```
 ^statblock
 

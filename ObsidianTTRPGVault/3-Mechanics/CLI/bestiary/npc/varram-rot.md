@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Varram"
 ---
-# [Varram](3-Mechanics\CLI\bestiary\npc/varram-rot.md)
+# [Varram](3-Mechanics/CLI/bestiary/npc/varram-rot.md)
 *Source: The Rise of Tiamat p. 9, Tyranny of Dragons p. 8*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "human"
 "alignment": "Neutral Evil"
 "ac": !!int "16"
-"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor.md)"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
 "hp": !!int "110"
 "hit_dice": "17d8 + 34"
 "modifier": !!int "4"
@@ -44,7 +44,7 @@ aliases:
 "damage_resistances": "one of the following: acid, cold, fire, lightning, poison;\
   \ poison"
 "gear":
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 11"
 "languages": "Common, Draconic, Infernal, Dwarvish"
@@ -85,6 +85,6 @@ aliases:
 "source":
   - "RoT"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/npc/token/varram-rot.webp"
+"image": "file://bestiary/tokens/RoT/Varram.webp"
 ```
 ^statblock

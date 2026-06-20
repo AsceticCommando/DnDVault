@@ -12,6 +12,8 @@ aliases:
 
 **Abandoned Temple Condition**
 
+`dice: [](abandoned-temple-condition-mot.md#^abandoned-temple-condition)`
+
 | dice: d8 | Status |
 |----------|--------|
 | 1 | Sunken underground |

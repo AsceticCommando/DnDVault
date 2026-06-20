@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Noori"
 ---
-# [Noori](3-Mechanics\CLI\bestiary\npc/noori-skt.md)
+# [Noori](3-Mechanics/CLI/bestiary/npc/noori-skt.md)
 *Source: Storm King's Thunder p. 127*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "human"
 "alignment": "Chaotic Evil"
 "ac": !!int "13"
-"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor.md)"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor-xphb.md)"
 "hp": !!int "67"
 "hit_dice": "9d8 + 27"
 "modifier": !!int "1"
@@ -40,7 +40,7 @@ aliases:
   - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+2"
 "gear":
-  - "[greataxe](3-Mechanics/CLI/items/greataxe.md)"
+  - "[greataxe](3-Mechanics/CLI/items/greataxe-xphb.md)"
 "senses": "passive Perception 10"
 "languages": "Bothii, Common"
 "cr": "2"
@@ -55,6 +55,6 @@ aliases:
     "name": "Greataxe"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/noori-skt.webp"
+"image": "file://bestiary/tokens/SKT/Noori.webp"
 ```
 ^statblock

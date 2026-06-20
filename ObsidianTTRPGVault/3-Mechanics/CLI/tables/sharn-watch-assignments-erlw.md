@@ -12,6 +12,8 @@ aliases:
 
 **Sharn Watch Assignments**
 
+`dice: [](sharn-watch-assignments-erlw.md#^sharn-watch-assignments)`
+
 | dice: d8 | Assignment |
 |----------|------------|
 | 1 | Solve a murder that occurred in Skyway. |

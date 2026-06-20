@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Skeletal Knight"
 ---
-# [Skeletal Knight](3-Mechanics\CLI\bestiary\undead/skeletal-knight-dsotdq.md)
+# [Skeletal Knight](3-Mechanics/CLI/bestiary/undead/skeletal-knight-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 208*  
 
 Skeletal knights are powerful Undead that arise to serve even more wicked beings—often death knights. Those who become skeletal knights were typically virtuous in life but betrayed their oaths and died in disgrace. Unable to rest, they are now unswervingly loyal to the villains they serve. Should a skeletal knight's master be destroyed, the knight regains its will and is free to pursue its own ends.
@@ -25,7 +25,7 @@ Skeletal knights are relentless in battle and difficult to destroy. They cling t
 "type": "undead"
 "alignment": "typically  Lawful Evil"
 "ac": !!int "18"
-"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor.md)"
+"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "112"
 "hit_dice": "15d8 + 45"
 "modifier": !!int "0"
@@ -68,6 +68,6 @@ Skeletal knights are relentless in battle and difficult to destroy. They cling t
     "name": "Throwing Axe"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/undead/token/skeletal-knight-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Skeletal%20Knight.webp"
 ```
 ^statblock

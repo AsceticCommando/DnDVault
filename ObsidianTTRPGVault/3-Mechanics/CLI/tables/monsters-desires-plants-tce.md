@@ -12,6 +12,8 @@ aliases:
 
 **Plants**
 
+`dice: [](monsters-desires-plants-tce.md#^plants)`
+
 | dice: d4 | Desired Offering |
 |----------|------------------|
 | 1 | A pound of mulch |

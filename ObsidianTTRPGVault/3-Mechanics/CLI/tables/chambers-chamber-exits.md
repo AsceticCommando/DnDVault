@@ -12,6 +12,8 @@ aliases:
 
 **Chamber Exits**
 
+`dice: [](chambers-chamber-exits.md#^chamber-exits)`
+
 | dice: d20 | Normal Chamber | Large Chamber |
 |-----------|----------------|---------------|
 | 1-3 | 0 | 0 |

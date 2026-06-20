@@ -12,6 +12,8 @@ aliases:
 
 **Red Dragon Personality Traits**
 
+`dice: [](creating-a-red-dragon-red-dragon-personality-traits-ftd.md#^red-dragon-personality-traits)`
+
 | dice: d8 | Trait |
 |----------|-------|
 | 1 | The thrill of the hunt and of battle makes my blood burn and stokes the fire in my heart. A pity there are so few foes and so little prey worthy of me. |

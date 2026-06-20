@@ -11,7 +11,7 @@ aliases:
 - "Woodcutter's Axe"
 ---
 # Woodcutter's Axe
-*Weapon ([greataxe](3-Mechanics/CLI/items/greataxe.md)), rare*  
+*Weapon ([greataxe](3-Mechanics/CLI/items/greataxe-xphb.md)), rare*  
 
 
 - **Damage**: 1d12 slashing
@@ -20,6 +20,6 @@ aliases:
 
 You have a +1 bonus to attack and damage rolls made with this magic weapon.
 
-When you use this axe to make an attack against a plant (an ordinary plant or a creature with the Plant type) or a wooden object that isn't being worn or carried, the attack deals an extra `2d6` slashing damage on a hit.
+When you use this axe to make an attack against a plant (an ordinary plant or a creature with the Plant type) or a wooden object that isn't being worn or carried, the attack deals an extra `dice:2d6|noform|noparens|avg` (`2d6`) slashing damage on a hit.
 
 *Source: The Wild Beyond the Witchlight p. 214*

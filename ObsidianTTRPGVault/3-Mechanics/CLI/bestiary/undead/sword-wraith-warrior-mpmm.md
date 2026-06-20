@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Sword Wraith Warrior"
 ---
-# [Sword Wraith Warrior](3-Mechanics\CLI\bestiary\undead/sword-wraith-warrior-mpmm.md)
+# [Sword Wraith Warrior](3-Mechanics/CLI/bestiary/undead/sword-wraith-warrior-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 239, Mordenkainen's Tome of Foes p. 241*  
 
 Sword wraith warriors are most often found on ancient battlefields where soldiers were hemmed in and slaughtered without quarter.
@@ -29,7 +29,7 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 "type": "undead"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "16"
-"ac_class": "[chain shirt](3-Mechanics/CLI/items/chain-shirt.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[chain shirt](3-Mechanics/CLI/items/chain-shirt-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "45"
 "hit_dice": "6d8 + 18"
 "modifier": !!int "1"
@@ -47,8 +47,8 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
   \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
   \ [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)"
 "gear":
-  - "[battleaxe](3-Mechanics/CLI/items/battleaxe.md)"
-  - "[longbow](3-Mechanics/CLI/items/longbow.md)"
+  - "[battleaxe](3-Mechanics/CLI/items/battleaxe-xphb.md)"
+  - "[longbow](3-Mechanics/CLI/items/longbow-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 9"
 "languages": "the languages it knew in life"
@@ -70,7 +70,7 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/undead/token/sword-wraith-warrior-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Sword%20Wraith%20Warrior.webp"
 ```
 ^statblock
 

@@ -19,10 +19,10 @@ The dying victim spits final words: "You shall spill innocent blood until laid l
 
 ## Burden
 
-The character is cursed with [loup garou](3-Mechanics/CLI/bestiary/monstrosity/loup-garou-vrgr.md) lycanthropy (see "chapter 5").
+The character is cursed with [loup garou](3-Mechanics/CLI/bestiary/monstrosity/loup-garou-rhw.md) [lycanthropy](3-Mechanics/CLI/rules/variant-rules/player-characters-as-lycanthropes-mm.md) (see "chapter 5").
 
 ## Resolution
 
-This curse can't be broken until the character is reduced to 0 hit points by a silvered weapon. If the character survives, the curse can be broken as described in the ""Loup Garou Lycanthropy"" section of "chapter 5". Treat the character as a [werewolf](3-Mechanics/CLI/bestiary/humanoid/werewolf.md) whose loup garou progenitor has been killed.
+This curse can't be broken until the character is reduced to 0 hit points by a silvered weapon. If the character survives, the curse can be broken as described in the ""Loup Garou Lycanthropy"" section of "chapter 5". Treat the character as a [werewolf](3-Mechanics/CLI/bestiary/monstrosity/werewolf-xmm.md) whose loup garou progenitor has been killed.
 
 *Source: Van Richten's Guide to Ravenloft p. 194*

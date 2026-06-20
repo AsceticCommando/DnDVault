@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Harengon Brigand"
 ---
-# [Harengon Brigand](3-Mechanics\CLI\bestiary\humanoid/harengon-brigand-wbtw.md)
+# [Harengon Brigand](3-Mechanics/CLI/bestiary/humanoid/harengon-brigand-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 235*  
 
 Harengons are rabbit-folk native to the Feywild, through they often migrate to the Material Plane. They love to travel on foot and rarely stay in one place for long.
@@ -25,7 +25,7 @@ Not all harengons are mean-spirited bullies like the ones presented here. Every 
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "14"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "9"
 "hit_dice": "2d8"
 "modifier": !!int "3"
@@ -45,8 +45,8 @@ Not all harengons are mean-spirited bullies like the ones presented here. Every 
   - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
 "gear":
-  - "[club](3-Mechanics/CLI/items/club.md)"
-  - "[sling](3-Mechanics/CLI/items/sling.md)"
+  - "[club](3-Mechanics/CLI/items/club-xphb.md)"
+  - "[sling](3-Mechanics/CLI/items/sling-xphb.md)"
 "senses": "passive Perception 14"
 "languages": "Common, Sylvan"
 "cr": "1/8"
@@ -67,6 +67,6 @@ Not all harengons are mean-spirited bullies like the ones presented here. Every 
     "name": "Sling"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/harengon-brigand-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Harengon%20Brigand.webp"
 ```
 ^statblock

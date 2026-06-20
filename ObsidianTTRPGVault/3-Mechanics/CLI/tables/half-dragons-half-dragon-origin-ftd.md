@@ -12,6 +12,8 @@ aliases:
 
 **Half-Dragon Origin**
 
+`dice: [](half-dragons-half-dragon-origin-ftd.md#^half-dragon-origin)`
+
 | dice: d6 | Origin |
 |----------|--------|
 | 1 | **Regional Effects**. The magical influence of a dragon's lair causes half-dragons to spontaneously arise among the area's other creatures. |

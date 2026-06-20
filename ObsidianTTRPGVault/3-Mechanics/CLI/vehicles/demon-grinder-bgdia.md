@@ -18,7 +18,7 @@ A Demon Grinder is a bulky, armored coach that rumbles loudly as it crushes obst
 
 ```ad-statblock
 title: Demon Grinder
-![](3-Mechanics/CLI/vehicles/token/demon-grinder-bgdia.webp#token)
+![](file://vehicles/tokens/BGDIA/Demon%20Grinder.webp#token)
 *Gargantuan vehicle (6 tons); land*
 
 - **Cargo Capacity** 1 ton

@@ -12,6 +12,8 @@ aliases:
 
 **Morally Ambiguous Villains**
 
+`dice: [](shades-of-evil-morally-ambiguous-villains-erlw.md#^morally-ambiguous-villains)`
+
 | dice: d4 | Villain |
 |----------|---------|
 | 1 | The villain is targeting people with aberrant dragonmarks in the desperate hope of preventing another War of the Mark. |

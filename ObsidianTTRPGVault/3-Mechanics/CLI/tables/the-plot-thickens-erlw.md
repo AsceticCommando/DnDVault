@@ -12,6 +12,8 @@ aliases:
 
 **The Plot Thickens**
 
+`dice: [](the-plot-thickens-erlw.md#^the-plot-thickens)`
+
 | dice: d8 | Plot Twist |
 |----------|------------|
 | 1 | The apparent victim in the situation is actually the villain. |

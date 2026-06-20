@@ -12,6 +12,8 @@ aliases:
 
 **Alignment**
 
+`dice: [](supplemental-tables-alignment-xge.md#^alignment)`
+
 | dice: 3d6 | Alignment |
 |-----------|-----------|
 | 3 | Chaotic evil (50%) or chaotic neutral (50%) |

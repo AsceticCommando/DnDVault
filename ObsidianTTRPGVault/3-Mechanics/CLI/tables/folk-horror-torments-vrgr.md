@@ -12,6 +12,8 @@ aliases:
 
 **Folk Horror Torments**
 
+`dice: [](folk-horror-torments-vrgr.md#^folk-horror-torments)`
+
 | dice: d6 | Torment |
 |----------|---------|
 | 1 | The Darklord can't commune with the spirit they worship. They offer ever greater sacrifices in hopes of proving their worthiness. |

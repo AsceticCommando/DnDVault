@@ -12,6 +12,8 @@ aliases:
 
 **Group Rivals**
 
+`dice: [](rival-outfit-group-rivals-erlw.md#^group-rivals)`
+
 | dice: d6 | Rival |
 |----------|-------|
 | 1 | **The Law**. Someone in the Sharn Watch has vowed to put you in prison or die trying. |

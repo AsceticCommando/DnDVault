@@ -12,6 +12,8 @@ aliases:
 
 **Githyanki Names, Male**
 
+`dice: [](gith-tables-githyanki-names-male-mtf.md#^githyanki-names-male)`
+
 | dice: d10 | Name |
 |-----------|------|
 | 1 | Elirdain |

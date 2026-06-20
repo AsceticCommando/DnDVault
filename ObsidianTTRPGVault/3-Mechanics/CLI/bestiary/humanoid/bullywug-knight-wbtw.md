@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Bullywug Knight"
 ---
-# [Bullywug Knight](3-Mechanics\CLI\bestiary\humanoid/bullywug-knight-wbtw.md)
+# [Bullywug Knight](3-Mechanics/CLI/bestiary/humanoid/bullywug-knight-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 231*  
 
 Bullywug knights adhere to a code of chivalry. Their sense of honor compels these noble bullywugs to fight fairly and to insist that others do so as well.
@@ -23,7 +23,7 @@ Bullywug knights adhere to a code of chivalry. Their sense of honor compels thes
 "type": "humanoid"
 "alignment": "typically  Lawful Good"
 "ac": !!int "18"
-"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor.md)"
+"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "66"
 "hit_dice": "12d8 + 12"
 "modifier": !!int "1"
@@ -39,7 +39,7 @@ Bullywug knights adhere to a code of chivalry. Their sense of honor compels thes
   - "constitution": !!int "3"
   - "wisdom": !!int "2"
 "gear":
-  - "[glaive](3-Mechanics/CLI/items/glaive.md)"
+  - "[glaive](3-Mechanics/CLI/items/glaive-xphb.md)"
 "senses": "passive Perception 10"
 "languages": "Bullywug, Common"
 "cr": "3"
@@ -66,6 +66,6 @@ Bullywug knights adhere to a code of chivalry. Their sense of honor compels thes
     "name": "Croak of Charming (Recharges after a Short or Long Rest)"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/bullywug-knight-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Bullywug%20Knight.webp"
 ```
 ^statblock

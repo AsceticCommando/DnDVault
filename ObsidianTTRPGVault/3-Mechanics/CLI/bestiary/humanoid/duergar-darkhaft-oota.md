@@ -12,28 +12,30 @@ statblock-link: "#^statblock"
 aliases:
 - "Duergar Darkhaft"
 ---
-# [Duergar Darkhaft](3-Mechanics\CLI\bestiary\humanoid/duergar-darkhaft-oota.md)
+# [Duergar Darkhaft](3-Mechanics/CLI/bestiary/humanoid/duergar-darkhaft-oota.md)
 *Source: Out of the Abyss p. 226*  
+
+## Duergar Darkhaft
+
+The darkhafts are the members of the Deepking's secret corps of psionic agents.
+
+## Duergar
 
 The tyrannical duergar, also known as gray dwarves, dwell in fantastic cities deep in the Underdark. Using ancient dwarven knowledge and myriad slaves, they work tirelessly to expand their subterranean kingdoms.
 
 Most duergar (including females) are bald and have ashen gray skin. They wear drab clothing designed to blend in with stone, along with simple jewelry that reflects their severe and utilitarian demeanor.
 
-## Slaves to Slavers
+### Slaves to Slavers
 
 The duergar were once dwarves, before their greed and endless delving beneath the earth brought them into contact with the mind flayers. Held in captivity for generations by the illithids, the dwarves eventually won their independence with the aid of the evil god Laduguer. Slavery had forever changed them, however, darkening their spirits to make the duergar as evil as the tyrants they had escaped. Despite winning their freedom, duergar are dour, pessimistic, untrusting creatures, always toiling and complaining, with no memory of what it means to be happy or proud. Their craftsmanship and accomplishments endure, yet they are bereft of warmth or artistry.Duergar make war against their dwarven kin and all other subterranean races. They forge alliances when it is convenient, then break those alliances when they have nothing more to gain. They take and hold slaves to toil in the Underdark, regarding them as free labor and crude currency.
 
-## Tough as Stone
+### Tough as Stone
 
 Like dwarves, duergar have strong constitutions. Adding to their physical stamina is an incredible mental fortitude resulting from their time as slaves of the illithids. A duergar's mind is a fortress, able to shrug off charms, illusions, and other spells.Born of Darkness. The Underdark is saturated with strange magical power, which the duergar absorbed over generations of imprisonment. A duergar can increase its size and strength for a short time, becoming a powerful ogre-sized warrior. If it faces a foe it can't fight, or when spying on creatures approaching its territory, it can just as easily become [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) to slip away into the darkness. Eons spent in the Underdark also sharpened their [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision), allowing them to see twice as far as other dwarves. This keen eyesight comes at a cost, however, as a duergar's vision is compromised by sunlight.
 
-## Infernal Master
+### Infernal Master
 
 Asmodeus, Lord of the Nine Hells, has been known to impersonate duergar gods in order to cultivate the evil brimming in the hearts of the gray dwarves. He offers them divine guidance and vengeance against their enemies while urging them on toward greater acts of tyranny, all the while concealing his true identity.
-
-## Duergar Darkhaft
-
-The darkhafts are the members of the Deepking's secret corps of psionic agents.
 
 ```statblock
 "name": "Duergar Darkhaft (OotA)"
@@ -42,7 +44,7 @@ The darkhafts are the members of the Deepking's secret corps of psionic agents.
 "subtype": "dwarf"
 "alignment": "Lawful Evil"
 "ac": !!int "16"
-"ac_class": "[scale mail](3-Mechanics/CLI/items/scale-mail.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[scale mail](3-Mechanics/CLI/items/scale-mail-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "26"
 "hit_dice": "4d8 + 4"
 "modifier": !!int "0"
@@ -56,8 +58,8 @@ The darkhafts are the members of the Deepking's secret corps of psionic agents.
 "speed": "25 ft."
 "damage_resistances": "poison"
 "gear":
-  - "[javelin](3-Mechanics/CLI/items/javelin.md)"
-  - "[war pick](3-Mechanics/CLI/items/war-pick.md)"
+  - "[javelin](3-Mechanics/CLI/items/javelin-xphb.md)"
+  - "[war pick](3-Mechanics/CLI/items/war-pick-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
   \ Perception 10"
 "languages": "Dwarvish, Undercommon"
@@ -65,9 +67,9 @@ The darkhafts are the members of the Deepking's secret corps of psionic agents.
 "traits":
   - "desc": "The darkhaft's innate spellcasting ability is Intelligence (spell save\
       \ DC 10) it can innately cast the following spells, requiring no components:\n\
-      \n**At will:** [friends](3-Mechanics/CLI/spells/friends.md), [mage hand](3-Mechanics/CLI/spells/mage-hand.md)\n\
-      \n**1/day each:** [disguise self](3-Mechanics/CLI/spells/disguise-self.md),\
-      \ [sleep](3-Mechanics/CLI/spells/sleep.md)"
+      \n**At will:** [friends](3-Mechanics/CLI/spells/friends-xphb.md), [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md)\n\
+      \n**1/day each:** [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md),\
+      \ [sleep](3-Mechanics/CLI/spells/sleep-xphb.md)"
     "name": "Innate Spellcasting (Psionics)"
   - "desc": "The duergar has advantage on saving throws against poison, spells, and\
       \ illusions, as well as to resist being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
@@ -100,6 +102,6 @@ The darkhafts are the members of the Deepking's secret corps of psionic agents.
     "name": "Invisibility (Recharges after a Short or Long Rest)"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/duergar-darkhaft-oota.webp"
+"image": "file://bestiary/tokens/OotA/Duergar%20Darkhaft.webp"
 ```
 ^statblock

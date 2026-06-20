@@ -10,7 +10,7 @@ aliases:
 ---
 # Flying Chariot
 *Wondrous item, rare*  
-![](3-Mechanics/CLI/items/img/flying-chariot.webp#right)
+![](file://items/MOT/Flying%20Chariot.webp#right)
 
 
 The chariot's riders and creatures pulling the chariot gain a +1 bonus to their AC.

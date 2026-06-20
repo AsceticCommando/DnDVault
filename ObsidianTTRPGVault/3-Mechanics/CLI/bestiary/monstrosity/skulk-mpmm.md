@@ -17,7 +17,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Skulk"
 ---
-# [Skulk](3-Mechanics\CLI\bestiary\monstrosity/skulk-mpmm.md)
+# [Skulk](3-Mechanics/CLI/bestiary/monstrosity/skulk-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 219, Mordenkainen's Tome of Foes p. 227*  
 
 > [!quote] A quote from Mordenkainen  
@@ -76,7 +76,7 @@ Cruel and chaotic, skulks carry out their orders in the most violent manner poss
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/skulk-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Skulk.webp"
 ```
 ^statblock
 

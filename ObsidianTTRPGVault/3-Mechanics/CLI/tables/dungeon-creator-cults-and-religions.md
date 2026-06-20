@@ -12,6 +12,8 @@ aliases:
 
 **Cults and Religions**
 
+`dice: [](dungeon-creator-cults-and-religions.md#^cults-and-religions)`
+
 | dice: d20 | Cult or Religious Group |
 |-----------|-------------------------|
 | 1 | Demon-worshiping cult |

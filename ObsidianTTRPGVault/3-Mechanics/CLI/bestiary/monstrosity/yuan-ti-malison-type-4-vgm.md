@@ -16,7 +16,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Yuan-ti Malison (Type 4)"
 ---
-# [Yuan-ti Malison (Type 4)](3-Mechanics\CLI\bestiary\monstrosity/yuan-ti-malison-type-4-vgm.md)
+# [Yuan-ti Malison (Type 4)](3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-4-vgm.md)
 *Source: Volo's Guide to Monsters p. 96*  
 
 ## Yuan-ti Malison Variants: Types 4 and 5
@@ -93,8 +93,8 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 "damage_immunities": "poison"
 "condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
 "gear":
-  - "[longbow](3-Mechanics/CLI/items/longbow.md)"
-  - "[scimitar](3-Mechanics/CLI/items/scimitar.md)"
+  - "[longbow](3-Mechanics/CLI/items/longbow-xphb.md)"
+  - "[scimitar](3-Mechanics/CLI/items/scimitar-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 11"
 "languages": "Abyssal, Common, Draconic"
@@ -102,8 +102,8 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 "traits":
   - "desc": "The yuan-ti's innate spellcasting ability is Charisma (spell save DC\
       \ 13). The yuan-ti can innately cast the following spells, requiring no material\
-      \ components:\n\n**At will:** [animal friendship](3-Mechanics/CLI/spells/animal-friendship.md)\
-      \ (snakes only)\n\n**3/day:** [suggestion](3-Mechanics/CLI/spells/suggestion.md)"
+      \ components:\n\n**At will:** [animal friendship](3-Mechanics/CLI/spells/animal-friendship-xphb.md)\
+      \ (snakes only)\n\n**3/day:** [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md)"
     "name": "Innate Spellcasting (Yuan-ti Form Only)"
   - "desc": "The yuan-ti can use its action to polymorph into a Medium snake, or back\
       \ into its true form. Its statistics are the same in each form. Any equipment\
@@ -131,7 +131,7 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
     "name": "Longbow (Yuan-ti Form Only)"
 "source":
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/yuan-ti-malison-type-4-vgm.webp"
+"image": "file://bestiary/tokens/VGM/Yuan-ti%20Malison%20%28Type%204%29.webp"
 ```
 ^statblock
 

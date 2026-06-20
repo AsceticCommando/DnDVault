@@ -11,25 +11,25 @@ aliases:
 
 ## 1st Level
 
-- [Sanctuary](3-Mechanics/CLI/spells/sanctuary.md "PHB") at class level 5
-- [Sleep](3-Mechanics/CLI/spells/sleep.md "PHB") at class level 5
+- [Sanctuary](3-Mechanics/CLI/spells/sanctuary-xphb.md "XPHB") at class level 3
+- [Sleep](3-Mechanics/CLI/spells/sleep-xphb.md "XPHB") at class level 3
 
 ## 2nd Level
 
-- [Calm Emotions](3-Mechanics/CLI/spells/calm-emotions.md "PHB") at class level 5
-- [Hold Person](3-Mechanics/CLI/spells/hold-person.md "PHB") at class level 5
+- [Calm Emotions](3-Mechanics/CLI/spells/calm-emotions-xphb.md "XPHB") at class level 5
+- [Hold Person](3-Mechanics/CLI/spells/hold-person-xphb.md "XPHB") at class level 5
 
 ## 3rd Level
 
-- [Counterspell](3-Mechanics/CLI/spells/counterspell.md "PHB") at class level 5
-- [Hypnotic Pattern](3-Mechanics/CLI/spells/hypnotic-pattern.md "PHB") at class level 5
+- [Counterspell](3-Mechanics/CLI/spells/counterspell-xphb.md "XPHB") at class level 9
+- [Hypnotic Pattern](3-Mechanics/CLI/spells/hypnotic-pattern-xphb.md "XPHB") at class level 9
 
 ## 4th Level
 
-- [Otiluke's Resilient Sphere](3-Mechanics/CLI/spells/otilukes-resilient-sphere.md "PHB") at class level 5
-- [Stoneskin](3-Mechanics/CLI/spells/stoneskin.md "PHB") at class level 5
+- [Otiluke's Resilient Sphere](3-Mechanics/CLI/spells/otilukes-resilient-sphere-xphb.md "XPHB") at class level 13
+- [Stoneskin](3-Mechanics/CLI/spells/stoneskin-xphb.md "XPHB") at class level 13
 
 ## 5th Level
 
-- [Hold Monster](3-Mechanics/CLI/spells/hold-monster.md "PHB") at class level 5
-- [Wall of Force](3-Mechanics/CLI/spells/wall-of-force.md "PHB") at class level 5
+- [Hold Monster](3-Mechanics/CLI/spells/hold-monster-xphb.md "XPHB") at class level 17
+- [Wall of Force](3-Mechanics/CLI/spells/wall-of-force-xphb.md "XPHB") at class level 17

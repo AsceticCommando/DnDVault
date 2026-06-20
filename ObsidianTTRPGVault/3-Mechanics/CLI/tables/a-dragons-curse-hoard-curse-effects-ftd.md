@@ -12,6 +12,8 @@ aliases:
 
 **Hoard Curse Effects**
 
+`dice: [](a-dragons-curse-hoard-curse-effects-ftd.md#^hoard-curse-effects)`
+
 | dice: d6 | Hoard Curse Effect |
 |----------|--------------------|
 | 1 | Each affected creature gains 1 level of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) that can't be removed until the curse is broken. |

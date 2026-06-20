@@ -12,6 +12,8 @@ aliases:
 
 **Adventures at Sea**
 
+`dice: [](embarking-on-adventure-adventures-at-sea-mot.md#^adventures-at-sea)`
+
 | dice: d10 | Adventure Goal |
 |-----------|----------------|
 | 1 | Slay a monster or pirates terrorizing ships at sea. |

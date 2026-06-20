@@ -12,6 +12,8 @@ aliases:
 
 **Gothic Horror Settings**
 
+`dice: [](gothic-horror-settings-vrgr.md#^gothic-horror-settings)`
+
 | dice: d8 | Setting |
 |----------|---------|
 | 1 | A city-state where the rulers are secretly warring lycanthropes, hags, and vampires |

@@ -11,4 +11,4 @@ aliases:
 
 ## 3rd Level
 
-- [Fireball](3-Mechanics/CLI/spells/fireball.md "PHB")
+- [Fireball](3-Mechanics/CLI/spells/fireball-xphb.md "XPHB")

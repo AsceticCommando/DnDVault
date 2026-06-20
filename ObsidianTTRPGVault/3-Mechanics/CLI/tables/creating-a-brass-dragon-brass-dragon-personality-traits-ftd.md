@@ -12,6 +12,8 @@ aliases:
 
 **Brass Dragon Personality Traits**
 
+`dice: [](creating-a-brass-dragon-brass-dragon-personality-traits-ftd.md#^brass-dragon-personality-traits)`
+
 | dice: d8 | Trait |
 |----------|-------|
 | 1 | I don't ask for much in a conversation partner—just smile, occasionally nod, and stay awake! |

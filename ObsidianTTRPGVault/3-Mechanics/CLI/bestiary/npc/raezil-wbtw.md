@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Raezil"
 ---
-# [Raezil](3-Mechanics\CLI\bestiary\npc/raezil-wbtw.md)
+# [Raezil](3-Mechanics/CLI/bestiary/npc/raezil-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 193*  
 
 The statue is a petrified high elf named Raezil Uthemar (neutral). Raezil served as Zybilna's spy in other fey courts. She returned from a mission to find nearly everyone in the palace trapped in temporal stasis. When she confronted Kelek and accused him of conspiring to overthrow Zybilna, his cockatrices petrified her.
@@ -55,8 +55,8 @@ Once she is no longer petrified, Raezil is bound by the rule of reciprocity (see
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "gear":
-  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow.md)"
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 16"
 "languages": "Common, Elvish"
@@ -85,6 +85,6 @@ Once she is no longer petrified, Raezil is bound by the rule of reciprocity (see
     "name": "Hand Crossbow"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/npc/token/raezil-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Raezil.webp"
 ```
 ^statblock

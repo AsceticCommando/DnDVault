@@ -12,6 +12,8 @@ aliases:
 
 **Faerie Dragon Ideals**
 
+`dice: [](creating-a-faerie-dragon-faerie-dragon-ideals-ftd.md#^faerie-dragon-ideals)`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Benevolence. Jokes are one thing, but I won't abide cruelty. My mischief brings joy to the downtrodden and ridicule to oppressors. (Good) |

@@ -11,4 +11,4 @@ aliases:
 
 ## 3rd Level
 
-- [Vampiric Touch](3-Mechanics/CLI/spells/vampiric-touch.md "PHB")
+- [Vampiric Touch](3-Mechanics/CLI/spells/vampiric-touch-xphb.md "XPHB")

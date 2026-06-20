@@ -12,6 +12,8 @@ aliases:
 
 **Black Dragon Adventure Hooks**
 
+`dice: [](black-dragon-adventures-black-dragon-adventure-hooks-ftd.md#^black-dragon-adventure-hooks)`
+
 | dice: d8 | Adventure Hook |
 |----------|----------------|
 | 1 | A black dragon recently took control of a band of pirates and their backwater hideout. Emboldened, the pirates have started raiding nearby shipping lanes. |

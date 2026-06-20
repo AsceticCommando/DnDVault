@@ -4,16 +4,19 @@ cssclasses:
 - json5e-spell
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/spell/class/bard/magical-secrets
+- ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/sorcerer
 - ttrpg-cli/spell/class/warlock
 - ttrpg-cli/spell/class/wizard
+- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
 - ttrpg-cli/spell/level/3rd-level
 - ttrpg-cli/spell/school/enchantment
 - ttrpg-cli/spell/subclass/arcane-trickster
+- ttrpg-cli/spell/subclass/college-of-lore
 - ttrpg-cli/spell/subclass/eldritch-knight
 classes:
-- Bard (Magical Secrets)
+- Bard
+- Bard (College of Lore)
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
 - Sorcerer
@@ -35,6 +38,6 @@ You reach into the mind of one creature you can see and force it to make an Inte
 
 Whenever the affected creature chooses another creature as a target, it must choose the target at random from among the creatures it can see within range of the attack, spell, or other ability it's using. If an enemy provokes an opportunity attack from the affected creature, the creature must make that attack if it is able to.
 
-**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 155*

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Black Gauntlet of Bane"
 ---
-# [Black Gauntlet of Bane](3-Mechanics\CLI\bestiary\humanoid/black-gauntlet-of-bane-bgdia.md)
+# [Black Gauntlet of Bane](3-Mechanics/CLI/bestiary/humanoid/black-gauntlet-of-bane-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 235*  
 
 Bane's devoted followers are warriors who seek to rule through martial strength and intimidation, cruel tyrants who use threats and gifts as needed to ensure loyalty. They enslave those too weak to resist them and shower the strong with gifts and promises of power to turn them into loyal vassals.
@@ -36,7 +36,7 @@ Bane's cultists operate according to strict military hierarchies. The lowest ran
 "subtype": "human"
 "alignment": "Lawful Evil"
 "ac": !!int "16"
-"ac_class": "[chain mail](3-Mechanics/CLI/items/chain-mail.md)"
+"ac_class": "[chain mail](3-Mechanics/CLI/items/chain-mail-xphb.md)"
 "hp": !!int "51"
 "hit_dice": "6d8 + 24"
 "modifier": !!int "0"
@@ -57,21 +57,21 @@ Bane's cultists operate according to strict military hierarchies. The lowest ran
     "desc": "+5"
 "condition_immunities": "[frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
 "gear":
-  - "[mace](3-Mechanics/CLI/items/mace.md)"
+  - "[mace](3-Mechanics/CLI/items/mace-xphb.md)"
 "senses": "passive Perception 15"
 "languages": "Common"
 "cr": "6"
 "traits":
   - "desc": "The black gauntlet is a 5th-level spellcaster. Its spellcasting ability\
       \ is Charisma (spell save DC 15, +7 to hit with spell attacks). It has the following\
-      \ cleric spells prepared:\n\n**Cantrips (at will):** [guidance](3-Mechanics/CLI/spells/guidance.md),\
-      \ [sacred flame](3-Mechanics/CLI/spells/sacred-flame.md), [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy.md)\n\
-      \n**1st level (4 slots):** [bane](3-Mechanics/CLI/spells/bane.md), [bless](3-Mechanics/CLI/spells/bless.md),\
-      \ [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md), [guiding bolt](3-Mechanics/CLI/spells/guiding-bolt.md)\
-      \ (see \"Actions\" below)\n\n**2nd level (3 slots):** [blindness/deafness](3-Mechanics/CLI/spells/blindness-deafness.md),\
-      \ [hold person](3-Mechanics/CLI/spells/hold-person.md), [silence](3-Mechanics/CLI/spells/silence.md)\n\
-      \n**3rd level (2 slots):** [sending](3-Mechanics/CLI/spells/sending.md), [spirit\
-      \ guardians](3-Mechanics/CLI/spells/spirit-guardians.md)"
+      \ cleric spells prepared:\n\n**Cantrips (at will):** [guidance](3-Mechanics/CLI/spells/guidance-xphb.md),\
+      \ [sacred flame](3-Mechanics/CLI/spells/sacred-flame-xphb.md), [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
+      \n**1st level (4 slots):** [bane](3-Mechanics/CLI/spells/bane-xphb.md), [bless](3-Mechanics/CLI/spells/bless-xphb.md),\
+      \ [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md), [guiding bolt](3-Mechanics/CLI/spells/guiding-bolt-xphb.md)\
+      \ (see \"Actions\" below)\n\n**2nd level (3 slots):** [blindness/deafness](3-Mechanics/CLI/spells/blindness-deafness-xphb.md),\
+      \ [hold person](3-Mechanics/CLI/spells/hold-person-xphb.md), [silence](3-Mechanics/CLI/spells/silence-xphb.md)\n\
+      \n**3rd level (2 slots):** [sending](3-Mechanics/CLI/spells/sending-xphb.md),\
+      \ [spirit guardians](3-Mechanics/CLI/spells/spirit-guardians-xphb.md)"
     "name": "Spellcasting"
   - "desc": "When a hostile creature within 5 feet of the black gauntlet makes an\
       \ attack roll or a saving throw, it has disadvantage on the roll. Creatures\
@@ -95,6 +95,6 @@ Bane's cultists operate according to strict military hierarchies. The lowest ran
     "name": "Guiding Bolt (1st-Level Spell; Requires a Spell Slot)"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/black-gauntlet-of-bane-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Black%20Gauntlet%20of%20Bane.webp"
 ```
 ^statblock

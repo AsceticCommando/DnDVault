@@ -10,7 +10,7 @@ aliases:
 # Chapter 2: Seagrow Caves
 *Source: Dragons of Stormwreck Isle, p. 16* 
 
-![](3-Mechanics/CLI/adventures/dragons-of-stormwreck-isle/img/007-02-001-splash-art.webp#center)
+![](file://adventure/DoSI/007-02-001.splash-art.webp#center)
 
 This chapter assumes the characters come here before going to the wreck of *Compass Rose*, and they are still 1st level. It also includes simple instructions to scale up the danger in combat encounters if the characters complete chapter 3, "Cursed Shipwreck," before coming here, and are now 2nd level.
 
@@ -29,13 +29,13 @@ The caves have the following features:
 - **Ceilings.** Unless noted otherwise, the ceilings in the caverns are 20 feet high, and the tunnels connecting the caverns are 15 feet high.  
 - **Light.** The interior caves are illuminated by bioluminescent fungi, which provide dim light throughout the area. See "Vision" in the "Basic Rules".  
 - **Walls.** The cave walls are formed from hexagonal columns of dark gray basalt—volcanic rock originating from Sharruth's undersea tomb. The walls provide hand- and footholds, so climbing the walls doesn't require an ability check.  
-- **Fumes.** Toxic volcanic fumes from deep below the island are slowly poisoning the fungi in the caves. A faint smell of sulfur pervades the place, growing stronger the closer one gets to area B6. If the characters take a long rest inside the caves before opening the vent in B6, each character must succeed on a DC 13 Constitution saving throw or become [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) (see ""Conditions"" in the "Basic Rules"). The [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration.md) spell ends this effect, as does finishing a long rest in fresh air.  
+- **Fumes.** Toxic volcanic fumes from deep below the island are slowly poisoning the fungi in the caves. A faint smell of sulfur pervades the place, growing stronger the closer one gets to area B6. If the characters take a long rest inside the caves before opening the vent in B6, each character must succeed on a DC 13 Constitution saving throw or become [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) (see ""Conditions"" in the "Basic Rules"). The [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md) spell ends this effect, as does finishing a long rest in fresh air.  
 
 ## Running This Chapter
 
 Once the characters decide to visit Seagrow Caves, they have two options for reaching the site:
 
-- **By Boat.** Dragon's Rest has a [rowboat](3-Mechanics/CLI/items/rowboat.md) the characters can take around the western end of the island. (This is [Tarak](3-Mechanics/CLI/bestiary/npc/tarak-dosi.md)'s preferred method.) The trip to Seagrow Caves is 5 miles, which takes about 3 hours and 20 minutes to row.  
+- **By Boat.** Dragon's Rest has a [rowboat](3-Mechanics/CLI/items/rowboat-xphb.md) the characters can take around the western end of the island. (This is [Tarak](3-Mechanics/CLI/bestiary/npc/tarak-dosi.md)'s preferred method.) The trip to Seagrow Caves is 5 miles, which takes about 3 hours and 20 minutes to row.  
 - **Along the Coast.** Walking around the coast of the island is a little easier than rowing, even though it's farther because the characters have to walk around the bays instead of rowing across them. The 7-mile trip takes only 2 hours and 20 minutes at a normal walking pace. The characters can choose whether they want to walk on the cliffs high above the sea or pick their way among the tide pools at the base of the cliffs. The lower route is available only at low tide (see the Tides table).  
 
 ### Approaching at Sea Level
@@ -74,7 +74,7 @@ The tides shift every 6 hours, as summarized on the Tides table.
 
 ### Interacting with Myconids
 
-The myconids' initial attitude toward outsiders is hostile (see ""Social Interaction"" in the "Basic Rules"). They aren't malicious, though, and they don't resort to violence immediately. [Adults](3-Mechanics/CLI/bestiary/plant/myconid-adult.md) use their Rapport Spores to telepathically warn visitors to leave. (See "Rapport Spores" below for details about this form of communication.) [Sprouts](3-Mechanics/CLI/bestiary/plant/myconid-sprout.md) flee toward the nearest adults to warn them of intruders. If the characters attack, the myconids defend themselves.
+The myconids' initial attitude toward outsiders is hostile (see ""Social Interaction"" in the "Basic Rules"). They aren't malicious, though, and they don't resort to violence immediately. [Adults](3-Mechanics/CLI/bestiary/plant/myconid-adult-xmm.md) use their Rapport Spores to telepathically warn visitors to leave. (See "Rapport Spores" below for details about this form of communication.) [Sprouts](3-Mechanics/CLI/bestiary/plant/myconid-sprout-xmm.md) flee toward the nearest adults to warn them of intruders. If the characters attack, the myconids defend themselves.
 
 To convince a hostile myconid to converse or to allow the characters to do anything other than leave the caves, a character must succeed on a DC 20 Charisma check. Depending on the character's approach, the [Deception](3-Mechanics/CLI/rules/skills.md#Deception), [Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation), or [Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion) skill can apply to the check. Mentioning [Tarak](3-Mechanics/CLI/bestiary/npc/tarak-dosi.md)'s name or presenting the offering he sent the myconids grants advantage on this check.
 
@@ -95,8 +95,8 @@ When myconids take damage, they release spores that alert all other myconids wit
 The following locations are keyed to map 3, which shows the layout of the Seagrow Caves.
 
 > [!gallery]
-> ![Map 3: Seagrow Caves](3-Mechanics/CLI/adventures/dragons-of-stormwreck-isle/img/008-map-2-01-seagrow-caves.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/dragons-of-stormwreck-isle/img/009-map-2-01-seagrow-caves-player.webp#gallery)
+> ![Map 3: Seagrow Caves](file://adventure/DoSI/008-map-2.01-seagrow-caves.webp#gallery)
+> ![Player Version](file://adventure/DoSI/009-map-2.01-seagrow-caves-player.webp#gallery)
 
 #### B1: Entrance Tunnel
 
@@ -111,7 +111,7 @@ As described on the previous page, the water level here varies by up to 10 feet 
 
 ##### 2nd-Level Characters
 
-If the characters are 2nd level, two [stirges](3-Mechanics/CLI/bestiary/beast/stirge.md) clinging to the tunnel ceiling are disturbed if fighting breaks out in this area and join the battle. The stirges ignore the spore servant.
+If the characters are 2nd level, two [stirges](3-Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md) clinging to the tunnel ceiling are disturbed if fighting breaks out in this area and join the battle. The stirges ignore the spore servant.
 
 #### B2: Fungus Farm
 
@@ -122,7 +122,7 @@ If the characters are 2nd level, two [stirges](3-Mechanics/CLI/bestiary/beast/st
 
 The waterfall is fed from a pool in the upper cave, which in turn is supplied by runoff trickling down from the surface. Both pools are 5 feet deep at most.
 
-The two mushroom people are [myconid sprouts](3-Mechanics/CLI/bestiary/plant/myconid-sprout.md) named Molen and Kraz. They are spreading fertilizer from area B3, while two [myconid adults](3-Mechanics/CLI/bestiary/plant/myconid-adult.md) named Hipsiz and Rugoso tend the mushrooms near the upper pool, out of sight from below. All four myconids are oblivious to the true threat in the cave—three [violet fungi](3-Mechanics/CLI/bestiary/plant/violet-fungus.md) that grow among the harmless mushrooms here.
+The two mushroom people are [myconid sprouts](3-Mechanics/CLI/bestiary/plant/myconid-sprout-xmm.md) named Molen and Kraz. They are spreading fertilizer from area B3, while two [myconid adults](3-Mechanics/CLI/bestiary/plant/myconid-adult-xmm.md) named Hipsiz and Rugoso tend the mushrooms near the upper pool, out of sight from below. All four myconids are oblivious to the true threat in the cave—three [violet fungi](3-Mechanics/CLI/bestiary/plant/violet-fungus-xmm.md) that grow among the harmless mushrooms here.
 
 If the characters move into the cave toward the myconids, one [violet fungus](3-Mechanics/CLI/bestiary/plant/violet-fungus-dosi.md) attacks them, extending long tendrils that cause immediate rot when they touch living flesh. Read this text:
 
@@ -139,7 +139,7 @@ You don't need to keep track of exactly where everyone is standing in the room. 
 
 ##### Myconids
 
-The [myconid sprouts](3-Mechanics/CLI/bestiary/plant/myconid-sprout.md) avoid the characters and the violet fungi. If the [adults](3-Mechanics/CLI/bestiary/plant/myconid-adult.md) become aware of danger through the noise of combat (or the sprouts' Distress Spores), they move as quickly as they can to protect the sprouts.
+The [myconid sprouts](3-Mechanics/CLI/bestiary/plant/myconid-sprout-xmm.md) avoid the characters and the violet fungi. If the [adults](3-Mechanics/CLI/bestiary/plant/myconid-adult-xmm.md) become aware of danger through the noise of combat (or the sprouts' Distress Spores), they move as quickly as they can to protect the sprouts.
 
 If the characters defeat the violet fungi, the myconids' attitude improves to indifferent, and they are willing to speak to the characters (using their Rapport Spores). The adults agree to accompany the characters and vouch for them with the rest of the myconid colony, improving the other myconids' attitude to indifferent as well.
 
@@ -149,11 +149,11 @@ A character who examines any of the fungi notices that many of the mushrooms are
 
 ##### Treasure
 
-The fungus farm contains heart cap mushrooms ready for harvest. A character who spends 15 minutes searching this chamber for useful fungi and succeeds on a DC 12 Intelligence ([Nature](3-Mechanics/CLI/rules/skills.md#Nature)) or Wisdom ([Survival](3-Mechanics/CLI/rules/skills.md#Survival)) check finds `1d6` of these reddish mushrooms, which bear an unsettling resemblance to human hearts. [Tarak](3-Mechanics/CLI/bestiary/npc/tarak-dosi.md) can make each heart cap mushroom into a [potion of healing](3-Mechanics/CLI/items/potion-of-healing.md).
+The fungus farm contains heart cap mushrooms ready for harvest. A character who spends 15 minutes searching this chamber for useful fungi and succeeds on a DC 12 Intelligence ([Nature](3-Mechanics/CLI/rules/skills.md#Nature)) or Wisdom ([Survival](3-Mechanics/CLI/rules/skills.md#Survival)) check finds `dice:1d6|noform|noparens|avg` (`1d6`) of these reddish mushrooms, which bear an unsettling resemblance to human hearts. [Tarak](3-Mechanics/CLI/bestiary/npc/tarak-dosi.md) can make each heart cap mushroom into a [potion of healing](3-Mechanics/CLI/items/potion-of-healing-xdmg.md).
 
 ##### 2nd-Level Characters
 
-If the characters are 2nd level, add two [violet fungi](3-Mechanics/CLI/bestiary/plant/violet-fungus.md) to this encounter.
+If the characters are 2nd level, add two [violet fungi](3-Mechanics/CLI/bestiary/plant/violet-fungus-xmm.md) to this encounter.
 
 #### B3: Larder
 
@@ -162,7 +162,7 @@ If the characters are 2nd level, add two [violet fungi](3-Mechanics/CLI/bestiary
 > This cave reeks of rot, and the floor is covered with decaying vegetation. Three small mushroom-folk are working amid the filth. In the southwest corner of the cave, a bulbous object the size of a cart clings to the wall and ceiling, glistening like a glob of jelly.
 ^064
 
-Three [myconid sprouts](3-Mechanics/CLI/bestiary/plant/myconid-sprout.md) named Bispo, Valup, and Popple work here gathering fertilizer for use in area B2. The bulbous object is a stirge nest, which characters can identify with a successful DC 15 Intelligence ([Nature](3-Mechanics/CLI/rules/skills.md#Nature)) check. If a character moves more than 5 feet into the chamber, six [stirges](3-Mechanics/CLI/bestiary/beast/stirge.md) emerge from the nest and attack. Meanwhile, the sprouts flee toward area B4 at the first sign of intruders, relying on the distraction of the stirges to escape.
+Three [myconid sprouts](3-Mechanics/CLI/bestiary/plant/myconid-sprout-xmm.md) named Bispo, Valup, and Popple work here gathering fertilizer for use in area B2. The bulbous object is a stirge nest, which characters can identify with a successful DC 15 Intelligence ([Nature](3-Mechanics/CLI/rules/skills.md#Nature)) check. If a character moves more than 5 feet into the chamber, six [stirges](3-Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md) emerge from the nest and attack. Meanwhile, the sprouts flee toward area B4 at the first sign of intruders, relying on the distraction of the stirges to escape.
 
 ##### 2nd-Level Characters
 
@@ -170,14 +170,14 @@ If the characters are 2nd level, add two stirges to this encounter.
 
 #### B4: Circle Chamber
 
-![](3-Mechanics/CLI/adventures/dragons-of-stormwreck-isle/img/010-02-002-myconids.webp#center)
+![](file://adventure/DoSI/010-02-002.myconids.webp#center)
 
 > [!readaloud] 
 > 
 > Six clusters of giant mushrooms are arranged in a rough circle around this cavern. Several human-sized mushroom folk stand in a circle in the center of the cave. The smell of sulfur is stronger here.
 ^067
 
-Six [myconid adults](3-Mechanics/CLI/bestiary/plant/myconid-adult.md) are here. Two of them (named Agric and Omphalo) are tending to the other four (Craterel, Pleuro, Subrufus, and Virosa), who are standing stock-still in a dream-like trance called a meld, experiencing a shared transcendent state. The two conscious myconids move quickly to confront any intruders who aren't escorted by other myconids, and they respond with violence to any threat.
+Six [myconid adults](3-Mechanics/CLI/bestiary/plant/myconid-adult-xmm.md) are here. Two of them (named Agric and Omphalo) are tending to the other four (Craterel, Pleuro, Subrufus, and Virosa), who are standing stock-still in a dream-like trance called a meld, experiencing a shared transcendent state. The two conscious myconids move quickly to confront any intruders who aren't escorted by other myconids, and they respond with violence to any threat.
 
 All six myconids are ill and fatigued from the blight that is spreading through the caves, so they take turns resting here.
 
@@ -188,11 +188,11 @@ All six myconids are ill and fatigued from the blight that is spreading through 
 > Glowing fungus and colorful crystals grow from the walls and ceilings of this smaller cave. In the middle of the cave, two human-sized mushroom folk tend to a larger specimen of their kind. The large one is shriveled and covered with unhealthy purple blotches, and it does not move.
 ^069
 
-Two [myconid adults](3-Mechanics/CLI/bestiary/plant/myconid-adult.md) named Auranta and Enok are tending the [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) myconid who leads this colony, [Sinensa](3-Mechanics/CLI/bestiary/npc/sinensa-dosi.md). The adults collect spores from a barrel-sized, glowing red fungus that vaguely resembles a human brain and puff the spores around the leader's head. The treatment is keeping the leader alive for now, but it is a losing battle. [Sinensa](3-Mechanics/CLI/bestiary/npc/sinensa-dosi.md)'s only hope is for the blight to end. The adults zealously defend their leader, immediately attacking intruders who aren't accompanied by other myconids.
+Two [myconid adults](3-Mechanics/CLI/bestiary/plant/myconid-adult-xmm.md) named Auranta and Enok are tending the [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) myconid who leads this colony, [Sinensa](3-Mechanics/CLI/bestiary/npc/sinensa-dosi.md). The adults collect spores from a barrel-sized, glowing red fungus that vaguely resembles a human brain and puff the spores around the leader's head. The treatment is keeping the leader alive for now, but it is a losing battle. [Sinensa](3-Mechanics/CLI/bestiary/npc/sinensa-dosi.md)'s only hope is for the blight to end. The adults zealously defend their leader, immediately attacking intruders who aren't accompanied by other myconids.
 
 ##### Treasure
 
-If the characters bring the glowing red fungus, called a ruby morel, back to the cloister, [Tarak](3-Mechanics/CLI/bestiary/npc/tarak-dosi.md) uses it to make them an [elixir of health](3-Mechanics/CLI/items/elixir-of-health.md) (described in appendix A).
+If the characters bring the glowing red fungus, called a ruby morel, back to the cloister, [Tarak](3-Mechanics/CLI/bestiary/npc/tarak-dosi.md) uses it to make them an [elixir of health](3-Mechanics/CLI/items/elixir-of-health-xdmg.md) (described in appendix A).
 
 #### B6: Crystal Cave
 
@@ -209,7 +209,7 @@ The heart of the problem is the tomb of the red dragon Sharruth, deep beneath th
 
 ##### Fire Crystal
 
-Destroying the orange crystal blocking the western fissure allows the noxious fumes to escape the cave and stops the blight that is harming the myconids. A single strong whack with a weapon, a crowbar, or another tool is sufficient to shatter it. When the crystal breaks, a two-foot-diameter sphere of smoldering obsidian falls to the floor amid the other pieces and breaks open, releasing a [fire snake](3-Mechanics/CLI/bestiary/elemental/fire-snake.md) from this stony egg. Seeing the characters only as fuel, it attacks them at once.
+Destroying the orange crystal blocking the western fissure allows the noxious fumes to escape the cave and stops the blight that is harming the myconids. A single strong whack with a weapon, a crowbar, or another tool is sufficient to shatter it. When the crystal breaks, a two-foot-diameter sphere of smoldering obsidian falls to the floor amid the other pieces and breaks open, releasing a [fire snake](3-Mechanics/CLI/bestiary/elemental/salamander-fire-snake-xmm.md) from this stony egg. Seeing the characters only as fuel, it attacks them at once.
 
 Breaking the fire crystal also reveals the reason the myconids avoid this cave: the cave is immediately filled with shimmering sunlight refracted through the crystals that line the vent. Bright light fills the entire area.
 
@@ -219,13 +219,13 @@ The fire snake's egg breaks into 25 tiny chunks of obsidian worth 10 gp each.
 
 ##### 2nd-Level Characters
 
-If the characters are 2nd level, add a third [fume drake](3-Mechanics/CLI/bestiary/elemental/fume-drake-dosi.md) to the room when the characters first arrive. Then, at the same time the [fire snake](3-Mechanics/CLI/bestiary/elemental/fire-snake.md) hatches from its egg, two more fume drakes emerge from the cluster of purple crystals.
+If the characters are 2nd level, add a third [fume drake](3-Mechanics/CLI/bestiary/elemental/fume-drake-dosi.md) to the room when the characters first arrive. Then, at the same time the [fire snake](3-Mechanics/CLI/bestiary/elemental/salamander-fire-snake-xmm.md) hatches from its egg, two more fume drakes emerge from the cluster of purple crystals.
 
 ## Ending This Chapter
 
 If the characters destroy the orange crystal so the toxic fumes can escape the caves, the myconids' attitude improves to friendly. [Sinensa](3-Mechanics/CLI/bestiary/npc/sinensa-dosi.md), the myconid leader, regains consciousness the following morning. If the characters are present when [Sinensa](3-Mechanics/CLI/bestiary/npc/sinensa-dosi.md) awakens, [Sinensa](3-Mechanics/CLI/bestiary/npc/sinensa-dosi.md) gives them the ruby morel from area B5 and permission to keep any other treasure or mushrooms they collected in the caves.
 
-Once the characters return to Dragon's Rest, [Tarak](3-Mechanics/CLI/bestiary/npc/tarak-dosi.md) can use the ruby morel to make an [elixir of health](3-Mechanics/CLI/items/elixir-of-health.md) (described in appendix A), which he gives to the characters in gratitude for their efforts.
+Once the characters return to Dragon's Rest, [Tarak](3-Mechanics/CLI/bestiary/npc/tarak-dosi.md) can use the ruby morel to make an [elixir of health](3-Mechanics/CLI/items/elixir-of-health-xdmg.md) (described in appendix A), which he gives to the characters in gratitude for their efforts.
 
 ### Gain a Level
 

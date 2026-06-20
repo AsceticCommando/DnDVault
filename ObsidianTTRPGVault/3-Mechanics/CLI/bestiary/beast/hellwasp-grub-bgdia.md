@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Hellwasp Grub"
 ---
-# [Hellwasp Grub](3-Mechanics\CLI\bestiary\beast/hellwasp-grub-bgdia.md)
+# [Hellwasp Grub](3-Mechanics/CLI/bestiary/beast/hellwasp-grub-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 95*  
 
 ```statblock
@@ -47,6 +47,6 @@ aliases:
     "name": "Bite"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/beast/token/hellwasp-grub-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Hellwasp%20Grub.webp"
 ```
 ^statblock

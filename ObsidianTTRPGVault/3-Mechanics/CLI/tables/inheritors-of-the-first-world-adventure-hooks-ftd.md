@@ -12,6 +12,8 @@ aliases:
 
 **Inheritors of the First World Adventure Hooks**
 
+`dice: [](inheritors-of-the-first-world-adventure-hooks-ftd.md#^inheritors-of-the-first-world-adventure-hooks)`
+
 | dice: d6 | Adventure Hook |
 |----------|----------------|
 | 1 | A fleeing foe disappears into a magic portal linked to another world of the Material Plane. When the characters follow this enemy, they draw the attention of dragons who want to know more about the world they came from. |

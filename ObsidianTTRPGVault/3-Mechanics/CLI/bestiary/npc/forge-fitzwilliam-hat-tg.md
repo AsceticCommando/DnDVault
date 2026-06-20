@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Forge Fitzwilliam"
 ---
-# [Forge Fitzwilliam](3-Mechanics\CLI\bestiary\npc/forge-fitzwilliam-hat-tg.md)
+# [Forge Fitzwilliam](3-Mechanics/CLI/bestiary/npc/forge-fitzwilliam-hat-tg.md)
 *Source: Honor Among Thieves: Thieves' Gallery*  
 
 Forge Fitzwilliam is a con artist who manipulates others with lies and flattery. The audacious criminal has left a trail of broken promises and false identities along the Sword Coast. He conceals flexible morals and a ready dagger behind his winning smile.
@@ -54,8 +54,8 @@ Forge enjoys the finer things in life, particularly when they result from his ow
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+8"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
-  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
+  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow-xphb.md)"
 "senses": "passive Perception 13"
 "languages": "Common, Thieves' cant"
 "cr": "8"
@@ -94,6 +94,6 @@ Forge enjoys the finer things in life, particularly when they result from his ow
     "name": "Uncanny Dodge"
 "source":
   - "HAT-TG"
-"image": "3-Mechanics/CLI/bestiary/npc/token/forge-fitzwilliam-hat-tg.webp"
+"image": "file://bestiary/tokens/HAT-TG/Forge%20Fitzwilliam.webp"
 ```
 ^statblock

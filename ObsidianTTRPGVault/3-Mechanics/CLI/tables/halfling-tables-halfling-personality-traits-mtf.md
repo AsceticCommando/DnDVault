@@ -12,6 +12,8 @@ aliases:
 
 **Halfling Personality Traits**
 
+`dice: [](halfling-tables-halfling-personality-traits-mtf.md#^halfling-personality-traits)`
+
 | dice: d6 | Personality Trait |
 |----------|-------------------|
 | 1 | You try to start every day with a smile. |

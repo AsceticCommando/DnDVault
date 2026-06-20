@@ -12,6 +12,8 @@ aliases:
 
 **Darkon's Salvation**
 
+`dice: [](darkons-salvation-vrgr.md#^darkons-salvation)`
+
 | dice: d6 | Method |
 |----------|--------|
 | 1 | Find or restore Azalin and return him to Darkon. |

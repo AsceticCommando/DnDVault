@@ -11,7 +11,7 @@ aliases:
 # Fade Away
 *Source: Xanathar's Guide to Everything p. 74*  
 
-**Prerequisite**: [Gnome](3-Mechanics/CLI/races/gnome.md)
+**Prerequisite**: [Gnome](3-Mechanics/CLI/races/gnome-xphb.md)
 
 Your people are clever, with a knack for illusion magic. You have learned a magical trick for fading away when you suffer harm. You gain the following benefits:
 

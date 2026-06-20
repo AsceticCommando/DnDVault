@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Undead Soldier"
 ---
-# [Undead Soldier](3-Mechanics\CLI\bestiary\undead/undead-soldier-dsotdq.md)
+# [Undead Soldier](3-Mechanics/CLI/bestiary/undead/undead-soldier-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 96*  
 
 ```statblock
@@ -21,7 +21,7 @@ aliases:
 "type": "undead"
 "alignment": "Neutral Evil"
 "ac": !!int "18"
-"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor.md)"
+"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "45"
 "hit_dice": "6d8 + 18"
 "modifier": !!int "2"
@@ -44,8 +44,8 @@ aliases:
 "condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
   \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
 "gear":
-  - "[longbow](3-Mechanics/CLI/items/longbow.md)"
-  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
+  - "[longbow](3-Mechanics/CLI/items/longbow-xphb.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 13"
 "languages": "the languages it knew in life"
@@ -59,7 +59,7 @@ aliases:
       \ saving throw or its hit point maximum is reduced by an amount equal to the\
       \ damage taken. This reduction lasts until the target finishes a long rest.\
       \ The target dies if this effect reduces its hit point maximum to 0.\n\nA humanoid\
-      \ slain by this attack rises 24 hours later as a [zombie](3-Mechanics/CLI/bestiary/undead/zombie.md)\
+      \ slain by this attack rises 24 hours later as a [zombie](3-Mechanics/CLI/bestiary/undead/zombie-xmm.md)\
       \ under the soldier's control, unless the humanoid is restored to life or its\
       \ body is destroyed. The soldier can have no more than twelve zombies under\
       \ its control at one time."
@@ -72,6 +72,6 @@ aliases:
     "name": "Longbow"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/undead/token/undead-soldier-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Undead%20Soldier.webp"
 ```
 ^statblock

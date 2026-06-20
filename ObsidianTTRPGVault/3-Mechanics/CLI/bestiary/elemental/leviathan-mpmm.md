@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Leviathan"
 ---
-# [Leviathan](3-Mechanics\CLI\bestiary\elemental/leviathan-mpmm.md)
+# [Leviathan](3-Mechanics/CLI/bestiary/elemental/leviathan-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 171, Mordenkainen's Tome of Foes p. 198*  
 
 A leviathan is an immense creature that acts as a force of nature, dragging ships down to the ocean's depths and washing away coastal settlements. When called forth, a leviathan arises from a large body of water and takes on the form of a gigantic serpent.
@@ -94,7 +94,7 @@ Usually found only on the Elemental Plane of Water, a leviathan sometimes swims 
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/elemental/token/leviathan-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Leviathan.webp"
 ```
 ^statblock
 

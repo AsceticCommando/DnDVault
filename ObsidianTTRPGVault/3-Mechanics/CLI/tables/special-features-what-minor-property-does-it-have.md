@@ -12,6 +12,8 @@ aliases:
 
 **What Minor Property Does It Have**
 
+`dice: [](special-features-what-minor-property-does-it-have.md#^what-minor-property-does-it-have)`
+
 | dice: d20 | Minor Property |
 |-----------|----------------|
 | 1 | Beacon. The bearer can use a bonus action to cause the item to shed bright light in a 10-foot radius and dim light for an additional 10 feet, or to extinguish the light. |

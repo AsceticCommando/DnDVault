@@ -12,6 +12,8 @@ aliases:
 
 **Yuan-ti Snake Body Type**
 
+`dice: [](physical-variations-yuan-ti-snake-body-type-vgm.md#^yuan-ti-snake-body-type)`
+
 | dice: d20 | Snake Body Shape |
 |-----------|------------------|
 | 1-5 | Thick |

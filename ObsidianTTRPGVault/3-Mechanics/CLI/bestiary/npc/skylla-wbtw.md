@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Skylla"
 ---
-# [Skylla](3-Mechanics\CLI\bestiary\npc/skylla-wbtw.md)
+# [Skylla](3-Mechanics/CLI/bestiary/npc/skylla-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 220*  
 
 Skylla, who sometimes goes by the alias Charmay, forged a warlock's pact with Baba Yaga. It is from this powerful archfey that Skylla draws her magic.
@@ -72,10 +72,10 @@ Skylla is spiteful and treacherous, as likely to betray her allies as to help th
     "name": "Eldritch Staff"
   - "desc": "Skylla casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 13):\n\n**1/day\
-      \ each:** [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [disguise\
-      \ self](3-Mechanics/CLI/spells/disguise-self.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md),\
-      \ [fly](3-Mechanics/CLI/spells/fly.md), [hypnotic pattern](3-Mechanics/CLI/spells/hypnotic-pattern.md),\
-      \ [invisibility](3-Mechanics/CLI/spells/invisibility.md), [mage armor](3-Mechanics/CLI/spells/mage-armor.md)"
+      \ each:** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [disguise\
+      \ self](3-Mechanics/CLI/spells/disguise-self-xphb.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md),\
+      \ [fly](3-Mechanics/CLI/spells/fly-xphb.md), [hypnotic pattern](3-Mechanics/CLI/spells/hypnotic-pattern-xphb.md),\
+      \ [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md), [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "When Skylla takes damage, she can expend 3 charges of her eldritch staff\
@@ -86,6 +86,6 @@ Skylla is spiteful and treacherous, as likely to betray her allies as to help th
     "name": "Eldritch Escape"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/npc/token/skylla-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Skylla.webp"
 ```
 ^statblock

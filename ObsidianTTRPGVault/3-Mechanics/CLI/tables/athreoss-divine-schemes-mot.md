@@ -12,6 +12,8 @@ aliases:
 
 **Athreos's Divine Schemes**
 
+`dice: [](athreoss-divine-schemes-mot.md#^athreoss-divine-schemes)`
+
 | dice: d4 | Scheme |
 |----------|--------|
 | 1 | Athreos tires of his responsibilities but refuses to abandon them. Secretly, he has allowed the same spirit to be reborn again and again, allowing it to see all of life and death so it might one day take his place. When this apprentice disappears, Athreos refuses to ferry any more souls until his student is returned. |

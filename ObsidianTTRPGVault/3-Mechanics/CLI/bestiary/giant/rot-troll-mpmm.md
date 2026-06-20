@@ -16,7 +16,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Rot Troll"
 ---
-# [Rot Troll](3-Mechanics\CLI\bestiary\giant/rot-troll-mpmm.md)
+# [Rot Troll](3-Mechanics/CLI/bestiary/giant/rot-troll-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 247, Mordenkainen's Tome of Foes p. 244*  
 
 A troll infused with waves of necrotic energy as it regenerates can develop a symbiotic relationship with that deathly power. The troll's body wither and the flesh falls away from the body as quickly, as it forms. Eventually a rot troll becomes unable to regenerate, though the troll still heals normally. The creature courses with necrotic energy; simply standing near a rot troll exposes other creatures to lethal emanations.
@@ -74,7 +74,7 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/giant/token/rot-troll-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Rot%20Troll.webp"
 ```
 ^statblock
 

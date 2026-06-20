@@ -12,6 +12,8 @@ aliases:
 
 **Clan Vocations**
 
+`dice: [](dwarves-in-the-clan-clan-vocations-mtf.md#^clan-vocations)`
+
 | dice: d20 | Vocation |
 |-----------|----------|
 | 1 | Armorer |

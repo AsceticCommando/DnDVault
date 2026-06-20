@@ -12,6 +12,8 @@ aliases:
 
 **Orc Ideals**
 
+`dice: [](roleplaying-an-orc-orc-ideals-vgm.md#^orc-ideals)`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Strength. Showing superior strength brings honor to Gruumsh. (Any) |

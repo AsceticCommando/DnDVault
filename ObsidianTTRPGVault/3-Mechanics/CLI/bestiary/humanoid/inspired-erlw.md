@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Inspired"
 ---
-# [Inspired](3-Mechanics\CLI\bestiary\humanoid/inspired-erlw.md)
+# [Inspired](3-Mechanics/CLI/bestiary/humanoid/inspired-erlw.md)
 *Source: Eberron: Rising from the Last War p. 294*  
 
 The rulers of distant Sarlona are known as the Inspired. These noble families are said to be bound to celestial spirits that guide and empower them, but the truth is far darker. The Inspired are the mortal hosts of the nightmare spirits of Dal Quor, and they carry out the foul agenda of the Dreaming Dark.
@@ -28,7 +28,7 @@ Most of the people of the Five Nations have heard of the Inspired lords in Riedr
 "subtype": "human"
 "alignment": "Lawful Evil"
 "ac": !!int "12"
-"ac_class": "15 with [mage armor](3-Mechanics/CLI/spells/mage-armor.md)"
+"ac_class": "15 with [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
 "hp": !!int "40"
 "hit_dice": "9d8"
 "modifier": !!int "2"
@@ -58,10 +58,11 @@ Most of the people of the Five Nations have heard of the Inspired lords in Riedr
 "traits":
   - "desc": "The Inspired's spellcasting ability is Intelligence (spell save DC 13).\
       \ It can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [mage hand](3-Mechanics/CLI/spells/mage-hand.md), [vicious mockery](3-Mechanics/CLI/spells/vicious-mockery.md)\
-      \ (see \"Actions\" below)\n\n**1/day each:** [charm person](3-Mechanics/CLI/spells/charm-person.md),\
-      \ [dissonant whispers](3-Mechanics/CLI/spells/dissonant-whispers.md), [hex](3-Mechanics/CLI/spells/hex.md),\
-      \ [hold person](3-Mechanics/CLI/spells/hold-person.md), [mage armor](3-Mechanics/CLI/spells/mage-armor.md)"
+      \n**At will:** [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [vicious\
+      \ mockery](3-Mechanics/CLI/spells/vicious-mockery-xphb.md) (see \"Actions\"\
+      \ below)\n\n**1/day each:** [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md),\
+      \ [dissonant whispers](3-Mechanics/CLI/spells/dissonant-whispers-xphb.md), [hex](3-Mechanics/CLI/spells/hex-xphb.md),\
+      \ [hold person](3-Mechanics/CLI/spells/hold-person-xphb.md), [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
     "name": "Innate Spellcasting (Psionics)"
   - "desc": "The Inspired has advantage on Wisdom saving throws."
     "name": "Dual Mind"
@@ -80,6 +81,6 @@ Most of the people of the Five Nations have heard of the Inspired lords in Riedr
     "name": "Vicious Mockery (Cantrip)"
 "source":
   - "ERLW"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/inspired-erlw.webp"
+"image": "file://bestiary/tokens/ERLW/Inspired.webp"
 ```
 ^statblock

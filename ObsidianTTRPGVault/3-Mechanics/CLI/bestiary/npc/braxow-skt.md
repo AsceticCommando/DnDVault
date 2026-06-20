@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Braxow"
 ---
-# [Braxow](3-Mechanics\CLI\bestiary\npc/braxow-skt.md)
+# [Braxow](3-Mechanics/CLI/bestiary/npc/braxow-skt.md)
 *Source: Storm King's Thunder p. 207*  
 
 ```statblock
@@ -43,7 +43,7 @@ aliases:
   - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
 "gear":
-  - "[greatclub](3-Mechanics/CLI/items/greatclub.md)"
+  - "[greatclub](3-Mechanics/CLI/items/greatclub-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 14"
 "languages": "Giant"
@@ -69,6 +69,6 @@ aliases:
     "name": "Rock Catching"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/braxow-skt.webp"
+"image": "file://bestiary/tokens/SKT/Braxow.webp"
 ```
 ^statblock

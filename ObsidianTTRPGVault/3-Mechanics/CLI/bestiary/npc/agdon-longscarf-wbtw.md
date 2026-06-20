@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Agdon Longscarf"
 ---
-# [Agdon Longscarf](3-Mechanics\CLI\bestiary\npc/agdon-longscarf-wbtw.md)
+# [Agdon Longscarf](3-Mechanics/CLI/bestiary/npc/agdon-longscarf-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 73*  
 
 In days gone by, Agdon Longscarf made a name for himself as he and his band of miscreants menaced travelers throughout various Feywild domains. It was in Prismeer, however, that Agdon's antics came to an end by Zybilna's hand. As punishment for his offenses, the archfey demanded that Agdon give up his beloved scarf. When he refused, Zybilna cursed him so that he would never be able to remove it. She then pinned the scarf to a young sapling with a magic nail made of gold and iron, and she bade the tree grow until its branches raked the clouds. Agdon was thus carried into the sky, where he was stranded for a long time.
@@ -28,7 +28,8 @@ Agdon's scarf is a bright blue length of cloth that he claims was woven from lig
 "subtype": "harengon"
 "alignment": "Chaotic Evil"
 "ac": !!int "19"
-"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md),\
+  \ [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "36"
 "hit_dice": "8d8"
 "modifier": !!int "5"
@@ -53,7 +54,7 @@ Agdon's scarf is a bright blue length of cloth that he claims was woven from lig
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+7"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
 "senses": "passive Perception 16"
 "languages": "Common, Sylvan"
 "cr": "2"
@@ -90,6 +91,6 @@ Agdon's scarf is a bright blue length of cloth that he claims was woven from lig
     "name": "Uncanny Dodge"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/npc/token/agdon-longscarf-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Agdon%20Longscarf.webp"
 ```
 ^statblock

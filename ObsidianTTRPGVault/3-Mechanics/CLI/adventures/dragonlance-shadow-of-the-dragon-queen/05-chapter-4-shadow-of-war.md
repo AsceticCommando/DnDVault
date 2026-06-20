@@ -12,7 +12,7 @@ aliases:
 
 Vogler is gone, devastated by the Red Dragon Army. After escaping the village by following the Vingaard River, the characters and other survivors seek refuge in the city of Kalaman. They carry with them a warning: war is coming for Kalaman. The city's leaders recruit the characters to help identify and resist the threat of the Red Dragon Army. As the characters travel the lands around Kalaman, they learn more about the Dragon Army's goals and the terrifying shadow behind this war.
 
-![Kalaman's defenders march ...](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/053-04-001-chapter-splash.webp#center "Kalaman's defenders march forth to confront the Dragon Army")
+![Kalaman's defenders march forth to confront the Dragon Army](file://adventure/DSotDQ/053-04-001.chapter-splash.webp#center)
 
 ## Running This Chapter
 
@@ -44,17 +44,17 @@ Characters who are from Kalaman or succeed on a DC 12 Intelligence ([History](3-
 
 Kalaman is led by the following three groups:
 
-- **Governor.** The head of Kalaman's government is Governor Calof Miat (lawful neutral, human [noble](3-Mechanics/CLI/bestiary/humanoid/noble.md)). He represents the city's people and speaks on their behalf during council sessions.  
-- **Guild Leaders.** A council composed of the leaders of the city's five most prominent guilds—the Cartographers' Guild, Dockhands' Guild, Fishers' Guild, Masons' Guild, and Shipwrights' Guild—oversees the city's broad business interests and runs varied public services. The guilds' leaders are neutral human and hill dwarf [nobles](3-Mechanics/CLI/bestiary/humanoid/noble.md) who are prone to bickering and jockeying for influence.  
-- **Marshal.** Kalaman's military guards the city and defends eastern Solamnia. The military is robust, as the city can't afford to solicit aid from the Knights of Solamnia, headquartered in the west, every time raiders from Estwilde or other threats cross the border. Kalaman's military is commanded by the pragmatic Marshal Nestra Vendri (lawful neutral, human [knight](3-Mechanics/CLI/bestiary/humanoid/knight.md)).  
+- **Governor.** The head of Kalaman's government is Governor Calof Miat (lawful neutral, human [noble](3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md)). He represents the city's people and speaks on their behalf during council sessions.  
+- **Guild Leaders.** A council composed of the leaders of the city's five most prominent guilds—the Cartographers' Guild, Dockhands' Guild, Fishers' Guild, Masons' Guild, and Shipwrights' Guild—oversees the city's broad business interests and runs varied public services. The guilds' leaders are neutral human and hill dwarf [nobles](3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md) who are prone to bickering and jockeying for influence.  
+- **Marshal.** Kalaman's military guards the city and defends eastern Solamnia. The military is robust, as the city can't afford to solicit aid from the Knights of Solamnia, headquartered in the west, every time raiders from Estwilde or other threats cross the border. Kalaman's military is commanded by the pragmatic Marshal Nestra Vendri (lawful neutral, human [knight](3-Mechanics/CLI/bestiary/humanoid/knight-xmm.md)).  
 
 ### Kalaman Locations
 
 While in Kalaman, the characters might visit any of the locations in this section. These sites appear on map 4.1.
 
 > [!gallery]
-> ![Map 4.1: Kalaman](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/054-map-4-01-kalaman.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/055-map-4-01-kalaman-player.webp#gallery)
+> ![Map 4.1: Kalaman](file://adventure/DSotDQ/054-map-4.01-kalaman.webp#gallery)
+> ![Player Version](file://adventure/DSotDQ/055-map-4.01-kalaman-player.webp#gallery)
 
 #### Castle Kalaman
 
@@ -66,7 +66,7 @@ Merchants from across Ansalon do business in Kalaman's thriving bazaar. Characte
 
 #### Hammerstrike Forges
 
-Twin forges stand across the street from one another, run by the dwarven cousins Kadmos and Tiria Hammerstrike (both lawful neutral, hill dwarf [veterans](3-Mechanics/CLI/bestiary/humanoid/veteran.md)). While both are competent smiths, Kadmos specializes in armor and Tiria excels with weaponry.
+Twin forges stand across the street from one another, run by the dwarven cousins Kadmos and Tiria Hammerstrike (both lawful neutral, hill dwarf [veterans](3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md)). While both are competent smiths, Kadmos specializes in armor and Tiria excels with weaponry.
 
 #### Harbor Beacons
 
@@ -78,11 +78,11 @@ At any time, dozens of ships are anchored along the busy docks of Kalaman's harb
 
 #### Meulara's Oddities
 
-Meulara's Oddities is a small shop piled with trinkets. Its shopkeeper, Meulara (chaotic good, kender [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md)), is a silver-haired woman with a bright smile. Meulara claims to know every kender in the city, and most kender new to town are directed to her so they can swap stories and news from their travels.
+Meulara's Oddities is a small shop piled with trinkets. Its shopkeeper, Meulara (chaotic good, kender [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), is a silver-haired woman with a bright smile. Meulara claims to know every kender in the city, and most kender new to town are directed to her so they can swap stories and news from their travels.
 
 #### The Steady Beacon
 
-The Steady Beacon is a tavern that boasts a large taproom, a fish-focused menu, and modest lodging. Its decor features the broken weapons of defeated bandits. The tavern is a favorite of Kalaman's soldiers, and most evenings, dozens of off-duty troops relax here. The inn's owner, Jesen Thold (neutral good, human [veteran](3-Mechanics/CLI/bestiary/humanoid/veteran.md)), is a friend of Marshal Nestra Vendri, head of Kalaman's military.
+The Steady Beacon is a tavern that boasts a large taproom, a fish-focused menu, and modest lodging. Its decor features the broken weapons of defeated bandits. The tavern is a favorite of Kalaman's soldiers, and most evenings, dozens of off-duty troops relax here. The inn's owner, Jesen Thold (neutral good, human [veteran](3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md)), is a friend of Marshal Nestra Vendri, head of Kalaman's military.
 
 #### Trade Camps
 
@@ -90,7 +90,7 @@ Outside the city to the east and west sprawl trade camps. These expanses of rams
 
 #### Wyhan's Apothecary
 
-[Wyhan](3-Mechanics/CLI/bestiary/npc/wyhan-dsotdq.md) (lawful evil, human [mage](3-Mechanics/CLI/bestiary/humanoid/mage.md)) is a black-robed Mage of High Sorcery. Though supposedly retired, she keeps a shop that deals in wares few in Kalaman need. [Wyhan](3-Mechanics/CLI/bestiary/npc/wyhan-dsotdq.md)'s Apothecary sells the occasional good-luck charm, but those who know what to ask for might gain access to the apothecary's back room, which houses esoteric spell components. The "Message for a Mage" section later in this chapter provides more details on [Wyhan](3-Mechanics/CLI/bestiary/npc/wyhan-dsotdq.md) and her shop.
+[Wyhan](3-Mechanics/CLI/bestiary/npc/wyhan-dsotdq.md) (lawful evil, human [mage](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md)) is a black-robed Mage of High Sorcery. Though supposedly retired, she keeps a shop that deals in wares few in Kalaman need. [Wyhan](3-Mechanics/CLI/bestiary/npc/wyhan-dsotdq.md)'s Apothecary sells the occasional good-luck charm, but those who know what to ask for might gain access to the apothecary's back room, which houses esoteric spell components. The "Message for a Mage" section later in this chapter provides more details on [Wyhan](3-Mechanics/CLI/bestiary/npc/wyhan-dsotdq.md) and her shop.
 
 ## Arriving in Kalaman
 
@@ -110,6 +110,8 @@ The characters are among the last to arrive from Vogler, likely accompanied by [
 As the survivors of Vogler pull their ships ashore, the reality of their situation sets in, and minor troubles begin confounding the refugees. Roll on the Survivor Camp Hardships table to determine what challenges the survivors need help with. After you've run as many of these encounters as you like, proceed with the "Darrett's Armor" section.
 
 **Survivor Camp Hardships**
+
+`dice: [](05-chapter-4-shadow-of-war.md#^survivor-camp-hardships)`
 
 | dice: d4 | Situation |
 |----------|-----------|
@@ -185,11 +187,11 @@ Along with Lord Bakaris and Governor Miat, the meeting includes guild leaders an
 
 It's clear from the governor's words and Lord Bakaris's expression that Bakaris is trying to advance his own agenda. Lord Bakaris told the council the villagers are taking up arms to retake their home. The characters know this isn't the case, though. Mayor Raven is focused on ensuring the villagers have food, security, and support in the days to come. And the characters are certain the refugees didn't appoint Lord Bakaris their leader.
 
-![Lord Bakaris Uth Estide](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/056-04-002-bakaris.webp#center)
+![Lord Bakaris Uth Estide](file://adventure/DSotDQ/056-04-002.bakaris.webp#center)
 
 #### Lord Bakaris Uth Estide
 
-Lord [Bakaris Uth Estide](3-Mechanics/CLI/bestiary/npc/bakaris-uth-estide-dsotdq.md) (neutral evil, human [noble](3-Mechanics/CLI/bestiary/humanoid/noble.md)) is an arrogant man with a lesser title among the Solamnic nobility. In ages past, his family was known for its wealth and generations of membership in the Knights of Solamnia. While Lord Bakaris retains a considerable amount of wealth, he has lived his entire life on stories of honor and great deeds, none of which are his own. Now Lord Bakaris sees the situation in Kalaman as his chance to win glory for himself. At heart, he's comically cowardly, full of bluster and inflated words. He has neither the spine to stand up to opposition nor the experience to lead.
+Lord [Bakaris Uth Estide](3-Mechanics/CLI/bestiary/npc/bakaris-uth-estide-dsotdq.md) (neutral evil, human [noble](3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md)) is an arrogant man with a lesser title among the Solamnic nobility. In ages past, his family was known for its wealth and generations of membership in the Knights of Solamnia. While Lord Bakaris retains a considerable amount of wealth, he has lived his entire life on stories of honor and great deeds, none of which are his own. Now Lord Bakaris sees the situation in Kalaman as his chance to win glory for himself. At heart, he's comically cowardly, full of bluster and inflated words. He has neither the spine to stand up to opposition nor the experience to lead.
 
 ##### Personality Trait
 
@@ -304,7 +306,7 @@ The characters can easily find [Wyhan](3-Mechanics/CLI/bestiary/npc/wyhan-dsotdq
 > [Wyhan](3-Mechanics/CLI/bestiary/npc/wyhan-dsotdq.md)'s Apothecary smells of licorice and pepper. The modest shop has a few meager tables displaying good-luck charms, odd animal bones, and vials advertising various remedies. At the rear of the shop, a human woman with raven hair and a dark dress with feathered, winglike sleeves stands behind a counter heaped with open books. She looks up from her reading, eyes you with disinterest, then goes back to her book.
 ^199
 
-The shopkeeper here is [Wyhan](3-Mechanics/CLI/bestiary/npc/wyhan-dsotdq.md) (lawful evil, human [mage](3-Mechanics/CLI/bestiary/humanoid/mage.md)), a black-robed Mage of High Sorcery. Although self-interested and disdainful of non-mages, [Wyhan](3-Mechanics/CLI/bestiary/npc/wyhan-dsotdq.md) is a dedicated member of her organization.
+The shopkeeper here is [Wyhan](3-Mechanics/CLI/bestiary/npc/wyhan-dsotdq.md) (lawful evil, human [mage](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md)), a black-robed Mage of High Sorcery. Although self-interested and disdainful of non-mages, [Wyhan](3-Mechanics/CLI/bestiary/npc/wyhan-dsotdq.md) is a dedicated member of her organization.
 
 If a character interested in joining the Mages of High Sorcery introduces themself, [Wyhan](3-Mechanics/CLI/bestiary/npc/wyhan-dsotdq.md) asks if they have a scroll for her. If the character delivers the scroll, [Wyhan](3-Mechanics/CLI/bestiary/npc/wyhan-dsotdq.md) immediately opens it.
 
@@ -327,7 +329,7 @@ Don't share this with the character immediately—[Wyhan](3-Mechanics/CLI/bestia
 
 [Wyhan](3-Mechanics/CLI/bestiary/npc/wyhan-dsotdq.md) is skeptical of any character who expresses an interest in joining the Mages of High Sorcery. She asks them the following questions:
 
-![Wyhan](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/057-04-003-wyhan.webp#center)
+![Wyhan](file://adventure/DSotDQ/057-04-003.wyhan.webp#center)
 
 - Why do you think you're worthy of using magic?  
 - Do you serve your magic, or does your magic serve you?  
@@ -426,10 +428,12 @@ During the party's travels, roll on the Hinterlands Encounters table to see what
 
 **Hinterlands Encounters**
 
+`dice: [](05-chapter-4-shadow-of-war.md#^hinterlands-encounters)`
+
 | dice: d4 | Encounter |
 |----------|-----------|
 | 1 | Light rain falls for an hour, and distant lightning is visible over the Dargaard Mountains. |
-| 2 | A band of `2d4` [bandits](3-Mechanics/CLI/bestiary/humanoid/bandit.md) heads northwest, paying the characters no mind. The bandits have no interest in fighting; they're following rumors of well-paying mercenary work. |
+| 2 | A band of `dice:2d4\|noform\|noparens\|avg` (`2d4`) [bandits](3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) heads northwest, paying the characters no mind. The bandits have no interest in fighting; they're following rumors of well-paying mercenary work. |
 | 3 | The characters see a small, burned farmhouse. A character who investigates and succeeds on a DC 14 Wisdom ([Survival](3-Mechanics/CLI/rules/skills.md#Survival)) check finds no evidence of visitors, but the fire clearly started on the roof. |
 | 4 | A [kender skirmisher](3-Mechanics/CLI/bestiary/humanoid/kender-skirmisher-dsotdq.md) (see appendix B) named Trapspringer approaches and asks if the characters have seen any dragons. He's heard rumors about dragons near Kalaman but hasn't seen any. |
 ^hinterlands-encounters
@@ -445,22 +449,24 @@ As the characters come within sight of Rookledust's home, read the following tex
 > Amid clanging metal contraptions, goblins try to breach the structure, impeded by gadgets that spin, snap, and thrash in the yard. Every few moments, a gnome appears from an open clock face above the door and hucks a new clockwork calamity at the attackers while cackling and yelling insults.
 ^1a6
 
-The home of the gnome [Tatina Rookledust](3-Mechanics/CLI/bestiary/npc/tatina-rookledust-dsotdq.md) is under attack by ten [goblins](3-Mechanics/CLI/bestiary/humanoid/goblin.md) and—standing well back from the chaos—their [hobgoblin](3-Mechanics/CLI/bestiary/humanoid/hobgoblin.md) leader. The goblinoids wear dark armor with a spiral symbol—the same colors and symbol of Takhisis commonly worn by Red Dragon Army troops.
+The home of the gnome [Tatina Rookledust](3-Mechanics/CLI/bestiary/npc/tatina-rookledust-dsotdq.md) is under attack by ten [goblins](3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) and—standing well back from the chaos—their [hobgoblin](3-Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md) leader. The goblinoids wear dark armor with a spiral symbol—the same colors and symbol of Takhisis commonly worn by Red Dragon Army troops.
 
 Characters who move adjacent to a goblin expose themselves to the out-of-control clockwork devices. These devices are Small objects with AC 15, 8 hit points, and immunity to poison and psychic damage. On initiative count 0, roll on the Clockwork Chaos table for each character adjacent to a goblin to determine how the devices react to that character.
 
 **Clockwork Chaos**
 
+`dice: [](05-chapter-4-shadow-of-war.md#^clockwork-chaos)`
+
 | dice: d6 | Device Effect |
 |----------|---------------|
 | 1–2 | No devices threaten the character. |
-| 3 | A contraption that looks like a big set of teeth tries to bite the character (+3 to hit, `1d6` bludgeoning damage on a hit). |
+| 3 | A contraption that looks like a big set of teeth tries to bite the character (`dice:1d20+3\|noform\|noparens\|text(+3)` to hit, `dice:1d6\|noform\|noparens\|avg` (`1d6`) bludgeoning damage on a hit). |
 | 4 | A bundle of thrashing cords whips around the character, who must succeed on a DC 10 Dexterity saving throw or be [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) until the end of the character's next turn. |
-| 5 | A device fires a dart filled with glowing green fluid at the character (+4 to hit, 1 piercing damage on a hit). On a hit, the fluid is injected with an ominous hiss—but it proves harmless. |
-| 6 | A mechanical chicken fires tin eggs at the character (+4 to hit, `1d4` bludgeoning damage on a hit). On a hit, the egg bursts in an oily mess, and the character has disadvantage on attack rolls until the end of the character's next turn. |
+| 5 | A device fires a dart filled with glowing green fluid at the character (`dice:1d20+4\|noform\|noparens\|text(+4)` to hit, 1 piercing damage on a hit). On a hit, the fluid is injected with an ominous hiss—but it proves harmless. |
+| 6 | A mechanical chicken fires tin eggs at the character (`dice:1d20+4\|noform\|noparens\|text(+4)` to hit, `dice:1d4\|noform\|noparens\|avg` (`1d4`) bludgeoning damage on a hit). On a hit, the egg bursts in an oily mess, and the character has disadvantage on attack rolls until the end of the character's next turn. |
 ^clockwork-chaos
 
-![The inventor Tatina Rookle...](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/058-04-004-tatina-defense.webp#center "The inventor Tatina Rookledust defends her home from Dragon Army goblins")
+![The inventor Tatina Rookledust defends her home from Dragon Army goblins](file://adventure/DSotDQ/058-04-004.tatina-defense.webp#center)
 
 The goblins flee after half their number are defeated. The hobgoblin tries to make the goblins hold their ground but also flees if he finds himself outnumbered by the characters.
 
@@ -481,7 +487,7 @@ Once the characters defeat the goblinoids, the gnome—[Tatina Rookledust](3-Mec
 
 #### Tatina Rookledust
 
-[Tatina Rookledust](3-Mechanics/CLI/bestiary/npc/tatina-rookledust-dsotdq.md) (neutral good rock gnome) moved to Nightlund decades ago from the distant gnome homeland of Mount Nevermind. She uses the [acolyte](3-Mechanics/CLI/bestiary/humanoid/acolyte.md) stat block, but the effects of her Spellcasting manifest from various tools and tiny devices she always carries with her. Rookledust talks rapidly and is always formulating new ideas for her next overdesigned contraption. Though many of her creations are dangerous, she doesn't build them with violence in mind. She's particularly interested in devices for long-distance communication and inventions that mechanize the work of farm animals.
+[Tatina Rookledust](3-Mechanics/CLI/bestiary/npc/tatina-rookledust-dsotdq.md) (neutral good rock gnome) moved to Nightlund decades ago from the distant gnome homeland of Mount Nevermind. She uses the [acolyte](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) stat block, but the effects of her Spellcasting manifest from various tools and tiny devices she always carries with her. Rookledust talks rapidly and is always formulating new ideas for her next overdesigned contraption. Though many of her creations are dangerous, she doesn't build them with violence in mind. She's particularly interested in devices for long-distance communication and inventions that mechanize the work of farm animals.
 
 ##### Personality Trait
 
@@ -551,11 +557,11 @@ Through Darrett, the leaders of Kalaman might send the characters on the followi
 
 #### Ambushing the Enemy
 
-The characters are tasked with investigating a farmstead eighteen miles east of the city, after fleeing residents report the farm was overrun by soldiers. When the characters arrive, they find the farm ransacked and a [Dragon Army soldier](3-Mechanics/CLI/bestiary/humanoid/dragon-army-soldier-dsotdq.md) (see appendix B) training six [hobgoblin](3-Mechanics/CLI/bestiary/humanoid/hobgoblin.md) mercenaries. The Dragon Army soldier orders the hobgoblins to attack, telling them, "Here's your final test. Dispatch these fools and earn your place in the Dragon Army!" The hobgoblins fight until their commanding Dragon Army soldier is killed or half their number are wiped out.
+The characters are tasked with investigating a farmstead eighteen miles east of the city, after fleeing residents report the farm was overrun by soldiers. When the characters arrive, they find the farm ransacked and a [Dragon Army soldier](3-Mechanics/CLI/bestiary/humanoid/dragon-army-soldier-dsotdq.md) (see appendix B) training six [hobgoblin](3-Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md) mercenaries. The Dragon Army soldier orders the hobgoblins to attack, telling them, "Here's your final test. Dispatch these fools and earn your place in the Dragon Army!" The hobgoblins fight until their commanding Dragon Army soldier is killed or half their number are wiped out.
 
 ##### Treasure
 
-The soldiers' gear includes 200 gp and five suits of black [chain mail](3-Mechanics/CLI/items/chain-mail.md) emblazoned with the symbol of Takhisis. The Dragon Army soldier also carries the following message:
+The soldiers' gear includes 200 gp and five suits of black [chain mail](3-Mechanics/CLI/items/chain-mail-xphb.md) emblazoned with the symbol of Takhisis. The Dragon Army soldier also carries the following message:
 
 > [!readaloud] 
 > 
@@ -570,13 +576,13 @@ Twenty miles east of Kalaman, where the road crosses the Raiding Rill, the chara
 
 ##### Treasure
 
-The draconians have stolen 120 gp, food equivalent to 60 days of rations, and a [driftglobe](3-Mechanics/CLI/items/driftglobe.md).
+The draconians have stolen 120 gp, food equivalent to 60 days of rations, and a [driftglobe](3-Mechanics/CLI/items/driftglobe-xdmg.md).
 
 #### Missing Scouts
 
 The characters are sent to track down a pair of scouts keeping tabs on Dragon Army movements north of the Vingaard River, twenty miles northwest of Kalaman and six miles east of Vogler. The characters are told to find the scouts' lookout post in a stand of gray birch, trees uncommon in the area.
 
-Once the characters arrive in the area, they find the lookout post in fifteen minutes if a character succeeds on a DC 15 Wisdom ([Survival](3-Mechanics/CLI/rules/skills.md#Survival)) check; otherwise, finding the post takes three hours. Regardless of when the characters arrive, they find one [scout](3-Mechanics/CLI/bestiary/humanoid/scout.md) tied to a tree in the center of the camp, being harassed by two [baaz draconians](3-Mechanics/CLI/bestiary/monstrosity/baaz-draconian-dsotdq.md) (see appendix B); the other scout lies dead nearby. A [kapak draconian](3-Mechanics/CLI/bestiary/monstrosity/kapak-draconian-dsotdq.md) (see appendix B) hides in the trees above the camp and tries to ambush the characters after combat begins.
+Once the characters arrive in the area, they find the lookout post in fifteen minutes if a character succeeds on a DC 15 Wisdom ([Survival](3-Mechanics/CLI/rules/skills.md#Survival)) check; otherwise, finding the post takes three hours. Regardless of when the characters arrive, they find one [scout](3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md) tied to a tree in the center of the camp, being harassed by two [baaz draconians](3-Mechanics/CLI/bestiary/monstrosity/baaz-draconian-dsotdq.md) (see appendix B); the other scout lies dead nearby. A [kapak draconian](3-Mechanics/CLI/bestiary/monstrosity/kapak-draconian-dsotdq.md) (see appendix B) hides in the trees above the camp and tries to ambush the characters after combat begins.
 
 ##### Development
 
@@ -665,8 +671,8 @@ Wheelwatch Outpost has the following features:
 The following locations are keyed to map 4.2.
 
 > [!gallery]
-> ![Map 4.2: Wheelhouse Outpost](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/059-map-4-02-wheelhouse-outpost.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/060-map-4-02-wheelhouse-outpost-player.webp#gallery)
+> ![Map 4.2: Wheelhouse Outpost](file://adventure/DSotDQ/059-map-4.02-wheelhouse-outpost.webp#gallery)
+> ![Player Version](file://adventure/DSotDQ/060-map-4.02-wheelhouse-outpost-player.webp#gallery)
 
 #### W1: Courtyard
 
@@ -725,7 +731,7 @@ The weapon racks hold dozens of weapons that belonged to Kalaman's forces before
 
 At any given time, eight [Dragon Army soldiers](3-Mechanics/CLI/bestiary/humanoid/dragon-army-soldier-dsotdq.md) (see appendix B) rest here. They swap places with on-duty guards throughout the day. If they hear battle in area W4 or an alarm horn sounds, they rush to support their allies after 2 rounds.
 
-- **Treasure.** Under each of the sets of bunks is a simple wooden footlocker. Each holds two sets of common clothes and 10 gp. One footlocker also contains a silvered [longsword](3-Mechanics/CLI/items/longsword.md), while another contains a [holy symbol](3-Mechanics/CLI/items/holy-symbol.md) of Takhisis and a key for the gate controls in area W1.  
+- **Treasure.** Under each of the sets of bunks is a simple wooden footlocker. Each holds two sets of common clothes and 10 gp. One footlocker also contains a [silvered longsword](3-Mechanics/CLI/items/silvered-weapon-xdmg.md), while another contains a [holy symbol](3-Mechanics/CLI/items/holy-symbol-xphb.md) of Takhisis and a key for the gate controls in area W1.  
 
 #### W6: Prison
 
@@ -741,13 +747,13 @@ This locked cell holds Elgo Duckditcher, a chaotic good [kender skirmisher](3-Me
 
 ##### Treasure
 
-The papers on the desk include Commander Vanse's daily reports, along with orders to hold Wheelwatch at all costs, signed "Dragon Highmaster [Kansaldi Fire-Eyes](3-Mechanics/CLI/bestiary/npc/kansaldi-fire-eyes-dsotdq.md)." A desk drawer holds [thieves' tools](3-Mechanics/CLI/items/thieves-tools.md) confiscated from Elgo and 200 gp.
+The papers on the desk include Commander Vanse's daily reports, along with orders to hold Wheelwatch at all costs, signed "Dragon Highmaster [Kansaldi Fire-Eyes](3-Mechanics/CLI/bestiary/npc/kansaldi-fire-eyes-dsotdq.md)." A desk drawer holds [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md) confiscated from Elgo and 200 gp.
 
 Commander Vanse carries an iron ring with keys to the cells in this area and to the gates in area W1.
 
 #### W7: Storage
 
-The storage room's barrels contain enough food, water, and other supplies to sustain the outpost for a month. A character who spends 5 minutes searching the supplies and succeeds on a DC 16 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check finds a dusty case containing six [flasks of alchemist's fire](3-Mechanics/CLI/items/alchemists-fire-flask.md).
+The storage room's barrels contain enough food, water, and other supplies to sustain the outpost for a month. A character who spends 5 minutes searching the supplies and succeeds on a DC 16 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check finds a dusty case containing six [flasks of alchemist's fire](3-Mechanics/CLI/items/alchemists-fire-xphb.md).
 
 #### W8: Stable
 
@@ -831,7 +837,7 @@ When the characters complete the thirty-mile trip to Steel Springs, read the fol
 > As the brook called the Inkwater comes into view, smoke rises over the tree line beyond it. Wounded Kalaman soldiers stagger from the trees, heading toward a narrow crossing that lies in your direction. Dragon Army soldiers give chase on horseback.
 ^1e7
 
-This battlefield is represented on map 4.3. As the characters arrive, six [Kalaman soldiers](3-Mechanics/CLI/bestiary/humanoid/kalaman-soldier-dsotdq.md) (see appendix B), each with 8 hit points, flee south from the battle occurring up the road. They've reached the islet at the center of the map. Four [Dragon Army soldiers](3-Mechanics/CLI/bestiary/humanoid/dragon-army-soldier-dsotdq.md) (see appendix B) on [warhorses](3-Mechanics/CLI/bestiary/beast/warhorse.md) gallop in pursuit along the road at the north of the map.
+This battlefield is represented on map 4.3. As the characters arrive, six [Kalaman soldiers](3-Mechanics/CLI/bestiary/humanoid/kalaman-soldier-dsotdq.md) (see appendix B), each with 8 hit points, flee south from the battle occurring up the road. They've reached the islet at the center of the map. Four [Dragon Army soldiers](3-Mechanics/CLI/bestiary/humanoid/dragon-army-soldier-dsotdq.md) (see appendix B) on [warhorses](3-Mechanics/CLI/bestiary/beast/warhorse-xmm.md) gallop in pursuit along the road at the north of the map.
 
 The Dragon Army soldiers ride to the edge of the northern stream, throwing javelins at the retreating Kalaman soldiers. The Dragon Army soldiers shift their attention to the characters if attacked.
 
@@ -848,8 +854,8 @@ The battlefield includes the following features:
 - **Fray.** The 15-foot-wide area marked by the design at the edge of the map represents directions from which creatures from the nearby battle might arrive, as detailed in the following section.  
 
 > [!gallery]
-> ![Map 4.3: Retreat From Steel Springs](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/061-map-4-03-retreat-from-steel-springs.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/062-map-4-03-retreat-from-steel-springs-player.webp#gallery)
+> ![Map 4.3: Retreat From Steel Springs](file://adventure/DSotDQ/061-map-4.03-retreat-from-steel-springs.webp#gallery)
+> ![Player Version](file://adventure/DSotDQ/062-map-4.03-retreat-from-steel-springs-player.webp#gallery)
 
 #### Steel Springs Battlefield Events
 
@@ -857,13 +863,15 @@ During this encounter, as long as there are still Dragon Army soldiers on the ba
 
 **Steel Springs Battlefield Events**
 
+`dice: [](05-chapter-4-shadow-of-war.md#^steel-springs-battlefield-events)`
+
 | dice: d8 | Event |
 |----------|-------|
 | 1–3 | One of the wounded [Kalaman soldiers](3-Mechanics/CLI/bestiary/humanoid/kalaman-soldier-dsotdq.md) collapses. The soldier and other Kalaman soldiers within 10 feet of that soldier don't move this round. |
-| 4–5 | Arrows arc over the trees to the north. A random player character and each creature within 10 feet of that character must succeed on a DC 14 Dexterity saving throw or take 10 (`3d6`) piercing damage. |
+| 4–5 | Arrows arc over the trees to the north. A random player character and each creature within 10 feet of that character must succeed on a DC 14 Dexterity saving throw or take `dice:3d6\|noform\|noparens\|avg\|text(10)` (`3d6`) piercing damage. |
 | 6 | Another wounded [Kalaman soldier](3-Mechanics/CLI/bestiary/humanoid/kalaman-soldier-dsotdq.md) (see appendix B) with 8 hit points appears adjacent to the Fray nearest a random [Dragon Army soldier](3-Mechanics/CLI/bestiary/humanoid/dragon-army-soldier-dsotdq.md). This wounded soldier moves only 15 feet per round and tries to retreat south like the other Kalaman soldiers. |
 | 7 | A dragonnel flies overhead, dropping a screaming Kalaman soldier next to a random player character as it does. The soldier dies on impact. This event is unsettling but has no other effect. |
-| 8 | A hostile [Dragon Army soldier](3-Mechanics/CLI/bestiary/humanoid/dragon-army-soldier-dsotdq.md) (see appendix B) mounted on a [warhorse](3-Mechanics/CLI/bestiary/beast/warhorse.md) appears in a space adjacent to the Fray nearest a random player character. This event occurs only once during the battle; reroll on this table if it is rolled again. |
+| 8 | A hostile [Dragon Army soldier](3-Mechanics/CLI/bestiary/humanoid/dragon-army-soldier-dsotdq.md) (see appendix B) mounted on a [warhorse](3-Mechanics/CLI/bestiary/beast/warhorse-xmm.md) appears in a space adjacent to the Fray nearest a random player character. This event occurs only once during the battle; reroll on this table if it is rolled again. |
 ^steel-springs-battlefield-events
 
 ### Commanders' Retreat
@@ -905,7 +913,7 @@ As the characters near the gates of Kalaman, read the following text:
 > A crowd mills at the gate ahead, dozens of commoners murmuring and excitedly looking past the closed portcullis. "There's nothing to see!" shouts a guard, "Please move along."
 ^1ef
 
-![Solamnic knights mysteriously arrive in Kalaman](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/063-04-005-solamnic-knights.webp#center)
+![Solamnic knights mysteriously arrive in Kalaman](file://adventure/DSotDQ/063-04-005.solamnic-knights.webp#center)
 
 The characters learn the following from a gate guard or anyone in the crowd:
 
@@ -929,7 +937,7 @@ Once the characters enter Castle Kalaman's courtyard, read the following:
 > Castle Kalaman's courtyard is largely deserted, as most of the city's defenders remain with the troops west of the city. Near the covered cloisters leading to the city council's conference rooms are two heavily armored Knights of Solamnia on horseback. One of them holds a banner bearing a prominent rose emblem.
 ^1f1
 
-The two knights here are [Undead soldiers](3-Mechanics/CLI/bestiary/undead/undead-soldier-dsotdq.md). They use the [wight](3-Mechanics/CLI/bestiary/undead/wight.md) stat block with the following changes:
+The two knights here are [Undead soldiers](3-Mechanics/CLI/bestiary/undead/undead-soldier-dsotdq.md). They use the [wight](3-Mechanics/CLI/bestiary/undead/wight-xmm.md) stat block with the following changes:
 
 - They wear plate armor and have AC 18.  
 - They don't have the Sunlight Sensitivity trait.  
@@ -956,9 +964,9 @@ In the council chamber, the characters find the following scene:
 > Next to the governor's body, a man in Solamnic armor rocks back in a chair. He props his booted feet on the table as he balances a scroll on one finger.
 ^1f4
 
-The governor, all of Kalaman's council members, and six castle guards lie dead here. They are beyond the aid of a [revivify](3-Mechanics/CLI/spells/revivify.md) spell.
+The governor, all of Kalaman's council members, and six castle guards lie dead here. They are beyond the aid of a [revivify](3-Mechanics/CLI/spells/revivify-xphb.md) spell.
 
-The man here is [Caradoc](3-Mechanics/CLI/bestiary/npc/caradoc-dsotdq.md) (see appendix B), an Undead spirit who has been possessing a Knight of Solamnia (use the [knight](3-Mechanics/CLI/bestiary/humanoid/knight.md) stat block) for over a week. Charming but utterly amoral, [Caradoc](3-Mechanics/CLI/bestiary/npc/caradoc-dsotdq.md) is Lord Loren Soth's seneschal. He served as the mouthpiece of [Lord Soth](3-Mechanics/CLI/bestiary/npc/lord-soth-dsotdq.md) and his Undead troops, gaining them access to Kalaman's rulers under the guise of being helpful Knights of Solamnia. During their audience with the city's rulers, [Lord Soth](3-Mechanics/CLI/bestiary/npc/lord-soth-dsotdq.md), [Caradoc](3-Mechanics/CLI/bestiary/npc/caradoc-dsotdq.md), and their Undead knights murdered the city's leaders. Soth then went on to his actual objective in the catacombs beneath the castle, while [Caradoc](3-Mechanics/CLI/bestiary/npc/caradoc-dsotdq.md) remained behind to prevent any interference.
+The man here is [Caradoc](3-Mechanics/CLI/bestiary/npc/caradoc-dsotdq.md) (see appendix B), an Undead spirit who has been possessing a Knight of Solamnia (use the [knight](3-Mechanics/CLI/bestiary/humanoid/knight-xmm.md) stat block) for over a week. Charming but utterly amoral, [Caradoc](3-Mechanics/CLI/bestiary/npc/caradoc-dsotdq.md) is Lord Loren Soth's seneschal. He served as the mouthpiece of [Lord Soth](3-Mechanics/CLI/bestiary/npc/lord-soth-dsotdq.md) and his Undead troops, gaining them access to Kalaman's rulers under the guise of being helpful Knights of Solamnia. During their audience with the city's rulers, [Lord Soth](3-Mechanics/CLI/bestiary/npc/lord-soth-dsotdq.md), [Caradoc](3-Mechanics/CLI/bestiary/npc/caradoc-dsotdq.md), and their Undead knights murdered the city's leaders. Soth then went on to his actual objective in the catacombs beneath the castle, while [Caradoc](3-Mechanics/CLI/bestiary/npc/caradoc-dsotdq.md) remained behind to prevent any interference.
 
 #### Caradoc
 
@@ -982,7 +990,7 @@ When Soth rose as an Undead, [Caradoc](3-Mechanics/CLI/bestiary/npc/caradoc-dsot
 
 "Who can resist a little drama?"
 
-![Knight Caradoc carries a m...](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/064-04-006-caradoc.webp#center "Knight Caradoc carries a message to Kalaman's leaders")
+![Knight Caradoc carries a message to Kalaman's leaders](file://adventure/DSotDQ/064-04-006.caradoc.webp#center)
 
 #### Caught in the Act
 
@@ -1015,7 +1023,7 @@ When the characters attack [Caradoc](3-Mechanics/CLI/bestiary/npc/caradoc-dsotdq
 
 ##### Lost Knight
 
-If the knight [Caradoc](3-Mechanics/CLI/bestiary/npc/caradoc-dsotdq.md) has been possessing drops to 0 hit points, allow the knight to make death saving throws, as the characters may wish to heal him. His name is [Durstan Rial](3-Mechanics/CLI/bestiary/npc/durstan-rial-dsotdq.md) (neutral, human [knight](3-Mechanics/CLI/bestiary/humanoid/knight.md)), and he has little memory of the last few weeks since he was ambushed while traveling near the Dargaard Mountains. He helps the characters defeat [Caradoc](3-Mechanics/CLI/bestiary/npc/caradoc-dsotdq.md) if the spirit is present, but he ultimately wishes to return to his home in Maelgoth.
+If the knight [Caradoc](3-Mechanics/CLI/bestiary/npc/caradoc-dsotdq.md) has been possessing drops to 0 hit points, allow the knight to make death saving throws, as the characters may wish to heal him. His name is [Durstan Rial](3-Mechanics/CLI/bestiary/npc/durstan-rial-dsotdq.md) (neutral, human [knight](3-Mechanics/CLI/bestiary/humanoid/knight-xmm.md)), and he has little memory of the last few weeks since he was ambushed while traveling near the Dargaard Mountains. He helps the characters defeat [Caradoc](3-Mechanics/CLI/bestiary/npc/caradoc-dsotdq.md) if the spirit is present, but he ultimately wishes to return to his home in Maelgoth.
 
 ##### Treasure
 
@@ -1105,7 +1113,7 @@ If the characters enter a room after all these scenes have played out, skeletal 
 
 Though the full truth of [Lord Soth](3-Mechanics/CLI/bestiary/npc/lord-soth-dsotdq.md)'s tale remains vague, the characters might learn more when they encounter [Leedara](3-Mechanics/CLI/bestiary/npc/leedara-dsotdq.md) again in chapter 7.
 
-![Cataclysmic flames reveal ...](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/065-04-007-soth-memory.webp#center "Cataclysmic flames reveal glimpses of Lord Soth's memories")
+![Cataclysmic flames reveal glimpses of Lord Soth's memories](file://adventure/DSotDQ/065-04-007.soth-memory.webp#center)
 
 ### Raided Catacombs Features
 
@@ -1120,8 +1128,8 @@ The catacombs beneath Castle Kalaman have the following features:
 The following locations are keyed to map 4.4.
 
 > [!gallery]
-> ![Map 4.4: Raided Catacombs](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/066-map-4-04-raided-catacombs.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/067-map-4-04-raided-catacombs-player.webp#gallery)
+> ![Map 4.4: Raided Catacombs](file://adventure/DSotDQ/066-map-4.04-raided-catacombs.webp#gallery)
+> ![Player Version](file://adventure/DSotDQ/067-map-4.04-raided-catacombs-player.webp#gallery)
 
 #### R1: Hall of Knights
 
@@ -1145,7 +1153,7 @@ As the characters enter this area, the next scene from the "Visions in Fire" sec
 
 ##### Burial Alcoves
 
-Fifteen forgotten Knights of Solamnia are buried here, each with their now-rusted plate armor and longsword. If any of the bodies are disturbed, two [wraiths](3-Mechanics/CLI/bestiary/undead/wraith.md) that look like spectral Knights of Solamnia emerge from crypts and attack. The wraiths vanish if a character returns any stolen goods and makes an earnest apology.
+Fifteen forgotten Knights of Solamnia are buried here, each with their now-rusted plate armor and longsword. If any of the bodies are disturbed, two [wraiths](3-Mechanics/CLI/bestiary/undead/wraith-xmm.md) that look like spectral Knights of Solamnia emerge from crypts and attack. The wraiths vanish if a character returns any stolen goods and makes an earnest apology.
 
 ##### Broken Passage
 
@@ -1164,17 +1172,17 @@ As the characters enter this area, the next scene from the "Visions in Fire" sec
 
 The two tombs commemorate honored Solamnic weaponsmiths. Their burial places are sealed behind iron bars, which are Medium objects with AC 19, 20 hit points, and immunity to poison and psychic damage.
 
-The north tomb contains a skeleton clutching a [berserker axe](3-Mechanics/CLI/items/berserker-axe.md).
+The north tomb contains a skeleton clutching a [berserker axe](3-Mechanics/CLI/items/berserker-axe-xdmg.md).
 
 The south tomb is empty except for an iron amulet shaped like a smith's hammer. A cleric of Reorx or a character who succeeds on a DC 14 Intelligence ([Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check recognizes this as a holy symbol of Reorx, god of craft.
 
 ##### Broken Passage
 
-[Lord Soth](3-Mechanics/CLI/bestiary/npc/lord-soth-dsotdq.md) destroyed a door and a section of wall here to reach area R7. Characters with the Stonecunning trait or who succeed on a DC 14 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception) or [Survival](3-Mechanics/CLI/rules/skills.md#Survival)) check can tell this destruction occurred recently and the narrow passage is dangerously unstable. The first creature to pass 5 feet along this passage must make a DC 16 Dexterity saving throw as the south end of the path collapses, blocking the way to area R7. On a successful save, the creature safely dodges back into area R3. On a failed save, it takes `4d6` bludgeoning damage and is forced into area R3.
+[Lord Soth](3-Mechanics/CLI/bestiary/npc/lord-soth-dsotdq.md) destroyed a door and a section of wall here to reach area R7. Characters with the Stonecunning trait or who succeed on a DC 14 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception) or [Survival](3-Mechanics/CLI/rules/skills.md#Survival)) check can tell this destruction occurred recently and the narrow passage is dangerously unstable. The first creature to pass 5 feet along this passage must make a DC 16 Dexterity saving throw as the south end of the path collapses, blocking the way to area R7. On a successful save, the creature safely dodges back into area R3. On a failed save, it takes `dice:4d6|noform|noparens|avg` (`4d6`) bludgeoning damage and is forced into area R3.
 
 ##### Treasure
 
-The weapons to the west are the armaments of heroic Solamnic knights and their allies. Most are rotted or rusted through, but characters can find a [+1 longsword](3-Mechanics/CLI/items/1-weapon.md), a [mithral breastplate](3-Mechanics/CLI/items/mithral-armor.md), and a [Kagonesti forest shroud](3-Mechanics/CLI/items/kagonesti-forest-shroud-dsotdq.md) (see appendix A).
+The weapons to the west are the armaments of heroic Solamnic knights and their allies. Most are rotted or rusted through, but characters can find a [+1 longsword](3-Mechanics/CLI/items/1-weapon-xdmg.md), a [mithral breastplate](3-Mechanics/CLI/items/mithral-armor-xdmg.md), and a [Kagonesti forest shroud](3-Mechanics/CLI/items/kagonesti-forest-shroud-dsotdq.md) (see appendix A).
 
 #### R4: Hall of Steeds
 
@@ -1183,7 +1191,7 @@ The weapons to the west are the armaments of heroic Solamnic knights and their a
 > Mosaics of knights riding armored stallions cover the walls of this room and are limned in violet flames. To the east lies a shattered stone door, and north of it gapes a tunnel that leads back to the catacomb entrance. At the west end of the room stands a statue of a rearing horse and two stone doors leading south.
 ^21a
 
-As the characters enter this area, the next scene from the "Visions in Fire" section plays out. After the scene completes, two [warhorse skeletons](3-Mechanics/CLI/bestiary/undead/warhorse-skeleton.md) manifest at the west end of the hall. These are the remains of the heroic warhorses Xheriev and Steelwind, which attack. However, if a character is wearing the armor of a Solamnic knight or succeeds on a DC 16 Wisdom ([Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling)) check, the skeletons stop, bow, and vanish. That character then gains the following charm (a type of "supernatural gift" detailed in the "Dungeon Master's Guide").
+As the characters enter this area, the next scene from the "Visions in Fire" section plays out. After the scene completes, two [warhorse skeletons](3-Mechanics/CLI/bestiary/undead/warhorse-skeleton-xmm.md) manifest at the west end of the hall. These are the remains of the heroic warhorses Xheriev and Steelwind, which attack. However, if a character is wearing the armor of a Solamnic knight or succeeds on a DC 16 Wisdom ([Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling)) check, the skeletons stop, bow, and vanish. That character then gains the following charm (a type of "supernatural gift" detailed in the "Dungeon Master's Guide").
 
 - [Favor of the Heroic Steed](3-Mechanics/CLI/rewards/favor-of-the-heroic-steed-dsotdq.md)  
 
@@ -1262,7 +1270,7 @@ When the characters enter this room, any remaining scenes from the "Visions in F
 
 As soon as [Sarlamir](3-Mechanics/CLI/bestiary/npc/sarlamir-dsotdq.md) is defeated, the violet flames around his weapon and elsewhere in the catacombs dim, then vanish. Make sure [Sarlamir](3-Mechanics/CLI/bestiary/npc/sarlamir-dsotdq.md) mentions the City of Lost Names and the Northern Wastes, even if it's as a final gasp. The characters will learn more about these places in chapter 5.
 
-![Knight Sarlamir](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/068-04-008-knight-sarlamir.webp#center)
+![Knight Sarlamir](file://adventure/DSotDQ/068-04-008.knight-sarlamir.webp#center)
 
 ##### North Passage
 
@@ -1274,7 +1282,7 @@ This crude passage emerges 80 feet up a sheer cliff beneath the walls of Castle 
 
 ##### Treasure
 
-Inside [Sarlamir](3-Mechanics/CLI/bestiary/npc/sarlamir-dsotdq.md)'s tomb is the distinctive head of a rusty spear—all that remains of his [dragonlance](3-Mechanics/CLI/items/dragonlance-ftd.md). A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals an aura of evocation magic, though the spearhead has no obvious properties. A character who tries to attune to the item and succeeds on a DC 12 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana) or [Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check discovers that the spearhead is magical but that divine power has rendered its magic inert. The other tombs in this room are empty except for bones and rusty armor.
+Inside [Sarlamir](3-Mechanics/CLI/bestiary/npc/sarlamir-dsotdq.md)'s tomb is the distinctive head of a rusty spear—all that remains of his [dragonlance](3-Mechanics/CLI/items/dragonlance-ftd.md). A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of evocation magic, though the spearhead has no obvious properties. A character who tries to attune to the item and succeeds on a DC 12 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana) or [Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check discovers that the spearhead is magical but that divine power has rendered its magic inert. The other tombs in this room are empty except for bones and rusty armor.
 
 ### Next Steps
 

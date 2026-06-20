@@ -15,7 +15,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Redcap"
 ---
-# [Redcap](3-Mechanics\CLI\bestiary\fey/redcap-mpmm.md)
+# [Redcap](3-Mechanics/CLI/bestiary/fey/redcap-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 208, Volo's Guide to Monsters p. 188*  
 
 A redcap is a homicidal Fey creature born of blood lust. Redcaps, although small, have formidable strength, which they use to hunt and kill without hesitation or regret.
@@ -77,7 +77,7 @@ In any case, if a redcap works with another being, the redcap demands to be paid
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/fey/token/redcap-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Redcap.webp"
 ```
 ^statblock
 

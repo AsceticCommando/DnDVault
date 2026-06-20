@@ -12,6 +12,8 @@ aliases:
 
 **Newspaper Contact**
 
+`dice: [](newspaper-contact-erlw.md#^newspaper-contact)`
+
 | dice: d8 | Primary Contact |
 |----------|-----------------|
 | 1 | A tough-as-nails senior editor who holds you to high standards but rewards you well when you reach them |

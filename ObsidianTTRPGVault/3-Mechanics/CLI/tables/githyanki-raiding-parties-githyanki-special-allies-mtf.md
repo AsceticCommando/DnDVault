@@ -12,11 +12,13 @@ aliases:
 
 **Githyanki Special Allies**
 
+`dice: [](githyanki-raiding-parties-githyanki-special-allies-mtf.md#^githyanki-special-allies)`
+
 | dice: d10 | Ally |
 |-----------|------|
 | 1-3 | No special Allies |
-| 4-5 | [Githyanki Knights](3-Mechanics/CLI/bestiary/humanoid/githyanki-knight.md) |
-| 6-7 | [Knights](3-Mechanics/CLI/bestiary/humanoid/githyanki-knight.md) and [Gish](3-Mechanics/CLI/bestiary/humanoid/githyanki-gish-mpmm.md) |
-| 8-9 | [Gish](3-Mechanics/CLI/bestiary/humanoid/githyanki-gish-mpmm.md) and [Knights](3-Mechanics/CLI/bestiary/humanoid/githyanki-knight.md) |
+| 4-5 | [Githyanki Knights](3-Mechanics/CLI/bestiary/aberration/githyanki-knight-xmm.md) |
+| 6-7 | [Knights](3-Mechanics/CLI/bestiary/aberration/githyanki-knight-xmm.md) and [Gish](3-Mechanics/CLI/bestiary/humanoid/githyanki-gish-mpmm.md) |
+| 8-9 | [Gish](3-Mechanics/CLI/bestiary/humanoid/githyanki-gish-mpmm.md) and [Knights](3-Mechanics/CLI/bestiary/aberration/githyanki-knight-xmm.md) |
 | 10 | [Kith'rak](3-Mechanics/CLI/bestiary/humanoid/githyanki-kithrak-mpmm.md) |
 ^githyanki-special-allies

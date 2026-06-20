@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Lulu"
 ---
-# [Lulu](3-Mechanics\CLI\bestiary\npc/lulu-bgdia.md)
+# [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 5*  
 
 ```statblock
@@ -46,13 +46,13 @@ aliases:
 "traits":
   - "desc": "Lulu's innate spellcasting ability is Wisdom (spell save DC 15). It can\
       \ innately cast the following spells, requiring no material components:\n\n\
-      **At will:** [light](3-Mechanics/CLI/spells/light.md)\n\n**2/day each:** [bless](3-Mechanics/CLI/spells/bless.md),\
-      \ [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md), [protection from evil\
-      \ and good](3-Mechanics/CLI/spells/protection-from-evil-and-good.md)\n\n**1/day\
-      \ each:** [banishment](3-Mechanics/CLI/spells/banishment.md), [heal](3-Mechanics/CLI/spells/heal.md),\
-      \ [raise dead](3-Mechanics/CLI/spells/raise-dead.md), [shapechange](3-Mechanics/CLI/spells/shapechange.md)\
-      \ (into a golden-furred [mammoth](3-Mechanics/CLI/bestiary/beast/mammoth.md)\
-      \ with feathered wings and a flying speed of 120 ft.), [teleport](3-Mechanics/CLI/spells/teleport.md)\
+      **At will:** [light](3-Mechanics/CLI/spells/light-xphb.md)\n\n**2/day each:**\
+      \ [bless](3-Mechanics/CLI/spells/bless-xphb.md), [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md),\
+      \ [protection from evil and good](3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md)\n\
+      \n**1/day each:** [banishment](3-Mechanics/CLI/spells/banishment-xphb.md), [heal](3-Mechanics/CLI/spells/heal-xphb.md),\
+      \ [raise dead](3-Mechanics/CLI/spells/raise-dead-xphb.md), [shapechange](3-Mechanics/CLI/spells/shapechange-xphb.md)\
+      \ (into a golden-furred [mammoth](3-Mechanics/CLI/bestiary/beast/mammoth-xmm.md)\
+      \ with feathered wings and a flying speed of 120 ft.), [teleport](3-Mechanics/CLI/spells/teleport-xphb.md)\
       \ (with no chance of error)"
     "name": "Innate Spellcasting"
   - "desc": "An [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) aura forms\
@@ -90,6 +90,6 @@ aliases:
     "name": "Trumpet of Sparkles"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/lulu-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Lulu.webp"
 ```
 ^statblock

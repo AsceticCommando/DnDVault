@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Vaasha"
 ---
-# [Vaasha](3-Mechanics\CLI\bestiary\npc/vaasha-skt.md)
+# [Vaasha](3-Mechanics/CLI/bestiary/npc/vaasha-skt.md)
 *Source: Storm King's Thunder p. 256*  
 
 ```statblock
@@ -21,7 +21,7 @@ aliases:
 "type": "giant"
 "alignment": "Neutral Good"
 "ac": !!int "16"
-"ac_class": "[scale mail](3-Mechanics/CLI/items/scale-mail.md)"
+"ac_class": "[scale mail](3-Mechanics/CLI/items/scale-mail-xphb.md)"
 "hp": !!int "230"
 "hit_dice": "20d12 + 100"
 "modifier": !!int "2"
@@ -48,7 +48,7 @@ aliases:
 "damage_resistances": "cold"
 "damage_immunities": "lightning, thunder"
 "gear":
-  - "[greatsword](3-Mechanics/CLI/items/greatsword.md)"
+  - "[greatsword](3-Mechanics/CLI/items/greatsword-xphb.md)"
 "senses": "passive Perception 19"
 "languages": "Common, Giant"
 "cr": "13"
@@ -79,12 +79,13 @@ aliases:
     "name": "Lightning Strike (Recharge 5-6)"
   - "desc": "Vaasha casts one of the following spells, requiring no material spell\
       \ components and using Charisma as the spellcasting ability (spell save DC 17):\n\
-      \n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [levitate](3-Mechanics/CLI/spells/levitate.md),\
-      \ [light](3-Mechanics/CLI/spells/light.md)\n\n**1/day each:** [control weather](3-Mechanics/CLI/spells/control-weather.md)\
-      \ (cast as 1 action), [water breathing](3-Mechanics/CLI/spells/water-breathing.md)"
+      \n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [levitate](3-Mechanics/CLI/spells/levitate-xphb.md), [light](3-Mechanics/CLI/spells/light-xphb.md)\n\
+      \n**1/day each:** [control weather](3-Mechanics/CLI/spells/control-weather-xphb.md)\
+      \ (cast as 1 action), [water breathing](3-Mechanics/CLI/spells/water-breathing-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/vaasha-skt.webp"
+"image": "file://bestiary/tokens/SKT/Vaasha.webp"
 ```
 ^statblock

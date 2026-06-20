@@ -15,7 +15,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Young Kruthik"
 ---
-# [Young Kruthik](3-Mechanics\CLI\bestiary\monstrosity/young-kruthik-mpmm.md)
+# [Young Kruthik](3-Mechanics/CLI/bestiary/monstrosity/young-kruthik-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 168, Mordenkainen's Tome of Foes p. 211*  
 
 Kruthiks hatch from eggs laid by female adults. Each egg is about the size of an adult human's head and hatches within a month. Tiny kruthik hatchlings are harmless and rarely stray far from the nest. They feed primarily on offal and one another. Within a month, the survivors become young kruthiks large enough to hunt and defend themselves.
@@ -80,7 +80,7 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/young-kruthik-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Young%20Kruthik.webp"
 ```
 ^statblock
 

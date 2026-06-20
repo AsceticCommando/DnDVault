@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Witchkite"
 ---
-# [Witchkite](3-Mechanics\CLI\bestiary\dragon/witchkite-mcv4ec.md)
+# [Witchkite](3-Mechanics/CLI/bestiary/dragon/witchkite-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 While many dragons of Eldraine hoard wealth and material goods, witchkites prefer hoarding forbidden and dangerous magical secrets. The arcane nature of a witchkite's hoard seeps into the dragon's core, granting it spellcasting abilities and twisting its fiery breath into malevolent motes of magical flame.
@@ -81,10 +81,11 @@ While many dragons of Eldraine hoard wealth and material goods, witchkites prefe
     "name": "Malevolent Flare"
   - "desc": "The witchkite casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 17):\n\
-      \n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [minor\
-      \ illusion](3-Mechanics/CLI/spells/minor-illusion.md), [speak with dead](3-Mechanics/CLI/spells/speak-with-dead.md)\n\
-      \n**1/day each:** [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md),\
-      \ [dimension door](3-Mechanics/CLI/spells/dimension-door.md), [hold monster](3-Mechanics/CLI/spells/hold-monster.md)"
+      \n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md), [speak with\
+      \ dead](3-Mechanics/CLI/spells/speak-with-dead-xphb.md)\n\n**1/day each:** [detect\
+      \ thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md), [dimension door](3-Mechanics/CLI/spells/dimension-door-xphb.md),\
+      \ [hold monster](3-Mechanics/CLI/spells/hold-monster-xphb.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "When a creature the witchkite can see moves within 10 feet of it, the\
@@ -98,6 +99,6 @@ While many dragons of Eldraine hoard wealth and material goods, witchkites prefe
     "name": "Retribution"
 "source":
   - "MCV4EC"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/witchkite-mcv4ec.webp"
+"image": "file://bestiary/tokens/MCV4EC/Witchkite.webp"
 ```
 ^statblock

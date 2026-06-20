@@ -12,6 +12,8 @@ aliases:
 
 **Ignoble Request**
 
+`dice: [](ignoble-bonds-ignoble-request-vrgr.md#^ignoble-request)`
+
 | dice: d6 | Request |
 |----------|---------|
 | 1 | Manufacture a business or social opportunity for the target's confidant, leaving the target isolated. |

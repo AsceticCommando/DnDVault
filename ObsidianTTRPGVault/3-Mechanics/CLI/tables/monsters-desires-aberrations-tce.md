@@ -12,6 +12,8 @@ aliases:
 
 **Aberrations**
 
+`dice: [](monsters-desires-aberrations-tce.md#^aberrations)`
+
 | dice: d4 | Desired Offering |
 |----------|------------------|
 | 1 | The brain or other organs of a rare creature |

@@ -12,6 +12,8 @@ aliases:
 
 **Journalistic Focus**
 
+`dice: [](types-of-reporting-journalistic-focus-erlw.md#^journalistic-focus)`
+
 | dice: d10 | Reporting |
 |-----------|-----------|
 | 1 | **Investigation**. Your job is to uncover the secrets that governments, dragonmarked houses, and other powerful people don't want the public to know. |

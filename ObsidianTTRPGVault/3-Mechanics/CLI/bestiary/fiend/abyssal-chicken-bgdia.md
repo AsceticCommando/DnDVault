@@ -12,12 +12,12 @@ statblock-link: "#^statblock"
 aliases:
 - "Abyssal Chicken"
 ---
-# [Abyssal Chicken](3-Mechanics\CLI\bestiary\fiend/abyssal-chicken-bgdia.md)
+# [Abyssal Chicken](3-Mechanics/CLI/bestiary/fiend/abyssal-chicken-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 97*  
 
 Abyssal chickens are carnivorous, temperamental, tasty bottom-feeders native to the Abyss. They beat their leathery wings to scare predators and to help them run faster, and they taste like fatty chicken.
 
-With your permission, a character who casts the [find familiar](3-Mechanics/CLI/spells/find-familiar.md) spell can henceforth choose to conjure an abyssal chicken instead of a raven.
+With your permission, a character who casts the [find familiar](3-Mechanics/CLI/spells/find-familiar-xphb.md) spell can henceforth choose to conjure an abyssal chicken instead of a raven.
 
 ```statblock
 "name": "Abyssal Chicken (BGDIA)"
@@ -61,6 +61,6 @@ With your permission, a character who casts the [find familiar](3-Mechanics/CLI/
     "name": "Claws"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/abyssal-chicken-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Abyssal%20Chicken.webp"
 ```
 ^statblock

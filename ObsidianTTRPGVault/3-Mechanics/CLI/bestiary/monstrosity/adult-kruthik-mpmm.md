@@ -15,7 +15,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Adult Kruthik"
 ---
-# [Adult Kruthik](3-Mechanics\CLI\bestiary\monstrosity/adult-kruthik-mpmm.md)
+# [Adult Kruthik](3-Mechanics/CLI/bestiary/monstrosity/adult-kruthik-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 169, Mordenkainen's Tome of Foes p. 212*  
 
 It takes six months of steady eating for a [young kruthik](3-Mechanics/CLI/bestiary/monstrosity/young-kruthik-mpmm.md) to reach adult size. The natural life span of an adult kruthik is roughly seven years.
@@ -87,7 +87,7 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/adult-kruthik-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Adult%20Kruthik.webp"
 ```
 ^statblock
 

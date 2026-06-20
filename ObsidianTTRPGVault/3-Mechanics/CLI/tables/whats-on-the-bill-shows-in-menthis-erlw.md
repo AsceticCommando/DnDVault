@@ -12,6 +12,8 @@ aliases:
 
 **Shows in Menthis**
 
+`dice: [](whats-on-the-bill-shows-in-menthis-erlw.md#^shows-in-menthis)`
+
 | dice: d8 | Event |
 |----------|-------|
 | 1 | **Tira's Tears**. A speculative drama about the founder of the Church of the Silver Flame. (Grand Stage, Upper Menthis) |

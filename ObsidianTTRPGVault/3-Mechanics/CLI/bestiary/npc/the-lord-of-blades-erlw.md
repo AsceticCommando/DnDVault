@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "The Lord of Blades"
 ---
-# [The Lord of Blades](3-Mechanics\CLI\bestiary\npc/the-lord-of-blades-erlw.md)
+# [The Lord of Blades](3-Mechanics/CLI/bestiary/npc/the-lord-of-blades-erlw.md)
 *Source: Eberron: Rising from the Last War p. 300*  
 
 The Lord of Blades is a warforged warlord who has broken all ties with his former masters. He has established a nation for his people deep in the Mournland, centered in a great fortress where warforged from all over Khorvaire can come and feel a sense of belonging. No one knows what the Lord of Blades plans for his followers, but many fear that he intends to build a legion of warforged zealots, primed to march from the Mournland to unleash destruction on their former masters.
@@ -66,19 +66,20 @@ The Lord of Blades doesn't require air, food, drink, or sleep.
   - "desc": "The Lord of Blades is a 20th-level spellcaster. His spellcasting ability\
       \ is Intelligence (spell save DC 18, +10 to hit with spell attacks). He has\
       \ the following artificer spells prepared:\n\n**Cantrips (at will):** [fire\
-      \ bolt](3-Mechanics/CLI/spells/fire-bolt.md) (see \"Actions\" below), [mage\
-      \ hand](3-Mechanics/CLI/spells/mage-hand.md), [mending](3-Mechanics/CLI/spells/mending.md),\
-      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md)\n\n**1st level\
-      \ (4 slots):** [expeditious retreat](3-Mechanics/CLI/spells/expeditious-retreat.md),\
-      \ [sanctuary](3-Mechanics/CLI/spells/sanctuary.md), [thunderwave](3-Mechanics/CLI/spells/thunderwave.md)\n\
-      \n**2nd level (3 slots):** [blur](3-Mechanics/CLI/spells/blur.md), [heat metal](3-Mechanics/CLI/spells/heat-metal.md),\
-      \ [scorching ray](3-Mechanics/CLI/spells/scorching-ray.md), [see invisibility](3-Mechanics/CLI/spells/see-invisibility.md)\n\
-      \n**3rd level (3 slots):** [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md),\
-      \ [fly](3-Mechanics/CLI/spells/fly.md), [haste](3-Mechanics/CLI/spells/haste.md)\n\
-      \n**4th level (3 slots):** [freedom of movement](3-Mechanics/CLI/spells/freedom-of-movement.md),\
-      \ [Mordenkainen's faithful hound](3-Mechanics/CLI/spells/mordenkainens-faithful-hound.md)\n\
-      \n**5th level (2 slots):** [animate objects](3-Mechanics/CLI/spells/animate-objects.md),\
-      \ [wall of force](3-Mechanics/CLI/spells/wall-of-force.md)"
+      \ bolt](3-Mechanics/CLI/spells/fire-bolt-xphb.md) (see \"Actions\" below), [mage\
+      \ hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [mending](3-Mechanics/CLI/spells/mending-xphb.md),\
+      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n**1st\
+      \ level (4 slots):** [expeditious retreat](3-Mechanics/CLI/spells/expeditious-retreat-xphb.md),\
+      \ [sanctuary](3-Mechanics/CLI/spells/sanctuary-xphb.md), [thunderwave](3-Mechanics/CLI/spells/thunderwave-xphb.md)\n\
+      \n**2nd level (3 slots):** [blur](3-Mechanics/CLI/spells/blur-xphb.md), [heat\
+      \ metal](3-Mechanics/CLI/spells/heat-metal-xphb.md), [scorching ray](3-Mechanics/CLI/spells/scorching-ray-xphb.md),\
+      \ [see invisibility](3-Mechanics/CLI/spells/see-invisibility-xphb.md)\n\n**3rd\
+      \ level (3 slots):** [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
+      \ [fly](3-Mechanics/CLI/spells/fly-xphb.md), [haste](3-Mechanics/CLI/spells/haste-xphb.md)\n\
+      \n**4th level (3 slots):** [freedom of movement](3-Mechanics/CLI/spells/freedom-of-movement-xphb.md),\
+      \ [Mordenkainen's faithful hound](3-Mechanics/CLI/spells/mordenkainens-faithful-hound-xphb.md)\n\
+      \n**5th level (2 slots):** [animate objects](3-Mechanics/CLI/spells/animate-objects-xphb.md),\
+      \ [wall of force](3-Mechanics/CLI/spells/wall-of-force-xphb.md)"
     "name": "Spellcasting"
   - "desc": "Any critical hit against the Lord of Blades becomes a normal hit."
     "name": "Adamantine Plating"
@@ -126,6 +127,6 @@ The Lord of Blades doesn't require air, food, drink, or sleep.
     "name": "Blade Dash (Costs 3 Actions)"
 "source":
   - "ERLW"
-"image": "3-Mechanics/CLI/bestiary/npc/token/the-lord-of-blades-erlw.webp"
+"image": "file://bestiary/tokens/ERLW/The%20Lord%20of%20Blades.webp"
 ```
 ^statblock

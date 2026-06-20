@@ -12,6 +12,8 @@ aliases:
 
 **Emerald Dragon Art Objects**
 
+`dice: [](emerald-dragon-treasures-emerald-dragon-art-objects-ftd.md#^emerald-dragon-art-objects)`
+
 | dice: d10 | Object |
 |-----------|--------|
 | 1 | A traveling cloak worn by an elf apostate named Huwellah Starshine to the trial where she was convicted and executed |

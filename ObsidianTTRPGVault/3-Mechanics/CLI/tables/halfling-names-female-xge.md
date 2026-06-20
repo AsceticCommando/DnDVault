@@ -12,6 +12,8 @@ aliases:
 
 **Halfling Names – Female**
 
+`dice: [](halfling-names-female-xge.md#^halfling-names-female)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Alain |

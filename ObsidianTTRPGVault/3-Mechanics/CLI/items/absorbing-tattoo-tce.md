@@ -29,6 +29,8 @@ While the tattoo is on your skin, you have resistance to a type of damage associ
 
 **Absorbing Tattoo**
 
+`dice: [](absorbing-tattoo-tce.md#^absorbing-tattoo)`
+
 | dice: d10 | Color | Tattoo |
 |-----------|-------|--------|
 | 1 | Green | [Acid Absorbing Tattoo](3-Mechanics/CLI/items/acid-absorbing-tattoo-tce.md) |

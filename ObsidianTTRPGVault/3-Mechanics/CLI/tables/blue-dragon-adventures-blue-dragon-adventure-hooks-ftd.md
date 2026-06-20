@@ -12,6 +12,8 @@ aliases:
 
 **Blue Dragon Adventure Hooks**
 
+`dice: [](blue-dragon-adventures-blue-dragon-adventure-hooks-ftd.md#^blue-dragon-adventure-hooks)`
+
 | dice: d8 | Adventure Hook |
 |----------|----------------|
 | 1 | A blue dragon family demands tribute from desert communities in exchange for protection. |
@@ -21,5 +23,5 @@ aliases:
 | 5 | A blue dragon recently acquired trunks full of dress clothes and costumes and is abducting people to put on a fashion show. |
 | 6 | A pair of blue dragons is hiring adventurers to find their missing egg, which appears to have been stolen by another blue dragon related to them. |
 | 7 | Rock slides have closed a mountain pass, and the only other road through the area wends through the territory of a blue dragon notorious for playing illusory tricks on travelers. |
-| 8 | [Blue dragon wyrmlings](3-Mechanics/CLI/bestiary/dragon/blue-dragon-wyrmling.md) are playing deadly pranks on the people in their territory, and those people are afraid to ask the wyrmlings' parents to stop them. |
+| 8 | [Blue dragon wyrmlings](3-Mechanics/CLI/bestiary/dragon/blue-dragon-wyrmling-xmm.md) are playing deadly pranks on the people in their territory, and those people are afraid to ask the wyrmlings' parents to stop them. |
 ^blue-dragon-adventure-hooks

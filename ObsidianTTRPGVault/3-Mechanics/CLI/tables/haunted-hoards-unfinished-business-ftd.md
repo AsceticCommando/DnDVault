@@ -12,6 +12,8 @@ aliases:
 
 **Unfinished Business**
 
+`dice: [](haunted-hoards-unfinished-business-ftd.md#^unfinished-business)`
+
 | dice: d6 | Unfinished Business |
 |----------|---------------------|
 | 1 | Entrust the haunted item to the ghost's heir |

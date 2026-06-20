@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Jamna Gleamsilver"
 ---
-# [Jamna Gleamsilver](3-Mechanics\CLI\bestiary\npc/jamna-gleamsilver-hotdq.md)
+# [Jamna Gleamsilver](3-Mechanics/CLI/bestiary/npc/jamna-gleamsilver-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 91, Tyranny of Dragons p. 185*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "gnome"
 "alignment": "Neutral"
 "ac": !!int "15"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "22"
 "hit_dice": "4d6 + 8"
 "modifier": !!int "3"
@@ -51,7 +51,7 @@ aliases:
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+7"
 "gear":
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 14"
 "languages": "Common, Gnomish, Goblin, Sylvan"
@@ -60,11 +60,11 @@ aliases:
   - "desc": "Jamna is a 4th-level spellcaster that uses Intelligence as her spellcasting\
       \ ability (spell save DC 12, +4 to hit with spell attacks). Jamna has the following\
       \ spells prepared from the wizard spell list.\n\n**Cantrips (at will):** [mage\
-      \ hand](3-Mechanics/CLI/spells/mage-hand.md), [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md),\
-      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md), [ray of frost](3-Mechanics/CLI/spells/ray-of-frost.md)\n\
-      \n**1st level (3 slots):** [charm person](3-Mechanics/CLI/spells/charm-person.md),\
-      \ [color spray](3-Mechanics/CLI/spells/color-spray.md), [disguise self](3-Mechanics/CLI/spells/disguise-self.md),\
-      \ [longstrider](3-Mechanics/CLI/spells/longstrider.md)"
+      \ hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md),\
+      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md), [ray\
+      \ of frost](3-Mechanics/CLI/spells/ray-of-frost-xphb.md)\n\n**1st level (3 slots):**\
+      \ [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md), [color spray](3-Mechanics/CLI/spells/color-spray-xphb.md),\
+      \ [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md), [longstrider](3-Mechanics/CLI/spells/longstrider-xphb.md)"
     "name": "Spellcasting"
   - "desc": "Jamna can take a bonus action to take the [Dash](3-Mechanics/CLI/rules/actions.md#Dash),\
       \ [Disengage](3-Mechanics/CLI/rules/actions.md#Disengage), or [Hide](3-Mechanics/CLI/rules/actions.md#Hide)\
@@ -83,6 +83,6 @@ aliases:
 "source":
   - "HotDQ"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/npc/token/jamna-gleamsilver-hotdq.webp"
+"image": "file://bestiary/tokens/HotDQ/Jamna%20Gleamsilver.webp"
 ```
 ^statblock

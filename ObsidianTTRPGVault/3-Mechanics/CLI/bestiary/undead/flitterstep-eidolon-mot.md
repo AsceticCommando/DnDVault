@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Flitterstep Eidolon"
 ---
-# [Flitterstep Eidolon](3-Mechanics\CLI\bestiary\undead/flitterstep-eidolon-mot.md)
+# [Flitterstep Eidolon](3-Mechanics/CLI/bestiary/undead/flitterstep-eidolon-mot.md)
 *Source: Mythic Odysseys of Theros p. 222*  
 
 When a mortal soul traumatically sacrifices its identity in order to escape the Underworld as a Returned, its identity manifests as a spirit-like eidolon. While eidolons possess many of the skills and details related to their past lives, they're disconnected from those experiences, choosing to wander the world or brood in haunts they're drawn to in death. They care nothing for morbid reunions with their lost bodies or Returned remnants.
@@ -79,6 +79,6 @@ Of the various types of eidolons, flitterstep eidolons are the most common and w
     "name": "Flitterstep (Recharge 5-6)"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/undead/token/flitterstep-eidolon-mot.webp"
+"image": "file://bestiary/tokens/MOT/Flitterstep%20Eidolon.webp"
 ```
 ^statblock

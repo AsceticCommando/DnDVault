@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Clockwork Mule"
 ---
-# [Clockwork Mule](3-Mechanics\CLI\bestiary\construct/clockwork-mule-skt.md)
+# [Clockwork Mule](3-Mechanics/CLI/bestiary/construct/clockwork-mule-skt.md)
 *Source: Storm King's Thunder p. 162*  
 
 ```statblock
@@ -56,6 +56,6 @@ aliases:
     "name": "Hooves"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/construct/token/clockwork-mule-skt.webp"
+"image": "file://bestiary/tokens/SKT/Clockwork%20Mule.webp"
 ```
 ^statblock

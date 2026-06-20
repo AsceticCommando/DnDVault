@@ -12,6 +12,8 @@ aliases:
 
 **Sharn Watch Races**
 
+`dice: [](sharn-watch-races-erlw.md#^sharn-watch-races)`
+
 | dice: d20 | Race |
 |-----------|------|
 | 1 | Changeling |

@@ -4,14 +4,15 @@ cssclasses:
 - json5e-spell
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/spell/class/bard/magical-secrets
+- ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/druid
 - ttrpg-cli/spell/class/sorcerer
 - ttrpg-cli/spell/class/wizard
+- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
 - ttrpg-cli/spell/level/5th-level
 - ttrpg-cli/spell/school/transmutation
 classes:
-- Bard (Magical Secrets)
+- Bard
 - Druid
 - Sorcerer
 - Wizard
@@ -43,6 +44,6 @@ You cause a sustained updraft within the cube, rising upward from the cube's bot
 
 ## Summary
 
-**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Xanathar's Guide to Everything p. 152*
+*Source: Xanathar's Guide to Everything p. 152, Elemental Evil Player's Companion p. 16*

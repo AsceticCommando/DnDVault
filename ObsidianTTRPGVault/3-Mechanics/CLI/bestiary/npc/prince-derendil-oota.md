@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Prince Derendil"
 ---
-# [Prince Derendil](3-Mechanics\CLI\bestiary\npc/prince-derendil-oota.md)
+# [Prince Derendil](3-Mechanics/CLI/bestiary/npc/prince-derendil-oota.md)
 *Source: Out of the Abyss p. 6*  
 
 ```statblock
@@ -56,6 +56,6 @@ aliases:
     "name": "Claw"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/prince-derendil-oota.webp"
+"image": "file://bestiary/tokens/OotA/Prince%20Derendil.webp"
 ```
 ^statblock

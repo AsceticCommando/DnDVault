@@ -12,6 +12,8 @@ aliases:
 
 **Race**
 
+`dice: [](supplemental-tables-race-xge.md#^race)`
+
 | dice: d100 | Race |
 |------------|------|
 | 1-40 | Human |

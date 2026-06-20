@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Lesser Death Dragon"
 ---
-# [Lesser Death Dragon](3-Mechanics\CLI\bestiary\undead/lesser-death-dragon-dsotdq.md)
+# [Lesser Death Dragon](3-Mechanics/CLI/bestiary/undead/lesser-death-dragon-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 195*  
 
 Most death dragons are pale imitations of their former selves. They remember flashes and echoes, and sometimes things or creatures they encounter painfully remind them of what they once had. These fleeting moments of lucidity quickly burn away in rage and anguish, driving the dragons to destroy the would-be memento.
@@ -84,6 +84,6 @@ A death dragon's bones burn with violet Cataclysmic fire, which it can unleash i
     "name": "Cataclysmic Breath (Recharge 5-6)"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/undead/token/lesser-death-dragon-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Lesser%20Death%20Dragon.webp"
 ```
 ^statblock

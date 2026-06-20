@@ -12,6 +12,8 @@ aliases:
 
 **Beholder Ideals**
 
+`dice: [](roleplaying-a-beholder-beholder-ideals-vgm.md#^beholder-ideals)`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Greed. My trophies are proof of my success. (Evil) |

@@ -12,6 +12,8 @@ aliases:
 
 **Agency Contacts**
 
+`dice: [](espionage-agency-contacts-agency-contacts-erlw.md#^agency-contacts)`
+
 | dice: d8 | Contact |
 |----------|---------|
 | 1 | A condescending career desk agent who views you as expendable tools |

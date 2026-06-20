@@ -12,6 +12,8 @@ aliases:
 
 **Giant Personality Traits**
 
+`dice: [](roleplaying-a-giant-giant-personality-traits-vgm.md#^giant-personality-traits)`
+
 | dice: d8 | Personality Trait |
 |----------|-------------------|
 | 1 | The brutality of my peers is a relic of a bygone era that should be stamped out. I seek a more enlightened path. |

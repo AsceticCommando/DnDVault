@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Jade Giant Spider"
 ---
-# [Jade Giant Spider](3-Mechanics\CLI\bestiary\construct/jade-giant-spider-oota.md)
+# [Jade Giant Spider](3-Mechanics/CLI/bestiary/construct/jade-giant-spider-oota.md)
 *Source: Out of the Abyss p. 201*  
 
 ```statblock
@@ -66,6 +66,6 @@ aliases:
     "name": "Slow (Recharge 5-6)"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/construct/token/jade-giant-spider-oota.webp"
+"image": "file://bestiary/tokens/OotA/Jade%20Giant%20Spider.webp"
 ```
 ^statblock

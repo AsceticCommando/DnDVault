@@ -12,6 +12,8 @@ aliases:
 
 **Daanvi Manifest Zone Features**
 
+`dice: [](daanvi-the-perfect-order-daanvi-manifest-zone-features-erlw.md#^daanvi-manifest-zone-features)`
+
 | dice: d4 | Feature |
 |----------|---------|
 | 1 | People who live in the manifest zone are inclined to follow duly enacted regulations without question, regardless of moral implications. |

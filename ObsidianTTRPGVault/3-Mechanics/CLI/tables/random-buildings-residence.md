@@ -12,6 +12,8 @@ aliases:
 
 **Residence**
 
+`dice: [](random-buildings-residence.md#^residence)`
+
 | dice: d20 | Type |
 |-----------|------|
 | 1-2 | Abandoned squat |

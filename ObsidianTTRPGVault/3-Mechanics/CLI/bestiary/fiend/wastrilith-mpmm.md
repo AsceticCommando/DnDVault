@@ -16,7 +16,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Wastrilith"
 ---
-# [Wastrilith](3-Mechanics\CLI\bestiary\fiend/wastrilith-mpmm.md)
+# [Wastrilith](3-Mechanics/CLI/bestiary/fiend/wastrilith-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 258, Mordenkainen's Tome of Foes p. 139*  
 
 Found in the waters of the Abyss and other bodies of water contaminated by that plane's fell influence, wastriliths establish themselves as lords of the deep and rule their dominions with cruelty.
@@ -98,7 +98,7 @@ Creatures that ingest water corrupted by a wastrilith risk their very souls. Tho
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/wastrilith-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Wastrilith.webp"
 ```
 ^statblock
 

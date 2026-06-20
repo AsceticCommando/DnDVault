@@ -4,14 +4,15 @@ cssclasses:
 - json5e-spell
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/spell/class/bard/magical-secrets
+- ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/sorcerer
 - ttrpg-cli/spell/class/wizard
+- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
 - ttrpg-cli/spell/level/8th-level
 - ttrpg-cli/spell/school/necromancy
 - ttrpg-cli/spell/subclass/arcana-domain
 classes:
-- Bard (Magical Secrets)
+- Bard
 - Cleric (Arcana Domain)
 - Sorcerer
 - Wizard
@@ -27,10 +28,10 @@ aliases:
 - **Components:** V, S, M (a bit of sponge)
 - **Duration:** Instantaneous
 
-You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each creature in that area must make a Constitution saving throw. Constructs and undead aren't affected, and plants and water elementals make this saving throw with disadvantage. A creature takes `12d8` necrotic damage on a failed save, or half as much damage on a successful one.
+You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each creature in that area must make a Constitution saving throw. Constructs and undead aren't affected, and plants and water elementals make this saving throw with disadvantage. A creature takes `dice:12d8|noform|noparens|avg` (`12d8`) necrotic damage on a failed save, or half as much damage on a successful one.
 
 Nonmagical plants in the area that aren't creatures, such as trees and shrubs, wither and die instantly.
 
-**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](3-Mechanics/CLI/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG"); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](3-Mechanics/CLI/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Xanathar's Guide to Everything p. 150*
+*Source: Xanathar's Guide to Everything p. 150, Elemental Evil Player's Companion p. 15*

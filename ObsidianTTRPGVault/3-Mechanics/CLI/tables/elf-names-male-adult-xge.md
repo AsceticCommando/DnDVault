@@ -12,6 +12,8 @@ aliases:
 
 **Elf Names – Male Adult**
 
+`dice: [](elf-names-male-adult-xge.md#^elf-names-male-adult)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Adran |

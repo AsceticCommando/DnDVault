@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Chief Kartha-Kaya"
 ---
-# [Chief Kartha-Kaya](3-Mechanics\CLI\bestiary\npc/chief-kartha-kaya-skt.md)
+# [Chief Kartha-Kaya](3-Mechanics/CLI/bestiary/npc/chief-kartha-kaya-skt.md)
 *Source: Storm King's Thunder p. 173*  
 
 ```statblock
@@ -21,7 +21,7 @@ aliases:
 "type": "monstrosity"
 "alignment": "Neutral Evil"
 "ac": !!int "11"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "70"
 "hit_dice": "8d10 + 16"
 "modifier": !!int "0"
@@ -39,8 +39,8 @@ aliases:
   - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+4"
 "gear":
-  - "[greatsword](3-Mechanics/CLI/items/greatsword.md)"
-  - "[longbow](3-Mechanics/CLI/items/longbow.md)"
+  - "[greatsword](3-Mechanics/CLI/items/greatsword-xphb.md)"
+  - "[longbow](3-Mechanics/CLI/items/longbow-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Common, Yikaria"
 "cr": "4"
@@ -57,7 +57,7 @@ aliases:
       \ except the target's knowledge, class features, feats, and proficiencies.\n\
       \nThe possession lasts until either the body drops to 0 hit points, Chief Kartha-Kaya\
       \ ends the possession as an action, or Chief Kartha-Kaya is forced out of the\
-      \ body by an effect such as the [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good.md)\
+      \ body by an effect such as the [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md)\
       \ spell. When the possession ends, Chief Kartha-Kaya reappears in an unoccupied\
       \ space within 5 feet of the body and is [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)\
       \ until the end of its next turn. If the host body dies while it is possessed\
@@ -76,6 +76,6 @@ aliases:
     "name": "Longbow"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/chief-kartha-kaya-skt.webp"
+"image": "file://bestiary/tokens/SKT/Chief%20Kartha-Kaya.webp"
 ```
 ^statblock

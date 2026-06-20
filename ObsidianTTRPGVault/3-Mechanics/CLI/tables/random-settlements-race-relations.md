@@ -12,6 +12,8 @@ aliases:
 
 **Race Relations**
 
+`dice: [](random-settlements-race-relations.md#^race-relations)`
+
 | dice: d20 | Result |
 |-----------|--------|
 | 1-10 | Harmony |

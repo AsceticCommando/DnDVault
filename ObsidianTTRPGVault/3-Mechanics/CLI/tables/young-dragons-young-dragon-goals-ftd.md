@@ -12,6 +12,8 @@ aliases:
 
 **Young Dragon Goals**
 
+`dice: [](young-dragons-young-dragon-goals-ftd.md#^young-dragon-goals)`
+
 | dice: d6 | Goal |
 |----------|------|
 | 1 | Establish a lair and develop the land around it to maximize safety and good hunting |

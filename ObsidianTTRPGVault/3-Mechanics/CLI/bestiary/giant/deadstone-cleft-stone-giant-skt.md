@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Deadstone Cleft Stone Giant"
 ---
-# [Deadstone Cleft Stone Giant](3-Mechanics\CLI\bestiary\giant/deadstone-cleft-stone-giant-skt.md)
+# [Deadstone Cleft Stone Giant](3-Mechanics/CLI/bestiary/giant/deadstone-cleft-stone-giant-skt.md)
 *Source: Storm King's Thunder p. 146*  
 
 ```statblock
@@ -43,7 +43,7 @@ aliases:
   - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
 "gear":
-  - "[greatclub](3-Mechanics/CLI/items/greatclub.md)"
+  - "[greatclub](3-Mechanics/CLI/items/greatclub-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., tremorsense\
   \ 30 ft., passive Perception 14"
 "languages": "Giant"
@@ -51,8 +51,9 @@ aliases:
 "traits":
   - "desc": "The giant's innate spellcasting ability is Wisdom. It can innately cast\
       \ the following spells, requiring no material components:\n\n**3/day each:**\
-      \ [meld into stone](3-Mechanics/CLI/spells/meld-into-stone.md), [stone shape](3-Mechanics/CLI/spells/stone-shape.md)\n\
-      \n**1/day each:** [stoneskin](3-Mechanics/CLI/spells/stoneskin.md), [time stop](3-Mechanics/CLI/spells/time-stop.md)"
+      \ [meld into stone](3-Mechanics/CLI/spells/meld-into-stone-xphb.md), [stone\
+      \ shape](3-Mechanics/CLI/spells/stone-shape-xphb.md)\n\n**1/day each:** [stoneskin](3-Mechanics/CLI/spells/stoneskin-xphb.md),\
+      \ [time stop](3-Mechanics/CLI/spells/time-stop-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "The giant meditates for 1 hour, during which time it can do nothing else.\
       \ At the end of the hour, provided the giant's meditation has been uninterrupted,\
@@ -81,6 +82,6 @@ aliases:
     "name": "Rock Catching"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/giant/token/deadstone-cleft-stone-giant-skt.webp"
+"image": "file://bestiary/tokens/SKT/Deadstone%20Cleft%20Stone%20Giant.webp"
 ```
 ^statblock

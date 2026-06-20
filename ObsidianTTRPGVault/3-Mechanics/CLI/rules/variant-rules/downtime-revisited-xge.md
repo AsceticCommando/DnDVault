@@ -34,6 +34,8 @@ The best rivals have a connection with their adversaries on a personal level. Fi
 
 **Rival**
 
+`dice: [](downtime-revisited-xge.md#^rival)`
+
 | dice: d20 | Rival |
 |-----------|-------|
 | 1 | Tax collector who is convinced the characters are dodging fees |

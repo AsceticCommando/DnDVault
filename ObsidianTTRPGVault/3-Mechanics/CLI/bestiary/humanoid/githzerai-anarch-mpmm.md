@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Githzerai Anarch"
 ---
-# [Githzerai Anarch](3-Mechanics\CLI\bestiary\humanoid/githzerai-anarch-mpmm.md)
+# [Githzerai Anarch](3-Mechanics/CLI/bestiary/humanoid/githzerai-anarch-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 142, Mordenkainen's Tome of Foes p. 207*  
 
 Anarchs are githzerai sages and mystics who lead communities and maintain the adamantine citadels that serve as strong points in Limbo and on other planes. They have formidable psionic capabilities and are able to manipulate the unformed substance of their adopted plane with a thought.
@@ -75,11 +75,11 @@ Githzerai are otherworldly folk with psionic powers who share an ancestral link 
     "name": "Unarmed Strike"
   - "desc": "The githzerai casts one of the following spells, requiring no spell components\
       \ and using Wisdom as the spellcasting ability (spell save DC 18):\n\n**At will:**\
-      \ [mage hand](3-Mechanics/CLI/spells/mage-hand.md) (the hand is invisible)\n\
-      \n**3/day each:** [see invisibility](3-Mechanics/CLI/spells/see-invisibility.md),\
-      \ [telekinesis](3-Mechanics/CLI/spells/telekinesis.md)\n\n**1/day each:** [globe\
-      \ of invulnerability](3-Mechanics/CLI/spells/globe-of-invulnerability.md), [plane\
-      \ shift](3-Mechanics/CLI/spells/plane-shift.md), [wall of force](3-Mechanics/CLI/spells/wall-of-force.md)"
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md) (the hand is invisible)\n\
+      \n**3/day each:** [see invisibility](3-Mechanics/CLI/spells/see-invisibility-xphb.md),\
+      \ [telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md)\n\n**1/day each:**\
+      \ [globe of invulnerability](3-Mechanics/CLI/spells/globe-of-invulnerability-xphb.md),\
+      \ [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md), [wall of force](3-Mechanics/CLI/spells/wall-of-force-xphb.md)"
     "name": "Spellcasting (Psionics)"
 "lair_actions":
   - "desc": "On initiative count 20 (losing initiative ties), the anarch can take\
@@ -121,7 +121,7 @@ Githzerai are otherworldly folk with psionic powers who share an ancestral link 
   - "desc": "The githzerai teleports, along with any equipment it is wearing or carrying,\
       \ to an unoccupied space it can see within 30 feet of it."
     "name": "Teleport"
-  - "desc": "The githzerai casts the [reverse gravity](3-Mechanics/CLI/spells/reverse-gravity.md)\
+  - "desc": "The githzerai casts the [reverse gravity](3-Mechanics/CLI/spells/reverse-gravity-xphb.md)\
       \ spell, using Wisdom as the spellcasting ability. The spell has the normal\
       \ effect, except that the githzerai can orient the area in any direction and\
       \ creatures and objects fall toward the end of the area."
@@ -129,6 +129,6 @@ Githzerai are otherworldly folk with psionic powers who share an ancestral link 
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/githzerai-anarch-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Githzerai%20Anarch.webp"
 ```
 ^statblock

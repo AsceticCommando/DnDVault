@@ -12,6 +12,8 @@ aliases:
 
 **Signature Case**
 
+`dice: [](signature-case-erlw.md#^signature-case)`
+
 | dice: d6 | Case |
 |----------|------|
 | 1 | **Case of the Century.** You uncovered key evidence in a sensational case. You made headlines, but some parties involved carry grudges against you. |

@@ -12,6 +12,8 @@ aliases:
 
 **Type 2 Malison: Arms**
 
+`dice: [](physical-variations-type-2-malison-arms-vgm.md#^type-2-malison-arms)`
+
 | dice: d10 | Malison Type 2 Arm* |
 |-----------|---------------------|
 | 1-4 | Cluster of small snakes |

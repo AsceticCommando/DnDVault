@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Grung (Orange)"
 ---
-# [Grung (Orange)](3-Mechanics\CLI\bestiary\humanoid/grung-orange-mpmm.md)
+# [Grung (Orange)](3-Mechanics/CLI/bestiary/humanoid/grung-orange-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 149, Volo's Guide to Monsters p. 156*  
 
 ```statblock
@@ -47,7 +47,7 @@ aliases:
 "damage_immunities": "poison"
 "condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Grung"
 "cr": "1/4"

@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Maw Demon"
 ---
-# [Maw Demon](3-Mechanics\CLI\bestiary\fiend/maw-demon-mpmm.md)
+# [Maw Demon](3-Mechanics/CLI/bestiary/fiend/maw-demon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 176, Volo's Guide to Monsters p. 137*  
 
 > [!quote] A quote from Tasha  
@@ -27,6 +27,8 @@ Maw demons appear among gnoll war bands that worship Yeenoghu, usually summoned 
 Because maw demons are indiscriminate in their hunger, their stomachs contain all manner of oddities in addition to the remains of their recent prey. You may choose one or more items appropriate for your campaign for a maw demon to contain, or roll on the Maw Demon's Stomach Contents table.
 
 **Maw Demon's Stomach Contents**
+
+`dice: [](maw-demon-mpmm.md#^maw-demons-stomach-contents)`
 
 | dice: d8 | Stomach Contents |
 |----------|------------------|
@@ -78,7 +80,7 @@ Because maw demons are indiscriminate in their hunger, their stomachs contain al
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/maw-demon-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Maw%20Demon.webp"
 ```
 ^statblock
 

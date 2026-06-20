@@ -11,4 +11,4 @@ aliases:
 
 ## 5th Level
 
-- [Contact Other Plane](3-Mechanics/CLI/spells/contact-other-plane.md "PHB")
+- [Contact Other Plane](3-Mechanics/CLI/spells/contact-other-plane-xphb.md "XPHB")

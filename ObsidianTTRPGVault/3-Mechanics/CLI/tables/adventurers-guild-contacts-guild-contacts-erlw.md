@@ -12,6 +12,8 @@ aliases:
 
 **Guild Contacts**
 
+`dice: [](adventurers-guild-contacts-guild-contacts-erlw.md#^guild-contacts)`
+
 | dice: d10 | Contact |
 |-----------|---------|
 | 1 | The charismatic leader of the guild, who doesn't actually do very much except inspire and encourage members |

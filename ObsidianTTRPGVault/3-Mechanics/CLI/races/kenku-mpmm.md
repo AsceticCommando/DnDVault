@@ -10,7 +10,7 @@ aliases:
 ---
 # Kenku
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 24*  
-![](3-Mechanics/CLI/races/img/kenku.webp#right)
+![](file://races/MPMM/Kenku.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Size**: Small or Medium
@@ -30,7 +30,7 @@ When you copy writing or craftwork produced by yourself or someone else, you hav
 
 Thanks to your supernaturally good memory, you have proficiency in two skills of your choice.
 
-Moreover, when you make an ability check using any skill in which you have proficiency, you can give yourself advantage on the check before rolling the `d20`. You can give yourself advantage in this way a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+Moreover, when you make an ability check using any skill in which you have proficiency, you can give yourself advantage on the check before rolling the `dice:d20|noform|noparens|avg` (`d20`). You can give yourself advantage in this way a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 ### Mimicry
 

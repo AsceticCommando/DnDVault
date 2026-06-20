@@ -22,7 +22,7 @@ The character must make a series of checks, with the DC for all the checks chose
 
 The chosen DC can be 10, 15, 20, or 25. Successful completion of the crime yields a number of gold pieces, as shown on the Loot Value table.
 
-To attempt a crime, the character makes three checks: Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)), Dexterity using [thieves' tools](3-Mechanics/CLI/items/thieves-tools.md), and the player's choice of Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)), Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)), or Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception)).
+To attempt a crime, the character makes three checks: Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)), Dexterity using [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md), and the player's choice of Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)), Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)), or Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception)).
 
 If none of the checks are successful, the character is caught and jailed. The character must pay a fine equal to the profit the crime would have earned and must spend one week in jail for each 25 gp of the fine.
 

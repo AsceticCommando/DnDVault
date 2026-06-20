@@ -11,12 +11,12 @@ aliases:
 
 ## Cantrip
 
-- [Thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy.md "PHB") as 2nd-level, at class level 3
+- [Thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md "XPHB") as cantrip
 
 ## 1st Level
 
-- [Burning Hands](3-Mechanics/CLI/spells/burning-hands.md "PHB") as 2nd-level, at class level 3
+- [Burning Hands](3-Mechanics/CLI/spells/burning-hands-xphb.md "XPHB") as 2nd-level, at class level 3
 
 ## 2nd Level
 
-- [Darkness](3-Mechanics/CLI/spells/darkness.md "PHB") as 2nd-level, at class level 3
+- [Darkness](3-Mechanics/CLI/spells/darkness-xphb.md "XPHB") at class level 5

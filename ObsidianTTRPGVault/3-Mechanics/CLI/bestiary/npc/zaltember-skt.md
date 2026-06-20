@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Zaltember"
 ---
-# [Zaltember](3-Mechanics\CLI\bestiary\npc/zaltember-skt.md)
+# [Zaltember](3-Mechanics/CLI/bestiary/npc/zaltember-skt.md)
 *Source: Storm King's Thunder p. 180*  
 
 ```statblock
@@ -21,7 +21,7 @@ aliases:
 "type": "giant"
 "alignment": "Lawful Evil"
 "ac": !!int "13"
-"ac_class": "[chain shirt](3-Mechanics/CLI/items/chain-shirt.md)"
+"ac_class": "[chain shirt](3-Mechanics/CLI/items/chain-shirt-xphb.md)"
 "hp": !!int "30"
 "hit_dice": "4d10 + 8"
 "modifier": !!int "0"
@@ -35,8 +35,8 @@ aliases:
 "speed": "30 ft."
 "damage_immunities": "fire"
 "gear":
-  - "[battleaxe](3-Mechanics/CLI/items/battleaxe.md)"
-  - "[javelin](3-Mechanics/CLI/items/javelin.md)"
+  - "[battleaxe](3-Mechanics/CLI/items/battleaxe-xphb.md)"
+  - "[javelin](3-Mechanics/CLI/items/javelin-xphb.md)"
 "senses": "passive Perception 10"
 "languages": "Common, Giant"
 "cr": "1"
@@ -50,6 +50,6 @@ aliases:
     "name": "Javelin"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/zaltember-skt.webp"
+"image": "file://bestiary/tokens/SKT/Zaltember.webp"
 ```
 ^statblock

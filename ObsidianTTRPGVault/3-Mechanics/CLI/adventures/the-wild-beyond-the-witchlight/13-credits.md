@@ -42,11 +42,11 @@ aliases:
         - **Senior Marketing Communications Manager.** Greg Tito    
         - **Community Manager.** Brandy Camel    
 
-![](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/credits.webp#center)
+![](file://adventure/WBtW/credits.webp#center)
 
 > [!gallery]
-> ![On the Cover: The Witchlig...](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/credits2.webp#gallery "On the Cover: The Witchlight Carnival has come to town! On the back cover, a displacer beast finds 8-year-old Tyler Jacobson and leads him back to the carnival, where he belongs.")
-> ![On the Alt-Cover: Hydro74 ...](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/credits3.webp#gallery "On the Alt-Cover: Hydro74 presents Star, a displacer beast kitten that loves adventuring in the Feywild. A wondrous magic item called the Witchlight vane graces the back cover.")
+> ![On the Cover: The Witchlight Carnival has come to town! On the back cover, a displacer beast finds 8-year-old Tyler Jacobson and leads him back to the carnival, where he belongs.](file://adventure/WBtW/credits2.webp#gallery)
+> ![On the Alt-Cover: Hydro74 presents Star, a displacer beast kitten that loves adventuring in the Feywild. A wondrous magic item called the Witchlight vane graces the back cover.](file://adventure/WBtW/credits3.webp#gallery)
 
 > [!note]
 > Disclaimer: Dare to take a step into the dark backward and abysm of time? Know that Wizards of the Coast cannot be held responsible for those who enter the Feywild of their own accord. In the faerie realm, time gets twisted in knots. It might be months or years before you return to the real world. Enjoy the adventure while it lasts, and don't be surprised if you encounter a few friends and foes from old editions lurking among the fey.

@@ -11,20 +11,20 @@ aliases:
 
 ## 1st Level
 
-- [Protection from Evil and Good](3-Mechanics/CLI/spells/protection-from-evil-and-good.md "PHB") at class level 13
+- [Protection from Evil and Good](3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md "XPHB") at class level 3
 
 ## 2nd Level
 
-- [Zone of Truth](3-Mechanics/CLI/spells/zone-of-truth.md "PHB") at class level 13
+- [Zone of Truth](3-Mechanics/CLI/spells/zone-of-truth-xphb.md "XPHB") at class level 5
 
 ## 3rd Level
 
-- [Magic Circle](3-Mechanics/CLI/spells/magic-circle.md "PHB") at class level 13
+- [Magic Circle](3-Mechanics/CLI/spells/magic-circle-xphb.md "XPHB") at class level 9
 
 ## 4th Level
 
-- [Banishment](3-Mechanics/CLI/spells/banishment.md "PHB") at class level 13
+- [Banishment](3-Mechanics/CLI/spells/banishment-xphb.md "XPHB") at class level 13
 
 ## 5th Level
 
-- [Hold Monster](3-Mechanics/CLI/spells/hold-monster.md "PHB") at class level 13
+- [Hold Monster](3-Mechanics/CLI/spells/hold-monster-xphb.md "XPHB") at class level 17

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Edgin Darvis"
 ---
-# [Edgin Darvis](3-Mechanics\CLI\bestiary\npc/edgin-darvis-hat-tg.md)
+# [Edgin Darvis](3-Mechanics/CLI/bestiary/npc/edgin-darvis-hat-tg.md)
 *Source: Honor Among Thieves: Thieves' Gallery*  
 
 Edgin Darvis has a talent for improvisation and strategy. He's a musician and tale-teller who relies on charisma first—rather than magic or muscle—to escape trouble. Once a member of the Harpers, a spy organization dedicated to protecting Faerûn's common folk, Edgin has forsworn his oath and turned to thievery to support his family. Edgin's strong moral compass compels him to steal only from people he believes deserve to lose both coin and face.
@@ -26,7 +26,7 @@ Edgin's confidence and rakish demeanor make him a natural leader. With carefully
 "subtype": "bard"
 "alignment": "Chaotic Good"
 "ac": !!int "14"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "110"
 "hit_dice": "17d8 + 34"
 "modifier": !!int "3"
@@ -51,7 +51,7 @@ Edgin's confidence and rakish demeanor make him a natural leader. With carefully
   - "name": "[Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)"
     "desc": "+6"
 "gear":
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "passive Perception 13"
 "languages": "Common"
 "cr": "5"
@@ -70,9 +70,10 @@ Edgin's confidence and rakish demeanor make him a natural leader. With carefully
       \ before the start of Edgin's next turn."
     "name": "Disorienting Words"
   - "desc": "Edgin casts one of the following spells, using Charisma as the spellcasting\
-      \ ability (spell save DC 15):\n\n**At will:** [friends](3-Mechanics/CLI/spells/friends.md),\
-      \ [message](3-Mechanics/CLI/spells/message.md)\n\n**3/day each:** [charm person](3-Mechanics/CLI/spells/charm-person.md),\
-      \ [disguise self](3-Mechanics/CLI/spells/disguise-self.md)\n\n**1/day:** [suggestion](3-Mechanics/CLI/spells/suggestion.md)"
+      \ ability (spell save DC 15):\n\n**At will:** [friends](3-Mechanics/CLI/spells/friends-xphb.md),\
+      \ [message](3-Mechanics/CLI/spells/message-xphb.md)\n\n**3/day each:** [charm\
+      \ person](3-Mechanics/CLI/spells/charm-person-xphb.md), [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md)\n\
+      \n**1/day:** [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "When a creature Edgin can see within 60 feet of himself fails an ability\
@@ -82,6 +83,6 @@ Edgin's confidence and rakish demeanor make him a natural leader. With carefully
     "name": "Inspiring Words (3/Day)"
 "source":
   - "HAT-TG"
-"image": "3-Mechanics/CLI/bestiary/npc/token/edgin-darvis-hat-tg.webp"
+"image": "file://bestiary/tokens/HAT-TG/Edgin%20Darvis.webp"
 ```
 ^statblock

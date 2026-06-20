@@ -12,6 +12,8 @@ aliases:
 
 **Horror Character Personality Traits**
 
+`dice: [](horror-characteristics-horror-character-personality-traits-vrgr.md#^horror-character-personality-traits)`
+
 | dice: d12 | Personality Trait |
 |-----------|-------------------|
 | 1 | I had an encounter that I believe gives me a special affinity with a supernatural creature or event. |

@@ -12,6 +12,8 @@ aliases:
 
 **Demonic Influence**
 
+`dice: [](creating-a-gnoll-war-band-demonic-influence-vgm.md#^demonic-influence)`
+
 | dice: d12 | Demonic Influence |
 |-----------|-------------------|
 | 1 | Food and drink spoil |

@@ -22,6 +22,8 @@ Demon ichor is sticky enough to adhere to most weapons. A creature in Avernus th
 
 **Flesh Warping**
 
+`dice: [](demon-ichor-bgdia.md#^flesh-warping)`
+
 | dice: d100 | Effect |
 |------------|--------|
 | 01–05 | The color of the target's hair, eyes, and skin becomes blue, red, yellow, or patterned. |

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Bavlorna Blightstraw"
 ---
-# [Bavlorna Blightstraw](3-Mechanics\CLI\bestiary\npc/bavlorna-blightstraw-wbtw.md)
+# [Bavlorna Blightstraw](3-Mechanics/CLI/bestiary/npc/bavlorna-blightstraw-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 216*  
 
 Younger than Skabatha and older than Endelyn, Bavlorna is called Slack-jawed Lorna because her wide mouth is prone to hang agape. Flies flit in and out of it. She is the hag of the present, the here and now, the moment to moment. Those desperate individuals who seek her out do so to find a remedy for a nagging problem or anxiety. Though she despises unannounced visitors, a tragic tale of woe and misery puts her in a bargaining mood. If these visitors enter into an agreement with Bavlorna, she'll use her powers to resolve their pressing problem in exchange for something of use to her.
@@ -87,10 +87,11 @@ Younger than Skabatha and older than Endelyn, Bavlorna is called Slack-jawed Lor
     "name": "Create Lornlings (Recharge 5-6)"
   - "desc": "Bavlorna casts one of the following spells, requiring no material components\
       \ and using Intelligence as the spellcasting ability (spell save DC 14):\n\n\
-      **At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic.md)\n\n**2/day\
-      \ each:** [create food and water](3-Mechanics/CLI/spells/create-food-and-water.md),\
-      \ [polymorph](3-Mechanics/CLI/spells/polymorph.md), [remove curse](3-Mechanics/CLI/spells/remove-curse.md)\n\
-      \n**1/day:** [plane shift](3-Mechanics/CLI/spells/plane-shift.md) (self only)"
+      **At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md)\n\n\
+      **2/day each:** [create food and water](3-Mechanics/CLI/spells/create-food-and-water-xphb.md),\
+      \ [polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md), [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md)\n\
+      \n**1/day:** [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md) (self\
+      \ only)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "Bavlorna swallows a Small or smaller creature she is grappling, ending\
@@ -106,6 +107,6 @@ Younger than Skabatha and older than Endelyn, Bavlorna is called Slack-jawed Lor
     "name": "Swallow"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/npc/token/bavlorna-blightstraw-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Bavlorna%20Blightstraw.webp"
 ```
 ^statblock

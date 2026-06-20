@@ -12,6 +12,8 @@ aliases:
 
 **Ancient Being Quests**
 
+`dice: [](ancient-being-quests-tce.md#^ancient-being-quests)`
+
 | dice: d6 | Quest |
 |----------|-------|
 | 1 | **Rescue**. A wayward agent went missing while gathering information or materials. You must discover their fate and recover them and their findings. |

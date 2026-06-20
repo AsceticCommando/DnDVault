@@ -12,6 +12,8 @@ aliases:
 
 **Door Type**
 
+`dice: [](doors-door-type.md#^door-type)`
+
 | dice: d20 | Door Type |
 |-----------|-----------|
 | 1-10 | Wooden |

@@ -15,7 +15,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Yuan-ti Nightmare Speaker"
 ---
-# [Yuan-ti Nightmare Speaker](3-Mechanics\CLI\bestiary\monstrosity/yuan-ti-nightmare-speaker-mpmm.md)
+# [Yuan-ti Nightmare Speaker](3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-nightmare-speaker-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 275, Volo's Guide to Monsters p. 205*  
 
 Nightmare speakers are yuan-ti malison priests who make a pact with the Dendar the Night Serpent to feed their deity the fears and nightmares of their victims in exchange for power in the mortal world. These priests receive nightmarish visions from Dendar that they interpret as prophecies, and they then use their magic and influence to make these visions come true.
@@ -52,7 +52,7 @@ Nightmare speakers revel in torturing others, keeping their victims in a constan
 "damage_immunities": "poison"
 "condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
 "gear":
-  - "[scimitar](3-Mechanics/CLI/items/scimitar.md)"
+  - "[scimitar](3-Mechanics/CLI/items/scimitar-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
   \ Perception 11"
 "languages": "Abyssal, Common, Draconic"
@@ -92,11 +92,11 @@ Nightmare speakers revel in torturing others, keeping their victims in a constan
     "name": "Invoke Nightmare (Recharges after a Short or Long Rest)"
   - "desc": "The yuan-ti casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 13):\n\
-      \n**At will:** [animal friendship](3-Mechanics/CLI/spells/animal-friendship.md)\
-      \ (snakes only), [mage hand](3-Mechanics/CLI/spells/mage-hand.md), [message](3-Mechanics/CLI/spells/message.md),\
-      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md)\n\n**3/day:**\
-      \ [suggestion](3-Mechanics/CLI/spells/suggestion.md)\n\n**2/day each:** [darkness](3-Mechanics/CLI/spells/darkness.md),\
-      \ [fear](3-Mechanics/CLI/spells/fear.md)"
+      \n**At will:** [animal friendship](3-Mechanics/CLI/spells/animal-friendship-xphb.md)\
+      \ (snakes only), [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [message](3-Mechanics/CLI/spells/message-xphb.md),\
+      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n**3/day:**\
+      \ [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md)\n\n**2/day each:**\
+      \ [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [fear](3-Mechanics/CLI/spells/fear-xphb.md)"
     "name": "Spellcasting (Yuan-ti Form Only)"
 "bonus_actions":
   - "desc": "The yuan-ti transforms into a Medium snake or back into its true form.\
@@ -106,7 +106,7 @@ Nightmare speakers revel in torturing others, keeping their victims in a constan
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/yuan-ti-nightmare-speaker-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Yuan-ti%20Nightmare%20Speaker.webp"
 ```
 ^statblock
 

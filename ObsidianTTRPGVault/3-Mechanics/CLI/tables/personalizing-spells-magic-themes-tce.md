@@ -12,6 +12,8 @@ aliases:
 
 **Magic Themes**
 
+`dice: [](personalizing-spells-magic-themes-tce.md#^magic-themes)`
+
 | dice: d10 | Theme |
 |-----------|-------|
 | 1 | Book pages, origami, quills, and ink, all accompanied by rustling sounds and library scents |

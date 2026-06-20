@@ -12,6 +12,8 @@ aliases:
 
 **Ghost's History**
 
+`dice: [](ghosts-history-vrgr.md#^ghosts-history)`
+
 | dice: d6 | Ghost's History |
 |----------|-----------------|
 | 1 | The ghost died so recently that they might not yet fully realize they are dead. |

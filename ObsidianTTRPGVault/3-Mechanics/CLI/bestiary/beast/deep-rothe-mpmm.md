@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Deep Rothé"
 ---
-# [Deep Rothé](3-Mechanics\CLI\bestiary\beast/deep-rothe-mpmm.md)
+# [Deep Rothé](3-Mechanics/CLI/bestiary/beast/deep-rothe-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 71, Volo's Guide to Monsters p. 208*  
 
 Deep rothé are Underdark cattle that communicate with one another using the dancing lights spell. Some scholars speculate that rothé came originally from the Feywild and brought the ability to cast the spell with them. Other sages attribute the ability to the centuries rothé have spent in the Underdark, where ambient magic slowly transforms everything.
@@ -54,13 +54,13 @@ Many kinds of cattle roam the multiverse, some of them domesticated and others f
       \ the target immediately before the hit, the target takes an extra 7 (2d6) piercing\
       \ damage."
     "name": "Gore"
-  - "desc": "The rothé casts [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md),\
+  - "desc": "The rothé casts [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
       \ requiring no spell components and using Wisdom as the spellcasting ability.\n"
     "name": "Dancing Lights"
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/beast/token/deep-rothe-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Deep%20Rothe.webp"
 ```
 ^statblock
 

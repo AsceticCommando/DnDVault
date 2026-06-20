@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Drow Guard"
 ---
-# [Drow Guard](3-Mechanics\CLI\bestiary\humanoid/drow-guard-oota.md)
+# [Drow Guard](3-Mechanics/CLI/bestiary/humanoid/drow-guard-oota.md)
 *Source: Out of the Abyss p. 195*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Neutral Evil"
 "ac": !!int "16"
-"ac_class": "[chain shirt](3-Mechanics/CLI/items/chain-shirt.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[chain shirt](3-Mechanics/CLI/items/chain-shirt-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
 "modifier": !!int "1"
@@ -38,15 +38,16 @@ aliases:
   - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
 "gear":
-  - "[spear](3-Mechanics/CLI/items/spear.md)"
+  - "[spear](3-Mechanics/CLI/items/spear-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
   \ Perception 12"
 "languages": "any one language (usually Common), Elvish, Undercommon"
 "cr": "1/8"
 "traits":
-  - "desc": "The drow guard\n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md)\n\
-      \n**1/day each:** [darkness](3-Mechanics/CLI/spells/darkness.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md),\
-      \ [levitate](3-Mechanics/CLI/spells/levitate.md) (self only)"
+  - "desc": "The drow guard\n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md)\n\
+      \n**1/day each:** [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [faerie\
+      \ fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md), [levitate](3-Mechanics/CLI/spells/levitate-xphb.md)\
+      \ (self only)"
     "name": "Innate Spellcasting"
   - "desc": "The drow guard"
     "name": "Fey Ancestry"
@@ -59,6 +60,6 @@ aliases:
     "name": "Spear"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/drow-guard-oota.webp"
+"image": "file://bestiary/tokens/OotA/Drow%20Guard.webp"
 ```
 ^statblock

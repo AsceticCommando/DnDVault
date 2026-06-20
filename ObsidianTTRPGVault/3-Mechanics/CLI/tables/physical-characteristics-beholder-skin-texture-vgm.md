@@ -12,6 +12,8 @@ aliases:
 
 **Beholder Skin Texture**
 
+`dice: [](physical-characteristics-beholder-skin-texture-vgm.md#^beholder-skin-texture)`
+
 | dice: d10 | Skin Texture |
 |-----------|--------------|
 | 1-2 | Pebbled |

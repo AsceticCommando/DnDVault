@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Captain Hask"
 ---
-# [Captain Hask](3-Mechanics\CLI\bestiary\npc/captain-hask-dsotdq.md)
+# [Captain Hask](3-Mechanics/CLI/bestiary/npc/captain-hask-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 148*  
 
 ```statblock
@@ -79,13 +79,14 @@ aliases:
     "name": "Noxious Breath (Recharge 5-6)"
   - "desc": "Hask casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 14):\n\n**At\
-      \ will:** [invisibility](3-Mechanics/CLI/spells/invisibility.md), [mage hand](3-Mechanics/CLI/spells/mage-hand.md)\n\
-      \n**2/day each:** [dimension door](3-Mechanics/CLI/spells/dimension-door.md),\
-      \ [disguise self](3-Mechanics/CLI/spells/disguise-self.md), [sending](3-Mechanics/CLI/spells/sending.md)\n\
-      \n**1/day:** [dominate person](3-Mechanics/CLI/spells/dominate-person.md)"
+      \ will:** [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md), [mage\
+      \ hand](3-Mechanics/CLI/spells/mage-hand-xphb.md)\n\n**2/day each:** [dimension\
+      \ door](3-Mechanics/CLI/spells/dimension-door-xphb.md), [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md),\
+      \ [sending](3-Mechanics/CLI/spells/sending-xphb.md)\n\n**1/day:** [dominate\
+      \ person](3-Mechanics/CLI/spells/dominate-person-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/npc/token/captain-hask-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Captain%20Hask.webp"
 ```
 ^statblock

@@ -1,0 +1,27 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-item
+tags:
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/rarity/uncommon
+- ttrpg-cli/item/shield/
+aliases:
+- "Shield of the Tortoise"
+---
+# Shield of the Tortoise
+*Armor ([shield](3-Mechanics/CLI/items/shield-xphb.md)), cursed item, uncommon (requires attunement)*  
+![](file://items/BMT/Shield%20of%20the%20Tortoise.webp#right)
+
+- **Armor Class**: 2
+- **Properties**: [Cursed](3-Mechanics/CLI/rules/item-properties.md#Cursed%20Items)
+- **Weight**: 6.0 lbs.
+
+While you are wielding this shield, you gain a +1 bonus to AC. This bonus is in addition to the shield's normal bonus to AC.
+
+## Curse
+
+This item is cursed. Attuning to it extends the curse to you until you are targeted by a [Remove Curse](3-Mechanics/CLI/spells/remove-curse-xphb.md) spell or similar magic. You cannot discard the shield, and remain attuned to it, as long as you are cursed. As long as you are cursed, you are sluggish. Your speed is halved. When you roll initiative, treat the roll on your `dice:d20|noform|noparens|avg` (`d20`) as a 1. You can't change your initiative by any means.
+
+*Source: The Book of Many Things p. 67*

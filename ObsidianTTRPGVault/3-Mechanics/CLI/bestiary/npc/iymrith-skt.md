@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Iymrith"
 ---
-# [Iymrith](3-Mechanics\CLI\bestiary\npc/iymrith-skt.md)
+# [Iymrith](3-Mechanics/CLI/bestiary/npc/iymrith-skt.md)
 *Source: Storm King's Thunder p. 241*  
 
 Vain and territorial, blue dragons soar through the skies over deserts, preying on caravans and plundering herds and settlements in the verdant lands beyond the desert's reach. These dragons can also be found in dry steppes, searing badlands, and rocky coasts. They guard their territories against all potential competitors, especially brass dragons.
@@ -166,7 +166,7 @@ Tiamat's most hated enemy is Bahamut the Platinum Dragon, with whom she shares c
       \ (16d10) lightning damage on a failed save, or half as much damage on a successful\
       \ one."
     "name": "Lightning Breath (Recharge 5-6)"
-  - "desc": "Iymrith magically polymorphs into a female [storm giant](3-Mechanics/CLI/bestiary/giant/storm-giant.md)\
+  - "desc": "Iymrith magically polymorphs into a female [storm giant](3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md)\
       \ or back into her true form. She reverts to her true form if she dies. Any\
       \ equipment she is wearing or carrying is absorbed or borne by the new form\
       \ (Iymrith's choice).\n\nIn storm giant form, Iymrith retains her alignment,\
@@ -176,11 +176,11 @@ Tiamat's most hated enemy is Bahamut the Platinum Dragon, with whom she shares c
     "name": "Change Shape"
   - "desc": "Iymrith casts one of the following spells, requiring no spell components\
       \ and using Charisma as the spellcasting ability (spell save DC 20):\n\n**1/day\
-      \ each:** [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md),\
-      \ [ice storm](3-Mechanics/CLI/spells/ice-storm.md), [stone shape](3-Mechanics/CLI/spells/stone-shape.md),\
-      \ [teleport](3-Mechanics/CLI/spells/teleport.md)\n\nWhen she casts her [stone\
-      \ shape](3-Mechanics/CLI/spells/stone-shape.md) spell, Iymrith can shape the\
-      \ targeted stone into a living [gargoyle](3-Mechanics/CLI/bestiary/elemental/gargoyle.md)\
+      \ each:** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [dispel\
+      \ magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [ice storm](3-Mechanics/CLI/spells/ice-storm-xphb.md),\
+      \ [stone shape](3-Mechanics/CLI/spells/stone-shape-xphb.md), [teleport](3-Mechanics/CLI/spells/teleport-xphb.md)\n\
+      \nWhen she casts her [stone shape](3-Mechanics/CLI/spells/stone-shape-xphb.md)\
+      \ spell, Iymrith can shape the targeted stone into a living [gargoyle](3-Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md)\
       \ instead of altering the stone as described in the spell's description. This\
       \ transformation is permanent and can't be reversed or dispelled."
     "name": "Spellcasting"
@@ -203,9 +203,9 @@ Tiamat's most hated enemy is Bahamut the Platinum Dragon, with whom she shares c
       \ dragon can see. They must be within 120 feet of the dragon and 120 feet of\
       \ each other. Each creature in that line must succeed on a DC 15 Dexterity saving\
       \ throw or take 10 (3d6) lightning damage.  \n\n**Additional Lair Actions.**\
-      \ At your discretion, a legendary ([adult](3-Mechanics/CLI/bestiary/dragon/adult-blue-dragon.md)\
-      \ or [ancient](3-Mechanics/CLI/bestiary/dragon/ancient-blue-dragon.md)) blue\
-      \ dragon can use one or both of the following additional lair actions while\
+      \ At your discretion, a legendary ([adult](3-Mechanics/CLI/bestiary/dragon/adult-blue-dragon-xmm.md)\
+      \ or [ancient](3-Mechanics/CLI/bestiary/dragon/ancient-blue-dragon-xmm.md))\
+      \ blue dragon can use one or both of the following additional lair actions while\
       \ in its lair:\n\n- **Misleading Mirage.** Until initiative count 20 on the\
       \ next round, at each intersection or branching passage in the lair, a creature\
       \ other than the dragon has a 50 percent chance of going in a different direction\
@@ -257,6 +257,6 @@ Tiamat's most hated enemy is Bahamut the Platinum Dragon, with whom she shares c
     "name": "Wing Attack (Costs 2 Actions)"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/iymrith-skt.webp"
+"image": "file://bestiary/tokens/SKT/Iymrith.webp"
 ```
 ^statblock

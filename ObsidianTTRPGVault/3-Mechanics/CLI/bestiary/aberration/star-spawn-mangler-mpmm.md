@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Star Spawn Mangler"
 ---
-# [Star Spawn Mangler](3-Mechanics\CLI\bestiary\aberration/star-spawn-mangler-mpmm.md)
+# [Star Spawn Mangler](3-Mechanics/CLI/bestiary/aberration/star-spawn-mangler-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 229, Mordenkainen's Tome of Foes p. 236*  
 
 > [!quote] A quote from Mordenkainen  
@@ -98,6 +98,6 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/star-spawn-mangler-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Star%20Spawn%20Mangler.webp"
 ```
 ^statblock

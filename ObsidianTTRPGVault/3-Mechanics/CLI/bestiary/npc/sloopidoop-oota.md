@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Sloopidoop"
 ---
-# [Sloopidoop](3-Mechanics\CLI\bestiary\npc/sloopidoop-oota.md)
+# [Sloopidoop](3-Mechanics/CLI/bestiary/npc/sloopidoop-oota.md)
 *Source: Out of the Abyss p. 29*  
 
 ```statblock
@@ -44,7 +44,7 @@ aliases:
 "languages": "Undercommon, Dwarvish, Elvish"
 "cr": "6"
 "traits":
-  - "desc": "Sloopidoop can innately cast can cast the [teleport](3-Mechanics/CLI/spells/teleport.md)\
+  - "desc": "Sloopidoop can innately cast can cast the [teleport](3-Mechanics/CLI/spells/teleport-xphb.md)\
       \ spell once per day, but the intended destination must be within 30 feet of\
       \ another society member. This teleport effect can be disrupted (see \"Faerzress\"\
       ), which is how society members sometimes end up in far corners of the Underdark,\
@@ -52,17 +52,17 @@ aliases:
     "name": "Innate Spellcasting"
   - "desc": "Sloopidoop is a 10th-level spellcaster. Its spellcasting ability is Wisdom\
       \ (spell save DC 14, +6 to hit with spell attacks). Sloopidoop has the following\
-      \ cleric spells prepared:\n\n**Cantrips (at will):** [guidance](3-Mechanics/CLI/spells/guidance.md),\
-      \ [sacred flame](3-Mechanics/CLI/spells/sacred-flame.md), [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy.md)\n\
-      \n**1st level (4 slots):** [detect magic](3-Mechanics/CLI/spells/detect-magic.md),\
-      \ [sanctuary](3-Mechanics/CLI/spells/sanctuary.md), [shield of faith](3-Mechanics/CLI/spells/shield-of-faith.md)\n\
-      \n**2nd level (3 slots):** [hold person](3-Mechanics/CLI/spells/hold-person.md),\
-      \ [spiritual weapon](3-Mechanics/CLI/spells/spiritual-weapon.md)\n\n**3rd level\
-      \ (3 slots):** [spirit guardians](3-Mechanics/CLI/spells/spirit-guardians.md),\
-      \ [tongues](3-Mechanics/CLI/spells/tongues.md)\n\n**4th level (3 slots):** [control\
-      \ water](3-Mechanics/CLI/spells/control-water.md), [divination](3-Mechanics/CLI/spells/divination.md)\n\
-      \n**5th level (2 slots):** [mass cure wounds](3-Mechanics/CLI/spells/mass-cure-wounds.md),\
-      \ [scrying](3-Mechanics/CLI/spells/scrying.md)"
+      \ cleric spells prepared:\n\n**Cantrips (at will):** [guidance](3-Mechanics/CLI/spells/guidance-xphb.md),\
+      \ [sacred flame](3-Mechanics/CLI/spells/sacred-flame-xphb.md), [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
+      \n**1st level (4 slots):** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [sanctuary](3-Mechanics/CLI/spells/sanctuary-xphb.md), [shield of faith](3-Mechanics/CLI/spells/shield-of-faith-xphb.md)\n\
+      \n**2nd level (3 slots):** [hold person](3-Mechanics/CLI/spells/hold-person-xphb.md),\
+      \ [spiritual weapon](3-Mechanics/CLI/spells/spiritual-weapon-xphb.md)\n\n**3rd\
+      \ level (3 slots):** [spirit guardians](3-Mechanics/CLI/spells/spirit-guardians-xphb.md),\
+      \ [tongues](3-Mechanics/CLI/spells/tongues-xphb.md)\n\n**4th level (3 slots):**\
+      \ [control water](3-Mechanics/CLI/spells/control-water-xphb.md), [divination](3-Mechanics/CLI/spells/divination-xphb.md)\n\
+      \n**5th level (2 slots):** [mass cure wounds](3-Mechanics/CLI/spells/mass-cure-wounds-xphb.md),\
+      \ [scrying](3-Mechanics/CLI/spells/scrying-xphb.md)"
     "name": "Spellcasting"
   - "desc": "Sloopidoop can breathe air and water."
     "name": "Amphibious"
@@ -88,6 +88,6 @@ aliases:
     "name": "Unarmed Strike"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/sloopidoop-oota.webp"
+"image": "file://bestiary/tokens/OotA/Sloopidoop.webp"
 ```
 ^statblock

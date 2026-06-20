@@ -12,6 +12,8 @@ aliases:
 
 **Training Complications**
 
+`dice: [](training-complications-xge.md#^training-complications)`
+
 | dice: d6 | Complication |
 |----------|--------------|
 | 1 | Your instructor disappears, forcing you to spend one workweek finding a new one.* |

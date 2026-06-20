@@ -14,7 +14,7 @@ aliases:
 
 | Age | Spell Save DC | Spells Known |
 |-----|---------------|--------------|
-| [Young](3-Mechanics/CLI/bestiary/dragon/young-green-dragon.md) | 13 | [invisibility](3-Mechanics/CLI/spells/invisibility.md), [speak with animals](3-Mechanics/CLI/spells/speak-with-animals.md) |
-| [Adult](3-Mechanics/CLI/bestiary/dragon/adult-green-dragon.md) | 16 | [invisibility](3-Mechanics/CLI/spells/invisibility.md), [plant growth](3-Mechanics/CLI/spells/plant-growth.md), [speak with animals](3-Mechanics/CLI/spells/speak-with-animals.md) |
-| [Ancient](3-Mechanics/CLI/bestiary/dragon/ancient-green-dragon.md) | 19 | [invisibility](3-Mechanics/CLI/spells/invisibility.md), [mass suggestion](3-Mechanics/CLI/spells/mass-suggestion.md), [plant growth](3-Mechanics/CLI/spells/plant-growth.md), [speak with animals](3-Mechanics/CLI/spells/speak-with-animals.md) |
+| [Young](3-Mechanics/CLI/bestiary/dragon/young-green-dragon-xmm.md) | 13 | [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md), [speak with animals](3-Mechanics/CLI/spells/speak-with-animals-xphb.md) |
+| [Adult](3-Mechanics/CLI/bestiary/dragon/adult-green-dragon-xmm.md) | 16 | [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md), [plant growth](3-Mechanics/CLI/spells/plant-growth-xphb.md), [speak with animals](3-Mechanics/CLI/spells/speak-with-animals-xphb.md) |
+| [Ancient](3-Mechanics/CLI/bestiary/dragon/ancient-green-dragon-xmm.md) | 19 | [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md), [mass suggestion](3-Mechanics/CLI/spells/mass-suggestion-xphb.md), [plant growth](3-Mechanics/CLI/spells/plant-growth-xphb.md), [speak with animals](3-Mechanics/CLI/spells/speak-with-animals-xphb.md) |
 ^green-dragon-spellcasting

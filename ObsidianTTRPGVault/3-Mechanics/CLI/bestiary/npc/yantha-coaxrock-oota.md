@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Yantha Coaxrock"
 ---
-# [Yantha Coaxrock](3-Mechanics\CLI\bestiary\npc/yantha-coaxrock-oota.md)
+# [Yantha Coaxrock](3-Mechanics/CLI/bestiary/npc/yantha-coaxrock-oota.md)
 *Source: Out of the Abyss p. 138*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "gnome"
 "alignment": "Neutral Good"
 "ac": !!int "15"
-"ac_class": "[chain shirt](3-Mechanics/CLI/items/chain-shirt.md)"
+"ac_class": "[chain shirt](3-Mechanics/CLI/items/chain-shirt-xphb.md)"
 "hp": !!int "16"
 "hit_dice": "3d6 + 6"
 "modifier": !!int "2"
@@ -42,7 +42,7 @@ aliases:
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "gear":
-  - "[war pick](3-Mechanics/CLI/items/war-pick.md)"
+  - "[war pick](3-Mechanics/CLI/items/war-pick-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
   \ Perception 12"
 "languages": "Gnomish, Terran, Undercommon"
@@ -50,13 +50,15 @@ aliases:
 "traits":
   - "desc": "Yantha is a 5th-level spellcaster. Her spellcasting ability is Intelligence\
       \ (spell save DC 13). She has the following wizard spells prepared:\n\n**Cantrips\
-      \ (at will):** [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md), [friends](3-Mechanics/CLI/spells/friends.md),\
-      \ [mending](3-Mechanics/CLI/spells/mending.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md)\n\
-      \n**1st level (4 slots):** [comprehend languages](3-Mechanics/CLI/spells/comprehend-languages.md),\
-      \ [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [Tenser's floating\
-      \ disk](3-Mechanics/CLI/spells/tensers-floating-disk.md)\n\n**2nd level (3 slots):**\
-      \ [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md), [hold person](3-Mechanics/CLI/spells/hold-person.md)\n\
-      \n**3rd level (2 slots):** [sending](3-Mechanics/CLI/spells/sending.md)"
+      \ (at will):** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
+      \ [friends](3-Mechanics/CLI/spells/friends-xphb.md), [mending](3-Mechanics/CLI/spells/mending-xphb.md),\
+      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n**1st\
+      \ level (4 slots):** [comprehend languages](3-Mechanics/CLI/spells/comprehend-languages-xphb.md),\
+      \ [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [Tenser's floating\
+      \ disk](3-Mechanics/CLI/spells/tensers-floating-disk-xphb.md)\n\n**2nd level\
+      \ (3 slots):** [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [hold person](3-Mechanics/CLI/spells/hold-person-xphb.md)\n\n**3rd level (2\
+      \ slots):** [sending](3-Mechanics/CLI/spells/sending-xphb.md)"
     "name": "Spellcasting"
   - "desc": "Yantha has advantage on Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth))\
       \ checks made to hide in rocky terrain."
@@ -76,6 +78,6 @@ aliases:
     "name": "Poisoned Dart"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/yantha-coaxrock-oota.webp"
+"image": "file://bestiary/tokens/OotA/Yantha%20Coaxrock.webp"
 ```
 ^statblock

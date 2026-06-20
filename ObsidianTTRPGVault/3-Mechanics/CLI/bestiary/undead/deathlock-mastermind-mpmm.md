@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Deathlock Mastermind"
 ---
-# [Deathlock Mastermind](3-Mechanics\CLI\bestiary\undead/deathlock-mastermind-mpmm.md)
+# [Deathlock Mastermind](3-Mechanics/CLI/bestiary/undead/deathlock-mastermind-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 87, Mordenkainen's Tome of Foes p. 129*  
 
 Though deathlocks exist to serve their patrons, they retain some freedom when it comes to devising tactics and carrying out plans. Powerful deathlocks recruit lesser creatures to help them carry out their missions, becoming the masterminds behind vast conspiracies and intrigues that culminate in the accomplishment of great acts of evil.
@@ -83,17 +83,17 @@ An powerful necromancer might also discover the wicked methods of creating a dea
       \ itself on a success."
     "name": "Grave Bolt"
   - "desc": "The deathlock casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 14):\n\n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic.md),\
-      \ [disguise self](3-Mechanics/CLI/spells/disguise-self.md), [mage armor](3-Mechanics/CLI/spells/mage-armor.md),\
-      \ [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md)\n\n**1/day each:**\
-      \ [darkness](3-Mechanics/CLI/spells/darkness.md), [dimension door](3-Mechanics/CLI/spells/dimension-door.md),\
-      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), [fly](3-Mechanics/CLI/spells/fly.md),\
-      \ [invisibility](3-Mechanics/CLI/spells/invisibility.md)"
+      \ spellcasting ability (spell save DC 14):\n\n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md), [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md),\
+      \ [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\n**1/day\
+      \ each:** [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [dimension door](3-Mechanics/CLI/spells/dimension-door-xphb.md),\
+      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [fly](3-Mechanics/CLI/spells/fly-xphb.md),\
+      \ [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/undead/token/deathlock-mastermind-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Deathlock%20Mastermind.webp"
 ```
 ^statblock
 

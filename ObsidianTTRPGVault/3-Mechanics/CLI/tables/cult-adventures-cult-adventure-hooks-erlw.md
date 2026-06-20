@@ -12,6 +12,8 @@ aliases:
 
 **Cult Adventure Hooks**
 
+`dice: [](cult-adventures-cult-adventure-hooks-erlw.md#^cult-adventure-hooks)`
+
 | dice: d8 | Adventure Hook |
 |----------|----------------|
 | 1 | Children throughout town begin reciting the same nursery rhyme, adding increasingly disturbing descriptions as the verses progress. No one knows where they learned the rhyme. |

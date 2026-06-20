@@ -12,6 +12,8 @@ aliases:
 
 **Short-Term Madness**
 
+`dice: [](short-term-madness.md#^short-term-madness)`
+
 | dice: d100 | Effects (lasts 1d10 minutes) |
 |------------|------------------------------|
 | 01-20 | The character retreats into his or her mind and becomes [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed). The effect ends if the character takes any damage. |

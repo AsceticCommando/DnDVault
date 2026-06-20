@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Diderius"
 ---
-# [Diderius](3-Mechanics\CLI\bestiary\npc/diderius-rot.md)
+# [Diderius](3-Mechanics/CLI/bestiary/npc/diderius-rot.md)
 *Source: The Rise of Tiamat p. 40, Tyranny of Dragons p. 131*  
 
 ```statblock
@@ -56,17 +56,19 @@ aliases:
 "traits":
   - "desc": "Diderius is a 10th-level spellcaster. His spellcasting ability is Intelligence\
       \ (spell save DC 17, +9 to hit with spell attacks). He has the following wizard\
-      \ spells prepared:\n\n**Cantrips (at will):** [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md),\
-      \ [ray of frost](3-Mechanics/CLI/spells/ray-of-frost.md)\n\n**1st level (4 slots):**\
-      \ [charm person](3-Mechanics/CLI/spells/charm-person.md), [detect magic](3-Mechanics/CLI/spells/detect-magic.md),\
-      \ [shield](3-Mechanics/CLI/spells/shield.md), [thunderwave](3-Mechanics/CLI/spells/thunderwave.md)\n\
-      \n**2nd level (3 slots):** [cloud of daggers](3-Mechanics/CLI/spells/cloud-of-daggers.md),\
-      \ [hold person](3-Mechanics/CLI/spells/hold-person.md), [see invisibility](3-Mechanics/CLI/spells/see-invisibility.md)\n\
-      \n**3rd level (3 slots):** [animate dead](3-Mechanics/CLI/spells/animate-dead.md),\
-      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md)\n\n**4th level (3 slots):**\
-      \ [fire shield](3-Mechanics/CLI/spells/fire-shield.md), [greater invisibility](3-Mechanics/CLI/spells/greater-invisibility.md)\n\
-      \n**5th level (2 slots):** [cloudkill](3-Mechanics/CLI/spells/cloudkill.md),\
-      \ [wall of stone](3-Mechanics/CLI/spells/wall-of-stone.md)"
+      \ spells prepared:\n\n**Cantrips (at will):** [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md),\
+      \ [ray of frost](3-Mechanics/CLI/spells/ray-of-frost-xphb.md)\n\n**1st level\
+      \ (4 slots):** [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md),\
+      \ [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [shield](3-Mechanics/CLI/spells/shield-xphb.md),\
+      \ [thunderwave](3-Mechanics/CLI/spells/thunderwave-xphb.md)\n\n**2nd level (3\
+      \ slots):** [cloud of daggers](3-Mechanics/CLI/spells/cloud-of-daggers-xphb.md),\
+      \ [hold person](3-Mechanics/CLI/spells/hold-person-xphb.md), [see invisibility](3-Mechanics/CLI/spells/see-invisibility-xphb.md)\n\
+      \n**3rd level (3 slots):** [animate dead](3-Mechanics/CLI/spells/animate-dead-xphb.md),\
+      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md)\n\n**4th level\
+      \ (3 slots):** [fire shield](3-Mechanics/CLI/spells/fire-shield-xphb.md), [greater\
+      \ invisibility](3-Mechanics/CLI/spells/greater-invisibility-xphb.md)\n\n**5th\
+      \ level (2 slots):** [cloudkill](3-Mechanics/CLI/spells/cloudkill-xphb.md),\
+      \ [wall of stone](3-Mechanics/CLI/spells/wall-of-stone-xphb.md)"
     "name": "Spellcasting"
   - "desc": "Diderius has advantage on saving throws against spells and other magical\
       \ effects."
@@ -85,7 +87,7 @@ aliases:
       \ cursed with mummy rot. The cursed target can't regain hit points, and its\
       \ hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If\
       \ the curse reduces the target's hit point maximum to 0, the target dies, and\
-      \ its body turns to dust. The curse lasts until removed by the [remove curse](3-Mechanics/CLI/spells/remove-curse.md)\
+      \ its body turns to dust. The curse lasts until removed by the [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md)\
       \ spell or other magic."
     "name": "Rotting Fist"
   - "desc": "Diderius targets one creature it can see within 60 feet of it. If the\
@@ -96,6 +98,35 @@ aliases:
       \ for the same duration. A target that succeeds on the saving throw is immune\
       \ to the Dreadful Glare of all mummies and mummy lords for the next 24 hours."
     "name": "Dreadful Glare"
+"lair_actions":
+  - "desc": "On initiative count 20 (losing initiative ties), the mummy lord takes\
+      \ a lair action to cause one of the following effects; the mummy lord can't\
+      \ use the same effect two rounds in a row:\n\n- Each undead creature in the\
+      \ lair can pinpoint the location of each living creature within 120 feet of\
+      \ it until initiative count 20 on the next round.  \n- Each undead in the lair\
+      \ has advantage on saving throws against effects that turn undead until initiative\
+      \ count 20 on the next round.  \n- Until initiative count 20 on the next round,\
+      \ any non-undead creature that tries to cast a spell of 4th level or lower in\
+      \ the mummy lord's lair is wracked with pain. The creature can choose another\
+      \ action, but if it tries to cast the spell, it must make a DC 16 Constitution\
+      \ saving throw. On a failed save, it takes 1d6 necrotic damage per level of\
+      \ the spell, and the spell has no effect and is wasted.  "
+    "name": ""
+"regional_effects":
+  - "desc": "A mummy lord's temple or tomb is warped in any of the following ways\
+      \ by the creature's dark presence:\n\n- Food instantly molders and water instantly\
+      \ evaporates when brought into the lair. Other non magical drinks are spoiled\
+      \ - wine turning to vinegar, for instance.  \n- [Divination](3-Mechanics/CLI/spells/divination-xphb.md)\
+      \ spells cast within the lair by creatures other than the mummy lord have a\
+      \ 25 percent chance to provide misleading results, as determined by the DM.\
+      \ If a [divination](3-Mechanics/CLI/spells/divination-xphb.md) spell already\
+      \ has a chance to fail or become unreliable when cast multiple times, that chance\
+      \ increases by 25 percent.  \n- A creature that takes treasure from the lair\
+      \ is cursed until the treasure is returned. The cursed target has disadvantage\
+      \ on all saving throws. The curse lasts until removed by a [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md)\
+      \ spell or other magic.  \n\nIf the mummy lord is destroyed, these regional\
+      \ effects end immediately."
+    "name": ""
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, Diderius can expend a use to take one of the following actions. Diderius\
   \ regains all expended uses at the start of each of their turns."
@@ -127,6 +158,6 @@ aliases:
 "source":
   - "RoT"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/npc/token/diderius-rot.webp"
+"image": "file://bestiary/tokens/RoT/Diderius.webp"
 ```
 ^statblock

@@ -12,6 +12,8 @@ aliases:
 
 Rules enable you and your players to have fun at the table. The rules serve you, not vice versa. There are the rules of the game, and there are table rules for how the game is played. For instance, players need to know what happens when one of them misses a session. They need to know whether to bring miniatures, any special rules you've decided to use, and how to treat a cocked die (a die that lands so that its face can't be clearly read). These topics and more are covered in this chapter.
 
+![](file://book/DMG/ch8splash.webp#center)
+
 ## Table Rules
 
 Ideally, players come to the gaming table with the same goal: to have a fun time together. This section gives recommendations for table rules you can establish to help meet that goal. Here are some fundamentals:
@@ -83,6 +85,8 @@ Integrating a new character into the group can be difficult if the party is in t
 
 Dice are neutral arbiters. They can determine the outcome of an action without assigning any motivation to the DM and without playing favorites. The extent to which you use them is entirely up to you.
 
+![](file://book/DMG/c8-02.webp#center)
+
 ### Rolling with It
 
 Some DMs rely on die rolls for almost everything. When a character attempts a task, the DM calls for a check and picks a DC. As a DM using this style, you can't rely on the characters succeeding or failing on any one check to move the action in a specific direction. You must be ready to improvise and react to a changing situation.
@@ -124,7 +128,7 @@ Sometimes a character fails an ability check and wants to try again. In some cas
 
 In other cases, failing an ability check makes it impossible to make the same check to do the same thing again. For example, a rogue might try to trick a town guard into thinking the adventurers are undercover agents of the king. If the rogue loses a contest of Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception)) against the guard's Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)), the same lie told again won't work. The characters can come up with a different way to get past the guard or try the check again against another guard at a different gate. But you might decide that the initial failure makes those checks more difficult to pull off.
 
-![Ability Checks](3-Mechanics/CLI/tables/ability-checks.md)
+![Ability Checks](3-Mechanics/CLI/tables/resolving-outcomes-abilities-ability-checks-and-saving-throws-xdmg.md)
 
 #### Contests
 
@@ -155,25 +159,25 @@ Most of the time, a saving throw comes into play when an effect-such as a spell,
 
 Other times, a situation arises that clearly calls for a saving throw, especially when a character is subjected to a harmful effect that can't be hedged out by armor or a shield. It's up to you to decide which ability score is involved. The Saving Throws table offers suggestions.
 
-![Saving Throws](3-Mechanics/CLI/tables/saving-throws.md)
+![Saving Throws](3-Mechanics/CLI/tables/resolving-outcomes-abilities-ability-checks-and-saving-throws-xdmg.md)
 
 ### Difficulty Class
 
 It's your job to establish the Difficulty Class for an ability check or a saving throw when a rule or an adventure doesn't give you one. Sometimes you'll even want to change such established DCs. When you do so, think of how difficult a task is and then pick the associated DC from the Typical DCs table.
 
-![Difficulty Class; Typical DCs](3-Mechanics/CLI/tables/difficulty-class-typical-dcs.md)
+![Difficulty Class; Typical DCs](3-Mechanics/CLI/tables/difficulty-class-typical-dcs-xdmg.md)
 
 The numbers associated with these categories of difficulty are meant to be easy to keep in your head, so that you don't have to refer to this book every time you decide on a DC. Here are some tips for using DC categories at the gaming table.
 
 If you've decided that an ability check is called for, then most likely the task at hand isn't a very easy one. Most people can accomplish a DC 5 task with little chance of failure. Unless circumstances are unusual, let characters succeed at such a task without making a check.
 
-Then ask yourself, "Is this task's difficulty easy, moderate, or hard?" If the only DCs you ever use are 10, 15, and 20, your game will run just fine. Keep in mind that a character with a 10 in the associated ability and no proficiency will succeed at an easy task around 50 percent of the time. A moderate task requires a higher score or proficiency for success, whereas a hard task typically requires both. A big dose of luck with the `d20` also doesn't hurt.
+Then ask yourself, "Is this task's difficulty easy, moderate, or hard?" If the only DCs you ever use are 10, 15, and 20, your game will run just fine. Keep in mind that a character with a 10 in the associated ability and no proficiency will succeed at an easy task around 50 percent of the time. A moderate task requires a higher score or proficiency for success, whereas a hard task typically requires both. A big dose of luck with the `dice:d20|noform|noparens|avg` (`d20`) also doesn't hurt.
 
 If you find yourself thinking, "This task is especially hard," you can use a higher DC, but do so with caution and consider the level of the characters. A DC 25 task is very hard for low-level characters to accomplish, but it becomes more reasonable after 10th level or so. A DC 30 check is nearly impossible for most low-level characters. A 20th-level character with proficiency and a relevant ability score of 20 still needs a 19 or 20 on the die roll to succeed at a task of this difficulty.
 
 #### Variant: Automatic Success
 
-Sometimes the randomness of a `d20` roll leads to ludicrous results. Let's say a door requires a DC 15 Strength check to batter down. A fighter with Strength 20 might helplessly flail against the door due to bad die rolls. Meanwhile, the rogue with a 10 Strength rolls a natural 20 on her first check and knocks the door from its hinges.
+Sometimes the randomness of a `dice:d20|noform|noparens|avg` (`d20`) roll leads to ludicrous results. Let's say a door requires a DC 15 Strength check to batter down. A fighter with Strength 20 might helplessly flail against the door due to bad die rolls. Meanwhile, the rogue with a 10 Strength rolls a natural 20 on her first check and knocks the door from its hinges.
 
 If such results bother you, allow automatic success on checks for characters with high ability scores. Under this optional rule, a character automatically succeeds on any ability check with a DC less than or equal to the relevant ability score minus 5. So in the above example, the fighter would automatically kick in the door. This rule doesn't apply to contests, saving throws, or attack rolls.
 
@@ -197,7 +201,7 @@ Often, players ask whether they can apply a skill proficiency to an ability chec
 
 #### Tools
 
-Having proficiency with a tool allows you to apply your proficiency bonus to an ability check you make using that tool. For example, a character proficient with [carpenter's tools](3-Mechanics/CLI/items/carpenters-tools.md) can apply his or her proficiency bonus to a Dexterity check to craft a wooden flute, an Intelligence check to craft a wooden secret door, or a Strength check to build a working trebuchet. However, the proficiency bonus wouldn't apply to an ability check made to identify unsafe wooden construction or to discern the origin of a crafted item, since neither check requires tool use.
+Having proficiency with a tool allows you to apply your proficiency bonus to an ability check you make using that tool. For example, a character proficient with [carpenter's tools](3-Mechanics/CLI/items/carpenters-tools-xphb.md) can apply his or her proficiency bonus to a Dexterity check to craft a wooden flute, an Intelligence check to craft a wooden secret door, or a Strength check to build a working trebuchet. However, the proficiency bonus wouldn't apply to an ability check made to identify unsafe wooden construction or to discern the origin of a crafted item, since neither check requires tool use.
 
 #### Saving Throws and Attack Rolls
 
@@ -230,6 +234,8 @@ The wizard is running, not paying attention to what's ahead of him. This imposes
 
 ### Inspiration
 
+![](file://book/DMG/c8-03.webp#center)
+
 Awarding inspiration is an effective way to encourage roleplaying and risk-taking. As explained in the Player's Handbook, having inspiration gives a character an obvious benefit: being able to gain advantage on one ability check, attack roll, or saving throw. Remember that a character can have no more than one inspiration at a time.
 
 #### Awarding Inspiration
@@ -250,7 +256,7 @@ Take into account each player's roleplaying style, and try not to favor one styl
 
 You can use inspiration to encourage player characters to take risks. A fighter might not normally hurl himself over a balcony to land in the midst of a pack of hungry ghouls, but you can reward the character's daring maneuver with inspiration. Such a reward tells the players that you want them to embrace swashbuckling action.
 
-This approach is great for campaigns that emphasize action-packed heroics. For such campaigns, consider allowing inspiration to be spent after a `d20` roll, rather than before. This approach turns inspiration into a cushion against failure-and a guarantee that it comes into play only when a player is faced directly by failure. Such an assurance makes risky tactics less daunting.
+This approach is great for campaigns that emphasize action-packed heroics. For such campaigns, consider allowing inspiration to be spent after a `dice:d20|noform|noparens|avg` (`d20`) roll, rather than before. This approach turns inspiration into a cushion against failure-and a guarantee that it comes into play only when a player is faced directly by failure. Such an assurance makes risky tactics less daunting.
 
 ##### A Reward for Victory
 
@@ -284,7 +290,7 @@ Start with awarding inspiration after an action, especially for your first campa
 
 #### Tracking Inspiration
 
-A player typically notes on a character sheet whether he or she has inspiration, or you can use poker chips or some other token Alternatively, you can hand out special `d20`s to represent inspiration. When a player spends inspiration, he or she rolls the die and then hands it back to you. If the player instead gives the inspiration to someone else, the `d20` can go to that other person.
+A player typically notes on a character sheet whether he or she has inspiration, or you can use poker chips or some other token Alternatively, you can hand out special `dice:d20|noform|noparens|avg` (`d20`)s to represent inspiration. When a player spends inspiration, he or she rolls the die and then hands it back to you. If the player instead gives the inspiration to someone else, the `dice:d20|noform|noparens|avg` (`d20`) can go to that other person.
 
 #### Ignoring Inspiration
 
@@ -331,11 +337,13 @@ Consider adding similar distinctions to other checks. Perhaps a failed Charisma 
 
 #### Critical Success or Failure
 
-Rolling a 20 or a 1 on an ability check or a saving throw doesn't normally have any special effect. However, you can choose to take such an exceptional roll into account when adjudicating the outcome. It's up to you to determine how this manifests in the game. An easy approach is to increase the impact of the success or failure. For example, rolling a 1 on a failed attempt to pick a lock might break the [thieves' tools](3-Mechanics/CLI/items/thieves-tools.md) being used, and rolling a 20 on a successful Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check might reveal an extra clue.
+Rolling a 20 or a 1 on an ability check or a saving throw doesn't normally have any special effect. However, you can choose to take such an exceptional roll into account when adjudicating the outcome. It's up to you to determine how this manifests in the game. An easy approach is to increase the impact of the success or failure. For example, rolling a 1 on a failed attempt to pick a lock might break the [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md) being used, and rolling a 20 on a successful Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check might reveal an extra clue.
 
 ## Exploration
 
 This section provides guidance for running exploration, especially travel, tracking, and visibility.
+
+![](file://book/DMG/c8-04.webp#center)
 
 ### Using a Map
 
@@ -590,9 +598,9 @@ Tracking damage for one or two monsters isn't onerous, but it helps to have a sy
 
 Descriptions such as "the ogre with the nasty scar" and "the ogre with the horned helm" help you and your players track which monster is which. For example, imagine that you're running an encounter with three ogres, each of which has 59 hit points. Once initiative is rolled, jot down each ogre's hit points and add notes (and even a name, if you like) to differentiate each one:
 
-Krag ([ogre](3-Mechanics/CLI/bestiary/giant/ogre.md) w/ scar): 59  
-Thod ([ogre](3-Mechanics/CLI/bestiary/giant/ogre.md) w/ helm): 59  
-Mur ([ogre](3-Mechanics/CLI/bestiary/giant/ogre.md) who smells like poo): 59  
+Krag ([ogre](3-Mechanics/CLI/bestiary/giant/ogre-xmm.md) w/ scar): 59  
+Thod ([ogre](3-Mechanics/CLI/bestiary/giant/ogre-xmm.md) w/ helm): 59  
+Mur ([ogre](3-Mechanics/CLI/bestiary/giant/ogre-xmm.md) who smells like poo): 59  
 
 If you use miniatures to represent monsters, one easy way to differentiate them is to give each one a unique miniature. If you use identical miniatures to represent multiple monsters, you can tag the miniatures with small stickers of different colors or stickers with different letters or numbers on them.
 
@@ -618,17 +626,17 @@ You might also try keeping a supply of index cards on hand, marked with conditio
 
 ### Monsters and Critical Hits
 
-A monster follows the same rule for critical hits as a player character. That said, if you use a monster's average damage, rather than rolling, you might wonder how to handle a critical hit. When the monster scores a critical hit, roll all the damage dice associated with the hit and add them to the average damage. For example, if a goblin normally deals 5 (`1d6 + 2`) slashing damage on a hit and scores a critical hit, it deals `1d6 + 5` slashing damage.
+A monster follows the same rule for critical hits as a player character. That said, if you use a monster's average damage, rather than rolling, you might wonder how to handle a critical hit. When the monster scores a critical hit, roll all the damage dice associated with the hit and add them to the average damage. For example, if a goblin normally deals `dice:1d6+2|noform|noparens|avg|text(5)` (`1d6 + 2`) slashing damage on a hit and scores a critical hit, it deals `dice:1d6+5|noform|noparens|avg` (`1d6 + 5`) slashing damage.
 
 ### Improvising Damage
 
 A monster or effect typically specifies the amount of damage it deals. In some cases, though, you need to determine damage on the fly. The Improvising Damage table gives you suggestions for when you do so.
 
-![Improvising Damage](3-Mechanics/CLI/tables/improvising-damage.md)
+![Improvising Damage](3-Mechanics/CLI/tables/improvising-damage-xdmg.md)
 
 The Damage Severity and Level table is a guide to how deadly these damage numbers are for characters of various levels. Cross-reference a character's level with the damage being dealt to gauge the severity of the damage.
 
-![Improvising Damage; Damage Severity and Level](3-Mechanics/CLI/tables/improvising-damage-damage-severity-and-level.md)
+![Improvising Damage; Damage Severity and Level](3-Mechanics/CLI/tables/improvising-damage-damage-severity-and-level-xdmg.md)
 
 Damage sufficient to cause a **setback** rarely poses a risk of death to characters of the level shown, but a severely weakened character might be laid low by this damage.
 
@@ -642,9 +650,9 @@ Many spells and other game features create areas of effect, such as the cone and
 
 If you would like more guidance, consider using the Targets in Areas of Effect table. To use the table, imagine which combatants are near one another, and let the table guide you in determining the number of those combatants that are caught in an area of effect.
 
-Add or subtract targets based on how bunched up the potential targets are. Consider rolling `1d3` to determine the amount to add or subtract.
+Add or subtract targets based on how bunched up the potential targets are. Consider rolling `dice:1d3|noform|noparens|avg` (`1d3`) to determine the amount to add or subtract.
 
-![Adjudicating Areas of Effect; Targets in Areas of Effect](3-Mechanics/CLI/tables/adjudicating-areas-of-effect-targets-in-areas-of-effect.md)
+![Adjudicating Areas of Effect; Targets in Areas of Effect](3-Mechanics/CLI/tables/adjudicating-areas-of-effect-targets-in-area-of-effect-xdmg.md)
 
 For example, if a wizard directs burning hands (a 15-foot cone) at a nearby group of orcs, you could use the table and say that two orcs are targeted (15 ÷ 10 = 1.5, rounded up to 2). Similarly, a sorcerer could launch a lightning bolt (100-foot line) at some ogres and hobgoblins, and you could use the table to say four of the monsters are targeted (100 ÷ 30 = 3.33, rounded up to 4).
 
@@ -654,9 +662,9 @@ This approach aims at simplicity instead of spatial precision. If you prefer mor
 
 Keeping combat moving along at a brisk pace can be difficult when there are dozens of monsters involved in a battle. When handling a crowded battlefield, you can speed up play by forgoing attack rolls in favor of approximating the average number of hits a large group of monsters can inflict on a target.
 
-Instead of rolling an attack roll, determine the minimum `d20` roll a creature needs in order to hit a target by subtracting its attack bonus from the target's AC. You'll need to refer to the result throughout the battle, so it's best to write it down.
+Instead of rolling an attack roll, determine the minimum `dice:d20|noform|noparens|avg` (`d20`) roll a creature needs in order to hit a target by subtracting its attack bonus from the target's AC. You'll need to refer to the result throughout the battle, so it's best to write it down.
 
-Look up the minimum `d20` roll needed on the Mob Attacks table. The table shows you how many creatures that need that die roll or higher must attack a target in order for one of them to hit. If that many creatures attack the target, their combined efforts result in one of them hitting the target.
+Look up the minimum `dice:d20|noform|noparens|avg` (`d20`) roll needed on the Mob Attacks table. The table shows you how many creatures that need that die roll or higher must attack a target in order for one of them to hit. If that many creatures attack the target, their combined efforts result in one of them hitting the target.
 
 For example, eight orcs surround a fighter. The orcs' attack bonus is +5, and the fighter's AC is 19. The orcs need a 14 or higher to hit the fighter. According to the table, for every three orcs that attack the fighter, one of them hits. There are enough orcs for two groups of three. The remaining two orcs fail to hit the fighter.
 
@@ -682,11 +690,11 @@ The most common unit for tactical maps is the 5-foot square, and maps with grids
 
 A creature's size determines how much space it occupies on squares or hexes, as shown in the Creature Size and Space table. If the miniature you use for a monster takes up an amount of space different from what's on the table, that's fine, but treat the monster as its official size for all other rules. For example, you might use a miniature that has a Large base to represent a Huge giant. The giant takes up less space on the battlefield than its size suggests, but it is still Huge for the purposes of rules like grappling.
 
-![Creature Size on Squares and Hexes; Creature Size and Space](3-Mechanics/CLI/tables/creature-size-on-squares-and-hexes-creature-size-and-space.md)
+![](file://book/DMG/Monster_Size_Chart.webp#center)
 
-![](3-Mechanics/CLI/books/dungeon-masters-guide-2014/img/monster_size_chart.webp#center)
+![Creature Size on Squares and Hexes; Creature Size and Space](3-Mechanics/CLI/tables/creature-size-and-space-xdmg.md)
 
-![](3-Mechanics/CLI/books/dungeon-masters-guide-2014/img/creature_size_on_squares_and_hexes.webp#center)
+![](file://book/DMG/Creature_Size_on_Squares_and_Hexes.webp#center)
 
 #### Areas of Effect
 
@@ -718,13 +726,13 @@ When a creature and at least one of its allies are adjacent to an enemy and on o
 
 When in doubt about whether two creatures flank an enemy on a grid, trace an imaginary line between the centers of the creatures' spaces. If the line passes through opposite sides or corners of the enemy's space, the enemy is flanked.
 
-![](3-Mechanics/CLI/books/dungeon-masters-guide-2014/img/flanking_and_cover_squares.webp#center)
+![](file://book/DMG/Flanking_and_Cover_Squares.webp#center)
 
 ##### Flanking on Hexes
 
 When a creature and at least one of its allies are adjacent to an enemy and on opposite sides of the enemy's space, they flank that enemy, and each of them has advantage on attack rolls against that enemy. On hexes, count around the enemy from one creature to its ally. Against a Medium or smaller creature, the allies flank if there are 2 hexes between them. Against a Large creature, the allies flank if there are 4 hexes between them. Against a Huge creature, they must have 5 hexes between them. Against a Gargantuan creature, they must have at least 6 hexes between them.
 
-![](3-Mechanics/CLI/books/dungeon-masters-guide-2014/img/flanking_and_cover_hexes.webp#center)
+![](file://book/DMG/Flanking_and_Cover_Hexes.webp#center)
 
 #### Optional Rule: Diagonals
 
@@ -770,6 +778,8 @@ When a chase begins, determine the starting distance between the quarry and the 
 
 ### Running the Chase
 
+![](file://book/DMG/c8-22.webp#center)
+
 Participants in the chase are strongly motivated to use the Dash action every round. Pursuers who stop to cast spells and make attacks run the risk of losing their quarry, and a quarry that does so is likely to be caught.
 
 #### Dashing
@@ -796,7 +806,7 @@ If the quarry is never out of the lead pursuer's sight, the check fails automati
 
 The quarry gains advantage or disadvantage on its check based on prevailing circumstances, as shown in the Escape Factors table. If one or more factors give the quarry both advantage and disadvantage on its check, the quarry has neither, as usual.
 
-![Ending a Chase; Escape Factors](3-Mechanics/CLI/tables/ending-a-chase-escape-factors.md)
+![Ending a Chase; Escape Factors](3-Mechanics/CLI/tables/ending-a-chase-escape-factors-xdmg.md)
 
 Other factors might help or hinder the quarry's ability to escape, at your discretion. For example, a quarry with a faerie fire spell cast on it might have disadvantage on checks made to escape because it's much easier to spot.
 
@@ -804,13 +814,13 @@ Escape doesn't necessarily mean the quarry has outpaced its pursuers. For exampl
 
 ### Chase Complications
 
-As with any good chase scene, complications can arise to make a chase more pulse-pounding. The Urban Chase Complications table and the Wilderness Chase Complications table provide several examples. Complications occur randomly. Each participant in the chase rolls a `d20` at the end of its turn. Consult the appropriate table to determine whether a complication occurs. If it does, it affects the next chase participant in the initiative order, not the participant who rolled the die. The participant who rolled the die or the participant affected by the complication can spend inspiration to negate the complication.
+As with any good chase scene, complications can arise to make a chase more pulse-pounding. The Urban Chase Complications table and the Wilderness Chase Complications table provide several examples. Complications occur randomly. Each participant in the chase rolls a `dice:d20|noform|noparens|avg` (`d20`) at the end of its turn. Consult the appropriate table to determine whether a complication occurs. If it does, it affects the next chase participant in the initiative order, not the participant who rolled the die. The participant who rolled the die or the participant affected by the complication can spend inspiration to negate the complication.
 
 Characters can create their own complications to shake off pursuers (for example, casting the web spell in a narrow alleyway). Adjudicate these as you see fit.
 
-![Urban Chase Complications](3-Mechanics/CLI/tables/urban-chase-complications.md)
+![Urban Chase Complications](3-Mechanics/CLI/tables/urban-chase-complications-xdmg.md)
 
-![Wilderness Chase Complications](3-Mechanics/CLI/tables/wilderness-chase-complications.md)
+![Wilderness Chase Complications](3-Mechanics/CLI/tables/wilderness-chase-complications-xdmg.md)
 
 #### Designing Your Own Chase Tables
 
@@ -836,15 +846,17 @@ During a chase, it's possible for the pursuers to become the quarry. For example
 
 Siege weapons are designed to assail castles and other walled fortifications. They see much use in campaigns that feature war. Most siege weapons don't move around a battlefield on their own; they require creatures to move them, as well as to load, aim, and fire them.
 
-- [Ballista](3-Mechanics/CLI/objects/ballista.md)  
-- [Cannon](3-Mechanics/CLI/objects/cannon.md)  
-- [Suspended Cauldron](3-Mechanics/CLI/objects/suspended-cauldron.md)  
-- [Mangonel](3-Mechanics/CLI/objects/mangonel.md)  
-- [Ram](3-Mechanics/CLI/objects/ram.md)  
-- [Siege Tower](3-Mechanics/CLI/objects/siege-tower.md)  
-- [Trebuchet](3-Mechanics/CLI/objects/trebuchet.md)  
+- [Ballista](3-Mechanics/CLI/objects/ballista-xdmg.md)  
+- [Cannon](3-Mechanics/CLI/objects/cannon-xdmg.md)  
+- [Suspended Cauldron](3-Mechanics/CLI/objects/suspended-cauldron-xdmg.md)  
+- [Mangonel](3-Mechanics/CLI/objects/mangonel-xdmg.md)  
+- [Ram](3-Mechanics/CLI/objects/ram-xdmg.md)  
+- [Siege Tower](3-Mechanics/CLI/objects/siege-tower-xdmg.md)  
+- [Trebuchet](3-Mechanics/CLI/objects/trebuchet-xdmg.md)  
 
 ## Diseases
+
+![](file://book/DMG/c8-23.webp#center)
 
 A plague ravages the kingdom, setting the adventurers on a quest to find a cure. An adventurer emerges from an ancient tomb, unopened for centuries, and soon finds herself suffering from a wasting illness. A warlock offends some dark power and contracts a strange affliction that spreads whenever he casts spells.
 
@@ -888,20 +900,20 @@ Injury poison can be applied to weapons, ammunition, trap components, and other 
 
 Each type of poison has its own debilitating effects.
 
-- [Assassin's blood](3-Mechanics/CLI/items/assassins-blood.md)  
-- [Burnt othur fumes](3-Mechanics/CLI/items/burnt-othur-fumes.md)  
-- [Carrion crawler mucus](3-Mechanics/CLI/items/carrion-crawler-mucus.md)  
-- [Drow poison](3-Mechanics/CLI/items/drow-poison.md)  
-- [Essence of ether](3-Mechanics/CLI/items/essence-of-ether.md)  
-- [Malice](3-Mechanics/CLI/items/malice.md)  
-- [Midnight tears](3-Mechanics/CLI/items/midnight-tears.md)  
-- [Oil of taggit](3-Mechanics/CLI/items/oil-of-taggit.md)  
-- [Pale tincture](3-Mechanics/CLI/items/pale-tincture.md)  
-- [Purple worm poison](3-Mechanics/CLI/items/purple-worm-poison.md)  
-- [Serpent venom](3-Mechanics/CLI/items/serpent-venom.md)  
-- [Torpor](3-Mechanics/CLI/items/torpor.md)  
-- [Truth serum](3-Mechanics/CLI/items/truth-serum.md)  
-- [Wyvern poison](3-Mechanics/CLI/items/wyvern-poison.md)  
+- [Assassin's blood](3-Mechanics/CLI/items/assassins-blood-xdmg.md)  
+- [Burnt othur fumes](3-Mechanics/CLI/items/burnt-othur-fumes-xdmg.md)  
+- [Carrion crawler mucus](3-Mechanics/CLI/items/carrion-crawler-mucus-xdmg.md)  
+- [Drow poison](3-Mechanics/CLI/items/lolths-sting-xdmg.md)  
+- [Essence of ether](3-Mechanics/CLI/items/essence-of-ether-xdmg.md)  
+- [Malice](3-Mechanics/CLI/items/malice-xdmg.md)  
+- [Midnight tears](3-Mechanics/CLI/items/midnight-tears-xdmg.md)  
+- [Oil of taggit](3-Mechanics/CLI/items/oil-of-taggit-xdmg.md)  
+- [Pale tincture](3-Mechanics/CLI/items/pale-tincture-xdmg.md)  
+- [Purple worm poison](3-Mechanics/CLI/items/purple-worm-poison-xdmg.md)  
+- [Serpent venom](3-Mechanics/CLI/items/serpent-venom-xdmg.md)  
+- [Torpor](3-Mechanics/CLI/items/torpor-xdmg.md)  
+- [Truth serum](3-Mechanics/CLI/items/truth-serum-xdmg.md)  
+- [Wyvern poison](3-Mechanics/CLI/items/wyvern-poison-xdmg.md)  
 
 ### Purchasing Poison
 
@@ -911,17 +923,19 @@ The Poisons table gives suggested prices for single doses of various poisons.
 
 ### Crafting and Harvesting Poison
 
-During downtime between adventures, a character can use the crafting rules in the Player's Handbook to create basic poison if the character has proficiency with a [poisoner's kit](3-Mechanics/CLI/items/poisoners-kit.md). At your discretion, the character can craft other kinds of poison. Not all poison ingredients are available for purchase, and tracking down certain ingredients might form the basis of an entire adventure.
+During downtime between adventures, a character can use the crafting rules in the Player's Handbook to create basic poison if the character has proficiency with a [poisoner's kit](3-Mechanics/CLI/items/poisoners-kit-xphb.md). At your discretion, the character can craft other kinds of poison. Not all poison ingredients are available for purchase, and tracking down certain ingredients might form the basis of an entire adventure.
 
-A character can instead attempt to harvest poison from a poisonous creature, such as a snake, wyvern, or carrion crawler. The creature must be incapacitated or dead, and the harvesting requires `1d6` minutes followed by a DC 20 Intelligence ([Nature](3-Mechanics/CLI/rules/skills.md#Nature)) check. (Proficiency with the [poisoner's kit](3-Mechanics/CLI/items/poisoners-kit.md) applies to this check if the character doesn't have proficiency in Nature.) On a successful check, the character harvests enough poison for a single dose. On a failed check, the character is unable to extract any poison. If the character fails the check by 5 or more, the character is subjected to the creature's poison.
+A character can instead attempt to harvest poison from a poisonous creature, such as a snake, wyvern, or carrion crawler. The creature must be incapacitated or dead, and the harvesting requires `dice:1d6|noform|noparens|avg` (`1d6`) minutes followed by a DC 20 Intelligence ([Nature](3-Mechanics/CLI/rules/skills.md#Nature)) check. (Proficiency with the [poisoner's kit](3-Mechanics/CLI/items/poisoners-kit-xphb.md) applies to this check if the character doesn't have proficiency in Nature.) On a successful check, the character harvests enough poison for a single dose. On a failed check, the character is unable to extract any poison. If the character fails the check by 5 or more, the character is subjected to the creature's poison.
 
 ## Madness
+
+![](file://book/DMG/c8-24.webp#center)
 
 In a typical campaign, characters aren't driven mad by the horrors they face and the carnage they inflict day after day, but sometimes the stress of being an adventurer can be too much to bear. If your campaign has a strong horror theme, you might want to use madness as a way to reinforce that theme, emphasizing the extraordinarily horrific nature of the threats the adventurers face.
 
 ### Going Mad
 
-Various magical effects can inflict madness on an otherwise stable mind. Certain spells, such as [contact other plane](3-Mechanics/CLI/spells/contact-other-plane.md) and [symbol](3-Mechanics/CLI/spells/symbol.md), can cause insanity, and you can use the madness rules here instead of the spell effects in the Player's Handbook. Diseases, poisons, and planar effects such as psychic wind or the howling winds of Pandemonium can all inflict madness. Some artifacts can also break the psyche of a character who uses or becomes attuned to them.
+Various magical effects can inflict madness on an otherwise stable mind. Certain spells, such as [contact other plane](3-Mechanics/CLI/spells/contact-other-plane-xphb.md) and [symbol](3-Mechanics/CLI/spells/symbol-xphb.md), can cause insanity, and you can use the madness rules here instead of the spell effects in the Player's Handbook. Diseases, poisons, and planar effects such as psychic wind or the howling winds of Pandemonium can all inflict madness. Some artifacts can also break the psyche of a character who uses or becomes attuned to them.
 
 Resisting a madness-inducing effect usually requires a Wisdom or Charisma saving throw. If your game includes the [Sanity score](3-Mechanics/CLI/rules/variant-rules/new-ability-scores-honor-and-sanity.md) (see chapter 9, "Dungeon Master's Workshop"), a creature makes a Sanity saving throw instead.
 
@@ -929,7 +943,7 @@ Resisting a madness-inducing effect usually requires a Wisdom or Charisma saving
 
 Madness can be short-term, long-term, or indefinite. Most relatively mundane effects impose short-term madness, which lasts for just a few minutes. More horrific effects or cumulative effects can result in long-term or indefinite madness.
 
-A character afflicted with **short-term madness** is subjected to an effect from the Short-Term Madness table for `1d10` minutes.
+A character afflicted with **short-term madness** is subjected to an effect from the Short-Term Madness table for `dice:1d10|noform|noparens|avg` (`1d10`) minutes.
 
 A character afflicted with **long-term madness** is subjected to an effect from the Long-Term Madness table for `1d10 × 10` hours.
 
@@ -943,7 +957,7 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 
 ### Curing Madness
 
-A [calm emotions](3-Mechanics/CLI/spells/calm-emotions.md) spell can suppress the effects of madness, while a [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration.md) spell can rid a character of a short-term or long-term madness. Depending on the source of the madness, [remove curse](3-Mechanics/CLI/spells/remove-curse.md) or [dispel evil](3-Mechanics/CLI/spells/dispel-evil-and-good.md) might also prove effective. A [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md) spell or more powerful magic is required to rid a character of indefinite madness.
+A [calm emotions](3-Mechanics/CLI/spells/calm-emotions-xphb.md) spell can suppress the effects of madness, while a [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md) spell can rid a character of a short-term or long-term madness. Depending on the source of the madness, [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md) or [dispel evil](3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md) might also prove effective. A [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md) spell or more powerful magic is required to rid a character of indefinite madness.
 
 ## Experience Points
 
@@ -964,6 +978,8 @@ Some DMs treat XP as a reward for participating in the game, and keeping up with
 As an alternative, give absent characters the same XP that the other characters earned each session, keeping the group at the same level. Few players will intentionally miss out on the fun of gaming just because they know they'll receive XP for it even if they don't show up.
 
 ### Noncombat Challenges
+
+![](file://book/DMG/c8-25.webp#center)
 
 You decide whether to award experience to characters for overcoming challenges outside combat. If the adventurers complete a tense negotiation with a baron, forge a trade agreement with a clan of surly dwarves, or successfully navigate the Chasm of Doom, you might decide that they deserve an XP reward.
 

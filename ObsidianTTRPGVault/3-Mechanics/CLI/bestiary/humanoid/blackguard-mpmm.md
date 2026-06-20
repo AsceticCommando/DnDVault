@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Blackguard"
 ---
-# [Blackguard](3-Mechanics\CLI\bestiary\humanoid/blackguard-mpmm.md)
+# [Blackguard](3-Mechanics/CLI/bestiary/humanoid/blackguard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 63, Volo's Guide to Monsters p. 211*  
 
 Blackguards are paladins who broke their sacred oaths and now indulge their own villainous ambitions. They consort with Fiends and Undead, and they reject many of the goodly things from their former lives.
@@ -22,6 +22,8 @@ Blackguards are paladins who broke their sacred oaths and now indulge their own 
 Blackguards often adorn their armor and weapons with dread accoutrements or are marked by eerie phenomena. You may choose a blackguard's accoutrement or roll on the Blackguard Accoutrements table to determine it.
 
 **Blackguard Accoutrements**
+
+`dice: [](blackguard-mpmm.md#^blackguard-accoutrements)`
 
 | dice: d8 | Accoutrement |
 |----------|--------------|
@@ -42,7 +44,7 @@ Blackguards often adorn their armor and weapons with dread accoutrements or are 
 "subtype": "paladin"
 "alignment": "Typically  Neutral Evil"
 "ac": !!int "18"
-"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor.md)"
+"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "119"
 "hit_dice": "14d8 + 56"
 "modifier": !!int "0"
@@ -65,8 +67,8 @@ Blackguards often adorn their armor and weapons with dread accoutrements or are 
   - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+5"
 "gear":
-  - "[glaive](3-Mechanics/CLI/items/glaive.md)"
-  - "[shortbow](3-Mechanics/CLI/items/shortbow.md)"
+  - "[glaive](3-Mechanics/CLI/items/glaive-xphb.md)"
+  - "[shortbow](3-Mechanics/CLI/items/shortbow-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "any one language (usually Common)"
 "cr": "8"
@@ -86,8 +88,8 @@ Blackguards often adorn their armor and weapons with dread accoutrements or are 
       \ can repeat the saving throw, ending the effect on itself on a success."
     "name": "Dreadful Aspect (Recharges after a Short or Long Rest)"
   - "desc": "The blackguard casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 13):\n\n**2/day each:** [command](3-Mechanics/CLI/spells/command.md),\
-      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), [find steed](3-Mechanics/CLI/spells/find-steed.md)"
+      \ spellcasting ability (spell save DC 13):\n\n**2/day each:** [command](3-Mechanics/CLI/spells/command-xphb.md),\
+      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [find steed](3-Mechanics/CLI/spells/find-steed-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "Immediately after the blackguard hits a target with an attack roll, the\
@@ -105,7 +107,7 @@ Blackguards often adorn their armor and weapons with dread accoutrements or are 
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/blackguard-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Blackguard.webp"
 ```
 ^statblock
 

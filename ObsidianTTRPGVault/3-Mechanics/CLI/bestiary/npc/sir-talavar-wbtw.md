@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Sir Talavar"
 ---
-# [Sir Talavar](3-Mechanics\CLI\bestiary\npc/sir-talavar-wbtw.md)
+# [Sir Talavar](3-Mechanics/CLI/bestiary/npc/sir-talavar-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 69*  
 
 Sir Talavar is an esteemed member of the Seelie Court and a loyal vassal of the Summer Queen. Many of Sir Talavar's squires have gone on to become knights of great renown. The venerable faerie dragon has an encouraging, can-do demeanor and an unwavering sense of honor.
@@ -49,13 +49,13 @@ Sir Talavar is an esteemed member of the Seelie Court and a loyal vassal of the 
   - "desc": "Sir Talavar's innate spellcasting ability is Charisma (spell save DC\
       \ 13). It can innately cast a number of spells, requiring no material components.\
       \ As the dragon ages and changes color, it gains additional spells as shown\
-      \ below.\n\n**1/day:** [color spray](3-Mechanics/CLI/spells/color-spray.md)\
-      \ (Orange), [mirror image](3-Mechanics/CLI/spells/mirror-image.md) (Yellow),\
-      \ [suggestion](3-Mechanics/CLI/spells/suggestion.md) (Green), [major image](3-Mechanics/CLI/spells/major-image.md)\
-      \ (Blue), [hallucinatory terrain](3-Mechanics/CLI/spells/hallucinatory-terrain.md)\
-      \ (Indigo), [polymorph](3-Mechanics/CLI/spells/polymorph.md) (Violet)\n\n**1/day\
-      \ each:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md), [mage\
-      \ hand](3-Mechanics/CLI/spells/mage-hand.md), [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md)"
+      \ below.\n\n**1/day:** [color spray](3-Mechanics/CLI/spells/color-spray-xphb.md)\
+      \ (Orange), [mirror image](3-Mechanics/CLI/spells/mirror-image-xphb.md) (Yellow),\
+      \ [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md) (Green), [major image](3-Mechanics/CLI/spells/major-image-xphb.md)\
+      \ (Blue), [hallucinatory terrain](3-Mechanics/CLI/spells/hallucinatory-terrain-xphb.md)\
+      \ (Indigo), [polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md) (Violet)\n\
+      \n**1/day each:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "As a bonus action, Sir Talavar can magically turn [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
       \ until his [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration)\
@@ -87,6 +87,6 @@ Sir Talavar is an esteemed member of the Seelie Court and a loyal vassal of the 
     "name": "Euphoria Breath (Recharge 5-6)"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/npc/token/sir-talavar-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Sir%20Talavar.webp"
 ```
 ^statblock

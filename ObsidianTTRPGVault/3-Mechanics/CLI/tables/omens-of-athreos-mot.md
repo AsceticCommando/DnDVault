@@ -12,6 +12,8 @@ aliases:
 
 **Omens of Athreos**
 
+`dice: [](omens-of-athreos-mot.md#^omens-of-athreos)`
+
 | dice: d6 | dice: d100 | Omen of Athreos |
 |----------|------------|-----------------|
 | 1 | 01 | Faintly glowing wisps of fog or mist coalesce into shapes in the air. |

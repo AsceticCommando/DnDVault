@@ -20,6 +20,8 @@ A character never has more than three Seeds of Fear; if you gain a new seed and 
 
 **Seeds of Fear**
 
+`dice: [](fear-and-stress-vrgr.md#^seeds-of-fear)`
+
 | dice: d12 | Seed |
 |-----------|------|
 | 1 | "I can't stand dark places." |
@@ -73,6 +75,6 @@ When a character makes an attack roll, an ability check, or a saving throw, they
 
 A character who spends an entire day relaxing or in otherwise calm circumstances reduces their Stress Score by 1 when they finish their next long rest.
 
-The [calm emotions](3-Mechanics/CLI/spells/calm-emotions.md) spell effect used to suppress the [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) and [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) conditions also suppresses the effects of one's Stress Score for the spell's duration.
+The [calm emotions](3-Mechanics/CLI/spells/calm-emotions-xphb.md) spell effect used to suppress the [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) and [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) conditions also suppresses the effects of one's Stress Score for the spell's duration.
 
-A [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration.md) spell reduces the target's Stress Score by 1, and a [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md) spell reduces a character's Stress Score to 0.
+A [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md) spell reduces the target's Stress Score by 1, and a [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md) spell reduces a character's Stress Score to 0.

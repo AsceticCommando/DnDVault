@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Animated Tile Chimera"
 ---
-# [Animated Tile Chimera](3-Mechanics\CLI\bestiary\monstrosity/animated-tile-chimera-rot.md)
+# [Animated Tile Chimera](3-Mechanics/CLI/bestiary/monstrosity/animated-tile-chimera-rot.md)
 *Source: The Rise of Tiamat p. 42, Tyranny of Dragons p. 128*  
 
 ```statblock
@@ -76,6 +76,6 @@ aliases:
 "source":
   - "RoT"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/animated-tile-chimera-rot.webp"
+"image": "file://bestiary/tokens/RoT/Animated%20Tile%20Chimera.webp"
 ```
 ^statblock

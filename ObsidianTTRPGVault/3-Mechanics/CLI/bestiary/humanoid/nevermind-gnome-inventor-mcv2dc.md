@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Nevermind Gnome Inventor"
 ---
-# [Nevermind Gnome Inventor](3-Mechanics\CLI\bestiary\humanoid/nevermind-gnome-inventor-mcv2dc.md)
+# [Nevermind Gnome Inventor](3-Mechanics/CLI/bestiary/humanoid/nevermind-gnome-inventor-mcv2dc.md)
 *Source: Monstrous Compendium Volume 2: Dragonlance Creatures p. 10*  
 
 > [!quote]  
@@ -35,7 +35,7 @@ Mount Nevermind is a hollow, dormant volcano on the island of Sancrist in Krynn.
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "14"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "36"
 "hit_dice": "8d6 + 8"
 "modifier": !!int "3"
@@ -87,6 +87,6 @@ Mount Nevermind is a hollow, dormant volcano on the island of Sancrist in Krynn.
     "name": "Flash Powder"
 "source":
   - "MCV2DC"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/nevermind-gnome-inventor-mcv2dc.webp"
+"image": "file://bestiary/tokens/MCV2DC/Nevermind%20Gnome%20Inventor.webp"
 ```
 ^statblock

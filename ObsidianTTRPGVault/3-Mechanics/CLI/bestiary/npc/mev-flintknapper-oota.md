@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Mev Flintknapper"
 ---
-# [Mev Flintknapper](3-Mechanics\CLI\bestiary\npc/mev-flintknapper-oota.md)
+# [Mev Flintknapper](3-Mechanics/CLI/bestiary/npc/mev-flintknapper-oota.md)
 *Source: Out of the Abyss p. 103*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "17"
-"ac_class": "[splint armor](3-Mechanics/CLI/items/splint-armor.md)"
+"ac_class": "[splint armor](3-Mechanics/CLI/items/splint-armor-xphb.md)"
 "hp": !!int "58"
 "hit_dice": "9d8 + 18"
 "modifier": !!int "1"
@@ -40,17 +40,17 @@ aliases:
   - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
 "gear":
-  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow.md)"
-  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow-xphb.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
   \ Perception 12"
 "languages": "any one language (usually Common), Gnomish, Terran, Undercommon"
 "cr": "3"
 "traits":
-  - "desc": "Mev\n\n**At will:** [nondetection](3-Mechanics/CLI/spells/nondetection.md)\
-      \ (self only)\n\n**1/day each:** [blindness/deafness](3-Mechanics/CLI/spells/blindness-deafness.md),\
-      \ [blur](3-Mechanics/CLI/spells/blur.md), [disguise self](3-Mechanics/CLI/spells/disguise-self.md)"
+  - "desc": "Mev\n\n**At will:** [nondetection](3-Mechanics/CLI/spells/nondetection-xphb.md)\
+      \ (self only)\n\n**1/day each:** [blindness/deafness](3-Mechanics/CLI/spells/blindness-deafness-xphb.md),\
+      \ [blur](3-Mechanics/CLI/spells/blur-xphb.md), [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "Mev"
     "name": "Gnome Cunning"
@@ -71,6 +71,6 @@ aliases:
     "name": "Heavy Crossbow"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/mev-flintknapper-oota.webp"
+"image": "file://bestiary/tokens/OotA/Mev%20Flintknapper.webp"
 ```
 ^statblock

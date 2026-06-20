@@ -15,7 +15,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Stone Cursed"
 ---
-# [Stone Cursed](3-Mechanics\CLI\bestiary\construct/stone-cursed-mpmm.md)
+# [Stone Cursed](3-Mechanics/CLI/bestiary/construct/stone-cursed-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 233, Mordenkainen's Tome of Foes p. 240*  
 
 Stone cursed are spawned through a foul alchemical ritual performed on a Humanoid that has been turned to stone. The ritual, which requires a mixture of basilisk blood and the ashes from the burned feathers of a cockatrice, awakens a dim echo of the [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified) victim's spirit, animating the statue and turning it into a useful guardian.
@@ -75,7 +75,7 @@ Even though a creature transformed into a stone cursed is long dead, a vague whi
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/construct/token/stone-cursed-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Stone%20Cursed.webp"
 ```
 ^statblock
 

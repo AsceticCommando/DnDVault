@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Nupperibo"
 ---
-# [Nupperibo](3-Mechanics\CLI\bestiary\fiend/nupperibo-mpmm.md)
+# [Nupperibo](3-Mechanics/CLI/bestiary/fiend/nupperibo-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 196, Mordenkainen's Tome of Foes p. 168*  
 
 > [!quote] A quote from Mordenkainen  
@@ -25,7 +25,7 @@ aliases:
 
 No soul is turned away from the Nine Hells, but the truly worthless—those whose evil acts in life arose from carelessness and inaction more than anything else—are suitable only to become nupperibos. These pitiful creatures shuffle across the landscape, driven to purposeful action only when the clouds of swarming vermin that surround them find them prey to destroy or when a greater fiendish power commands it.
 
-Individually, nupperibos are weak, but they're rarely alone and can be dangerous when gathered into packs. Clouds of stinging insects, [stirges](3-Mechanics/CLI/bestiary/beast/stirge.md), and other vermin surround them in a terrifying, reeking sheath that torments any non-devil that draws near.
+Individually, nupperibos are weak, but they're rarely alone and can be dangerous when gathered into packs. Clouds of stinging insects, [stirges](3-Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md), and other vermin surround them in a terrifying, reeking sheath that torments any non-devil that draws near.
 
 A nupperibo knows nothing but the desire to destroy non-Fiends. Once a nupperibo's vermin cloud senses a potential meal, any nearby nupperibos pursue that prey tirelessly until it or the nupperibos are slain, or some other potential victim crosses the devils' path and distracts them.
 
@@ -78,6 +78,6 @@ Nupperibos unthinkingly obey any command they receive telepathically from anothe
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/nupperibo-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Nupperibo.webp"
 ```
 ^statblock

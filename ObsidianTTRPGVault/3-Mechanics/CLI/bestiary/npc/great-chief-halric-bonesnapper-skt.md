@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Great Chief Halric Bonesnapper"
 ---
-# [Great Chief Halric Bonesnapper](3-Mechanics\CLI\bestiary\npc/great-chief-halric-bonesnapper-skt.md)
+# [Great Chief Halric Bonesnapper](3-Mechanics/CLI/bestiary/npc/great-chief-halric-bonesnapper-skt.md)
 *Source: Storm King's Thunder p. 89*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "human"
 "alignment": "Chaotic Evil"
 "ac": !!int "13"
-"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor.md)"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor-xphb.md)"
 "hp": !!int "99"
 "hit_dice": "9d8 + 27"
 "modifier": !!int "1"
@@ -35,7 +35,7 @@ aliases:
   - !!int "9"
 "speed": "30 ft."
 "gear":
-  - "[+1 greataxe](3-Mechanics/CLI/items/1-weapon.md)"
+  - "[+1 greataxe](3-Mechanics/CLI/items/1-weapon-xdmg.md)"
 "senses": "passive Perception 10"
 "languages": "Bothii, Common"
 "cr": "2"
@@ -50,6 +50,6 @@ aliases:
     "name": "Greataxe +1"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/great-chief-halric-bonesnapper-skt.webp"
+"image": "file://bestiary/tokens/SKT/Great%20Chief%20Halric%20Bonesnapper.webp"
 ```
 ^statblock

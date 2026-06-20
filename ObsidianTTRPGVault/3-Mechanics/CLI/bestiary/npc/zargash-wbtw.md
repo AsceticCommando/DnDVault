@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Zargash"
 ---
-# [Zargash](3-Mechanics\CLI\bestiary\npc/zargash-wbtw.md)
+# [Zargash](3-Mechanics/CLI/bestiary/npc/zargash-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 223*  
 
 Zargash worships Orcus, the Demon Prince of Undeath, who has promised to transform Zargash into a vampire after a lifetime of faithful service. For a living priest to worship Orcus is utter folly, but Zargash is twisted beyond any hope of redemption. His hobbies include slaying the living and animating the dead.
@@ -25,7 +25,7 @@ Zargash worships Orcus, the Demon Prince of Undeath, who has promised to transfo
 "subtype": "cleric, human"
 "alignment": "Chaotic Evil"
 "ac": !!int "13"
-"ac_class": "[chain shirt](3-Mechanics/CLI/items/chain-shirt.md)"
+"ac_class": "[chain shirt](3-Mechanics/CLI/items/chain-shirt-xphb.md)"
 "hp": !!int "45"
 "hit_dice": "7d8 + 14"
 "modifier": !!int "0"
@@ -46,7 +46,7 @@ Zargash worships Orcus, the Demon Prince of Undeath, who has promised to transfo
   - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+5"
 "gear":
-  - "[warhammer](3-Mechanics/CLI/items/warhammer.md)"
+  - "[warhammer](3-Mechanics/CLI/items/warhammer-xphb.md)"
 "senses": "passive Perception 13"
 "languages": "Common"
 "cr": "3"
@@ -55,7 +55,7 @@ Zargash worships Orcus, the Demon Prince of Undeath, who has promised to transfo
       \ damage, he instead drops to 1 hit point."
     "name": "Cling to Life (Recharges after a Long Rest)"
   - "desc": "Zargash wears a bat-shaped amulet that has the properties of a [ring\
-      \ of feather falling](3-Mechanics/CLI/items/ring-of-feather-falling.md)."
+      \ of feather falling](3-Mechanics/CLI/items/ring-of-feather-falling-xdmg.md)."
     "name": "Special Equipment"
 "actions":
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8\
@@ -66,10 +66,11 @@ Zargash worships Orcus, the Demon Prince of Undeath, who has promised to transfo
       \ 25 (4d10 + 3) necrotic damage."
     "name": "Deathly Ray"
   - "desc": "Zargash casts one of the following spells, using Wisdom as the spellcasting\
-      \ ability (spell save DC 13):\n\n**At will:** [light](3-Mechanics/CLI/spells/light.md),\
-      \ [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy.md)\n\n**1/day each:** [command](3-Mechanics/CLI/spells/command.md),\
-      \ [gaseous form](3-Mechanics/CLI/spells/gaseous-form.md), [hold person](3-Mechanics/CLI/spells/hold-person.md),\
-      \ [silence](3-Mechanics/CLI/spells/silence.md), [speak with dead](3-Mechanics/CLI/spells/speak-with-dead.md)"
+      \ ability (spell save DC 13):\n\n**At will:** [light](3-Mechanics/CLI/spells/light-xphb.md),\
+      \ [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n**1/day each:**\
+      \ [command](3-Mechanics/CLI/spells/command-xphb.md), [gaseous form](3-Mechanics/CLI/spells/gaseous-form-xphb.md),\
+      \ [hold person](3-Mechanics/CLI/spells/hold-person-xphb.md), [silence](3-Mechanics/CLI/spells/silence-xphb.md),\
+      \ [speak with dead](3-Mechanics/CLI/spells/speak-with-dead-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "Zargash targets the lifeless corpse of one Humanoid he can see within\
@@ -83,6 +84,6 @@ Zargash worships Orcus, the Demon Prince of Undeath, who has promised to transfo
     "name": "Animate Corpse (1/Day)"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/npc/token/zargash-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Zargash.webp"
 ```
 ^statblock

@@ -11,4 +11,4 @@ aliases:
 
 ## 4th Level
 
-- [Compulsion](3-Mechanics/CLI/spells/compulsion.md "PHB")
+- [Compulsion](3-Mechanics/CLI/spells/compulsion-xphb.md "XPHB")

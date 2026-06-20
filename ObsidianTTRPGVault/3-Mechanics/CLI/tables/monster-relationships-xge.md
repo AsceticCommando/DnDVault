@@ -12,6 +12,8 @@ aliases:
 
 **Monster Relationships**
 
+`dice: [](monster-relationships-xge.md#^monster-relationships)`
+
 | dice: d6 | Relationship |
 |----------|--------------|
 | 1 | Has a rival; wants one random ally to suffer |

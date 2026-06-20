@@ -12,6 +12,8 @@ aliases:
 
 **Half-Orc Names – Female**
 
+`dice: [](half-orc-names-female-xge.md#^half-orc-names-female)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Arha |

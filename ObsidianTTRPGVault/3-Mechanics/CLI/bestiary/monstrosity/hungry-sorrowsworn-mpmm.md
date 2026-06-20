@@ -15,7 +15,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Hungry Sorrowsworn"
 ---
-# [Hungry Sorrowsworn](3-Mechanics\CLI\bestiary\monstrosity/hungry-sorrowsworn-mpmm.md)
+# [Hungry Sorrowsworn](3-Mechanics/CLI/bestiary/monstrosity/hungry-sorrowsworn-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 223, Mordenkainen's Tome of Foes p. 232*  
 
 Horrible creatures with grasping claws and distended jaws, hungry sorrowsworn—also known as the Hungry—do whatever is necessary to sate their appetites. These greedy devourers stuff their maws with flesh and drink in their victims' screams. When they finish, they lurch away while their bright eyes resume the search for something else to consume.
@@ -68,7 +68,7 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/hungry-sorrowsworn-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Hungry%20Sorrowsworn.webp"
 ```
 ^statblock
 

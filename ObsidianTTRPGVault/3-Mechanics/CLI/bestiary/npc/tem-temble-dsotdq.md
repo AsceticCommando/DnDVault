@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Tem Temble"
 ---
-# [Tem Temble](3-Mechanics\CLI\bestiary\npc/tem-temble-dsotdq.md)
+# [Tem Temble](3-Mechanics/CLI/bestiary/npc/tem-temble-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 213*  
 
 [Tem](3-Mechanics/CLI/bestiary/npc/tem-temble-dsotdq.md) has the soul of a wanderer, though her feet most often take her deep into the wild and forgotten places of the world. Early in her travels, she befriended a winged lizard she named Melon, and the two have become inseparable. She fights the Dragon Armies' advance, channeling the rejuvenating magic of nature through her trusty hoopak to bolster her allies. Tem's mannerisms are similar to a cat's, as she disregards personal space and forever seeks to curl up in warm spots.
@@ -24,7 +24,7 @@ aliases:
 "subtype": "kender"
 "alignment": "Chaotic Good"
 "ac": !!int "13"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "11"
 "hit_dice": "2d6 + 4"
 "modifier": !!int "2"
@@ -56,9 +56,9 @@ aliases:
 "languages": "Common, Kenderspeak"
 "traits":
   - "desc": "Tem's spellcasting ability is Wisdom (spell save DC 12, +4 to spell attacks).\
-      \ She has the following druid spells prepared:\n\n**At will:** [druidcraft](3-Mechanics/CLI/spells/druidcraft.md),\
-      \ [poison spray](3-Mechanics/CLI/spells/poison-spray.md)\n\n**1st level (2 slots):**\
-      \ [healing word](3-Mechanics/CLI/spells/healing-word.md)"
+      \ She has the following druid spells prepared:\n\n**At will:** [druidcraft](3-Mechanics/CLI/spells/druidcraft-xphb.md),\
+      \ [poison spray](3-Mechanics/CLI/spells/poison-spray-xphb.md)\n\n**1st level\
+      \ (2 slots):** [healing word](3-Mechanics/CLI/spells/healing-word-xphb.md)"
     "name": "Spellcasting"
   - "desc": "Tem is proficient with simple weapons and light armor."
     "name": "Bonus Proficiencies"
@@ -78,6 +78,6 @@ aliases:
     "name": "Elusive"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/npc/token/tem-temble-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Tem%20Temble.webp"
 ```
 ^statblock

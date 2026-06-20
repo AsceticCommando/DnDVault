@@ -12,6 +12,8 @@ aliases:
 
 **Other Goals**
 
+`dice: [](identify-the-partys-goals-other-goals.md#^other-goals)`
+
 | dice: d12 | Goal |
 |-----------|------|
 | 1 | Seize control of a fortified location such as a fortress, town, or ship. |

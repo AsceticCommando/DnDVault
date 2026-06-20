@@ -12,6 +12,8 @@ aliases:
 
 **Human Names – Egyptian, Male**
 
+`dice: [](human-names-egyptian-male-xge.md#^human-names-egyptian-male)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Ahmose |

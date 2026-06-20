@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Huge Stone Golem"
 ---
-# [Huge Stone Golem](3-Mechanics\CLI\bestiary\construct/huge-stone-golem-skt.md)
+# [Huge Stone Golem](3-Mechanics/CLI/bestiary/construct/huge-stone-golem-skt.md)
 *Source: Storm King's Thunder p. 153*  
 
 ```statblock
@@ -66,6 +66,6 @@ aliases:
     "name": "Slow (Recharge 5-6)"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/construct/token/huge-stone-golem-skt.webp"
+"image": "file://bestiary/tokens/SKT/Huge%20Stone%20Golem.webp"
 ```
 ^statblock

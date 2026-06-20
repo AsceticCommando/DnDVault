@@ -12,6 +12,8 @@ aliases:
 
 **House Tarkanan Adventure Hooks**
 
+`dice: [](house-tarkanan-adventure-hooks-erlw.md#^house-tarkanan-adventure-hooks)`
+
 | dice: d4 | Adventure Hook |
 |----------|----------------|
 | 1 | House Tarkanan disturbed the dead during an expedition to Old Sharn, causing undead to terrorize the city above. |

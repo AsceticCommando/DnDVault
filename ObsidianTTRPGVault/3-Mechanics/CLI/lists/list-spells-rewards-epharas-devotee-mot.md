@@ -11,4 +11,4 @@ aliases:
 
 ## 1st Level
 
-- [Comprehend Languages](3-Mechanics/CLI/spells/comprehend-languages.md "PHB")
+- [Comprehend Languages](3-Mechanics/CLI/spells/comprehend-languages-xphb.md "XPHB")

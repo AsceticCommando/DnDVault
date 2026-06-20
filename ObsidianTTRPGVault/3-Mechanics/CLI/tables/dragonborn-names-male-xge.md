@@ -12,6 +12,8 @@ aliases:
 
 **Dragonborn Names – Male**
 
+`dice: [](dragonborn-names-male-xge.md#^dragonborn-names-male)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Adrex |

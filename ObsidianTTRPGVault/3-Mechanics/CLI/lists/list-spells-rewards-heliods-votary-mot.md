@@ -11,4 +11,4 @@ aliases:
 
 ## 3rd Level
 
-- [Daylight](3-Mechanics/CLI/spells/daylight.md "PHB")
+- [Daylight](3-Mechanics/CLI/spells/daylight-xphb.md "XPHB")

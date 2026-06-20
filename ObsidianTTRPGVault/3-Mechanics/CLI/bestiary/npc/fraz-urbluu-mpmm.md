@@ -12,12 +12,12 @@ statblock-link: "#^statblock"
 aliases:
 - "Fraz-Urb'luu"
 ---
-# [Fraz-Urb'luu](3-Mechanics\CLI\bestiary\npc/fraz-urbluu-mpmm.md)
+# [Fraz-Urb'luu](3-Mechanics/CLI/bestiary/npc/fraz-urbluu-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 129, Mordenkainen's Tome of Foes p. 146*  
 
 Fraz-Urb'luu is the Prince of [Deception](3-Mechanics/CLI/rules/skills.md#Deception) and Demon Lord of Illusions. He uses every trick, every ounce of demonic cunning, to manipulate his enemies—mortal and Fiend alike—to do his will. Fraz-Urb'luu can create dreamlands and mind-bending fantasies able to deceive the most discerning foes.
 
-Once imprisoned for centuries below Castle Greyhawk on the world of Oerth, Fraz-Urb'luu has slowly rebuilt his power in the Abyss. He seeks the pieces of the legendary [staff of power](3-Mechanics/CLI/items/staff-of-power.md) taken from him by those who imprisoned him and commands his servants to do likewise.
+Once imprisoned for centuries below Castle Greyhawk on the world of Oerth, Fraz-Urb'luu has slowly rebuilt his power in the Abyss. He seeks the pieces of the legendary [staff of power](3-Mechanics/CLI/items/staff-of-power-xdmg.md) taken from him by those who imprisoned him and commands his servants to do likewise.
 
 The Prince of [Deception](3-Mechanics/CLI/rules/skills.md#Deception)'s true form is like that of a great gargoyle, some 12 feet tall, with an extended, muscular neck; a smiling face framed by long, pointed ears and lank, dark hair; and bat-like wings are furled against his powerful shoulders. He can assume other forms, however, from the hideous to the beautiful.
 
@@ -99,13 +99,13 @@ The challenge rating of Fraz-Urb'luu is 24 (62,000 XP) when he's encountered in 
     "name": "Phantasmal Terror"
   - "desc": "Fraz-Urb'luu casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 23):\n\
-      \n**At will:** [alter self](3-Mechanics/CLI/spells/alter-self.md) (can become\
-      \ Medium when changing his appearance), [detect magic](3-Mechanics/CLI/spells/detect-magic.md),\
-      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), [phantasmal force](3-Mechanics/CLI/spells/phantasmal-force.md)\n\
-      \n**3/day each:** [mislead](3-Mechanics/CLI/spells/mislead.md), [programmed\
-      \ illusion](3-Mechanics/CLI/spells/programmed-illusion.md), [seeming](3-Mechanics/CLI/spells/seeming.md)\n\
-      \n**1/day each:** [modify memory](3-Mechanics/CLI/spells/modify-memory.md),\
-      \ [project image](3-Mechanics/CLI/spells/project-image.md)"
+      \n**At will:** [alter self](3-Mechanics/CLI/spells/alter-self-xphb.md) (can\
+      \ become Medium when changing his appearance), [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [phantasmal force](3-Mechanics/CLI/spells/phantasmal-force-xphb.md)\n\
+      \n**3/day each:** [mislead](3-Mechanics/CLI/spells/mislead-xphb.md), [programmed\
+      \ illusion](3-Mechanics/CLI/spells/programmed-illusion-xphb.md), [seeming](3-Mechanics/CLI/spells/seeming-xphb.md)\n\
+      \n**1/day each:** [modify memory](3-Mechanics/CLI/spells/modify-memory-xphb.md),\
+      \ [project image](3-Mechanics/CLI/spells/project-image-xphb.md)"
     "name": "Spellcasting"
 "lair_actions":
   - "desc": "On initiative count 20 (losing initiative ties), Fraz-Urb'luu can take\
@@ -117,9 +117,9 @@ The challenge rating of Fraz-Urb'luu is 24 (62,000 XP) when he's encountered in 
       \ within the lair must succeed on a DC 23 Wisdom saving throw or take 33 (6d10)\
       \ psychic damage.  \n- **Simulacrum.** Fraz-Urb'luu chooses one Humanoid within\
       \ the lair and instantly creates a simulacrum of that creature (as if created\
-      \ with the [simulacrum](3-Mechanics/CLI/spells/simulacrum.md) spell). This simulacrum\
-      \ obeys Fraz-Urb'luu's commands and is destroyed on the next initiative count\
-      \ 20.  "
+      \ with the [simulacrum](3-Mechanics/CLI/spells/simulacrum-xphb.md) spell). This\
+      \ simulacrum obeys Fraz-Urb'luu's commands and is destroyed on the next initiative\
+      \ count 20.  "
     "name": ""
 "regional_effects":
   - "desc": "The region containing Fraz-Urb'luu's lair is warped by his magic, creating\
@@ -151,6 +151,6 @@ The challenge rating of Fraz-Urb'luu is 24 (62,000 XP) when he's encountered in 
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/npc/token/fraz-urbluu-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Fraz-Urb%27luu.webp"
 ```
 ^statblock

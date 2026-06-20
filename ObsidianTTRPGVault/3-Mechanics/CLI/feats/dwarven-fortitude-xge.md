@@ -11,7 +11,7 @@ aliases:
 # Dwarven Fortitude
 *Source: Xanathar's Guide to Everything p. 74*  
 
-**Prerequisite**: [Dwarf](3-Mechanics/CLI/races/dwarf.md)
+**Prerequisite**: [Dwarf](3-Mechanics/CLI/races/dwarf-xphb.md)
 
 You have the blood of dwarf heroes flowing through your veins. You gain the following benefits:
 

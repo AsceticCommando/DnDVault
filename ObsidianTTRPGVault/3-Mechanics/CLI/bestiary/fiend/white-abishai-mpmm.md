@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "White Abishai"
 ---
-# [White Abishai](3-Mechanics\CLI\bestiary\fiend/white-abishai-mpmm.md)
+# [White Abishai](3-Mechanics/CLI/bestiary/fiend/white-abishai-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 41, Mordenkainen's Tome of Foes p. 163*  
 
 White abishais fight with a reckless fury, making them ideally suited for bolstering the ranks of Tiamat's armies. White abishais fight without fear, becoming whirlwinds of destruction on the battlefield.
@@ -53,7 +53,7 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 "damage_immunities": "cold, fire, poison"
 "condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
 "gear":
-  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
   \ Perception 11"
 "languages": "Draconic, Infernal, telepathy 120 ft."
@@ -90,7 +90,7 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/white-abishai-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/White%20Abishai.webp"
 ```
 ^statblock
 

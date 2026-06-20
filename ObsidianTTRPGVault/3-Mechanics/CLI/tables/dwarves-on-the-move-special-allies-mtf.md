@@ -12,6 +12,8 @@ aliases:
 
 **Special Allies**
 
+`dice: [](dwarves-on-the-move-special-allies-mtf.md#^special-allies)`
+
 | dice: d8 | Ally |
 |----------|------|
 | 1-4 | Dwarf Acolytes |

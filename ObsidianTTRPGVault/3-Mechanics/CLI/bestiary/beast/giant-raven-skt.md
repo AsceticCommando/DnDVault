@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Giant Raven"
 ---
-# [Giant Raven](3-Mechanics\CLI\bestiary\beast/giant-raven-skt.md)
+# [Giant Raven](3-Mechanics/CLI/bestiary/beast/giant-raven-skt.md)
 *Source: Storm King's Thunder p. 66*  
 
 ```statblock
@@ -57,6 +57,6 @@ aliases:
     "name": "Talons"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/beast/token/giant-raven-skt.webp"
+"image": "file://bestiary/tokens/SKT/Giant%20Raven.webp"
 ```
 ^statblock

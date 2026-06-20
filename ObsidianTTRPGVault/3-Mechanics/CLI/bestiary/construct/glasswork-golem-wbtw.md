@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Glasswork Golem"
 ---
-# [Glasswork Golem](3-Mechanics\CLI\bestiary\construct/glasswork-golem-wbtw.md)
+# [Glasswork Golem](3-Mechanics/CLI/bestiary/construct/glasswork-golem-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 193*  
 
 ```statblock
@@ -77,6 +77,6 @@ aliases:
     "name": "Dazzling Light (Recharge 5-6)"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/construct/token/glasswork-golem-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Glasswork%20Golem.webp"
 ```
 ^statblock

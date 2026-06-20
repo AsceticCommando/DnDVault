@@ -12,6 +12,8 @@ aliases:
 
 **Tiefling Parents**
 
+`dice: [](tiefling-parents-xge.md#^tiefling-parents)`
+
 | dice: d8 | Parents |
 |----------|---------|
 | 1-4 | Both parents were humans, their infernal heritage dormant until you came along. |

@@ -12,10 +12,10 @@ statblock-link: "#^statblock"
 aliases:
 - "Awakened Zurkhwood"
 ---
-# [Awakened Zurkhwood](3-Mechanics\CLI\bestiary\plant/awakened-zurkhwood-oota.md)
+# [Awakened Zurkhwood](3-Mechanics/CLI/bestiary/plant/awakened-zurkhwood-oota.md)
 *Source: Out of the Abyss p. 230*  
 
-This creature is an ordinary zurkhwood mushroom (see "Fungi of the Underdark" in chapter 2) given sentience and mobility. An awakened zurkhwood can be created by casting the [awaken](3-Mechanics/CLI/spells/awaken.md) spell on a normal zurkhwood mushroom. A myconid sovereign can create one by performing a lengthy ritual.
+This creature is an ordinary zurkhwood mushroom (see "Fungi of the Underdark" in chapter 2) given sentience and mobility. An awakened zurkhwood can be created by casting the [awaken](3-Mechanics/CLI/spells/awaken-xphb.md) spell on a normal zurkhwood mushroom. A myconid sovereign can create one by performing a lengthy ritual.
 
 An awakened zurkhwood has the same statistics as an awakened tree (see appendix A of the Monster Manual), with the following modifications:
 
@@ -60,6 +60,6 @@ An awakened zurkhwood has the same statistics as an awakened tree (see appendix 
     "name": "Slam"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/plant/token/awakened-zurkhwood-oota.webp"
+"image": "file://bestiary/tokens/OotA/Awakened%20Zurkhwood.webp"
 ```
 ^statblock

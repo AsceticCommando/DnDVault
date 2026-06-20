@@ -12,6 +12,8 @@ aliases:
 
 **Beholder Iris Shape**
 
+`dice: [](physical-characteristics-beholder-iris-shape-vgm.md#^beholder-iris-shape)`
+
 | dice: d20 | Iris Shape |
 |-----------|------------|
 | 1-4 | Circle |

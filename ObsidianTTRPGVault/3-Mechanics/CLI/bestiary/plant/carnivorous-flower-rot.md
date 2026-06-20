@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Carnivorous Flower"
 ---
-# [Carnivorous Flower](3-Mechanics\CLI\bestiary\plant/carnivorous-flower-rot.md)
+# [Carnivorous Flower](3-Mechanics/CLI/bestiary/plant/carnivorous-flower-rot.md)
 *Source: The Rise of Tiamat p. 67, Tyranny of Dragons p. 153*  
 
 ```statblock
@@ -73,6 +73,6 @@ aliases:
 "source":
   - "RoT"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/plant/token/carnivorous-flower-rot.webp"
+"image": "file://bestiary/tokens/RoT/Carnivorous%20Flower.webp"
 ```
 ^statblock

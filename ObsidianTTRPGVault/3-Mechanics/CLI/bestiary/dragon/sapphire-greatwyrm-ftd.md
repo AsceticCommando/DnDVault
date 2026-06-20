@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Sapphire Greatwyrm"
 ---
-# [Sapphire Greatwyrm](3-Mechanics\CLI\bestiary\dragon/sapphire-greatwyrm-ftd.md)
+# [Sapphire Greatwyrm](3-Mechanics/CLI/bestiary/dragon/sapphire-greatwyrm-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 201*  
 
 More so even than their chromatic and metallic kin, gem dragons are fascinated with cultivating their dragonsight and fusing the awareness of their echoes across the Material Plane. Some of them believe that, by doing so, they are taking steps toward reuniting the shattered consciousness of Sardior the Ruby Dragon, and they pursue this awakening as an act of near-religious devotion. Others seek to exploit their knowledge of the many worlds of the Material Plane as a source of power—and indeed, a gem dragon who becomes a greatwyrm has access to almost unimaginable power.
@@ -113,9 +113,9 @@ Gem greatwyrms' ascension transforms their bodies to appear as crystal, their sc
       \ Rest)"
   - "desc": "The greatwyrm casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 26, +18\
-      \ to hit with spell attack):\n\n**1/day each:** [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md),\
-      \ [forcecage](3-Mechanics/CLI/spells/forcecage.md), [plane shift](3-Mechanics/CLI/spells/plane-shift.md),\
-      \ [reverse gravity](3-Mechanics/CLI/spells/reverse-gravity.md), [time stop](3-Mechanics/CLI/spells/time-stop.md)"
+      \ to hit with spell attack):\n\n**1/day each:** [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
+      \ [forcecage](3-Mechanics/CLI/spells/forcecage-xphb.md), [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md),\
+      \ [reverse gravity](3-Mechanics/CLI/spells/reverse-gravity-xphb.md), [time stop](3-Mechanics/CLI/spells/time-stop-xphb.md)"
     "name": "Spellcasting (Psionics)"
 "bonus_actions":
   - "desc": "The greatwyrm magically transforms into any creature that is Medium or\
@@ -141,6 +141,6 @@ Gem greatwyrms' ascension transforms their bodies to appear as crystal, their sc
     "name": "Psychic Beam (Costs 3 Actions)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/sapphire-greatwyrm-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Sapphire%20Greatwyrm.webp"
 ```
 ^statblock

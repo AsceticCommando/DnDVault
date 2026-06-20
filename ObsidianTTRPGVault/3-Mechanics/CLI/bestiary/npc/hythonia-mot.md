@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Hythonia"
 ---
-# [Hythonia](3-Mechanics\CLI\bestiary\npc/hythonia-mot.md)
+# [Hythonia](3-Mechanics/CLI/bestiary/npc/hythonia-mot.md)
 *Source: Mythic Odysseys of Theros p. 252*  
 
 Theros's reclusive medusas often delight in collecting and expanding their galleries of petrified victims. Unlike other medusas, Hythonia isn't merely a collector; she's an artist.
@@ -61,8 +61,8 @@ While the medusa's victims have dwindled, tales of the medusa queen and the divi
 "cr": "17"
 "traits":
   - "desc": "Hythonia's spellcasting ability is Charisma (spell save DC 18). She can\
-      \ innately cast [animate objects](3-Mechanics/CLI/spells/animate-objects.md)\
-      \ once per day requiring no material components.\n\n**1/day:** [animate objects](3-Mechanics/CLI/spells/animate-objects.md)"
+      \ innately cast [animate objects](3-Mechanics/CLI/spells/animate-objects-xphb.md)\
+      \ once per day requiring no material components.\n\n**1/day:** [animate objects](3-Mechanics/CLI/spells/animate-objects-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "If Hythonia fails a saving throw, she can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
@@ -75,7 +75,7 @@ While the medusa's victims have dwindled, tales of the medusa queen and the divi
       \ The [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) creature\
       \ must repeat the saving throw at the end of its next turn, becoming [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified)\
       \ on a failure or ending the effect on a success. The petrification lasts until\
-      \ the creature is freed by the [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md)\
+      \ the creature is freed by the [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md)\
       \ spell or other magic. Unless [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised),\
       \ a creature can avert its eyes to avoid the saving throw at the start of its\
       \ turn. If the creature does so, it can't see Hythonia until the start of its\
@@ -119,7 +119,7 @@ While the medusa's victims have dwindled, tales of the medusa queen and the divi
       \ damage and become [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
       \ until the end of its next turn. While [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
       \ in this way, the creature has disadvantage on Intelligence checks and Intelligence\
-      \ saving throws, and it behaves as if under the effect of the [confusion](3-Mechanics/CLI/spells/confusion.md)\
+      \ saving throws, and it behaves as if under the effect of the [confusion](3-Mechanics/CLI/spells/confusion-xphb.md)\
       \ spell.  "
     "name": ""
 "regional_effects":
@@ -159,6 +159,6 @@ While the medusa's victims have dwindled, tales of the medusa queen and the divi
     "name": "Look at Me (Costs 3 Actions)"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/hythonia-mot.webp"
+"image": "file://bestiary/tokens/MOT/Hythonia.webp"
 ```
 ^statblock

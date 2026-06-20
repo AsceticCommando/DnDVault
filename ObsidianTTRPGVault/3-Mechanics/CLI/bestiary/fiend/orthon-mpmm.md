@@ -15,7 +15,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Orthon"
 ---
-# [Orthon](3-Mechanics\CLI\bestiary\fiend/orthon-mpmm.md)
+# [Orthon](3-Mechanics/CLI/bestiary/fiend/orthon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 205, Mordenkainen's Tome of Foes p. 169*  
 
 When an archduke of the Nine Hells needs a creature tracked, found, and either done away with or captured, the task usually falls to an orthon. These devils are infernal bounty hunters, tireless in their pursuit of their quarry across the multiverse.
@@ -31,7 +31,7 @@ Orthons value the challenge of the chase and the thrill of one-on-one combat abo
 "subtype": "devil"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "17"
-"ac_class": "[half plate](3-Mechanics/CLI/items/half-plate-armor.md)"
+"ac_class": "[half plate](3-Mechanics/CLI/items/half-plate-armor-xphb.md)"
 "hp": !!int "105"
 "hit_dice": "10d10 + 50"
 "modifier": !!int "3"
@@ -117,7 +117,7 @@ Orthons value the challenge of the chase and the thrill of one-on-one combat abo
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/orthon-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Orthon.webp"
 ```
 ^statblock
 

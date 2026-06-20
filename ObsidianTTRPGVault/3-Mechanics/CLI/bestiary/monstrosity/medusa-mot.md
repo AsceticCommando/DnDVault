@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Medusa"
 ---
-# [Medusa](3-Mechanics\CLI\bestiary\monstrosity/medusa-mot.md)
+# [Medusa](3-Mechanics/CLI/bestiary/monstrosity/medusa-mot.md)
 *Source: Mythic Odysseys of Theros p. 206*  
 
 Medusas (often called gorgons on Theros) are closely associated with Pharika, the god of poison and medicine. Pharika has charged her favored servants with guarding secrets of life, health, and immortality that are too powerful to be known by those who lack the wisdom to use them properly. Those who approach a medusa with humility and worthy offerings might receive the creature's favor. The medusa might propose a dangerous quest to fetch some rare ingredient or legendary relic, promising to reward success with a bit of Pharika's knowledge. This information might lead to a cure for a plague, an alchemical breakthrough, or a secret of the cosmos.
@@ -45,8 +45,8 @@ Medusas (often called gorgons on Theros) are closely associated with Pharika, th
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
 "gear":
-  - "[longbow](3-Mechanics/CLI/items/longbow.md)"
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[longbow](3-Mechanics/CLI/items/longbow-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 14"
 "languages": "Common"
@@ -61,7 +61,7 @@ Medusas (often called gorgons on Theros) are closely associated with Pharika, th
       \ The [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) creature\
       \ must repeat the saving throw at the end of its next turn, becoming [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified)\
       \ on a failure or ending the effect on a success. The petrification lasts until\
-      \ the creature is freed by the  [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md)\
+      \ the creature is freed by the [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md)\
       \ spell or other magic.\n\nUnless [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised),\
       \ a creature can avert its eyes to avoid the saving throw at the start of its\
       \ turn. If the creature does so, it can't see the medusa until the start of\
@@ -92,6 +92,6 @@ Medusas (often called gorgons on Theros) are closely associated with Pharika, th
     "name": "Constrict"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/medusa-mot.webp"
+"image": "file://bestiary/tokens/MOT/Medusa.webp"
 ```
 ^statblock

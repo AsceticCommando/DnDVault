@@ -12,6 +12,8 @@ aliases:
 
 **Hoard Linking Items**
 
+`dice: [](linking-hoards-hoard-linking-items-ftd.md#^hoard-linking-items)`
+
 | dice: d10 | Linking Items |
 |-----------|---------------|
 | 1 | The broken pieces of an artifact (such as the Rod of Seven Parts) |
@@ -23,5 +25,5 @@ aliases:
 | 7 | Regalia—an orb, a crown, a scepter, and so forth—belonging to a recently deposed monarch |
 | 8 | Pieces of a full suit of armor that once belonged to an ancient hero |
 | 9 | A set of teeth from a rival dragon, a prophet, or a rare creature |
-| 10 | Pieces of a chess set or another board game, or cards from a deck of playing cards, a tarokka deck, or a [deck of many things](3-Mechanics/CLI/items/deck-of-many-things.md) |
+| 10 | Pieces of a chess set or another board game, or cards from a deck of playing cards, a [tarokka deck](3-Mechanics/CLI/decks/tarokka-deck-rhw.md), or a [deck of many things](3-Mechanics/CLI/items/deck-of-many-things-xdmg.md) |
 ^hoard-linking-items

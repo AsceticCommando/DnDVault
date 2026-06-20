@@ -15,7 +15,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Giant Strider"
 ---
-# [Giant Strider](3-Mechanics\CLI\bestiary\elemental/giant-strider-mpmm.md)
+# [Giant Strider](3-Mechanics/CLI/bestiary/elemental/giant-strider-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 137, Volo's Guide to Monsters p. 143*  
 
 > [!quote] A quote from Mordenkainen  
@@ -70,7 +70,7 @@ Firenewts prize giant striders and seek to adopt them whenever possible. They pr
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/elemental/token/giant-strider-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Giant%20Strider.webp"
 ```
 ^statblock
 

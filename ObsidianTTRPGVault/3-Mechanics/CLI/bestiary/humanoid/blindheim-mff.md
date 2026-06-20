@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Blindheim"
 ---
-# [Blindheim](3-Mechanics\CLI\bestiary\humanoid/blindheim-mff.md)
+# [Blindheim](3-Mechanics/CLI/bestiary/humanoid/blindheim-mff.md)
 *Source: Mordenkainen's Fiendish Folio p. 5*  
 
 These frog-like humanoids have the ability to project intense, blinding light from their eyes. Dwelling on the fringes of the Underdark, blindheims are opportunistic ambushers who can be swayed into service with payment of fresh food and metal weapons. A blindheim's radiant eyes make these creatures a unique source of light in the Underdark depths, and are bright enough to hinder creatures that suffer in the presence of bright light—or to destroy their foes.
@@ -83,6 +83,6 @@ Some Underdark creatures, particularly the drow and kuo-toa, raid blindheim sett
     "name": "Radiant Blast"
 "source":
   - "MFF"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/blindheim-mff.webp"
+"image": "file://bestiary/tokens/MFF/Blindheim.webp"
 ```
 ^statblock

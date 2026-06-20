@@ -22,7 +22,7 @@ The hags loathe each other's company, but one hag will occasionally visit anothe
 
 > [!note] Shared Spells of the Hourglass Coven
 > 
-> On the rare occasions when all three hags of the Hourglass Coven are within 30 feet of one another, any one of them can use an action to cast one of the following spells, requiring no material components (spell save DC 14): [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md), [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), [finger of death](3-Mechanics/CLI/spells/finger-of-death.md), [glibness](3-Mechanics/CLI/spells/glibness.md), [locate creature](3-Mechanics/CLI/spells/locate-creature.md), [mass suggestion](3-Mechanics/CLI/spells/mass-suggestion.md).
+> On the rare occasions when all three hags of the Hourglass Coven are within 30 feet of one another, any one of them can use an action to cast one of the following spells, requiring no material components (spell save DC 14): [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md), [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [finger of death](3-Mechanics/CLI/spells/finger-of-death-xphb.md), [glibness](3-Mechanics/CLI/spells/glibness-xphb.md), [locate creature](3-Mechanics/CLI/spells/locate-creature-xphb.md), [mass suggestion](3-Mechanics/CLI/spells/mass-suggestion-xphb.md).
 > 
 > Once a spell from this list has been cast, no member of the coven can cast that shared spell again until the next dawn, when the coven regains all of its shared spells.
 ^shared-spells-of-the-hourglass-coven
@@ -61,7 +61,7 @@ Bavlorna lives like a hermit. She is frazzled, impatient, paranoid, and vindicti
 
 Bavlorna is allergic to the sight of creatures running counterclockwise in circles, a motion known as "running widdershins." Creatures that run widdershins within 10 feet of Bavlorna cause her to lapse into a fit of sneezing. See the stat block for more details.
 
-![Bavlorna Blightstraw](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/114-637677436598601233.webp#center)
+![Bavlorna Blightstraw](file://adventure/WBtW/114-637677436598601233.webp#center)
 
 ### Endelyn Moongrave
 
@@ -97,7 +97,7 @@ Endelyn's emaciated form is hidden under the layers of her elaborate costume. Pa
 
 The only way to dispose of Endelyn for good is to slay her during an actual solar eclipse or in the presence of a symbolic depiction of one. See the stat block for details.
 
-![Endelyn Moongrave](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/115-637677438816391091.webp#center)
+![Endelyn Moongrave](file://adventure/WBtW/115-637677438816391091.webp#center)
 
 ### Skabatha Nightshade
 
@@ -133,7 +133,7 @@ Skabatha appears as a short, thin, gnarled woman swathed in a tattered dress wit
 
 Skabatha always forgets the first creature she sees when she awakens after a long rest. See the stat block for details.
 
-![Skabatha Nightshade](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/116-637677444778104171.webp#center)
+![Skabatha Nightshade](file://adventure/WBtW/116-637677444778104171.webp#center)
 
 ## League of Malevolence
 
@@ -143,7 +143,7 @@ Five members of the league, including [Kelek](3-Mechanics/CLI/bestiary/npc/kelek
 
 ### Kelek
 
-[Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) is a greedy, narcissistic sociopath who revels in chaos but is a coward at heart. The fact that he's highly intelligent makes him even more dangerous. More than anything, he wants the [staff of power](3-Mechanics/CLI/items/staff-of-power.md) in the possession of his most hated foe, [Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md) (described later in this appendix).
+[Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) is a greedy, narcissistic sociopath who revels in chaos but is a coward at heart. The fact that he's highly intelligent makes him even more dangerous. More than anything, he wants the [staff of power](3-Mechanics/CLI/items/staff-of-power-xdmg.md) in the possession of his most hated foe, [Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md) (described later in this appendix).
 
 #### Alignment
 
@@ -169,7 +169,7 @@ Chaotic evil.
 
 [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) uses Arcane Defense to bolster his low Armor Class whenever possible, and his challenge rating is a reflection of the likelihood that he will use Fiery Explosion as often as he can. If one or more of his allies get caught in a blast, so be it.
 
-![Kelek](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/117-637677441242369173.webp#center)
+![Kelek](file://adventure/WBtW/117-637677441242369173.webp#center)
 
 ### Skylla
 
@@ -201,15 +201,15 @@ Chaotic evil.
 
 #### Combat Notes
 
-[Skylla](3-Mechanics/CLI/bestiary/npc/skylla-wbtw.md) is not an effective melee combatant. She is more dangerous when she can use magic from a safe distance. She can also use her [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md) spell to make foes easier for her allies to hit.
+[Skylla](3-Mechanics/CLI/bestiary/npc/skylla-wbtw.md) is not an effective melee combatant. She is more dangerous when she can use magic from a safe distance. She can also use her [faerie fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md) spell to make foes easier for her allies to hit.
 
-![Skylla](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/118-637677445160826484.webp#center)
+![Skylla](file://adventure/WBtW/118-637677445160826484.webp#center)
 
 ### Warduke
 
 [Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md)'s services as a remorseless killer-for-hire can be easily bought. The evil swordsman serves [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md) as a cohort and adventuring companion from time to time. He isn't terribly bright, which is why he leaves the plotting and scheming to others.
 
-What does [Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md) look like under his [dread helm](3-Mechanics/CLI/items/dread-helm-xge.md)? No one knows. He never removes his helmet to reveal his face to others, but the visage beneath it is that of a grim, hideously scarred gladiator.
+What does [Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md) look like under his [dread helm](3-Mechanics/CLI/items/dread-helm-xdmg.md)? No one knows. He never removes his helmet to reveal his face to others, but the visage beneath it is that of a grim, hideously scarred gladiator.
 
 #### Alignment
 
@@ -235,7 +235,7 @@ Chaotic evil.
 
 [Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md) likes to hit things with his sword; it's as simple as that.
 
-![Warduke](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/119-637677446687763135.webp#center)
+![Warduke](file://adventure/WBtW/119-637677446687763135.webp#center)
 
 ### Zarak
 
@@ -263,9 +263,9 @@ Chaotic evil.
 
 #### Combat Notes
 
-When faced with multiple foes, [Zarak](3-Mechanics/CLI/bestiary/npc/zarak-wbtw.md) prefers to hurl daggers from a distance. When targeting a lone individual, especially someone he has been hired to kill, he prefers the up-close-and-personal garrote, so that he can hear the dying breath of his hapless prey. If defeat seems likely, he quaffs his [potion of invisibility](3-Mechanics/CLI/items/potion-of-invisibility.md) and flees.
+When faced with multiple foes, [Zarak](3-Mechanics/CLI/bestiary/npc/zarak-wbtw.md) prefers to hurl daggers from a distance. When targeting a lone individual, especially someone he has been hired to kill, he prefers the up-close-and-personal garrote, so that he can hear the dying breath of his hapless prey. If defeat seems likely, he quaffs his [potion of invisibility](3-Mechanics/CLI/items/potion-of-invisibility-xdmg.md) and flees.
 
-![Zarak](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/120-637677446966894394.webp#center)
+![Zarak](file://adventure/WBtW/120-637677446966894394.webp#center)
 
 ### Zargash
 
@@ -293,9 +293,9 @@ Chaotic evil.
 
 #### Combat Notes
 
-War is [Zargash](3-Mechanics/CLI/bestiary/npc/zargash-wbtw.md)'s domain. He wears a rusty chain shirt under his robe and likes to thwart enemy spellcasters by enveloping them in the area of a [silence](3-Mechanics/CLI/spells/silence.md) spell. If defeat seems inevitable, he casts [gaseous form](3-Mechanics/CLI/spells/gaseous-form.md) on himself and flees, leaving his allies to fend for themselves.
+War is [Zargash](3-Mechanics/CLI/bestiary/npc/zargash-wbtw.md)'s domain. He wears a rusty chain shirt under his robe and likes to thwart enemy spellcasters by enveloping them in the area of a [silence](3-Mechanics/CLI/spells/silence-xphb.md) spell. If defeat seems inevitable, he casts [gaseous form](3-Mechanics/CLI/spells/gaseous-form-xphb.md) on himself and flees, leaving his allies to fend for themselves.
 
-![Zargash](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/121-637677447207404330.webp#center)
+![Zargash](file://adventure/WBtW/121-637677447207404330.webp#center)
 
 ## Valor's Call
 
@@ -331,7 +331,7 @@ Lawful good.
 
 [Elkhorn](3-Mechanics/CLI/bestiary/npc/elkhorn-wbtw.md)'s challenge rating is based on him using Feint to improve his rather weak sword attack. Having been trained in his youth to fight ogres and trolls, he's much more dangerous against creatures that are significantly bigger than he is.
 
-![Elkhorn](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/122-637677438551091135.webp#center)
+![Elkhorn](file://adventure/WBtW/122-637677438551091135.webp#center)
 
 ### Mercion
 
@@ -361,9 +361,9 @@ Lawful good.
 
 #### Combat Notes
 
-[Mercion](3-Mechanics/CLI/bestiary/npc/mercion-wbtw.md) counts on her armor to protect her as she administers healing. She uses Radiant Fire against groups of foes when there's no chance of harming allies or innocent lives, otherwise resorting to [hold person](3-Mechanics/CLI/spells/hold-person.md) spells and Divine Radiance attacks.
+[Mercion](3-Mechanics/CLI/bestiary/npc/mercion-wbtw.md) counts on her armor to protect her as she administers healing. She uses Radiant Fire against groups of foes when there's no chance of harming allies or innocent lives, otherwise resorting to [hold person](3-Mechanics/CLI/spells/hold-person-xphb.md) spells and Divine Radiance attacks.
 
-![Mercion](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/123-637677442232153240.webp#center)
+![Mercion](file://adventure/WBtW/123-637677442232153240.webp#center)
 
 ### Molliver
 
@@ -393,13 +393,13 @@ Chaotic good.
 
 #### Combat Notes
 
-[Molliver](3-Mechanics/CLI/bestiary/npc/molliver-wbtw.md) likes to get up close and personal in fights. If they're caught in a tight spot, they try to use their [boots of levitation](3-Mechanics/CLI/items/boots-of-levitation.md) to escape.
+[Molliver](3-Mechanics/CLI/bestiary/npc/molliver-wbtw.md) likes to get up close and personal in fights. If they're caught in a tight spot, they try to use their [boots of levitation](3-Mechanics/CLI/items/boots-of-levitation-xdmg.md) to escape.
 
-![Molliver](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/124-637677443172631742.webp#center)
+![Molliver](file://adventure/WBtW/124-637677443172631742.webp#center)
 
 ### Ringlerun
 
-[Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md) became an adventurer to better satisfy his craving for arcane knowledge. One of his adventures took him into an underwater tomb, where he tricked a marid into surrendering a [staff of power](3-Mechanics/CLI/items/staff-of-power.md). This staff greatly increased [Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md)'s capabilities and made him the [envy](3-Mechanics/CLI/bestiary/npc/envy-wbtw.md) of many rival spellcasters.
+[Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md) became an adventurer to better satisfy his craving for arcane knowledge. One of his adventures took him into an underwater tomb, where he tricked a marid into surrendering a [staff of power](3-Mechanics/CLI/items/staff-of-power-xdmg.md). This staff greatly increased [Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md)'s capabilities and made him the [envy](3-Mechanics/CLI/bestiary/npc/envy-wbtw.md) of many rival spellcasters.
 
 [Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md) has a good heart, but he's easily distracted by intellectual pursuits. He would rather spend time in quiet contemplation or reading than in frivolous conversation.
 
@@ -417,7 +417,7 @@ Lawful good.
 
 #### Bond
 
-"My [staff of power](3-Mechanics/CLI/items/staff-of-power.md) dramatically enhances my magical abilities. I shudder to think how its power could be abused in the wrong hands."
+"My [staff of power](3-Mechanics/CLI/items/staff-of-power-xdmg.md) dramatically enhances my magical abilities. I shudder to think how its power could be abused in the wrong hands."
 
 #### Flaw
 
@@ -425,9 +425,9 @@ Lawful good.
 
 #### Combat Notes
 
-[Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md) can fend off melee attackers with wild swings of his staff, but he prefers to fly out of reach and attack at range using his staff's formidable spells ([cone of cold](3-Mechanics/CLI/spells/cone-of-cold.md) being his favorite).
+[Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md) can fend off melee attackers with wild swings of his staff, but he prefers to fly out of reach and attack at range using his staff's formidable spells ([cone of cold](3-Mechanics/CLI/spells/cone-of-cold-xphb.md) being his favorite).
 
-![Ringlerun](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/125-637677443810979411.webp#center)
+![Ringlerun](file://adventure/WBtW/125-637677443810979411.webp#center)
 
 ### Strongheart
 
@@ -457,6 +457,6 @@ Lawful good.
 
 #### Combat Notes
 
-[Strongheart](3-Mechanics/CLI/bestiary/npc/strongheart-wbtw.md) prefers to fight with [Steel](3-Mechanics/CLI/items/steel-wbtw.md), his trusty sword. His favorite use of the [command](3-Mechanics/CLI/spells/command.md) spell is to compel a foe to "Yield!" (which has the same effect as commanding it to halt). He tries to capture and imprison evildoers, slaying them only if they cannot be apprehended.
+[Strongheart](3-Mechanics/CLI/bestiary/npc/strongheart-wbtw.md) prefers to fight with [Steel](3-Mechanics/CLI/items/steel-wbtw.md), his trusty sword. His favorite use of the [command](3-Mechanics/CLI/spells/command-xphb.md) spell is to compel a foe to "Yield!" (which has the same effect as commanding it to halt). He tries to capture and imprison evildoers, slaying them only if they cannot be apprehended.
 
-![Strongheart](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/126-637677445733408306.webp#center)
+![Strongheart](file://adventure/WBtW/126-637677445733408306.webp#center)

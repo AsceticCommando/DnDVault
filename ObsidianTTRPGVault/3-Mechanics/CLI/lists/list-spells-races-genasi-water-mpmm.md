@@ -11,12 +11,13 @@ aliases:
 
 ## Cantrip
 
-- [Acid Splash](3-Mechanics/CLI/spells/acid-splash.md "PHB") as cantrip
+- [Acid Splash](3-Mechanics/CLI/spells/acid-splash-xphb.md "XPHB") as cantrip
+- [Shape Water](3-Mechanics/CLI/spells/shape-water-xge.md "XGE")
 
 ## 1st Level
 
-- [Create or Destroy Water](3-Mechanics/CLI/spells/create-or-destroy-water.md "PHB") as cantrip
+- [Create or Destroy Water](3-Mechanics/CLI/spells/create-or-destroy-water-xphb.md "XPHB") at class level 3
 
 ## 3rd Level
 
-- [Water Walk](3-Mechanics/CLI/spells/water-walk.md "PHB") as cantrip
+- [Water Walk](3-Mechanics/CLI/spells/water-walk-xphb.md "XPHB") at class level 5

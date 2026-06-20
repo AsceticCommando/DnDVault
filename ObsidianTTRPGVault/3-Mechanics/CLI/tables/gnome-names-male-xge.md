@@ -12,6 +12,8 @@ aliases:
 
 **Gnome Names – Male**
 
+`dice: [](gnome-names-male-xge.md#^gnome-names-male)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Alston |

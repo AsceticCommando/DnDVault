@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Faerie Borrower"
 ---
-# [Faerie Borrower](3-Mechanics\CLI\bestiary\fey/faerie-borrower-mcv4ec.md)
+# [Faerie Borrower](3-Mechanics/CLI/bestiary/fey/faerie-borrower-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 Faerie borrowers are tiny thieves who steal whatever they can lay their hands on to cause confusion and consternation. A faerie borrower stands less than six inches tall, with blue or blue-gray skin and wings resembling shards of broken glass.
@@ -72,8 +72,8 @@ The faeries of Eldraine are winged, elfin creatures similar to sprites or pixies
     "name": "Magic Mockery"
   - "desc": "The faerie casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 13):\n\n**At\
-      \ will:** [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md)\n\n\
-      **1/day:** [silent image](3-Mechanics/CLI/spells/silent-image.md)"
+      \ will:** [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
+      \n**1/day:** [silent image](3-Mechanics/CLI/spells/silent-image-xphb.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "Immediately after taking damage, the faerie reduces the damage taken\
@@ -81,6 +81,6 @@ The faeries of Eldraine are winged, elfin creatures similar to sprites or pixies
     "name": "Tricksy Parry"
 "source":
   - "MCV4EC"
-"image": "3-Mechanics/CLI/bestiary/fey/token/faerie-borrower-mcv4ec.webp"
+"image": "file://bestiary/tokens/MCV4EC/Faerie%20Borrower.webp"
 ```
 ^statblock

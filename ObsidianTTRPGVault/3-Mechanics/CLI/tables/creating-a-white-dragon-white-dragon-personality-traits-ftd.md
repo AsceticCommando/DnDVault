@@ -12,6 +12,8 @@ aliases:
 
 **White Dragon Personality Traits**
 
+`dice: [](creating-a-white-dragon-white-dragon-personality-traits-ftd.md#^white-dragon-personality-traits)`
+
 | dice: d8 | Trait |
 |----------|-------|
 | 1 | Talkative people are usually the most dangerous. I like to eat them first. |

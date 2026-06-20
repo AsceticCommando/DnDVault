@@ -12,6 +12,8 @@ aliases:
 
 **Religious Order Quests**
 
+`dice: [](religious-order-quests-tce.md#^religious-order-quests)`
+
 | dice: d6 | Quest |
 |----------|-------|
 | 1 | **Safe Escape**. A band of the faithful wandered into territory hostile to your order. You must find them and escort them to safety. |

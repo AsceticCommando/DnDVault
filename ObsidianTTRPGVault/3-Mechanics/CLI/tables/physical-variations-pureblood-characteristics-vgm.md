@@ -12,6 +12,8 @@ aliases:
 
 **Pureblood Characteristics**
 
+`dice: [](physical-variations-pureblood-characteristics-vgm.md#^pureblood-characteristics)`
+
 | dice: d20 | Pureblood Characteristic |
 |-----------|--------------------------|
 | 1-3 | Fangs |

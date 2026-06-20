@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Derro"
 ---
-# [Derro](3-Mechanics\CLI\bestiary\aberration/derro-mpmm.md)
+# [Derro](3-Mechanics/CLI/bestiary/aberration/derro-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 91, Mordenkainen's Tome of Foes p. 158*  
 
 > [!quote] A quote from Mordenkainen  
@@ -37,7 +37,7 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 "type": "aberration"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "13"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "13"
 "hit_dice": "3d6 + 3"
 "modifier": !!int "2"
@@ -53,7 +53,7 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "gear":
-  - "[light crossbow](3-Mechanics/CLI/items/light-crossbow.md)"
+  - "[light crossbow](3-Mechanics/CLI/items/light-crossbow-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
   \ Perception 7"
 "languages": "Dwarvish, Undercommon"
@@ -77,7 +77,7 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/derro-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Derro.webp"
 ```
 ^statblock
 

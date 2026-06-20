@@ -4,17 +4,20 @@ cssclasses:
 - json5e-spell
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
-- ttrpg-cli/spell/class/bard/magical-secrets
+- ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/sorcerer
 - ttrpg-cli/spell/class/wizard
+- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
 - ttrpg-cli/spell/level/6th-level
 - ttrpg-cli/spell/school/abjuration
+- ttrpg-cli/spell/subclass/abjurer
 - ttrpg-cli/spell/subclass/arcana-domain
 classes:
-- Bard (Magical Secrets)
+- Bard
 - Cleric (Arcana Domain)
 - Sorcerer
 - Wizard
+- Wizard (Abjurer)
 aliases:
 - "Fizban's Platinum Shield"
 ---
@@ -35,6 +38,6 @@ You create a field of silvery light that surrounds a creature of your choice wit
 
 As a bonus action on subsequent turns, you can move the field to another creature within 60 feet of the field.
 
-**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](3-Mechanics/CLI/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG"); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](3-Mechanics/CLI/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard (Abjurer)](3-Mechanics/CLI/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Fizban's Treasury of Dragons p. 20*

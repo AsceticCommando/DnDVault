@@ -12,6 +12,8 @@ aliases:
 
 **Adventure Patrons**
 
+`dice: [](identify-important-npcs-adventure-patrons.md#^adventure-patrons)`
+
 | dice: d20 | Patron |
 |-----------|--------|
 | 1-2 | Retired adventurer |

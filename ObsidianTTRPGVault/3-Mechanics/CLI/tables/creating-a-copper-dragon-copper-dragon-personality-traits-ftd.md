@@ -12,6 +12,8 @@ aliases:
 
 **Copper Dragon Personality Traits**
 
+`dice: [](creating-a-copper-dragon-copper-dragon-personality-traits-ftd.md#^copper-dragon-personality-traits)`
+
 | dice: d8 | Trait |
 |----------|-------|
 | 1 | I am generous with my time, my words, and my considerable wisdom—but my treasure is mine. |

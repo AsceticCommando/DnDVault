@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Shadow Spirit"
 ---
-# [Shadow Spirit](3-Mechanics\CLI\bestiary\monstrosity/shadow-spirit-tce.md)
+# [Shadow Spirit](3-Mechanics/CLI/bestiary/monstrosity/shadow-spirit-tce.md)
 *Source: Tasha's Cauldron of Everything p. 114*  
 
 ```statblock
@@ -62,6 +62,6 @@ aliases:
     "name": "Shadow Stealth (Fear Only)"
 "source":
   - "TCE"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/shadow-spirit-tce.webp"
+"image": "file://bestiary/tokens/TCE/Shadow%20Spirit.webp"
 ```
 ^statblock

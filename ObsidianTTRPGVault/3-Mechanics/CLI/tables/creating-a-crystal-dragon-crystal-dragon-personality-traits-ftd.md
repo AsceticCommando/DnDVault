@@ -12,6 +12,8 @@ aliases:
 
 **Crystal Dragon Personality Traits**
 
+`dice: [](creating-a-crystal-dragon-crystal-dragon-personality-traits-ftd.md#^crystal-dragon-personality-traits)`
+
 | dice: d8 | Trait |
 |----------|-------|
 | 1 | If you're not a thief or a frost giant, let's talk! |

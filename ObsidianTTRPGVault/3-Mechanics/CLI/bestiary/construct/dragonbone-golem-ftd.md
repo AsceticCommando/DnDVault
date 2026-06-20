@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Dragonbone Golem"
 ---
-# [Dragonbone Golem](3-Mechanics\CLI\bestiary\construct/dragonbone-golem-ftd.md)
+# [Dragonbone Golem](3-Mechanics/CLI/bestiary/construct/dragonbone-golem-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 183*  
 
 A dragonbone golem is composed of dragon bones linked together with adamantine wire into the form of a dragon, animated by drawing on the bones' inherent magic. Most dragon bone golems are created by powerful dragons from the bones of vanquished rivals. Each bone is etched with intricate glyphs that allow animating power to flow through the golem's form.
@@ -81,6 +81,6 @@ Dragonbone golems' resilience and obedience make them excellent lair guardians f
     "name": "Petrifying Breath (Recharge 5-6)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/construct/token/dragonbone-golem-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Dragonbone%20Golem.webp"
 ```
 ^statblock

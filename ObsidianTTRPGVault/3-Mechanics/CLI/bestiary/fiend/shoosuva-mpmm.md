@@ -16,7 +16,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Shoosuva"
 ---
-# [Shoosuva](3-Mechanics\CLI\bestiary\fiend/shoosuva-mpmm.md)
+# [Shoosuva](3-Mechanics/CLI/bestiary/fiend/shoosuva-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 216, Volo's Guide to Monsters p. 137*  
 
 > [!quote] A quote from Mordenkainen  
@@ -27,7 +27,7 @@ aliases:
 > 
 > Trust Mordenkainen to look down on any sort of companionship—even the slavering, venomous, demonic puppy kind.
 
-A shoosuva is a hyena-demon gifted by [Yeenoghu](3-Mechanics/CLI/bestiary/npc/yeenoghu-mpmm.md) to an especially powerful worshiper (typically a [fang of Yeenoghu](3-Mechanics/CLI/bestiary/fiend/gnoll-fang-of-yeenoghu.md)). A shoosuva manifests shortly after a Yeenoghu-worshiping war band achieves a great victory, emerging from a billowing, fetid cloud of smoke as it arrives from the Abyss. In battle, the demon wraps its slavering jaws around one victim while lashing out with the poisonous stinger on its tail to bring down another. A creature immobilized by the poison becomes easy pickings for any nearby members of the war band.
+A shoosuva is a hyena-demon gifted by [Yeenoghu](3-Mechanics/CLI/bestiary/npc/yeenoghu-mpmm.md) to an especially powerful worshiper (typically a [fang of Yeenoghu](3-Mechanics/CLI/bestiary/fiend/gnoll-fang-of-yeenoghu-xmm.md)). A shoosuva manifests shortly after a Yeenoghu-worshiping war band achieves a great victory, emerging from a billowing, fetid cloud of smoke as it arrives from the Abyss. In battle, the demon wraps its slavering jaws around one victim while lashing out with the poisonous stinger on its tail to bring down another. A creature immobilized by the poison becomes easy pickings for any nearby members of the war band.
 
 Each shoosuva is bonded to a particular worshiper of Yeenoghu and fights alongside its master. A gnoll that has been gifted with a shoosuva is second only to a flind in status within a war band dedicated to Yeenoghu.
 
@@ -83,7 +83,7 @@ Each shoosuva is bonded to a particular worshiper of Yeenoghu and fights alongsi
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/shoosuva-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Shoosuva.webp"
 ```
 ^statblock
 

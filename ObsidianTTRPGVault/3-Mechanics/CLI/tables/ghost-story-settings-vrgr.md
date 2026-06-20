@@ -12,6 +12,8 @@ aliases:
 
 **Ghost Story Settings**
 
+`dice: [](ghost-story-settings-vrgr.md#^ghost-story-settings)`
+
 | dice: d8 | Setting |
 |----------|---------|
 | 1 | A realm where speaking to spirits is just like speaking with the living |

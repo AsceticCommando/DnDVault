@@ -12,6 +12,8 @@ aliases:
 
 **Keeper Adventures**
 
+`dice: [](keeper-adventures-vrgr.md#^keeper-adventures)`
+
 | dice: d6 | Adventure Hook |
 |----------|----------------|
 | 1 | Keepers invite the characters to a social gathering where fortunes are told and attendees sample rare imported mumia—powdered mummy. |

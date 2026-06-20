@@ -11,73 +11,87 @@ aliases:
 
 ## Cantrip
 
-- [Friends](3-Mechanics/CLI/spells/friends.md "PHB")
-- [Mind Sliver](3-Mechanics/CLI/spells/mind-sliver-tce.md "TCE")
-- [Vicious Mockery](3-Mechanics/CLI/spells/vicious-mockery.md "PHB")
+- [Encode Thoughts](3-Mechanics/CLI/spells/encode-thoughts-ggr.md "GGR")
+- [Friends](3-Mechanics/CLI/spells/friends-xphb.md "XPHB")
+- [Mind Sliver](3-Mechanics/CLI/spells/mind-sliver-xphb.md "XPHB")
+- [Vicious Mockery](3-Mechanics/CLI/spells/vicious-mockery-xphb.md "XPHB")
 
 ## 1st Level
 
-- [Animal Friendship](3-Mechanics/CLI/spells/animal-friendship.md "PHB")
-- [Bane](3-Mechanics/CLI/spells/bane.md "PHB")
-- [Bless](3-Mechanics/CLI/spells/bless.md "PHB")
-- [Charm Person](3-Mechanics/CLI/spells/charm-person.md "PHB")
-- [Command](3-Mechanics/CLI/spells/command.md "PHB")
-- [Compelled Duel](3-Mechanics/CLI/spells/compelled-duel.md "PHB")
-- [Dissonant Whispers](3-Mechanics/CLI/spells/dissonant-whispers.md "PHB")
-- [Heroism](3-Mechanics/CLI/spells/heroism.md "PHB")
-- [Hex](3-Mechanics/CLI/spells/hex.md "PHB")
-- [Sleep](3-Mechanics/CLI/spells/sleep.md "PHB")
-- [Tasha's Hideous Laughter](3-Mechanics/CLI/spells/tashas-hideous-laughter.md "PHB")
+- [Animal Friendship](3-Mechanics/CLI/spells/animal-friendship-xphb.md "XPHB")
+- [Bane](3-Mechanics/CLI/spells/bane-xphb.md "XPHB")
+- [Bless](3-Mechanics/CLI/spells/bless-xphb.md "XPHB")
+- [Charm Person](3-Mechanics/CLI/spells/charm-person-xphb.md "XPHB")
+- [Command](3-Mechanics/CLI/spells/command-xphb.md "XPHB")
+- [Compelled Duel](3-Mechanics/CLI/spells/compelled-duel-xphb.md "XPHB")
+- [Dissonant Whispers](3-Mechanics/CLI/spells/dissonant-whispers-xphb.md "XPHB")
+- [Heroism](3-Mechanics/CLI/spells/heroism-xphb.md "XPHB")
+- [Hex](3-Mechanics/CLI/spells/hex-xphb.md "XPHB")
+- [Silvery Barbs](3-Mechanics/CLI/spells/silvery-barbs-scc.md "SCC")
+- [Sleep](3-Mechanics/CLI/spells/sleep-xphb.md "XPHB")
+- [Tasha's Hideous Laughter](3-Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md "XPHB")
 
 ## 2nd Level
 
-- [Animal Messenger](3-Mechanics/CLI/spells/animal-messenger.md "PHB")
-- [Calm Emotions](3-Mechanics/CLI/spells/calm-emotions.md "PHB")
-- [Crown of Madness](3-Mechanics/CLI/spells/crown-of-madness.md "PHB")
-- [Enthrall](3-Mechanics/CLI/spells/enthrall.md "PHB")
-- [Hold Person](3-Mechanics/CLI/spells/hold-person.md "PHB")
-- [Suggestion](3-Mechanics/CLI/spells/suggestion.md "PHB")
+- [Animal Messenger](3-Mechanics/CLI/spells/animal-messenger-xphb.md "XPHB")
+- [Calm Emotions](3-Mechanics/CLI/spells/calm-emotions-xphb.md "XPHB")
+- [Crown of Madness](3-Mechanics/CLI/spells/crown-of-madness-xphb.md "XPHB")
+- [Enthrall](3-Mechanics/CLI/spells/enthrall-xphb.md "XPHB")
+- [Gift of Gab](3-Mechanics/CLI/spells/gift-of-gab-ai.md "AI")
+- [Hold Person](3-Mechanics/CLI/spells/hold-person-xphb.md "XPHB")
+- [Jim's Glowing Coin](3-Mechanics/CLI/spells/jims-glowing-coin-ai.md "AI")
+- [Suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md "XPHB")
 - [Tasha's Mind Whip](3-Mechanics/CLI/spells/tashas-mind-whip-tce.md "TCE")
-- [Zone of Truth](3-Mechanics/CLI/spells/zone-of-truth.md "PHB")
+- [Zone of Truth](3-Mechanics/CLI/spells/zone-of-truth-xphb.md "XPHB")
 
 ## 3rd Level
 
+- [Antagonize](3-Mechanics/CLI/spells/antagonize-bmt.md "BMT")
 - [Catnap](3-Mechanics/CLI/spells/catnap-xge.md "XGE")
 - [Enemies Abound](3-Mechanics/CLI/spells/enemies-abound-xge.md "XGE")
+- [Fast Friends](3-Mechanics/CLI/spells/fast-friends-ai.md "AI")
+- [Incite Greed](3-Mechanics/CLI/spells/incite-greed-ai.md "AI")
+- [Motivational Speech](3-Mechanics/CLI/spells/motivational-speech-ai.md "AI")
 
 ## 4th Level
 
-- [Charm Monster](3-Mechanics/CLI/spells/charm-monster-xge.md "XGE")
-- [Compulsion](3-Mechanics/CLI/spells/compulsion.md "PHB")
-- [Confusion](3-Mechanics/CLI/spells/confusion.md "PHB")
-- [Dominate Beast](3-Mechanics/CLI/spells/dominate-beast.md "PHB")
+- [Charm Monster](3-Mechanics/CLI/spells/charm-monster-xphb.md "XPHB")
+- [Compulsion](3-Mechanics/CLI/spells/compulsion-xphb.md "XPHB")
+- [Confusion](3-Mechanics/CLI/spells/confusion-xphb.md "XPHB")
+- [Dominate Beast](3-Mechanics/CLI/spells/dominate-beast-xphb.md "XPHB")
 - [Raulothim's Psychic Lance](3-Mechanics/CLI/spells/raulothims-psychic-lance-ftd.md "FTD")
+- [Staggering Smite](3-Mechanics/CLI/spells/staggering-smite-xphb.md "XPHB")
 
 ## 5th Level
 
-- [Dominate Person](3-Mechanics/CLI/spells/dominate-person.md "PHB")
-- [Geas](3-Mechanics/CLI/spells/geas.md "PHB")
-- [Hold Monster](3-Mechanics/CLI/spells/hold-monster.md "PHB")
-- [Modify Memory](3-Mechanics/CLI/spells/modify-memory.md "PHB")
-- [Synaptic Static](3-Mechanics/CLI/spells/synaptic-static-xge.md "XGE")
+- [Dominate Person](3-Mechanics/CLI/spells/dominate-person-xphb.md "XPHB")
+- [Geas](3-Mechanics/CLI/spells/geas-xphb.md "XPHB")
+- [Hold Monster](3-Mechanics/CLI/spells/hold-monster-xphb.md "XPHB")
+- [Modify Memory](3-Mechanics/CLI/spells/modify-memory-xphb.md "XPHB")
+- [Synaptic Static](3-Mechanics/CLI/spells/synaptic-static-xphb.md "XPHB")
+- [Yolande's Regal Presence](3-Mechanics/CLI/spells/yolandes-regal-presence-xphb.md "XPHB")
 
 ## 6th Level
 
-- [Mass Suggestion](3-Mechanics/CLI/spells/mass-suggestion.md "PHB")
-- [Otto's Irresistible Dance](3-Mechanics/CLI/spells/ottos-irresistible-dance.md "PHB")
+- [Dirge](3-Mechanics/CLI/spells/dirge-frhof.md "FRHoF")
+- [Mass Suggestion](3-Mechanics/CLI/spells/mass-suggestion-xphb.md "XPHB")
+- [Otto's Irresistible Dance](3-Mechanics/CLI/spells/ottos-irresistible-dance-xphb.md "XPHB")
 
 ## 7th Level
 
+- [Power Word Fortify](3-Mechanics/CLI/spells/power-word-fortify-xphb.md "XPHB")
 - [Power Word Pain](3-Mechanics/CLI/spells/power-word-pain-xge.md "XGE")
 
 ## 8th Level
 
-- [Antipathy/Sympathy](3-Mechanics/CLI/spells/antipathy-sympathy.md "PHB")
-- [Dominate Monster](3-Mechanics/CLI/spells/dominate-monster.md "PHB")
-- [Feeblemind](3-Mechanics/CLI/spells/feeblemind.md "PHB")
-- [Power Word Stun](3-Mechanics/CLI/spells/power-word-stun.md "PHB")
+- [Antipathy/Sympathy](3-Mechanics/CLI/spells/antipathy-sympathy-xphb.md "XPHB")
+- [Befuddlement](3-Mechanics/CLI/spells/befuddlement-xphb.md "XPHB")
+- [Dominate Monster](3-Mechanics/CLI/spells/dominate-monster-xphb.md "XPHB")
+- [Glibness](3-Mechanics/CLI/spells/glibness-xphb.md "XPHB")
+- [Power Word Stun](3-Mechanics/CLI/spells/power-word-stun-xphb.md "XPHB")
 
 ## 9th Level
 
-- [Power Word Kill](3-Mechanics/CLI/spells/power-word-kill.md "PHB")
+- [Power Word Heal](3-Mechanics/CLI/spells/power-word-heal-xphb.md "XPHB")
+- [Power Word Kill](3-Mechanics/CLI/spells/power-word-kill-xphb.md "XPHB")
 - [Psychic Scream](3-Mechanics/CLI/spells/psychic-scream-xge.md "XGE")

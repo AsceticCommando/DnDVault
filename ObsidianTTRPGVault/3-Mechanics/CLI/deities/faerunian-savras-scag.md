@@ -15,7 +15,7 @@ aliases:
 ---
 # Savras
 *Source: Sword Coast Adventurer's Guide p. 21* 
-![](3-Mechanics/CLI/deities/img/scag-symbol-of-savras.webp#symbol)
+![](file://deities/SCAG/Symbol%20of%20Savras.webp#symbol)
 
 - **Alternate Names**: The All-Seeing, The Third Eye, Divination's Lord
 - **Alignment**: Lawful Neutral

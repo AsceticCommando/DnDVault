@@ -12,6 +12,8 @@ aliases:
 
 **Tiefling Names – Male**
 
+`dice: [](tiefling-names-male-xge.md#^tiefling-names-male)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Abad |

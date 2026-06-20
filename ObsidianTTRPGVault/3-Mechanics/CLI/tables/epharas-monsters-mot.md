@@ -14,14 +14,14 @@ aliases:
 
 | Challenge | Creature |
 |-----------|----------|
-| 1/8 | [Guard](3-Mechanics/CLI/bestiary/humanoid/guard.md) |
+| 1/8 | [Guard](3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) |
 | 1/2 | [Anvilwrought raptor](3-Mechanics/CLI/bestiary/construct/anvilwrought-raptor-mot.md) |
 | 3 | [Meletian hoplite](3-Mechanics/CLI/bestiary/humanoid/meletian-hoplite-mot.md) |
 | 9 | [War priest](3-Mechanics/CLI/bestiary/humanoid/war-priest-mpmm.md) |
-| 11 | [Gynosphinx](3-Mechanics/CLI/bestiary/monstrosity/gynosphinx.md)* |
+| 11 | [Gynosphinx](3-Mechanics/CLI/bestiary/celestial/sphinx-of-lore-xmm.md)* |
 | 15 | [Hundred-handed one](3-Mechanics/CLI/bestiary/giant/hundred-handed-one-mot.md) |
-| 17 | [Androsphinx](3-Mechanics/CLI/bestiary/monstrosity/androsphinx.md)* |
-| 23 | [Empyrean](3-Mechanics/CLI/bestiary/celestial/empyrean.md) |
+| 17 | [Androsphinx](3-Mechanics/CLI/bestiary/celestial/sphinx-of-valor-xmm.md)* |
+| 23 | [Empyrean](3-Mechanics/CLI/bestiary/miscellaneous/empyrean-xmm.md) |
 ^epharas-monsters
 
 * See "chapter 6" for details about these creatures in Theros.

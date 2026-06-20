@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Young Basilisk"
 ---
-# [Young Basilisk](3-Mechanics\CLI\bestiary\monstrosity/young-basilisk-oota.md)
+# [Young Basilisk](3-Mechanics/CLI/bestiary/monstrosity/young-basilisk-oota.md)
 *Source: Out of the Abyss p. 100*  
 
 ```statblock
@@ -44,7 +44,7 @@ aliases:
       \ On a failed save, the creature magically begins to turn to stone and is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained).\
       \ It must repeat the saving throw at the end of its next turn. On a success,\
       \ the effect ends. On a failure, the creature is [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified)\
-      \ until freed by the  [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md)\
+      \ until freed by the [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md)\
       \ spell or other magic.\n\nA creature that isn't [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised)\
       \ can avert its eyes to avoid the saving throw at the start of its turn. If\
       \ it does so, it can't see the basilisk until the start of its next turn, when\
@@ -59,6 +59,6 @@ aliases:
     "name": "Bite"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/young-basilisk-oota.webp"
+"image": "file://bestiary/tokens/OotA/Young%20Basilisk.webp"
 ```
 ^statblock

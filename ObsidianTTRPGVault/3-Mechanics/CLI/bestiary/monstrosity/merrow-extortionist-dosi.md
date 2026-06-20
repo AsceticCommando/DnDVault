@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Merrow Extortionist"
 ---
-# [Merrow Extortionist](3-Mechanics\CLI\bestiary\monstrosity/merrow-extortionist-dosi.md)
+# [Merrow Extortionist](3-Mechanics/CLI/bestiary/monstrosity/merrow-extortionist-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 0*  
 
 ```statblock
@@ -48,6 +48,6 @@ aliases:
     "name": "Rend"
 "source":
   - "DoSI"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/merrow-extortionist-dosi.webp"
+"image": "file://bestiary/tokens/DoSI/Merrow%20Extortionist.webp"
 ```
 ^statblock

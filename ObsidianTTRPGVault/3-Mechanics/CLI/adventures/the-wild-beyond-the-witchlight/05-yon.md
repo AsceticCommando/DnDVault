@@ -14,7 +14,7 @@ aliases:
 
 Carved into the realm's tallest pinnacle is Motherhorn, Endelyn's theater, where hapless souls come seeking hope, only to leave after stark revelations of decline and despair—if they leave at all.
 
-![Lightning powers the contr...](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/071-04-001-chapter-splash.webp#center "Lightning powers the contraptions of Motherhorn, a mountaintop theater where the show must go on")
+![Lightning powers the contraptions of Motherhorn, a mountaintop theater where the show must go on](file://adventure/WBtW/071-04-001.chapter-splash.webp#center)
 
 ## Running This Chapter
 
@@ -53,8 +53,8 @@ One route to the Palace of Heart's Desire lies in Motherhorn's belfry, which con
 Yon is a realm of rocky peaks, thunderclouds, and howling winds. The narrow ledges and footpaths that curl around the mountains make foot travel possible, but such routes are arduous, and dead ends are common. Skittish goats leap and bound across the mountain slopes with ease, but they avoid strangers. To see farther than a mile or two, one must ascend to high ground, where the rain and winds are particularly fierce.
 
 > [!gallery]
-> ![Yon](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/072-map-4-1-yon.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/073-map-4-1-yon-player.webp#gallery)
+> ![Yon](file://adventure/WBtW/072-map-4.1-yon.webp#gallery)
+> ![Player Version](file://adventure/WBtW/073-map-4.1-yon-player.webp#gallery)
 
 ### Lightning Rods
 
@@ -88,7 +88,7 @@ The creature wielding the rapier is [Amidor](3-Mechanics/CLI/bestiary/npc/amidor
 
 > [!note] Shadowless
 > 
-> A shadowless creature is one that carries the curse of having no shadow—a fact evident only when the creature is in bright or dim light. A [remove curse](3-Mechanics/CLI/spells/remove-curse.md) spell or similar magic ends the curse on a shadowless creature, reuniting it with its shadow instantly.
+> A shadowless creature is one that carries the curse of having no shadow—a fact evident only when the creature is in bright or dim light. A [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md) spell or similar magic ends the curse on a shadowless creature, reuniting it with its shadow instantly.
 > 
 > Creatures native to Prismeer will not trust or do business with a known shadowless creature or those who ally themselves with one.
 ^shadowless
@@ -103,7 +103,7 @@ If the characters seem friendly, Amidor and Gleam beseech them for help. By way 
 
 While she was a guest in Motherhorn, Gleam learned the following information, which she shares with characters who promise to help her:
 
-![Amidor and Pollenella](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/074-04-002-amidor-and-pollenella.webp#center)
+![Amidor and Pollenella](file://adventure/WBtW/074-04-002.amidor-and-pollenella.webp#center)
 
 - The mountains are home to clans of korreds—stout Fey creatures whose hair has the strength of iron. The korreds gather and dance at Lockbury Henge. (If the characters don't think of it themselves, Gleam suggests they strike up an alliance with the korreds. See "Lockbury Henge" later in the chapter for how they might accomplish that.)  
 - An elf prince named [Alagarthas](3-Mechanics/CLI/bestiary/npc/alagarthas-wbtw.md) made a bargain with Endelyn and now finds himself trapped in Yon. He's at the Fey Beacons, searching for a way home (see "Fey Beacons" later in the chapter for more information).  
@@ -121,9 +121,11 @@ If you feel burdened by all these nonplayer characters, give them responsibiliti
 
 ### Random Encounters in Yon
 
-A random encounter in Yon occurs whenever you want it to. To determine what the characters encounter, roll a `d8` and consult the Random Encounters in Yon table. If you get the same result as a previous roll, choose a different encounter that you think would be fun.
+A random encounter in Yon occurs whenever you want it to. To determine what the characters encounter, roll a `dice:d8|noform|noparens|avg` (`d8`) and consult the Random Encounters in Yon table. If you get the same result as a previous roll, choose a different encounter that you think would be fun.
 
 **Random Encounters in Yon**
+
+`dice: [](05-yon.md#^random-encounters-in-yon)`
 
 | dice: d8 | Encounter |
 |----------|-----------|
@@ -139,7 +141,7 @@ A random encounter in Yon occurs whenever you want it to. To determine what the 
 
 #### Astronomer's Throne
 
-The characters come across a throne hewn from a boulder and etched with astronomical symbols. A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals an aura of divination magic around the throne. An inscription in Elvish engraved around the seat of the throne reads:
+The characters come across a throne hewn from a boulder and etched with astronomical symbols. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of divination magic around the throne. An inscription in Elvish engraved around the seat of the throne reads:
 
 > [!note] 
 > 
@@ -158,7 +160,7 @@ Once the throne bestows its gift on a creature, the throne ceases to be magical 
 
 #### Awakened Giant Goats
 
-The characters come upon three [giant goats](3-Mechanics/CLI/bestiary/beast/giant-goat.md), each of which has received the benefit of an [awaken](3-Mechanics/CLI/spells/awaken.md) spell, raising its Intelligence score to 10 and granting it the ability to speak Elvish. These goats have silvery-gray fur, wizened faces, and golden, hourglass-shaped pupils that observe the characters closely.
+The characters come upon three [giant goats](3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md), each of which has received the benefit of an [awaken](3-Mechanics/CLI/spells/awaken-xphb.md) spell, raising its Intelligence score to 10 and granting it the ability to speak Elvish. These goats have silvery-gray fur, wizened faces, and golden, hourglass-shaped pupils that observe the characters closely.
 
 The goats have the ability to hear prophecies and secrets whispered on the wind. Upon seeing the characters, the goats bleat the following:
 
@@ -166,20 +168,20 @@ The goats have the ability to hear prophecies and secrets whispered on the wind.
 - The second goat says, "Play to her passions. Stay on script. A cat, a horn, or a shadow ripped." (This prophecy refers to Endelyn's desire to have plays performed for her and the three things she's willing to accept as the result of any bargain made with the characters, as discussed in "Bargaining with Endelyn" section later in the chapter.)  
 - The third goat says, "The fool's scepter is the key." (This statement refers to the scepter that belongs to Stagefright the goblin, which can be used to open the stone door to area M17.)  
 
-After speaking these words, the goats wait to see if the characters offer them something in return, thereby honoring the rule of reciprocity (see "Rules of Conduct" in chapter 2). The goats are hungry but not picky eaters, though they admit to being fond of root vegetables. If no reciprocation is forthcoming, either in the form of food or other gifts, all three goats bolt away as a [galeb duhr](3-Mechanics/CLI/bestiary/elemental/galeb-duhr.md) erupts from the ground beneath them. This Elemental can't speak and is a manifestation of the Feywild's anger toward the characters. It attacks the party and fights until destroyed. There are plenty of boulders in the area that the galeb duhr can animate using its Animate Boulders action.
+After speaking these words, the goats wait to see if the characters offer them something in return, thereby honoring the rule of reciprocity (see "Rules of Conduct" in chapter 2). The goats are hungry but not picky eaters, though they admit to being fond of root vegetables. If no reciprocation is forthcoming, either in the form of food or other gifts, all three goats bolt away as a [galeb duhr](3-Mechanics/CLI/bestiary/elemental/galeb-duhr-xmm.md) erupts from the ground beneath them. This Elemental can't speak and is a manifestation of the Feywild's anger toward the characters. It attacks the party and fights until destroyed. There are plenty of boulders in the area that the galeb duhr can animate using its Animate Boulders action.
 
-![Mudlump the cyclops search...](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/075-04-003-mudlump.webp#center "Mudlump the cyclops searches for his missing queen bee")
+![Mudlump the cyclops searches for his missing queen bee](file://adventure/WBtW/075-04-003.mudlump.webp#center)
 
 #### Cyclops Beekeeper
 
-A [cyclops](3-Mechanics/CLI/bestiary/giant/cyclops.md) beekeeper named Mudlump stumbles upon the characters while he is searching for Pollenella, his lost queen bee. Mudlump wears a hooded veil to protect his eye from bee stings and carries a large beehive on a stick, which doubles as a greatclub. Three times per day, as an action, Mudlump can shake his beehive to bring forth a swarm of bees; treat each one as a [swarm of insects (wasps)](3-Mechanics/CLI/bestiary/beast/swarm-of-wasps.md). The swarm attacks Mudlump's enemies.
+A [cyclops](3-Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm.md) beekeeper named Mudlump stumbles upon the characters while he is searching for Pollenella, his lost queen bee. Mudlump wears a hooded veil to protect his eye from bee stings and carries a large beehive on a stick, which doubles as a greatclub. Three times per day, as an action, Mudlump can shake his beehive to bring forth a swarm of bees; treat each one as a [swarm of insects (wasps)](3-Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm.md). The swarm attacks Mudlump's enemies.
 
 If Amidor is with the party, the dandelion unsheathes its rapier to defend his beloved honeybee. Upon seeing Amidor, the cyclops roars in Giant, "You stole queen bee! Mudlump needs queen to make honey mead! Best mead in Yon!" Amidor doesn't speak Giant and has no idea what the cyclops is saying, but Mudlump's outrage comes through loud and clear.
 
 Mudlump speaks no language other than Giant. Any character who can communicate with Mudlump can, with a successful DC 13 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check, convince him not to attack Amidor or the party. Here are three options for settling the dispute, though clever players can come up with others:
 
 - **Honorable Duel.** The characters convince Mudlump to participate in an honorable duel against one of their own. If Mudlump wins, he gets Pollenella; if he loses, he lets Amidor keep Pollenella and doesn't trouble the party again.  
-- **Magical Deception.** The characters use magic to fool or placate Mudlump. For example, a character might create an illusion of Pollenella that fools the cyclops long enough for the party to escape. Alternatively, a character might use a [speak with animals](3-Mechanics/CLI/spells/speak-with-animals.md) spell to find out what Pollenella wants. The bee would rather stay with Amidor than return to the cyclops; if Mudlump sees the spell being cast and learns of Pollenella's preference, he lets Amidor keep the bee.  
+- **Magical Deception.** The characters use magic to fool or placate Mudlump. For example, a character might create an illusion of Pollenella that fools the cyclops long enough for the party to escape. Alternatively, a character might use a [speak with animals](3-Mechanics/CLI/spells/speak-with-animals-xphb.md) spell to find out what Pollenella wants. The bee would rather stay with Amidor than return to the cyclops; if Mudlump sees the spell being cast and learns of Pollenella's preference, he lets Amidor keep the bee.  
 - **Explain Love to Mudlump.** The characters tell Mudlump that Amidor and Pollenella are in love. This statement causes the cyclops to blink in confusion and ask, "What is love?" If the concept is explained to him, Mudlump declares that he'd like to be in love, too, and gives the characters a quest to find his true love. Although the characters can try to pair Mudlump up with any creature they deem suitable, his ideal match can be found in the Palace of Heart's Desire: the fomorian Dubhforgail (see area P18 in chapter 5).  
 
 ##### Mudlump's Home
@@ -192,7 +194,7 @@ Mudlump has hidden the following treasures under loose stones throughout his hom
 
 - An empty crystal vial shaped like a pixie, dangling on the end of a delicate silver chain (75 gp)  
 - An untuned lyre of exquisite quality (250 gp)  
-- A [quiver of Ehlonna](3-Mechanics/CLI/items/quiver-of-ehlonna.md)  
+- A [quiver of Ehlonna](3-Mechanics/CLI/items/quiver-of-ehlonna-xdmg.md)  
 
 #### Evil Kite
 
@@ -207,13 +209,13 @@ Feenia speaks Common and Goblin. If the characters approach her, she shares the 
 > "My arms are so very sore, I don't want to fly this kite anymore! But if I let go of this string, Creeping Lyn says I'll become an old thing! The curse comes from those five blue bows, but they won't come off while the wind blows."
 ^2a7
 
-The kite, which was created and brought to life by Endelyn, is a Small animated object (see the [animate objects](3-Mechanics/CLI/spells/animate-objects.md) spell for its statistics). The bows can't be removed from the string while the kite is in the air, and the string can't be cut. The kite, its string, and the bows turn to ashes if the kite is reduced to 0 hit points.
+The kite, which was created and brought to life by Endelyn, is a Small animated object (see the [animate objects](3-Mechanics/CLI/spells/animate-objects-xphb.md) spell for its statistics). The bows can't be removed from the string while the kite is in the air, and the string can't be cut. The kite, its string, and the bows turn to ashes if the kite is reduced to 0 hit points.
 
 The safest way to free Feenia from the kite without aging her is to untie the bows, which can be accomplished only while the kite is on the ground (see "The Kite Falls" below). Once the kite falls to the ground, it takes an action to untie each bow. Another way to free Feenia is to reduce the kite to 0 hit points with a single attack or effect before it can react (see "The Kite Reacts" below).
 
 ##### The Kite Falls
 
-A character who doesn't know what else to do can use an action to make a DC 13 Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check. On a successful check, the character senses a correlation between Feenia's foul mood and the strength of the wind around her. If the kite's taunts are muted for at least 1 minute using a [silence](3-Mechanics/CLI/spells/silence.md) spell or similar magic, Feenia's mood improves, causing the wind to abate and the kite to fall. The same thing happens if a character uses an action to try to calm Feenia, doing so with a successful DC 15 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check, or if the goblin receives the benefit of a [calm emotions](3-Mechanics/CLI/spells/calm-emotions.md) spell or similar magic.
+A character who doesn't know what else to do can use an action to make a DC 13 Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check. On a successful check, the character senses a correlation between Feenia's foul mood and the strength of the wind around her. If the kite's taunts are muted for at least 1 minute using a [silence](3-Mechanics/CLI/spells/silence-xphb.md) spell or similar magic, Feenia's mood improves, causing the wind to abate and the kite to fall. The same thing happens if a character uses an action to try to calm Feenia, doing so with a successful DC 15 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check, or if the goblin receives the benefit of a [calm emotions](3-Mechanics/CLI/spells/calm-emotions-xphb.md) spell or similar magic.
 
 ##### The Kite Reacts
 
@@ -227,9 +229,9 @@ Feenia has a trinket hidden in the pocket of her overalls. She gives this trinke
 
 #### Goblin Procession
 
-Eight [goblins](3-Mechanics/CLI/bestiary/humanoid/goblin.md) (neutral) shuffle into view, solemnly ringing handbells. They wear headdresses made from animal skulls (badgers, wolves, and rams) and are further adorned with necklaces of dangling bones. Known as the Dead Ringers, they sound their bells to comfort the dead, whom they believe lie in the rock beneath their feet.
+Eight [goblins](3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) (neutral) shuffle into view, solemnly ringing handbells. They wear headdresses made from animal skulls (badgers, wolves, and rams) and are further adorned with necklaces of dangling bones. Known as the Dead Ringers, they sound their bells to comfort the dead, whom they believe lie in the rock beneath their feet.
 
-The goblins are interested in talking to strangers and are willing to trade their services for a trinket. They have the power to commune with the dead by forming a circle and ringing their bells. (A minimum of three goblins are needed to perform the ritual.) After 1 minute of this clamor, the ephemeral spirit of a [korred](3-Mechanics/CLI/bestiary/fey/korred-mpmm.md) (see appendix C) or some other departed Fey creature rises from the ground between the goblins. The spirit answers three questions put to it, as though it was targeted by a [speak with dead](3-Mechanics/CLI/spells/speak-with-dead.md) spell. Use the spirit to communicate as much useful information as you want; ideally, the characters should learn at least one fact that might help them in a future encounter.
+The goblins are interested in talking to strangers and are willing to trade their services for a trinket. They have the power to commune with the dead by forming a circle and ringing their bells. (A minimum of three goblins are needed to perform the ritual.) After 1 minute of this clamor, the ephemeral spirit of a [korred](3-Mechanics/CLI/bestiary/fey/korred-mpmm.md) (see appendix C) or some other departed Fey creature rises from the ground between the goblins. The spirit answers three questions put to it, as though it was targeted by a [speak with dead](3-Mechanics/CLI/spells/speak-with-dead-xphb.md) spell. Use the spirit to communicate as much useful information as you want; ideally, the characters should learn at least one fact that might help them in a future encounter.
 
 The goblins require one trinket as payment each time they commune with a spirit. After performing this ritual three times, the goblins must finish a long rest to regain their spirit-summoning power.
 
@@ -237,7 +239,7 @@ The goblins require one trinket as payment each time they commune with a spirit.
 
 [Endelyn Moongrave](3-Mechanics/CLI/bestiary/npc/endelyn-moongrave-wbtw.md) separates Humanoids from their shadows using a pair of magic scissors. These severed shadows, indebted to the hag for granting them their freedom, have become a minor menace to travelers.
 
-Characters who have a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 16 or higher observe two silent shadows creeping up behind them. Each one looks like the slightly [elongated shadow](3-Mechanics/CLI/bestiary/fey/detached-shadow-wbtw.md) of a goblin; both use the [shadow](3-Mechanics/CLI/bestiary/undead/shadow.md) stat block, except they are Fey rather than Undead. The shadows can't leave Yon but otherwise try to follow the characters wherever they go, making spooky and threatening gestures but without causing any harm. If they are attacked, the shadows attack in turn. If one shadow is destroyed, the other tries to flee.
+Characters who have a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 16 or higher observe two silent shadows creeping up behind them. Each one looks like the slightly [elongated shadow](3-Mechanics/CLI/bestiary/fey/detached-shadow-wbtw.md) of a goblin; both use the [shadow](3-Mechanics/CLI/bestiary/undead/shadow-xmm.md) stat block, except they are Fey rather than Undead. The shadows can't leave Yon but otherwise try to follow the characters wherever they go, making spooky and threatening gestures but without causing any harm. If they are attacked, the shadows attack in turn. If one shadow is destroyed, the other tries to flee.
 
 A creature whose Strength is reduced to 0 by a shadow's Strength Drain attack does not die but falls [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) instead. The creature regains consciousness and the reduction to its Strength score disappears after it finishes a short or long rest.
 
@@ -255,9 +257,11 @@ The play is 3 minutes long and ends with a scene that shows the characters stand
 
 The sky darkens as a huge tornado forms and careens toward the characters. Everyone in the party (characters and nonplayer characters) must make a DC 17 Strength saving throw. If at least half of the party members succeed on the saving throw, none of them are swept away by the tornado.
 
-If less than half of them succeed on the saving throw, the tornado whisks the group to a location determined by rolling on the Tornado Destinations table. Each party member takes 10 (`3d6`) force damage and falls [prone](3-Mechanics/CLI/rules/conditions.md#Prone) upon landing. In addition, any character whose saving throw failed by 5 or more loses one nonmagical item in transit (determined by you). The item should be something that could reasonably be snatched away by the wind, such as a belt pouch or a helmet. This item is not recoverable.
+If less than half of them succeed on the saving throw, the tornado whisks the group to a location determined by rolling on the Tornado Destinations table. Each party member takes `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) force damage and falls [prone](3-Mechanics/CLI/rules/conditions.md#Prone) upon landing. In addition, any character whose saving throw failed by 5 or more loses one nonmagical item in transit (determined by you). The item should be something that could reasonably be snatched away by the wind, such as a belt pouch or a helmet. This item is not recoverable.
 
 **Tornado Destinations**
+
+`dice: [](05-yon.md#^tornado-destinations)`
 
 | dice: d8 | Destination |
 |----------|-------------|
@@ -292,7 +296,7 @@ Argantle is playing a chess-like game called Crowns with her cousin, Jagu, when 
 > Atop a boulder-strewn plateau stands a circle of eight megaliths. In the center of this henge, a small, checkered game board with stone playing pieces rests on the ground near the dying embers of a campfire.
 ^2b1
 
-Each of the eight standing stones is about 20 feet tall and hewn from a different kind of rock: shale, chalk, flint, granite, slate, basalt, obsidian, and marble. Two [korreds](3-Mechanics/CLI/bestiary/fey/korred-mpmm.md) (see appendix C) are using [meld into stone](3-Mechanics/CLI/spells/meld-into-stone.md) spells to hide in two of the megaliths: Argantle of Shale in the one made of shale, and Jagu of Chalk (leader of the Chalk Clan korreds) in the one made of chalk. While hidden in this way, the korreds can see their surroundings as though the standing stones were transparent instead of opaque. Characters who examine the campfire and succeed on a DC 12 Wisdom ([Survival](3-Mechanics/CLI/rules/skills.md#Survival)) check notice two sets of small, sooty hoofprints leading up to the stones where the korreds are hiding.
+Each of the eight standing stones is about 20 feet tall and hewn from a different kind of rock: shale, chalk, flint, granite, slate, basalt, obsidian, and marble. Two [korreds](3-Mechanics/CLI/bestiary/fey/korred-mpmm.md) (see appendix C) are using [meld into stone](3-Mechanics/CLI/spells/meld-into-stone-xphb.md) spells to hide in two of the megaliths: Argantle of Shale in the one made of shale, and Jagu of Chalk (leader of the Chalk Clan korreds) in the one made of chalk. While hidden in this way, the korreds can see their surroundings as though the standing stones were transparent instead of opaque. Characters who examine the campfire and succeed on a DC 12 Wisdom ([Survival](3-Mechanics/CLI/rules/skills.md#Survival)) check notice two sets of small, sooty hoofprints leading up to the stones where the korreds are hiding.
 
 > [!note] Brigganocks and Korreds
 > 
@@ -319,7 +323,7 @@ Characters who study the arrangement of the pieces on the board and succeed on a
 
 ##### Treasure
 
-The character who helped Argantle win the game receives a gift, in accordance with the rule of reciprocity (see "Rules of Conduct" in chapter 2). Argantle picks up a lump of rock, squeezes it tightly between her hands to transform it into a [star sapphire](3-Mechanics/CLI/items/star-sapphire.md) (1,000 gp), and gives it to the character. If the gift is accepted, the gemstone begins to glow faintly. Until it stops glowing 24 hours later, the star sapphire has the properties of a [stone of good luck](3-Mechanics/CLI/items/stone-of-good-luck.md) that doesn't require attunement.
+The character who helped Argantle win the game receives a gift, in accordance with the rule of reciprocity (see "Rules of Conduct" in chapter 2). Argantle picks up a lump of rock, squeezes it tightly between her hands to transform it into a [star sapphire](3-Mechanics/CLI/items/star-sapphire-xdmg.md) (1,000 gp), and gives it to the character. If the gift is accepted, the gemstone begins to glow faintly. Until it stops glowing 24 hours later, the star sapphire has the properties of a [stone of good luck](3-Mechanics/CLI/items/stone-of-good-luck-xdmg.md) that doesn't require attunement.
 
 #### Distant Racket
 
@@ -351,7 +355,7 @@ Any character who joins the boisterous dance can impress the korreds with a succ
 
 The accompanying "Brigganocks and Korreds" sidebar describes how the characters can facilitate a truce between the two groups of Fey and unite them against [Endelyn Moongrave](3-Mechanics/CLI/bestiary/npc/endelyn-moongrave-wbtw.md).
 
-![Dance of the Korreds](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/076-04-004-dance-of-the-korreds.webp#center)
+![Dance of the Korreds](file://adventure/WBtW/076-04-004.dance-of-the-korreds.webp#center)
 
 ### Fey Beacons
 
@@ -364,9 +368,9 @@ In this encounter, a cursed prince trying to find his way home is thwarted by a 
 
 The columns of rock are 200 feet tall and 150 feet apart. Each one has a large copper brazier at its summit. These braziers aren't visible from below the columns' summits, but all eight can be seen from the top of any column or by a creature flying at that elevation or higher. The lake is 400 feet in diameter and 100 feet deep at its center.
 
-The figure is [Alagarthas](3-Mechanics/CLI/bestiary/npc/alagarthas-wbtw.md), a wood elf prince from the Material Plane. As the characters watch from afar, he reaches the top of the column he is ascending and uses his torch to light the beacon there. The beacon burns bright as he descends the stairs and boards the rowboat. As the elf rows toward the next beacon, the eight [perytons](3-Mechanics/CLI/bestiary/monstrosity/peryton.md) that had been harassing him extinguish the flame in the brazier with powerful beats of their wings. [Alagarthas](3-Mechanics/CLI/bestiary/npc/alagarthas-wbtw.md) believes the fiery beacons can show him the way home, but only while all of them are lit.
+The figure is [Alagarthas](3-Mechanics/CLI/bestiary/npc/alagarthas-wbtw.md), a wood elf prince from the Material Plane. As the characters watch from afar, he reaches the top of the column he is ascending and uses his torch to light the beacon there. The beacon burns bright as he descends the stairs and boards the rowboat. As the elf rows toward the next beacon, the eight [perytons](3-Mechanics/CLI/bestiary/monstrosity/peryton-xmm.md) that had been harassing him extinguish the flame in the brazier with powerful beats of their wings. [Alagarthas](3-Mechanics/CLI/bestiary/npc/alagarthas-wbtw.md) believes the fiery beacons can show him the way home, but only while all of them are lit.
 
-![The Greyhawk Mummers are a...](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/077-04-005-greyhawk-mummers.webp#center "The Greyhawk Mummers are actors who were transformed into perytons by fey magic")
+![The Greyhawk Mummers are actors who were transformed into perytons by fey magic](file://adventure/WBtW/077-04-005.greyhawk-mummers.webp#center)
 
 #### Prince Alagarthas
 
@@ -374,7 +378,7 @@ After several failed attempts to fend off a green dragon threatening the prosper
 
 The prince saw a year of his life as a small price to pay, so he accepted the hag's terms. The year seemed to drag on and on, and when it finally ended, [Alagarthas](3-Mechanics/CLI/bestiary/npc/alagarthas-wbtw.md) found himself with only one way to get home: a path that, according to Endelyn, is visible "only in the light of the eight beacons." The simple goal of lighting the beacons has been repeatedly thwarted by the perytons, who revel in [Alagarthas](3-Mechanics/CLI/bestiary/npc/alagarthas-wbtw.md)'s despair. Each time he lights a beacon, the perytons snuff it out, yet [Alagarthas](3-Mechanics/CLI/bestiary/npc/alagarthas-wbtw.md) is too stubborn and determined to give up. He hopes the perytons will grow bored of their antics and leave him alone eventually. He is, however, misguided in that expectation.
 
-[Alagarthas](3-Mechanics/CLI/bestiary/npc/alagarthas-wbtw.md) is a [knight](3-Mechanics/CLI/bestiary/humanoid/knight.md) (chaotic good) with these changes:
+[Alagarthas](3-Mechanics/CLI/bestiary/npc/alagarthas-wbtw.md) is a [knight](3-Mechanics/CLI/bestiary/humanoid/knight-xmm.md) (chaotic good) with these changes:
 
 - [Alagarthas](3-Mechanics/CLI/bestiary/npc/alagarthas-wbtw.md) is unarmed and unarmored (AC 10).  
 - He speaks Common and Elvish, and he has [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 60 feet.  
@@ -417,7 +421,7 @@ Each beacon consists of an 8-foot-diameter stone brazier filled with coals that 
 
 Any character who lights all eight beacons without assistance causes the lake to display an image of whatever place that character calls home. The image lasts for 1 minute, and any creature that enters the water during that time is transported to this destination. There's no way to get back to the lake, making it a one-way trip.
 
-![The korreds plant stone sc...](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/078-04-006-stone-sculptures.webp#center "The korreds plant stone sculptures of themselves outside the mine to frighten the brigganock miners")
+![The korreds plant stone sculptures of themselves outside the mine to frighten the brigganock miners](file://adventure/WBtW/078-04-006.stone-sculptures.webp#center)
 
 ### Brigganock Mine
 
@@ -447,7 +451,7 @@ As the characters head deeper into the mine, the sound of hammering resumes, com
 
 The mine is a twisting labyrinth of 8-foot-high, 3-foot-wide tunnels that corkscrew into the ground. The brigganocks made these tunnels big enough to accommodate ponies (which they use as beasts of burden) and their good friend [Molliver](3-Mechanics/CLI/bestiary/npc/molliver-wbtw.md), whom the characters will encounter if they head deeper into the mine (see "[Molliver](3-Mechanics/CLI/bestiary/npc/molliver-wbtw.md)" below).
 
-The characters encounter no brigganocks in the upper reaches of the mine, but the sound of activity persists. After 10 minutes of navigating the mine, each character must succeed on a DC 19 Constitution saving throw or fall asleep for 1 hour, lulled into a magical slumber by the rhythmic racket of the miners. On a successful save, a creature is immune to this effect permanently. Elves and other creatures that can't be put to sleep by magic are also immune to the effect. Creatures that are put to sleep in this way can't be awakened early by any means short of a [wish](3-Mechanics/CLI/spells/wish.md) spell.
+The characters encounter no brigganocks in the upper reaches of the mine, but the sound of activity persists. After 10 minutes of navigating the mine, each character must succeed on a DC 19 Constitution saving throw or fall asleep for 1 hour, lulled into a magical slumber by the rhythmic racket of the miners. On a successful save, a creature is immune to this effect permanently. Elves and other creatures that can't be put to sleep by magic are also immune to the effect. Creatures that are put to sleep in this way can't be awakened early by any means short of a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell.
 
 Eight [brigganocks](3-Mechanics/CLI/bestiary/fey/brigganock-wbtw.md) (see appendix C) arrive 5 minutes later, each one pushing a tiny wheelbarrow that contains ropes and pitons. If they encounter party members who are still awake, the brigganocks look surprised, turn their wheelbarrows around, and retreat whence they came, passing [Molliver](3-Mechanics/CLI/bestiary/npc/molliver-wbtw.md) as they return to the mine's depths (see "[Molliver](3-Mechanics/CLI/bestiary/npc/molliver-wbtw.md)" below). Otherwise, if there's no one around to stop them, they use their Time Lapse action to rapidly pin sleeping party members to the floor using their hammers, pitons, and ropes.
 
@@ -494,7 +498,7 @@ After conferring with Trig, [Molliver](3-Mechanics/CLI/bestiary/npc/molliver-wbt
 
 The bridge is 5 feet wide, 100 feet long, and sturdy. Each 5-foot section of the wooden structure has AC 15, 30 hit points, and immunity to fire, poison, and psychic damage.
 
-The chasm is haunted by three [flameskulls](3-Mechanics/CLI/bestiary/undead/flameskull.md)—the remains of darklings who suffered from vertigo and fell to their doom before reaching the bridge's halfway point. The flameskulls hide under the bridge's midpoint. Characters who have passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) scores of 10 or higher aren't [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised) when the flameskulls emerge from hiding and take up positions 10 feet above the bridge.
+The chasm is haunted by three [flameskulls](3-Mechanics/CLI/bestiary/undead/flameskull-xmm.md)—the remains of darklings who suffered from vertigo and fell to their doom before reaching the bridge's halfway point. The flameskulls hide under the bridge's midpoint. Characters who have passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) scores of 10 or higher aren't [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised) when the flameskulls emerge from hiding and take up positions 10 feet above the bridge.
 
 The flameskulls speak Elvish and Sylvan. Their names are Weaugh, Teaugh, and Peaugh. The flameskulls are hostile toward all other creatures in the chasm and attack without provocation. They become indifferent toward any creature that walks or runs across the bridge and makes it past the midpoint (regardless of the direction it is traveling). Weaugh, Teaugh, and Peaugh congratulate the creature on making it this far.
 
@@ -511,7 +515,7 @@ When the characters reach the subterranean grotto on the far side of the bridge,
 > In the center of the grotto is a piebald pony wearing blinders. A small wooden hut is strapped to its back, and a faint clatter can be heard from inside the hut.
 ^2cc
 
-[Molliver](3-Mechanics/CLI/bestiary/npc/molliver-wbtw.md) and their brigganock companions explain to the characters that the hut is the home of Obud, the oldest [brigganock](3-Mechanics/CLI/bestiary/fey/brigganock-wbtw.md) (see appendix C) living in the mine at present. Securely fastened to a [pony](3-Mechanics/CLI/bestiary/beast/pony.md) named Keg is Obud's hut, where he appraises gemstones brought to him by other brigganocks. When Obud wants to dismount from the pony, he lowers a rope ladder attached to one of the pony's saddle straps.
+[Molliver](3-Mechanics/CLI/bestiary/npc/molliver-wbtw.md) and their brigganock companions explain to the characters that the hut is the home of Obud, the oldest [brigganock](3-Mechanics/CLI/bestiary/fey/brigganock-wbtw.md) (see appendix C) living in the mine at present. Securely fastened to a [pony](3-Mechanics/CLI/bestiary/beast/pony-xmm.md) named Keg is Obud's hut, where he appraises gemstones brought to him by other brigganocks. When Obud wants to dismount from the pony, he lowers a rope ladder attached to one of the pony's saddle straps.
 
 The pony doesn't startle easily and allows characters to approach it without a fuss, and it eagerly devours any apples and carrots that the characters have to offer. If someone knocks on the hut's tiny door, read:
 
@@ -526,11 +530,11 @@ Obud is old and tired, but neither too old nor too tired to show the characters 
 
 Brigganocks shape and cut good wish stones into sparkling gems. Obud has three such gems in his hut, neatly laid out on a tiny rug. Two of the gems are worth 100 gp, and the third is worth 500 gp. Obud has appraised the gemstones and is waiting for their rightful brigganock owners to return and collect them. Stealing these gems violates the rule of ownership (see "Rules of Conduct" in chapter 2). Characters who steal from Obud receive no further help from him.
 
-![Obud's pony likes apples and carrots](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/079-04-007-pony.webp#center)
+![Obud's pony likes apples and carrots](file://adventure/WBtW/079-04-007.pony.webp#center)
 
 #### Tunnel to Motherhorn
 
-A permanent illusion of a rock wall conceals an 8-foot-high, 3-foot-wide tunnel in the back wall of Obud's grotto. This secret tunnel leads to a storage room (area M12) beneath Motherhorn's stage. The illusory wall has no substance, which means that creatures and objects can pass right through it. A successful casting of [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md) (DC 19) causes the illusory wall to disappear.
+A permanent illusion of a rock wall conceals an 8-foot-high, 3-foot-wide tunnel in the back wall of Obud's grotto. This secret tunnel leads to a storage room (area M12) beneath Motherhorn's stage. The illusory wall has no substance, which means that creatures and objects can pass right through it. A successful casting of [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) (DC 19) causes the illusory wall to disappear.
 
 Obud informs the characters that Creeping Lyn is unaware of this tunnel's existence ("Let's keep it that way, aye?" he adds). The characters can return to the grotto through the tunnel whenever they want, provided they are on good terms with the brigganocks. If the characters use the tunnel without Obud's consent, brigganock miners spend the next 8 hours collapsing the tunnel on itself, preventing the characters from returning to the mine by that route.
 
@@ -612,7 +616,7 @@ Regardless of what the characters want from her, Endelyn typically requires them
 > 
 > If the characters helped the korreds and brigganocks settle their differences earlier in the chapter, they offer to help the characters in return. Twelve [brigganocks](3-Mechanics/CLI/bestiary/fey/brigganock-wbtw.md) hanging from the beards of three [korreds](3-Mechanics/CLI/bestiary/fey/korred-mpmm.md) arrive on the outskirts of Motherhorn at an agreed-upon time, ready to spring into action if the characters call for aid (see appendix C for their stat blocks).
 > 
-> If one or more characters cry out for assistance in Motherhorn, the brigganocks and korreds hear the call for help and react quickly. The korreds barrel out of the secret tunnel in area M12 or scale the theater's walls using ropes made of korred hair, and the brigganocks use their [darkness](3-Mechanics/CLI/spells/darkness.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md), [silence](3-Mechanics/CLI/spells/silence.md), and [sleep](3-Mechanics/CLI/spells/sleep.md) spells to confound and neutralize Endelyn's minions. The Fey try not to steal the show; their goal is to distract Endelyn's minions so the characters can wriggle out of a tight spot or confront the hag without her lackeys.
+> If one or more characters cry out for assistance in Motherhorn, the brigganocks and korreds hear the call for help and react quickly. The korreds barrel out of the secret tunnel in area M12 or scale the theater's walls using ropes made of korred hair, and the brigganocks use their [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md), [silence](3-Mechanics/CLI/spells/silence-xphb.md), and [sleep](3-Mechanics/CLI/spells/sleep-xphb.md) spells to confound and neutralize Endelyn's minions. The Fey try not to steal the show; their goal is to distract Endelyn's minions so the characters can wriggle out of a tight spot or confront the hag without her lackeys.
 ^fey-to-the-rescue
 
 If the characters decline to perform a play for her, Endelyn demands that they leave at once, ordering her [darklings](3-Mechanics/CLI/bestiary/fey/darkling-mpmm.md) to attack characters who refuse to do so. In the ensuing fracas, characters who are reduced to 0 hit points are knocked [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious), stripped of their gear, and locked in the prison (area M17) until Endelyn decides what to do with them. (Stagefright leads the way to the prison, since his fool's scepter is needed to open the prison's front door.) If Endelyn finds no other use for imprisoned characters, she turns them into masks using the arcane device in area M8.
@@ -631,7 +635,7 @@ If Endelyn has more things in her possession that the characters want, she is wi
 
 Endelyn is loath to leave Motherhorn, but if her survival depends on it, she moves to area M21 and uses her [ornithopter of flying](3-Mechanics/CLI/items/ornithopter-of-flying-wbtw.md) to retreat to the Palace of Heart's Desire. Her sisters, if present, flee to the palace as well (Bavlorna on her lily pad and Skabatha on her rocking horse).
 
-![A tiefling adventurer perf...](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/080-04-008-tiefling.webp#center "A tiefling adventurer performs a play, hoping to win an audience with Endelyn Moongrave")
+![A tiefling adventurer performs a play, hoping to win an audience with Endelyn Moongrave](file://adventure/WBtW/080-04-008.tiefling.webp#center)
 
 ### A Tragedy in the Making
 
@@ -645,7 +649,7 @@ While the play is going on, one or more characters might try to sneak off and ex
 
 #### Preparing for the Play
 
-Characters who choose to perform a play are met by Motherhorn's master of ceremonies, Stagefright, who is a [goblin boss](3-Mechanics/CLI/bestiary/humanoid/goblin-boss.md) (chaotic neutral). Describe this meeting as follows:
+Characters who choose to perform a play are met by Motherhorn's master of ceremonies, Stagefright, who is a [goblin boss](3-Mechanics/CLI/bestiary/fey/goblin-boss-xmm.md) (chaotic neutral). Describe this meeting as follows:
 
 > [!readaloud] 
 > 
@@ -655,6 +659,8 @@ Characters who choose to perform a play are met by Motherhorn's master of ceremo
 Have each player roll once on the Performers' Roles table to determine what role Stagefright assigns to that player's character. If two players get the same result, Stagefright lets them decide which one of them takes that role before suggesting another role for the other character (choose a table entry that hasn't already been assigned). Allow characters to invent new roles for themselves if they don't like the ones they're assigned. If a character wants to play a talking pumpkin or a bored treant, let it happen!
 
 **Performers' Roles**
+
+`dice: [](05-yon.md#^performers-roles)`
 
 | dice: d8 | Role |
 |----------|------|
@@ -704,8 +710,8 @@ If the characters netted more failures than successes, Endelyn is not entertaine
 The following locations are keyed to the map of Motherhorn.
 
 > [!gallery]
-> ![Motherhorn](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/081-map-4-2-motherhorn.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/082-map-4-2-motherhorn-player.webp#gallery)
+> ![Motherhorn](file://adventure/WBtW/081-map-4.2-motherhorn.webp#gallery)
+> ![Player Version](file://adventure/WBtW/082-map-4.2-motherhorn-player.webp#gallery)
 
 #### M1. Main Entrance
 
@@ -737,6 +743,8 @@ Plays and rehearsals take place here during the sixteen hours of every day when 
 
 **Motherhorn Tragedies**
 
+`dice: [](05-yon.md#^motherhorn-tragedies)`
+
 | dice: d8 | Summary |
 |----------|---------|
 | 1 | A Tragedy at Twilight. A bright light appears in the evening sky during a royal wedding. The light grows bigger and causes lively discussion between the revelers. It turns out to be a comet that crashes into the wedding, killing everyone. |
@@ -753,7 +761,7 @@ Plays and rehearsals take place here during the sixteen hours of every day when 
 
 ##### Actors
 
-Three actors are huddled together on stage, nervously rehearsing their lines from pages of a script. All three are [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner.md) (neutral) with proficiency in the [Performance](3-Mechanics/CLI/rules/skills.md#Performance) skill and [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 60 feet. In a pinch, they can fight with prop weapons that function as clubs. The actors are working off debts to Endelyn and aren't looking for trouble. They are as follows:
+Three actors are huddled together on stage, nervously rehearsing their lines from pages of a script. All three are [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) (neutral) with proficiency in the [Performance](3-Mechanics/CLI/rules/skills.md#Performance) skill and [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 60 feet. In a pinch, they can fight with prop weapons that function as clubs. The actors are working off debts to Endelyn and aren't looking for trouble. They are as follows:
 
 - Elanys, a female Silvanesti (high elf) from a world called Krynn  
 - Granam, a male goblin from the world of Eberron  
@@ -769,7 +777,7 @@ The stage is hewn from solid rock, with patches of moss or lichen growing here a
 
 Two wooden cranes that extend from the rear of the stage are used to hoist large props and backdrops from the workshop (area M11) to the stage. One unarmed goblin (neutral noncombatant) operates each crane. These crane operators, named Specklenose and Zolt, are also Feenia's parents (see the "Evil Kite" random encounter). After Feenia was caught stealing props, her parents were forced to surrender their shadows to Endelyn as punishment for being "bad parents." Ever since then, they have been shunned by their peers (see the "Shadowless" sidebar earlier in the chapter). The characters might have encountered the goblins' detached shadows in the "Goblin Shadows" random encounter; if those shadows were destroyed, Specklenose and Zolt have their normal shadows back and are no longer being shunned.
 
-The lighting rig built over the stage is an intricate wooden device operated by four unarmed goblins (neutral noncombatants) in theater masks. Mounted to the rig are a dozen shuttered cylinders, each one with a [continual flame](3-Mechanics/CLI/spells/continual-flame.md) spell cast inside it. The flames come in different colors, but they give off no heat. The goblins can swivel these cylinders to focus the lights on different parts of the stage, and they use the shutters on the cylinders to adjust the lights' brightness.
+The lighting rig built over the stage is an intricate wooden device operated by four unarmed goblins (neutral noncombatants) in theater masks. Mounted to the rig are a dozen shuttered cylinders, each one with a [continual flame](3-Mechanics/CLI/spells/continual-flame-xphb.md) spell cast inside it. The flames come in different colors, but they give off no heat. The goblins can swivel these cylinders to focus the lights on different parts of the stage, and they use the shutters on the cylinders to adjust the lights' brightness.
 
 The cranes and the lighting rig were constructed by brigganocks and are manipulated by iron ropes made of korred hair. Any character who knows the korreds' special jig (see "Korred Dance" earlier in the chapter) can command the hair to operate these contraptions; otherwise, a device can be manually operated by a character who makes a successful DC 15 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check.
 
@@ -827,7 +835,7 @@ Performers prepare themselves for the stage here; the tables are strewn with gau
 
 ##### Hurly the Bugbear
 
-The [bugbear](3-Mechanics/CLI/bestiary/humanoid/bugbear.md), named Hurly (chaotic good), slouches in his chair and gazes into a mirror. Reflected back at him is a sickly, haggard version of himself (see "Magic Mirrors" below). He is dressed to portray the green dragon in the tragedy titled A Village No More, but he has given up trying to remember his lines.
+The [bugbear](3-Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md), named Hurly (chaotic good), slouches in his chair and gazes into a mirror. Reflected back at him is a sickly, haggard version of himself (see "Magic Mirrors" below). He is dressed to portray the green dragon in the tragedy titled A Village No More, but he has given up trying to remember his lines.
 
 Hurly used to work at the Witchlight Carnival, but his short temper and blustery nature made him unpopular. One of Endelyn's spies lured him to Motherhorn, where the hag promised to make Hurly more likable before sending him back to the carnival—but only after he agreed to relinquish his shadow and work in Endelyn's theater for three years. Hurly recently learned from another actor that three years in the Feywild doesn't necessarily equate to three years where he came from, so he's no longer certain how long Endelyn expects him to remain at the theater. The hag assures Hurly that his talent is becoming more refined and respected with every performance—but the magic mirrors in this room tell him a different story. It's clear to Hurly that his dreadful performances are not endearing him to anyone, Endelyn most of all.
 
@@ -843,7 +851,7 @@ Each dressing table mirror is lit by magic orbs of light affixed to its frame an
 - If the onlooker is out of favor with Endelyn, the image is a sickly and haggard version of the creature.  
 - If Endelyn is plotting the onlooker's demise, the image is a skeleton wearing the onlooker's clothes.  
 
-Each of the three mirrors is a Small object with AC 13, 3 hit points, and immunity to poison and psychic damage. If a mirror is destroyed, poison gas billows up from its shards, filling the room. Each creature in the room must make a DC 11 Constitution saving throw, taking 22 (`4d10`) poison damage on a failed save, or half as much damage on a successful one. The gas doesn't spread beyond this room and dissipates quickly.
+Each of the three mirrors is a Small object with AC 13, 3 hit points, and immunity to poison and psychic damage. If a mirror is destroyed, poison gas billows up from its shards, filling the room. Each creature in the room must make a DC 11 Constitution saving throw, taking `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) poison damage on a failed save, or half as much damage on a successful one. The gas doesn't spread beyond this room and dissipates quickly.
 
 #### M6. Performers' Quarters
 
@@ -852,7 +860,7 @@ Each of the three mirrors is a Small object with AC 13, 3 hit points, and immuni
 > The walls of this gloomy chamber are lined with black-veiled compartments that contain makeshift beds. The furniture is sparse: a few wooden tables and chairs, a box of junk in one corner, and flickering lanterns resting here and there. Five performers occupy the room. Two of them pace nervously while the others weep.
 ^2fc
 
-The actors here perform their roles reluctantly and are eager to leave, but cannot do so yet; each either has an unfulfilled bargain with the hag or has displeased her somehow and is working to win back her favor. All five performers are unarmed [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner.md) (neutral), and the nonhuman ones have [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 60 feet. They are as follows:
+The actors here perform their roles reluctantly and are eager to leave, but cannot do so yet; each either has an unfulfilled bargain with the hag or has displeased her somehow and is working to win back her favor. All five performers are unarmed [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) (neutral), and the nonhuman ones have [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 60 feet. They are as follows:
 
 - Elemic the Excellent (a male human from the world of Toril) sobs in his bunk.  
 - Diamanda Mistriddle (a female forest gnome from a world whose name is unknown to her) buries her face in a cushion on the floor to hide her tears.  
@@ -872,7 +880,7 @@ The box in the corner contains the belongings of actors who have perished in Mot
 
 - A powder brush with a painted handle sculpted to resemble a bunch of roses (25 gp)  
 - A gold hand mirror that removes wrinkles, blemishes, and scars from the onlooker's reflection (250 gp)  
-- A fully charged [wand of web](3-Mechanics/CLI/items/wand-of-web.md)  
+- A fully charged [wand of web](3-Mechanics/CLI/items/wand-of-web-xdmg.md)  
 
 #### M7. Oracular Library
 
@@ -889,7 +897,7 @@ Characters who examine the bookshelves spot one book that looks out of place amo
 
 Endelyn stole this book and its companion (in area M17) from her sister Skabatha's private library (see area L14 in chapter 3). The hag has tucked a thin, wax-stoppered vial inside the spine of the book. A character who examines the book before opening it spots the vial with a successful DC 12 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check and can use an action to try to remove it, doing so with a successful DC 10 Dexterity check.
 
-On a check that fails by 5 or more or if a character opens the book without first removing the vial, the container shatters, releasing a cloud of mummy dust that fills a 10-foot-radius sphere centered on the book. The dust spreads around corners and settles quickly. Any creature in the dust cloud must succeed on a DC 12 Constitution saving throw or be cursed with mummy rot. A creature cursed in this way can't regain hit points, and its hit point maximum decreases by 10 (`3d6`) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by a [remove curse](3-Mechanics/CLI/spells/remove-curse.md) spell or similar magic.
+On a check that fails by 5 or more or if a character opens the book without first removing the vial, the container shatters, releasing a cloud of [mummy dust](3-Mechanics/CLI/items/dust-of-the-mummy-imr.md) that fills a 10-foot-radius sphere centered on the book. The dust spreads around corners and settles quickly. Any creature in the dust cloud must succeed on a DC 12 Constitution saving throw or be cursed with mummy rot. A creature cursed in this way can't regain hit points, and its hit point maximum decreases by `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by a [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md) spell or similar magic.
 
 ##### Endelyn's Black Books
 
@@ -960,11 +968,11 @@ Endelyn knows that her sister, Skabatha, is cursed to forget the first creature 
 > A tall, thin, cloaked figure stands in the shadows. A rictus grin forms beneath the cowl as the figure pulls a lever that juts from a wall. An instant later, golden lightning leaps between the spheres, catching the shackled goblin in its path. Before you can react, the goblin transforms into a wooden mask that falls to the floor. "Binky!" shrieks the caged goblin.
 ^30a
 
-Endelyn uses the lightning-powered arcane device in this room to punish those who irritate her. The device has 3 charges and regains all expended charges after 8 hours. Pulling the lever expends 1 charge and causes a line of golden lightning, 10 feet long and 5 feet wide, to flash between the two copper spheres. Any creature in this line must succeed on a DC 16 Wisdom saving throw or be magically transformed into an inanimate wooden mask, along with whatever it is wearing or carrying. The mask bears a striking resemblance to the creature's visage, and the transformation lasts until the mask is targeted by a successful [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md) spell (DC 19). Every mask created in this fashion is a Tiny wooden object with AC 15, 5 hit points, and immunity to poison and psychic damage. A mask that is reduced to 0 hit points is destroyed and can't be transformed back into the creature it once was.
+Endelyn uses the lightning-powered arcane device in this room to punish those who irritate her. The device has 3 charges and regains all expended charges after 8 hours. Pulling the lever expends 1 charge and causes a line of golden lightning, 10 feet long and 5 feet wide, to flash between the two copper spheres. Any creature in this line must succeed on a DC 16 Wisdom saving throw or be magically transformed into an inanimate wooden mask, along with whatever it is wearing or carrying. The mask bears a striking resemblance to the creature's visage, and the transformation lasts until the mask is targeted by a successful [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) spell (DC 19). Every mask created in this fashion is a Tiny wooden object with AC 15, 5 hit points, and immunity to poison and psychic damage. A mask that is reduced to 0 hit points is destroyed and can't be transformed back into the creature it once was.
 
 Each copper rod is a Medium object with AC 15, 18 hit points, and immunity to lightning, poison, and psychic damage. The lever is a Small object with AC 15, 10 hit points, and immunity to poison and psychic damage. Destroying the lever or either rod renders the device inoperable until it is repaired.
 
-The creature holding the lever is a [darkling elder](3-Mechanics/CLI/bestiary/fey/darkling-elder-mpmm.md) (see appendix C) who takes sadistic pleasure in turning other creatures into masks. A female [goblin](3-Mechanics/CLI/bestiary/humanoid/goblin.md) (neutral) named Vig is locked in one of the cages and is doomed to suffer the same fate as her friend, Binky, unless the characters intervene on her behalf. Both goblins worked the cranes in area M2 until they accidentally dropped a backdrop in the middle of a performance, ruining the show and angering Endelyn. If the characters attack the darkling elder, it fights back. At the same time, Vig shouts in Common, "Leave me to my fate! Bitter End can do worse than turn me into a mask!"
+The creature holding the lever is a [darkling elder](3-Mechanics/CLI/bestiary/fey/darkling-elder-mpmm.md) (see appendix C) who takes sadistic pleasure in turning other creatures into masks. A female [goblin](3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) (neutral) named Vig is locked in one of the cages and is doomed to suffer the same fate as her friend, Binky, unless the characters intervene on her behalf. Both goblins worked the cranes in area M2 until they accidentally dropped a backdrop in the middle of a performance, ruining the show and angering Endelyn. If the characters attack the darkling elder, it fights back. At the same time, Vig shouts in Common, "Leave me to my fate! Bitter End can do worse than turn me into a mask!"
 
 As an action, a character using thieves' tools can try to pick the lock on either cage or the shackles on the chair, doing so with a successful DC 12 Dexterity check. The darkling carries a ring of three keys, two of which open the padlocks on the cages; the third key unlocks the chair's shackles.
 
@@ -1004,7 +1012,7 @@ A creature whose Strength is reduced to 0 by a shadow's Strength Drain attack do
 
 ##### Moon Sphere
 
-This dangling, 3-foot-diameter sphere of white glass sheds bright light out to a range of 20 feet and dim light for an additional 20 feet. Casting [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md) on the sphere automatically causes its light to go out.
+This dangling, 3-foot-diameter sphere of white glass sheds bright light out to a range of 20 feet and dim light for an additional 20 feet. Casting [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) on the sphere automatically causes its light to go out.
 
 ##### Treasure
 
@@ -1019,7 +1027,7 @@ This workshop is accessible from area M2 by a staircase and from area M3 by an e
 > The cavernous underbelly of the stage is noisy and hot. Goblins work a forge, saw wood, and daub paint onto wooden backdrops. A woman in a tight-fitting dress barks orders at the workers while a goblin frantically makes adjustments to her costume using needles, pins, and thread. A tiny creature chained to a hooded lantern on a tabletop is using a stick of charcoal to sketch something on a piece of parchment at unbelievable speed. A wispy bulb of light flutters next to him.
 ^316
 
-![&quot;Charmay&quot;](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/083-04-009-charmay.webp#center)
+![&quot;Charmay&quot;](file://adventure/WBtW/083-04-009.charmay.webp#center)
 
 Stage props and backdrops are crafted here. Oversized items are moved through the double doors in the eastern wall, affixed to the cranes, and hoisted to the stage above. Smaller items are ferried up using the elevator to area M3, which is operated by using a lever on the adjacent wall.
 
@@ -1033,7 +1041,7 @@ Even though she is costumed, [Skylla](3-Mechanics/CLI/bestiary/npc/skylla-wbtw.m
 
 [Skylla](3-Mechanics/CLI/bestiary/npc/skylla-wbtw.md) becomes enraged whenever the goblins forget to address her as "Charmay," and she keeps a close eye on Golmo, locking him in the lantern when he's not working.
 
-If she meets intruders in the workshop, [Skylla](3-Mechanics/CLI/bestiary/npc/skylla-wbtw.md) utters a command word taught to her by Endelyn ("nocturli"), which bestows a semblance of life upon eight inanimate props scattered throughout the workshop. Each of these props uses the [animated armor](3-Mechanics/CLI/bestiary/construct/animated-armor.md) stat block (with Armor Class modifications as noted below) and tries to repel intruders while the goblins cower behind backdrops. The animated props are as follows:
+If she meets intruders in the workshop, [Skylla](3-Mechanics/CLI/bestiary/npc/skylla-wbtw.md) utters a command word taught to her by Endelyn ("nocturli"), which bestows a semblance of life upon eight inanimate props scattered throughout the workshop. Each of these props uses the [animated armor](3-Mechanics/CLI/bestiary/construct/animated-armor-xmm.md) stat block (with Armor Class modifications as noted below) and tries to repel intruders while the goblins cower behind backdrops. The animated props are as follows:
 
 - A 4-foot-long, crooked stove pipe (AC 19)  
 - A wrought-iron gate (AC 19)  
@@ -1056,7 +1064,7 @@ The following information must be pried from [Skylla](3-Mechanics/CLI/bestiary/n
 
 - Zybilna is an alias used by the archmage Iggwilv, who hails from a world called Oerth.  
 - Iggwilv is the adopted daughter of Baba Yaga, unlike the hags of the Hourglass Coven, who are true daughters of the Mother of Witches.  
-- The hags used [Iggwilv's Cauldron](3-Mechanics/CLI/items/iggwilvs-cauldron-wbtw.md), a powerful artifact crafted with help from Baba Yaga, to trap Iggwilv in time. The cauldron can be destroyed by a [flame tongue](3-Mechanics/CLI/items/flame-tongue.md) sword, just like the one wielded by [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md)'s evil bodyguard, [Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md).  
+- The hags used [Iggwilv's Cauldron](3-Mechanics/CLI/items/iggwilvs-cauldron-wbtw.md), a powerful artifact crafted with help from Baba Yaga, to trap Iggwilv in time. The cauldron can be destroyed by a [flame tongue](3-Mechanics/CLI/items/flame-tongue-xdmg.md) sword, just like the one wielded by [Kelek](3-Mechanics/CLI/bestiary/npc/kelek-wbtw.md)'s evil bodyguard, [Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md).  
 
 ##### Golmo the Architect
 
@@ -1144,15 +1152,15 @@ Creatures on the balcony have three-quarters cover against attacks made by creat
 
 The Orrery of Tragedies is 20 feet tall and 60 feet in diameter. It uses magic and mathematics to produce its prognostications, and it can sift through possible futures to identify the most likely ones. As the contraption turns, it emits smoke in the form of letters that spell out predictions, which Endelyn transcribes in a black book like the ones shelved in the oracular library (area M7). The orrery magically predicts the future of creatures whose paths are destined to become entwined with the Hourglass Coven and who are doomed to meet a tragic end. It serves no other purpose.
 
-The device is powered by electricity transmitted through its central element: an 80-foot-tall lightning rod that forms its vertical axis. A creature that touches any part of the lightning rod, enters the contraption's space for the first time on a turn, or starts its turn in the contraption's space must make a DC 15 Dexterity saving throw, taking 44 (`8d10`) lightning damage on a failed save, or half as much damage on a successful one. A creature in metal armor makes the saving throw with disadvantage.
+The device is powered by electricity transmitted through its central element: an 80-foot-tall lightning rod that forms its vertical axis. A creature that touches any part of the lightning rod, enters the contraption's space for the first time on a turn, or starts its turn in the contraption's space must make a DC 15 Dexterity saving throw, taking `dice:8d10|noform|noparens|avg|text(44)` (`8d10`) lightning damage on a failed save, or half as much damage on a successful one. A creature in metal armor makes the saving throw with disadvantage.
 
 The Orrery of Tragedies isn't one object, but dozens of smaller objects joined together. To destroy the whole thing, at least eight of its components (not including the lightning rod) must be reduced to 0 hit points. Each component is a Large object with AC 19, 27 hit points, and immunity to lightning, poison, and psychic damage.
 
 The central lightning rod is eight 10-foot-long lightning rods attached end to end. Each smaller rod weighs 100 pounds and has AC 17, 25 hit points, and immunity to lightning, poison, and psychic damage. Reducing one of these rods to 0 hit points destroys it and causes the rods above it to fall, making the lowest rod the most obvious target. If three or more of these rods fall or are destroyed, the assembly is no longer tall enough to conduct lightning; the contraption shuts down after 1 minute and remains powerless until the lightning rod assembly is rebuilt.
 
-Contact with an antimagic field shuts down the contraption for the field's duration. A successful [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md) spell (DC 19) causes the contraption to shut down for 1 minute, though it remains charged with lightning during this time.
+Contact with an antimagic field shuts down the contraption for the field's duration. A successful [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) spell (DC 19) causes the contraption to shut down for 1 minute, though it remains charged with lightning during this time.
 
-![Endelyn's Orrery of Tragedies](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/084-04-010-endelyns-orrery-of-tragedies.webp#center)
+![Endelyn's Orrery of Tragedies](file://adventure/WBtW/084-04-010.endelyns-orrery-of-tragedies.webp#center)
 
 ##### Goblins
 
@@ -1222,7 +1230,7 @@ Inventive characters can use the halberds from the suits of armor (or weapons of
 
 ##### Inside the Prison
 
-Four cells sealed by stone doors branch off from the walls of this empty chamber. Stone levers jutting from the walls next to the doorways are used to raise and lower the cell doors, which can't be opened from the inside except by the use of a [knock](3-Mechanics/CLI/spells/knock.md) spell or similar magic. Each one has a small window through which its contents can be seen.
+Four cells sealed by stone doors branch off from the walls of this empty chamber. Stone levers jutting from the walls next to the doorways are used to raise and lower the cell doors, which can't be opened from the inside except by the use of a [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell or similar magic. Each one has a small window through which its contents can be seen.
 
 Unless the characters have been detained here, three of the cells are open and unoccupied. The fourth cell is closed and holds Gleam's twin, Glister (use the [Selenelion twin](3-Mechanics/CLI/bestiary/npc/selenelion-twin-wbtw.md) stat block in appendix C). Describe the cell and its occupant as follows:
 
@@ -1275,7 +1283,7 @@ Glister's cell contains the following items of value:
 
 This chamber is unoccupied until [Endelyn Moongrave](3-Mechanics/CLI/bestiary/npc/endelyn-moongrave-wbtw.md) (see appendix B) has need of it. The hag uses the room for private meetings with visitors, particularly those who want to know their futures or who want to strike bargains with her. Endelyn stands in the otherwise empty alcove when performing her auguries (described below).
 
-A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell cast on the alcove reveals an aura of conjuration magic emanating from it. While standing in the alcove, Endelyn can use a bonus action to speak a command word ("imprek") and teleport to her wardrobe in area M22, along with anything she is wearing or carrying, provided the wardrobe's main compartment is empty and the wardrobe hasn't been destroyed.
+A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell cast on the alcove reveals an aura of conjuration magic emanating from it. While standing in the alcove, Endelyn can use a bonus action to speak a command word ("imprek") and teleport to her wardrobe in area M22, along with anything she is wearing or carrying, provided the wardrobe's main compartment is empty and the wardrobe hasn't been destroyed.
 
 ##### Endelyn's Auguries
 
@@ -1292,9 +1300,11 @@ If the characters ask her to conduct auguries for them, read:
 > The hag unveils a puppet theater that was hidden in her clothing. It includes stringed marionettes that resemble you and your companions. With each tug of the strings, the puppets bob around the stage, speaking in the hag's scratchy voice.
 ^33c
 
-Drawing on information fed to her by the Orrery of Tragedies, Endelyn performs a macabre puppet show that reveals how each character is fated to depart the multiverse. Have each player roll a `d8` and consult the Unhappy Endings table to find out how Endelyn predicts that player's character might die. (You can devise other unhappy endings, if desired.)
+Drawing on information fed to her by the Orrery of Tragedies, Endelyn performs a macabre puppet show that reveals how each character is fated to depart the multiverse. Have each player roll a `dice:d8|noform|noparens|avg` (`d8`) and consult the Unhappy Endings table to find out how Endelyn predicts that player's character might die. (You can devise other unhappy endings, if desired.)
 
 **Unhappy Endings**
+
+`dice: [](05-yon.md#^unhappy-endings)`
 
 | dice: d8 | Cause of Death |
 |----------|----------------|
@@ -1332,7 +1342,7 @@ Endelyn records these prophecies in a spineless book 8 inches tall and 3 inches 
 
 Endelyn writes her correspondence on sheets of enchanted parchment, which she then folds into the shape of paper birds that fly to their intended recipients. If a message's recipient is on another plane of existence or is otherwise unreachable, the paper bird bursts into flames on takeoff and is instantly destroyed.
 
-The [paper birds](3-Mechanics/CLI/bestiary/construct/paper-bird-wbtw.md) are hostile toward all creatures except the hags of the Hourglass Coven. They use the [hawk](3-Mechanics/CLI/bestiary/beast/hawk.md) stat block, with these changes:
+The [paper birds](3-Mechanics/CLI/bestiary/construct/paper-bird-wbtw.md) are hostile toward all creatures except the hags of the Hourglass Coven. They use the [hawk](3-Mechanics/CLI/bestiary/beast/hawk-xmm.md) stat block, with these changes:
 
 - The paper birds are Constructs.  
 - They have vulnerability to fire damage, immunity to poison and psychic damage, immunity to [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion), and immunity to the [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), and [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) conditions.  
@@ -1377,9 +1387,9 @@ The birds in the cage have the following messages written on them in the Elvish 
 
 ##### Bottled Lightning
 
-The hag drinks a bottle of lightning before sitting at her desk to write, granting her flashes of inspiration. The shelves hold thirty bottles of lightning. Any creature other than Endelyn that tries to drink the lightning in a bottle takes 7 (`2d6`) lightning damage, emptying the bottle in the process.
+The hag drinks a bottle of lightning before sitting at her desk to write, granting her flashes of inspiration. The shelves hold thirty bottles of lightning. Any creature other than Endelyn that tries to drink the lightning in a bottle takes `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) lightning damage, emptying the bottle in the process.
 
-As an action, a creature can hurl a bottle of lightning up to 30 feet, where it shatters on impact. A creature that hurls a bottle at a specific target in range must make a ranged attack against that target. On a hit, the target takes 7 (`2d6`) lightning damage.
+As an action, a creature can hurl a bottle of lightning up to 30 feet, where it shatters on impact. A creature that hurls a bottle at a specific target in range must make a ranged attack against that target. On a hit, the target takes `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) lightning damage.
 
 ##### Desk
 
@@ -1400,9 +1410,9 @@ The belfry contains a 50-pound silver bell attached to a 25-foot-long rope that 
 > *To journey to your heart's desire.*
 ^348
 
-Ringing the bell summons a flock of giant cranes (use the [pteranodon](3-Mechanics/CLI/bestiary/beast/pteranodon.md) stat block), one for each character or NPC in the party, from the direction of the Palace of Heart's Desire. These birds appear on the horizon immediately and take 20 minutes to reach the tower, where they alight on the balcony. Each bird waits patiently for a rider to climb on its back. The giant cranes deliver the characters safely to the Palace of Heart's Desire, refusing to alter their course, and fly away afterward. The birds' plumage is soft and comforting, and each passenger gains the benefit of a long rest at the end of the journey.
+Ringing the bell summons a flock of giant cranes (use the [pteranodon](3-Mechanics/CLI/bestiary/beast/pteranodon-xmm.md) stat block), one for each character or NPC in the party, from the direction of the Palace of Heart's Desire. These birds appear on the horizon immediately and take 20 minutes to reach the tower, where they alight on the balcony. Each bird waits patiently for a rider to climb on its back. The giant cranes deliver the characters safely to the Palace of Heart's Desire, refusing to alter their course, and fly away afterward. The birds' plumage is soft and comforting, and each passenger gains the benefit of a long rest at the end of the journey.
 
-Check the Story Tracker; characters who skillfully rode giant dragonflies in the Witchlight Carnival handle their cranes with such flair that they each receive a feather at the end of the journey. (The giant crane plucks the feather from itself using its beak and places it on the ground within the character's reach.) A feather allows the rewarded character (and no one else) to cast the [feather fall](3-Mechanics/CLI/spells/feather-fall.md) spell with no components required. Once its spell is cast, the feather becomes nonmagical.
+Check the Story Tracker; characters who skillfully rode giant dragonflies in the Witchlight Carnival handle their cranes with such flair that they each receive a feather at the end of the journey. (The giant crane plucks the feather from itself using its beak and places it on the ground within the character's reach.) A feather allows the rewarded character (and no one else) to cast the [feather fall](3-Mechanics/CLI/spells/feather-fall-xphb.md) spell with no components required. Once its spell is cast, the feather becomes nonmagical.
 
 ##### Development
 
@@ -1417,11 +1427,11 @@ If the characters make use of the giant cranes, skip ahead to the "Leaving Yon" 
 
 If Endelyn's sisters were forced to flee to Motherhorn, here is where they park their flying mounts (Bavlorna's lily pad and Skabatha's rocking horse). Endelyn keeps her [ornithopter of flying](3-Mechanics/CLI/items/ornithopter-of-flying-wbtw.md) (see appendix A) on the same balcony where she watches performances, so she can fly down to the stage whenever she wants to steal the limelight.
 
-![Endelyn's Ornithopter of Flying](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/085-04-011-ornithopter.webp#center)
+![Endelyn's Ornithopter of Flying](file://adventure/WBtW/085-04-011.ornithopter.webp#center)
 
 #### M22. Endelyn's Room
 
-A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals an aura of abjuration magic on the door to this room. If a creature other than Endelyn touches the door, a hand of force similar to that created by the [Bigby's hand](3-Mechanics/CLI/spells/bigbys-hand.md) spell tries to shove the creature away from the door. The creature must succeed on a DC 15 Strength saving throw or be pushed off the balcony, falling onto the Orrery of Tragedies and then tumbling 20 feet to the floor in area M14. The treacherous fall deals 14 (`4d6`) bludgeoning damage, and if the orrery is operational, the creature takes lightning damage as well (see area M14 for details).
+A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of abjuration magic on the door to this room. If a creature other than Endelyn touches the door, a hand of force similar to that created by the [Bigby's hand](3-Mechanics/CLI/spells/bigbys-hand-xphb.md) spell tries to shove the creature away from the door. The creature must succeed on a DC 15 Strength saving throw or be pushed off the balcony, falling onto the Orrery of Tragedies and then tumbling 20 feet to the floor in area M14. The treacherous fall deals `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) bludgeoning damage, and if the orrery is operational, the creature takes lightning damage as well (see area M14 for details).
 
 The magic trap on the door can be dispelled (DC 15). A character who examines the door and succeeds on a DC 15 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check spots a faint glyph etched into the doorknob. If this glyph is defaced using the point of a dagger or some other tool, the magic is negated, and the door can be opened safely.
 
@@ -1442,7 +1452,7 @@ When the characters can see into the room, read the following boxed text aloud, 
 
 To move quietly about the room, a character must succeed on a DC 12 Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) check. On a failed check, the marionettes hanging from the ceiling scream "Intruders!" over and over until Endelyn commands them to stop or until they are all destroyed. Each marionette has AC 15, 1 hit point, and immunity to poison and psychic damage. Any character who has interacted with korreds can tell that the marionettes are strung with iron wires made from korred hair, and any character who knows the korreds' special jig (see "Korred Dance" earlier in the chapter) can command the hair to wind itself around the marionettes' jaws, preventing them from screaming.
 
-![Endelyn's Room](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/086-04-012-endelyns-room.webp#center)
+![Endelyn's Room](file://adventure/WBtW/086-04-012.endelyns-room.webp#center)
 
 ##### Glass-Doored Wardrobe
 
@@ -1462,7 +1472,7 @@ This chest has a sturdy, built-in lock. Endelyn lost the key, but one of her gob
 
 - A black sack containing four gold bedpost knobs (25 gp each)  
 - Eight bottles of exquisite elven wine (100 gp each)  
-- The shriveled hand of an elf wearing a [ring of shooting stars](3-Mechanics/CLI/items/ring-of-shooting-stars.md) on its third finger and clutching several rolled-up sheets of blank parchment, along with a title page that reads, "The Agonies of [Alagarthas](3-Mechanics/CLI/bestiary/npc/alagarthas-wbtw.md): A Three-Act Tragedy by [Endelyn Moongrave](3-Mechanics/CLI/bestiary/npc/endelyn-moongrave-wbtw.md)" in spidery Elvish script. (Endelyn hasn't written the script yet, but she has a title.)  
+- The shriveled hand of an elf wearing a [ring of shooting stars](3-Mechanics/CLI/items/ring-of-shooting-stars-xdmg.md) on its third finger and clutching several rolled-up sheets of blank parchment, along with a title page that reads, "The Agonies of [Alagarthas](3-Mechanics/CLI/bestiary/npc/alagarthas-wbtw.md): A Three-Act Tragedy by [Endelyn Moongrave](3-Mechanics/CLI/bestiary/npc/endelyn-moongrave-wbtw.md)" in spidery Elvish script. (Endelyn hasn't written the script yet, but she has a title.)  
 
 ##### Wicker Basket and Toys
 

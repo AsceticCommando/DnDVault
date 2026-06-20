@@ -10,11 +10,11 @@ aliases:
 # Thieves' Gallery
 *Source: Thieves' Gallery* 
 
-![](3-Mechanics/CLI/books/thieves-gallery/img/001-00-008-movie-logo.webp#center)
+![](file://book/TG/001-00-008.movie-logo.webp#center)
 
 A handful of characters from the film *Dungeons & Dragons: Honor Among Thieves* are presented here as NPCs you can include in your D&D campaigns. The stat blocks in this collection use a presentation similar to that which is found in the "Monster Manual". If you are unfamiliar with the stat block format, read the introduction of the Monster Manual before proceeding further. That book explains stat block terminology and gives rules for various monster traits—information that isn't repeated here.
 
-![A collection of heroes and...](3-Mechanics/CLI/books/thieves-gallery/img/002-00-009-characters-splash.webp#center "A collection of heroes and villains for the world's greatest roleplaying game")
+![A collection of heroes and villains for the world's greatest roleplaying game](file://book/TG/002-00-009.characters-splash.webp#center)
 
 ## Unusual Attacks and Magic
 

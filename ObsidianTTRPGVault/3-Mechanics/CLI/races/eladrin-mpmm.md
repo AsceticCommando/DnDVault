@@ -10,7 +10,7 @@ aliases:
 ---
 # Eladrin
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 13*  
-![](3-Mechanics/CLI/races/img/eladrin.webp#right)
+![](file://races/MPMM/Eladrin.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Type**: humanoid
@@ -61,6 +61,8 @@ Eladrin are elves of the Feywild, a realm of perilous beauty and boundless magic
 Like other elves, eladrin can live to be over 750 years old.
 
 **Eladrin Seasons**
+
+`dice: [](eladrin-mpmm.md#^eladrin-seasons)`
 
 | dice: d4 | Season |
 |----------|--------|

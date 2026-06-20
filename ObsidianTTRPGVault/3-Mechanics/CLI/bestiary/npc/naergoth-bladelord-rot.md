@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Naergoth Bladelord"
 ---
-# [Naergoth Bladelord](3-Mechanics\CLI\bestiary\npc/naergoth-bladelord-rot.md)
+# [Naergoth Bladelord](3-Mechanics/CLI/bestiary/npc/naergoth-bladelord-rot.md)
 *Source: The Rise of Tiamat p. 90, Tyranny of Dragons p. 186*  
 
 ```statblock
@@ -21,7 +21,7 @@ aliases:
 "type": "undead"
 "alignment": "Neutral Evil"
 "ac": !!int "18"
-"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor.md)"
+"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "135"
 "hit_dice": "18d8 + 54"
 "modifier": !!int "1"
@@ -47,8 +47,8 @@ aliases:
 "condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
   \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
 "gear":
-  - "[longbow](3-Mechanics/CLI/items/longbow.md)"
-  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
+  - "[longbow](3-Mechanics/CLI/items/longbow-xphb.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 16"
 "languages": "Common, Draconic"
@@ -78,6 +78,6 @@ aliases:
 "source":
   - "RoT"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/npc/token/naergoth-bladelord-rot.webp"
+"image": "file://bestiary/tokens/RoT/Naergoth%20Bladelord.webp"
 ```
 ^statblock

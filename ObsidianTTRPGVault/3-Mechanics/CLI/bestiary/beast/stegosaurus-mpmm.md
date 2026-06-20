@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Stegosaurus"
 ---
-# [Stegosaurus](3-Mechanics\CLI\bestiary\beast/stegosaurus-mpmm.md)
+# [Stegosaurus](3-Mechanics/CLI/bestiary/beast/stegosaurus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*  
 
 This heavily built dinosaur has rows of plates on its back and a flexible, spiked tail held high to strike predators. It tends to travel in herds of mixed ages.
@@ -48,7 +48,7 @@ This heavily built dinosaur has rows of plates on its back and a flexible, spike
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/beast/token/stegosaurus-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Stegosaurus.webp"
 ```
 ^statblock
 

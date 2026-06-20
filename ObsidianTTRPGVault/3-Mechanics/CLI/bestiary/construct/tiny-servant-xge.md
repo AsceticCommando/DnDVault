@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Tiny Servant"
 ---
-# [Tiny Servant](3-Mechanics\CLI\bestiary\construct/tiny-servant-xge.md)
+# [Tiny Servant](3-Mechanics/CLI/bestiary/construct/tiny-servant-xge.md)
 *Source: Xanathar's Guide to Everything p. 169*  
 
 ```statblock
@@ -47,6 +47,6 @@ aliases:
     "name": "Slam"
 "source":
   - "XGE"
-"image": "3-Mechanics/CLI/bestiary/construct/token/tiny-servant-xge.webp"
+"image": "file://bestiary/tokens/XGE/Tiny%20Servant.webp"
 ```
 ^statblock

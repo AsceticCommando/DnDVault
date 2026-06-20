@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Duke Thalamra Vanthampur"
 ---
-# [Duke Thalamra Vanthampur](3-Mechanics\CLI\bestiary\npc/duke-thalamra-vanthampur-bgdia.md)
+# [Duke Thalamra Vanthampur](3-Mechanics/CLI/bestiary/npc/duke-thalamra-vanthampur-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 38*  
 
 Acid-tongued, shrewd, and aggressive, Duke Thalamra Vanthampur is the matriarch of the Vanthampur family. Born with nothing, she spent years wallowing in obscurity, repairing and renovating the city's ancient sewer system. One promotion after another followed until she was named Master of Drains and Underways. By then, she had been married three times and given birth to three sons. Her lifelong goal has been to lift herself and her family out of the sewers and into high society.
@@ -76,6 +76,6 @@ Thalamra Vanthampur is a cunning, devil-worshiping beast of a woman in her late 
     "name": "Hellish Rebuke (1st-Level Spell; 2/Day)"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/duke-thalamra-vanthampur-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Duke%20Thalamra%20Vanthampur.webp"
 ```
 ^statblock

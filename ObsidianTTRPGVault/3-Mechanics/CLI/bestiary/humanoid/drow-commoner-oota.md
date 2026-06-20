@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Drow Commoner"
 ---
-# [Drow Commoner](3-Mechanics\CLI\bestiary\humanoid/drow-commoner-oota.md)
+# [Drow Commoner](3-Mechanics/CLI/bestiary/humanoid/drow-commoner-oota.md)
 *Source: Out of the Abyss p. 194*  
 
 ```statblock
@@ -34,15 +34,16 @@ aliases:
   - !!int "10"
 "speed": "30 ft."
 "gear":
-  - "[club](3-Mechanics/CLI/items/club.md)"
+  - "[club](3-Mechanics/CLI/items/club-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
   \ Perception 10"
 "languages": "any one language (usually Common), Elvish, Undercommon"
 "cr": "0"
 "traits":
-  - "desc": "The drow commoner\n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md)\n\
-      \n**1/day each:** [darkness](3-Mechanics/CLI/spells/darkness.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md),\
-      \ [levitate](3-Mechanics/CLI/spells/levitate.md) (self only)"
+  - "desc": "The drow commoner\n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md)\n\
+      \n**1/day each:** [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [faerie\
+      \ fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md), [levitate](3-Mechanics/CLI/spells/levitate-xphb.md)\
+      \ (self only)"
     "name": "Innate Spellcasting"
   - "desc": "The drow commoner"
     "name": "Fey Ancestry"
@@ -54,6 +55,6 @@ aliases:
     "name": "Club"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/drow-commoner-oota.webp"
+"image": "file://bestiary/tokens/OotA/Drow%20Commoner.webp"
 ```
 ^statblock

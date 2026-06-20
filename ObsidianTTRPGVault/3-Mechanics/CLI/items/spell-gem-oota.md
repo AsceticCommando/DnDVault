@@ -27,4 +27,4 @@ aliases:
 - [Spell Gem (Star ruby)](3-Mechanics/CLI/items/spell-gem-star-ruby-oota.md)
 - [Spell Gem (Topaz)](3-Mechanics/CLI/items/spell-gem-topaz-oota.md)
 
-*Source: Out of the Abyss p. 223*
+*Source: Out of the Abyss p. 223, Infernal Machine Rebuild p. 95*

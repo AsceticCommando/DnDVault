@@ -12,6 +12,8 @@ aliases:
 
 **Acolyte**
 
+`dice: [](background-i-became.md#^acolyte)`
+
 | dice: d6 | I became an acolyte because... |
 |----------|--------------------------------|
 | 1 | I ran away from home at an early age and found refuge in a temple. |
@@ -23,6 +25,8 @@ aliases:
 ^acolyte
 
 **Charlatan**
+
+`dice: [](background-i-became.md#^charlatan)`
 
 | dice: d6 | I became a charlatan because... |
 |----------|---------------------------------|
@@ -36,6 +40,8 @@ aliases:
 
 **Criminal**
 
+`dice: [](background-i-became.md#^criminal)`
+
 | dice: d6 | I became a criminal because... |
 |----------|--------------------------------|
 | 1 | I resented authority in my younger days and saw a life of crime as the best way to fight against tyranny and oppression. |
@@ -47,6 +53,8 @@ aliases:
 ^criminal
 
 **Entertainer**
+
+`dice: [](background-i-became.md#^entertainer)`
 
 | dice: d6 | I became an entertainer because... |
 |----------|------------------------------------|
@@ -60,6 +68,8 @@ aliases:
 
 **Folk Hero**
 
+`dice: [](background-i-became.md#^folk-hero)`
+
 | dice: d6 | I became a folk hero because... |
 |----------|---------------------------------|
 | 1 | I learned what was right and wrong from my family. |
@@ -71,6 +81,8 @@ aliases:
 ^folk-hero
 
 **Guild Artisan**
+
+`dice: [](background-i-became.md#^guild-artisan)`
 
 | dice: d6 | I became a guild artisan because... |
 |----------|-------------------------------------|
@@ -84,6 +96,8 @@ aliases:
 
 **Hermit**
 
+`dice: [](background-i-became.md#^hermit)`
+
 | dice: d6 | I became a hermit because... |
 |----------|------------------------------|
 | 1 | My enemies ruined my reputation, and I fled to the wilds to avoid further disparagement. |
@@ -95,6 +109,8 @@ aliases:
 ^hermit
 
 **Noble**
+
+`dice: [](background-i-became.md#^noble)`
 
 | dice: d6 | I became a noble because... |
 |----------|-----------------------------|
@@ -108,6 +124,8 @@ aliases:
 
 **Outlander**
 
+`dice: [](background-i-became.md#^outlander)`
+
 | dice: d6 | I became an outlander because... |
 |----------|----------------------------------|
 | 1 | I spent a lot of time in the wilderness as a youngster, and I came to love that way of life. |
@@ -119,6 +137,8 @@ aliases:
 ^outlander
 
 **Sage**
+
+`dice: [](background-i-became.md#^sage)`
 
 | dice: d6 | I became a sage because... |
 |----------|----------------------------|
@@ -132,6 +152,8 @@ aliases:
 
 **Sailor**
 
+`dice: [](background-i-became.md#^sailor)`
+
 | dice: d6 | I became a sailor because... |
 |----------|------------------------------|
 | 1 | I was press-ganged by pirates and forced to serve on their ship until I finally escaped. |
@@ -144,6 +166,8 @@ aliases:
 
 **Soldier**
 
+`dice: [](background-i-became.md#^soldier)`
+
 | dice: d6 | I became a soldier because... |
 |----------|-------------------------------|
 | 1 | I joined the militia to help protect my community from monsters. |
@@ -155,6 +179,8 @@ aliases:
 ^soldier
 
 **Urchin**
+
+`dice: [](background-i-became.md#^urchin)`
 
 | dice: d6 | I became an urchin because... |
 |----------|-------------------------------|

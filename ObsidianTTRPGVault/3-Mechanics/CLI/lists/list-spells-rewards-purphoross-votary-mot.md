@@ -11,4 +11,4 @@ aliases:
 
 ## 2nd Level
 
-- [Heat Metal](3-Mechanics/CLI/spells/heat-metal.md "PHB")
+- [Heat Metal](3-Mechanics/CLI/spells/heat-metal-xphb.md "XPHB")

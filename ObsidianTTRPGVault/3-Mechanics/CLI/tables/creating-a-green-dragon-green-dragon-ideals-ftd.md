@@ -12,6 +12,8 @@ aliases:
 
 **Green Dragon Ideals**
 
+`dice: [](creating-a-green-dragon-green-dragon-ideals-ftd.md#^green-dragon-ideals)`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Isolation. Territories can be properly established only when all parties respect the borders of their neighbors. (Lawful) |

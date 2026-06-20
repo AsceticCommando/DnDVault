@@ -12,6 +12,8 @@ aliases:
 
 **Extinction or Depletion**
 
+`dice: [](extinction-or-depletion.md#^extinction-or-depletion)`
+
 | dice: d8 | Lost Resource |
 |----------|---------------|
 | 1 | A kind of animal (insect, bird, fish, livestock) |

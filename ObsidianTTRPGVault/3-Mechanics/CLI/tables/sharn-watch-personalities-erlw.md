@@ -12,6 +12,8 @@ aliases:
 
 **Sharn Watch Personalities**
 
+`dice: [](sharn-watch-personalities-erlw.md#^sharn-watch-personalities)`
+
 | dice: d10 | Personality |
 |-----------|-------------|
 | 1 | Disgruntled veteran of the Last War who has seen everything |

@@ -12,6 +12,8 @@ aliases:
 
 **Omens of Thassa**
 
+`dice: [](omens-of-thassa-mot.md#^omens-of-thassa)`
+
 | dice: d8 | dice: d100 | Omen of Thassa |
 |----------|------------|----------------|
 | 1 | 93 | A lustrous seashell or small fish appears in someone's drink. |

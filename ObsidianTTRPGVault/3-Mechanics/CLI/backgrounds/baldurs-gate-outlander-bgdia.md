@@ -15,7 +15,7 @@ aliases:
 - **Skill Proficiencies.** [Athletics](3-Mechanics/CLI/rules/skills.md#Athletics), [Survival](3-Mechanics/CLI/rules/skills.md#Survival)  
 - **Tool Proficiencies.** One type of musical instrument  
 - **Languages.** One of your choice  
-- **Equipment.** A [staff](3-Mechanics/CLI/items/staff.md), a [hunting trap](3-Mechanics/CLI/items/hunting-trap.md), a trophy from an animal you killed, a set of [traveler's clothes](3-Mechanics/CLI/items/travelers-clothes.md), and a belt [pouch](3-Mechanics/CLI/items/pouch.md) containing 10 gp  
+- **Equipment.** A [staff](3-Mechanics/CLI/items/staff-xphb.md), a [hunting trap](3-Mechanics/CLI/items/hunting-trap-xphb.md), a trophy from an animal you killed, a set of [traveler's clothes](3-Mechanics/CLI/items/travelers-clothes-xphb.md), and a belt [pouch](3-Mechanics/CLI/items/pouch-xphb.md) containing 10 gp  
 
 Coming to Baldur's Gate might seem like a good idea for a spectrum of reasons. Profit, excitement, and cosmopolitan opportunities all present tempting prospects, but rarely does one start on the path to Baldur's Gate fully understanding the complex social morass that awaits. You enter the city an outsider, and it's likely that—no matter how long you spend in the city—you'll leave an outsider, if you leave at all.
 
@@ -36,6 +36,8 @@ Foreigners of all kinds come to Baldur's Gate daily, drawn by countless reasons 
 
 **Outlander Origins**
 
+`dice: [](baldurs-gate-outlander-bgdia.md#^outlander-origins)`
+
 | dice: d6 | Origin |
 |----------|--------|
 | 1 | Someone stole something precious from your people. You tracked the thief to the city gates, but finding clues in an urban environment is very different from tracking someone across the wilderness. You don't know where to go from here, but your people need you to succeed. |
@@ -49,6 +51,8 @@ Foreigners of all kinds come to Baldur's Gate daily, drawn by countless reasons 
 ## Specialty
 
 You've been to strange places and seen things that others cannot begin to fathom. Consider some of the distant lands you have visited, and how they impacted you. You can roll on the following table to determine your occupation during your time in the wild, or choose one that best fits your character.
+
+`dice: [](baldurs-gate-outlander-bgdia.md#^origin)`
 
 | dice: d10 | Origin |
 |-----------|--------|
@@ -68,6 +72,8 @@ You've been to strange places and seen things that others cannot begin to fathom
 
 Often considered rude and uncouth among civilized folk, outlanders have little respect for the niceties of life in the cities. The ties of tribe, clan, family, and the natural world of which they are a part are the most important bonds to most outlanders.
 
+`dice: [](baldurs-gate-outlander-bgdia.md#^personality-trait)`
+
 | dice: d8 | Personality Trait |
 |----------|-------------------|
 | 1 | I'm driven by a wanderlust that led me away from home. |
@@ -80,6 +86,8 @@ Often considered rude and uncouth among civilized folk, outlanders have little r
 | 8 | I was, in fact, raised by wolves. |
 ^personality-trait
 
+`dice: [](baldurs-gate-outlander-bgdia.md#^ideal)`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Change. Life is like the seasons, in constant change, and we must change with it. (Chaotic) |
@@ -90,6 +98,8 @@ Often considered rude and uncouth among civilized folk, outlanders have little r
 | 6 | Glory. I must earn glory in battle, for myself and my clan. (Any) |
 ^ideal
 
+`dice: [](baldurs-gate-outlander-bgdia.md#^bond)`
+
 | dice: d6 | Bond |
 |----------|------|
 | 1 | My family, clan, or tribe is the most important thing in my life, even when they are far from me. |
@@ -99,6 +109,8 @@ Often considered rude and uncouth among civilized folk, outlanders have little r
 | 5 | I suffer awful visions of a coming disaster and will do anything to prevent it. |
 | 6 | It is my duty to provide children to sustain my tribe. |
 ^bond
+
+`dice: [](baldurs-gate-outlander-bgdia.md#^flaw)`
 
 | dice: d6 | Flaw |
 |----------|------|

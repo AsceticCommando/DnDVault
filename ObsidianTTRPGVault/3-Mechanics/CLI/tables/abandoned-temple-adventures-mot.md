@@ -12,6 +12,8 @@ aliases:
 
 **Abandoned Temple Adventures**
 
+`dice: [](abandoned-temple-adventures-mot.md#^abandoned-temple-adventures)`
+
 | dice: d12 | Adventure Goal |
 |-----------|----------------|
 | 1 | Retrieve records or a magic item left in the temple. |

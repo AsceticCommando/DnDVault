@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "High Fae Noble"
 ---
-# [High Fae Noble](3-Mechanics\CLI\bestiary\fey/high-fae-noble-mcv4ec.md)
+# [High Fae Noble](3-Mechanics/CLI/bestiary/fey/high-fae-noble-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 High fae nobles regard themselves as the natural and obvious superiors of all in Eldraine. Many have been given dominion over a small aspect of the natural world; there are dukes and duchesses for each of the seasons, and noble archivists track every promise made and broken within the borders of Eldraine.
@@ -92,9 +92,10 @@ The high fae are ruled by Talion, the Kindly Lord. Talion is as strange, ancient
     "name": "Stunning Soliloquy (Recharge 5-6)"
   - "desc": "The high fae casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 19):\n\
-      \n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md),\
-      \ [suggestion](3-Mechanics/CLI/spells/suggestion.md)\n\n**1/day each:** [major\
-      \ image](3-Mechanics/CLI/spells/major-image.md), [zone of truth](3-Mechanics/CLI/spells/zone-of-truth.md)"
+      \n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md), [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md)\n\
+      \n**1/day each:** [major image](3-Mechanics/CLI/spells/major-image-xphb.md),\
+      \ [zone of truth](3-Mechanics/CLI/spells/zone-of-truth-xphb.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "Immediately after taking damage, the high fae magically has the [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
@@ -107,6 +108,6 @@ The high fae are ruled by Talion, the Kindly Lord. Talion is as strange, ancient
     "name": "Ridicule"
 "source":
   - "MCV4EC"
-"image": "3-Mechanics/CLI/bestiary/fey/token/high-fae-noble-mcv4ec.webp"
+"image": "file://bestiary/tokens/MCV4EC/High%20Fae%20Noble.webp"
 ```
 ^statblock

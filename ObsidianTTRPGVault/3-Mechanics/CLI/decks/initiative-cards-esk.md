@@ -18,37 +18,37 @@ After the characters and each group of monsters involved in a combat roll initia
 ## Cards
 
 ### One
-![](3-Mechanics/CLI/decks/img/initiative-initiative1.webp#card)
+![](file://decks/ESK/Initiative/Initiative1.webp#card)
 You will go first in the initiative order.
 
 ### Two
-![](3-Mechanics/CLI/decks/img/initiative-initiative2.webp#card)
+![](file://decks/ESK/Initiative/Initiative2.webp#card)
 You will go second in the initiative order.
 
 ### Three
-![](3-Mechanics/CLI/decks/img/initiative-initiative3.webp#card)
+![](file://decks/ESK/Initiative/Initiative3.webp#card)
 You will go third in the initiative order.
 
 ### Four
-![](3-Mechanics/CLI/decks/img/initiative-initiative4.webp#card)
+![](file://decks/ESK/Initiative/Initiative4.webp#card)
 You will go fourth in the initiative order.
 
 ### Five
-![](3-Mechanics/CLI/decks/img/initiative-initiative5.webp#card)
+![](file://decks/ESK/Initiative/Initiative5.webp#card)
 You will go fifth in the initiative order.
 
 ### Six
-![](3-Mechanics/CLI/decks/img/initiative-initiative6.webp#card)
+![](file://decks/ESK/Initiative/Initiative6.webp#card)
 You will go sixth in the initiative order.
 
 ### Seven
-![](3-Mechanics/CLI/decks/img/initiative-initiative7.webp#card)
+![](file://decks/ESK/Initiative/Initiative7.webp#card)
 You will go seventh in the initiative order.
 
 ### Eight
-![](3-Mechanics/CLI/decks/img/initiative-initiative8.webp#card)
+![](file://decks/ESK/Initiative/Initiative8.webp#card)
 You will go eighth in the initiative order.
 
 ### Nine
-![](3-Mechanics/CLI/decks/img/initiative-initiative9.webp#card)
+![](file://decks/ESK/Initiative/Initiative9.webp#card)
 You will go ninth in the initiative order.

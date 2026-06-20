@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Ilvara Mizzrym"
 ---
-# [Ilvara Mizzrym](3-Mechanics\CLI\bestiary\npc/ilvara-mizzrym-oota.md)
+# [Ilvara Mizzrym](3-Mechanics/CLI/bestiary/npc/ilvara-mizzrym-oota.md)
 *Source: Out of the Abyss p. 9*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "Drow elf"
 "alignment": "Neutral Evil"
 "ac": !!int "16"
-"ac_class": "[scale mail](3-Mechanics/CLI/items/scale-mail.md)"
+"ac_class": "[scale mail](3-Mechanics/CLI/items/scale-mail-xphb.md)"
 "hp": !!int "71"
 "hit_dice": "13d8 + 13"
 "modifier": !!int "2"
@@ -54,28 +54,31 @@ aliases:
 "traits":
   - "desc": "Ilvara is a 10th-level spellcaster. Her spellcasting ability is Wisdom\
       \ (save DC 14, +6 to hit with spell attacks). Ilvara has the following cleric\
-      \ spells prepared:\n\n**Cantrips (at will):** [guidance](3-Mechanics/CLI/spells/guidance.md),\
-      \ [poison spray](3-Mechanics/CLI/spells/poison-spray.md), [resistance](3-Mechanics/CLI/spells/resistance.md),\
-      \ [spare the dying](3-Mechanics/CLI/spells/spare-the-dying.md), [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy.md)\n\
-      \n**1st level (4 slots):** [animal friendship](3-Mechanics/CLI/spells/animal-friendship.md),\
-      \ [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md), [detect poison and disease](3-Mechanics/CLI/spells/detect-poison-and-disease.md),\
-      \ [ray of sickness](3-Mechanics/CLI/spells/ray-of-sickness.md)\n\n**2nd level\
-      \ (3 slots):** [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration.md),\
-      \ [protection from poison](3-Mechanics/CLI/spells/protection-from-poison.md),\
-      \ [web](3-Mechanics/CLI/spells/web.md)\n\n**3rd level (3 slots):** [conjure\
-      \ animals](3-Mechanics/CLI/spells/conjure-animals.md) (2 [giant spiders](3-Mechanics/CLI/bestiary/beast/giant-spider.md)),\
-      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md)\n\n**4th level (3 slots):**\
-      \ [divination](3-Mechanics/CLI/spells/divination.md), [freedom of movement](3-Mechanics/CLI/spells/freedom-of-movement.md)\n\
-      \n**5th level (2 slots):** [insect plague](3-Mechanics/CLI/spells/insect-plague.md),\
-      \ [mass cure wounds](3-Mechanics/CLI/spells/mass-cure-wounds.md)"
+      \ spells prepared:\n\n**Cantrips (at will):** [guidance](3-Mechanics/CLI/spells/guidance-xphb.md),\
+      \ [poison spray](3-Mechanics/CLI/spells/poison-spray-xphb.md), [resistance](3-Mechanics/CLI/spells/resistance-xphb.md),\
+      \ [spare the dying](3-Mechanics/CLI/spells/spare-the-dying-xphb.md), [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
+      \n**1st level (4 slots):** [animal friendship](3-Mechanics/CLI/spells/animal-friendship-xphb.md),\
+      \ [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md), [detect poison\
+      \ and disease](3-Mechanics/CLI/spells/detect-poison-and-disease-xphb.md), [ray\
+      \ of sickness](3-Mechanics/CLI/spells/ray-of-sickness-xphb.md)\n\n**2nd level\
+      \ (3 slots):** [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md),\
+      \ [protection from poison](3-Mechanics/CLI/spells/protection-from-poison-xphb.md),\
+      \ [web](3-Mechanics/CLI/spells/web-xphb.md)\n\n**3rd level (3 slots):** [conjure\
+      \ animals](3-Mechanics/CLI/spells/conjure-animals-xphb.md) (2 [giant spiders](3-Mechanics/CLI/bestiary/beast/giant-spider-xmm.md)),\
+      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md)\n\n**4th level\
+      \ (3 slots):** [divination](3-Mechanics/CLI/spells/divination-xphb.md), [freedom\
+      \ of movement](3-Mechanics/CLI/spells/freedom-of-movement-xphb.md)\n\n**5th\
+      \ level (2 slots):** [insect plague](3-Mechanics/CLI/spells/insect-plague-xphb.md),\
+      \ [mass cure wounds](3-Mechanics/CLI/spells/mass-cure-wounds-xphb.md)"
     "name": "Spellcasting"
   - "desc": "Ilvara's spellcasting ability is Charisma (spell save DC 15). She can\
       \ innately cast the following spells, requiring no material components:\n\n\
-      **At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md)\n\n\
-      **1/day each:** [darkness](3-Mechanics/CLI/spells/darkness.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md),\
-      \ [levitate](3-Mechanics/CLI/spells/levitate.md) (self only)"
+      **At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md)\n\
+      \n**1/day each:** [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [faerie\
+      \ fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md), [levitate](3-Mechanics/CLI/spells/levitate-xphb.md)\
+      \ (self only)"
     "name": "Innate Spellcasting"
-  - "desc": "Ilvara wields a [tentacle rod](3-Mechanics/CLI/items/tentacle-rod.md)\
+  - "desc": "Ilvara wields a [tentacle rod](3-Mechanics/CLI/items/tentacle-rod-xdmg.md)\
       \ in addition to her scourge."
     "name": "Special Equipment"
   - "desc": "Ilvara has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
@@ -91,7 +94,7 @@ aliases:
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
       \ + 2) piercing damage plus 17 (5d6) poison damage."
     "name": "Scourge"
-  - "desc": "Ilvara attempts to magically summon a [yochlol](3-Mechanics/CLI/bestiary/fiend/yochlol.md)\
+  - "desc": "Ilvara attempts to magically summon a [yochlol](3-Mechanics/CLI/bestiary/fiend/yochlol-xmm.md)\
       \ with a 30 percent chance of success. If the attempt fails, Ilvara takes 5\
       \ (1d10) psychic damage. Otherwise, the summoned demon appears in an unoccupied\
       \ space within 60 feet of its summoner, acts as an ally of its summoner, and\
@@ -100,6 +103,6 @@ aliases:
     "name": "Summon Demon (1/Day)"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/ilvara-mizzrym-oota.webp"
+"image": "file://bestiary/tokens/OotA/Ilvara%20Mizzrym.webp"
 ```
 ^statblock

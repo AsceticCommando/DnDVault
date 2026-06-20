@@ -12,6 +12,8 @@ aliases:
 
 **Grand Masquerade Objectives**
 
+`dice: [](the-grand-masquerade-grand-masquerade-objectives-vrgr.md#^grand-masquerade-objectives)`
+
 | dice: d6 | Goal |
 |----------|------|
 | 1 | Find a specific aristocrat at the masquerade and get information from (or to) them. |

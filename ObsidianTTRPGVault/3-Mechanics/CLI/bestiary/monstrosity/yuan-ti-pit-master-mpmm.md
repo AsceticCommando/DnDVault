@@ -15,7 +15,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Yuan-ti Pit Master"
 ---
-# [Yuan-ti Pit Master](3-Mechanics\CLI\bestiary\monstrosity/yuan-ti-pit-master-mpmm.md)
+# [Yuan-ti Pit Master](3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-pit-master-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 276, Volo's Guide to Monsters p. 206*  
 
 With snakes for arms, pit masters are yuan-ti malison priests who have made a pact with the god Merrshaulk and seek to rouse him from his slumber by sacrificing Humanoids to him. They are the most traditionalist yuan-ti and believe that they are best equipped to achieve the goals of their people.
@@ -79,10 +79,11 @@ Pit masters are deeply involved in yuan-ti's long-term plan to take over Humanoi
     "name": "Merrshaulk's Slumber (1/Day)"
   - "desc": "The yuan-ti casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 14):\n\
-      \n**At will:** [animal friendship](3-Mechanics/CLI/spells/animal-friendship.md)\
-      \ (snakes only), [guidance](3-Mechanics/CLI/spells/guidance.md), [mage hand](3-Mechanics/CLI/spells/mage-hand.md),\
-      \ [message](3-Mechanics/CLI/spells/message.md)\n\n**3/day:** [suggestion](3-Mechanics/CLI/spells/suggestion.md)\n\
-      \n**2/day each:** [hold person](3-Mechanics/CLI/spells/hold-person.md), [invisibility](3-Mechanics/CLI/spells/invisibility.md)"
+      \n**At will:** [animal friendship](3-Mechanics/CLI/spells/animal-friendship-xphb.md)\
+      \ (snakes only), [guidance](3-Mechanics/CLI/spells/guidance-xphb.md), [mage\
+      \ hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [message](3-Mechanics/CLI/spells/message-xphb.md)\n\
+      \n**3/day:** [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md)\n\n**2/day\
+      \ each:** [hold person](3-Mechanics/CLI/spells/hold-person-xphb.md), [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md)"
     "name": "Spellcasting (Yuan-ti Form Only)"
 "bonus_actions":
   - "desc": "The yuan-ti transforms into a Medium snake or back into its true form.\
@@ -92,7 +93,7 @@ Pit masters are deeply involved in yuan-ti's long-term plan to take over Humanoi
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/yuan-ti-pit-master-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Yuan-ti%20Pit%20Master.webp"
 ```
 ^statblock
 

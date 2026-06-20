@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Narbeck Horn"
 ---
-# [Narbeck Horn](3-Mechanics\CLI\bestiary\npc/narbeck-horn-skt.md)
+# [Narbeck Horn](3-Mechanics/CLI/bestiary/npc/narbeck-horn-skt.md)
 *Source: Storm King's Thunder p. 114*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Neutral"
 "ac": !!int "18"
-"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor.md)"
+"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "52"
 "hit_dice": "8d8 + 16"
 "modifier": !!int "0"
@@ -39,8 +39,8 @@ aliases:
   - "wisdom": !!int "2"
 "damage_resistances": "poison"
 "gear":
-  - "[greatsword](3-Mechanics/CLI/items/greatsword.md)"
-  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow.md)"
+  - "[greatsword](3-Mechanics/CLI/items/greatsword-xphb.md)"
+  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 10"
 "languages": "any one language (usually Common), Dwarvish"
@@ -71,6 +71,6 @@ aliases:
     "name": "Parry"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/narbeck-horn-skt.webp"
+"image": "file://bestiary/tokens/SKT/Narbeck%20Horn.webp"
 ```
 ^statblock

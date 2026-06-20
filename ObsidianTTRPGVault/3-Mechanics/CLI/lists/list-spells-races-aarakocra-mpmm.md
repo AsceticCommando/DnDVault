@@ -11,4 +11,4 @@ aliases:
 
 ## 2nd Level
 
-- [Gust of Wind](3-Mechanics/CLI/spells/gust-of-wind.md "PHB") at class level 3
+- [Gust of Wind](3-Mechanics/CLI/spells/gust-of-wind-xphb.md "XPHB") at class level 3

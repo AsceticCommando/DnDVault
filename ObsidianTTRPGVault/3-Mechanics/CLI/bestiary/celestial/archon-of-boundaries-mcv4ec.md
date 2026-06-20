@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Archon of Boundaries"
 ---
-# [Archon of Boundaries](3-Mechanics\CLI\bestiary\celestial/archon-of-boundaries-mcv4ec.md)
+# [Archon of Boundaries](3-Mechanics/CLI/bestiary/celestial/archon-of-boundaries-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 The archons of Eldraine are enigmatic beings who fly over the perimeter where the realm meets the wilds, marking the boundary between safety (for the people of the realm) and danger. The sight of an archon overhead is a clear signal that one is entering the wilds.
@@ -78,8 +78,8 @@ Sometimes knights of the realm get the idea that they can expand the borders of 
       \ target has disadvantage on attack rolls against creatures other than the archon."
     "name": "Radiant Lance"
   - "desc": "The archon casts one of the following spells, using Charisma as the spellcasting\
-      \ ability:\n\n**1/day each:** [daylight](3-Mechanics/CLI/spells/daylight.md),\
-      \ [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration.md)"
+      \ ability:\n\n**1/day each:** [daylight](3-Mechanics/CLI/spells/daylight-xphb.md),\
+      \ [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "When a creature marked by the archon's Radiant Lance ends its turn within\
@@ -96,6 +96,6 @@ Sometimes knights of the realm get the idea that they can expand the borders of 
     "name": "Parry"
 "source":
   - "MCV4EC"
-"image": "3-Mechanics/CLI/bestiary/celestial/token/archon-of-boundaries-mcv4ec.webp"
+"image": "file://bestiary/tokens/MCV4EC/Archon%20of%20Boundaries.webp"
 ```
 ^statblock

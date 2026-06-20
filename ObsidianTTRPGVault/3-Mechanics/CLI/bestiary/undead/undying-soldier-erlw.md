@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Undying Soldier"
 ---
-# [Undying Soldier](3-Mechanics\CLI\bestiary\undead/undying-soldier-erlw.md)
+# [Undying Soldier](3-Mechanics/CLI/bestiary/undead/undying-soldier-erlw.md)
 *Source: Eberron: Rising from the Last War p. 311*  
 
 Undying soldiers make up the army of Aerenal's City of the Dead. They guard the temples of the Undying Court and the mansions of the noble lines of Aerenal, and Aereni ambassadors are often accompanied by undead bodyguards. Undying soldiers wear heirloom armor and wield ornate weaponry.
@@ -47,7 +47,7 @@ An undying doesn't require air, food, drink, or sleep.
 "type": "undead"
 "alignment": "Neutral Good"
 "ac": !!int "17"
-"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "26"
 "hit_dice": "4d8 + 8"
 "modifier": !!int "1"
@@ -75,7 +75,7 @@ An undying doesn't require air, food, drink, or sleep.
 "condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
   \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
 "gear":
-  - "[spear](3-Mechanics/CLI/items/spear.md)"
+  - "[spear](3-Mechanics/CLI/items/spear-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 13"
 "languages": "Common, Elvish"
@@ -98,6 +98,6 @@ An undying doesn't require air, food, drink, or sleep.
     "name": "Spear"
 "source":
   - "ERLW"
-"image": "3-Mechanics/CLI/bestiary/undead/token/undying-soldier-erlw.webp"
+"image": "file://bestiary/tokens/ERLW/Undying%20Soldier.webp"
 ```
 ^statblock

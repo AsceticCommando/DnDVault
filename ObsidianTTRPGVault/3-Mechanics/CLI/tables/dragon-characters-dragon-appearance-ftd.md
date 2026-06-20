@@ -12,6 +12,8 @@ aliases:
 
 **Dragon Appearance**
 
+`dice: [](dragon-characters-dragon-appearance-ftd.md#^dragon-appearance)`
+
 | dice: d20 | Appearance |
 |-----------|------------|
 | 1 | Draconic letters or symbols engraved on prominent scales |

@@ -12,6 +12,8 @@ aliases:
 
 **Known For Its...**
 
+`dice: [](random-settlements-known-for-its.md#^known-for-its)`
+
 | dice: d20 | Feature |
 |-----------|---------|
 | 1 | Delicious cuisine |

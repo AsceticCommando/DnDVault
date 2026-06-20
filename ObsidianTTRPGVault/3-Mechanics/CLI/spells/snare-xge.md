@@ -5,25 +5,30 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/spell/class/artificer
-- ttrpg-cli/spell/class/bard/magical-secrets
+- ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/druid
 - ttrpg-cli/spell/class/ranger
 - ttrpg-cli/spell/class/wizard
 - ttrpg-cli/spell/feat/artificer-initiate
 - ttrpg-cli/spell/feat/divinely-favored/neutral
 - ttrpg-cli/spell/feat/magic-initiate/wizard-spells
+- ttrpg-cli/spell/feat/strixhaven-initiate/witherbloom-3
 - ttrpg-cli/spell/level/1st-level
 - ttrpg-cli/spell/school/abjuration
+- ttrpg-cli/spell/subclass/abjurer
 - ttrpg-cli/spell/subclass/arcane-trickster
+- ttrpg-cli/spell/subclass/college-of-lore
 - ttrpg-cli/spell/subclass/eldritch-knight
 classes:
 - Artificer
-- Bard (Magical Secrets)
+- Bard
+- Bard (College of Lore)
 - Druid
 - Fighter (Eldritch Knight)
 - Ranger
 - Rogue (Arcane Trickster)
 - Wizard
+- Wizard (Abjurer)
 aliases:
 - "Snare"
 ---
@@ -46,6 +51,6 @@ A [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) creature can make
 
 After the trap is triggered, the spell ends when no creature is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) by it.
 
-**Classes**: [Artificer](3-Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Ranger](3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Artificer](3-Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Abjurer)](3-Mechanics/CLI/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 165*

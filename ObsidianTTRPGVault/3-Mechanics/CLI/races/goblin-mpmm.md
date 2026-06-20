@@ -10,7 +10,7 @@ aliases:
 ---
 # Goblin
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 20*  
-![](3-Mechanics/CLI/races/img/goblin.webp#right)
+![](file://races/MPMM/Goblin.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Type**: humanoid

@@ -12,6 +12,8 @@ aliases:
 
 **Cosmic Horror Plots**
 
+`dice: [](cosmic-horror-plots-vrgr.md#^cosmic-horror-plots)`
+
 | dice: d8 | Plot |
 |----------|------|
 | 1 | Help a parent recover a child who's gone missing in the impossibly vast space underneath their bed. |

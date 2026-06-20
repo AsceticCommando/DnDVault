@@ -12,6 +12,8 @@ aliases:
 
 **Undead Dragon Adventure Hooks**
 
+`dice: [](undeath-undead-dragon-adventure-hooks-ftd.md#^undead-dragon-adventure-hooks)`
+
 | dice: d6 | Adventure Hook |
 |----------|----------------|
 | 1 | A dragon seeks help, desperate to prevent a dracolich-worshiping cult from convincing the dragon's sibling, mate, or rival to become a dracolich. |

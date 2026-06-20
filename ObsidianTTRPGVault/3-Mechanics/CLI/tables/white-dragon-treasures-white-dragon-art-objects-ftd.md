@@ -12,6 +12,8 @@ aliases:
 
 **White Dragon Art Objects**
 
+`dice: [](white-dragon-treasures-white-dragon-art-objects-ftd.md#^white-dragon-art-objects)`
+
 | dice: d12 | Object |
 |-----------|--------|
 | 1 | A war horn carved to resemble a dragon's head with a wide-open maw, which the dragon calls "Little Toot" |

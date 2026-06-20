@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Dracohydra"
 ---
-# [Dracohydra](3-Mechanics\CLI\bestiary\monstrosity/dracohydra-ftd.md)
+# [Dracohydra](3-Mechanics/CLI/bestiary/monstrosity/dracohydra-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 176*  
 
 The dracohydra is the result of arcane experimentation dedicated to recreating Tiamat's power. Amalgamating the magic of chromatic dragons with the blood of a hydra resulted in a many-headed draconic monster with wings and multiple snakelike tails. The dracohydra's breath weapon is a multicolored mass of energy that contains the essence of a chromatic dragon's elemental power.
@@ -78,6 +78,6 @@ A dracohydra can sometimes be found in the service of the spellcaster who create
     "name": "Prismatic Breath (Recharge 4-6)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/dracohydra-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Dracohydra.webp"
 ```
 ^statblock

@@ -12,6 +12,8 @@ aliases:
 
 **Gnome Ideals**
 
+`dice: [](gnome-tables-gnome-ideals-mtf.md#^gnome-ideals)`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Love. You love little (and big) critters and go out of your way to help them. |

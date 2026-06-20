@@ -11,12 +11,12 @@ aliases:
 
 ## Cantrip
 
-- [Friends](3-Mechanics/CLI/spells/friends.md "PHB") as 2nd-level, at class level 3
+- [Friends](3-Mechanics/CLI/spells/friends-xphb.md "XPHB") as cantrip
 
 ## 1st Level
 
-- [Charm Person](3-Mechanics/CLI/spells/charm-person.md "PHB") as 2nd-level, at class level 3
+- [Charm Person](3-Mechanics/CLI/spells/charm-person-xphb.md "XPHB") as 2nd-level, at class level 3
 
 ## 2nd Level
 
-- [Suggestion](3-Mechanics/CLI/spells/suggestion.md "PHB") as 2nd-level, at class level 3
+- [Suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md "XPHB") at class level 5

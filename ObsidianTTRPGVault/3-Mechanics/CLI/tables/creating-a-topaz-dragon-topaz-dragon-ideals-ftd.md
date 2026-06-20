@@ -12,6 +12,8 @@ aliases:
 
 **Topaz Dragon Ideals**
 
+`dice: [](creating-a-topaz-dragon-topaz-dragon-ideals-ftd.md#^topaz-dragon-ideals)`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Solitude. My own company obviates the need for others in my life, whether they are dragons or lesser creatures. (Any) |

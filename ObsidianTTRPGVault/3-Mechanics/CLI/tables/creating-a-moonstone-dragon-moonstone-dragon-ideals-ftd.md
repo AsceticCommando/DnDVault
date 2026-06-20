@@ -12,6 +12,8 @@ aliases:
 
 **Moonstone Dragon Ideals**
 
+`dice: [](creating-a-moonstone-dragon-moonstone-dragon-ideals-ftd.md#^moonstone-dragon-ideals)`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Curiosity. I might never be able to experience everything in the multiverse—but it doesn't hurt to try. (Any) |

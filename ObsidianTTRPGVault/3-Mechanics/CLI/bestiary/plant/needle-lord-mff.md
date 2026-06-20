@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Needle Lord"
 ---
-# [Needle Lord](3-Mechanics\CLI\bestiary\plant/needle-lord-mff.md)
+# [Needle Lord](3-Mechanics/CLI/bestiary/plant/needle-lord-mff.md)
 *Source: Mordenkainen's Fiendish Folio p. 16*  
 
 A wise ranger knows that the sight of a needle spawn is an ill omen, for it heralds the rise of a dreaded needle lord and a war for the soul of a forest.
@@ -84,6 +84,6 @@ A needle lord is an implacable foe. Driven only by a desire to conquer and rule,
     "name": "Needle"
 "source":
   - "MFF"
-"image": "3-Mechanics/CLI/bestiary/plant/token/needle-lord-mff.webp"
+"image": "file://bestiary/tokens/MFF/Needle%20Lord.webp"
 ```
 ^statblock

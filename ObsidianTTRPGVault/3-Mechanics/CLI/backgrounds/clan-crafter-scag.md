@@ -15,7 +15,7 @@ aliases:
 - **Skill Proficiencies.** [History](3-Mechanics/CLI/rules/skills.md#History), [Insight](3-Mechanics/CLI/rules/skills.md#Insight)  
 - **Tool Proficiencies.** One type of artisan's tools  
 - **Languages.** Dwarvish or one of your choice if you already speak Dwarvish  
-- **Equipment.** A set of artisan's tools with which you are proficient, a maker's mark chisel used to mark your handiwork with the symbol of the clan of crafters you learned your skill from, a set of [traveler's clothes](3-Mechanics/CLI/items/travelers-clothes.md), and a [pouch](3-Mechanics/CLI/items/pouch.md) containing 5 gp and a gem worth 10 gp  
+- **Equipment.** A set of artisan's tools with which you are proficient, a maker's mark chisel used to mark your handiwork with the symbol of the clan of crafters you learned your skill from, a set of [traveler's clothes](3-Mechanics/CLI/items/travelers-clothes-xphb.md), and a [pouch](3-Mechanics/CLI/items/pouch-xphb.md) containing 5 gp and a gem worth 10 gp  
 
 The Stout Folk are well known for their artisanship and the worth of their handiworks, and you have been trained in that ancient tradition. For years you labored under a dwarf master of the craft, enduring long hours and dismissive, sour-tempered treatment in order to gain the fine skills you possess today.
 

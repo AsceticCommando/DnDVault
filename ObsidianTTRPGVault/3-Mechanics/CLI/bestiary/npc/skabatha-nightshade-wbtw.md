@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Skabatha Nightshade"
 ---
-# [Skabatha Nightshade](3-Mechanics\CLI\bestiary\npc/skabatha-nightshade-wbtw.md)
+# [Skabatha Nightshade](3-Mechanics/CLI/bestiary/npc/skabatha-nightshade-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 218*  
 
 Skabatha is the oldest member of the Hourglass Coven. Better known as Granny Nightshade, she offers her assistance to those who are haunted by regret. Her deals often result in cruel twists; for example, a petitioner who asks to be reunited with a lost love might be transformed into one of their loved one's cherished items, such as a favorite bonnet.
@@ -73,12 +73,12 @@ Skabatha assumes the guise of an old toymaker. Part toy herself, she has a windu
     "name": "Claw"
   - "desc": "Skabatha casts one of the following spells, requiring no material components\
       \ and using Wisdom as the spellcasting ability (spell save DC 14):\n\n**At will:**\
-      \ [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [druidcraft](3-Mechanics/CLI/spells/druidcraft.md),\
-      \ [speak with animals](3-Mechanics/CLI/spells/speak-with-animals.md)\n\n**2/day\
-      \ each:** [polymorph](3-Mechanics/CLI/spells/polymorph.md), [remove curse](3-Mechanics/CLI/spells/remove-curse.md),\
-      \ [speak with plants](3-Mechanics/CLI/spells/speak-with-plants.md)\n\n**1/day:**\
-      \ [awaken](3-Mechanics/CLI/spells/awaken.md) (as an action), [plane shift](3-Mechanics/CLI/spells/plane-shift.md)\
-      \ (self only)"
+      \ [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [druidcraft](3-Mechanics/CLI/spells/druidcraft-xphb.md),\
+      \ [speak with animals](3-Mechanics/CLI/spells/speak-with-animals-xphb.md)\n\n\
+      **2/day each:** [polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md), [remove\
+      \ curse](3-Mechanics/CLI/spells/remove-curse-xphb.md), [speak with plants](3-Mechanics/CLI/spells/speak-with-plants-xphb.md)\n\
+      \n**1/day:** [awaken](3-Mechanics/CLI/spells/awaken-xphb.md) (as an action),\
+      \ [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md) (self only)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "Skabatha magically shrinks herself to Tiny size (between 4 and 8 inches\
@@ -92,6 +92,6 @@ Skabatha assumes the guise of an old toymaker. Part toy herself, she has a windu
     "name": "Alter Size"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/npc/token/skabatha-nightshade-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Skabatha%20Nightshade.webp"
 ```
 ^statblock

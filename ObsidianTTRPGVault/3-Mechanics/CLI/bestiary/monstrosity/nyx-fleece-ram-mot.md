@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Nyx-Fleece Ram"
 ---
-# [Nyx-Fleece Ram](3-Mechanics\CLI\bestiary\monstrosity/nyx-fleece-ram-mot.md)
+# [Nyx-Fleece Ram](3-Mechanics/CLI/bestiary/monstrosity/nyx-fleece-ram-mot.md)
 *Source: Mythic Odysseys of Theros p. 233*  
 
 Touched by the gods, Nyx-fleece rams grow remarkable magical wool. This makes the beasts valuable to heroes and scoundrels alike, who would use their wool for either protection or profit. Divine servants guard the few herds of Nyx-fleece rams dwelling among Theros's loftiest peaks, assuring they don't fall into unworthy hands.
@@ -56,6 +56,6 @@ Touched by the gods, Nyx-fleece rams grow remarkable magical wool. This makes th
     "name": "Ram"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/nyx-fleece-ram-mot.webp"
+"image": "file://bestiary/tokens/MOT/Nyx-Fleece%20Ram.webp"
 ```
 ^statblock

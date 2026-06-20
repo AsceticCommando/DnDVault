@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Martial Arts Adept"
 ---
-# [Martial Arts Adept](3-Mechanics\CLI\bestiary\humanoid/martial-arts-adept-mpmm.md)
+# [Martial Arts Adept](3-Mechanics/CLI/bestiary/humanoid/martial-arts-adept-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 172, Volo's Guide to Monsters p. 216*  
 
 Martial arts adepts are disciplined monks with extensive training in hand-to-hand combat. Some protect monasteries; others travel the world seeking enlightenment or new forms of combat to master. A few become bodyguards, trading their combat prowess and loyalty for food and lodging.
@@ -21,6 +21,8 @@ Martial arts adepts are disciplined monks with extensive training in hand-to-han
 Some martial artists adorn themselves with tattoos to honor inspirations or instructors, or to memorialize profound lessons, triumphs, or defeats. You may roll on the Martial Arts Adept Tattoos table to determine what sort of tattoo an adept bears.
 
 **Martial Arts Adept Tattoos**
+
+`dice: [](martial-arts-adept-mpmm.md#^martial-arts-adept-tattoos)`
 
 | dice: d8 | Tattoo |
 |----------|--------|
@@ -60,7 +62,7 @@ Some martial artists adorn themselves with tattoos to honor inspirations or inst
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
 "gear":
-  - "[dart](3-Mechanics/CLI/items/dart.md)"
+  - "[dart](3-Mechanics/CLI/items/dart-xphb.md)"
 "senses": "passive Perception 13"
 "languages": "any one language (usually Common)"
 "cr": "3"
@@ -90,7 +92,7 @@ Some martial artists adorn themselves with tattoos to honor inspirations or inst
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/martial-arts-adept-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Martial%20Arts%20Adept.webp"
 ```
 ^statblock
 

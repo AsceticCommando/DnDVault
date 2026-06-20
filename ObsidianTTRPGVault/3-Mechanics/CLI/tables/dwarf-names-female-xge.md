@@ -12,6 +12,8 @@ aliases:
 
 **Dwarf Names – Female**
 
+`dice: [](dwarf-names-female-xge.md#^dwarf-names-female)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Anbera |

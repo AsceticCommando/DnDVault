@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Star Lancer"
 ---
-# [Star Lancer](3-Mechanics\CLI\bestiary\celestial/star-lancer-mcv1sc.md)
+# [Star Lancer](3-Mechanics/CLI/bestiary/celestial/star-lancer-mcv1sc.md)
 *Source: Monstrous Compendium Volume 1: Spelljammer Creatures p. 12*  
 
 Drifting in the Astral Sea are the petrified husks of dead gods, their colossal bodies riddled with natural tunnels and caverns. While exploring the innards of one of these dead gods, githyanki xenomancers found a vast cavern containing scores of winged creatures they had never encountered before. The cavern's denizens used telepathy to question the githyanki interlopers, who promptly suggested an alliance. The winged creatures quickly developed a fondness for the githyanki.
@@ -74,6 +74,6 @@ Githyanki are fond of using star lancers as mounts, riding them across the Astra
     "name": "Invisibility Cloak (3/Day)"
 "source":
   - "MCV1SC"
-"image": "3-Mechanics/CLI/bestiary/celestial/token/star-lancer-mcv1sc.webp"
+"image": "file://bestiary/tokens/MCV1SC/Star%20Lancer.webp"
 ```
 ^statblock

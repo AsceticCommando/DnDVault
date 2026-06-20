@@ -11,7 +11,7 @@ aliases:
 ---
 # Copper (cp)
 *Treasure (coinage)*  
-![](3-Mechanics/CLI/items/img/copper-cp.webp#right)
+![](file://items/PHB/Copper%20%28cp%29.webp#right)
 
 - **Cost**: 1 cp
 - **Weight**: 0.02 lbs.

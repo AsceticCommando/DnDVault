@@ -11,4 +11,4 @@ aliases:
 
 ## 4th Level
 
-- [Stoneskin](3-Mechanics/CLI/spells/stoneskin.md "PHB")
+- [Stoneskin](3-Mechanics/CLI/spells/stoneskin-xphb.md "XPHB")

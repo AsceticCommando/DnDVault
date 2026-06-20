@@ -12,6 +12,8 @@ aliases:
 
 **Notable Behavior or Tactics**
 
+`dice: [](creating-a-gnoll-war-band-notable-behavior-or-tactics-vgm.md#^notable-behavior-or-tactics)`
+
 | dice: d8 | Notable behavior or Tactics |
 |----------|-----------------------------|
 | 1 | Use of flaming arrows and burning pitch |

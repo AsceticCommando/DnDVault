@@ -12,6 +12,8 @@ aliases:
 
 **Folk Horror Adventure Sites**
 
+`dice: [](folk-horror-adventure-sites-vrgr.md#^folk-horror-adventure-sites)`
+
 | dice: d6 | Adventure Site |
 |----------|----------------|
 | 1 | A seemingly deserted chapel that has been burnt down and rebuilt a thousand times |

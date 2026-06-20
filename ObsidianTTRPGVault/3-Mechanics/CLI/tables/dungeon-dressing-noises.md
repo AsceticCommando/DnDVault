@@ -12,6 +12,8 @@ aliases:
 
 **Noises**
 
+`dice: [](dungeon-dressing-noises.md#^noises)`
+
 | dice: d100 | Effect |
 |------------|--------|
 | 1-5 | Bang or slam |

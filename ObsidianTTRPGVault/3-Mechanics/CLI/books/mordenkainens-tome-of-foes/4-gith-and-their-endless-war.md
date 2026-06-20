@@ -10,7 +10,7 @@ aliases:
 # Gith and Their Endless War
 *Source: Mordenkainen's Tome of Foes, p. 85* 
 
-![](3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/mtf_chapterstarts_ch4.webp#center)
+![](file://book/MTF/mtf_chapterstarts_ch4.webp#center)
 
 The story of the gith is rooted in a cruel twist of cosmic fate. Inspired by the great leader for whom the race is named, the gith rose up to overthrow the mind flayers that held them in servitude. But after they won their freedom, two factions among the gith disagreed on what kind of civilization they would forge. That disagreement quickly flared into open hostility, and the two groups distanced themselves from one another to pursue their separate agendas. They remain bitter enemies today, each side willing to fight to the death whenever they cross paths.
 
@@ -64,7 +64,7 @@ All attempts to learn about Gith through divine magic return utter silence. Thos
 
 From birth, githyanki are conditioned to fight and die for their queen. Children endure a brutal upbringing that constantly preaches devotion to Vlaakith. Each of the fortified settlements where young githyanki are raised and trained is a combination of military academy and cult headquarters.
 
-![](3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315591_cn_wmask.webp#center)
+![](file://book/MTF/315591_cn_wmask.webp#center)
 
 #### Only the Best Survive
 
@@ -143,7 +143,7 @@ The first silver swords were created eons ago, when the gith were still a single
 
 Knights and their silver swords are inseparable, and a knight will fight to the death to prevent the loss of its weapon. If a silver sword falls into the possession of someone other than a githyanki, Vlaakith sends a squad of knights out from Tu'narath to destroy the malefactor and recover the weapon.
 
-![](3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315596_cn.webp#center)
+![](file://book/MTF/315596_cn.webp#center)
 
 - [Greater Silver Sword](3-Mechanics/CLI/items/greater-silver-sword-mtf.md)  
 
@@ -173,7 +173,7 @@ In battle, the githyanki use mobile tactics combining psionics and magic to deva
 
 Because the githyanki strike to plunder rather than conquer, raiders linger over their target for no more than a few hours. By daybreak the attackers are gone, purposely leaving behind enough survivors to rebuild the ruined community-so that the githyanki might visit the place years or decades later and lay it low all over again.
 
-![](3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315592_cn_wmask.webp#center)
+![](file://book/MTF/315592_cn_wmask.webp#center)
 
 #### The Helm
 
@@ -233,7 +233,7 @@ Nonetheless, the city does have a great number of permanent structures, and a sy
 > **Markets.** There are no organized markets in Tu'narath. The githyanki don't offer goods for sale to visitors, and they don't purchase items offered to them-they simply take what they want.
 ^tunarath-in-brief
 
-![](3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315593_cn_wmask.webp#center)
+![](file://book/MTF/315593_cn_wmask.webp#center)
 
 ##### Queen's District
 
@@ -330,7 +330,7 @@ Aside from its inhabitants, the most well-defended element of a githzerai fortre
 
 A community's activity is overseen by monks who assign duties to each occupant. Everyone participates in mock combats and ongoing academic instruction, and each fortress allocates personnel and resources as needed. Every fortress is designed to be self-sufficient, even though no two of them are ever out of psychic contact.
 
-![](3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315594_cn_wmask.webp#center)
+![](file://book/MTF/315594_cn_wmask.webp#center)
 
 #### Shra'kt'lor
 
@@ -382,7 +382,7 @@ Though they devote most of their military efforts to the constant campaign again
 
 As their means of vengeance against the mind flayers, the githzerai send bands of warriors called rrakkmas—illithid hunting parties—to other planes to do battle with any mind flayers they come across. It is in these circumstances that the natives of the plane most often encounter githzerai away from their monastery. With their attention focused only on their mission, the githzerai pay little heed to those around as long as they don't interfere with the hunt.
 
-![](3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315595_cn_wmask.webp#center)
+![](file://book/MTF/315595_cn_wmask.webp#center)
 
 > [!note] The Sha'sal Khou
 > 

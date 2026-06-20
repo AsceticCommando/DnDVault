@@ -11,12 +11,13 @@ aliases:
 
 ## 1st Level
 
-- [Fog Cloud](3-Mechanics/CLI/spells/fog-cloud.md "PHB") 
+- [Fog Cloud](3-Mechanics/CLI/spells/fog-cloud-xphb.md "XPHB")
 
 ## 2nd Level
 
-- [Gust of Wind](3-Mechanics/CLI/spells/gust-of-wind.md "PHB") 
+- [Gust of Wind](3-Mechanics/CLI/spells/gust-of-wind-xphb.md "XPHB") at class level 3
 
 ## 3rd Level
 
-- [Water Walk](3-Mechanics/CLI/spells/water-walk.md "PHB")
+- [Wall of Water](3-Mechanics/CLI/spells/wall-of-water-xge.md "XGE")
+- [Water Walk](3-Mechanics/CLI/spells/water-walk-xphb.md "XPHB") at class level 5

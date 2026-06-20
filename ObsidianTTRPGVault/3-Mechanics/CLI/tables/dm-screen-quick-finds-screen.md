@@ -12,6 +12,8 @@ aliases:
 
 **Quick Finds**
 
+`dice: [](dm-screen-quick-finds-screen.md#^quick-finds)`
+
 | dice: d12 | Find |
 |-----------|------|
 | 1 | Artwork |

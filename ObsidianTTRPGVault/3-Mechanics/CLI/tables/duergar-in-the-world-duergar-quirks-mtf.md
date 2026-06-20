@@ -12,6 +12,8 @@ aliases:
 
 **Duergar Quirks**
 
+`dice: [](duergar-in-the-world-duergar-quirks-mtf.md#^duergar-quirks)`
+
 | dice: d6 | Quirk |
 |----------|-------|
 | 1 | A separate personality in your mind provides advice and guidance to you. |

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Asteroid Spider"
 ---
-# [Asteroid Spider](3-Mechanics\CLI\bestiary\monstrosity/asteroid-spider-mcv1sc.md)
+# [Asteroid Spider](3-Mechanics/CLI/bestiary/monstrosity/asteroid-spider-mcv1sc.md)
 *Source: Monstrous Compendium Volume 1: Spelljammer Creatures p. 3*  
 
 An asteroid spider is a menace native to Wildspace and the Astral Sea. A full-grown specimen has a body 30 feet in diameter and legs that are at least 30 feet long. When it wraps its legs tightly around its body and closes its eyes, the asteroid spider resembles nothing so much as a giant, lifeless rock in space—hence its name.
@@ -84,10 +84,10 @@ An asteroid spider has its own gravity plane and air envelope, as well as multip
       \ of any spelljamming helm aboard the ship. Decks and other surfaces of the\
       \ ship that aren't enclosed become difficult terrain until the effect ends.\
       \ The web is impervious to damage but is destroyed by a successful casting of\
-      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md) (DC 18)."
+      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) (DC 18)."
     "name": "Snare Ship (1/Day)"
 "source":
   - "MCV1SC"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/asteroid-spider-mcv1sc.webp"
+"image": "file://bestiary/tokens/MCV1SC/Asteroid%20Spider.webp"
 ```
 ^statblock

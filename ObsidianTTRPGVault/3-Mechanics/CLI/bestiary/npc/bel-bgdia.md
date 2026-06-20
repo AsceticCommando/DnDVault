@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Bel"
 ---
-# [Bel](3-Mechanics\CLI\bestiary\npc/bel-bgdia.md)
+# [Bel](3-Mechanics/CLI/bestiary/npc/bel-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 115*  
 
 From his bastion, Zariel's second-in-command and the former lord of Avernus oversees the forges that furnish weapons and armor for the Blood War. Though Asmodeus has instructed Zariel to accept Bel as her advisor, Bel and Zariel loathe each other and invent distractions to keep them apart.
@@ -56,7 +56,7 @@ Bel outwardly plays the role of Zariel's loyal vassal. However, Bel rankles at Z
 "damage_immunities": "fire, poison"
 "condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
 "gear":
-  - "[greatsword](3-Mechanics/CLI/items/greatsword.md)"
+  - "[greatsword](3-Mechanics/CLI/items/greatsword-xphb.md)"
 "senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
   \ Perception 14"
 "languages": "Common, Infernal, telepathy 120 ft."
@@ -64,13 +64,13 @@ Bel outwardly plays the role of Zariel's loyal vassal. However, Bel rankles at Z
 "traits":
   - "desc": "Bel's spellcasting ability is Charisma (spell save DC 23). Bel can innately\
       \ cast the following spells, requiring no material components:\n\n**At will:**\
-      \ [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [fireball](3-Mechanics/CLI/spells/fireball.md)\n\
-      \n**3/day each:** [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), [hold\
-      \ monster](3-Mechanics/CLI/spells/hold-monster.md), [mirror image](3-Mechanics/CLI/spells/mirror-image.md),\
-      \ [mislead](3-Mechanics/CLI/spells/mislead.md), [raise dead](3-Mechanics/CLI/spells/raise-dead.md),\
-      \ [teleport](3-Mechanics/CLI/spells/teleport.md), [wall of fire](3-Mechanics/CLI/spells/wall-of-fire.md)\n\
-      \n**1/day each:** [imprisonment](3-Mechanics/CLI/spells/imprisonment.md), [meteor\
-      \ swarm](3-Mechanics/CLI/spells/meteor-swarm.md)"
+      \ [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [fireball](3-Mechanics/CLI/spells/fireball-xphb.md)\n\
+      \n**3/day each:** [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
+      \ [hold monster](3-Mechanics/CLI/spells/hold-monster-xphb.md), [mirror image](3-Mechanics/CLI/spells/mirror-image-xphb.md),\
+      \ [mislead](3-Mechanics/CLI/spells/mislead-xphb.md), [raise dead](3-Mechanics/CLI/spells/raise-dead-xphb.md),\
+      \ [teleport](3-Mechanics/CLI/spells/teleport-xphb.md), [wall of fire](3-Mechanics/CLI/spells/wall-of-fire-xphb.md)\n\
+      \n**1/day each:** [imprisonment](3-Mechanics/CLI/spells/imprisonment-xphb.md),\
+      \ [meteor swarm](3-Mechanics/CLI/spells/meteor-swarm-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "Any creature hostile to Bel that starts its turn within 20 feet of him\
       \ must make a DC 23 Wisdom saving throw, unless Bel is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated).\
@@ -100,7 +100,7 @@ Bel outwardly plays the role of Zariel's loyal vassal. However, Bel rankles at Z
   \ turn, Bel can expend a use to take one of the following actions. Bel regains all\
   \ expended uses at the start of each of their turns."
 "legendary_actions":
-  - "desc": "Bel casts [fireball](3-Mechanics/CLI/spells/fireball.md)."
+  - "desc": "Bel casts [fireball](3-Mechanics/CLI/spells/fireball-xphb.md)."
     "name": "Fireball"
   - "desc": "Roll a d6 for Bel. The number rolled on the die is subtracted from the\
       \ next attack roll made against Bel or an ally of his choice within the next\
@@ -114,6 +114,6 @@ Bel outwardly plays the role of Zariel's loyal vassal. However, Bel rankles at Z
     "name": "Summon Ice Devil (Costs 3 Actions)"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/bel-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Bel.webp"
 ```
 ^statblock

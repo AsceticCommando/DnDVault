@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Xvart"
 ---
-# [Xvart](3-Mechanics\CLI\bestiary\monstrosity/xvart-mpmm.md)
+# [Xvart](3-Mechanics/CLI/bestiary/monstrosity/xvart-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 267, Volo's Guide to Monsters p. 200*  
 
 Fleeing his pursuers, Raxivort wandered across the multiverse and spawned xvarts, who not only look like him but also cause any magic that could reveal his location to point to the nearest xvart instead.
@@ -31,7 +31,7 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
 "type": "monstrosity"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "13"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "7"
 "hit_dice": "2d6"
 "modifier": !!int "2"
@@ -47,16 +47,16 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "gear":
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
-  - "[sling](3-Mechanics/CLI/items/sling.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
+  - "[sling](3-Mechanics/CLI/items/sling-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 30 ft., passive\
   \ Perception 8"
 "languages": "Abyssal"
 "cr": "1/8"
 "traits":
-  - "desc": "The xvart can communicate with ordinary [bats](3-Mechanics/CLI/bestiary/beast/bat.md)\
-      \ and [rats](3-Mechanics/CLI/bestiary/beast/rat.md), as well as [giant bats](3-Mechanics/CLI/bestiary/beast/giant-bat.md)\
-      \ and [giant rats](3-Mechanics/CLI/bestiary/beast/giant-rat.md)."
+  - "desc": "The xvart can communicate with ordinary [bats](3-Mechanics/CLI/bestiary/beast/bat-xmm.md)\
+      \ and [rats](3-Mechanics/CLI/bestiary/beast/rat-xmm.md), as well as [giant bats](3-Mechanics/CLI/bestiary/beast/giant-bat-xmm.md)\
+      \ and [giant rats](3-Mechanics/CLI/bestiary/beast/giant-rat-xmm.md)."
     "name": "Raxivort's Tongue"
 "actions":
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
@@ -74,7 +74,7 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/xvart-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Xvart.webp"
 ```
 ^statblock
 

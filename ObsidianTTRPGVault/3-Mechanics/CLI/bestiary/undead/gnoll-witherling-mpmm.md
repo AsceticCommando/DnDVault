@@ -16,7 +16,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Gnoll Witherling"
 ---
-# [Gnoll Witherling](3-Mechanics\CLI\bestiary\undead/gnoll-witherling-mpmm.md)
+# [Gnoll Witherling](3-Mechanics/CLI/bestiary/undead/gnoll-witherling-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 145, Volo's Guide to Monsters p. 155*  
 
 > [!quote] A quote from Mordenkainen  
@@ -78,7 +78,7 @@ Witherlings travel with their comrades and try to kill anything in their path. T
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/undead/token/gnoll-witherling-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Gnoll%20Witherling.webp"
 ```
 ^statblock
 

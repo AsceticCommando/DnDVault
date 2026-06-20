@@ -11,4 +11,4 @@ aliases:
 
 ## 4th Level
 
-- [Polymorph](3-Mechanics/CLI/spells/polymorph.md "PHB")
+- [Polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md "XPHB")

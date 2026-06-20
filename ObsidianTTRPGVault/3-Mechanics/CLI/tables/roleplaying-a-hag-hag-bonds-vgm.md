@@ -12,6 +12,8 @@ aliases:
 
 **Hag Bonds**
 
+`dice: [](roleplaying-a-hag-hag-bonds-vgm.md#^hag-bonds)`
+
 | dice: d8 | Bond |
 |----------|------|
 | 1 | I hate a certain mortal family and steal one of their children each generation for my own purposes. |

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Kella Darkhope"
 ---
-# [Kella Darkhope](3-Mechanics\CLI\bestiary\npc/kella-darkhope-skt.md)
+# [Kella Darkhope](3-Mechanics/CLI/bestiary/npc/kella-darkhope-skt.md)
 *Source: Storm King's Thunder p. 25*  
 
 ```statblock
@@ -49,8 +49,8 @@ aliases:
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "gear":
-  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow.md)"
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "passive Perception 16"
 "languages": "any two languages"
 "cr": "1"
@@ -75,6 +75,6 @@ aliases:
     "name": "Hand Crossbow"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/kella-darkhope-skt.webp"
+"image": "file://bestiary/tokens/SKT/Kella%20Darkhope.webp"
 ```
 ^statblock

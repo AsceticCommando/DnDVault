@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Khalessa Draga"
 ---
-# [Khalessa Draga](3-Mechanics\CLI\bestiary\npc/khalessa-draga-oota.md)
+# [Khalessa Draga](3-Mechanics/CLI/bestiary/npc/khalessa-draga-oota.md)
 *Source: Out of the Abyss p. 149*  
 
 ```statblock
@@ -49,17 +49,17 @@ aliases:
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "gear":
-  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow.md)"
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 16"
 "languages": "Common, Elvish, Undercommon"
 "cr": "1"
 "traits":
   - "desc": "Khalessa can innately cast the following spell, requiring no material\
-      \ components:\n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md)"
+      \ components:\n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md)"
     "name": "Innate Spellcasting"
-  - "desc": "Khalessa owns a [hat of disguise](3-Mechanics/CLI/items/hat-of-disguise.md),\
+  - "desc": "Khalessa owns a [hat of disguise](3-Mechanics/CLI/items/hat-of-disguise-xdmg.md),\
       \ which she uses to appear as a female drow while in the company of drow, and\
       \ she wears a [piwafwi](3-Mechanics/CLI/items/piwafwi-cloak-of-elvenkind-oota.md)."
     "name": "Special Equipment"
@@ -85,6 +85,6 @@ aliases:
     "name": "Hand Crossbow"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/khalessa-draga-oota.webp"
+"image": "file://bestiary/tokens/OotA/Khalessa%20Draga.webp"
 ```
 ^statblock

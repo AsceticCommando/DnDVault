@@ -10,7 +10,7 @@ aliases:
 # Chapter 4: Sword of Zariel
 *Source: Baldur's Gate: Descent Into Avernus, p. 134* 
 
-![](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/091-ojqdd-04-01.webp#center)
+![](file://adventure/BGDIA/091-ojqdd-04-01.webp#center)
 
 The characters should be 11th level by the time they discover the location of the [Sword of Zariel](3-Mechanics/CLI/items/sword-of-zariel-bgdia.md). The weapon awaits them in a cathedral formed out of positive energy. Avernus abhors the structure and has surrounded it in a bloody scab, earning it the name the Bleeding Citadel. This scab has also engulfed a demon named [Crokek'toeck](3-Mechanics/CLI/bestiary/npc/crokektoeck-bgdia.md) that was sent by the demon lord Yeenoghu to devour the blade. The holy power of the citadel resists the scab's attempts to fully engulf it and make it one with Avernus, leaving the top of the citadel visible. The characters get directions to this location from [Bel](3-Mechanics/CLI/bestiary/npc/bel-bgdia.md) or Olanthius in chapter 3.
 
@@ -25,7 +25,7 @@ As the characters approach the Bleeding Citadel, read or paraphrase the followin
 > A great, disgusting scab the size of a large hill rises up from a stinking swamp of blood. The domed top of an alabaster temple pokes through the scab. Many black iron chains of Avernus converge on the building, attaching within the grotesque mound.
 ^2c1
 
-![Diagram 4.1: Chapter 4 Flowchart](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/092-nerf8-flowchart-4-1.webp#center)
+![Diagram 4.1: Chapter 4 Flowchart](file://adventure/BGDIA/092-nerf8-flowchart-4-1.webp#center)
 
 The exposed portions of the Bleeding Citadel are impenetrable and indestructible. If [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) is with the characters, she shares her fear that the scab will eventually cover the entire structure, whereupon the citadel will be absorbed into the Nine Hells and the [Sword of Zariel](3-Mechanics/CLI/items/sword-of-zariel-bgdia.md) lost forever. She also tells the characters that the only entrance to the citadel is covered by the lower portion of the scab.
 
@@ -49,7 +49,7 @@ Map 4.1 shows a cross-section of the scab interior, the features of which are as
 
 **Interior Surfaces**. All tunnels and chambers were dug out by demons using their claws or, in some cases, their teeth.
 
-**Pools of Blood**. Pools of blood fill the areas shown on map 4.1. The pools are difficult terrain. Any humanoid that enters or starts its turn in a pool must make a DC 13 Wisdom saving throw. On a failed save, the creature gains the flaw, "I am cruel and uncaring toward others," for the next 8 hours. This flaw overrides any conflicting personality trait. A [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good.md) spell or similar magic removes the flaw.
+**Pools of Blood**. Pools of blood fill the areas shown on map 4.1. The pools are difficult terrain. Any humanoid that enters or starts its turn in a pool must make a DC 13 Wisdom saving throw. On a failed save, the creature gains the flaw, "I am cruel and uncaring toward others," for the next 8 hours. This flaw overrides any conflicting personality trait. A [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md) spell or similar magic removes the flaw.
 
 **Tunnel Dimensions**. Unless noted otherwise, tunnels are 10 feet wide. At various points, the ceilings are so low that Medium characters must crawl to pass underneath them.
 
@@ -77,7 +77,7 @@ Demons digging in this tunnel exposed a 20-foot-tall, 5-foot-wide window:
 > The scab on one side of this narrow passage is stripped away, partially revealing one of the citadel's stained glass windows. The opaque blue and yellow panes depict the contemplative face of a beautiful angel.
 ^2c9
 
-A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals that the window radiates an aura of abjuration magic. The window is unbreakable, and no one can enter the citadel from here. Any creature of good alignment that touches the window gains 20 temporary hit points. A creature affected by the window's magic cannot be affected by the window again for 24 hours.
+A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals that the window radiates an aura of abjuration magic. The window is unbreakable, and no one can enter the citadel from here. Any creature of good alignment that touches the window gains 20 temporary hit points. A creature affected by the window's magic cannot be affected by the window again for 24 hours.
 
 #### S3. Drowned Hag
 
@@ -103,9 +103,9 @@ When the characters enter this 40-foot-wide chamber, read the following boxed te
 > Blood streams down from a gaping wound in the ceiling, filling a large pool that covers the floor of this chamber. A hunk of scab floats in the blood.
 ^2ce
 
-Three [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) [barlguras](3-Mechanics/CLI/bestiary/fiend/barlgura.md) cling to the walls of this chamber, their claws digging into the soft walls. The demons wait for prey to enter the room before attacking. They hungrily pursue more elusive prey.
+Three [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) [barlguras](3-Mechanics/CLI/bestiary/fiend/barlgura-xmm.md) cling to the walls of this chamber, their claws digging into the soft walls. The demons wait for prey to enter the room before attacking. They hungrily pursue more elusive prey.
 
-The barlguras tore the floating chunk of scab from the center of the ceiling, causing blood to pour out of the wound. A character who expends five uses of a [healer's kit](3-Mechanics/CLI/items/healers-kit.md) and succeeds on a DC 15 Wisdom ([Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)) check bandages the wound effectively enough to stop the downpour. This process takes 5 minutes and exposes the character to the blood's effects (see "Interior Features"). A [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md) spell or similar magic cast on the wound closes it, stanching the blood flow.
+The barlguras tore the floating chunk of scab from the center of the ceiling, causing blood to pour out of the wound. A character who expends five uses of a [healer's kit](3-Mechanics/CLI/items/healers-kit-xphb.md) and succeeds on a DC 15 Wisdom ([Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)) check bandages the wound effectively enough to stop the downpour. This process takes 5 minutes and exposes the character to the blood's effects (see "Interior Features"). A [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md) spell or similar magic cast on the wound closes it, stanching the blood flow.
 
 #### S5. Food Fight
 
@@ -116,11 +116,11 @@ When the characters enter this 30-foot-wide chamber, read the following boxed te
 > Two fiends resembling scaly, 9-foot-tall, bipedal toads stand waist-deep in a pool of blood, bellowing as they claw at each other. Floating near them is the half-eaten corpse of a bearded devil clutching a glaive. The pool is 20 feet wide and 40 feet long, with a horseshoe-shaped ledge around it.
 ^2d0
 
-Two hungry [hezrous](3-Mechanics/CLI/bestiary/fiend/hezrou.md) fight over the devil's tasty corpse. Unless they notice the characters, the demons battle until one of them is killed. If the characters allow the fight to play out, one hezrou emerges victorious with 30 hit points remaining. Characters have advantage on Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) checks made to sneak past the hezrous while the demons fight each other.
+Two hungry [hezrous](3-Mechanics/CLI/bestiary/fiend/hezrou-xmm.md) fight over the devil's tasty corpse. Unless they notice the characters, the demons battle until one of them is killed. If the characters allow the fight to play out, one hezrou emerges victorious with 30 hit points remaining. Characters have advantage on Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) checks made to sneak past the hezrous while the demons fight each other.
 
 ##### Treasure
 
-The half-eaten bearded devil clutches a [+1 glaive](3-Mechanics/CLI/items/1-weapon.md).
+The half-eaten bearded devil clutches a [+1 glaive](3-Mechanics/CLI/items/1-weapon-xdmg.md).
 
 #### S6. Torture Chamber
 
@@ -131,7 +131,7 @@ When the characters enter this large, 30-foot-wide chamber, read the following b
 > Two iron chains attached to the ceiling end in hyena skulls that bite into the flesh of a screaming devil with sharp spines covering its thin, man-sized body. Jabbing the chained fiend with their long proboscises are three droning flies as big as horses.
 ^2d3
 
-The chained fiend is Alazub, a [barbed devil](3-Mechanics/CLI/bestiary/fiend/barbed-devil.md) with 25 hit points remaining. The giant flies are three [chasmes](3-Mechanics/CLI/bestiary/fiend/chasme.md). Characters who enter the chamber are susceptible to the chasmes' Drone trait. The chasmes cease their torture of Alazub to attack intruders.
+The chained fiend is Alazub, a [barbed devil](3-Mechanics/CLI/bestiary/fiend/barbed-devil-xmm.md) with 25 hit points remaining. The giant flies are three [chasmes](3-Mechanics/CLI/bestiary/fiend/chasme-xmm.md). Characters who enter the chamber are susceptible to the chasmes' Drone trait. The chasmes cease their torture of Alazub to attack intruders.
 
 Trantolox caught Alazub sneaking around the scab and wants to know if the devil knows anything about the citadel that could help the demons break into it. Unfortunately for the barbed devil, it knows nothing that the nalfeshnee would consider useful.
 
@@ -139,13 +139,13 @@ Trantolox caught Alazub sneaking around the scab and wants to know if the devil 
 
 The two chains that bind Alazub hold the barbed devil 25 feet above the floor. Each chain has AC 19, 15 hit points, and immunity to cold, fire, poison, and psychic damage.
 
-The hyena skull at the end of each chain grips Alazub by one arm, biting into the devil's flesh. A character can use an action to rip a skull from Alazub's flesh, but doing so deals 7 (`2d6`) piercing damage to the devil. This damage is considered magical and therefore ignores Alazub's resistance to piercing damage. A character who succeeds on a DC 15 Wisdom ([Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)) check removes the skull-tipped chain from the devil without harming it.
+The hyena skull at the end of each chain grips Alazub by one arm, biting into the devil's flesh. A character can use an action to rip a skull from Alazub's flesh, but doing so deals `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) piercing damage to the devil. This damage is considered magical and therefore ignores Alazub's resistance to piercing damage. A character who succeeds on a DC 15 Wisdom ([Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)) check removes the skull-tipped chain from the devil without harming it.
 
 ##### Roleplaying Alazub
 
 Alazub came to the scab to spy on Trantolox's progress for Zariel. If Alazub is freed, a character who makes a successful Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception)) check against Alazub's Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check can convince the devil that Zariel sent the characters to save it. If convinced that the characters are on its side, a character who makes a successful DC 15 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check convinces Alazub to share the following information:
 
-- Demons under the command of a [nalfeshnee](3-Mechanics/CLI/bestiary/fiend/nalfeshnee.md) named Trantolox have found the entrance to the Bleeding Citadel but can't break in (see area S14).  
+- Demons under the command of a [nalfeshnee](3-Mechanics/CLI/bestiary/fiend/nalfeshnee-xmm.md) named Trantolox have found the entrance to the Bleeding Citadel but can't break in (see area S14).  
 - A shadow demon has found Yeenoghu's lost pet, the great demon [Crokek'toeck](3-Mechanics/CLI/bestiary/npc/crokektoeck-bgdia.md), in the hard part of the scab. It leads the crew of demons that is digging out the enormous creature (see area S9).  
 
 If the characters refuse to free Alazub, the barbed devil tries to make a deal. It can offer the information it knows or anything else within its power in exchange for freedom. If [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) is with the characters, she urges the characters not to make any deals with the devil and grows despondent if her advice is ignored. [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) refuses to do anything but the bare minimum to help the characters until her confidence in their good judgment is restored.
@@ -163,11 +163,11 @@ When the characters enter this 20-foot-wide cavern, read the following boxed tex
 
 Close examination of the mutilated corpses reveals that they include three bearded devils, two barbed devils, and a bone devil. All of the corpses are torn to pieces and, in some cases, partially eaten.
 
-The first time a creature that isn't a fiend tries to cross this room, the flies gather into four hostile [swarms of insects](3-Mechanics/CLI/bestiary/beast/swarm-of-insects.md). Replace the swarms' climbing speed with a flying speed of 30 feet.
+The first time a creature that isn't a fiend tries to cross this room, the flies gather into four hostile [swarms of insects](3-Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm.md). Replace the swarms' climbing speed with a flying speed of 30 feet.
 
 > [!gallery]
-> ![Map 4.1: Side View of the Scab](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/093-p7lnx-map-4-1.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/094-q5hof-map-4-1-player.webp#gallery)
+> ![Map 4.1: Side View of the Scab](file://adventure/BGDIA/093-p7lnx-map-4-1.webp#gallery)
+> ![Player Version](file://adventure/BGDIA/094-q5hof-map-4-1-player.webp#gallery)
 
 #### S8. Hag's Lair
 
@@ -182,9 +182,9 @@ Yiggleblight the night hag used this chamber as a lair until she was rudely disp
 
 ##### Treasure
 
-A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals six magic items in the niches, including a black sack made of stitched flesh, a lustrous black gem shaped like a human baby's fist, an [iron flask](3-Mechanics/CLI/items/iron-flask.md) containing a berserk [fiendish flesh golem](3-Mechanics/CLI/bestiary/construct/fiendish-flesh-golem-bgdia.md) that can't be controlled, and three [soul coins](3-Mechanics/CLI/items/soul-coin-bgdia.md). The sack is Yiggleblight's *soul bag*, which is of no use to the characters. The black gem is the night hag's *heartstone*. (For more information on these two magic items, see the "[Night Hag](3-Mechanics/CLI/bestiary/fiend/night-hag.md)" entry in the "Monster Manual".)
+A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals six magic items in the niches, including a black sack made of stitched flesh, a lustrous black gem shaped like a human baby's fist, an [iron flask](3-Mechanics/CLI/items/iron-flask-xdmg.md) containing a berserk [fiendish flesh golem](3-Mechanics/CLI/bestiary/construct/fiendish-flesh-golem-bgdia.md) that can't be controlled, and three [soul coins](3-Mechanics/CLI/items/soul-coin-bgdia.md). The sack is Yiggleblight's *soul bag*, which is of no use to the characters. The black gem is the night hag's *heartstone*. (For more information on these two magic items, see the "[Night Hag](3-Mechanics/CLI/bestiary/fiend/night-hag-xmm.md)" entry in the "Monster Manual".)
 
-Yiggleblight also kept a collection of poisons in six small, stoppered tubes made from human finger bones. Each flask holds a single dose of a different kind of poison: [Burnt Othur Fumes](3-Mechanics/CLI/items/burnt-othur-fumes.md), [Carrion Crawler Mucus](3-Mechanics/CLI/items/carrion-crawler-mucus.md), [Essence of Ether](3-Mechanics/CLI/items/essence-of-ether.md), [Malice](3-Mechanics/CLI/items/malice.md), [Oil of Taggit](3-Mechanics/CLI/items/oil-of-taggit.md), and [Torpor](3-Mechanics/CLI/items/torpor.md) (see ""Poisons"" in chapter 8 of the "Dungeon Master's Guide" for the effects of each). A character with a [poisoner's kit](3-Mechanics/CLI/items/poisoners-kit.md) can use it to take tiny samples of each poison for analysis. After spending 1 minute analyzing a poison, the character can identify it and its effects with a successful DC 15 Intelligence ([Nature](3-Mechanics/CLI/rules/skills.md#Nature)) check. The character's proficiency bonus applies to the check if the character is proficient with the [poisoner's kit](3-Mechanics/CLI/items/poisoners-kit.md).
+Yiggleblight also kept a collection of poisons in six small, stoppered tubes made from human finger bones. Each flask holds a single dose of a different kind of poison: [Burnt Othur Fumes](3-Mechanics/CLI/items/burnt-othur-fumes-xdmg.md), [Carrion Crawler Mucus](3-Mechanics/CLI/items/carrion-crawler-mucus-xdmg.md), [Essence of Ether](3-Mechanics/CLI/items/essence-of-ether-xdmg.md), [Malice](3-Mechanics/CLI/items/malice-xdmg.md), [Oil of Taggit](3-Mechanics/CLI/items/oil-of-taggit-xdmg.md), and [Torpor](3-Mechanics/CLI/items/torpor-xdmg.md) (see ""Poisons"" in chapter 8 of the "Dungeon Master's Guide" for the effects of each). A character with a [poisoner's kit](3-Mechanics/CLI/items/poisoners-kit-xphb.md) can use it to take tiny samples of each poison for analysis. After spending 1 minute analyzing a poison, the character can identify it and its effects with a successful DC 15 Intelligence ([Nature](3-Mechanics/CLI/rules/skills.md#Nature)) check. The character's proficiency bonus applies to the check if the character is proficient with the [poisoner's kit](3-Mechanics/CLI/items/poisoners-kit-xphb.md).
 
 The only other valuable items are three 3-pound orbs of polished obsidian (100 gp each) that can be used as arcane focuses for spellcasting.
 
@@ -203,7 +203,7 @@ When the characters enter this 20-foot-wide chamber, read the following boxed te
 
 If [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) is with the characters, she senses the presence of [Crokek'toeck](3-Mechanics/CLI/bestiary/npc/crokektoeck-bgdia.md) nearby (see area S10). She tells the characters about Yeenoghu's pet and speculates that the demons are trying to free [Crokek'toeck](3-Mechanics/CLI/bestiary/npc/crokektoeck-bgdia.md).
 
-Vatilan, a [shadow demon](3-Mechanics/CLI/bestiary/fiend/shadow-demon.md), directs seven [dretches](3-Mechanics/CLI/bestiary/fiend/dretch.md) to dig their way toward area S10. The shadow demon found [Crokek'toeck](3-Mechanics/CLI/bestiary/npc/crokektoeck-bgdia.md) while scouting the scab using its Incorporeal Movement trait. If the characters attack, the shadow demon leaves the dretches behind as it passes through the nearest wall and heads to area S14 to warn Trantolox that intruders are near. Vatilan remains by the nalfeshnee's side until convinced that the intruders have been dealt with.
+Vatilan, a [shadow demon](3-Mechanics/CLI/bestiary/fiend/shadow-demon-xmm.md), directs seven [dretches](3-Mechanics/CLI/bestiary/fiend/dretch-xmm.md) to dig their way toward area S10. The shadow demon found [Crokek'toeck](3-Mechanics/CLI/bestiary/npc/crokektoeck-bgdia.md) while scouting the scab using its Incorporeal Movement trait. If the characters attack, the shadow demon leaves the dretches behind as it passes through the nearest wall and heads to area S14 to warn Trantolox that intruders are near. Vatilan remains by the nalfeshnee's side until convinced that the intruders have been dealt with.
 
 #### S10. Crokek'toeck's Prison
 
@@ -222,13 +222,13 @@ When the characters enter this 40-foot-wide chamber, read the following boxed te
 > A nine-foot-tall statue of a hulking biped with clawed hands and feet stands on the floor of this chamber. Three vulture-like demons and six gnolls cackle as they dance around the statue.
 ^2df
 
-Three [vrocks](3-Mechanics/CLI/bestiary/fiend/vrock.md) and six [gnolls](3-Mechanics/CLI/bestiary/humanoid/gnoll.md) dance around the statue, reveling in their evil madness. The vrocks are quick to use their spores, even if it means infecting their gnoll allies. The demons and gnolls fight to the death.
+Three [vrocks](3-Mechanics/CLI/bestiary/fiend/vrock-xmm.md) and six [gnolls](3-Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm.md) dance around the statue, reveling in their evil madness. The vrocks are quick to use their spores, even if it means infecting their gnoll allies. The demons and gnolls fight to the death.
 
-The statue is carved out of hardened scab. A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals that it radiates an aura of evocation magic. Any demon or gnoll with at least 1 hit point remaining that starts its turn within 30 feet of the statue regains 10 hit points.
+The statue is carved out of hardened scab. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals that it radiates an aura of evocation magic. Any demon or gnoll with at least 1 hit point remaining that starts its turn within 30 feet of the statue regains 10 hit points.
 
 If [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) is with the characters, she recognizes that the statue is a crude likeness of Yeenoghu and encourages the characters to destroy it.
 
-The statue is a Large object with AC 17, 60 hit points, and immunity to poison and psychic damage. If the statue is destroyed, it explodes. Each creature within 30 feet of the exploding statue must make a DC 15 Dexterity saving throw, taking 22 (`4d10`) piercing damage on a failed save, or half as much damage on a successful one.
+The statue is a Large object with AC 17, 60 hit points, and immunity to poison and psychic damage. If the statue is destroyed, it explodes. Each creature within 30 feet of the exploding statue must make a DC 15 Dexterity saving throw, taking `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) piercing damage on a failed save, or half as much damage on a successful one.
 
 #### S12. Trantolox's Chamber
 
@@ -243,13 +243,13 @@ Creatures who examine the bones and offal closely notice a stoppered bottle in t
 
 ##### Treasure
 
-The bottle is a [eversmoking bottle](3-Mechanics/CLI/items/eversmoking-bottle.md).
+The bottle is a [eversmoking bottle](3-Mechanics/CLI/items/eversmoking-bottle-xdmg.md).
 
 #### S13. Cackling Gnolls
 
 Characters hear the cackling of gnolls as they enter this corridor. They can surprise the gnolls by dousing their lights and succeeding on a DC 10 group Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) check.
 
-Targ Nar, a [gnoll fang of Yeenoghu](3-Mechanics/CLI/bestiary/fiend/gnoll-fang-of-yeenoghu.md) with 100 hit points, is here with a gang of fifteen [gnolls](3-Mechanics/CLI/bestiary/humanoid/gnoll.md). Targ Nar obeys Trantolox, who has ordered him to guard the corridor. To pass the time, the gnolls are tossing around the severed head of one of their fellow gnolls, whom Trantolox decapitated on a whim.
+Targ Nar, a [gnoll fang of Yeenoghu](3-Mechanics/CLI/bestiary/fiend/gnoll-fang-of-yeenoghu-xmm.md) with 100 hit points, is here with a gang of fifteen [gnolls](3-Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm.md). Targ Nar obeys Trantolox, who has ordered him to guard the corridor. To pass the time, the gnolls are tossing around the severed head of one of their fellow gnolls, whom Trantolox decapitated on a whim.
 
 #### S14. Entrance to the Bleeding Citadel
 
@@ -260,7 +260,7 @@ When the characters arrive at this 40-foot-wide area, read the following boxed t
 > Brass double doors stand exposed in the wall of the scab. A relief image on the doors depicts a blindfolded angel wielding a sword, and carved into the door frame are beautiful, gold-inlaid runes. Three goat-headed demons with barbed tails throw themselves against the door as a corpulent, ape-like fiend with tusks and tiny wings kicks at them, roaring commands in Abyssal.
 ^2e5
 
-Trantolox, a [nalfeshnee](3-Mechanics/CLI/bestiary/fiend/nalfeshnee.md), is commanding three [bulezaus](3-Mechanics/CLI/bestiary/fiend/bulezau-mpmm.md) to force open the double door that leads into the Bleeding Citadel. The nalfeshnee is desperate to get inside to claim the [Sword of Zariel](3-Mechanics/CLI/items/sword-of-zariel-bgdia.md) for Yeenoghu. Despite the bulezaus' best efforts, the doors refuse to budge (see "Doors" below).
+Trantolox, a [nalfeshnee](3-Mechanics/CLI/bestiary/fiend/nalfeshnee-xmm.md), is commanding three [bulezaus](3-Mechanics/CLI/bestiary/fiend/bulezau-mpmm.md) to force open the double door that leads into the Bleeding Citadel. The nalfeshnee is desperate to get inside to claim the [Sword of Zariel](3-Mechanics/CLI/items/sword-of-zariel-bgdia.md) for Yeenoghu. Despite the bulezaus' best efforts, the doors refuse to budge (see "Doors" below).
 
 The nalfeshnee doesn't attack the characters right away if it thinks it can trick them into opening the doors for it. The nalfeshnee suggests an alliance and an "equal split" of whatever treasure is hidden inside the citadel. If [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) is with the characters, she strongly advises them not to trust the demon. Trantolox has no intention of honoring the deal and claims to know nothing about the [Sword of Zariel](3-Mechanics/CLI/items/sword-of-zariel-bgdia.md). In battle, the nalfeshnee fights until reduced to 60 hit points, then tries to flee the scab and report back to Yeenoghu. The insane bulezaus fight to the death.
 
@@ -268,15 +268,15 @@ The nalfeshnee doesn't attack the characters right away if it thinks it can tric
 
 The doors, like the citadel itself, are indestructible. The runes around them say, in Celestial: "Against evil, we stand united. Only the pure of heart can part these holy gates."
 
-A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals an aura of abjuration magic around the double door, which can be opened only by a creature of good alignment while [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) is within 60 feet of the door. [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) herself can open the doors, if need be. If [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) is alive but not present when the characters try to enter the citadel, the doors remain locked. The characters receive a telepathic message from an unfamiliar female voice, saying, "Bring [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) here, and I'll let you inside." Only when the characters return with [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) can the doors be opened. If [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) died earlier in the adventure, she's waiting for them inside the citadel, just beyond the doors.
+A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of abjuration magic around the double door, which can be opened only by a creature of good alignment while [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) is within 60 feet of the door. [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) herself can open the doors, if need be. If [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) is alive but not present when the characters try to enter the citadel, the doors remain locked. The characters receive a telepathic message from an unfamiliar female voice, saying, "Bring [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) here, and I'll let you inside." Only when the characters return with [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) can the doors be opened. If [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) died earlier in the adventure, she's waiting for them inside the citadel, just beyond the doors.
 
-When the doors open, a bright white light pours out, filling area S14. Any fiend or undead that enters or starts its turn in the light must succeed on a DC 22 Constitution saving throw, taking 44 (`8d10`) radiant damage on a failed save, or half as much damage on a successful one. Fiends and undead can't pass through the doorway of the citadel even while the doors are open.
+When the doors open, a bright white light pours out, filling area S14. Any fiend or undead that enters or starts its turn in the light must succeed on a DC 22 Constitution saving throw, taking `dice:8d10|noform|noparens|avg|text(44)` (`8d10`) radiant damage on a failed save, or half as much damage on a successful one. Fiends and undead can't pass through the doorway of the citadel even while the doors are open.
 
 ##### Character Advancement
 
 Allow players to advance their characters from 11th to 12th level before they enter the Bleeding Citadel.
 
-![](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/095-zfnvo-04-02.webp#center)
+![](file://adventure/BGDIA/095-zfnvo-04-02.webp#center)
 
 ## Entering the Citadel
 
@@ -300,7 +300,7 @@ If [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) died earlier in the advent
 
 [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) has all her hit points if she's restored to life by the citadel's magic. However, she has no memories between the time the characters last saw her and now.
 
-The holy power of the citadel restores the characters, and they gain the benefits of a long rest. If a creature gained a flaw from a blood pool or similar effect, the flaw is removed. Casting [detect magic](3-Mechanics/CLI/spells/detect-magic.md) in the Bleeding Citadel reveals that the whole structure radiates auras of abjuration and evocation magic.
+The holy power of the citadel restores the characters, and they gain the benefits of a long rest. If a creature gained a flaw from a blood pool or similar effect, the flaw is removed. Casting [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) in the Bleeding Citadel reveals that the whole structure radiates auras of abjuration and evocation magic.
 
 The interior of the citadel is one large alabaster chamber brightly lit by magically created sunlight shining through windows. The sword atop the dais is the [Sword of Zariel](3-Mechanics/CLI/items/sword-of-zariel-bgdia.md) (see Appendix C). The carvings on the dais read, in Celestial, "The hero who becomes one with this blade exists no longer."
 
@@ -338,17 +338,17 @@ The town of Idyllglen has the following general features.
 
 The characters are confined to the part of Idyllglen shown on map 4.2. Beyond the edges of the map, everything is engulfed in a smoky haze. Characters who fly or levitate to an altitude of 120 feet or higher find themselves engulfed in a similar smoky haze.
 
-A creature that enters or starts its turn in the haze must make a DC 15 Wisdom saving throw, taking 22 (`4d10`) psychic damage on a failed save, or half as much damage on a successful one.
+A creature that enters or starts its turn in the haze must make a DC 15 Wisdom saving throw, taking `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) psychic damage on a failed save, or half as much damage on a successful one.
 
 #### Burning Buildings
 
 The unlabeled buildings on map 4.2 are homes and businesses that the gnolls have set ablaze. The buildings' supplies were taken by fleeing townsfolk or ransacked by Yeenoghu's horde. Each building is one or two stories tall (DM's choice) and 10 feet high per story. The interior rooms of the buildings have 9-foot-high ceilings with 8-foot-high doorways connecting them. A character can climb the walls of a building without equipment by succeeding on a DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check.
 
-A creature that starts its turn in or on a burning building must make a DC 15 Constitution saving throw, taking 10 (`3d6`) fire damage on a failed save, or half as much damage on a successful one.
+A creature that starts its turn in or on a burning building must make a DC 15 Constitution saving throw, taking `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) fire damage on a failed save, or half as much damage on a successful one.
 
 #### Burning Trees
 
-Each tree depicted on map 4.2 is `1d6 + 10` feet tall and on fire. No ability check is required to climb a tree. However, a creature that starts its turn in a burning tree must make a DC 15 Constitution saving throw, taking 10 (`3d6`) fire damage on a failed save, or half as much damage on a successful one.
+Each tree depicted on map 4.2 is `dice:1d6+10|noform|noparens|avg` (`1d6 + 10`) feet tall and on fire. No ability check is required to climb a tree. However, a creature that starts its turn in a burning tree must make a DC 15 Constitution saving throw, taking `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) fire damage on a failed save, or half as much damage on a successful one.
 
 #### Townsfolk
 
@@ -363,8 +363,8 @@ The Idyllglen memory is as real to the characters as any location, and they can 
 ### Idyllglen Locations
 
 > [!gallery]
-> ![Map 4.2: Idyllglen](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/096-dj9yv-map-4-2.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/097-ijryu-map-4-2-player.webp#gallery)
+> ![Map 4.2: Idyllglen](file://adventure/BGDIA/096-dj9yv-map-4-2.webp#gallery)
+> ![Player Version](file://adventure/BGDIA/097-ijryu-map-4-2-player.webp#gallery)
 
 The following locations are keyed to map 4.2.
 
@@ -376,23 +376,23 @@ Idyll Road is the only paved street in Idyllglen. It leads from the west edge of
 
 This 30-foot-tall, white marble statue stands atop a 2-foot-high raised dais and depicts an armored, blindfolded angel in a calm, protective stance, with her sword drawn and wings unfurled. The dais is carved with the following words, in Common: "Zariel, guardian of Idyllglen. Offer prayers to Lathander, and his light will shield thee."
 
-This statue of Zariel is a Gargantuan object with AC 17, 300 hit points, a damage threshold of 15, and immunity to poison, psychic, and radiant damage. A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals that the statue radiates an aura of abjuration magic.
+This statue of Zariel is a Gargantuan object with AC 17, 300 hit points, a damage threshold of 15, and immunity to poison, psychic, and radiant damage. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals that the statue radiates an aura of abjuration magic.
 
-Any fiend that starts its turn within 15 feet of the statue causes it to flare with radiant energy. Each time the statue flares, every fiend within 30 feet of it must make a DC 15 Constitution saving throw, taking 18 (`4d8`) radiant damage on a failed save, or half as much damage on a successful one.
+Any fiend that starts its turn within 15 feet of the statue causes it to flare with radiant energy. Each time the statue flares, every fiend within 30 feet of it must make a DC 15 Constitution saving throw, taking `dice:4d8|noform|noparens|avg|text(18)` (`4d8`) radiant damage on a failed save, or half as much damage on a successful one.
 
-Any character who touches the statue and uses an action to offer a prayer to Lathander gains the benefit of a [protection from evil and good](3-Mechanics/CLI/spells/protection-from-evil-and-good.md) spell for 1 hour. A character can gain this benefit only once while in the memory.
+Any character who touches the statue and uses an action to offer a prayer to Lathander gains the benefit of a [protection from evil and good](3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md) spell for 1 hour. A character can gain this benefit only once while in the memory.
 
 #### I3. Temple of Lathander
 
 This two-story, white stone temple carved with images of the sun on its exterior walls is the largest building in the town. Iron shutters cover the building's windows, and its doors are made of oak. The temple's occupants and features are discussed more below.
 
-**Occupants**. Jhessa Brightstar, a neutral good female human [priest](3-Mechanics/CLI/bestiary/humanoid/priest.md) of Lathander, leads a congregation of fifty townsfolk ([commoners](3-Mechanics/CLI/bestiary/humanoid/commoner.md)) in prayer on the first floor. If forced into combat, the commoners take the [Dodge](3-Mechanics/CLI/rules/actions.md#Dodge) action. The townsfolk are terrified of Yeenoghu's forces and grateful for any aid the characters provide.
+**Occupants**. Jhessa Brightstar, a neutral good female human [priest](3-Mechanics/CLI/bestiary/humanoid/priest-xmm.md) of Lathander, leads a congregation of fifty townsfolk ([commoners](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) in prayer on the first floor. If forced into combat, the commoners take the [Dodge](3-Mechanics/CLI/rules/actions.md#Dodge) action. The townsfolk are terrified of Yeenoghu's forces and grateful for any aid the characters provide.
 
 **Illumination**. Torches burning in sconces brightly light the temple's interior.
 
 **Barred Entrance**. An oak double door serves as the temple's entrance and is barred from the inside. A creature can use an action to try to force open the doors from the outside, doing so with a successful DC 22 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. A character can also convince the congregation to open the doors by shouting through the doors and succeeding on a DC 15 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check.
 
-**Shuttered Windows**. All windows are covered with locked iron shutters. The iron shutters are latched from the inside and have AC 19, 25 hit points, a damage threshold of 10, and immunity to poison and psychic damage. A character with [thieves' tools](3-Mechanics/CLI/items/thieves-tools.md) can try to unlock a window's shutters, doing so with a successful DC 15 Dexterity check.
+**Shuttered Windows**. All windows are covered with locked iron shutters. The iron shutters are latched from the inside and have AC 19, 25 hit points, a damage threshold of 10, and immunity to poison and psychic damage. A character with [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md) can try to unlock a window's shutters, doing so with a successful DC 15 Dexterity check.
 
 ##### Roleplaying Jhessa Brightstar
 
@@ -408,10 +408,10 @@ The following events occur in sequence as soon as the characters arrive in Idyll
 
 When the characters arrive in Idyllglen (at area I1), the following encounters occur simultaneously:
 
-- Six [gnolls](3-Mechanics/CLI/bestiary/humanoid/gnoll.md) surround and attack the characters.  
-- Six [dretches](3-Mechanics/CLI/bestiary/fiend/dretch.md) on Idyll Road (area I1) claw at an overturned cart covering Ella Deepwell, a neutral female human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md).  
-- A [giant hyena](3-Mechanics/CLI/bestiary/beast/giant-hyena.md) attacks a [mastiff](3-Mechanics/CLI/bestiary/beast/mastiff.md) near the statue of Zariel (area I2).  
-- A [hezrou](3-Mechanics/CLI/bestiary/fiend/hezrou.md) pounds on the door to the temple of Lathander (area I3), trying to force its way inside.  
+- Six [gnolls](3-Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm.md) surround and attack the characters.  
+- Six [dretches](3-Mechanics/CLI/bestiary/fiend/dretch-xmm.md) on Idyll Road (area I1) claw at an overturned cart covering Ella Deepwell, a neutral female human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md).  
+- A [giant hyena](3-Mechanics/CLI/bestiary/beast/giant-hyena-xmm.md) attacks a [mastiff](3-Mechanics/CLI/bestiary/beast/mastiff-xmm.md) near the statue of Zariel (area I2).  
+- A [hezrou](3-Mechanics/CLI/bestiary/fiend/hezrou-xmm.md) pounds on the door to the temple of Lathander (area I3), trying to force its way inside.  
 
 Have the players roll initiative for their characters, then roll initiative for the gnolls, dretches, giant hyena, mastiff, and hezrou. All the gnolls act on the same initiative count, and all the dretches act together as well. Ella doesn't participate in the combat.
 
@@ -450,7 +450,7 @@ This event overlaps with the end of the previous event. When it begins, read the
 > A chorus of screams rises up as people, sheep, and pigs scamper through the town, chased by a demon with the lower body of a great serpent and the upper body of a six-armed gnoll clutching a wicked sword in each of its clawed hands.
 ^302
 
-The terrified animals and townsfolk dart through Idyllglen, chased by Garoknul, a unique demon in the service of Yeenoghu. Use the [marilith](3-Mechanics/CLI/bestiary/fiend/marilith.md) stat block to represent Garoknul. The fleeing beasts and townsfolk disappear when they reach the edge of the map. Garoknul stops its chase to battle the characters. If reduced to 50 hit points or fewer, Garoknul uses its next action to teleport away.
+The terrified animals and townsfolk dart through Idyllglen, chased by Garoknul, a unique demon in the service of Yeenoghu. Use the [marilith](3-Mechanics/CLI/bestiary/fiend/marilith-xmm.md) stat block to represent Garoknul. The fleeing beasts and townsfolk disappear when they reach the edge of the map. Garoknul stops its chase to battle the characters. If reduced to 50 hit points or fewer, Garoknul uses its next action to teleport away.
 
 ##### Next Event
 
@@ -465,11 +465,11 @@ This event begins as the previous one ends. Read the following boxed text to the
 > Five guards wielding spears advance from the north. Splattered head-to-toe with black ichor, they gaze at you with hungry eyes.
 ^305
 
-The five human [guards](3-Mechanics/CLI/bestiary/humanoid/guard.md) are named Caladra Telmaster, Esselyn Xharn, Jai Wen, Tal Hannefar, and Yaerklos Summerlast. Their armor is covered in the ichor of Yeenoghu's demons. The ichor has driven the guards mad, making them hunger for humanoid flesh. When they notice the characters, the guards attack.
+The five human [guards](3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) are named Caladra Telmaster, Esselyn Xharn, Jai Wen, Tal Hannefar, and Yaerklos Summerlast. Their armor is covered in the ichor of Yeenoghu's demons. The ichor has driven the guards mad, making them hunger for humanoid flesh. When they notice the characters, the guards attack.
 
 If a character kills a guard, [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md)'s mind attempts to punish the character. That character must succeed on a DC 15 Wisdom saving throw or gain 1 level of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) as [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md)'s mind saps the character's energy.
 
-A guard's madness can be cured with a [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good.md), [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md), or [remove curse](3-Mechanics/CLI/spells/remove-curse.md) spell. Guards who are cured of their madness thank the characters and explain that they were battling demons in the fields when they suddenly felt an overwhelming desire to consume humanoid flesh. These guards are eager to return to the battle in the fields, disappearing as they pass through the hazy border.
+A guard's madness can be cured with a [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md), [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md), or [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md) spell. Guards who are cured of their madness thank the characters and explain that they were battling demons in the fields when they suddenly felt an overwhelming desire to consume humanoid flesh. These guards are eager to return to the battle in the fields, disappearing as they pass through the hazy border.
 
 ##### Next Event
 
@@ -490,7 +490,7 @@ The characters can spend the next hour interacting with [Lulu](3-Mechanics/CLI/b
 
 As this event approaches its end, the characters hear cackling laughter far off in the distance. This laughter gets closer and louder, heralding the arrival of more of Yeenoghu's troops. Proceed with event 5.
 
-![](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/098-heq4h-04-03.webp#center)
+![](file://adventure/BGDIA/098-heq4h-04-03.webp#center)
 
 #### Event 5. Renewed Assault
 
@@ -501,7 +501,7 @@ This event begins as the previous one ends. Read or paraphrase the following box
 > Six demons appear on the western edge of Idyllglen—a hulking, ape-like brute and five small, doglike creatures with rubbery gray bodies and big ears. Cackles in the distance signal more enemies on the way.
 ^30b
 
-A [barlgura](3-Mechanics/CLI/bestiary/fiend/barlgura.md) and five [dretches](3-Mechanics/CLI/bestiary/fiend/dretch.md) appear on the western edge of map 4.2. If these demons notice the characters, they attack. If they don't notice the characters, they attack the temple (area I3), hoping to kill everyone within. At the start of the second round of combat, a [gnoll pack lord](3-Mechanics/CLI/bestiary/humanoid/gnoll-pack-lord.md) and six [gnolls](3-Mechanics/CLI/bestiary/humanoid/gnoll.md) join the fray from the south. At the start of the third round of combat, a [vrock](3-Mechanics/CLI/bestiary/fiend/vrock.md) swoops down from the sky to join the battle.
+A [barlgura](3-Mechanics/CLI/bestiary/fiend/barlgura-xmm.md) and five [dretches](3-Mechanics/CLI/bestiary/fiend/dretch-xmm.md) appear on the western edge of map 4.2. If these demons notice the characters, they attack. If they don't notice the characters, they attack the temple (area I3), hoping to kill everyone within. At the start of the second round of combat, a [gnoll pack lord](3-Mechanics/CLI/bestiary/fiend/gnoll-pack-lord-xmm.md) and six [gnolls](3-Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm.md) join the fray from the south. At the start of the third round of combat, a [vrock](3-Mechanics/CLI/bestiary/fiend/vrock-xmm.md) swoops down from the sky to join the battle.
 
 ##### Next Event
 
@@ -522,7 +522,7 @@ This event overlaps with the end of the previous one. Read the following boxed t
 
 Event 7 begins after three rounds of combat with the demon lord or when Yeenoghu is reduced to 100 hit points or fewer.
 
-![Left to right: Charge of Z...](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/099-ivhcv-04-04.webp#center "Left to right: Charge of Zariel and the Hellriders, the war on Avernus, and Zariel's surrender to Asmodeus")
+![Left to right: Charge of Zariel and the Hellriders, the war on Avernus, and Zariel's surrender to Asmodeus](file://adventure/BGDIA/099-ivhcv-04-04.webp#center)
 
 #### Event 7. Zariel's Arrival
 
@@ -533,17 +533,17 @@ This event overlaps with the end of the previous one. Read the following boxed t
 > The cackling demon lord shuts his maw and narrows his eyes, gazing up toward the sky as a beam of radiant light pierces the haze. A powerful angel streaks down from above, followed by a gold-furred mammoth with feathered wings. The angel slashes her sword across Yeenoghu's chest and utters a spell. A portal opens behind the demon lord as the mammoth rams its head into Yeenoghu. The demon lord is sent tumbling through the portal, which quickly closes behind him.
 ^311
 
-The angel is Zariel (use the [solar](3-Mechanics/CLI/bestiary/celestial/solar.md) stat block), and the winged mammoth is [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) the [hollyphant](3-Mechanics/CLI/bestiary/celestial/hollyphant-bgdia.md) in shapechanged form. After ridding Idyllglen of Yeenoghu, [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) and Zariel introduce themselves to the characters, healing them as best they can. While these introductions happen, the original Hellriders ([knights](3-Mechanics/CLI/bestiary/humanoid/knight.md)) appear on [warhorses](3-Mechanics/CLI/bestiary/beast/warhorse.md) and kill any remaining demons and gnolls. One of these Hellriders, a woman in her thirties with a fresh, deep cut on her cheek, thanks the characters and introduces herself as Yael. She gives a wink before lining up to join the rest of the battalion. The characters might also recognize Olanthius, Haruman, and other original Hellriders they have come across during their travels in Avernus.
+The angel is Zariel (use the [solar](3-Mechanics/CLI/bestiary/celestial/solar-xmm.md) stat block), and the winged mammoth is [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) the [hollyphant](3-Mechanics/CLI/bestiary/celestial/hollyphant-bgdia.md) in shapechanged form. After ridding Idyllglen of Yeenoghu, [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) and Zariel introduce themselves to the characters, healing them as best they can. While these introductions happen, the original Hellriders ([knights](3-Mechanics/CLI/bestiary/humanoid/knight-xmm.md)) appear on [warhorses](3-Mechanics/CLI/bestiary/beast/warhorse-xmm.md) and kill any remaining demons and gnolls. One of these Hellriders, a woman in her thirties with a fresh, deep cut on her cheek, thanks the characters and introduces herself as Yael. She gives a wink before lining up to join the rest of the battalion. The characters might also recognize Olanthius, Haruman, and other original Hellriders they have come across during their travels in Avernus.
 
-Zariel can cast the [resurrection](3-Mechanics/CLI/spells/resurrection.md) spell up to three times. She uses this magic to resurrect as many dead characters as she can.
+Zariel can cast the [resurrection](3-Mechanics/CLI/spells/resurrection-xphb.md) spell up to three times. She uses this magic to resurrect as many dead characters as she can.
 
 As Zariel prepares to lead her forces through the portal into Avernus, all other creatures except for her, [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md), and the characters stop moving and responding as if frozen in time. Zariel turns to the characters and says, "Yeenoghu slaughtered those I swore to protect. I can stop him and others like him. I might have to give up all I stand for, but I could stem the tide of chaos and save many lives from the demonic terrors of the Abyss. Were you in my place, would you risk it all to save others?"
 
-Zariel lets each character answer her question in turn. She thanks them for their responses, then utters a blessing to Lathander over the characters. Characters who answered that they would risk it all as Zariel did each gain a [charm of vitality](3-Mechanics/CLI/rewards/charm-of-vitality.md). Characters who answered that they would not risk it all to stop the demon lords each gain a [charm of restoration](3-Mechanics/CLI/rewards/charm-of-restoration.md). (See ""Charms"" in chapter 7 of the "Dungeon Master's Guide" for the benefits of these supernatural gifts.) Characters who can't or won't answer the question receive nothing.
+Zariel lets each character answer her question in turn. She thanks them for their responses, then utters a blessing to Lathander over the characters. Characters who answered that they would risk it all as Zariel did each gain a [charm of vitality](3-Mechanics/CLI/rewards/charm-of-vitality-xdmg.md). Characters who answered that they would not risk it all to stop the demon lords each gain a [charm of restoration](3-Mechanics/CLI/rewards/charm-of-restoration-xdmg.md). (See ""Charms"" in chapter 7 of the "Dungeon Master's Guide" for the benefits of these supernatural gifts.) Characters who can't or won't answer the question receive nothing.
 
 Once Zariel bestows her supernatural charms, [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md)'s Idyllglen memory ends. A flash of light brings all the characters (including dead ones) back to the Bleeding Citadel so that one of them might finally claim the [Sword of Zariel](3-Mechanics/CLI/items/sword-of-zariel-bgdia.md).
 
-![Left to right: Haruman eme...](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/100-rkst9-04-05.webp#center "Left to right: Haruman emerging from the Styx, Olanthius transformed into a death knight, and both by Zariel's side")
+![Left to right: Haruman emerging from the Styx, Olanthius transformed into a death knight, and both by Zariel's side](file://adventure/BGDIA/100-rkst9-04-05.webp#center)
 
 ## Claiming the Sword
 
@@ -558,7 +558,7 @@ When the characters return to the Bleeding Citadel from [Lulu](3-Mechanics/CLI/b
 
 Any character who survived [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md)'s memory of Idyllglen can pull the [Sword of Zariel](3-Mechanics/CLI/items/sword-of-zariel-bgdia.md) from the dais. Characters who died in Idyllglen are not able to remove the sword from the stone.
 
-Once the sword is removed from its stone, a character can attune to it immediately if the sword deems that character worthy, and attuning to the sword changes the character irrevocably (see the item's description in Appendix C). When a character attunes to the sword, the citadel and the scab around it explode outward in blinding rays of light. Creatures in the scab take 110 (`20d10`) radiant damage and are hurled 1,000 feet away from the sword. Any demons that survive the explosion limp off to lick their wounds. Creatures inside the Bleeding Citadel are unharmed by the explosion and find themselves suddenly under Avernus's red sky.
+Once the sword is removed from its stone, a character can attune to it immediately if the sword deems that character worthy, and attuning to the sword changes the character irrevocably (see the item's description in Appendix C). When a character attunes to the sword, the citadel and the scab around it explode outward in blinding rays of light. Creatures in the scab take `dice:20d10|noform|noparens|avg|text(110)` (`20d10`) radiant damage and are hurled 1,000 feet away from the sword. Any demons that survive the explosion limp off to lick their wounds. Creatures inside the Bleeding Citadel are unharmed by the explosion and find themselves suddenly under Avernus's red sky.
 
 Once a character claims the [Sword of Zariel](3-Mechanics/CLI/items/sword-of-zariel-bgdia.md), Yael's work is done. Her ghost bids the party good luck and fades away as her soul passes into the afterlife.
 

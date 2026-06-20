@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Drow Assassin"
 ---
-# [Drow Assassin](3-Mechanics\CLI\bestiary\humanoid/drow-assassin-oota.md)
+# [Drow Assassin](3-Mechanics/CLI/bestiary/humanoid/drow-assassin-oota.md)
 *Source: Out of the Abyss p. 140*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Neutral Evil"
 "ac": !!int "15"
-"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor.md)"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
 "hp": !!int "78"
 "hit_dice": "12d8 + 24"
 "modifier": !!int "3"
@@ -48,16 +48,17 @@ aliases:
     "desc": "+9"
 "damage_resistances": "poison"
 "gear":
-  - "[light crossbow](3-Mechanics/CLI/items/light-crossbow.md)"
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[light crossbow](3-Mechanics/CLI/items/light-crossbow-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
   \ Perception 13"
 "languages": "Thieves' cant plus any two languages, Elvish, Undercommon"
 "cr": "8"
 "traits":
-  - "desc": "The drow assassin\n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md)\n\
-      \n**1/day each:** [darkness](3-Mechanics/CLI/spells/darkness.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md),\
-      \ [levitate](3-Mechanics/CLI/spells/levitate.md) (self only)"
+  - "desc": "The drow assassin\n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md)\n\
+      \n**1/day each:** [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [faerie\
+      \ fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md), [levitate](3-Mechanics/CLI/spells/levitate-xphb.md)\
+      \ (self only)"
     "name": "Innate Spellcasting"
   - "desc": "During its first turn, the assassin has advantage on attack rolls against\
       \ any creature that hasn't taken a turn. Any hit the assassin scores against\
@@ -92,6 +93,6 @@ aliases:
     "name": "Light Crossbow"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/drow-assassin-oota.webp"
+"image": "file://bestiary/tokens/OotA/Drow%20Assassin.webp"
 ```
 ^statblock

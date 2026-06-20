@@ -12,6 +12,8 @@ aliases:
 
 **Githzerai Flaws**
 
+`dice: [](gith-tables-githzerai-flaws-mtf.md#^githzerai-flaws)`
+
 | dice: d4 | Flaw |
 |----------|------|
 | 1 | I see githyanki machinations behind every threat. |

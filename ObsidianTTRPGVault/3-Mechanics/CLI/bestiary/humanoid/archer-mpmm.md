@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Archer"
 ---
-# [Archer](3-Mechanics\CLI\bestiary\humanoid/archer-mpmm.md)
+# [Archer](3-Mechanics/CLI/bestiary/humanoid/archer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 49, Volo's Guide to Monsters p. 210*  
 
 Archers defend castles, hunt wild game on the fringes of civilization, serve as artillery in military units, and occasionally make good coin as brigands or caravan guards.
@@ -22,6 +22,8 @@ Archers defend castles, hunt wild game on the fringes of civilization, serve as 
 Some renowned archers and groups of archers are known for the special fletching of their arrows. You may roll on the Archer Fletching table to determine the distinctive fletching used by an individual archer or a group of them.
 
 **Archer Fletching**
+
+`dice: [](archer-mpmm.md#^archer-fletching)`
 
 | dice: d12 | Fletching |
 |-----------|-----------|
@@ -45,7 +47,7 @@ Some renowned archers and groups of archers are known for the special fletching 
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor.md)"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
 "hp": !!int "75"
 "hit_dice": "10d8 + 30"
 "modifier": !!int "4"
@@ -63,8 +65,8 @@ Some renowned archers and groups of archers are known for the special fletching 
   - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
 "gear":
-  - "[longbow](3-Mechanics/CLI/items/longbow.md)"
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[longbow](3-Mechanics/CLI/items/longbow-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "passive Perception 15"
 "languages": "any one language (usually Common)"
 "cr": "3"
@@ -84,7 +86,7 @@ Some renowned archers and groups of archers are known for the special fletching 
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/archer-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Archer.webp"
 ```
 ^statblock
 

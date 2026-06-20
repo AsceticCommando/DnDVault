@@ -19,7 +19,7 @@ Carved into the stone of the crypt door are the words "Relentless death follows 
 
 ## Burden
 
-Each character that gains the curse is hunted by a [wraith](3-Mechanics/CLI/bestiary/undead/wraith.md) that appears at sunset and vanishes at dawn, pursuing the single-minded goal of slaying the cursed individual. The wraith manifests in an unoccupied space within 30 feet of its victim. Destroying the wraith grants a temporary reprieve; it doesn't reform for 10 days. You can scale this curse for lower- and higher-level characters by choosing another kind of creature.
+Each character that gains the curse is hunted by a [wraith](3-Mechanics/CLI/bestiary/undead/wraith-xmm.md) that appears at sunset and vanishes at dawn, pursuing the single-minded goal of slaying the cursed individual. The wraith manifests in an unoccupied space within 30 feet of its victim. Destroying the wraith grants a temporary reprieve; it doesn't reform for 10 days. You can scale this curse for lower- and higher-level characters by choosing another kind of creature.
 
 ## Resolution
 

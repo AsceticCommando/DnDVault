@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Urgala Meltimer"
 ---
-# [Urgala Meltimer](3-Mechanics\CLI\bestiary\npc/urgala-meltimer-skt.md)
+# [Urgala Meltimer](3-Mechanics/CLI/bestiary/npc/urgala-meltimer-skt.md)
 *Source: Storm King's Thunder p. 254*  
 
 A retired adventurer, Urgala owns a respectable inn, the Northshield House, and she doesn't want to see it or her neighbors' homes destroyed. She has no tolerance for monsters or bullies.
@@ -30,7 +30,7 @@ Flaw:"I know how treacherous and greedy adventurers can be. I don't trust them-a
 "subtype": "Turami human"
 "alignment": "Lawful Good"
 "ac": !!int "12"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "58"
 "hit_dice": "9d8 + 18"
 "modifier": !!int "1"
@@ -48,8 +48,8 @@ Flaw:"I know how treacherous and greedy adventurers can be. I don't trust them-a
   - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+3"
 "gear":
-  - "[morningstar](3-Mechanics/CLI/items/morningstar.md)"
-  - "[shortbow](3-Mechanics/CLI/items/shortbow.md)"
+  - "[morningstar](3-Mechanics/CLI/items/morningstar-xphb.md)"
+  - "[shortbow](3-Mechanics/CLI/items/shortbow-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Common, Giant"
 "traits":
@@ -74,6 +74,6 @@ Flaw:"I know how treacherous and greedy adventurers can be. I don't trust them-a
     "name": "Shortbow"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/urgala-meltimer-skt.webp"
+"image": "file://bestiary/tokens/SKT/Urgala%20Meltimer.webp"
 ```
 ^statblock

@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Mister Witch"
 ---
-# [Mister Witch](3-Mechanics\CLI\bestiary\npc/mister-witch-wbtw.md)
+# [Mister Witch](3-Mechanics/CLI/bestiary/npc/mister-witch-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 25*  
 
 Witch, who used to go by the name Naeryx Krumple, spent his youth as a homeless orphan, eking out a meager and dreary existence on the fog-shrouded streets of Gloomwrought, a city in the Shadowfell. He earned a few coppers selling broadsheets as a young boy, then later swept floors until an old clock tower keeper took him on as a helper. The tower's clock was in such poor condition that it would break down often. Naeryx helped with the repairs and found that the work gave him a sliver of joy. When the old keeper died years later, Naeryx replaced him.
@@ -68,10 +68,10 @@ The wealthy family that owned the clock tower didn't pay Naeryx a lot of money f
   - "desc": "While carrying the [Witchlight watch](3-Mechanics/CLI/items/witchlight-watch-wbtw.md),\
       \ Witch casts one of the following spells, requiring no spell components and\
       \ using Intelligence as the spellcasting ability (spell save DC 13, +5 to hit\
-      \ with spell attacks):\n\n**At will:** [fire bolt](3-Mechanics/CLI/spells/fire-bolt.md),\
-      \ [invisibility](3-Mechanics/CLI/spells/invisibility.md) (after casting, roll\
-      \ a d8; on a roll of 3 or 8, Witch can't cast the spell again until the next\
-      \ dawn), [message](3-Mechanics/CLI/spells/message.md)"
+      \ with spell attacks):\n\n**At will:** [fire bolt](3-Mechanics/CLI/spells/fire-bolt-xphb.md),\
+      \ [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md) (after casting,\
+      \ roll a d8; on a roll of 3 or 8, Witch can't cast the spell again until the\
+      \ next dawn), [message](3-Mechanics/CLI/spells/message-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "Witch magically teleports, along with any equipment he is wearing or\
@@ -80,6 +80,6 @@ The wealthy family that owned the clock tower didn't pay Naeryx a lot of money f
     "name": "Blessing of the Raven Queen (1/Day)"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/npc/token/mister-witch-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Mister%20Witch.webp"
 ```
 ^statblock

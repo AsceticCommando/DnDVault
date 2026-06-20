@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Warrior"
 ---
-# [Warrior](3-Mechanics\CLI\bestiary\humanoid/warrior-esk.md)
+# [Warrior](3-Mechanics/CLI/bestiary/humanoid/warrior-esk.md)
 *Source: Essentials Kit p. 63*  
 
 ```statblock
@@ -21,7 +21,7 @@ aliases:
 "type": "humanoid"
 "alignment": "Unaligned"
 "ac": !!int "16"
-"ac_class": "[chain shirt](3-Mechanics/CLI/items/chain-shirt.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[chain shirt](3-Mechanics/CLI/items/chain-shirt-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "13"
 "hit_dice": "2d8 + 4"
 "modifier": !!int "1"
@@ -43,8 +43,8 @@ aliases:
   - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+3"
 "gear":
-  - "[longbow](3-Mechanics/CLI/items/longbow.md)"
-  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
+  - "[longbow](3-Mechanics/CLI/items/longbow-xphb.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
 "senses": "passive Perception 13"
 "languages": "Common, plus one of your choice"
 "traits":
@@ -66,6 +66,6 @@ aliases:
     "name": "Protection (Defender Only)"
 "source":
   - "ESK"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/warrior-esk.webp"
+"image": "file://bestiary/tokens/ESK/Warrior.webp"
 ```
 ^statblock

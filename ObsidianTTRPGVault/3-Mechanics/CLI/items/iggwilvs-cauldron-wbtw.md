@@ -11,7 +11,7 @@ aliases:
 ---
 # Iggwilv's Cauldron
 *Wondrous item, artifact (requires attunement by a spellcaster)*  
-![](3-Mechanics/CLI/items/img/iggwilvs-cauldron.webp#right)
+![](file://items/WBtW/Iggwilvs%20Cauldron.webp#right)
 
 - **Weight**: 80.0 lbs.
 
@@ -19,7 +19,7 @@ aliases:
 
 ## Attunement
 
-Any Humanoid creature that attunes to the cauldron must succeed on a DC 15 Constitution saving throw or be aged to the point of decrepitude. In this state, the creature's speed is halved, the range of its vision and hearing is reduced to 30 feet, and it has disadvantage on all ability checks, attack rolls, and saving throws. The creature will reach the end of its natural life span in `3d8` days. Only a [wish](3-Mechanics/CLI/spells/wish.md) spell or divine intervention can reverse this aging effect on the creature.
+Any Humanoid creature that attunes to the cauldron must succeed on a DC 15 Constitution saving throw or be aged to the point of decrepitude. In this state, the creature's speed is halved, the range of its vision and hearing is reduced to 30 feet, and it has disadvantage on all ability checks, attack rolls, and saving throws. The creature will reach the end of its natural life span in `dice:3d8|noform|noparens|avg` (`3d8`) days. Only a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell or divine intervention can reverse this aging effect on the creature.
 
 Three hags can attune to the cauldron simultaneously, provided they have formed a coven. If the coven disbands, the attunement ends for all three hags.
 
@@ -27,8 +27,8 @@ Three hags can attune to the cauldron simultaneously, provided they have formed 
 
 Regardless of the form it takes, the cauldron has the following random properties:
 
-- 1 [minor beneficial](3-Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties.md) property (determined by rolling on the [Minor Beneficial](3-Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties.md) Properties table in the Dungeon Master's Guide)  
-- 1 [minor detrimental](3-Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties.md) property (determined by rolling on the [Minor Detrimental](3-Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties.md) Properties table in the Dungeon Master's Guide)  
+- 1 [minor beneficial](3-Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties-xdmg.md) property (determined by rolling on the [Minor Beneficial](3-Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties-xdmg.md) Properties table in the Dungeon Master's Guide)  
+- 1 [minor detrimental](3-Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties-xdmg.md) property (determined by rolling on the [Minor Detrimental](3-Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties-xdmg.md) Properties table in the Dungeon Master's Guide)  
 
 ## Gold Cauldron
 
@@ -36,16 +36,16 @@ The gold cauldron has the following properties:
 
 - If water is poured into the cauldron and stirred for 1 minute, it transforms into a hearty, hot stew that provides one nourishing meal for up to four people per gallon of water used. The stew remains hot while in the cauldron, then cools naturally after it is removed. The outside of the cauldron remains safe to touch despite the heat of the stew.  
 - If wine is poured into the cauldron and stirred for 10 minutes, it transforms into a magical elixir that fortifies up to four people per gallon of wine used. Any creature that imbibes the elixir gains 10 temporary hit points. Any of the elixir that isn't consumed within 1 hour vanishes. Once used, this property of the cauldron can't be used again until the next dawn.  
-- When the cauldron is filled with 90 gallons of water mixed with 10 gallons of wine, it can be used as the focus for a [scrying](3-Mechanics/CLI/spells/scrying.md) spell. When this spell is cast using the cauldron as its focus, the target of the spell fails its saving throw automatically, and the spell works even if its caster and the target are on different planes of existence. When the spell ends, all the liquid in the cauldron vanishes.  
+- When the cauldron is filled with 90 gallons of water mixed with 10 gallons of wine, it can be used as the focus for a [scrying](3-Mechanics/CLI/spells/scrying-xphb.md) spell. When this spell is cast using the cauldron as its focus, the target of the spell fails its saving throw automatically, and the spell works even if its caster and the target are on different planes of existence. When the spell ends, all the liquid in the cauldron vanishes.  
 - Dipping the bristles of an ordinary broom into the water-filled cauldron transforms the broom into a broom of flying for 3 days. Once used, this property of the cauldron can't be used again until the next dawn.  
 
 ## Iron Cauldron
 
 The iron cauldron has the following properties:
 
-- You can use an action to scream into the empty cauldron, which magically summons a [swarm of bats](3-Mechanics/CLI/bestiary/beast/swarm-of-bats.md) that flies out of the cauldron and acts immediately after you in the initiative order. The swarm obeys your commands and disappears after 1 minute if it hasn't been destroyed by then. Once used, this property of the cauldron can't be used again until the next dawn.  
+- You can use an action to scream into the empty cauldron, which magically summons a [swarm of bats](3-Mechanics/CLI/bestiary/beast/swarm-of-bats-xmm.md) that flies out of the cauldron and acts immediately after you in the initiative order. The swarm obeys your commands and disappears after 1 minute if it hasn't been destroyed by then. Once used, this property of the cauldron can't be used again until the next dawn.  
 - If at least 1 gallon of blood is poured into the cauldron and stirred for 1 minute, it turns into a cloud of harmless black smoke that erupts from the cauldron and dissipates quickly. At the same time, all Humanoid creatures within a certain radius of the cauldron fall [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) for 1 hour, except those that are attuned to the cauldron or immune to being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed). The radius of the effect is 100 feet per gallon of blood used. An [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) creature awakens if it takes damage or if someone uses an action to shake or slap it. Once used, this property of the cauldron can't be used again until the next dawn.  
-- Tying a dead frog or toad to the end of an ordinary branch and dipping it in the water-filled cauldron transforms the branch into a [wand of polymorph](3-Mechanics/CLI/items/wand-of-polymorph.md) with 3 charges. This wand can't recharge and crumbles to ashes when its final charge is expended. Once used, this property of the cauldron can't be used again for 8 days.  
+- Tying a dead frog or toad to the end of an ordinary branch and dipping it in the water-filled cauldron transforms the branch into a [wand of polymorph](3-Mechanics/CLI/items/wand-of-polymorph-xdmg.md) with 3 charges. This wand can't recharge and crumbles to ashes when its final charge is expended. Once used, this property of the cauldron can't be used again for 8 days.  
 - If you spend 1 minute touching the cauldron with a unicorn's horn while reciting the poem called "The Witch Queen's Cauldron" (see the accompanying sidebar), all creatures within 1,000 feet of the cauldron except those that are attuned to it become frozen in time. A time-frozen creature is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated), can't move or speak, doesn't age, and is unaware of its surroundings or the passage of time. Moreover, it can't be moved, harmed in any way, or affected by any other magic. All other conditions and effects on the creature are suppressed until it is no longer frozen in time. Destroying the cauldron, sending it to another plane of existence, or touching it with a unicorn's horn for 1 minute while reciting "The Witch Queen's Cauldron" ends the time-freezing effect on all creatures. The effect also ends on any creature that comes into contact with an antimagic field or is touched by a unicorn's horn.  
 
 ## Destroying the Cauldron
@@ -56,7 +56,7 @@ The destruction of Iggwilv's Cauldron causes all hags in the multiverse to lose 
 
 ## Reconstructing the Cauldron
 
-If all eight pieces of the shattered cauldron are within 5 feet of one another, a [wish](3-Mechanics/CLI/spells/wish.md) spell can reassemble them, restoring the cauldron and all its properties. The cauldron's reconstruction also restores the Shared Spellcasting trait of hag covens throughout the multiverse.
+If all eight pieces of the shattered cauldron are within 5 feet of one another, a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell can reassemble them, restoring the cauldron and all its properties. The cauldron's reconstruction also restores the Shared Spellcasting trait of hag covens throughout the multiverse.
 
 > [!note] The Witch Queen's Cauldron
 > 
@@ -78,7 +78,7 @@ If all eight pieces of the shattered cauldron are within 5 feet of one another, 
 > 
 ^the-witch-queens-cauldron
 
-![](3-Mechanics/CLI/items/img/iggwilvs-cauldron-iron.webp#center)
+![](file://items/WBtW/Iggwilvs%20Cauldron%20%28Iron%29.webp#center)
 
 
 *Source: The Wild Beyond the Witchlight p. 209*

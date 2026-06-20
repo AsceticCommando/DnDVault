@@ -4,15 +4,17 @@ cssclasses:
 - json5e-spell
 tags:
 - ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/spell/class/bard/magical-secrets
+- ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/warlock
 - ttrpg-cli/spell/class/wizard
 - ttrpg-cli/spell/level/3rd-level
 - ttrpg-cli/spell/school/conjuration
 - ttrpg-cli/spell/subclass/arcane-trickster
+- ttrpg-cli/spell/subclass/college-of-lore
 - ttrpg-cli/spell/subclass/eldritch-knight
 classes:
-- Bard (Magical Secrets)
+- Bard
+- Bard (College of Lore)
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
 - Warlock
@@ -22,7 +24,7 @@ aliases:
 ---
 # Summon Shadowspawn
 *3rd-level, Conjuration*  
-![](3-Mechanics/CLI/spells/img/summon-shadowspawn.webp#right)
+![](file://spells/TCE/Summon%20Shadowspawn.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 90 feet
@@ -35,6 +37,6 @@ The creature is an ally to you and your companions. In combat, the creature shar
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, use the higher level wherever the spell's level appears in the stat block.
 
-**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Warlock](3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Tasha's Cauldron of Everything p. 113*

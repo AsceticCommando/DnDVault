@@ -12,6 +12,8 @@ aliases:
 
 **Phenax's Quests**
 
+`dice: [](phenaxs-quests-mot.md#^phenaxs-quests)`
+
 | dice: d6 | Adventure Goal |
 |----------|----------------|
 | 1 | Rob or defend a gambling parlor. |

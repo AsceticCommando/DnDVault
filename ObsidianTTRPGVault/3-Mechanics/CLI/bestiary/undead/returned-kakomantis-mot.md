@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Returned Kakomantis"
 ---
-# [Returned Kakomantis](3-Mechanics\CLI\bestiary\undead/returned-kakomantis-mot.md)
+# [Returned Kakomantis](3-Mechanics/CLI/bestiary/undead/returned-kakomantis-mot.md)
 *Source: Mythic Odysseys of Theros p. 240*  
 
 Although the dead typically recall little of their lives, some have an obsession with magic that survives both death and rebirth as a Returned. These Returned, called kakomanteis, use their magical prowess to control the energy that suffuses the Underworld.
@@ -50,7 +50,7 @@ Returned reenter the world blank and undead. No longer possessing the ability to
 "damage_immunities": "poison"
 "condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
 "gear":
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "passive Perception 11"
 "languages": "the languages it knew in life"
 "cr": "4"
@@ -76,6 +76,6 @@ Returned reenter the world blank and undead. No longer possessing the ability to
     "name": "Underworld Bolt"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/undead/token/returned-kakomantis-mot.webp"
+"image": "file://bestiary/tokens/MOT/Returned%20Kakomantis.webp"
 ```
 ^statblock

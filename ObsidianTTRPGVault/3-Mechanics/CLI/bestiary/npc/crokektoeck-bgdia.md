@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Crokek'toeck"
 ---
-# [Crokek'toeck](3-Mechanics\CLI\bestiary\npc/crokektoeck-bgdia.md)
+# [Crokek'toeck](3-Mechanics/CLI/bestiary/npc/crokektoeck-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 231*  
 
 Crokek'toeck is Yeenoghu's demonic pet. Resembling a giant mudskipper with the teeth, fur, ears, and laugh of a hyena, this unique demon can hold smaller demons in its gullet and disgorge them anywhere Yeenoghu wishes. Immune to the mind-shattering effects of the River Styx, Crokek'toeck is often used to transport smaller demons (and sometimes Yeenoghu himself) through the Styx's terrible waters.
@@ -66,15 +66,15 @@ Crokek'toeck is Yeenoghu's demonic pet. Resembling a giant mudskipper with the t
   - "desc": "*Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 44\
       \ (10d6 + 9) piercing damage."
     "name": "Bite"
-  - "desc": "Crokek'toeck opens its mouth and disgorges 1d4 [barlguras](3-Mechanics/CLI/bestiary/fiend/barlgura.md),\
-      \ 3d6 [gnolls](3-Mechanics/CLI/bestiary/humanoid/gnoll.md) led by 1 [gnoll fang\
-      \ of Yeenoghu](3-Mechanics/CLI/bestiary/fiend/gnoll-fang-of-yeenoghu.md), 6d6\
-      \ [dretches](3-Mechanics/CLI/bestiary/fiend/dretch.md), or 1d3 [vrocks](3-Mechanics/CLI/bestiary/fiend/vrock.md).\
+  - "desc": "Crokek'toeck opens its mouth and disgorges 1d4 [barlguras](3-Mechanics/CLI/bestiary/fiend/barlgura-xmm.md),\
+      \ 3d6 [gnolls](3-Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm.md) led by 1\
+      \ [gnoll fang of Yeenoghu](3-Mechanics/CLI/bestiary/fiend/gnoll-fang-of-yeenoghu-xmm.md),\
+      \ 6d6 [dretches](3-Mechanics/CLI/bestiary/fiend/dretch-xmm.md), or 1d3 [vrocks](3-Mechanics/CLI/bestiary/fiend/vrock-xmm.md).\
       \ Each creature it disgorges appears in an unoccupied space within 30 feet of\
       \ Crokek'toeck's mouth, or the next closest unoccupied space."
     "name": "Disgorge Allies (Recharge 6)"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/crokektoeck-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Crokek%27toeck.webp"
 ```
 ^statblock

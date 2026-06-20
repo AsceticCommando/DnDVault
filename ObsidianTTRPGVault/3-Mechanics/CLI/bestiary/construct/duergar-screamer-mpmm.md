@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Duergar Screamer"
 ---
-# [Duergar Screamer](3-Mechanics\CLI\bestiary\construct/duergar-screamer-mpmm.md)
+# [Duergar Screamer](3-Mechanics/CLI/bestiary/construct/duergar-screamer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 111, Mordenkainen's Tome of Foes p. 190*  
 
 A duergar screamer uses sonic energy to grind rock into dust and to hurl invaders to the ground.
@@ -69,7 +69,7 @@ These machines are deployed to assist with construction projects and war. Some d
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/construct/token/duergar-screamer-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Duergar%20Screamer.webp"
 ```
 ^statblock
 

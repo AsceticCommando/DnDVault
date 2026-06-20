@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Bridesmaid of Zuggtmoy"
 ---
-# [Bridesmaid of Zuggtmoy](3-Mechanics\CLI\bestiary\plant/bridesmaid-of-zuggtmoy-oota.md)
+# [Bridesmaid of Zuggtmoy](3-Mechanics/CLI/bestiary/plant/bridesmaid-of-zuggtmoy-oota.md)
 *Source: Out of the Abyss p. 230*  
 
 ```statblock
@@ -70,6 +70,6 @@ aliases:
     "name": "Infestation Spores (1/Day)"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/plant/token/bridesmaid-of-zuggtmoy-oota.webp"
+"image": "file://bestiary/tokens/OotA/Bridesmaid%20of%20Zuggtmoy.webp"
 ```
 ^statblock

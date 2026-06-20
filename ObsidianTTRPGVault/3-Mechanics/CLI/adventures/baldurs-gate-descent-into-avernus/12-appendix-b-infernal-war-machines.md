@@ -58,7 +58,7 @@ Rules for infernal war machines are summarized below.
 
 ### Magical Elements
 
-An infernal war machine's engine, furnace, and weapons are magical and become inoperable within an [antimagic field](3-Mechanics/CLI/spells/antimagic-field.md). When the engine or furnace comes into contact with such an effect, the infernal war machine shuts down and can't be restarted until both the engine and the furnace are free of the field.
+An infernal war machine's engine, furnace, and weapons are magical and become inoperable within an [antimagic field](3-Mechanics/CLI/spells/antimagic-field-xphb.md). When the engine or furnace comes into contact with such an effect, the infernal war machine shuts down and can't be restarted until both the engine and the furnace are free of the field.
 
 ### Opportunity Attacks
 
@@ -106,7 +106,7 @@ Regardless of its size, a furnace can hold any number of souls, their screams of
 
 ### Demon Ichor Boost
 
-Pouring a flask of demon ichor into an infernal war machine's furnace increases the vehicle's speed by 30 feet for 1 minute. While the vehicle's speed is increased in this way, roll a `d20` at the start of each of the driver's turns. On a 1, the vehicle suffers the Furnace Rupture result on the Mishaps table (see "Mishaps").
+Pouring a flask of demon ichor into an infernal war machine's furnace increases the vehicle's speed by 30 feet for 1 minute. While the vehicle's speed is increased in this way, roll a `dice:d20|noform|noparens|avg` (`d20`) at the start of each of the driver's turns. On a 1, the vehicle suffers the Furnace Rupture result on the Mishaps table (see "Mishaps").
 
 - [Devil's Ride](3-Mechanics/CLI/vehicles/devils-ride-bgdia.md)  
 - [Tormentor](3-Mechanics/CLI/vehicles/tormentor-bgdia.md)  
@@ -124,16 +124,18 @@ If a mishap has a repair DC, the mishap can be ended by making repairs to the ve
 
 **Mishaps**
 
+`dice: [](12-appendix-b-infernal-war-machines.md#^mishaps)`
+
 | dice: d20 | Mishap | Repair DC |
 |-----------|--------|-----------|
-| 1 | **Engine Flare**. Fire erupts from the engine and engulfs the vehicle. Any creature that starts its turn on or inside the vehicle takes 10 (`3d6`) fire damage until this mishap ends. | 15 (Dex) |
+| 1 | **Engine Flare**. Fire erupts from the engine and engulfs the vehicle. Any creature that starts its turn on or inside the vehicle takes `dice:3d6\|noform\|noparens\|avg\|text(10)` (`3d6`) fire damage until this mishap ends. | 15 (Dex) |
 | 2–4 | **Locked Steering**. The vehicle can move in a straight line only. It automatically fails Dexterity checks and Dexterity saving throws until this mishap ends. | 15 (Str) |
 | 5–7 | **Furnace Rupture**. The vehicle's speed decreases by 30 feet until this mishap ends. | 15 (Str) |
 | 8–10 | **Weapon Malfunction**. One of the vehicle's weapons (DM's choice) can't be used until this mishap ends. If the vehicle has no functioning weapons, no mishap occurs. | 20 (Str) |
 | 11–13 | **Blinding Smoke**. The helm station fills with smoke and is heavily obscured until this mishap ends. Any creature in the helm station is [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) by the smoke. | 15 (Dex) |
 | 14–16 | **Shedding Armor**. The vehicle's damage threshold is reduced by 10 until this mishap ends. | 15 (Str) |
 | 17–19 | **Damaged Axle**. The vehicle grinds and shakes uncontrollably. Until the mishap ends, the vehicle has disadvantage on all Dexterity checks, and all ability checks and attack rolls made by creatures on or inside the vehicle have disadvantage. | 20 (Dex) |
-| 20 | **Flip**. The vehicle flips over, falls [prone](3-Mechanics/CLI/rules/conditions.md#Prone), and comes to a dead stop in an unoccupied space. Any unsecured creature holding on to the outside of the vehicle must succeed on a DC 20 Strength saving throw or be thrown off, landing [prone](3-Mechanics/CLI/rules/conditions.md#Prone) in a random unoccupied space within 20 feet of the overturned vehicle. Creatures inside the vehicle fall [prone](3-Mechanics/CLI/rules/conditions.md#Prone) and must succeed on a DC 15 Strength saving throw or take 10 (`3d6`) bludgeoning damage. | None |
+| 20 | **Flip**. The vehicle flips over, falls [prone](3-Mechanics/CLI/rules/conditions.md#Prone), and comes to a dead stop in an unoccupied space. Any unsecured creature holding on to the outside of the vehicle must succeed on a DC 20 Strength saving throw or be thrown off, landing [prone](3-Mechanics/CLI/rules/conditions.md#Prone) in a random unoccupied space within 20 feet of the overturned vehicle. Creatures inside the vehicle fall [prone](3-Mechanics/CLI/rules/conditions.md#Prone) and must succeed on a DC 15 Strength saving throw or take `dice:3d6\|noform\|noparens\|avg\|text(10)` (`3d6`) bludgeoning damage. | None |
 ^mishaps
 
 ### Vehicular Exhaustion
@@ -149,7 +151,7 @@ When an infernal war machine is damaged, suffers a mishap, or gains one or more 
 
 - The creature can't operate the vehicle's helm or one of its weapon stations while making repairs.  
 - The creature must be within reach of the damaged area in need of repair.  
-- The creature must have the right tools for the job ([smith's tools](3-Mechanics/CLI/items/smiths-tools.md) or [tinker's tools](3-Mechanics/CLI/items/tinkers-tools.md), for example).  
+- The creature must have the right tools for the job ([smith's tools](3-Mechanics/CLI/items/smiths-tools-xphb.md) or [tinker's tools](3-Mechanics/CLI/items/tinkers-tools-xphb.md), for example).  
 
 Before beginning repairs, a creature must decide whether the repairs are aimed at ending a mishap, removing a level of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion), or restoring the damaged vehicle's hit points. Each option is discussed below.
 
@@ -163,23 +165,23 @@ If the infernal war machine has one or more levels of [exhaustion](3-Mechanics/C
 
 #### Restore Hit Points
 
-If the infernal war machine has taken damage but has at least 1 hit point, a creature can spend 1 hour or more trying to patch the hull and replace damaged parts. The vehicle must be stationary, and the creature must have the spare parts to make the necessary repairs. After 1 hour of repair work, the creature makes a DC 15 Dexterity check, adding its proficiency bonus to the check if it's proficient with the tools used to make repairs. If the check succeeds, the vehicle regains `2d4 + 2` hit points. If the check fails, the vehicle regains no hit points, but the repair can be attempted again using the same replacement parts.
+If the infernal war machine has taken damage but has at least 1 hit point, a creature can spend 1 hour or more trying to patch the hull and replace damaged parts. The vehicle must be stationary, and the creature must have the spare parts to make the necessary repairs. After 1 hour of repair work, the creature makes a DC 15 Dexterity check, adding its proficiency bonus to the check if it's proficient with the tools used to make repairs. If the check succeeds, the vehicle regains `dice:2d4+2|noform|noparens|avg` (`2d4 + 2`) hit points. If the check fails, the vehicle regains no hit points, but the repair can be attempted again using the same replacement parts.
 
 ### Crashing
 
-When an infernal war machine crashes into something that could reasonably damage it, such as an iron wall or another vehicle of its size or bigger, the infernal war machine comes to a sudden stop and takes `1d6` bludgeoning damage for every 10 feet it moved since its last turn (maximum `20d6`). Whatever the vehicle struck takes the same amount of damage. If this damage is less than the infernal war machine's damage threshold, the vehicle takes no damage from the crash.
+When an infernal war machine crashes into something that could reasonably damage it, such as an iron wall or another vehicle of its size or bigger, the infernal war machine comes to a sudden stop and takes `dice:1d6|noform|noparens|avg` (`1d6`) bludgeoning damage for every 10 feet it moved since its last turn (maximum `dice:20d6|noform|noparens|avg` (`20d6`)). Whatever the vehicle struck takes the same amount of damage. If this damage is less than the infernal war machine's damage threshold, the vehicle takes no damage from the crash.
 
-Regardless of whether or not the infernal war machine takes damage, each creature on or inside the vehicle when it crashes must make a DC 15 Strength saving throw, taking `1d6` bludgeoning damage for every 10 feet the vehicle moved since its last turn (maximum `20d6`), or half as much damage on a successful save.
+Regardless of whether or not the infernal war machine takes damage, each creature on or inside the vehicle when it crashes must make a DC 15 Strength saving throw, taking `dice:1d6|noform|noparens|avg` (`1d6`) bludgeoning damage for every 10 feet the vehicle moved since its last turn (maximum `dice:20d6|noform|noparens|avg` (`20d6`)), or half as much damage on a successful save.
 
 #### Crashing into Creatures
 
-An infernal war machine can crash into a creature by entering its space. The creature can use its reaction to attempt to get out of the vehicle's way, doing so and taking no damage with a successful DC 10 Dexterity saving throw. If the saving throw fails, the vehicle slams into the creature and deals `1d6` bludgeoning damage to the creature for every 10 feet the vehicle moved since its last turn (maximum `20d6`).
+An infernal war machine can crash into a creature by entering its space. The creature can use its reaction to attempt to get out of the vehicle's way, doing so and taking no damage with a successful DC 10 Dexterity saving throw. If the saving throw fails, the vehicle slams into the creature and deals `dice:1d6|noform|noparens|avg` (`1d6`) bludgeoning damage to the creature for every 10 feet the vehicle moved since its last turn (maximum `dice:20d6|noform|noparens|avg` (`20d6`)).
 
-An infernal war machine that is at least two size categories bigger than the creature it crashed into can continue moving through that creature's space if the infernal war machine has any movement left. Otherwise, the vehicle comes to a sudden stop, and each creature on or inside the infernal war machine when it crashes must make a DC 15 Strength saving throw, taking `1d6` bludgeoning damage for every 10 feet the vehicle moved since its last turn (maximum `20d6`), or half as much damage on a successful save.
+An infernal war machine that is at least two size categories bigger than the creature it crashed into can continue moving through that creature's space if the infernal war machine has any movement left. Otherwise, the vehicle comes to a sudden stop, and each creature on or inside the infernal war machine when it crashes must make a DC 15 Strength saving throw, taking `dice:1d6|noform|noparens|avg` (`1d6`) bludgeoning damage for every 10 feet the vehicle moved since its last turn (maximum `dice:20d6|noform|noparens|avg` (`20d6`)), or half as much damage on a successful save.
 
 ### Falling
 
-When an infernal war machine goes over a cliff or otherwise falls, the vehicle and all creatures on or inside it take damage from the fall as normal (`1d6` bludgeoning damage per 10 feet fallen, maximum `20d6`) and land [prone](3-Mechanics/CLI/rules/conditions.md#Prone).
+When an infernal war machine goes over a cliff or otherwise falls, the vehicle and all creatures on or inside it take damage from the fall as normal (`dice:1d6|noform|noparens|avg` (`1d6`) bludgeoning damage per 10 feet fallen, maximum `dice:20d6|noform|noparens|avg` (`20d6`)) and land [prone](3-Mechanics/CLI/rules/conditions.md#Prone).
 
 ## Fiendish Variations
 
@@ -217,13 +219,15 @@ When a chase complication forces the vehicle to make an ability check, or the dr
 
 ### Avernus Chase Complications
 
+`dice: [](12-appendix-b-infernal-war-machines.md#^complication)`
+
 | dice: d20 | Complication |
 |-----------|--------------|
 | 1–2 | You drive past a creature native to Avernus, and it chases after you. The DM chooses the creature. |
-| 3 | A fire tornado, 300 feet high and 30 feet wide at its base, crosses your path. The vehicle avoids the tornado with a successful DC 15 Dexterity saving throw. Otherwise, the tornado envelops the vehicle, and each creature on or inside it that doesn't have total cover must make a DC 18 Dexterity saving throw, taking 99 (`18d10`) fire damage on a failed save, or half as much damage on a successful one. |
+| 3 | A fire tornado, 300 feet high and 30 feet wide at its base, crosses your path. The vehicle avoids the tornado with a successful DC 15 Dexterity saving throw. Otherwise, the tornado envelops the vehicle, and each creature on or inside it that doesn't have total cover must make a DC 18 Dexterity saving throw, taking `dice:18d10\|noform\|noparens\|avg\|text(99)` (`18d10`) fire damage on a failed save, or half as much damage on a successful one. |
 | 4 | A swirling cloud of dust envelops the vehicle. Any creature on or inside the vehicle that doesn't have total cover is [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) by the dust until the start of its next turn unless it's using some kind of protective eyewear. |
 | 5 | Natural pillars of rock can grant cover as the vehicle swerves between them. The driver of the vehicle can make a DC 15 Dexterity check using the vehicle's Dexterity. On a success, the pillars provide three-quarters cover against attacks from other vehicles until the start of the driver's next turn. |
-| 6 | Your vehicle drives into a herd of [lemures](3-Mechanics/CLI/bestiary/fiend/lemure.md), [manes](3-Mechanics/CLI/bestiary/fiend/manes.md), or other fiends. The vehicle must make a DC 15 Strength or Dexterity check (driver's choice) to plow through the herd unimpeded. On a failed check, the herd counts as 30 feet of difficult terrain. |
+| 6 | Your vehicle drives into a herd of [lemures](3-Mechanics/CLI/bestiary/fiend/lemure-xmm.md), [manes](3-Mechanics/CLI/bestiary/fiend/manes-xmm.md), or other fiends. The vehicle must make a DC 15 Strength or Dexterity check (driver's choice) to plow through the herd unimpeded. On a failed check, the herd counts as 30 feet of difficult terrain. |
 | 7 | The vehicle drives off a 10-foot-high ledge and comes crashing down. Any unsecured creature on the outside of the vehicle must succeed on a DC 15 Dexterity saving throw or tumble off, taking normal damage from the fall and landing [prone](3-Mechanics/CLI/rules/conditions.md#Prone) in an unoccupied space on the ground. |
 | 8 | Uneven ground threatens to slow your vehicle's progress. The vehicle must make a DC 10 Dexterity check to navigate the area. On a failed check, the ground counts as 60 feet of difficult terrain. |
 | 9 | Derelict infernal war machines dot the landscape, rusted beyond repair and half buried in the dust. If the vehicle uses [Dash](3-Mechanics/CLI/rules/actions.md#Dash) this turn, the driver must succeed on a DC 10 Dexterity check using the vehicle's Dexterity or crash into one of the derelict infernal war machines (see "Crashing"). |

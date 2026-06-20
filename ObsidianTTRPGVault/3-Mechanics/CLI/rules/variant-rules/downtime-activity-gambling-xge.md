@@ -20,7 +20,7 @@ This activity requires one workweek of effort plus a stake of at least 10 gp, to
 
 The character must make a series of checks, with a DC determined at random based on the quality of the competition that the character runs into. Part of the risk of gambling is that one never knows who might end up sitting across the table.
 
-The character makes three checks: Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)), Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception)), and Charisma ([Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)). If the character has proficiency with an appropriate [gaming set](3-Mechanics/CLI/items/gaming-set.md), that tool proficiency can replace the relevant skill in any of the checks. The DC for each of the checks is `5 + 2d10`; generate a separate DC for each one. Consult the Gambling Results table to see how the character did.
+The character makes three checks: Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)), Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception)), and Charisma ([Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)). If the character has proficiency with an appropriate [gaming set](3-Mechanics/CLI/items/gaming-set-xphb.md), that tool proficiency can replace the relevant skill in any of the checks. The DC for each of the checks is `dice:5+2d10|noform|noparens|avg` (`5 + 2d10`); generate a separate DC for each one. Consult the Gambling Results table to see how the character did.
 
 ![Gambling Results](3-Mechanics/CLI/tables/gambling-results-xge.md)
 

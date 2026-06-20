@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Arasta"
 ---
-# [Arasta](3-Mechanics\CLI\bestiary\npc/arasta-mot.md)
+# [Arasta](3-Mechanics/CLI/bestiary/npc/arasta-mot.md)
 *Source: Mythic Odysseys of Theros p. 248*  
 
 A victim of the gods' petty rivalries, Arasta was once one of Nylea's most beloved dryad companions. Phenax's bitterness saw her transformed into an arachnid monstrosity and driven into the darkest depths of the Nessian Wood. Now she broods on her unjust fate and the fickleness of the gods who left her cursed with monstrous immortality.
@@ -112,8 +112,8 @@ See "Myths of Nylea" in chapter 2 for more details on the tragedy of Arasta.
       \ by a web or Arasta's Web of Hair must make a DC 21 Intelligence saving throw.\
       \ On a failed save, Arasta gains knowledge of a creature's name, race, where\
       \ they consider home, and what brought them to her web.  \n- Arasta casts the\
-      \ [giant insect](3-Mechanics/CLI/spells/giant-insect.md) spell (spiders only).\
-      \ It lasts until she uses this lair action again or until she dies.  "
+      \ [giant insect](3-Mechanics/CLI/spells/giant-insect-xphb.md) spell (spiders\
+      \ only). It lasts until she uses this lair action again or until she dies.  "
     "name": ""
 "regional_effects":
   - "desc": "The region containing Arasta's lair is warped by her presence, which\
@@ -133,7 +133,7 @@ See "Myths of Nylea" in chapter 2 for more details on the tragedy of Arasta.
 "legendary_actions":
   - "desc": "Arasta makes one attack with her claws."
     "name": "Claws"
-  - "desc": "Arasta causes two [swarms of spiders](3-Mechanics/CLI/bestiary/beast/swarm-of-spiders.md)\
+  - "desc": "Arasta causes two [swarms of spiders](3-Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm.md)\
       \ to appear in unoccupied spaces within 5 feet of her."
     "name": "Swarm (Costs 2 Actions)"
   - "desc": "Each creature [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
@@ -154,6 +154,6 @@ See "Myths of Nylea" in chapter 2 for more details on the tragedy of Arasta.
     "name": "Nyx Weave (Costs 2 Actions)"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/arasta-mot.webp"
+"image": "file://bestiary/tokens/MOT/Arasta.webp"
 ```
 ^statblock

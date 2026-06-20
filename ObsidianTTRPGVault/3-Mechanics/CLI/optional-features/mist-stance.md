@@ -13,4 +13,4 @@ aliases:
 
 **Prerequisite**: Level 11
 
-You can spend 4 ki points to cast [gaseous form](3-Mechanics/CLI/spells/gaseous-form.md), targeting yourself.
+You can spend 4 ki points to cast [gaseous form](3-Mechanics/CLI/spells/gaseous-form-xphb.md), targeting yourself.

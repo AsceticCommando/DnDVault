@@ -11,4 +11,4 @@ aliases:
 
 ## 3rd Level
 
-- [Gaseous Form](3-Mechanics/CLI/spells/gaseous-form.md "PHB")
+- [Gaseous Form](3-Mechanics/CLI/spells/gaseous-form-xphb.md "XPHB")

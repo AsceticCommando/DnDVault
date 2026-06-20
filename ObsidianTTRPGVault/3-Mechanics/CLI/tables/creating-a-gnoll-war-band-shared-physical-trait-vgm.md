@@ -12,6 +12,8 @@ aliases:
 
 **Shared Physical Trait**
 
+`dice: [](creating-a-gnoll-war-band-shared-physical-trait-vgm.md#^shared-physical-trait)`
+
 | dice: d10 | Shared Physical Trait |
 |-----------|-----------------------|
 | 1 | Rune branded on forehead |

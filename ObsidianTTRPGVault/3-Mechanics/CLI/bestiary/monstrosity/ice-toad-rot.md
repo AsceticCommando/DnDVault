@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Ice Toad"
 ---
-# [Ice Toad](3-Mechanics\CLI\bestiary\monstrosity/ice-toad-rot.md)
+# [Ice Toad](3-Mechanics/CLI/bestiary/monstrosity/ice-toad-rot.md)
 *Source: The Rise of Tiamat p. 90, Tyranny of Dragons p. 185*  
 
 Arauthator has attracted a number of ice toads to Oyaviggaton, where they help to maintain the iceberg and the dragon's many treasures and trophies. The ice toads are good at this job, thanks to their exceptionally intelligent leader, Marfulb.
@@ -64,6 +64,6 @@ When the characters encounter ice toads, their intelligence won't be apparent un
 "source":
   - "RoT"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/ice-toad-rot.webp"
+"image": "file://bestiary/tokens/RoT/Ice%20Toad.webp"
 ```
 ^statblock

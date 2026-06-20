@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Ougalop"
 ---
-# [Ougalop](3-Mechanics\CLI\bestiary\npc/ougalop-oota.md)
+# [Ougalop](3-Mechanics/CLI/bestiary/npc/ougalop-oota.md)
 *Source: Out of the Abyss p. 142*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "kuo-toa"
 "alignment": "Neutral Evil"
 "ac": !!int "13"
-"ac_class": "natural armor, [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "natural armor, [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "18"
 "hit_dice": "4d8"
 "modifier": !!int "0"
@@ -38,8 +38,8 @@ aliases:
   - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
 "gear":
-  - "[net](3-Mechanics/CLI/items/net.md)"
-  - "[spear](3-Mechanics/CLI/items/spear.md)"
+  - "[net](3-Mechanics/CLI/items/net-xphb.md)"
+  - "[spear](3-Mechanics/CLI/items/spear-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
   \ Perception 14"
 "languages": "Undercommon"
@@ -84,6 +84,6 @@ aliases:
     "name": "Sticky Shield"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/ougalop-oota.webp"
+"image": "file://bestiary/tokens/OotA/Ougalop.webp"
 ```
 ^statblock

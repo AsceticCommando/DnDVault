@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Tau"
 ---
-# [Tau](3-Mechanics\CLI\bestiary\npc/tau-skt.md)
+# [Tau](3-Mechanics/CLI/bestiary/npc/tau-skt.md)
 *Source: Storm King's Thunder p. 103*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "Shou human"
 "alignment": "Neutral Evil"
 "ac": !!int "16"
-"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate.md)"
+"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate-xphb.md)"
 "hp": !!int "33"
 "hit_dice": "6d8 + 6"
 "modifier": !!int "2"
@@ -42,19 +42,19 @@ aliases:
   - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+2"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
 "senses": "passive Perception 11"
 "languages": "Common, Terran"
 "cr": "2"
 "traits":
   - "desc": "Tau is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell\
       \ save DC 11, +3 to hit with spell attacks). Tau has the following cleric spells\
-      \ prepared:\n\n**Cantrips (at will):** [light](3-Mechanics/CLI/spells/light.md),\
-      \ [sacred flame](3-Mechanics/CLI/spells/sacred-flame.md), [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy.md)\n\
-      \n**1st level (4 slots):** [command](3-Mechanics/CLI/spells/command.md), [inflict\
-      \ wounds](3-Mechanics/CLI/spells/inflict-wounds.md), [shield of faith](3-Mechanics/CLI/spells/shield-of-faith.md)\n\
-      \n**2nd level (3 slots):** [hold person](3-Mechanics/CLI/spells/hold-person.md),\
-      \ [spiritual weapon](3-Mechanics/CLI/spells/spiritual-weapon.md)"
+      \ prepared:\n\n**Cantrips (at will):** [light](3-Mechanics/CLI/spells/light-xphb.md),\
+      \ [sacred flame](3-Mechanics/CLI/spells/sacred-flame-xphb.md), [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
+      \n**1st level (4 slots):** [command](3-Mechanics/CLI/spells/command-xphb.md),\
+      \ [inflict wounds](3-Mechanics/CLI/spells/inflict-wounds-xphb.md), [shield of\
+      \ faith](3-Mechanics/CLI/spells/shield-of-faith-xphb.md)\n\n**2nd level (3 slots):**\
+      \ [hold person](3-Mechanics/CLI/spells/hold-person-xphb.md), [spiritual weapon](3-Mechanics/CLI/spells/spiritual-weapon-xphb.md)"
     "name": "Spellcasting"
   - "desc": "Tau has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
       \ or [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)."
@@ -67,6 +67,6 @@ aliases:
     "name": "Club"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/tau-skt.webp"
+"image": "file://bestiary/tokens/SKT/Tau.webp"
 ```
 ^statblock

@@ -22,17 +22,17 @@ Most effects in the game happen in succession, following an order set by the rul
 
 ## Falling
 
-Falling from a great height is a significant risk for adventurers and their foes. The rule given in the player's handbook is simple: at the end of a fall, you take `1d6` bludgeoning damage for every 10 feet you fell, to a maximum of `20d6`. You also land [prone](3-Mechanics/CLI/rules/conditions.md#Prone), unless you somehow avoid taking damage from the fall. Here are two optional rules that expand on that simple rule.
+Falling from a great height is a significant risk for adventurers and their foes. The rule given in the player's handbook is simple: at the end of a fall, you take `dice:1d6|noform|noparens|avg` (`1d6`) bludgeoning damage for every 10 feet you fell, to a maximum of `dice:20d6|noform|noparens|avg` (`20d6`). You also land [prone](3-Mechanics/CLI/rules/conditions.md#Prone), unless you somehow avoid taking damage from the fall. Here are two optional rules that expand on that simple rule.
 
 ### Rate of Falling
 
-The rule for falling assumes that a creature immediately drops the entire distance when it falls. But what if a creature is at a high altitude when it falls, perhaps on the back of a [griffon](3-Mechanics/CLI/bestiary/monstrosity/griffon.md) or on board an [airship](3-Mechanics/CLI/items/airship.md)? Realistically, a fall from such a height can take more than a few seconds, extending past the end of the turn when the fall occurred. If you'd like high-altitude falls to be properly time-consuming, use the following optional rule.
+The rule for falling assumes that a creature immediately drops the entire distance when it falls. But what if a creature is at a high altitude when it falls, perhaps on the back of a [griffon](3-Mechanics/CLI/bestiary/monstrosity/griffon-xmm.md) or on board an [airship](3-Mechanics/CLI/items/airship-xphb.md)? Realistically, a fall from such a height can take more than a few seconds, extending past the end of the turn when the fall occurred. If you'd like high-altitude falls to be properly time-consuming, use the following optional rule.
 
 When you fall from a great height, you instantly descend up to 500 feet. If you're still falling on your next turn, you descend up to 500 feet at the end of that turn. This process continues until the fall ends, either because you hit the ground or the fall is otherwise halted.
 
 ### Flying Creatures and Falling
 
-A flying creature in flight falls if it is knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone), if its speed is reduced to 0 feet, or if it otherwise loses the ability to move, unless it can hover or it is being held aloft by magic, such as the [fly](3-Mechanics/CLI/spells/fly.md) spell.
+A flying creature in flight falls if it is knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone), if its speed is reduced to 0 feet, or if it otherwise loses the ability to move, unless it can hover or it is being held aloft by magic, such as the [fly](3-Mechanics/CLI/spells/fly-xphb.md) spell.
 
 If you'd like a flying creature to have a better chance of surviving a fall than a non-flying creature does, use this rule: subtract the creature's current flying speed from the distance it fell before calculating falling damage. This rule is helpful to a flier that is knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone) but is still conscious and has a current flying speed that is greater than 0 feet. The rule is designed to simulate the creature flapping its wings furiously or taking similar measures to slow the velocity of its fall.
 
@@ -84,7 +84,7 @@ Tool proficiencies are a useful way to highlight a character's background and ta
 
 ### Tools and Skills Together
 
-Tools have more specific applications than skills. The [History](3-Mechanics/CLI/rules/skills.md#History) skill applies to any event in the past. A tool such as a [forgery kit](3-Mechanics/CLI/items/forgery-kit.md) is used to make fake objects and little else. Thus, why would a character who has the opportunity to acquire one or the other want to gain a tool proficiency instead of proficiency in a skill?
+Tools have more specific applications than skills. The [History](3-Mechanics/CLI/rules/skills.md#History) skill applies to any event in the past. A tool such as a [forgery kit](3-Mechanics/CLI/items/forgery-kit-xphb.md) is used to make fake objects and little else. Thus, why would a character who has the opportunity to acquire one or the other want to gain a tool proficiency instead of proficiency in a skill?
 
 To make tool proficiencies more attractive choices for the characters, you can use the methods outlined below.
 
@@ -94,13 +94,13 @@ If the use of a tool and the use of a skill both apply to a check, and a charact
 
 #### Added Benefit
 
-In addition, consider giving characters who have both a relevant skill and a relevant tool proficiency an added benefit on a successful check. This benefit might be in the form of more detailed information or could simulate the effect of a different sort of successful check. For example, a character proficient with [mason's tools](3-Mechanics/CLI/items/masons-tools.md) makes a successful Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check to find a secret door in a stone wall. Not only does the character notice the door's presence, but you decide that the tool proficiency entitles the character to an automatic success on an Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check to determine how to open the door.
+In addition, consider giving characters who have both a relevant skill and a relevant tool proficiency an added benefit on a successful check. This benefit might be in the form of more detailed information or could simulate the effect of a different sort of successful check. For example, a character proficient with [mason's tools](3-Mechanics/CLI/items/masons-tools-xphb.md) makes a successful Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check to find a secret door in a stone wall. Not only does the character notice the door's presence, but you decide that the tool proficiency entitles the character to an automatic success on an Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check to determine how to open the door.
 
 ### Tool Descriptions
 
 The following sections go into detail about the tools presented in the player's handbook, offering advice on how to use them in a campaign.
 
-![](3-Mechanics/CLI/books/xanathars-guide-to-everything/img/c2001.webp#center)
+![](file://book/XGE/c2001.webp#center)
 
 #### Components
 
@@ -174,7 +174,7 @@ When you place a template, follow all the rules in the Player's Handbook for pla
 
 Diagrams 2.1 and 2.2 show the template method in action.
 
-![](3-Mechanics/CLI/rules/variant-rules/img/xge-001.webp#center)
+![](file://book/XGE/001.webp#center)
 
 #### Token Method
 
@@ -188,9 +188,9 @@ Every 5-foot square of an area of effect becomes a die or other token that you p
 
 Diagrams 2.3 through 2.6 show this method in action, using dice as the tokens.
 
-![](3-Mechanics/CLI/rules/variant-rules/img/xge-002.webp#center)
+![](file://book/XGE/002.webp#center)
 
-![](3-Mechanics/CLI/rules/variant-rules/img/xge-003.webp#center)
+![](file://book/XGE/003.webp#center)
 
 ##### Circles
 
@@ -268,7 +268,7 @@ Likewise, look at whether a monster's deadliest abilities call for saving throws
 
 If the only creatures you can choose from at the desired challenge rating aren't a good match for the characters' statistics, don't be afraid to go back to step 3. By altering your challenge rating targets and adjusting the number of creatures in the encounter, you can come up with different options for building the encounter.
 
-![](3-Mechanics/CLI/books/xanathars-guide-to-everything/img/c2005.webp#center)
+![](file://book/XGE/c2005.webp#center)
 
 ### Step 5: Add Flavor
 
@@ -368,7 +368,7 @@ A trap's effect occurs after it activates. The trap might fire a dart, unleash a
 
 Traps can be detected or defeated in a variety of ways by using ability checks or magic. This entry in a trap's description gives the means for counteracting the trap. It also specifies what happens, if anything, on a failed attempt to disable it.
 
-![](3-Mechanics/CLI/books/xanathars-guide-to-everything/img/c2021.webp#center)
+![](file://book/XGE/c2021.webp#center)
 
 #### Running a Simple Trap
 
@@ -409,7 +409,7 @@ The following simple traps can be used to populate your adventures or as models 
 > 
 > And you get hurt! That's the best part.
 
-![](3-Mechanics/CLI/books/xanathars-guide-to-everything/img/c2022.webp#center)
+![](file://book/XGE/c2022.webp#center)
 
 ### Designing Simple Traps
 
@@ -455,7 +455,7 @@ The Damage Severity by Level table lists the typical damage a trap deals at cert
 
 The Spell Equivalent by Level table shows the spell slot level that is appropriate for a given character level and the severity of danger posed by the trap. A spell is a great foundation to use as the design of a trap, whether the trap duplicates the spell (a mirror that casts charm person on whoever looks into it) or uses its effects (an alchemical device that explodes like a fireball).
 
-The Deadly entry for characters of 17th level or higher suggests combining a 9th-level and a 5th-level spell into one effect. In this case, pick two spells, or combine the effects of a spell cast using a 9th-level and a 5th-level slot. For instance, a fireball spell of this sort would deal `24d6` fire damage on a failed saving throw.
+The Deadly entry for characters of 17th level or higher suggests combining a 9th-level and a 5th-level spell into one effect. In this case, pick two spells, or combine the effects of a spell cast using a 9th-level and a 5th-level slot. For instance, a fireball spell of this sort would deal `dice:24d6|noform|noparens|avg` (`24d6`) fire damage on a failed saving throw.
 
 ![Level and Lethality; Trap Save DCs and Attack Bonuses](3-Mechanics/CLI/tables/level-and-lethality-trap-save-dcs-and-attack-bonuses-xge.md)
 
@@ -496,9 +496,9 @@ If you are using a spell as a starting point, check to see if you need to tweak 
 
 Only one successful ability check is required to disarm a simple trap. Imagine how your trap operates, and then think about how the characters could overcome it. More than one kind of ability check might be possible. Some traps are so poorly concealed that they can be discovered or circumvented without active effort. For instance, a hidden pit trap is effectively disarmed as soon as the characters notice it. After that, they can simply walk around it, or they can climb down one side, walk across the bottom of the pit, and climb up the other side.
 
-Once you determine how a trap can be disarmed or avoided, decide the appropriate ability and skill combinations that characters can use. A Dexterity check using [thieves' tools](3-Mechanics/CLI/items/thieves-tools.md), a Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check, and an Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check are all commonly used for this purpose.
+Once you determine how a trap can be disarmed or avoided, decide the appropriate ability and skill combinations that characters can use. A Dexterity check using [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md), a Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check, and an Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check are all commonly used for this purpose.
 
-A Dexterity check using [thieves' tools](3-Mechanics/CLI/items/thieves-tools.md) can apply to any trap that has a mechanical element. [Thieves' tools](3-Mechanics/CLI/items/thieves-tools.md) can be used to disable a trip wire or a pressure plate, disassemble a poison needle mechanism, or clog a valve that leaks poisonous gas into a room.
+A Dexterity check using [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md) can apply to any trap that has a mechanical element. [Thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md) can be used to disable a trip wire or a pressure plate, disassemble a poison needle mechanism, or clog a valve that leaks poisonous gas into a room.
 
 A Strength check is often the method for thwarting traps that can be destroyed or prevented from operating through the use of brute force. A scything blade can be broken, a sliding block can be held in place, or a net can be torn apart.
 
@@ -558,7 +558,7 @@ A trap can be defeated in a variety of ways. A trap's description details the ch
 
 Disabling a complex trap is like disarming a simple trap, except that a complex trap requires more checks. It typically takes three successful checks to disable one of a complex trap's elements. Many of these traps have multiple elements, requiring a lot of work to shut down every part of the trap. Usually, a successful check reduces a trap element's effectiveness even if it doesn't disable the trap.
 
-![](3-Mechanics/CLI/books/xanathars-guide-to-everything/img/c2024.webp#center)
+![](file://book/XGE/c2024.webp#center)
 
 #### Running a Complex Trap
 
@@ -793,7 +793,7 @@ The magic item trade is fraught with peril. The large sums of money involved and
 
 ![Magic Item Purchase Complications](3-Mechanics/CLI/tables/magic-item-purchase-complications-xge.md)
 
-![](3-Mechanics/CLI/books/xanathars-guide-to-everything/img/c2025.webp#center)
+![](file://book/XGE/c2025.webp#center)
 
 #### Carousing
 
@@ -803,7 +803,7 @@ Carousing is a default downtime activity for many characters. Between adventures
 
 Carousing covers a workweek of fine food, strong drink, and socializing. A character can attempt to carouse among lower-, middle-, or upper-class folk. A character can carouse with the lower class for 10 gp to cover expenses, or 50 gp for the middle class. Carousing with the upper class requires 250 gp for the workweek and access to the local nobility.
 
-A character with the noble background can mingle with the upper class, but other characters can do so only if you judge that the character has made sufficient contacts. Alternatively, a character might use a [disguise kit](3-Mechanics/CLI/items/disguise-kit.md) and the [Deception](3-Mechanics/CLI/rules/skills.md#Deception) skill to pass as a noble visiting from a distant city.
+A character with the noble background can mingle with the upper class, but other characters can do so only if you judge that the character has made sufficient contacts. Alternatively, a character might use a [disguise kit](3-Mechanics/CLI/items/disguise-kit-xphb.md) and the [Deception](3-Mechanics/CLI/rules/skills.md#Deception) skill to pass as a noble visiting from a distant city.
 
 ##### Resolution
 
@@ -857,7 +857,7 @@ A character needs to be proficient with the tools needed to craft an item and ha
 
 If all the above requirements are met, the result of the process is an item of the desired sort. A character can sell an item crafted in this way at its listed price.
 
-![](3-Mechanics/CLI/books/xanathars-guide-to-everything/img/c2026.webp#center)
+![](file://book/XGE/c2026.webp#center)
 
 ##### Crafting Magic Items
 
@@ -909,7 +909,7 @@ The character must make a series of checks, with the DC for all the checks chose
 
 The chosen DC can be 10, 15, 20, or 25. Successful completion of the crime yields a number of gold pieces, as shown on the Loot Value table.
 
-To attempt a crime, the character makes three checks: Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)), Dexterity using [thieves' tools](3-Mechanics/CLI/items/thieves-tools.md), and the player's choice of Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)), Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)), or Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception)).
+To attempt a crime, the character makes three checks: Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)), Dexterity using [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md), and the player's choice of Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)), Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)), or Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception)).
 
 If none of the checks are successful, the character is caught and jailed. The character must pay a fine equal to the profit the crime would have earned and must spend one week in jail for each 25 gp of the fine.
 
@@ -939,7 +939,7 @@ This activity requires one workweek of effort plus a stake of at least 10 gp, to
 
 The character must make a series of checks, with a DC determined at random based on the quality of the competition that the character runs into. Part of the risk of gambling is that one never knows who might end up sitting across the table.
 
-The character makes three checks: Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)), Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception)), and Charisma ([Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)). If the character has proficiency with an appropriate gaming set, that tool proficiency can replace the relevant skill in any of the checks. The DC for each of the checks is `5 + 2d10`; generate a separate DC for each one. Consult the Gambling Results table to see how the character did.
+The character makes three checks: Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)), Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception)), and Charisma ([Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)). If the character has proficiency with an appropriate gaming set, that tool proficiency can replace the relevant skill in any of the checks. The DC for each of the checks is `dice:5+2d10|noform|noparens|avg` (`5 + 2d10`); generate a separate DC for each one. Consult the Gambling Results table to see how the character did.
 
 ![Gambling Results](3-Mechanics/CLI/tables/gambling-results-xge.md)
 
@@ -961,7 +961,7 @@ Engaging in this activity requires one workweek of effort from a character.
 
 The character must make a series of checks, with a DC determined at random based on the quality of the opposition that the character runs into. A big part of the challenge in pit fighting lies in the unknown nature of a character's opponents.
 
-The character makes three checks: Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)), Dexterity ([Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)), and a special Constitution check that has a bonus equal to a roll of the character's largest Hit Die (this roll doesn't spend that die). If desired, the character can replace one of these skill checks with an attack roll using one of the character's weapons. The DC for each of the checks is `5 + 2d10`; generate a separate DC for each one. Consult the Pit Fighting Results table to see how the character did.
+The character makes three checks: Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)), Dexterity ([Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)), and a special Constitution check that has a bonus equal to a roll of the character's largest Hit Die (this roll doesn't spend that die). If desired, the character can replace one of these skill checks with an attack roll using one of the character's weapons. The DC for each of the checks is `dice:5+2d10|noform|noparens|avg` (`5 + 2d10`); generate a separate DC for each one. Consult the Pit Fighting Results table to see how the character did.
 
 ![Pit Fighting Results](3-Mechanics/CLI/tables/pit-fighting-results-xge.md)
 
@@ -1025,7 +1025,7 @@ The character declares the focus of the research—a specific person, place, or 
 
 ![Research Outcomes](3-Mechanics/CLI/tables/research-outcomes-xge.md)
 
-![](3-Mechanics/CLI/books/xanathars-guide-to-everything/img/c2027.webp#center)
+![](file://book/XGE/c2027.webp#center)
 
 Each piece of lore is the equivalent of one true statement about a person, place, or thing. Examples include knowledge of a creature's resistances, the password needed to enter a sealed dungeon level, the spells commonly prepared by an order of wizards, and so on.
 
@@ -1079,7 +1079,7 @@ The main risk in selling a magic item lies in attracting thieves and anyone else
 
 ![Magic Item Sale Complications](3-Mechanics/CLI/tables/magic-item-sale-complications-xge.md)
 
-![](3-Mechanics/CLI/books/xanathars-guide-to-everything/img/c2028.webp#center)
+![](file://book/XGE/c2028.webp#center)
 
 #### Training
 

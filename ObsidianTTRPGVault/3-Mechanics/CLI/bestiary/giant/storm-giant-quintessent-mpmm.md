@@ -16,7 +16,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Storm Giant Quintessent"
 ---
-# [Storm Giant Quintessent](3-Mechanics\CLI\bestiary\giant/storm-giant-quintessent-mpmm.md)
+# [Storm Giant Quintessent](3-Mechanics/CLI/bestiary/giant/storm-giant-quintessent-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 235, Volo's Guide to Monsters p. 151*  
 
 To forestall the inevitable, some storm giants approaching the end of their natural life spans seek an escape from death. They plumb the depths of their powerful connection to the elements and disperse themselves into nature, transforming into semiconscious storms. The blizzard that rages unendingly around a mountain peak, the vortex that swirls around a remote island, or the thunderstorm that howls ceaselessly up and down a rugged coastline could, in fact, be the undying form of a storm giant clinging to existence.
@@ -133,13 +133,13 @@ A storm giant quintessent has no need for castles or dungeon lairs. Their lair i
       \ While dispersed, the giant can't take any actions other than lair actions,\
       \ and it can't be targeted by attacks, spells, or other effects. The giant can't\
       \ use this ability outside its lair, nor can it use this ability if another\
-      \ creature is using a [control weather](3-Mechanics/CLI/spells/control-weather.md)\
+      \ creature is using a [control weather](3-Mechanics/CLI/spells/control-weather-xphb.md)\
       \ spell or similar magic to quell the storm."
     "name": "One with the Storm (Costs 3 Actions)"
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/giant/token/storm-giant-quintessent-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Storm%20Giant%20Quintessent.webp"
 ```
 ^statblock
 

@@ -12,6 +12,8 @@ aliases:
 
 **Human Names – Slavic, Male**
 
+`dice: [](human-names-slavic-male-xge.md#^human-names-slavic-male)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Aleksandru |

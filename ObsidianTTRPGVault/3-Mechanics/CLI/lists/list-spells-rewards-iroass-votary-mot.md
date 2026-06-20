@@ -11,4 +11,4 @@ aliases:
 
 ## 3rd Level
 
-- [Crusader's Mantle](3-Mechanics/CLI/spells/crusaders-mantle.md "PHB")
+- [Crusader's Mantle](3-Mechanics/CLI/spells/crusaders-mantle-xphb.md "XPHB")

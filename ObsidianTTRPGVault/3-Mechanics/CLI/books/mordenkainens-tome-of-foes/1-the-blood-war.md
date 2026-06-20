@@ -10,7 +10,7 @@ aliases:
 # The Blood War
 *Source: Mordenkainen's Tome of Foes, p. 5* 
 
-![](3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/mtf_chapterstarts_ch1.webp#center)
+![](file://book/MTF/mtf_chapterstarts_ch1.webp#center)
 
 Throughout history, the teeming hordes of the Abyss and the strictly regimented legions of the Nine Hells have battled for supremacy in the cosmos. In the mortal world, the scant few scholars, arcanists, and adventurers who know the conflict for what it is refer to it as the Blood War.
 
@@ -58,7 +58,7 @@ The Blood War rages along the length of the River Styx. Direct confrontations be
 
 The devils view fighting demons on Avernus as a net benefit for their cause. Although most devils slain there are destroyed forever, ready access to supplies and support from the Nine Hells tilts the tide heavily against invading demons. Also, the prospect of a permanent death compels the devils fighting on Avernus to maintain the utmost readiness and coordination. Wounded devils retreat, knowing that fresh reinforcements can continue the fight. Hordes of lemures, devils that are permanently destroyed only if subjected to holy energies, are used to blunt demonic incursions. The terrain of Avernus is thoroughly mapped and festooned with ambush points, strongholds, and other defensive measures.
 
-![](3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315529_cn.webp#center)
+![](file://book/MTF/315529_cn.webp#center)
 
 > [!note] Sailing the Styx
 > 
@@ -110,7 +110,7 @@ Therefore, the demons assault the Nine Hells over and over not only because it i
 
 > [!note] Yugoloths: Fickle Allies
 > 
-> Yugoloths are major players on both sides of the Blood War. The death of a yugoloth is meaningless when it occurs in the Abyss or the Nine Hells, and thus these mercenaries freely give their all in any battle even when it means fighting other yugoloths. Demons and devils both know that a yugoloth's loyalty is constantly for sale-even during a conflict on the battlefield-and a yugoloth never agrees to a contract that prohibits it from seeking a better offer. This set of circumstances prompts hellish and abyssal armies to carry war chests with them in the hope of buying the services of the yugoloths on the other side. The war chests themselves thus become highly prized targets, which in turn leads to protective measures, such as valuables hidden in [bags of holding](3-Mechanics/CLI/items/bag-of-holding.md) or empty treasure containers used to lure the enemy into a trap.
+> Yugoloths are major players on both sides of the Blood War. The death of a yugoloth is meaningless when it occurs in the Abyss or the Nine Hells, and thus these mercenaries freely give their all in any battle even when it means fighting other yugoloths. Demons and devils both know that a yugoloth's loyalty is constantly for sale-even during a conflict on the battlefield-and a yugoloth never agrees to a contract that prohibits it from seeking a better offer. This set of circumstances prompts hellish and abyssal armies to carry war chests with them in the hope of buying the services of the yugoloths on the other side. The war chests themselves thus become highly prized targets, which in turn leads to protective measures, such as valuables hidden in [bags of holding](3-Mechanics/CLI/items/bag-of-holding-xdmg.md) or empty treasure containers used to lure the enemy into a trap.
 > 
 > Regardless of the side that hires them, yugoloths almost never fight on their home plane of Gehenna despite the fact that both sides sometimes traverse it and many battles of the Blood War are fought there. A yugoloth killed in Gehenna can't be restored to life except through an exceptional ritual, so the sums required to entice one to fight on its home plane are astronomical... and making such a bargain always draws the attention of the ultroloths.
 ^yugoloths-fickle-allies
@@ -127,7 +127,7 @@ Keepers of the Balance sometimes resort to strategies that seem inexplicable to 
 
 Those who vow to maintain the Balance make enemies wherever they go, because their full reasons for acting as they do aren't always apparent. The fact that some of these adherents embrace the Balance to further their personal quests for power makes it impossible to count on them as allies with complete certainty.
 
-![](3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315590_cn_wmask.webp#center)
+![](file://book/MTF/315590_cn_wmask.webp#center)
 
 ## Lords of the Nine
 
@@ -503,7 +503,7 @@ Each description also includes a list of signature spells associated with the cu
 
 The customization options here will typically have no appreciable effect on the challenge rating of a creature that gains them.
 
-![](3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315531_cn_wmask.webp#center)
+![](file://book/MTF/315531_cn_wmask.webp#center)
 
 - Cult of Asmodeus  
 - Cult of Baalzebul  
@@ -606,7 +606,7 @@ The visitation of a demon lord to the Material Plane is a cataclysmic event. The
 
 At this point, a besieged world's only hope for survival is the expulsion of the demon lord. The lord's defeat leaves the other demons again leaderless, and they react by warring against each other, which makes them susceptible to attacks from the world's defenders. The longer a demon lord remains in control of all the other fiends, the more the world around it becomes irrevocably changed. When a demonic incursion runs its course, no vestige remains of the world that existed before-in effect, the realm has become another layer of the Abyss.
 
-![](3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315584_cn_wmask.webp#center)
+![](file://book/MTF/315584_cn_wmask.webp#center)
 
 ### Chaos Incarnate
 
@@ -701,7 +701,7 @@ In mortal realms, people can fall under his sway simply by laying eyes on a true
 > 
 > I studied [Demogorgon](3-Mechanics/CLI/bestiary/npc/demogorgon-mpmm.md)'s symbol. I thought that, by looking at it through a mirror, I might avoid its effects. If anything, viewing its reflection made its effect more potent and more subtle. It was Rary who saved me, and I thought he had been spared the symbol's effects. I don't have many regrets, but underestimating that symbol is one of my greatest.
 
-![](3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315585_cn_wmask.webp#center)
+![](file://book/MTF/315585_cn_wmask.webp#center)
 
 ### Fraz-Urb'luu
 
@@ -816,7 +816,7 @@ Boons from demons are fickle gifts. They remain in place only as long as the dem
 
 Cambions spawned by demon lords sometimes manifest different abilities from a typical cambion. [Graz'zt](3-Mechanics/CLI/bestiary/npc/grazzt-mpmm.md) is notable among demon lords for the many cambions he has spawned across the multiverse. Most famous among them is Iuz, who combined his father's abyssal heritage and his mother's peerless arcane tutelage to become a demigod.
 
-![](3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315587_cn.webp#center)
+![](file://book/MTF/315587_cn.webp#center)
 
 ### Signature Spells
 
@@ -858,13 +858,13 @@ Use the following template to quickly customize a Demon
 
 The following tables can be used to generate random cults dedicated to fiends. Roll on the tables in the order in which they appear to build up the cult's traits.
 
-![](3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315588_cn_wmask.webp#center)
+![](file://book/MTF/315588_cn_wmask.webp#center)
 
 ![Fiendish Cults; Cult Goals](3-Mechanics/CLI/tables/fiendish-cults-cult-goals-mtf.md)
 
 ![Fiendish Cults; Cult Resources](3-Mechanics/CLI/tables/fiendish-cults-cult-resources-mtf.md)
 
-![](3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315589_cn.webp#center)
+![](file://book/MTF/315589_cn.webp#center)
 
 ![Fiendish Cults; Cult Organization](3-Mechanics/CLI/tables/fiendish-cults-cult-organization-mtf.md)
 

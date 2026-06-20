@@ -14,6 +14,8 @@ A nonplayer character is any character controlled by the Dungeon Master. NPCs ca
 
 This chapter shows you how to flesh out nonplayer characters for your game. For guidelines on generating monster-like stat blocks for an NPC, see chapter 9, "Dungeon Master's Workshop."
 
+![](file://book/DMG/4-1.webp#center)
+
 ## Designing NPCs
 
 Nothing brings your adventures and campaigns to life better than a cast of well-developed NPCs. That said, NPCs in your game rarely need as much complexity as a well-crafted character in a novel or movie. Most NPCs are bit players in the campaign, whereas the adventurers are the stars.
@@ -47,7 +49,7 @@ In one sentence, describe the NPC's occupation and provide a brief historical no
 
 In one sentence, describe the NPC's most distinctive physical features. You can roll on the NPC Appearance table or choose a feature that suits the character.
 
-![NPC Appearance](3-Mechanics/CLI/tables/npc-appearance.md)
+![NPC Appearance](3-Mechanics/CLI/tables/npc-appearance-xdmg.md)
 
 #### Abilities
 
@@ -109,6 +111,8 @@ Named monsters that play a significant role in an adventure deserve the same att
 
 As an example, consider the Xanathar, a beholder that runs extensive criminal operations in the city of Waterdeep. The Xanathar's spherical body is covered in leathery flesh with a texture similar to cobblestones. Its eyestalks are jointed like the legs of an insect, and some of the stalks have magic rings on them. The Xanathar's speech is slow and deliberate, and it prefers to turn its central eye away from creatures it speaks to. Like all beholders, it sees other creatures as inferiors, though it understands the usefulness of its humanoid minions.
 
+![](file://book/DMG/4-2.webp#center)
+
 The Xanathar uses the sewers beneath Waterdeep to access virtually any location within or under the city.
 
 The Xanathar's ideal is greed. It craves powerful magic items and surrounds itself with gold, platinum, and precious gems. Its bond is to its lair-an elaborate cavern complex carved out between the twisting sewers of Waterdeep, which it inherited from its predecessors and cherishes above all else. Its flaw is a weakness for exotic pleasures: finely prepared foods, scented oils, and rare spices and herbs.
@@ -126,6 +130,8 @@ Appendix B of the Monster Manual contains statistics for many generic NPCs that 
 #### Using Classes and Levels
 
 You can create an NPC just as you would a player character, using the rules in the *Player's Handbook*. You can even use a character sheet to keep track of the NPC's vital information.
+
+![](file://book/DMG/4-3.webp#center)
 
 ##### Class Options
 
@@ -177,13 +183,15 @@ An NPC's loyalty is measured on a numerical scale from 0 to 20. The NPC's maximu
 
 Keep track of an NPC's loyalty score in secret so that the players won't know for sure whether an NPC party member is loyal or disloyal (even if the NPC is currently under a player's control).
 
-An NPC's loyalty score increases by `1d4` if other party members help the NPC achieve a goal tied to its bond. Likewise, an NPC's loyalty score increases by `1d4` if the NPC is treated particularly well (for example, given a magic weapon as a gift) or rescued by another party member. An NPC's loyalty score can never be raised above its maximum.
+An NPC's loyalty score increases by `dice:1d4|noform|noparens|avg` (`1d4`) if other party members help the NPC achieve a goal tied to its bond. Likewise, an NPC's loyalty score increases by `dice:1d4|noform|noparens|avg` (`1d4`) if the NPC is treated particularly well (for example, given a magic weapon as a gift) or rescued by another party member. An NPC's loyalty score can never be raised above its maximum.
 
-When other party members act in a manner that runs counter to the NPC's alignment or bond, reduce the NPC's loyalty score by `1d4`. Reduce the NPC's loyalty score by `2d4` if the character is abused, misled, or endangered by other party members for purely selfish reasons.
+When other party members act in a manner that runs counter to the NPC's alignment or bond, reduce the NPC's loyalty score by `dice:1d4|noform|noparens|avg` (`1d4`). Reduce the NPC's loyalty score by `dice:2d4|noform|noparens|avg` (`2d4`) if the character is abused, misled, or endangered by other party members for purely selfish reasons.
 
 An NPC whose loyalty score drops to 0 is no longer loyal to the party and might part ways with them. A loyalty score can never drop below 0.
 
 An NPC with a loyalty score of 10 or higher risks life and limb to help fellow party members. If the NPC's loyalty score is between 1 and 10, its loyalty is tenuous. An NPC whose loyalty drops to 0 no longer acts in the party's best interests. The disloyal NPC either leaves the party (attacking characters who attempt to intervene) or works in secret to bring about the party's downfall.
+
+![](file://book/DMG/4-4.webp#center)
 
 ## Contacts
 
@@ -237,7 +245,9 @@ The Death Domain is an additional domain choice for evil clerics, and the Oathbr
 
 The Death domain is concerned with the forces that cause death, as well as the negative energy that gives rise to undead creatures. Deities such as Chemosh, Myrkul, and Wee Jas are patrons of necromancers, death knights, liches, mummy lords, and vampires. Gods of the Death domain also embody murder (Anubis, Bhaal, and Pyremius), pain (Iuz or Loviatar), disease or poison (Incabulos, Talona, or Morgion), and the underworld (Hades and Hel).
 
-See the [Death Domain classes page entry](3-Mechanics/CLI/classes/cleric-death-domain-dmg.md) for more information.
+See the Death Domain classes page entry for more information.
+
+![](file://book/DMG/4-5.webp#center)
 
 ### Paladin: Oathbreaker
 
@@ -245,4 +255,4 @@ An Oathbreaker is a paladin who breaks his or her sacred oaths to pursue some da
 
 A paladin must be evil and at least 3rd level to become an Oathbreaker. The paladin replaces the features specific to his or her Sacred Oath with Oathbreaker features.
 
-See the [Oathbreaker classes page entry](3-Mechanics/CLI/classes/paladin-oathbreaker-dmg.md) for more information.
+See the Oathbreaker classes page entry for more information.

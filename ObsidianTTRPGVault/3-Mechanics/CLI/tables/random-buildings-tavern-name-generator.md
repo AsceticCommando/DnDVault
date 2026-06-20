@@ -12,6 +12,8 @@ aliases:
 
 **Tavern Name Generator**
 
+`dice: [](random-buildings-tavern-name-generator.md#^tavern-name-generator)`
+
 | dice: d20 | First Part | Second Part |
 |-----------|------------|-------------|
 | 1 | The Silver | Eel |

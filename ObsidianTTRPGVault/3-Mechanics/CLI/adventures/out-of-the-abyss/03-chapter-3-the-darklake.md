@@ -16,7 +16,7 @@ Long ago, duergar engineers extended and widened many of the interconnecting pas
 
 The adventurers can use the Darklake to reach many destinations in the Underdark. More importantly, water travel makes it difficult for their drow pursuers to track them. The kuo-toa town of Sloobludop is located on the eastern edge of the Darklake, and is a potential source of watercraft and navigational aid. But as they seek out these resources, the characters learn of terrible powers loose in the Underdark—worse than the drow, the kuo-toa, or any other threat of this dark realm.
 
-![](3-Mechanics/CLI/adventures/out-of-the-abyss/img/022-ooa03-01.webp#center)
+![](file://adventure/OotA/022-ooa03-01.webp#center)
 
 ## Traversing the Darklake
 
@@ -48,7 +48,7 @@ Characters not actively swimming but simply clinging to something that floats (i
 
 Travelers can mix and match modes of travel, and a sizable party might need multiple boats or rafts. A creature with a swimming speed (including a polymorphed character) can travel without risk of fatigue for up to 8 hours, and can even serve as a mount for a creature smaller than it. Water-breathing (or non-breathing) creatures can swim underwater or even walk across the bottom of shallow sections of the Darklake, but need [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) or a source of light to see.
 
-![](3-Mechanics/CLI/adventures/out-of-the-abyss/img/023-ooa03-02.webp#center)
+![](file://adventure/OotA/023-ooa03-02.webp#center)
 
 > [!note] The Darklake: General Features
 > 
@@ -65,21 +65,25 @@ Travelers can mix and match modes of travel, and a sizable party might need mult
 
 ## Random Encounters
 
-Every 4 hours that the characters are on the Darklake, roll a `d20` and consult the Darklake Random Encounters table to determine what, if anything, they encounter. If the characters aren't moving—anchored or ashore, for example—any encounter is automatically a creature encounter.
+Every 4 hours that the characters are on the Darklake, roll a `dice:d20|noform|noparens|avg` (`d20`) and consult the Darklake Random Encounters table to determine what, if anything, they encounter. If the characters aren't moving—anchored or ashore, for example—any encounter is automatically a creature encounter.
 
 ### Darklake Random Encounters
+
+`dice: [](03-chapter-3-the-darklake.md#^type-of-encounter)`
 
 | dice: d20 | Type of Encounter |
 |-----------|-------------------|
 | 1–13 | No encounter |
-| 14–15 | Terrain (roll a `d10` and consult the Darklake Terrain Encounters table) |
-| 16–17 | One or more creatures (roll a `d12` and consult the Darklake Creature Encounters table) |
-| 18–20 | Terrain encounter featuring one or more creatures (roll a `d10` and consult the Darklake Terrain Encounters table, then roll a `d12` and consult the Darklake Creature Encounter table) |
+| 14–15 | Terrain (roll a `dice:d10\|noform\|noparens\|avg` (`d10`) and consult the Darklake Terrain Encounters table) |
+| 16–17 | One or more creatures (roll a `dice:d12\|noform\|noparens\|avg` (`d12`) and consult the Darklake Creature Encounters table) |
+| 18–20 | Terrain encounter featuring one or more creatures (roll a `dice:d10\|noform\|noparens\|avg` (`d10`) and consult the Darklake Terrain Encounters table, then roll a `dice:d12\|noform\|noparens\|avg` (`d12`) and consult the Darklake Creature Encounter table) |
 ^type-of-encounter
 
 ### Darklake Terrain Encounters
 
 Special terrain rules are explained after the table.
+
+`dice: [](03-chapter-3-the-darklake.md#^terrain)`
 
 | dice: d10 | Terrain |
 |-----------|---------|
@@ -97,11 +101,11 @@ Special terrain rules are explained after the table.
 
 #### Collision
 
-This terrain encounter occurs only if one or more party members are traveling by raft or boat, and there's a strong current. Have everyone aboard the vessel make a DC 13 group Dexterity check to avoid hitting a wall or other large obstacle directly ahead. If the group check succeeds, the collision is avoided. Otherwise, the vessel takes `2d10` bludgeoning damage from the collision, and everyone aboard must succeed on a DC 10 Strength or Dexterity saving throw to avoid falling overboard.
+This terrain encounter occurs only if one or more party members are traveling by raft or boat, and there's a strong current. Have everyone aboard the vessel make a DC 13 group Dexterity check to avoid hitting a wall or other large obstacle directly ahead. If the group check succeeds, the collision is avoided. Otherwise, the vessel takes `dice:2d10|noform|noparens|avg` (`2d10`) bludgeoning damage from the collision, and everyone aboard must succeed on a DC 10 Strength or Dexterity saving throw to avoid falling overboard.
 
 #### Falls or Locks
 
-Any character with a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 12 or better can hear the roar of a waterfall ahead. A successful DC 14 group Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check is necessary to steer or swim away from the falls. Otherwise, the characters go over, falling `1d6 × 10` feet into a pool or river `1d6 × 5` feet deep. A creature swept over the falls must succeed on a DC 11 Dexterity saving throw or take `1d6` bludgeoning damage per 10 feet fallen. A successful save indicates that the creature avoids a hard landing in the water below.
+Any character with a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 12 or better can hear the roar of a waterfall ahead. A successful DC 14 group Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check is necessary to steer or swim away from the falls. Otherwise, the characters go over, falling `1d6 × 10` feet into a pool or river `1d6 × 5` feet deep. A creature swept over the falls must succeed on a DC 11 Dexterity saving throw or take `dice:1d6|noform|noparens|avg` (`1d6`) bludgeoning damage per 10 feet fallen. A successful save indicates that the creature avoids a hard landing in the water below.
 
 There is a 50 percent chance that any waterfall area contains a duergar-built lock designed to traverse it, in which case there is no risk of going over the falls. It takes a successful DC 11 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check to figure out how to operate the lock. Once a lock is opened, it takes 1 hour for the water level to lower so the party can proceed.
 
@@ -111,15 +115,15 @@ A small island rises from the water ahead. An island with no hostile creatures m
 
 #### Low Ceiling
 
-The clearance of the cave or passage lowers suddenly to 3 feet above the water's surface. Each Medium character must succeed on a DC 10 Dexterity saving throw or take `1d4` bludgeoning damage from hitting the ceiling before the passage ends.
+The clearance of the cave or passage lowers suddenly to 3 feet above the water's surface. Each Medium character must succeed on a DC 10 Dexterity saving throw or take `dice:1d4|noform|noparens|avg` (`1d4`) bludgeoning damage from hitting the ceiling before the passage ends.
 
 #### Rockfall
 
-Loose rocks fall from the ceiling above. Each character must succeed on a DC 12 Dexterity saving throw or be hit by a chunk of falling stone for `2d6` bludgeoning damage. If the characters are traveling in a boat or raft, their vessel takes `2d6` bludgeoning damage for each successful save; in other words, each rock that misses a character hits the boat or raft instead. Roll the damage for each rock striking a vessel separately to see if it overcomes the vessel's damage threshold.
+Loose rocks fall from the ceiling above. Each character must succeed on a DC 12 Dexterity saving throw or be hit by a chunk of falling stone for `dice:2d6|noform|noparens|avg` (`2d6`) bludgeoning damage. If the characters are traveling in a boat or raft, their vessel takes `dice:2d6|noform|noparens|avg` (`2d6`) bludgeoning damage for each successful save; in other words, each rock that misses a character hits the boat or raft instead. Roll the damage for each rock striking a vessel separately to see if it overcomes the vessel's damage threshold.
 
 #### Rough Current
 
-The waters here are especially turbulent. If the characters are traveling by boat or raft, the crew must succeed on a DC 13 group Dexterity check to maintain control. If the group check fails, the vessel takes `2d6` bludgeoning damage, and each occupant must succeed on a DC 10 Strength or Dexterity saving throw to avoid falling overboard.
+The waters here are especially turbulent. If the characters are traveling by boat or raft, the crew must succeed on a DC 13 group Dexterity check to maintain control. If the group check fails, the vessel takes `dice:2d6|noform|noparens|avg` (`2d6`) bludgeoning damage, and each occupant must succeed on a DC 10 Strength or Dexterity saving throw to avoid falling overboard.
 
 #### Run Aground
 
@@ -127,7 +131,7 @@ This terrain encounter occurs only if one or more party members are traveling by
 
 #### Stone Teeth
 
-This terrain encounter occurs only if one or more party members are traveling by raft or boat, and there's a strong current. Stalagmites jutting up from the bottom of a tunnel are hidden just below the waterline. Spotters must succeed on a DC 13 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check to notice the "stone teeth," allowing the vessel's crew to attempt a DC 12 group Dexterity check to navigate through them. If the group check succeeds, the vessel passes through unscathed. Failure to notice or navigate through the stone teeth deals `6d6` piercing damage to the boat or raft.
+This terrain encounter occurs only if one or more party members are traveling by raft or boat, and there's a strong current. Stalagmites jutting up from the bottom of a tunnel are hidden just below the waterline. Spotters must succeed on a DC 13 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check to notice the "stone teeth," allowing the vessel's crew to attempt a DC 12 group Dexterity check to navigate through them. If the group check succeeds, the vessel passes through unscathed. Failure to notice or navigate through the stone teeth deals `dice:6d6|noform|noparens|avg` (`6d6`) piercing damage to the boat or raft.
 
 #### Tight Passage
 
@@ -135,59 +139,63 @@ The adventurers encounter an especially tight passage, requiring a successful DC
 
 #### Whirlpool
 
-An underwater crevasse or drain creates a small vortex in this area, much like the whirlpool effect of the [control water](3-Mechanics/CLI/spells/control-water.md) spell (save DC 14).
+An underwater crevasse or drain creates a small vortex in this area, much like the whirlpool effect of the [control water](3-Mechanics/CLI/spells/control-water-xphb.md) spell (save DC 14).
 
 ### Darklake Creature Encounters
 
 The sections that follow the table provide additional information to help you run each creature encounter.
 
+`dice: [](03-chapter-3-the-darklake.md#^encounter)`
+
 | dice: d12 | Encounter |
 |-----------|-----------|
-| 1 | 1 aquatic [troll](3-Mechanics/CLI/bestiary/giant/troll.md) |
-| 2 | `2d4` [darkmantles](3-Mechanics/CLI/bestiary/monstrosity/darkmantle.md) |
-| 3 | `1d4 + 2` [duergar](3-Mechanics/CLI/bestiary/humanoid/duergar.md) in a keelboat |
-| 4 | 1 [green hag](3-Mechanics/CLI/bestiary/fey/green-hag.md) |
-| 5 | 1 [grell](3-Mechanics/CLI/bestiary/aberration/grell.md) |
-| 6–7 | `1d6 + 2` [ixitxachitl](3-Mechanics/CLI/bestiary/aberration/ixitxachitl-oota.md) (see appendix C) |
-| 8 | `1d4` [kuo-toa](3-Mechanics/CLI/bestiary/humanoid/kuo-toa.md) in a keelboat |
-| 9 | `1d4` [merrow](3-Mechanics/CLI/bestiary/monstrosity/merrow.md) |
-| 10 | `3d6` [stirges](3-Mechanics/CLI/bestiary/beast/stirge.md) |
-| 11 | 1 [swarm of quippers](3-Mechanics/CLI/bestiary/beast/swarm-of-quippers.md) |
-| 12 | 1 [water weird](3-Mechanics/CLI/bestiary/elemental/water-weird.md) |
+| 1 | 1 aquatic [troll](3-Mechanics/CLI/bestiary/giant/troll-xmm.md) |
+| 2 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [darkmantles](3-Mechanics/CLI/bestiary/aberration/darkmantle-xmm.md) |
+| 3 | `dice:1d4+2\|noform\|noparens\|avg` (`1d4 + 2`) [duergar](3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md) in a keelboat |
+| 4 | 1 [green hag](3-Mechanics/CLI/bestiary/fey/green-hag-xmm.md) |
+| 5 | 1 [grell](3-Mechanics/CLI/bestiary/aberration/grell-xmm.md) |
+| 6–7 | `dice:1d6+2\|noform\|noparens\|avg` (`1d6 + 2`) [ixitxachitl](3-Mechanics/CLI/bestiary/aberration/ixitxachitl-oota.md) (see appendix C) |
+| 8 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [kuo-toa](3-Mechanics/CLI/bestiary/aberration/kuo-toa-xmm.md) in a keelboat |
+| 9 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [merrow](3-Mechanics/CLI/bestiary/monstrosity/merrow-xmm.md) |
+| 10 | `dice:3d6\|noform\|noparens\|avg` (`3d6`) [stirges](3-Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md) |
+| 11 | 1 [swarm of quippers](3-Mechanics/CLI/bestiary/beast/swarm-of-piranhas-xmm.md) |
+| 12 | 1 [water weird](3-Mechanics/CLI/bestiary/elemental/water-weird-xmm.md) |
 ^encounter
 
 #### Aquatic Troll
 
-An aquatic [troll](3-Mechanics/CLI/bestiary/giant/troll.md) swims up from the depths. It has the abilities of a normal troll, but can also breathe water and has a swimming speed of 30 feet.
+An aquatic [troll](3-Mechanics/CLI/bestiary/giant/troll-xmm.md) swims up from the depths. It has the abilities of a normal troll, but can also breathe water and has a swimming speed of 30 feet.
 
 #### Darkmantles
 
-These creatures cling to the ceiling as the adventurers approach, cloaking themselves in darkness as they unfurl and attack. A creature in a boat or on a raft that tries and fails to detach a [darkmantle](3-Mechanics/CLI/bestiary/monstrosity/darkmantle.md) from itself or another creature must succeed on a DC 10 Dexterity saving throw or fall out of the vessel and into the water.
+These creatures cling to the ceiling as the adventurers approach, cloaking themselves in darkness as they unfurl and attack. A creature in a boat or on a raft that tries and fails to detach a [darkmantle](3-Mechanics/CLI/bestiary/aberration/darkmantle-xmm.md) from itself or another creature must succeed on a DC 10 Dexterity saving throw or fall out of the vessel and into the water.
 
 #### Duergar
 
-A keelboat crewed by [duergar](3-Mechanics/CLI/bestiary/humanoid/duergar.md) is traversing the Darklake on business. The gray dwarves parley with the adventurers—or attack them if the opportunity looks ripe to capture them and sell them as slaves in Gracklstugh. If the duergar surprise all the characters, they turn [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible), making it appear that their boat is abandoned so as to lure the adventurers on board before they attack.
+A keelboat crewed by [duergar](3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md) is traversing the Darklake on business. The gray dwarves parley with the adventurers—or attack them if the opportunity looks ripe to capture them and sell them as slaves in Gracklstugh. If the duergar surprise all the characters, they turn [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible), making it appear that their boat is abandoned so as to lure the adventurers on board before they attack.
 
-Roll a `d20` and consult the Duergar Keelboat Cargo table to determine what, if anything, the duergar are transporting in their keelboat.
+Roll a `dice:d20|noform|noparens|avg` (`d20`) and consult the Duergar Keelboat Cargo table to determine what, if anything, the duergar are transporting in their keelboat.
 
 #### Duergar Keelboat Cargo
+
+`dice: [](03-chapter-3-the-darklake.md#^cargo)`
 
 | dice: d20 | Cargo |
 |-----------|-------|
 | 1–10 | None |
 | 11–13 | ` × 100` pounds of unrefined iron ore |
-| 14–16 | `1d4` zurkhwood crates filled with mining tools |
-| 17–19 | `2d4` zurkhwood casks of harvested fungi (see "Fungi of the Underdark" in chapter 2) |
+| 14–16 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) zurkhwood crates filled with mining tools |
+| 17–19 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) zurkhwood casks of harvested fungi (see "Fungi of the Underdark" in chapter 2) |
 | 20 | A locked iron chest containing `3d6 × 100` gp and a random magic item (roll once on Magic Item Table B in "chapter 7" of the *Dungeon Master's Guide*). |
 ^cargo
 
 #### Green Hag
 
-Nanny Plunk is a [green hag](3-Mechanics/CLI/bestiary/fey/green-hag.md) who likes to taunt and lead travelers astray. She might instead bargain with the characters with her knowledge of the Darklake, especially if her life or freedom is at stake. If this encounter occurs again, it might be with Nanny or one of her sisters, Maven Delve or Dame Spiderwort.
+Nanny Plunk is a [green hag](3-Mechanics/CLI/bestiary/fey/green-hag-xmm.md) who likes to taunt and lead travelers astray. She might instead bargain with the characters with her knowledge of the Darklake, especially if her life or freedom is at stake. If this encounter occurs again, it might be with Nanny or one of her sisters, Maven Delve or Dame Spiderwort.
 
 #### Grell
 
-A [grell](3-Mechanics/CLI/bestiary/aberration/grell.md) descends from the cavern ceiling, attempting to grab and paralyze one party member, then fly off with its victim.
+A [grell](3-Mechanics/CLI/bestiary/aberration/grell-xmm.md) descends from the cavern ceiling, attempting to grab and paralyze one party member, then fly off with its victim.
 
 #### Ixitxachitl
 
@@ -195,47 +203,51 @@ These creatures attack any party members in the water. Otherwise, they follow th
 
 #### Kuo-toa
 
-These [kuo-toa](3-Mechanics/CLI/bestiary/humanoid/kuo-toa.md) pole a keelboat toward Sloobludop (or away from the town if it has been attacked; see the end of this chapter). If the characters have not been to Sloobludop, the kuo-toa might try to capture them and bring them there. See "The Day's Catch" for details.
+These [kuo-toa](3-Mechanics/CLI/bestiary/aberration/kuo-toa-xmm.md) pole a keelboat toward Sloobludop (or away from the town if it has been attacked; see the end of this chapter). If the characters have not been to Sloobludop, the kuo-toa might try to capture them and bring them there. See "The Day's Catch" for details.
 
-Roll a `d20` and consult the Kuo-toa Keelboat Cargo table to determine what, if anything, the Kuo-toa are transporting in their keelboat.
+Roll a `dice:d20|noform|noparens|avg` (`d20`) and consult the Kuo-toa Keelboat Cargo table to determine what, if anything, the Kuo-toa are transporting in their keelboat.
 
 #### Kuo-toa Keelboat Cargo
+
+`dice: [](03-chapter-3-the-darklake.md#^cargo)`
 
 | dice: d20 | Cargo |
 |-----------|-------|
 | 1–15 | None |
-| 16–17 | `1d4` nets; each net has a 50 percent chance of containing `3d6` dead, edible quippers |
-| 18–19 | `1d4` nets; each net has a 50 percent chance of containing `1d4` living stirges |
-| 20 | `1d4` pieces of broken, barnacle-encrusted statuary, each worth 50 gp; each weighing `1d4 × 5` pounds; and each depicting a weird alien creature, a long-forgotten god, or fragment thereof. |
+| 16–17 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) nets; each net has a 50 percent chance of containing `dice:3d6\|noform\|noparens\|avg` (`3d6`) dead, edible quippers |
+| 18–19 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) nets; each net has a 50 percent chance of containing `dice:1d4\|noform\|noparens\|avg` (`1d4`) living stirges |
+| 20 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) pieces of broken, barnacle-encrusted statuary, each worth 50 gp; each weighing `1d4 × 5` pounds; and each depicting a weird alien creature, a long-forgotten god, or fragment thereof. |
 ^cargo
 
 #### Merrow
 
 These worshipers of Demogorgon have been driven into a frenzy by his arrival in the Underdark. They immediately attack, trying to capsize or wreck boats as they utter the war cry, "Blood and salt for the Prince of Demons!" in Abyssal.
 
-A [merrow](3-Mechanics/CLI/bestiary/monstrosity/merrow.md) can use its action to capsize a boat or raft within 5 feet of it. Anyone in the boat can thwart the merrow by using a reaction to make a Strength check contested by the merrow's Strength check. If the merrow wins the contest, the vessel capsizes.
+A [merrow](3-Mechanics/CLI/bestiary/monstrosity/merrow-xmm.md) can use its action to capsize a boat or raft within 5 feet of it. Anyone in the boat can thwart the merrow by using a reaction to make a Strength check contested by the merrow's Strength check. If the merrow wins the contest, the vessel capsizes.
 
 #### Stirges
 
-These [stirges](3-Mechanics/CLI/bestiary/beast/stirge.md) cling to the ceiling like bats. If the party is aware of the stirges, the characters can make a DC 13 group Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) check to slip past the stirges without disturbing them. If the group check succeeds, the stirges ignore the party. Otherwise, the stirges descend and attack the nearest party members.
+These [stirges](3-Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md) cling to the ceiling like bats. If the party is aware of the stirges, the characters can make a DC 13 group Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) check to slip past the stirges without disturbing them. If the group check succeeds, the stirges ignore the party. Otherwise, the stirges descend and attack the nearest party members.
 
 #### Swarm of Quippers
 
-A [swarm of quippers](3-Mechanics/CLI/bestiary/beast/swarm-of-quippers.md) keeps pace with the characters, attacking anyone in the water. If an hour passes and no meal has presented itself, the quippers stop following the party.
+A [swarm of quippers](3-Mechanics/CLI/bestiary/beast/swarm-of-piranhas-xmm.md) keeps pace with the characters, attacking anyone in the water. If an hour passes and no meal has presented itself, the quippers stop following the party.
 
 #### Water Weird
 
 Bound to some long-lost site beneath the surface of the water, this neutral evil elemental rises to attack when the characters pass by.
 
-Roll a `d6` and consult the Weird Discoveries table to determine what the [water weird](3-Mechanics/CLI/bestiary/elemental/water-weird.md) is guarding.
+Roll a `dice:d6|noform|noparens|avg` (`d6`) and consult the Weird Discoveries table to determine what the [water weird](3-Mechanics/CLI/bestiary/elemental/water-weird-xmm.md) is guarding.
 
 #### Weird Discoveries
+
+`dice: [](03-chapter-3-the-darklake.md#^discovery)`
 
 | dice: d6 | Discovery |
 |----------|-----------|
 | 1–2 | Sunken altar dedicated to a forgotten deity |
-| 3–4 | Sunken statue with 500 gp black pearls for eyes; a thief who removes one or both gems becomes the target of a [contagion](3-Mechanics/CLI/spells/contagion.md) spell (save DC 14). |
-| 5–6 | Sunken, sealed sarcophagus containing a [mummy](3-Mechanics/CLI/bestiary/undead/mummy.md) and `1d4` art objects (roll on the 250 gp Art Objects table in "chapter 7" of the *Dungeon Master's Guide*) |
+| 3–4 | Sunken statue with 500 gp black pearls for eyes; a thief who removes one or both gems becomes the target of a [contagion](3-Mechanics/CLI/spells/contagion-xphb.md) spell (save DC 14). |
+| 5–6 | Sunken, sealed sarcophagus containing a [mummy](3-Mechanics/CLI/bestiary/undead/mummy-xmm.md) and `dice:1d4\|noform\|noparens\|avg` (`1d4`) art objects (roll on the 250 gp Art Objects table in "chapter 7" of the *Dungeon Master's Guide*) |
 ^discovery
 
 ## Sloobludop
@@ -259,7 +271,7 @@ Sloobludop simmers with religious fervor and sectarian tension. While many of th
 > 
 > **Light.** Sloobludop's cavern is almost entirely dark except for a few spots of dim light from phosphorescent fungus and coral, or from glowing cave-fish glands. The kuo-toa recoil from areas of bright illumination, becoming hostile if bright light is brought among them.
 > 
-> **Bridges and Platforms.** Bridges and platforms are haphazardly strung throughout the city, connecting various levels of structures with each other as well as crisscrossing open spaces. Characters can move at a normal pace across the platforms and bridges, but this puts strain on their poor construction. Whenever one or more characters move at normal speed across a bridge or platform, roll a `d6`. On a roll of 1, a bridge flips or breaks to drop characters to the platform below, or a platform tilts to tip the characters into the water. These areas can be navigated safely by treating them as difficult terrain.
+> **Bridges and Platforms.** Bridges and platforms are haphazardly strung throughout the city, connecting various levels of structures with each other as well as crisscrossing open spaces. Characters can move at a normal pace across the platforms and bridges, but this puts strain on their poor construction. Whenever one or more characters move at normal speed across a bridge or platform, roll a `dice:d6|noform|noparens|avg` (`d6`). On a roll of 1, a bridge flips or breaks to drop characters to the platform below, or a platform tilts to tip the characters into the water. These areas can be navigated safely by treating them as difficult terrain.
 > 
 > **Language.** None of the inhabitants of Sloobludop speak Common or any surface-world language, which might present a challenge for the characters. The fish-folk speak Undercommon, and [Stool](3-Mechanics/CLI/bestiary/npc/stool-oota.md) the myconid sprout can establish communication using its rapport spores if it is present. Shuushar the kuo-toa monk can also translate if he accompanies the party.
 ^sloobludop-general-features
@@ -304,11 +316,11 @@ If Shuushar accompanies the party, the kuo-toa monk can be helpful in communicat
 
 ## The Day's Catch
 
-When the adventurers come within an hour's travel of Sloobludop, they encounter a party of eight [kuo-toa](3-Mechanics/CLI/bestiary/humanoid/kuo-toa.md) led by a [kuo-toa monitor](3-Mechanics/CLI/bestiary/humanoid/kuo-toa-monitor.md). The fish-folk immediately attack, but their tactics show that they are attempting to capture the characters. The kuo-toa leave any fallen opponents [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) at 0 hit points, intending to bring them back to Sloobludop as live offerings to the Deep Father. They bind prisoners with tough cords of gut, each with 2 hit points and requiring a successful DC 17 Strength check to break.
+When the adventurers come within an hour's travel of Sloobludop, they encounter a party of eight [kuo-toa](3-Mechanics/CLI/bestiary/aberration/kuo-toa-xmm.md) led by a [kuo-toa monitor](3-Mechanics/CLI/bestiary/aberration/kuo-toa-monitor-xmm.md). The fish-folk immediately attack, but their tactics show that they are attempting to capture the characters. The kuo-toa leave any fallen opponents [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) at 0 hit points, intending to bring them back to Sloobludop as live offerings to the Deep Father. They bind prisoners with tough cords of gut, each with 2 hit points and requiring a successful DC 17 Strength check to break.
 
 ### The Enemy of My Enemy
 
-On the way to Sloobludop after the previous encounter, the characters run into another kuo-toa patrol, this one made up of six [kuo-toa](3-Mechanics/CLI/bestiary/humanoid/kuo-toa.md) and two [kuo-toa monitors](3-Mechanics/CLI/bestiary/humanoid/kuo-toa-monitor.md), led by the [kuo-toa archpriest](3-Mechanics/CLI/bestiary/humanoid/kuo-toa-archpriest.md) Ploopploopeen. If the characters are prisoners of the first kuo-toa patrol, the newcomers ambush them and fight to free the characters. Otherwise (or after the fight), Ploopploopeen attempts to communicate in Undercommon, then casts [tongues](3-Mechanics/CLI/spells/tongues.md) if none of the characters speak it. Read the following:
+On the way to Sloobludop after the previous encounter, the characters run into another kuo-toa patrol, this one made up of six [kuo-toa](3-Mechanics/CLI/bestiary/aberration/kuo-toa-xmm.md) and two [kuo-toa monitors](3-Mechanics/CLI/bestiary/aberration/kuo-toa-monitor-xmm.md), led by the [kuo-toa archpriest](3-Mechanics/CLI/bestiary/aberration/kuo-toa-archpriest-xmm.md) Ploopploopeen. If the characters are prisoners of the first kuo-toa patrol, the newcomers ambush them and fight to free the characters. Otherwise (or after the fight), Ploopploopeen attempts to communicate in Undercommon, then casts [tongues](3-Mechanics/CLI/spells/tongues-xphb.md) if none of the characters speak it. Read the following:
 
 > [!readaloud] 
 > 
@@ -339,22 +351,22 @@ No matter whether the characters approach the final encounter as willing partici
 ^a-kuo-toan-koan
 
 > [!gallery]
-> ![Map 3.1: Sloobludop](3-Mechanics/CLI/adventures/out-of-the-abyss/img/024-03-01.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/out-of-the-abyss/img/025-sloobludop-player-version.webp#gallery)
+> ![Map 3.1: Sloobludop](file://adventure/OotA/024-03-01.webp#gallery)
+> ![Player Version](file://adventure/OotA/025-sloobludop-player-version.webp#gallery)
 
 ## 1. Gate
 
-Sloobludop is enclosed to the north and south by outer "walls" of heavy netting with sharp bone hooks woven into them. In the middle of each wall is a gate through which creatures can safely pass. Any creature wishing to crawl through the netting can do so with a successful DC 15 Dexterity ([Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)) check. On a failure, the creature takes `1d8` piercing damage and becomes [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) in the netting, requiring a successful DC 12 Strength check as an action to break free.
+Sloobludop is enclosed to the north and south by outer "walls" of heavy netting with sharp bone hooks woven into them. In the middle of each wall is a gate through which creatures can safely pass. Any creature wishing to crawl through the netting can do so with a successful DC 15 Dexterity ([Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)) check. On a failure, the creature takes `dice:1d8|noform|noparens|avg` (`1d8`) piercing damage and becomes [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) in the netting, requiring a successful DC 12 Strength check as an action to break free.
 
-Stationed outside each gate are four [kuo-toa whips](3-Mechanics/CLI/bestiary/humanoid/kuo-toa-whip.md). They confront anyone who approaches. Party members escorted by other kuo-toa can pass through the gate unchallenged. If the characters are unescorted, any kuo-toa they meet attempt to capture them. Roll a `d20`. On a 1–7, captives are taken to area 3. On an 8–18, captives are taken to area 4. On a 19–20, the guards are evenly split and immediately begin to brawl for the right to take the characters as prisoners.
+Stationed outside each gate are four [kuo-toa whips](3-Mechanics/CLI/bestiary/aberration/kuo-toa-whip-xmm.md). They confront anyone who approaches. Party members escorted by other kuo-toa can pass through the gate unchallenged. If the characters are unescorted, any kuo-toa they meet attempt to capture them. Roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1–7, captives are taken to area 3. On an 8–18, captives are taken to area 4. On a 19–20, the guards are evenly split and immediately begin to brawl for the right to take the characters as prisoners.
 
 ## 2. Docks
 
 A half-dozen kuo-toan keelboats are moored here. Although kuo-toa will negotiate terms for ferrying the characters across the Darklake, none leave without permission (see below). Party members can attempt to steal one or more of the boats, but doing so requires a successful DC 16 Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) check (and the kuo-toa are able to sense [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) creatures). The kuo-toa pursue any stolen boats, intending to capture the thieves as offerings to appease their gods.
 
-Five groups of three [kuo-toa monitors](3-Mechanics/CLI/bestiary/humanoid/kuo-toa-monitor.md) led by a [kuo-toa whip](3-Mechanics/CLI/bestiary/humanoid/kuo-toa-whip.md) patrol the platforms at the water's edge. They ensure no vessel enters or leaves without submitting to "auguries" to determine if a crew's actions are pleasing to the god of the hour—in this case, the Deep Father.
+Five groups of three [kuo-toa monitors](3-Mechanics/CLI/bestiary/aberration/kuo-toa-monitor-xmm.md) led by a [kuo-toa whip](3-Mechanics/CLI/bestiary/aberration/kuo-toa-whip-xmm.md) patrol the platforms at the water's edge. They ensure no vessel enters or leaves without submitting to "auguries" to determine if a crew's actions are pleasing to the god of the hour—in this case, the Deep Father.
 
-The auguries consist of a half-hour ritual, during which the whip casts bones, shells, and other tokens and reads the resulting omens. Roll a `d20`. On 1–8, the whip finds the omens favorable; on 9–18, he finds them unfavorable; and on 19–20, the auguries are unclear, and the whip feels the need to consult the archpriest of the Deep Father (area 4).
+The auguries consist of a half-hour ritual, during which the whip casts bones, shells, and other tokens and reads the resulting omens. Roll a `dice:d20|noform|noparens|avg` (`d20`). On 1–8, the whip finds the omens favorable; on 9–18, he finds them unfavorable; and on 19–20, the auguries are unclear, and the whip feels the need to consult the archpriest of the Deep Father (area 4).
 
 If the characters met or spoke with the archpriest of the Deep Father before coming here, the whip automatically refuses their request to leave.
 
@@ -369,13 +381,13 @@ When the characters arrive here, on their own or escorted, read the following to
 
 All creatures that come here are expected to make an offering to the Great Sea Mother Blibdoolpoolp. A successful DC 13 Intelligence ([Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check recalls that Blibdoolpoolp is a scavenger goddess, meaning that discarded and recovered items are worthy offerings—and the more personal the better. Regurgitating at the goddess's feet is considered a sincere show of faith (and a behavior faithful kuo-toa might display if the characters wait long enough).
 
-Four [kuo-toa monitors](3-Mechanics/CLI/bestiary/humanoid/kuo-toa-monitor.md) guard the statue at all times, and there are always `2d4` [kuo-toa](3-Mechanics/CLI/bestiary/humanoid/kuo-toa.md) worshipers around it offering prayers. Currently the shrine is tended by Glooglugogg, a [kuo-toa whip](3-Mechanics/CLI/bestiary/humanoid/kuo-toa-whip.md) and son of Ploopploopeen, the archpriest of the Sea Mother. The guards are wary of anyone, including other kuo-toa, due to recent tensions.
+Four [kuo-toa monitors](3-Mechanics/CLI/bestiary/aberration/kuo-toa-monitor-xmm.md) guard the statue at all times, and there are always `dice:2d4|noform|noparens|avg` (`2d4`) [kuo-toa](3-Mechanics/CLI/bestiary/aberration/kuo-toa-xmm.md) worshipers around it offering prayers. Currently the shrine is tended by Glooglugogg, a [kuo-toa whip](3-Mechanics/CLI/bestiary/aberration/kuo-toa-whip-xmm.md) and son of Ploopploopeen, the archpriest of the Sea Mother. The guards are wary of anyone, including other kuo-toa, due to recent tensions.
 
-Ploopploopeen claims a small hovel adjacent to the shrine, where he is attended by four [kuo-toa](3-Mechanics/CLI/bestiary/humanoid/kuo-toa.md). This is where he brings the characters if they are his "guests."
+Ploopploopeen claims a small hovel adjacent to the shrine, where he is attended by four [kuo-toa](3-Mechanics/CLI/bestiary/aberration/kuo-toa-xmm.md). This is where he brings the characters if they are his "guests."
 
 ### Treasure
 
-The home of the archpriest contains a closet full of "offerings" taken from less fortunate travelers or culled from the depths of the lake. This includes 500 cp, 2,000 sp, 150 gp, 27 pp, a strand of matched pearls worth 1,000 gp total, two [potions of healing](3-Mechanics/CLI/items/potion-of-healing.md), a [potion of water breathing](3-Mechanics/CLI/items/potion-of-water-breathing.md), and a [spell scroll](3-Mechanics/CLI/items/spell-scroll.md) of [light](3-Mechanics/CLI/spells/light.md).
+The home of the archpriest contains a closet full of "offerings" taken from less fortunate travelers or culled from the depths of the lake. This includes 500 cp, 2,000 sp, 150 gp, 27 pp, a strand of matched pearls worth 1,000 gp total, two [potions of healing](3-Mechanics/CLI/items/potion-of-healing-xdmg.md), a [potion of water breathing](3-Mechanics/CLI/items/potion-of-water-breathing-xdmg.md), and a [spell scroll](3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [light](3-Mechanics/CLI/spells/light-xphb.md).
 
 ## 4. Altar of the Deep Father
 
@@ -386,11 +398,11 @@ When the characters visit the altar of the Deep Father, read the following to th
 > The idol to Leemooggoogoon the Deep Father consists of a large hide cut roughly in the shape of a manta ray and stretched out on cords between two support poles. A dead, splayed-out manta ray is pinned to the center of the hide. Two dead octopuses are draped across the top, their tentacles pinned and artfully arrayed, their heads tied together and painted with red and blue pigments. The idol reeks of decay, and the broad stone altar below the idol is stained dark with blood.
 ^128
 
-![](3-Mechanics/CLI/adventures/out-of-the-abyss/img/026-ooa03-04.webp#center)
+![](file://adventure/OotA/026-ooa03-04.webp#center)
 
-Six [kuo-toa](3-Mechanics/CLI/bestiary/humanoid/kuo-toa.md) work at the altar, cleaning up and arranging offerings. Klibdoloogut, a [kuo-toa whip](3-Mechanics/CLI/bestiary/humanoid/kuo-toa-whip.md) dedicated to the Deep Father, stands in front of the altar with two [kuo-toa monitors](3-Mechanics/CLI/bestiary/humanoid/kuo-toa-monitor.md). Offerings are usually living creatures killed on the altar, although an offering of one's own blood also satisfies the whip. Humanoids other than kuo-toa are immediately taken into custody to be brought before the archpriest of the Deep Father, who summarily condemns them to be sacrificed.
+Six [kuo-toa](3-Mechanics/CLI/bestiary/aberration/kuo-toa-xmm.md) work at the altar, cleaning up and arranging offerings. Klibdoloogut, a [kuo-toa whip](3-Mechanics/CLI/bestiary/aberration/kuo-toa-whip-xmm.md) dedicated to the Deep Father, stands in front of the altar with two [kuo-toa monitors](3-Mechanics/CLI/bestiary/aberration/kuo-toa-monitor-xmm.md). Offerings are usually living creatures killed on the altar, although an offering of one's own blood also satisfies the whip. Humanoids other than kuo-toa are immediately taken into custody to be brought before the archpriest of the Deep Father, who summarily condemns them to be sacrificed.
 
-Bloppblippodd, a female [kuo-toa archpriest](3-Mechanics/CLI/bestiary/humanoid/kuo-toa-archpriest.md) of the Deep Father, lives on the bottom floor of a squat hovel near the altar. She is a bloodthirsty sadist absolutely assured that her divine vision will raise her in glory to rule her people. Bound and gagged against the far wall is a duergar prisoner (see "The Offering").
+Bloppblippodd, a female [kuo-toa archpriest](3-Mechanics/CLI/bestiary/aberration/kuo-toa-archpriest-xmm.md) of the Deep Father, lives on the bottom floor of a squat hovel near the altar. She is a bloodthirsty sadist absolutely assured that her divine vision will raise her in glory to rule her people. Bound and gagged against the far wall is a duergar prisoner (see "The Offering").
 
 ### Treasure
 
@@ -400,24 +412,24 @@ Bloppblippodd's hovel contains wealth accumulated since her rise to power: 1,000
 
 If allowed to do so, Ploopploopeen brings the characters to his quarters near the Shrine of the Deep Mother. There they meet Glooglugogg, who loudly tells his father in Undercommon that he sees no need for outsiders to be involved in sacred matters. The archpriest dismisses his son's concerns with a negligent wave, telling Glooglugogg that he must flow with the currents of the goddess's visions. The whip relents but throws the characters a hostile glare.
 
-Within the hour, twelve [kuo-toa](3-Mechanics/CLI/bestiary/humanoid/kuo-toa.md) led by a [kuo-toa monitor](3-Mechanics/CLI/bestiary/humanoid/kuo-toa-monitor.md) arrive at Ploopploopeen's quarters. The archpriest of the Sea Mother admits the monitor and informs him that he, his whip, and the prisoners will accompany them to see the archpriest of the Deep Father. They are escorted to the altar of the Deep Father near the docks, where Bloppblippodd awaits them. Describe the scene to the players as given in that area, then read the following boxed text; if none of the characters speak Undercommon, the exchange is gibberish to them, though Shuushar can translate.
+Within the hour, twelve [kuo-toa](3-Mechanics/CLI/bestiary/aberration/kuo-toa-xmm.md) led by a [kuo-toa monitor](3-Mechanics/CLI/bestiary/aberration/kuo-toa-monitor-xmm.md) arrive at Ploopploopeen's quarters. The archpriest of the Sea Mother admits the monitor and informs him that he, his whip, and the prisoners will accompany them to see the archpriest of the Deep Father. They are escorted to the altar of the Deep Father near the docks, where Bloppblippodd awaits them. Describe the scene to the players as given in that area, then read the following boxed text; if none of the characters speak Undercommon, the exchange is gibberish to them, though Shuushar can translate.
 
 > [!readaloud] 
 > 
 > The archpriest of the Sea Mother steps forward across the span of the altar toward the kuo-toa waiting for him there. "The time has come," he says, "for us to acknowledge your divine vision and welcome it. I have brought these as offerings." He gestures toward all of you, standing within a circle of guards behind him. "Will you not accept them?" "You are wise, father," the younger archpriest replies. "I accept your offering in the name of the Deep Father. May their blood nourish and strengthen him!" A burbling cheer goes up from the surrounding kuo-toa, their fists raised in the air.
 ^12b
 
-The followers of the Deep Father are already preparing to sacrifice a bruised and bedraggled [duergar](3-Mechanics/CLI/bestiary/humanoid/duergar.md) named Hemeth—an arms smuggler who was looking to cut a deal with one or both factions of the kuo-toa, but instead found himself captured for his trouble. He's willing to cooperate with the characters to save his own skin, and will even return the favor given the opportunity (see chapter 4, "Gracklstugh").
+The followers of the Deep Father are already preparing to sacrifice a bruised and bedraggled [duergar](3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md) named Hemeth—an arms smuggler who was looking to cut a deal with one or both factions of the kuo-toa, but instead found himself captured for his trouble. He's willing to cooperate with the characters to save his own skin, and will even return the favor given the opportunity (see chapter 4, "Gracklstugh").
 
 ## The Ritual
 
 Kuo-toa parade around the altar in a wide circle as they chant. Part of their path sends them splashing and wading through the shallows of the Darklake. The characters quickly can't tell one faction of fish-folk from the other, but they see the archpriest of the Sea Mother and his whip moving toward the altar.
 
-Bloppblippodd calls for the sacrifices to be brought forth, and one [kuo-toa](3-Mechanics/CLI/bestiary/humanoid/kuo-toa.md) per character jumps to do her bidding. They prod the characters with their spears to herd them toward a slight depression 20 feet from the altar, with a large grate at its center. The characters can see that the stonework of the depression is stained with the blood of innumerable sacrifices, and they can hear the gentle lapping of the Darklake coming up through the grate. The chanting grows louder.
+Bloppblippodd calls for the sacrifices to be brought forth, and one [kuo-toa](3-Mechanics/CLI/bestiary/aberration/kuo-toa-xmm.md) per character jumps to do her bidding. They prod the characters with their spears to herd them toward a slight depression 20 feet from the altar, with a large grate at its center. The characters can see that the stonework of the depression is stained with the blood of innumerable sacrifices, and they can hear the gentle lapping of the Darklake coming up through the grate. The chanting grows louder.
 
 When the sacrifices are brought forward, Bloppblippodd gestures toward the altar, whereupon her father suddenly attacks, striking her with his scepter. Kuo-toa loyal to him surge forward to attack, while the guards that brought the characters forward stand in shock. They are [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised) and can't move or take an action on their first turn of the combat, and they can't take reactions until that first turn ends.
 
-As the two [archpriests](3-Mechanics/CLI/bestiary/humanoid/kuo-toa-archpriest.md) and their followers fight, the characters can intervene on either side or attempt to slip away during the melee.
+As the two [archpriests](3-Mechanics/CLI/bestiary/aberration/kuo-toa-archpriest-xmm.md) and their followers fight, the characters can intervene on either side or attempt to slip away during the melee.
 
 On round 3 of the fight, characters notice kuo-toa crying out and flailing in the shallows of the Darklake. Several are pulled under or strike at unseen foes beneath the surface. The water foams red with blood.
 
@@ -432,7 +444,7 @@ Although Bloppblippodd falls, the ritual still achieves a terrible success. Read
 > Another sound rises above the burbling cries of the kuo-toa. The dark surface of the water farther out bubbles and begins to foam. A thick, oily tentacle bursts forth, followed by another. Then two monstrous heads break the surface, both resembling hideous, angry baboons with wickedly curved tusks. Both heads are attached to a single torso, and the monster's red eyes burn with bloodlust and madness. The creature rising from the Darklake must stand thirty feet tall or more, with water cascading down its back and shoulders. Upon reaching its full height, the great demon throws back both its heads and roars!
 ^12e
 
-The kuo-toa offerings and the fervor of his worshipers in the Darklake have drawn the attention of [Demogorgon](3-Mechanics/CLI/bestiary/npc/demogorgon-mpmm.md) (see appendix D). Upon witnessing the rise of the Prince of Demons, each party member must succeed on a DC 13 Charisma saving throw or gain a level of madness (see "Madness" in chapter 2). The kuo-toa become [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) for `1d10` minutes, crying out "Leemooggoogoon!" over and over again.
+The kuo-toa offerings and the fervor of his worshipers in the Darklake have drawn the attention of [Demogorgon](3-Mechanics/CLI/bestiary/npc/demogorgon-mpmm.md) (see appendix D). Upon witnessing the rise of the Prince of Demons, each party member must succeed on a DC 13 Charisma saving throw or gain a level of madness (see "Madness" in chapter 2). The kuo-toa become [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) for `dice:1d10|noform|noparens|avg` (`1d10`) minutes, crying out "Leemooggoogoon!" over and over again.
 
 Demogorgon wades toward Sloobludop, heads roaring and gibbering, tentacles flailing and smashing the water. In 4 rounds, he comes within reach of the shoreline and lashes out, smashing docks and sending bodies flying with each sweep of his tentacles. When the demon lord attacks, some kuo-toa recover their wits enough to flee, while others cower, [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed) with fear.
 
@@ -442,7 +454,7 @@ Hopefully, the players exercise the better part of valor and flee as soon as the
 
 #### Escape by Land
 
-Fleeing by land requires dodging terrified kuo-toa, and even fighting fish-folk driven to a killing frenzy against the characters for having drawn this doom down upon them. Roll a `d20`. On a 17–20, `2d4` [kuo-toa](3-Mechanics/CLI/bestiary/humanoid/kuo-toa.md) attack the characters during their escape.
+Fleeing by land requires dodging terrified kuo-toa, and even fighting fish-folk driven to a killing frenzy against the characters for having drawn this doom down upon them. Roll a `dice:d20|noform|noparens|avg` (`d20`). On a 17–20, `dice:2d4|noform|noparens|avg` (`2d4`) [kuo-toa](3-Mechanics/CLI/bestiary/aberration/kuo-toa-xmm.md) attack the characters during their escape.
 
 #### Escape by Water
 
@@ -456,4 +468,4 @@ The adventurers end this chapter with a terrible realization: Demogorgon is loos
 
 In addition to the XP awards earned for the creatures the party overcomes in this chapter, the characters earn 400 XP (divided equally among all party members) for surviving the encounter with the Cult of the Deep Father and their brush with the Prince of Demons.
 
-![](3-Mechanics/CLI/adventures/out-of-the-abyss/img/027-ooa03-05.webp#center)
+![](file://adventure/OotA/027-ooa03-05.webp#center)

@@ -12,6 +12,8 @@ aliases:
 
 **Faerie Dragon Art Objects**
 
+`dice: [](faerie-dragon-treasures-faerie-dragon-art-objects-ftd.md#^faerie-dragon-art-objects)`
+
 | dice: d8 | Object |
 |----------|--------|
 | 1 | A fist-sized puzzle box that the dragon hasn't been able to open, and that holds a tiny clay tablet marked with a mysterious string of numbers |

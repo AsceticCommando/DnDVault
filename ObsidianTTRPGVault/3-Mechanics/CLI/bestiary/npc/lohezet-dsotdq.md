@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Lohezet"
 ---
-# [Lohezet](3-Mechanics\CLI\bestiary\npc/lohezet-dsotdq.md)
+# [Lohezet](3-Mechanics/CLI/bestiary/npc/lohezet-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 205*  
 
 A black-robed member of the Mages of High Sorcery, Lohezet is a scholar obsessed with extinct creatures and fallen empires. He views the Dragon Army as a way to recreate the glories of Ansalon's past. During the Dragon Armies' invasions of Khur and Kendermore, Lohezet's investigations of Istarian ruins revealed the location of the flying city of Onyari. He now travels with the Red Dragon Army, intent on finding the City of Lost Names and restoring it to the skies.
@@ -76,11 +76,12 @@ Lohezet employs the strategies of extinct poisonous predators in battle. His mag
     "name": "Miasma (Recharge 4-6)"
   - "desc": "Lohezet casts one of the following spells, requiring no material components\
       \ and using Intelligence as the spellcasting ability (spell save DC 17):\n\n\
-      **At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [light](3-Mechanics/CLI/spells/light.md),\
-      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md)\n\n**2/day\
-      \ each:** [dimension door](3-Mechanics/CLI/spells/dimension-door.md), [mage\
-      \ armor](3-Mechanics/CLI/spells/mage-armor.md)\n\n**1/day each:** [arcane eye](3-Mechanics/CLI/spells/arcane-eye.md),\
-      \ [dominate person](3-Mechanics/CLI/spells/dominate-person.md), [wall of force](3-Mechanics/CLI/spells/wall-of-force.md)"
+      **At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [light](3-Mechanics/CLI/spells/light-xphb.md),\
+      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n**2/day\
+      \ each:** [dimension door](3-Mechanics/CLI/spells/dimension-door-xphb.md), [mage\
+      \ armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)\n\n**1/day each:** [arcane\
+      \ eye](3-Mechanics/CLI/spells/arcane-eye-xphb.md), [dominate person](3-Mechanics/CLI/spells/dominate-person-xphb.md),\
+      \ [wall of force](3-Mechanics/CLI/spells/wall-of-force-xphb.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "When a creature within 60 feet of Lohezet damages him, Lohezet magically\
@@ -90,6 +91,6 @@ Lohezet employs the strategies of extinct poisonous predators in battle. His mag
     "name": "Noxious Rebuke (3/Day)"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/npc/token/lohezet-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Lohezet.webp"
 ```
 ^statblock

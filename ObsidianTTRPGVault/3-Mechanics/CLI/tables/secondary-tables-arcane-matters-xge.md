@@ -12,6 +12,8 @@ aliases:
 
 **Arcane Matters**
 
+`dice: [](secondary-tables-arcane-matters-xge.md#^arcane-matters)`
+
 | dice: d10 | Magical Event |
 |-----------|---------------|
 | 1 | You were [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) or [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) by a spell. |

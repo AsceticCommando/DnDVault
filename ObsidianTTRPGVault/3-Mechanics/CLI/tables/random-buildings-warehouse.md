@@ -12,6 +12,8 @@ aliases:
 
 **Warehouse**
 
+`dice: [](random-buildings-warehouse.md#^warehouse)`
+
 | dice: d20 | Type |
 |-----------|------|
 | 1-4 | Empty or abandoned |

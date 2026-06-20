@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Witchstalker"
 ---
-# [Witchstalker](3-Mechanics\CLI\bestiary\monstrosity/witchstalker-mcv4ec.md)
+# [Witchstalker](3-Mechanics/CLI/bestiary/monstrosity/witchstalker-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 Twice the size of their ordinary kin, witchstalkers are giant wolves drawn to sources of magic by their supernatural sense of smell. As a result, the moors and forests of Dunbarrow make for good hunting grounds. The greater the source of magic, the more witchstalkers are drawn to the area. To their dismay, witches have drawn as many as a dozen witchstalkers.
@@ -78,6 +78,6 @@ Witchstalkers resemble monstrous wolves with enormous jaws and ridged spines. By
     "name": "Spell Stalk"
 "source":
   - "MCV4EC"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/witchstalker-mcv4ec.webp"
+"image": "file://bestiary/tokens/MCV4EC/Witchstalker.webp"
 ```
 ^statblock

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Fiendish Flesh Golem"
 ---
-# [Fiendish Flesh Golem](3-Mechanics\CLI\bestiary\construct/fiendish-flesh-golem-bgdia.md)
+# [Fiendish Flesh Golem](3-Mechanics/CLI/bestiary/construct/fiendish-flesh-golem-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 236*  
 
 A fiendish flesh golem is a particularly big flesh golem made of stitched-together body parts from devils, demons, yugoloths, and other fiends. As these parts can come from different creatures and be combined in different ways, no two fiendish flesh golems look exactly alike. Night hags guard the secret to making such golems, rarely sharing it with anyone else.
@@ -79,6 +79,6 @@ Some fiendish flesh golems have wings. However, the magic used to create these g
     "name": "Slam"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/construct/token/fiendish-flesh-golem-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Fiendish%20Flesh%20Golem.webp"
 ```
 ^statblock

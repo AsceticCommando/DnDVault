@@ -12,6 +12,8 @@ aliases:
 
 **Elementals**
 
+`dice: [](monsters-desires-elementals-tce.md#^elementals)`
+
 | dice: d4 | Desired Offering |
 |----------|------------------|
 | 1 | A gem worth at least 50 gp, which the creature eats |

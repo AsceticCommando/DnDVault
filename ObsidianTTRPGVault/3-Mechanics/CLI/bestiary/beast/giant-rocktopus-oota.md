@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Giant Rocktopus"
 ---
-# [Giant Rocktopus](3-Mechanics\CLI\bestiary\beast/giant-rocktopus-oota.md)
+# [Giant Rocktopus](3-Mechanics/CLI/bestiary/beast/giant-rocktopus-oota.md)
 *Source: Out of the Abyss p. 28*  
 
 ```statblock
@@ -58,6 +58,6 @@ aliases:
     "name": "Ink Cloud (Recharges after a Short or Long Rest)"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/beast/token/giant-rocktopus-oota.webp"
+"image": "file://bestiary/tokens/OotA/Giant%20Rocktopus.webp"
 ```
 ^statblock

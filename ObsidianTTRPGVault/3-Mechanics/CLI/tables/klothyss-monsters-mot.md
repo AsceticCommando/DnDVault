@@ -16,10 +16,10 @@ aliases:
 |-----------|----------|
 | 1 | [Satyr reveler](3-Mechanics/CLI/bestiary/fey/satyr-reveler-mot.md) |
 | 2 | [Satyr thornbearer](3-Mechanics/CLI/bestiary/fey/satyr-thornbearer-mot.md) |
-| 3 | [Green hag](3-Mechanics/CLI/bestiary/fey/green-hag.md) |
+| 3 | [Green hag](3-Mechanics/CLI/bestiary/fey/green-hag-xmm.md) |
 | 4 | [Oracle](3-Mechanics/CLI/bestiary/humanoid/oracle-mot.md) |
 | 6 | [Annis hag](3-Mechanics/CLI/bestiary/fey/annis-hag-mpmm.md) |
-| 6 | [Cyclops](3-Mechanics/CLI/bestiary/giant/cyclops.md)* |
+| 6 | [Cyclops](3-Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm.md)* |
 | 6 | [Underworld cerberus](3-Mechanics/CLI/bestiary/monstrosity/underworld-cerberus-mot.md) |
 | 7 | [Woe strider](3-Mechanics/CLI/bestiary/aberration/woe-strider-mot.md) |
 | 9 | [Phylaskia](3-Mechanics/CLI/bestiary/undead/phylaskia-mot.md) |

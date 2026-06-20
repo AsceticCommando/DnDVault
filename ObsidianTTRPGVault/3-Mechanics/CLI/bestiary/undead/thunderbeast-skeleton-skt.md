@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Thunderbeast Skeleton"
 ---
-# [Thunderbeast Skeleton](3-Mechanics\CLI\bestiary\undead/thunderbeast-skeleton-skt.md)
+# [Thunderbeast Skeleton](3-Mechanics/CLI/bestiary/undead/thunderbeast-skeleton-skt.md)
 *Source: Storm King's Thunder p. 99*  
 
 ```statblock
@@ -50,6 +50,6 @@ aliases:
     "name": "Tail"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/undead/token/thunderbeast-skeleton-skt.webp"
+"image": "file://bestiary/tokens/SKT/Thunderbeast%20Skeleton.webp"
 ```
 ^statblock

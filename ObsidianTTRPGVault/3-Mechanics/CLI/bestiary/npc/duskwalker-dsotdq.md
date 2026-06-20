@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Duskwalker"
 ---
-# [Duskwalker](3-Mechanics\CLI\bestiary\npc/duskwalker-dsotdq.md)
+# [Duskwalker](3-Mechanics/CLI/bestiary/npc/duskwalker-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 150*  
 
 ```statblock
@@ -54,7 +54,7 @@ aliases:
       \ 28 (4d10 + 6) bludgeoning damage."
     "name": "Rock"
   - "desc": "Duskwalker magically animates one or two trees it can see within 60 feet\
-      \ of it. These trees have the same statistics as a [treant](3-Mechanics/CLI/bestiary/plant/treant.md),\
+      \ of it. These trees have the same statistics as a [treant](3-Mechanics/CLI/bestiary/plant/treant-xmm.md),\
       \ except they have Intelligence and Charisma scores of 1, they can't speak,\
       \ and they have only the Slam action option. An animated tree acts as an ally\
       \ of Duskwalker. The tree remains animate for 1 day or until it dies; until\
@@ -64,6 +64,6 @@ aliases:
     "name": "Animate Trees (1/Day)"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/npc/token/duskwalker-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Duskwalker.webp"
 ```
 ^statblock

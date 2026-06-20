@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Treant Sapling"
 ---
-# [Treant Sapling](3-Mechanics\CLI\bestiary\plant/treant-sapling-wbtw.md)
+# [Treant Sapling](3-Mechanics/CLI/bestiary/plant/treant-sapling-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 36*  
 
 ```statblock
@@ -63,6 +63,6 @@ aliases:
     "name": "Animate Trees (1/Day)"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/plant/token/treant-sapling-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Treant%20Sapling.webp"
 ```
 ^statblock

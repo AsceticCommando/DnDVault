@@ -12,6 +12,8 @@ aliases:
 
 **Githzerai Names, Female**
 
+`dice: [](gith-tables-githzerai-names-female-mtf.md#^githzerai-names-female)`
+
 | dice: d10 | Name |
 |-----------|------|
 | 1 | Adaka |

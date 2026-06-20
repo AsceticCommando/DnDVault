@@ -12,6 +12,8 @@ aliases:
 
 **Aurum Missions**
 
+`dice: [](aurum-missions-erlw.md#^aurum-missions)`
+
 | dice: d6 | Mission |
 |----------|---------|
 | 1 | Retrieve a journal from a ship that sailed to Xen'drik and never returned. |

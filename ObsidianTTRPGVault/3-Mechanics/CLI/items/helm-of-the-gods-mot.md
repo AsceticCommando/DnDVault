@@ -18,25 +18,25 @@ While wearing this helm, you know whether there is a celestial or fiend within 3
 
 Whenever you finish a long rest while wearing the helm, you can pray to one of the gods listed on the Helm of the Gods table and store the listed spell in the helm, replacing any spell that is already stored there. The save DC for the spell is 13.
 
-The helm has 3 charges. To cast a spell from the helm, you must expend 1 charge, and the helm regains `1d3` charges daily at dawn.
+The helm has 3 charges. To cast a spell from the helm, you must expend 1 charge, and the helm regains `dice:1d3|noform|noparens|avg` (`1d3`) charges daily at dawn.
 
 | God | Spell |
 |-----|-------|
-| Athreos | [protection from evil and good](3-Mechanics/CLI/spells/protection-from-evil-and-good.md) |
-| Ephara | [sanctuary](3-Mechanics/CLI/spells/sanctuary.md) |
-| Erebos | [inflict wounds](3-Mechanics/CLI/spells/inflict-wounds.md) |
-| Heliod | [guiding bolt](3-Mechanics/CLI/spells/guiding-bolt.md) |
-| Iroas | [heroism](3-Mechanics/CLI/spells/heroism.md) |
-| Karametra | [goodberry](3-Mechanics/CLI/spells/goodberry.md) |
-| Keranos | [thunderous smite](3-Mechanics/CLI/spells/thunderous-smite.md) |
-| Klothys | [entangle](3-Mechanics/CLI/spells/entangle.md) |
-| Kruphix | [dissonant whispers](3-Mechanics/CLI/spells/dissonant-whispers.md) |
-| Mogis | [hellish rebuke](3-Mechanics/CLI/spells/hellish-rebuke.md) |
-| Nylea | [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md) |
-| Pharika | [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration.md) |
-| Phenax | [charm person](3-Mechanics/CLI/spells/charm-person.md) |
-| Purphoros | [searing smite](3-Mechanics/CLI/spells/searing-smite.md) |
-| Thassa | [identify](3-Mechanics/CLI/spells/identify.md) |
+| Athreos | [protection from evil and good](3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md) |
+| Ephara | [sanctuary](3-Mechanics/CLI/spells/sanctuary-xphb.md) |
+| Erebos | [inflict wounds](3-Mechanics/CLI/spells/inflict-wounds-xphb.md) |
+| Heliod | [guiding bolt](3-Mechanics/CLI/spells/guiding-bolt-xphb.md) |
+| Iroas | [heroism](3-Mechanics/CLI/spells/heroism-xphb.md) |
+| Karametra | [goodberry](3-Mechanics/CLI/spells/goodberry-xphb.md) |
+| Keranos | [thunderous smite](3-Mechanics/CLI/spells/thunderous-smite-xphb.md) |
+| Klothys | [entangle](3-Mechanics/CLI/spells/entangle-xphb.md) |
+| Kruphix | [dissonant whispers](3-Mechanics/CLI/spells/dissonant-whispers-xphb.md) |
+| Mogis | [hellish rebuke](3-Mechanics/CLI/spells/hellish-rebuke-xphb.md) |
+| Nylea | [faerie fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md) |
+| Pharika | [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md) |
+| Phenax | [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md) |
+| Purphoros | [searing smite](3-Mechanics/CLI/spells/searing-smite-xphb.md) |
+| Thassa | [identify](3-Mechanics/CLI/spells/identify-xphb.md) |
 ^god-spell
 
 *Source: Mythic Odysseys of Theros p. 196*

@@ -12,6 +12,8 @@ aliases:
 
 **Body Horror Settings**
 
+`dice: [](body-horror-settings-vrgr.md#^body-horror-settings)`
+
 | dice: d8 | Setting |
 |----------|---------|
 | 1 | A country of red muscle, with bleeding eyes embedded in the hair-strangled trees |

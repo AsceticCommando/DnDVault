@@ -12,6 +12,8 @@ aliases:
 
 **Lords of Dust Adventure Hooks**
 
+`dice: [](lords-of-dust-adventure-hooks-erlw.md#^lords-of-dust-adventure-hooks)`
+
 | dice: d6 | Adventure Hook |
 |----------|----------------|
 | 1 | A retainer who died recently shows up again, as if nothing happened and with no memory of having "died," or of the events immediately preceding their supposed demise. |

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Trepsin"
 ---
-# [Trepsin](3-Mechanics\CLI\bestiary\npc/trepsin-hotdq.md)
+# [Trepsin](3-Mechanics/CLI/bestiary/npc/trepsin-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 63, Tyranny of Dragons p. 79*  
 
 Sometimes when a troll loses a limb, it regenerates two limbs to replace the one it lost. This can result in trolls with multiple arms. A four-armed troll uses the troll stat block, except that it is a Challenge Rating 6 monster (2,300 XP) and has alternate action options to suit.
@@ -65,6 +65,6 @@ Sometimes when a troll loses a limb, it regenerates two limbs to replace the one
 "source":
   - "HotDQ"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/npc/token/trepsin-hotdq.webp"
+"image": "file://bestiary/tokens/HotDQ/Trepsin.webp"
 ```
 ^statblock

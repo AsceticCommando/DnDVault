@@ -12,7 +12,7 @@ aliases:
 - "Blade of Avernus"
 ---
 # Blade of Avernus
-*Weapon ([longsword](3-Mechanics/CLI/items/longsword.md)), artifact (requires attunement)*  
+*Weapon ([longsword](3-Mechanics/CLI/items/longsword-xphb.md)), artifact (requires attunement)*  
 
 
 - **Damage**:
@@ -23,15 +23,15 @@ aliases:
 
 You gain a +3 bonus to attack and damage rolls made with this magic weapon. In addition, the weapon ignores resistance to slashing damage.
 
-When you attack a creature that has at least one head with this weapon and roll a 20 on the attack roll, you cut off one of the creature's heads. The creature dies if it can't survive without the lost head. A creature is immune to this effect if it is immune to slashing damage, doesn't have or need a head, has legendary actions, or the DM decides that the creature is too big for its head to be cut off with this weapon. Such a creature instead takes an extra `6d8` slashing damage from the hit.
+When you attack a creature that has at least one head with this weapon and roll a 20 on the attack roll, you cut off one of the creature's heads. The creature dies if it can't survive without the lost head. A creature is immune to this effect if it is immune to slashing damage, doesn't have or need a head, has legendary actions, or the DM decides that the creature is too big for its head to be cut off with this weapon. Such a creature instead takes an extra `dice:6d8|noform|noparens|avg` (`6d8`) slashing damage from the hit.
 
 ## Random Properties
 
 The sword has the following randomly determined properties, as described in chapter 7 of the Dungeon Master's Guide:
 
-- 2 [minor beneficial properties](3-Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties.md)  
-- 1 [major beneficial property](3-Mechanics/CLI/tables/artifact-properties-major-beneficial-properties.md)  
-- 1 [major detrimental property](3-Mechanics/CLI/tables/artifact-properties-major-detrimental-properties.md), which is suppressed while the sword is attuned to an archdevil  
+- 2 [minor beneficial properties](3-Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties-xdmg.md)  
+- 1 [major beneficial property](3-Mechanics/CLI/tables/artifact-properties-major-beneficial-properties-xdmg.md)  
+- 1 [major detrimental property](3-Mechanics/CLI/tables/artifact-properties-major-detrimental-properties-xdmg.md), which is suppressed while the sword is attuned to an archdevil  
 
 ## Ruler of Avernus
 
@@ -39,7 +39,7 @@ As an action, you can point this sword at one devil you can see within 60 feet o
 
 ## Infernal Recall
 
-As an action, you can use the sword to cast [word of recall](3-Mechanics/CLI/spells/word-of-recall.md). Creatures transported by this spell appear in an unoccupied space within 30 feet of the current ruler of Avernus, or a sanctuary you designate if you rule Avernus.
+As an action, you can use the sword to cast [word of recall](3-Mechanics/CLI/spells/word-of-recall-xphb.md). Creatures transported by this spell appear in an unoccupied space within 30 feet of the current ruler of Avernus, or a sanctuary you designate if you rule Avernus.
 
 ## Destroying the Sword
 

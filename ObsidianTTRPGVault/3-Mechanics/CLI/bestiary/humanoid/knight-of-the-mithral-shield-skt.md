@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Knight of the Mithral Shield"
 ---
-# [Knight of the Mithral Shield](3-Mechanics\CLI\bestiary\humanoid/knight-of-the-mithral-shield-skt.md)
+# [Knight of the Mithral Shield](3-Mechanics/CLI/bestiary/humanoid/knight-of-the-mithral-shield-skt.md)
 *Source: Storm King's Thunder p. 79*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Lawful Good"
 "ac": !!int "20"
-"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "52"
 "hit_dice": "8d8 + 16"
 "modifier": !!int "0"
@@ -39,8 +39,8 @@ aliases:
   - "wisdom": !!int "2"
 "damage_resistances": "poison"
 "gear":
-  - "[greatsword](3-Mechanics/CLI/items/greatsword.md)"
-  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow.md)"
+  - "[greatsword](3-Mechanics/CLI/items/greatsword-xphb.md)"
+  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 10"
 "languages": "any one language (usually Common), Dwarvish"
@@ -75,6 +75,6 @@ aliases:
     "name": "Parry"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/knight-of-the-mithral-shield-skt.webp"
+"image": "file://bestiary/tokens/SKT/Knight%20of%20the%20Mithral%20Shield.webp"
 ```
 ^statblock

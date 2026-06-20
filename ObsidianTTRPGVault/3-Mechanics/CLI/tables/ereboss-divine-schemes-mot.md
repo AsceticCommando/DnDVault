@@ -12,6 +12,8 @@ aliases:
 
 **Erebos's Divine Schemes**
 
+`dice: [](ereboss-divine-schemes-mot.md#^ereboss-divine-schemes)`
+
 | dice: d4 | Scheme |
 |----------|--------|
 | 1 | Erebos has captured Phenax's eidolon, the identity severed from Phenax's body when he became the first Returned, and uses it to force Phenax to serve his whims. |

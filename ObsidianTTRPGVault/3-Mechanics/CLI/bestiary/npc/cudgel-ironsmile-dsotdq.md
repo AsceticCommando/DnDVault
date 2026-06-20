@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Cudgel Ironsmile"
 ---
-# [Cudgel Ironsmile](3-Mechanics\CLI\bestiary\npc/cudgel-ironsmile-dsotdq.md)
+# [Cudgel Ironsmile](3-Mechanics/CLI/bestiary/npc/cudgel-ironsmile-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 58*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Neutral"
 "ac": !!int "17"
-"ac_class": "[splint armor](3-Mechanics/CLI/items/splint-armor.md)"
+"ac_class": "[splint armor](3-Mechanics/CLI/items/splint-armor-xphb.md)"
 "hp": !!int "58"
 "hit_dice": "9d8 + 18"
 "modifier": !!int "1"
@@ -41,9 +41,9 @@ aliases:
     "desc": "+2"
 "damage_resistances": "poison"
 "gear":
-  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow.md)"
-  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow-xphb.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 12"
 "languages": "any one language (usually Common), Dwarvish"
@@ -66,6 +66,6 @@ aliases:
     "name": "Heavy Crossbow"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/npc/token/cudgel-ironsmile-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Cudgel%20Ironsmile.webp"
 ```
 ^statblock

@@ -20,6 +20,6 @@ aliases:
 | 4 | [Returned palamnite](3-Mechanics/CLI/bestiary/undead/returned-palamnite-mot.md) |
 | 5 | [Ghostblade eidolon](3-Mechanics/CLI/bestiary/undead/ghostblade-eidolon-mot.md) |
 | 5 | [Master thief](3-Mechanics/CLI/bestiary/humanoid/master-thief-mpmm.md) |
-| 8 | [Assassin](3-Mechanics/CLI/bestiary/humanoid/assassin.md) |
+| 8 | [Assassin](3-Mechanics/CLI/bestiary/humanoid/assassin-xmm.md) |
 | 16 | [Phoenix](3-Mechanics/CLI/bestiary/elemental/phoenix-mpmm.md) |
 ^phenaxs-monsters

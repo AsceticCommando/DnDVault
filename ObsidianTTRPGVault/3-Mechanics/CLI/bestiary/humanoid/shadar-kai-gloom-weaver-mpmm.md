@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Shadar-kai Gloom Weaver"
 ---
-# [Shadar-kai Gloom Weaver](3-Mechanics\CLI\bestiary\humanoid/shadar-kai-gloom-weaver-mpmm.md)
+# [Shadar-kai Gloom Weaver](3-Mechanics/CLI/bestiary/humanoid/shadar-kai-gloom-weaver-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 213, Mordenkainen's Tome of Foes p. 224*  
 
 Although they're formidable warriors, gloom weavers are often content to hide in the shadows, watching as their very presence affects their victims. Their bleak energy weighs down the heart, causing those nearby to feel the approach of death. If detected, gloom weavers use their shadow magic to reduce enemies to ghastly corpses.
@@ -80,13 +80,14 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
     "name": "Shadow Spear"
   - "desc": "The shadar-kai casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 16):\n\
-      \n**At will:** [arcane eye](3-Mechanics/CLI/spells/arcane-eye.md), [mage armor](3-Mechanics/CLI/spells/mage-armor.md),\
-      \ [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md),\
-      \ [speak with dead](3-Mechanics/CLI/spells/speak-with-dead.md)\n\n**1/day each:**\
-      \ [arcane gate](3-Mechanics/CLI/spells/arcane-gate.md), [bane](3-Mechanics/CLI/spells/bane.md),\
-      \ [confusion](3-Mechanics/CLI/spells/confusion.md), [darkness](3-Mechanics/CLI/spells/darkness.md),\
-      \ [fear](3-Mechanics/CLI/spells/fear.md), [major image](3-Mechanics/CLI/spells/major-image.md),\
-      \ [true seeing](3-Mechanics/CLI/spells/true-seeing.md)"
+      \n**At will:** [arcane eye](3-Mechanics/CLI/spells/arcane-eye-xphb.md), [mage\
+      \ armor](3-Mechanics/CLI/spells/mage-armor-xphb.md), [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md),\
+      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md), [speak\
+      \ with dead](3-Mechanics/CLI/spells/speak-with-dead-xphb.md)\n\n**1/day each:**\
+      \ [arcane gate](3-Mechanics/CLI/spells/arcane-gate-xphb.md), [bane](3-Mechanics/CLI/spells/bane-xphb.md),\
+      \ [confusion](3-Mechanics/CLI/spells/confusion-xphb.md), [darkness](3-Mechanics/CLI/spells/darkness-xphb.md),\
+      \ [fear](3-Mechanics/CLI/spells/fear-xphb.md), [major image](3-Mechanics/CLI/spells/major-image-xphb.md),\
+      \ [true seeing](3-Mechanics/CLI/spells/true-seeing-xphb.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "When the shadar-kai takes damage, it turns [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
@@ -97,7 +98,7 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/shadar-kai-gloom-weaver-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Shadar-kai%20Gloom%20Weaver.webp"
 ```
 ^statblock
 

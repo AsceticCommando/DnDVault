@@ -10,7 +10,7 @@ aliases:
 # Chapter 4: Building Eberron Adventures - The Last War
 *Source: Eberron: Rising from the Last War, p. 206* 
 
-![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/114-4-03.webp#center)
+![](file://book/ERLW/114-4-03.webp#center)
 
 ## The Last War
 
@@ -121,8 +121,8 @@ An enormous magic weapon akin to a ballista is mounted atop the outpost and supp
 A basement area is dedicated to storage, including holding cells to contain prisoners of war while they wait to be transported to dedicated prison camps.
 
 > [!gallery]
-> ![Map 4.5: Fortified Outpost](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/115-map45_fortifiedoutpost.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/116-map45_fortifiedoutpost-player.webp#gallery)
+> ![Map 4.5: Fortified Outpost](file://book/ERLW/115-map45_fortifiedoutpost.webp#gallery)
+> ![Player Version](file://book/ERLW/116-map45_fortifiedoutpost-player.webp#gallery)
 
 #### Fortified Outpost Adventures
 
@@ -132,7 +132,7 @@ The Fortified Outpost Adventures table provides some possibilities for adventure
 
 ## Lord of Blades
 
-![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/117-4-04.webp#center)
+![](file://book/ERLW/117-4-04.webp#center)
 
 Stalking the Mournland like a spectral juggernaut, [the Lord of Blades](3-Mechanics/CLI/bestiary/npc/the-lord-of-blades-erlw.md) has emerged from the turmoil of the Last War as a symbol that calls to all the warforged of Khorvaire. Regardless of what they have become, the warforged were created to fight and die on the orders of their creators. Some warforged accept their history for what it is and look toward the future, but others hold a grudge because of how they were exploited by their creators. Those warforged make up the followers of [the Lord of Blades](3-Mechanics/CLI/bestiary/npc/the-lord-of-blades-erlw.md).
 
@@ -161,8 +161,8 @@ A warforged ossuary is a former temple, crypt, or warehouse deep in the Mournlan
 The ossuary depicted in map 4.6 was once a temple, which has been refitted into a resting place for [the Lord of Blades](3-Mechanics/CLI/bestiary/npc/the-lord-of-blades-erlw.md)' followers. Equal parts crypt, monument, vault, and workshop, the ossuary serves many functions for the warforged who maintain it. Other ossuaries exist in a variety of locations. The basic functions of these places remain the same, regardless of the original purpose of the structure. [The Lord of Blades](3-Mechanics/CLI/bestiary/npc/the-lord-of-blades-erlw.md)' warforged troops defend these sites with their lives.
 
 > [!gallery]
-> ![Map 4.6: Warforged Ossuary](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/118-map46_warforgedossuary.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/119-map46_warforgedossuary-player.webp#gallery)
+> ![Map 4.6: Warforged Ossuary](file://book/ERLW/118-map46_warforgedossuary.webp#gallery)
+> ![Player Version](file://book/ERLW/119-map46_warforgedossuary-player.webp#gallery)
 
 #### Warforged Ossuary Adventures
 
@@ -222,8 +222,8 @@ The Lords of Dust maintain a variety of safe houses and sanctums across Eberron,
 Map 4.7 what a demon ruin might look like. A demon ruin is an echo of grandeur swathed in flame and ravaged by time. Despite the rich appointments and impeccable construction evident even in the broken remains of the building, the place carries the unmistakable air of anguish and torment.
 
 > [!gallery]
-> ![Map 4.7: Demon Ruin](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/120-map47_demonruin.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/121-map47_demonruin-player.webp#gallery)
+> ![Map 4.7: Demon Ruin](file://book/ERLW/120-map47_demonruin.webp#gallery)
+> ![Player Version](file://book/ERLW/121-map47_demonruin-player.webp#gallery)
 
 #### Demon Ruin Adventures
 
@@ -255,7 +255,7 @@ The Lords of Dust Adventure Hooks table presents some ways to get the characters
 
 ![Lords of Dust Adventure Hooks](3-Mechanics/CLI/tables/lords-of-dust-adventure-hooks-erlw.md)
 
-![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/122-4-05.webp#center)
+![](file://book/ERLW/122-4-05.webp#center)
 
 ## The Mournland
 
@@ -273,7 +273,7 @@ Some say that the dead-gray mist began in Metrol, initially flowing out of the r
 
 In the days immediately following the Mourning, many assumed that the mist would continue to spread. Intense panic slowly turned to curiosity as it became clear that the border had stabilized. Over the last four years, people have ventured into the mist for many reasons. Some sought to plunder the abandoned treasures of the richest nation in Galifar. Others hoped to find lost loved ones, or some explanation for the disaster. Few of these explorers have returned, and those survivors all tell tales of a land twisted in unpredictable and inexplicable ways.
 
-![Mutated Worgs in the Mournland](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/123-4-06.webp#center)
+![Mutated Worgs in the Mournland](file://book/ERLW/123-4-06.webp#center)
 
 ### Mournland Environment
 
@@ -370,7 +370,7 @@ The ruins of Making still peek through the obsidian flats of the Glass Plateau. 
 
 This city was once the capital of Cyre. Now it lies empty, seemingly waiting along the Cyre River for its people to return. Parts of Metrol have been shattered, their buildings crushed and tumbled by whatever force destroyed the nation. Other portions of the city escaped with superficial damage; aside from the absence of people and the shroud of mist that hangs over the area, it looks much as it did before Cyre fell. The days in Metrol are quiet, but the nights bring a cacophony of chaos and violence to the streets—at night, misshapen monsters emerge from their lairs to prowl and wail as they hunt each other for food.
 
-![Metrol](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/124-4-07.webp#center)
+![Metrol](file://book/ERLW/124-4-07.webp#center)
 
 ### Mournland Villains
 
@@ -454,8 +454,8 @@ House Cannith's artisans lined the interior of each colossus with magic wards an
 Most colossi are tombs, filled with the bodies of the crews that perished in the cataclysm. But the Mourning affected everything in bizarre ways, so a venture inside a colossus is often terrifying. A horrific monster might have made its lair in a colossus's interior in the years since the Mourning. The master [docent](3-Mechanics/CLI/items/docent-erlw.md) in another one might speak through the brass horns that the crews used to communicate, growing increasingly incoherent and/or sinister. The crew of a colossus might be undead—zombies lumbering through the colossus's interior, or spirits doomed to haunt it until they can find blessed release.
 
 > [!gallery]
-> ![Map 4.8: Fallen Warforged Colossus](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/125-map48_fallenwarforge.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/126-map48_fallenwarforge-player.webp#gallery)
+> ![Map 4.8: Fallen Warforged Colossus](file://book/ERLW/125-map48_fallenwarforge.webp#gallery)
+> ![Player Version](file://book/ERLW/126-map48_fallenwarforge-player.webp#gallery)
 
 ## Order of the Emerald Claw
 
@@ -480,8 +480,8 @@ Map 4.9 shows a library vault maintained by the Order of the Emerald Claw. The o
 Library vaults can be found in a variety of locations. Some of them are crypts or dungeons secreted away underground, while others are hidden in plain sight inside a home or a business. Whatever its specific location, a vault is always equipped with defensive features, some of which remain active even after the outer door is breached.
 
 > [!gallery]
-> ![Map 4.9: Library Vault](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/127-map49_libraryvault.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/128-map49_libraryvault-player.webp#gallery)
+> ![Map 4.9: Library Vault](file://book/ERLW/127-map49_libraryvault.webp#gallery)
+> ![Player Version](file://book/ERLW/128-map49_libraryvault-player.webp#gallery)
 
 #### Library Vault Adventures
 
@@ -516,8 +516,8 @@ The planet of Eberron is the heart of its own Material Plane. It is surrounded b
 No other planets have been discovered within Eberron's Material Plane. The underworld of Khyber, however, contains a host of demiplanes, tiny pockets of altered reality. As such, venturing beneath the surface of Eberron can lead you to a network of caverns and passages, and if you find the right passage, it can take you to fantastic and deadly places inhabited by fiends, aberrations, and other children of Khyber.
 
 > [!gallery]
-> ![Planes of Existence](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/129-map-planes.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/130-map-planes-large.webp#gallery)
+> ![Planes of Existence](file://book/ERLW/129-map-planes.webp#gallery)
+> ![Player Version](file://book/ERLW/130-map-planes-large.webp#gallery)
 
 ### Planes of Eberron
 
@@ -559,7 +559,7 @@ This plane encompasses both the raw elemental power of fire and its versatility:
 
 Irian is the plane of light and hope, the wellspring of positive energy which is the foundation of light, life, and love. The regions of Irian reflect the idea of beginnings and of resurgent life: fertile lands untouched by any tool, glittering crystal forests, and thriving homesteads and communities. Angels dwell in a grand city reflecting the first days of a glorious empire. The sun never sets here.
 
-Positive energy flows into Eberron from Irian, and the denizens of Irian believe that the simple fact of their existence helps the mortals of the Material Plane. The celestials of Irian are also those most likely to respond to [planar ally](3-Mechanics/CLI/spells/planar-ally.md) and similar spells.
+Positive energy flows into Eberron from Irian, and the denizens of Irian believe that the simple fact of their existence helps the mortals of the Material Plane. The celestials of Irian are also those most likely to respond to [planar ally](3-Mechanics/CLI/spells/planar-ally-xphb.md) and similar spells.
 
 ![Irian, the Eternal Dawn; Irian Manifest Zone Features](3-Mechanics/CLI/tables/irian-the-eternal-dawn-irian-manifest-zone-features-erlw.md)
 
@@ -683,11 +683,11 @@ A dragonmarked heir at the helm of a vessel can command the elemental easily. Wi
 
 A character can make a DC 20 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion) or [Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)) check to persuade the elemental to cooperate or demand its obedience. On a successful check, the elemental obeys the character for 1 minute.
 
-The [dominate monster](3-Mechanics/CLI/spells/dominate-monster.md) spell can also enable a character without a dragonmark to control an elemental vessel, even wresting control away from a dragonmarked pilot. The [charm monster](3-Mechanics/CLI/spells/charm-monster-xge.md) spell (found in "Xanathar's Guide to Everything") also makes the elemental compliant to the caster's wishes, but the elemental remains obedient to the commands of a dragonmarked pilot at the helm.
+The [dominate monster](3-Mechanics/CLI/spells/dominate-monster-xphb.md) spell can also enable a character without a dragonmark to control an elemental vessel, even wresting control away from a dragonmarked pilot. The [charm monster](3-Mechanics/CLI/spells/charm-monster-xphb.md) spell (found in "Xanathar's Guide to Everything") also makes the elemental compliant to the caster's wishes, but the elemental remains obedient to the commands of a dragonmarked pilot at the helm.
 
 #### Freeing the Elemental
 
-Shattering the Khyber dragonshard that binds it can free an elemental, preventing the vehicle from moving. On most elemental vessels, the shard is sealed in a protective metal chest with 10 (`3d6`) hit points, usually made of iron (AC 19) but sometimes of mithral (AC 21) or adamantine (AC 23). The chest is often guarded with a [glyph of warding](3-Mechanics/CLI/spells/glyph-of-warding.md) and housed in a room behind locked and possibly trapped doors. The shard itself has AC 17 and 10 (`3d6`) hit points.
+Shattering the Khyber dragonshard that binds it can free an elemental, preventing the vehicle from moving. On most elemental vessels, the shard is sealed in a protective metal chest with `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) hit points, usually made of iron (AC 19) but sometimes of mithral (AC 21) or adamantine (AC 23). The chest is often guarded with a [glyph of warding](3-Mechanics/CLI/spells/glyph-of-warding-xphb.md) and housed in a room behind locked and possibly trapped doors. The shard itself has AC 17 and `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) hit points.
 
 ### Lyrandar Airship
 
@@ -715,7 +715,7 @@ A typical airship can reach a speed of 20 miles per hour in clear skies carrying
 
 Although the elemental bound to the airship is essential for propulsion, the vessel's soarwood hull provides its lighter-than-air buoyancy. When the elemental is suppressed, the ship remains aloft but can't move. The pilot always suppresses the elemental before docking, then uses ropes to maneuver the vessel into position.
 
-![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/131-4-08.webp#center)
+![](file://book/ERLW/131-4-08.webp#center)
 
 ### Lyrandar Galleons
 
@@ -746,8 +746,8 @@ The placement of *conductor stone* lines dictates where a lightning rail train c
 The crew of a train includes handful of chief stewards overseeing a number of lesser stewards who are charged with seeing to the needs of passengers and keeping cargo secured.
 
 > [!gallery]
-> ![Map 4.10: Lightning Rail Train Carriages](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/132-map410_lightningrailcars.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/133-map410_lightningrailcars-player.webp#gallery)
+> ![Map 4.10: Lightning Rail Train Carriages](file://book/ERLW/132-map410_lightningrailcars.webp#gallery)
+> ![Player Version](file://book/ERLW/133-map410_lightningrailcars-player.webp#gallery)
 
 #### Lightning Rail Stations
 
@@ -775,7 +775,7 @@ Every Gold Dragon Inn provides a standard menu of reliable services at reasonabl
 
 The size and number of guest rooms can vary from inn to inn: a small roadside inn has four rooms and a moderately sized common room, while a thriving inn in a large city has forty rooms, a restaurant, and a separate common room, with two stages for entertainment. Because the inns are owned by House Ghallanda, the buildings all include accommodations for halfling-sized guests as well as taller folk.
 
-Because travelers often carry valuables with them, each inn has a heavy strongbox secured with an [arcane lock](3-Mechanics/CLI/spells/arcane-lock.md) spell. To make a traveler's stay more enjoyable, perhaps even memorable, House Ghallanda has arranged with House Thuranni and House Phiarlan to employ guild-licensed entertainers at almost every Gold Dragon Inn.
+Because travelers often carry valuables with them, each inn has a heavy strongbox secured with an [arcane lock](3-Mechanics/CLI/spells/arcane-lock-xphb.md) spell. To make a traveler's stay more enjoyable, perhaps even memorable, House Ghallanda has arranged with House Thuranni and House Phiarlan to employ guild-licensed entertainers at almost every Gold Dragon Inn.
 
 To populate an inn with some distinctive individuals, you can use the "Mysterious Passengers table".
 
@@ -785,4 +785,4 @@ The Inn Attractions table offers some ideas for unique twists on an inn's charac
 
 ![Inn Attractions](3-Mechanics/CLI/tables/inn-attractions-erlw.md)
 
-![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/134-4-09.webp#center)
+![](file://book/ERLW/134-4-09.webp#center)

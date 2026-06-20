@@ -12,6 +12,8 @@ aliases:
 
 **Gnoll War Band Name**
 
+`dice: [](creating-a-gnoll-war-band-gnoll-war-band-name-vgm.md#^gnoll-war-band-name)`
+
 | dice: d6 | Name Part 1 | Name Part 2 |
 |----------|-------------|-------------|
 | 1 | Abyssal | Harbingers |

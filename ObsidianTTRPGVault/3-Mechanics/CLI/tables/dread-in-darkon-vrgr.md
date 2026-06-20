@@ -12,6 +12,8 @@ aliases:
 
 **Dread in Darkon**
 
+`dice: [](dread-in-darkon-vrgr.md#^dread-in-darkon)`
+
 | dice: d6 | Dread Possibility |
 |----------|-------------------|
 | 1 | A prophecy foretells the characters' involvement in Darkon's salvation or destruction, and comes with eight unavoidable omens. |

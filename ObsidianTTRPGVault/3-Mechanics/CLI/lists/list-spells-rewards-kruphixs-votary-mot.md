@@ -11,4 +11,4 @@ aliases:
 
 ## 2nd Level
 
-- [Detect Thoughts](3-Mechanics/CLI/spells/detect-thoughts.md "PHB")
+- [Detect Thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md "XPHB")

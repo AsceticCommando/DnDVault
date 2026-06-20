@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Tortle"
 ---
-# [Tortle](3-Mechanics\CLI\bestiary\humanoid/tortle-mpmm.md)
+# [Tortle](3-Mechanics/CLI/bestiary/humanoid/tortle-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 244, Mordenkainen's Tome of Foes p. 242*  
 
 The generic tortle stat block here represents a warrior, especially the sort who travels far and wide.
@@ -48,8 +48,8 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
   - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+3"
 "gear":
-  - "[light crossbow](3-Mechanics/CLI/items/light-crossbow.md)"
-  - "[spear](3-Mechanics/CLI/items/spear.md)"
+  - "[light crossbow](3-Mechanics/CLI/items/light-crossbow-xphb.md)"
+  - "[spear](3-Mechanics/CLI/items/spear-xphb.md)"
 "senses": "passive Perception 11"
 "languages": "Aquan, Common"
 "cr": "1/4"
@@ -77,7 +77,7 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/tortle-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Tortle.webp"
 ```
 ^statblock
 

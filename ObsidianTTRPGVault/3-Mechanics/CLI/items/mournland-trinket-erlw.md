@@ -16,6 +16,8 @@ aliases:
 
 **Mournland Trinkets**
 
+`dice: [](mournland-trinket-erlw.md#^mournland-trinkets)`
+
 | dice: d10 | Trinket |
 |-----------|---------|
 | 1 | The favorite childhood toy of one of the adventurers, floating in midair |

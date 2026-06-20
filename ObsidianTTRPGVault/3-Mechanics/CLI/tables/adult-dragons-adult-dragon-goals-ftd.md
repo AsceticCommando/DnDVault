@@ -12,6 +12,8 @@ aliases:
 
 **Adult Dragon Goals**
 
+`dice: [](adult-dragons-adult-dragon-goals-ftd.md#^adult-dragon-goals)`
+
 | dice: d6 | Goal |
 |----------|------|
 | 1 | Find a good location for an additional lair |

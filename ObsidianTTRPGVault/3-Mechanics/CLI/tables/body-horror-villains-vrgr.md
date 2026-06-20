@@ -12,6 +12,8 @@ aliases:
 
 **Body Horror Villains**
 
+`dice: [](body-horror-villains-vrgr.md#^body-horror-villains)`
+
 | dice: d10 | Villain |
 |-----------|---------|
 | 1 | An abandoned homunculus made in the image of its creator's child, now left to fester alone |

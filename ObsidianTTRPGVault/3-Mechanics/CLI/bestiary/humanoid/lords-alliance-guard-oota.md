@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Lords' Alliance Guard"
 ---
-# [Lords' Alliance Guard](3-Mechanics\CLI\bestiary\humanoid/lords-alliance-guard-oota.md)
+# [Lords' Alliance Guard](3-Mechanics/CLI/bestiary/humanoid/lords-alliance-guard-oota.md)
 *Source: Out of the Abyss p. 131*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "dwarf"
 "alignment": "Chaotic Good"
 "ac": !!int "16"
-"ac_class": "[chain shirt](3-Mechanics/CLI/items/chain-shirt.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[chain shirt](3-Mechanics/CLI/items/chain-shirt-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
 "modifier": !!int "1"
@@ -38,7 +38,7 @@ aliases:
   - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
 "gear":
-  - "[halberd](3-Mechanics/CLI/items/halberd.md)"
+  - "[halberd](3-Mechanics/CLI/items/halberd-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 12"
 "languages": ""
@@ -52,6 +52,6 @@ aliases:
     "name": "Halberd"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/lords-alliance-guard-oota.webp"
+"image": "file://bestiary/tokens/OotA/Lords%27%20Alliance%20Guard.webp"
 ```
 ^statblock

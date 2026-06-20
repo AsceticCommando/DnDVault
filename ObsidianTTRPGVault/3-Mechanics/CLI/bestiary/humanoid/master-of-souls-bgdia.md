@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Master of Souls"
 ---
-# [Master of Souls](3-Mechanics\CLI\bestiary\humanoid/master-of-souls-bgdia.md)
+# [Master of Souls](3-Mechanics/CLI/bestiary/humanoid/master-of-souls-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 234*  
 
 Those who follow Myrkul are either wizards or those who seek to master the necromantic arts.
@@ -56,16 +56,16 @@ A follower of Myrkul wields a flail that has a skull replacing the normal flail'
 "traits":
   - "desc": "The master of souls is a 5th-level spellcaster. Its spellcasting ability\
       \ is Intelligence (spell save DC 14, +6 to hit with spell attacks). It has the\
-      \ following wizard spells prepared:\n\n**Cantrips (at will):** [chill touch](3-Mechanics/CLI/spells/chill-touch.md)\
-      \ (see \"Actions\" below), [mage hand](3-Mechanics/CLI/spells/mage-hand.md),\
-      \ [message](3-Mechanics/CLI/spells/message.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md)\n\
-      \n**1st level (4 slots):** [burning hands](3-Mechanics/CLI/spells/burning-hands.md),\
-      \ [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [ray of sickness](3-Mechanics/CLI/spells/ray-of-sickness.md)\
-      \ (see \"Actions\" below), [shield](3-Mechanics/CLI/spells/shield.md)\n\n**2nd\
-      \ level (3 slots):** [darkness](3-Mechanics/CLI/spells/darkness.md), [misty\
-      \ step](3-Mechanics/CLI/spells/misty-step.md), [scorching ray](3-Mechanics/CLI/spells/scorching-ray.md)\
-      \ (see \"Actions\" below)\n\n**3rd level (2 slots):** [animate dead](3-Mechanics/CLI/spells/animate-dead.md),\
-      \ [fireball](3-Mechanics/CLI/spells/fireball.md)"
+      \ following wizard spells prepared:\n\n**Cantrips (at will):** [chill touch](3-Mechanics/CLI/spells/chill-touch-xphb.md)\
+      \ (see \"Actions\" below), [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [message](3-Mechanics/CLI/spells/message-xphb.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
+      \n**1st level (4 slots):** [burning hands](3-Mechanics/CLI/spells/burning-hands-xphb.md),\
+      \ [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [ray of sickness](3-Mechanics/CLI/spells/ray-of-sickness-xphb.md)\
+      \ (see \"Actions\" below), [shield](3-Mechanics/CLI/spells/shield-xphb.md)\n\
+      \n**2nd level (3 slots):** [darkness](3-Mechanics/CLI/spells/darkness-xphb.md),\
+      \ [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md), [scorching ray](3-Mechanics/CLI/spells/scorching-ray-xphb.md)\
+      \ (see \"Actions\" below)\n\n**3rd level (2 slots):** [animate dead](3-Mechanics/CLI/spells/animate-dead-xphb.md),\
+      \ [fireball](3-Mechanics/CLI/spells/fireball-xphb.md)"
     "name": "Spellcasting"
   - "desc": "When the master of souls cast a spell that deals damage, it can change\
       \ the spell's damage type to necrotic."
@@ -95,6 +95,6 @@ A follower of Myrkul wields a flail that has a skull replacing the normal flail'
     "name": "Scorching Ray (2nd-Level Spell; Requires a Spell Slot)"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/master-of-souls-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Master%20of%20Souls.webp"
 ```
 ^statblock

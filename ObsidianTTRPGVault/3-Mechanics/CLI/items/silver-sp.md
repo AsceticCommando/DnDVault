@@ -11,7 +11,7 @@ aliases:
 ---
 # Silver (sp)
 *Treasure (coinage)*  
-![](3-Mechanics/CLI/items/img/silver-sp.webp#right)
+![](file://items/PHB/Silver%20%28sp%29.webp#right)
 
 - **Cost**: 1 sp
 - **Weight**: 0.02 lbs.

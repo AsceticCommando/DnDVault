@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Veteran of the Gauntlet"
 ---
-# [Veteran of the Gauntlet](3-Mechanics\CLI\bestiary\humanoid/veteran-of-the-gauntlet-oota.md)
+# [Veteran of the Gauntlet](3-Mechanics/CLI/bestiary/humanoid/veteran-of-the-gauntlet-oota.md)
 *Source: Out of the Abyss p. 130*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "human"
 "alignment": "Lawful Good"
 "ac": !!int "17"
-"ac_class": "[splint armor](3-Mechanics/CLI/items/splint-armor.md)"
+"ac_class": "[splint armor](3-Mechanics/CLI/items/splint-armor-xphb.md)"
 "hp": !!int "58"
 "hit_dice": "9d8 + 18"
 "modifier": !!int "1"
@@ -40,9 +40,9 @@ aliases:
   - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
 "gear":
-  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow.md)"
-  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow-xphb.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Common, Dwarvish"
 "cr": "3"
@@ -61,6 +61,6 @@ aliases:
     "name": "Heavy Crossbow"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/veteran-of-the-gauntlet-oota.webp"
+"image": "file://bestiary/tokens/OotA/Veteran%20of%20the%20Gauntlet.webp"
 ```
 ^statblock

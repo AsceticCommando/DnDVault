@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Viln Tirin"
 ---
-# [Viln Tirin](3-Mechanics\CLI\bestiary\npc/viln-tirin-oota.md)
+# [Viln Tirin](3-Mechanics/CLI/bestiary/npc/viln-tirin-oota.md)
 *Source: Out of the Abyss p. 202*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Chaotic Evil"
 "ac": !!int "15"
-"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor.md)"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
 "modifier": !!int "3"
@@ -44,22 +44,24 @@ aliases:
   - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+4"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
-  - "[scimitar](3-Mechanics/CLI/items/scimitar.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
+  - "[scimitar](3-Mechanics/CLI/items/scimitar-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
   \ Perception 10"
 "languages": "any two languages, Elvish, Undercommon"
 "cr": "5"
 "traits":
-  - "desc": "Viln\n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md)\n\
-      \n**1/day each:** [darkness](3-Mechanics/CLI/spells/darkness.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md),\
-      \ [levitate](3-Mechanics/CLI/spells/levitate.md) (self only)"
+  - "desc": "Viln\n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md)\n\
+      \n**1/day each:** [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [faerie\
+      \ fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md), [levitate](3-Mechanics/CLI/spells/levitate-xphb.md)\
+      \ (self only)"
     "name": "Innate Spellcasting"
-  - "desc": "Viln carries a [scimitar of speed](3-Mechanics/CLI/items/scimitar-of-speed.md)\
+  - "desc": "Viln carries a [scimitar of speed](3-Mechanics/CLI/items/scimitar-of-speed-xdmg.md)\
       \ and can make one attack with it as a bonus action on her turn. Viln also carries\
-      \ four [daggers](3-Mechanics/CLI/items/dagger.md) coated with [purple worm poison](3-Mechanics/CLI/items/purple-worm-poison.md).\
-      \ The poison on a dagger's blade is good for one hit only, whether the poison\
-      \ takes effect or not."
+      \ four [daggers](3-Mechanics/CLI/items/dagger-xphb.md) coated with [purple worm\
+      \ poison](3-Mechanics/CLI/items/purple-worm-poison-xdmg.md). The poison on a\
+      \ dagger's blade is good for one hit only, whether the poison takes effect or\
+      \ not."
     "name": "Special Equipment"
   - "desc": "Viln"
     "name": "Fey Ancestry"
@@ -81,6 +83,6 @@ aliases:
     "name": "Parry"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/viln-tirin-oota.webp"
+"image": "file://bestiary/tokens/OotA/Viln%20Tirin.webp"
 ```
 ^statblock

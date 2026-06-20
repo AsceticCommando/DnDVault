@@ -12,6 +12,8 @@ aliases:
 
 **University Contact**
 
+`dice: [](university-contact-erlw.md#^university-contact)`
+
 | dice: d8 | Contact |
 |----------|---------|
 | 1 | An overworked department head who doesn't quite know what to make of you but gives you work to keep you busy |

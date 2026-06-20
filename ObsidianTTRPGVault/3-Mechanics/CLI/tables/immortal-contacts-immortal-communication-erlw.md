@@ -12,6 +12,8 @@ aliases:
 
 **Immortal Communication**
 
+`dice: [](immortal-contacts-immortal-communication-erlw.md#^immortal-communication)`
+
 | dice: d10 | Means of Contact |
 |-----------|------------------|
 | 1 | A party member speaks to your patron in dreams. |

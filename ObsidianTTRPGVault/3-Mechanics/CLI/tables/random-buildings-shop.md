@@ -12,6 +12,8 @@ aliases:
 
 **Shop**
 
+`dice: [](random-buildings-shop.md#^shop)`
+
 | dice: d20 | Type |
 |-----------|------|
 | 1 | Pawnshop |

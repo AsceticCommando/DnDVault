@@ -12,6 +12,8 @@ aliases:
 
 **Draconic Quirks**
 
+`dice: [](hoard-item-quirks-draconic-quirks-ftd.md#^draconic-quirks)`
+
 | dice: d8 | Quirk |
 |----------|-------|
 | 1 | When resting on the ground, the item points in the direction of the last hoard it steeped in. |

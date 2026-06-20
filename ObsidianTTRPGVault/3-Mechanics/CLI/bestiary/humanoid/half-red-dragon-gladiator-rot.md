@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Half-Red Dragon Gladiator"
 ---
-# [Half-Red Dragon Gladiator](3-Mechanics\CLI\bestiary\humanoid/half-red-dragon-gladiator-rot.md)
+# [Half-Red Dragon Gladiator](3-Mechanics/CLI/bestiary/humanoid/half-red-dragon-gladiator-rot.md)
 *Source: The Rise of Tiamat p. 56, Tyranny of Dragons p. 142*  
 
 ```statblock
@@ -22,7 +22,8 @@ aliases:
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md),\
+  \ [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "112"
 "hit_dice": "15d8 + 45"
 "modifier": !!int "2"
@@ -45,7 +46,7 @@ aliases:
     "desc": "+5"
 "damage_resistances": "fire"
 "gear":
-  - "[spear](3-Mechanics/CLI/items/spear.md)"
+  - "[spear](3-Mechanics/CLI/items/spear-xphb.md)"
 "senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 11"
 "languages": "any one language (usually Common), Draconic"
@@ -79,6 +80,6 @@ aliases:
 "source":
   - "RoT"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/half-red-dragon-gladiator-rot.webp"
+"image": "file://bestiary/tokens/RoT/Half-Red%20Dragon%20Gladiator.webp"
 ```
 ^statblock

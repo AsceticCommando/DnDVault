@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Dream Eater"
 ---
-# [Dream Eater](3-Mechanics\CLI\bestiary\aberration/dream-eater-mcv2dc.md)
+# [Dream Eater](3-Mechanics/CLI/bestiary/aberration/dream-eater-mcv2dc.md)
 *Source: Monstrous Compendium Volume 2: Dragonlance Creatures p. 3*  
 
 Originating from the dream-warped elven realm of Silvanesti, dream eaters are violent manifestations of nightmares and subconscious terrors. The true appearance of a dream eater is obscured, as the dream eater twists its hazy form into surreal illusions of its foes' greatest fears. However, all dream eaters share one thing: a gaping, always-smiling mouth, which it reveals before engulfing its prey in a phantasmagorical nightmare.
@@ -91,6 +91,6 @@ The key to defeating a dream eater lies not in brute force but in the ability to
     "name": "Engulfing Nightmare"
 "source":
   - "MCV2DC"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/dream-eater-mcv2dc.webp"
+"image": "file://bestiary/tokens/MCV2DC/Dream%20Eater.webp"
 ```
 ^statblock

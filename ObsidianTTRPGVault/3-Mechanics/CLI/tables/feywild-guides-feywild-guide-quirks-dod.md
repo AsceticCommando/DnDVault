@@ -12,6 +12,8 @@ aliases:
 
 **Feywild Guide Quirks**
 
+`dice: [](feywild-guides-feywild-guide-quirks-dod.md#^feywild-guide-quirks)`
+
 | dice: d8 | Quirk |
 |----------|-------|
 | 1 | Always hearkens back and compares things to "the good old days" |

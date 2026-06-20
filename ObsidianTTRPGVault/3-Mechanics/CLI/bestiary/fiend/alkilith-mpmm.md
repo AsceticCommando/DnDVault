@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Alkilith"
 ---
-# [Alkilith](3-Mechanics\CLI\bestiary\fiend/alkilith-mpmm.md)
+# [Alkilith](3-Mechanics/CLI/bestiary/fiend/alkilith-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 44, Mordenkainen's Tome of Foes p. 130*  
 
 An alkilith is easily mistaken for some kind of foul fungal growth that appears on doorways, windows, and other portals. These dripping infestations conceal the demonic nature of the alkilith, making what should be a dire warning appear strange but otherwise innocuous. Wherever alkiliths take root, they weaken the fabric of reality, creating a portal through which even nastier demons can invade.
@@ -74,7 +74,7 @@ Alkiliths spring from cast-off bits of the hideous, shuddering body of Juiblex. 
       \ the alkilith must succeed on a DC 18 Wisdom saving throw, or it hears a faint\
       \ buzzing in its head for a moment and has disadvantage on its next attack roll,\
       \ saving throw, or ability check.\n\nIf the saving throw against Foment Confusion\
-      \ fails by 5 or more, the creature is instead subjected to the [confusion](3-Mechanics/CLI/spells/confusion.md)\
+      \ fails by 5 or more, the creature is instead subjected to the [confusion](3-Mechanics/CLI/spells/confusion-xphb.md)\
       \ spell for 1 minute (no [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration)\
       \ required by the alkilith). While under the effect of that confusion, the creature\
       \ is immune to Foment Confusion."
@@ -96,7 +96,7 @@ Alkiliths spring from cast-off bits of the hideous, shuddering body of Juiblex. 
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/alkilith-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Alkilith.webp"
 ```
 ^statblock
 

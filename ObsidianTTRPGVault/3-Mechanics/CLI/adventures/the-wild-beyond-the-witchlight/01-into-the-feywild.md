@@ -94,7 +94,7 @@ The poster map of Prismeer and the interior maps of Hither, Thither, and Yon sho
 
 This adventure uses a Story Tracker, a copy of which is included at the back of this book. The Story Tracker is a note-keeping tool to help you remember important information about the characters and their accomplishments.
 
-![](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/000-00-001-unicorn-horn.webp#center)
+![](file://adventure/WBtW/000-00-001.unicorn-horn.webp#center)
 
 At various times in the adventure, you will be advised to jot down information on the Story Tracker, as events that happen in earlier chapters can give characters an advantage in later chapters. The Story Tracker also allows you to record important details. For example, if a character falls under a curse, noting the specifics of the curse on the Story Tracker might remind you of the effect.
 
@@ -105,6 +105,8 @@ A lost unicorn horn plays an important part in the adventure. Its location is de
 The horn belongs to a unicorn named Elidon, who was captured and transformed into a rocking horse by the Hourglass Coven. For more information about Elidon, see area L6 in chapter 3.
 
 **Unicorn Horn's Location**
+
+`dice: [](01-into-the-feywild.md#^unicorn-horns-location)`
 
 | dice: d8 | Location |
 |----------|----------|
@@ -144,13 +146,13 @@ It's better not to tell players how many hit points a creature has. However, you
 
 ##### Damage
 
-Players need you to tell them how much damage their characters take and what type of damage it is. Whenever the adventure presents damage that is variable, it shows the average damage first, followed by a die expression in parentheses, like this: 10 (`3d6`). You decide whether to use the average or roll the dice. Using average damage speeds up play, but it might feel less exciting, and players can take advantage of its predictability. Rolling the dice takes more time but can yield more volatile results. In the interest of fairness, commit to one approach or the other for the duration of an encounter or game session.
+Players need you to tell them how much damage their characters take and what type of damage it is. Whenever the adventure presents damage that is variable, it shows the average damage first, followed by a die expression in parentheses, like this: `dice:3d6|noform|noparens|avg|text(10)` (`3d6`). You decide whether to use the average or roll the dice. Using average damage speeds up play, but it might feel less exciting, and players can take advantage of its predictability. Rolling the dice takes more time but can yield more volatile results. In the interest of fairness, commit to one approach or the other for the duration of an encounter or game session.
 
 ##### Abilities, Strengths, and Weaknesses
 
 As their characters fight a creature, players expect to learn more about the creature's strengths, weaknesses, and abilities. It's okay to share such information with them as it becomes apparent. For example, you can describe a creature's wounds closing up when it regenerates.
 
-Characters don't need to fight a creature to know certain facts about it. For example, a character who has the Witchlight hand background and chose a sprite for a carnival companion would know a lot about sprites, including their ability to turn [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible). Similarly, if a character intuits that a [treant](3-Mechanics/CLI/bestiary/plant/treant.md), being a creature made of wood, has vulnerability to fire damage, just smile faintly and say, "That's a reasonable hypothesis." If the treant takes double damage from a [fireball](3-Mechanics/CLI/spells/fireball.md) spell, be sure to let players know how badly the fire hurt it.
+Characters don't need to fight a creature to know certain facts about it. For example, a character who has the Witchlight hand background and chose a sprite for a carnival companion would know a lot about sprites, including their ability to turn [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible). Similarly, if a character intuits that a [treant](3-Mechanics/CLI/bestiary/plant/treant-xmm.md), being a creature made of wood, has vulnerability to fire damage, just smile faintly and say, "That's a reasonable hypothesis." If the treant takes double damage from a [fireball](3-Mechanics/CLI/spells/fireball-xphb.md) spell, be sure to let players know how badly the fire hurt it.
 
 Don't be afraid to dole out information to characters who have the applicable knowledge. If you're not sure whether the characters possess such knowledge, have them make an Intelligence check (see the "Dungeon Master's Guide" for more guidance about "ability checks"), and share the information if one or more characters succeed on the check.
 
@@ -193,13 +195,15 @@ If you allow players to create fairy or harengon characters for this adventure, 
 
 ## Character Traits
 
-![](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/006-00-007-butterfly.webp#center)
+![](file://adventure/WBtW/006-00-007.butterfly.webp#center)
 
 As the players choose backgrounds for their characters, they can use the following tables to help determine their characters' personality traits, ideals, bonds, and flaws. Players can use these tables instead of the ones that appear in the "Player's Handbook", or they can mix and match them. If a rolled result doesn't make sense for a character, the player can roll again or choose a more appropriate entry on the table.
 
 These tables, while optional, are well suited to Feywild-themed adventures and are ideal for any character who has the feylost or Witchlight hand background.
 
 **Personality Traits**
+
+`dice: [](01-into-the-feywild.md#^personality-traits)`
 
 | dice: d8 | Trait |
 |----------|-------|
@@ -215,6 +219,8 @@ These tables, while optional, are well suited to Feywild-themed adventures and a
 
 **Ideals**
 
+`dice: [](01-into-the-feywild.md#^ideals)`
+
 | dice: d8 | Ideal |
 |----------|-------|
 | 1 | Friendship. I never leave a friend behind. (Good) |
@@ -228,6 +234,8 @@ These tables, while optional, are well suited to Feywild-themed adventures and a
 ^ideals
 
 **Bonds**
+
+`dice: [](01-into-the-feywild.md#^bonds)`
 
 | dice: d8 | Bond |
 |----------|------|
@@ -243,6 +251,8 @@ These tables, while optional, are well suited to Feywild-themed adventures and a
 
 **Flaws**
 
+`dice: [](01-into-the-feywild.md#^flaws)`
+
 | dice: d8 | Flaw |
 |----------|------|
 | 1 | I easily lose track of time. My poor sense of time means I'm always late. |
@@ -255,7 +265,7 @@ These tables, while optional, are well suited to Feywild-themed adventures and a
 | 8 | I'm always changing my mind—well, almost always. |
 ^flaws
 
-![The arrival of the Witchli...](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/007-00-008.webp#center "The arrival of the Witchlight Carnival is a highly anticipated event")
+![The arrival of the Witchlight Carnival is a highly anticipated event](file://adventure/WBtW/007-00-008.webp#center)
 
 ## Beginning the Adventure
 
@@ -298,15 +308,17 @@ If you haven't done so already, lay out the poster map of the Witchlight Carniva
 
 #### Determining What Was Lost
 
-Each character, having lost something precious as a child, is unable to gain "inspiration" (as described in the "Player's Handbook") until they get back what was taken from them. A [remove curse](3-Mechanics/CLI/spells/remove-curse.md) spell is not powerful enough to end this effect on a character, but a [wish](3-Mechanics/CLI/spells/wish.md) spell can. This might not seem like much of a drawback, as characters can cope just fine without ever gaining inspiration. Think of it more as a splinter under one's fingernail—a nagging, mildly painful annoyance that slightly diminishes one's happiness. (Hags, by their cruel actions, can spread aggravation and misery throughout the multiverse in all sorts of ways.)
+Each character, having lost something precious as a child, is unable to gain "inspiration" (as described in the "Player's Handbook") until they get back what was taken from them. A [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md) spell is not powerful enough to end this effect on a character, but a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell can. This might not seem like much of a drawback, as characters can cope just fine without ever gaining inspiration. Think of it more as a splinter under one's fingernail—a nagging, mildly painful annoyance that slightly diminishes one's happiness. (Hags, by their cruel actions, can spread aggravation and misery throughout the multiverse in all sorts of ways.)
 
 The players don't know it yet, but the Witchlight Carnival operates under a peculiar set of rules. By entering the carnival without tickets as children, the characters inadvertently set themselves up to be robbed. Whatever thing was taken from each character as a child vanished suddenly while that character was distracted by the magic of the carnival. All such thefts can be traced back to the hags of Prismeer, who use thieves to acquire and collect all manner of strange things and to whom the carnival owners are beholden.
 
-For each character in the adventuring party, roll a `d8` and consult the Lost Things table to determine what was stolen from that character. If a player doesn't like their result, let them choose an option they prefer. You can swap out some of the entries on the Lost Things table with others that you or your players create, using the ones described below as models.
+For each character in the adventuring party, roll a `dice:d8|noform|noparens|avg` (`d8`) and consult the Lost Things table to determine what was stolen from that character. If a player doesn't like their result, let them choose an option they prefer. You can swap out some of the entries on the Lost Things table with others that you or your players create, using the ones described below as models.
 
 Use the adventure's Story Tracker to record what each character has lost.
 
 **Lost Things**
+
+`dice: [](01-into-the-feywild.md#^lost-things)`
 
 | dice: d8 | Thing |
 |----------|-------|
@@ -324,7 +336,7 @@ The hags used each character's lost thing to craft a magic item. By interacting 
 
 ##### Ability to Keep Secrets
 
-The character is unable to keep a secret. The hag who claimed this prize has since used it to create a [wand of secrets](3-Mechanics/CLI/items/wand-of-secrets.md). The character regains the ability to keep secrets by holding this wand for the first time.
+The character is unable to keep a secret. The hag who claimed this prize has since used it to create a [wand of secrets](3-Mechanics/CLI/items/wand-of-secrets-xdmg.md). The character regains the ability to keep secrets by holding this wand for the first time.
 
 ##### Ability to Smile
 
@@ -332,35 +344,37 @@ The character suffering from this loss is unable to smile. The hag who claimed t
 
 ##### Artistic Creativity
 
-The character suffering from this loss lacks the ability to be creative in one or more artistic pursuits. For example, they might be unable to draw, paint, or compose original music. The hag who claimed this prize has since used it to create a [pipe of smoke monsters](3-Mechanics/CLI/items/pipe-of-smoke-monsters-xge.md) (see appendix A). The character regains their creativity by puffing on the pipe for the first time.
+The character suffering from this loss lacks the ability to be creative in one or more artistic pursuits. For example, they might be unable to draw, paint, or compose original music. The hag who claimed this prize has since used it to create a [pipe of smoke monsters](3-Mechanics/CLI/items/pipe-of-smoke-monsters-xdmg.md) (see appendix A). The character regains their creativity by puffing on the pipe for the first time.
 
 ##### Cherished Doll or Stuffed Animal
 
-The character lost a doll or stuffed animal (player's choice). The hag who claimed this prize has since turned it into a [talking doll](3-Mechanics/CLI/items/talking-doll-xge.md) (see appendix A) or a stuffed animal with similar properties.
+The character lost a doll or stuffed animal (player's choice). The hag who claimed this prize has since turned it into a [talking doll](3-Mechanics/CLI/items/talking-doll-xdmg.md) (see appendix A) or a stuffed animal with similar properties.
 
 ##### Handwriting
 
-To all other creatures, the character's handwriting is illegible and requires a [comprehend languages](3-Mechanics/CLI/spells/comprehend-languages.md) spell or similar magic to decipher. The hag who claimed this prize has since used it to create an [instrument of scribing](3-Mechanics/CLI/items/instrument-of-scribing-xge.md) (see appendix A). The DM chooses the kind of instrument. When the character plays this instrument for the first time, their handwriting becomes legible.
+To all other creatures, the character's handwriting is illegible and requires a [comprehend languages](3-Mechanics/CLI/spells/comprehend-languages-xphb.md) spell or similar magic to decipher. The hag who claimed this prize has since used it to create an [instrument of scribing](3-Mechanics/CLI/items/instrument-of-scribing-xdmg.md) (see appendix A). The DM chooses the kind of instrument. When the character plays this instrument for the first time, their handwriting becomes legible.
 
-![An Adventurer with No Fashion Sense](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/008-00-009-adventurer.webp#center)
+![An Adventurer with No Fashion Sense](file://adventure/WBtW/008-00-009.adventurer.webp#center)
 
 ##### Sense of Direction
 
-The character suffering from this loss has trouble figuring out which way is north and where they are geographically. The hag who claimed this prize has since used it to create an [orb of direction](3-Mechanics/CLI/items/orb-of-direction-xge.md) (see appendix A). The character regains their sense of direction by holding this orb for the first time.
+The character suffering from this loss has trouble figuring out which way is north and where they are geographically. The hag who claimed this prize has since used it to create an [orb of direction](3-Mechanics/CLI/items/orb-of-direction-xdmg.md) (see appendix A). The character regains their sense of direction by holding this orb for the first time.
 
 ##### Sense of Fashion
 
-The character suffering from this loss has no fashion sense. The hag who claimed this prize has since used it to create a [cloak of many fashions](3-Mechanics/CLI/items/cloak-of-many-fashions-xge.md) (see appendix A). The character regains their lost sense of fashion by donning this cloak for the first time.
+The character suffering from this loss has no fashion sense. The hag who claimed this prize has since used it to create a [cloak of many fashions](3-Mechanics/CLI/items/cloak-of-many-fashions-xdmg.md) (see appendix A). The character regains their lost sense of fashion by donning this cloak for the first time.
 
 ##### Three Inches of Height
 
-The character suffering from this loss knows they are shorter than they ought to be. The hag who claimed this prize has since used it to create a [pole of collapsing](3-Mechanics/CLI/items/pole-of-collapsing-xge.md) (see appendix A). The character grows three inches in height by holding this pole for the first time.
+The character suffering from this loss knows they are shorter than they ought to be. The hag who claimed this prize has since used it to create a [pole of collapsing](3-Mechanics/CLI/items/pole-of-collapsing-xdmg.md) (see appendix A). The character grows three inches in height by holding this pole for the first time.
 
 #### Keepers of Lost Things
 
 Once you know what has been stolen from a character, roll on the Keepers of Lost Things table to determine which hag has the thing in question. Use the adventure's Story Tracker to record this information.
 
 **Keepers of Lost Things**
+
+`dice: [](01-into-the-feywild.md#^keepers-of-lost-things)`
 
 | dice: d8 | Hag |
 |----------|-----|
@@ -371,7 +385,7 @@ Once you know what has been stolen from a character, roll on the Keepers of Lost
 
 #### Minor Curses
 
-At your discretion, each character who lost something as a child might carry a minor curse as well. Unlike the inability to gain inspiration, this minor curse can be lifted with a [remove curse](3-Mechanics/CLI/spells/remove-curse.md) spell or similar magic. The nature of the minor curse affecting each character depends on which hag took what the character lost. After rolling on the Keepers of Lost Things table for each character, consult the Minor Curses table to determine what minor curse besets that character.
+At your discretion, each character who lost something as a child might carry a minor curse as well. Unlike the inability to gain inspiration, this minor curse can be lifted with a [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md) spell or similar magic. The nature of the minor curse affecting each character depends on which hag took what the character lost. After rolling on the Keepers of Lost Things table for each character, consult the Minor Curses table to determine what minor curse besets that character.
 
 Use the adventure's Story Tracker to record this information, then ask each player to also be mindful of their character's minor curse.
 
@@ -418,11 +432,11 @@ To kick off the adventure, read the following boxed text to the players whose ch
 > "Seek out Zybilna of Prismeer, help her if you can, and return with proof that she is alive and well. Upon your return, all the hard-won earnings of my adventuring career shall be yours."
 ^057
 
-![Madryck Roslof](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/009-00-010-madryck-roslof.webp#center)
+![Madryck Roslof](file://adventure/WBtW/009-00-010.madryck-roslof.webp#center)
 
 The players will undoubtedly want to know more about the rewards Madryck is offering. See "Madryck's Treasure" later in this section for a summary. (If you allow your players to make wish lists of magic items for their characters, you can replace one or more of Madryck's magic item rewards with items from those lists.)
 
-Madryck doesn't need to have a past relationship with any of the characters, but if the players want to tie Madryck more closely to their characters' back stories, allow it. Madryck is a [mage](3-Mechanics/CLI/bestiary/humanoid/mage.md) (neutral good) who speaks Common, Sylvan, and two other languages of your choice. Although he has been out of touch with Zybilna for almost a year, he knows that time passes differently in parts of the Feywild, including Zybilna's realm of Prismeer. He can't predict how much time it will take for the characters to complete their quest; they might come back in a matter of days, or years could pass on the Material Plane before they return. Not wanting to alarm the characters, Madryck tries to steer the conversation away from issues involving the passage of time, if one or more characters mention something about it.
+Madryck doesn't need to have a past relationship with any of the characters, but if the players want to tie Madryck more closely to their characters' back stories, allow it. Madryck is a [mage](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) (neutral good) who speaks Common, Sylvan, and two other languages of your choice. Although he has been out of touch with Zybilna for almost a year, he knows that time passes differently in parts of the Feywild, including Zybilna's realm of Prismeer. He can't predict how much time it will take for the characters to complete their quest; they might come back in a matter of days, or years could pass on the Material Plane before they return. Not wanting to alarm the characters, Madryck tries to steer the conversation away from issues involving the passage of time, if one or more characters mention something about it.
 
 #### What Madryck Knows
 
@@ -442,6 +456,8 @@ Each character who hears Madryck's description of Zybilna suddenly recalls a for
 
 **Childhood Memories**
 
+`dice: [](01-into-the-feywild.md#^childhood-memories)`
+
 | dice: d8 | Memory |
 |----------|--------|
 | 1 | When you were a small child, a woman matching Zybilna's description reunited you with a lost pet. |
@@ -454,7 +470,7 @@ Each character who hears Madryck's description of Zybilna suddenly recalls a for
 | 8 | You remember sneaking into the Witchlight Carnival as a child and running into a woman matching Zybilna's description. She gave you a cupcake that made you feel special when you ate it. |
 ^childhood-memories
 
-![Madryck Roslof's Pumpkin Farm](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/010-00-011-madryck-roslofs-pumpkin-farm.webp#center)
+![Madryck Roslof's Pumpkin Farm](file://adventure/WBtW/010-00-011.madryck-roslofs-pumpkin-farm.webp#center)
 
 #### To the Carnival
 
@@ -477,10 +493,10 @@ Madryck keeps the treasure from his adventuring days in a locked wooden chest th
 
 If the characters accept the quest and return with proof that Zybilna is alive and well, Madryck gives them his key and directions to the buried chest, which contains the following treasure:
 
-- A [bag of beans](3-Mechanics/CLI/items/bag-of-beans.md)  
-- A [cloak of displacement](3-Mechanics/CLI/items/cloak-of-displacement.md)  
-- A suit of [+2 leather armor](3-Mechanics/CLI/items/2-armor.md)  
-- A [+2 wand of the war mage](3-Mechanics/CLI/items/2-wand-of-the-war-mage.md)  
+- A [bag of beans](3-Mechanics/CLI/items/bag-of-beans-xdmg.md)  
+- A [cloak of displacement](3-Mechanics/CLI/items/cloak-of-displacement-xdmg.md)  
+- A suit of [+2 leather armor](3-Mechanics/CLI/items/2-armor-xdmg.md)  
+- A [+2 wand of the war mage](3-Mechanics/CLI/items/2-wand-of-the-war-mage-xdmg.md)  
 - A silk bag containing eight 500 gp gemstones  
 - Three folded letters (described below)  
 
@@ -490,15 +506,15 @@ This letter is stamped with the official wax seal of a fairly large settlement (
 
 ##### Letter 2
 
-This letter has similar text to the first letter, as well as the symbol of a deity worshiped in your campaign world (choose an appropriate deity). This letter can be taken to any temple where that deity is worshiped and presented to the high priest, who would then grant the letter's bearer a favor. An example of an appropriate favor would be one free casting of a spell of 5th level or lower from the cleric spell list, such as [commune](3-Mechanics/CLI/spells/commune.md) or [raise dead](3-Mechanics/CLI/spells/raise-dead.md).
+This letter has similar text to the first letter, as well as the symbol of a deity worshiped in your campaign world (choose an appropriate deity). This letter can be taken to any temple where that deity is worshiped and presented to the high priest, who would then grant the letter's bearer a favor. An example of an appropriate favor would be one free casting of a spell of 5th level or lower from the cleric spell list, such as [commune](3-Mechanics/CLI/spells/commune-xphb.md) or [raise dead](3-Mechanics/CLI/spells/raise-dead-xphb.md).
 
 ##### Letter 3
 
-This letter bears the signature and arcane sigil of Saya Kalternax, a wizard known throughout the land. (You can replace this wizard with another mage that better suits your campaign.) The letter describes the kinship between this wizard and the adventuring party to which Madryck once belonged. It concludes with, "By the terms of a magically binding agreement, the bearer of this letter is owed one favor from Saya Kalternax or, in the event of their untimely demise, one of Saya's devoted apprentices." Although Saya died a few years ago, this letter can be presented to one of their apprentices (who might be difficult to locate, at your discretion). Examples of an appropriate favor would be the brewing of a rare or uncommon potion, the scribing of a rare or uncommon scroll, or the loan of a spellbook containing a selection of wizard spells of 5th level and lower. If you need statistics for this spellcaster, use the [mage](3-Mechanics/CLI/bestiary/humanoid/mage.md) stat block. Give the mage whatever alignment and languages you like.
+This letter bears the signature and arcane sigil of Saya Kalternax, a wizard known throughout the land. (You can replace this wizard with another mage that better suits your campaign.) The letter describes the kinship between this wizard and the adventuring party to which Madryck once belonged. It concludes with, "By the terms of a magically binding agreement, the bearer of this letter is owed one favor from Saya Kalternax or, in the event of their untimely demise, one of Saya's devoted apprentices." Although Saya died a few years ago, this letter can be presented to one of their apprentices (who might be difficult to locate, at your discretion). Examples of an appropriate favor would be the brewing of a rare or uncommon potion, the scribing of a rare or uncommon scroll, or the loan of a spellbook containing a selection of wizard spells of 5th level and lower. If you need statistics for this spellcaster, use the [mage](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) stat block. Give the mage whatever alignment and languages you like.
 
-If Madryck passes away before the characters return from their Feywild excursion (an event likely to occur only if the characters delay their return by a year or longer), he leaves behind a trusted associate who can give them the key and provide directions to his hidden treasure. This associate might be a friendly pixie or faerie dragon, an awakened squirrel (the beneficiary of a druid's [awaken](3-Mechanics/CLI/spells/awaken.md) spell), or some other trustworthy creature of Madryck's acquaintance.
+If Madryck passes away before the characters return from their Feywild excursion (an event likely to occur only if the characters delay their return by a year or longer), he leaves behind a trusted associate who can give them the key and provide directions to his hidden treasure. This associate might be a friendly pixie or faerie dragon, an awakened squirrel (the beneficiary of a druid's [awaken](3-Mechanics/CLI/spells/awaken-xphb.md) spell), or some other trustworthy creature of Madryck's acquaintance.
 
-![Witchlight Carnival Ticket](3-Mechanics/CLI/adventures/the-wild-beyond-the-witchlight/img/011-00-012-witchlight-carnival-ticket.webp#center)
+![Witchlight Carnival Ticket](file://adventure/WBtW/011-00-012.witchlight-carnival-ticket.webp#center)
 
 ## Pronunciation Guide
 

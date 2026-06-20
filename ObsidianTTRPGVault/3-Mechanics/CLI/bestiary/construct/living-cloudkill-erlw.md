@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Living Cloudkill"
 ---
-# [Living Cloudkill](3-Mechanics\CLI\bestiary\construct/living-cloudkill-erlw.md)
+# [Living Cloudkill](3-Mechanics/CLI/bestiary/construct/living-cloudkill-erlw.md)
 *Source: Eberron: Rising from the Last War p. 299*  
 
 ## Constructed Nature
@@ -44,7 +44,7 @@ Now make the following changes to that stat block:
 
 **Spell Mimicry**. Replace the effect of Spell Mimicry with the effect of the chosen spell. If that spell requires a saving throw, use spell save DC from the replaced spell, and if the spell involves an attack roll, use the attack bonus from the living spell's Magical Strike.
 
-For example, if you turn [fireball](3-Mechanics/CLI/spells/fireball.md) (a 3rd-level spell) into a living spell, customize the [living lightning bolt](3-Mechanics/CLI/bestiary/construct/living-lightning-bolt-erlw.md). The living fireball has immunity to fire damage, instead of lightning damage; deals fire damage with its Magical Strike; and replicates [fireball](3-Mechanics/CLI/spells/fireball.md) with Spell Mimicry.
+For example, if you turn [fireball](3-Mechanics/CLI/spells/fireball-xphb.md) (a 3rd-level spell) into a living spell, customize the [living lightning bolt](3-Mechanics/CLI/bestiary/construct/living-lightning-bolt-erlw.md). The living fireball has immunity to fire damage, instead of lightning damage; deals fire damage with its Magical Strike; and replicates [fireball](3-Mechanics/CLI/spells/fireball-xphb.md) with Spell Mimicry.
 
 ```statblock
 "name": "Living Cloudkill (ERLW)"
@@ -99,6 +99,6 @@ For example, if you turn [fireball](3-Mechanics/CLI/spells/fireball.md) (a 3rd-l
     "name": "Spell Mimicry (Recharge 5-6)"
 "source":
   - "ERLW"
-"image": "3-Mechanics/CLI/bestiary/construct/token/living-cloudkill-erlw.webp"
+"image": "file://bestiary/tokens/ERLW/Living%20Cloudkill.webp"
 ```
 ^statblock

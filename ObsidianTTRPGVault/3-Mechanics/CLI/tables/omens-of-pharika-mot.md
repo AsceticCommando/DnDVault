@@ -12,6 +12,8 @@ aliases:
 
 **Omens of Pharika**
 
+`dice: [](omens-of-pharika-mot.md#^omens-of-pharika)`
+
 | dice: d6 | dice: d100 | Omen of Pharika |
 |----------|------------|-----------------|
 | 1 | 73 | Hundreds of snakes, spiders, or centipedes crawl from the ground. |

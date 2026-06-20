@@ -12,6 +12,8 @@ aliases:
 
 **Rival**
 
+`dice: [](creating-a-rival-rival-xge.md#^rival)`
+
 | dice: d20 | Rival |
 |-----------|-------|
 | 1 | Tax collector who is convinced the characters are dodging fees |

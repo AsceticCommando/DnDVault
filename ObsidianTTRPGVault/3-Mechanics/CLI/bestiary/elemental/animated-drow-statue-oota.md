@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Animated Drow Statue"
 ---
-# [Animated Drow Statue](3-Mechanics\CLI\bestiary\elemental/animated-drow-statue-oota.md)
+# [Animated Drow Statue](3-Mechanics/CLI/bestiary/elemental/animated-drow-statue-oota.md)
 *Source: Out of the Abyss p. 96*  
 
 ```statblock
@@ -44,10 +44,10 @@ aliases:
 "cr": "1"
 "traits":
   - "desc": "The statue is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
-      \ while in the area of an [antimagic field](3-Mechanics/CLI/spells/antimagic-field.md).\
-      \ If targeted by [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), the\
-      \ statue must succeed on a Constitution saving throw against the caster's spell\
-      \ save DC or fall [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)\
+      \ while in the area of an [antimagic field](3-Mechanics/CLI/spells/antimagic-field-xphb.md).\
+      \ If targeted by [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
+      \ the statue must succeed on a Constitution saving throw against the caster's\
+      \ spell save DC or fall [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)\
       \ for 1 minute."
     "name": "Antimagic Susceptibility"
   - "desc": "While the statue remains motionless, it is indistinguishable from a normal\
@@ -61,6 +61,6 @@ aliases:
     "name": "Slam"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/elemental/token/animated-drow-statue-oota.webp"
+"image": "file://bestiary/tokens/OotA/Animated%20Drow%20Statue.webp"
 ```
 ^statblock

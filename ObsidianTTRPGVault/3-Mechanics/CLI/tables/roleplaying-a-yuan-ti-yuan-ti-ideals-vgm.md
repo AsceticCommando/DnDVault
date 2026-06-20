@@ -12,6 +12,8 @@ aliases:
 
 **Yuan-ti Ideals**
 
+`dice: [](roleplaying-a-yuan-ti-yuan-ti-ideals-vgm.md#^yuan-ti-ideals)`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Greed. I display my wealth as a sign of my power and prosperity. (Evil) |

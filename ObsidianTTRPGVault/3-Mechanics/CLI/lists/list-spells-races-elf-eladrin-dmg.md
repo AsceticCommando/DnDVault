@@ -11,4 +11,4 @@ aliases:
 
 ## 2nd Level
 
-- [Misty Step](3-Mechanics/CLI/spells/misty-step.md "PHB")
+- [Misty Step](3-Mechanics/CLI/spells/misty-step-xphb.md "XPHB")

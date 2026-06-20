@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Molliver"
 ---
-# [Molliver](3-Mechanics\CLI\bestiary\npc/molliver-wbtw.md)
+# [Molliver](3-Mechanics/CLI/bestiary/npc/molliver-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 226*  
 
 Molliver is a thief who gives most of what they steal to the destitute, keeping a few choice items for their own use. They're always ready to put themself in harm's way to see justice triumph over tyranny and inequality.
@@ -26,7 +26,7 @@ Molliver invites trouble by not thinking through the ramifications of their acti
 "subtype": "human"
 "alignment": "Chaotic Good"
 "ac": !!int "15"
-"ac_class": "[+1 leather armor](3-Mechanics/CLI/items/1-armor.md)"
+"ac_class": "[+1 leather armor](3-Mechanics/CLI/items/1-armor-xdmg.md)"
 "hp": !!int "60"
 "hit_dice": "8d8 + 24"
 "modifier": !!int "3"
@@ -49,8 +49,8 @@ Molliver invites trouble by not thinking through the ramifications of their acti
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+7"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "passive Perception 9"
 "languages": "Common"
 "cr": "3"
@@ -59,8 +59,8 @@ Molliver invites trouble by not thinking through the ramifications of their acti
       \ only half damage, Molliver takes no damage on a successful save or half damage\
       \ on a failed one, provided Molliver is not [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)."
     "name": "Evasion"
-  - "desc": "Molliver wears [+1 leather armor](3-Mechanics/CLI/items/1-armor.md) and\
-      \ [boots of levitation](3-Mechanics/CLI/items/boots-of-levitation.md)."
+  - "desc": "Molliver wears [+1 leather armor](3-Mechanics/CLI/items/1-armor-xdmg.md)\
+      \ and [boots of levitation](3-Mechanics/CLI/items/boots-of-levitation-xdmg.md)."
     "name": "Special Equipment"
 "actions":
   - "desc": "Molliver makes two Dagger or Shortsword attacks, or one of each."
@@ -75,7 +75,7 @@ Molliver invites trouble by not thinking through the ramifications of their acti
       \ if Molliver has advantage on the attack roll or if the target is within 5\
       \ feet of one of Molliver's allies."
     "name": "Shortsword"
-  - "desc": "While wearing boots of levitation, Molliver casts [levitate](3-Mechanics/CLI/spells/levitate.md)\
+  - "desc": "While wearing boots of levitation, Molliver casts [levitate](3-Mechanics/CLI/spells/levitate-xphb.md)\
       \ (self only)."
     "name": "Levitate"
 "reactions":
@@ -84,6 +84,6 @@ Molliver invites trouble by not thinking through the ramifications of their acti
     "name": "Uncanny Dodge"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/npc/token/molliver-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Molliver.webp"
 ```
 ^statblock

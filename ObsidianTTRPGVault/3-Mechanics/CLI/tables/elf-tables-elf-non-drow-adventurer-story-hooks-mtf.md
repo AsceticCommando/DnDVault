@@ -12,6 +12,8 @@ aliases:
 
 **Elf (Non-drow) Adventurer Story Hooks**
 
+`dice: [](elf-tables-elf-non-drow-adventurer-story-hooks-mtf.md#^elf-non-drow-adventurer-story-hooks)`
+
 | dice: d8 | Hook |
 |----------|------|
 | 1 | You believe the key to reuniting the elves with Corellon lies somewhere in the wider world, not within elven society, and you're determined to find it. |

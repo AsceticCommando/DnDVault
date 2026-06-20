@@ -12,6 +12,8 @@ aliases:
 
 **Beholder Teeth Shape**
 
+`dice: [](physical-characteristics-beholder-teeth-shape-vgm.md#^beholder-teeth-shape)`
+
 | dice: d10 | Teeth Shape |
 |-----------|-------------|
 | 1-4 | Thick and pointed |

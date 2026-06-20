@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Envy"
 ---
-# [Envy](3-Mechanics\CLI\bestiary\npc/envy-wbtw.md)
+# [Envy](3-Mechanics/CLI/bestiary/npc/envy-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 178*  
 
 The iron lion, Envy, is one of two guardians that Zybilna created to watch over her garden in her absence. When Zybilna became frozen in time, her guardians appeared from their respective demiplanes to perform their duty.
@@ -67,11 +67,11 @@ Envy dislikes its counterpart, Wrath (see area P10), but the two are prevented b
       \ The [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) target must\
       \ repeat the saving throw at the end of its next turn. On a success, the effect\
       \ ends on the target. On a failure, the target is [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified)\
-      \ until freed by the [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md)\
+      \ until freed by the [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md)\
       \ spell or other magic."
     "name": "Petrifying Breath (Recharge 5-6)"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/npc/token/envy-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Envy.webp"
 ```
 ^statblock

@@ -12,6 +12,8 @@ aliases:
 
 **Azalin's Fate**
 
+`dice: [](the-secret-of-darkons-doom-azalins-fate-vrgr.md#^azalins-fate)`
+
 | dice: d4 | Fate |
 |----------|------|
 | 1 | Azalin was destroyed—slain by a failed magical experiment, a rival, or the Dark Powers. |

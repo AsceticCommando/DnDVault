@@ -12,6 +12,8 @@ aliases:
 
 **Absent Parent**
 
+`dice: [](supplemental-tables-absent-parent-xge.md#^absent-parent)`
+
 | dice: d4 | Fate |
 |----------|------|
 | 1 | Your parent died (roll on the Cause of Death supplemental table). |

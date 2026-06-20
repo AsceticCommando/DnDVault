@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Titivilus"
 ---
-# [Titivilus](3-Mechanics\CLI\bestiary\npc/titivilus-mpmm.md)
+# [Titivilus](3-Mechanics/CLI/bestiary/npc/titivilus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 242, Mordenkainen's Tome of Foes p. 179*  
 
 Dispater, the gloomy Lord of Dis, rules from his iron palace, seeming to hide behind its labyrinthine corridors, iron walls, diabolical traps, and monstrous servants. Knowing he has enemies on all sides and fearing he'll be displaced like Moloch, Geryon, and so many others, he almost never travels farther than the sprawling city that lies outside his palace.
@@ -111,10 +111,10 @@ Titivilus recognizes the precariousness of his position. After all, Dispater's a
     "name": "Twisting Words"
   - "desc": "Titivilus casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 21):\n\n**At\
-      \ will:** [alter self](3-Mechanics/CLI/spells/alter-self.md), [major image](3-Mechanics/CLI/spells/major-image.md),\
-      \ [nondetection](3-Mechanics/CLI/spells/nondetection.md), [sending](3-Mechanics/CLI/spells/sending.md),\
-      \ [suggestion](3-Mechanics/CLI/spells/suggestion.md)\n\n**3/day each:** [mislead](3-Mechanics/CLI/spells/mislead.md),\
-      \ [modify memory](3-Mechanics/CLI/spells/modify-memory.md)"
+      \ will:** [alter self](3-Mechanics/CLI/spells/alter-self-xphb.md), [major image](3-Mechanics/CLI/spells/major-image-xphb.md),\
+      \ [nondetection](3-Mechanics/CLI/spells/nondetection-xphb.md), [sending](3-Mechanics/CLI/spells/sending-xphb.md),\
+      \ [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md)\n\n**3/day each:**\
+      \ [mislead](3-Mechanics/CLI/spells/mislead-xphb.md), [modify memory](3-Mechanics/CLI/spells/modify-memory-xphb.md)"
     "name": "Spellcasting"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, Titivilus can expend a use to take one of the following actions. Titivilus\
@@ -133,6 +133,6 @@ Titivilus recognizes the precariousness of his position. After all, Dispater's a
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/npc/token/titivilus-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Titivilus.webp"
 ```
 ^statblock

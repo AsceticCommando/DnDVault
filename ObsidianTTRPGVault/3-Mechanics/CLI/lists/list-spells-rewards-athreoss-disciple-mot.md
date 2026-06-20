@@ -11,4 +11,4 @@ aliases:
 
 ## 1st Level
 
-- [False Life](3-Mechanics/CLI/spells/false-life.md "PHB")
+- [False Life](3-Mechanics/CLI/spells/false-life-xphb.md "XPHB")

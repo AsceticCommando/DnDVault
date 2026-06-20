@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Velociraptor"
 ---
-# [Velociraptor](3-Mechanics\CLI\bestiary\beast/velociraptor-mpmm.md)
+# [Velociraptor](3-Mechanics/CLI/bestiary/beast/velociraptor-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*  
 
 This feathered dinosaur is about the size of a large turkey. It is an aggressive predator and often hunts in packs to bring down larger prey.
@@ -61,7 +61,7 @@ This feathered dinosaur is about the size of a large turkey. It is an aggressive
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/beast/token/velociraptor-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Velociraptor.webp"
 ```
 ^statblock
 

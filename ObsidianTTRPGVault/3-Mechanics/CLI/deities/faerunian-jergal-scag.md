@@ -15,7 +15,7 @@ aliases:
 ---
 # Jergal
 *Source: Sword Coast Adventurer's Guide p. 21* 
-![](3-Mechanics/CLI/deities/img/scag-symbol-of-jergal.webp#symbol)
+![](file://deities/SCAG/Symbol%20of%20Jergal.webp#symbol)
 
 - **Alternate Names**: The Final Scribe, The Pitiless One, The Bleak Seneschal
 - **Alignment**: Lawful Neutral

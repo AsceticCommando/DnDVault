@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Blurg"
 ---
-# [Blurg](3-Mechanics\CLI\bestiary\npc/blurg-oota.md)
+# [Blurg](3-Mechanics/CLI/bestiary/npc/blurg-oota.md)
 *Source: Out of the Abyss p. 29*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "orc"
 "alignment": "Neutral"
 "ac": !!int "18"
-"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor.md)"
+"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "42"
 "hit_dice": "5d8 + 20"
 "modifier": !!int "1"
@@ -40,14 +40,14 @@ aliases:
   - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+2"
 "gear":
-  - "[greataxe](3-Mechanics/CLI/items/greataxe.md)"
-  - "[javelin](3-Mechanics/CLI/items/javelin.md)"
+  - "[greataxe](3-Mechanics/CLI/items/greataxe-xphb.md)"
+  - "[javelin](3-Mechanics/CLI/items/javelin-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 10"
 "languages": "Common, Orc, Dwarvish, Elvish, Undercommon"
 "cr": "2"
 "traits":
-  - "desc": "Blurg can innately cast can cast the [teleport](3-Mechanics/CLI/spells/teleport.md)\
+  - "desc": "Blurg can innately cast can cast the [teleport](3-Mechanics/CLI/spells/teleport-xphb.md)\
       \ spell once per day, but the intended destination must be within 30 feet of\
       \ another society member. This teleport effect can be disrupted (see \"Faerzress\"\
       ), which is how society members sometimes end up in far corners of the Underdark,\
@@ -67,6 +67,6 @@ aliases:
     "name": "Javelin"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/blurg-oota.webp"
+"image": "file://bestiary/tokens/OotA/Blurg.webp"
 ```
 ^statblock

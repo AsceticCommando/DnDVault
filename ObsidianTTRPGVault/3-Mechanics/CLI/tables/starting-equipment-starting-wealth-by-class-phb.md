@@ -19,7 +19,7 @@ aliases:
 | Cleric | 5d4 × 10 gp |
 | Druid | 2d4 × 10 gp |
 | Fighter | 5d4 × 10 gp |
-| Monk | 5d4 (`5d4`) gp |
+| Monk | `dice:5d4\|noform\|noparens\|avg\|text(5d4)` (`5d4`) gp |
 | Paladin | 5d4 × 10 gp |
 | Ranger | 5d4 × 10 gp |
 | Rogue | 4d4 × 10 gp |

@@ -12,14 +12,14 @@ statblock-link: "#^statblock"
 aliases:
 - "Radiant Idol"
 ---
-# [Radiant Idol](3-Mechanics\CLI\bestiary\celestial/radiant-idol-erlw.md)
+# [Radiant Idol](3-Mechanics/CLI/bestiary/celestial/radiant-idol-erlw.md)
 *Source: Eberron: Rising from the Last War p. 308*  
 
 A radiant idol was an angel that was banished from the celestial realm of Syrania and cast down to the Material Plane. One sin led to their fall: the desire to be worshiped by mortals. Now in the mortal realm, most radiant idols gather cults of devoted followers.
 
 ## Fallen Angels
 
-The insatiable hunger to be adored can transform a fallen angel, physically and mentally. In its true form, a radiant idol appears to be a warped angel. It might have bloody stumps in place of its wings, or its wings could be weighted down with chains representing its pride. A radiant idol uses [disguise self](3-Mechanics/CLI/spells/disguise-self.md) to hide its corruption, presenting an image of celestial glory.
+The insatiable hunger to be adored can transform a fallen angel, physically and mentally. In its true form, a radiant idol appears to be a warped angel. It might have bloody stumps in place of its wings, or its wings could be weighted down with chains representing its pride. A radiant idol uses [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md) to hide its corruption, presenting an image of celestial glory.
 
 ## The Weight of Corruption
 
@@ -63,7 +63,7 @@ A radiant idol doesn't require food, drink, or sleep.
 "condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
   \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
 "gear":
-  - "[flail](3-Mechanics/CLI/items/flail.md)"
+  - "[flail](3-Mechanics/CLI/items/flail-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
   \ Perception 19"
 "languages": "all, telepathy 120 ft."
@@ -71,11 +71,12 @@ A radiant idol doesn't require food, drink, or sleep.
 "traits":
   - "desc": "The radiant idol's spellcasting ability is Charisma (spell save DC 17).\
       \ The radiant idol can innately cast the following spells, requiring no material\
-      \ components:\n\n**At will:** [charm person](3-Mechanics/CLI/spells/charm-person.md),\
-      \ [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md), [disguise self](3-Mechanics/CLI/spells/disguise-self.md),\
-      \ [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy.md)\n\n**1/day each:** [commune](3-Mechanics/CLI/spells/commune.md),\
-      \ [dominate person](3-Mechanics/CLI/spells/dominate-person.md), [insect plague](3-Mechanics/CLI/spells/insect-plague.md),\
-      \ [mass suggestion](3-Mechanics/CLI/spells/mass-suggestion.md), [raise dead](3-Mechanics/CLI/spells/raise-dead.md)"
+      \ components:\n\n**At will:** [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md),\
+      \ [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md), [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md),\
+      \ [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n**1/day each:**\
+      \ [commune](3-Mechanics/CLI/spells/commune-xphb.md), [dominate person](3-Mechanics/CLI/spells/dominate-person-xphb.md),\
+      \ [insect plague](3-Mechanics/CLI/spells/insect-plague-xphb.md), [mass suggestion](3-Mechanics/CLI/spells/mass-suggestion-xphb.md),\
+      \ [raise dead](3-Mechanics/CLI/spells/raise-dead-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "A creature that starts its turn within 30 feet of the radiant idol must\
       \ make a DC 17 Wisdom saving throw, provided the radiant idol isn't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated).\
@@ -103,6 +104,6 @@ A radiant idol doesn't require food, drink, or sleep.
     "name": "Radiant Strike (1/Day)"
 "source":
   - "ERLW"
-"image": "3-Mechanics/CLI/bestiary/celestial/token/radiant-idol-erlw.webp"
+"image": "file://bestiary/tokens/ERLW/Radiant%20Idol.webp"
 ```
 ^statblock

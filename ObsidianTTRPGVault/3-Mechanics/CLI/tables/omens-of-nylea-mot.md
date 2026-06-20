@@ -12,6 +12,8 @@ aliases:
 
 **Omens of Nylea**
 
+`dice: [](omens-of-nylea-mot.md#^omens-of-nylea)`
+
 | dice: d8 | dice: d100 | Omen of Nylea |
 |----------|------------|---------------|
 | 1 | 65 | Butterflies land on a character or fly together in a particular direction. |

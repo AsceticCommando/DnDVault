@@ -4,13 +4,13 @@ cssclasses:
 - json5e-spell
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/spell/class/bard/magical-secrets
+- ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/druid
 - ttrpg-cli/spell/class/ranger
 - ttrpg-cli/spell/level/5th-level
 - ttrpg-cli/spell/school/evocation
 classes:
-- Bard (Magical Secrets)
+- Bard
 - Druid
 - Ranger
 aliases:
@@ -33,7 +33,7 @@ Any area of ground in the cube that is covered by grass or undergrowth is diffic
 
 ## Trees
 
-At the start of each of your turns, each of your enemies within 10 feet of any tree in the cube must succeed on a Dexterity saving throw or take `4d6` slashing damage from whipping branches.
+At the start of each of your turns, each of your enemies within 10 feet of any tree in the cube must succeed on a Dexterity saving throw or take `dice:4d6|noform|noparens|avg` (`4d6`) slashing damage from whipping branches.
 
 ## Roots and Vines
 
@@ -41,10 +41,10 @@ At the end of each of your turns, one creature of your choice that is on the gro
 
 ## Rocks
 
-As a bonus action on your turn, you can cause a loose rock in the cube to launch at a creature you can see in the cube. Make a ranged spell attack against the target. On a hit, the target takes `3d8` nonmagical bludgeoning damage, and it must succeed on a Strength saving throw or fall [prone](3-Mechanics/CLI/rules/conditions.md#Prone).
+As a bonus action on your turn, you can cause a loose rock in the cube to launch at a creature you can see in the cube. Make a ranged spell attack against the target. On a hit, the target takes `dice:3d8|noform|noparens|avg` (`3d8`) nonmagical bludgeoning damage, and it must succeed on a Strength saving throw or fall [prone](3-Mechanics/CLI/rules/conditions.md#Prone).
 
 ## Summary
 
-**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](3-Mechanics/CLI/lists/list-spells-classes-ranger.md)
+**Classes**: [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](3-Mechanics/CLI/lists/list-spells-classes-ranger.md)
 
 *Source: Xanathar's Guide to Everything p. 171*

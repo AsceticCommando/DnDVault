@@ -12,8 +12,8 @@ statblock-link: "#^statblock"
 aliases:
 - "Dragonclaw"
 ---
-# [Dragonclaw](3-Mechanics\CLI\bestiary\humanoid/dragonclaw-hotdq.md)
-*Source: Hoard of the Dragon Queen p. 89, Tyranny of Dragons p. 182*  
+# [Dragonclaw](3-Mechanics/CLI/bestiary/humanoid/dragonclaw-hotdq.md)
+*Source: Hoard of the Dragon Queen p. 89, The Rise of Tiamat p. 89, Tyranny of Dragons p. 182*  
 
 ```statblock
 "name": "Dragonclaw (HotDQ)"
@@ -22,7 +22,7 @@ aliases:
 "subtype": "human"
 "alignment": "Lawful Evil"
 "ac": !!int "14"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "16"
 "hit_dice": "3d8 + 3"
 "modifier": !!int "3"
@@ -42,7 +42,7 @@ aliases:
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
 "gear":
-  - "[scimitar](3-Mechanics/CLI/items/scimitar.md)"
+  - "[scimitar](3-Mechanics/CLI/items/scimitar-xphb.md)"
 "senses": "passive Perception 10"
 "languages": "Common, Draconic"
 "cr": "1"
@@ -68,7 +68,8 @@ aliases:
     "name": "Scimitar"
 "source":
   - "HotDQ"
+  - "RoT"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/dragonclaw-hotdq.webp"
+"image": "file://bestiary/tokens/HotDQ/Dragonclaw.webp"
 ```
 ^statblock

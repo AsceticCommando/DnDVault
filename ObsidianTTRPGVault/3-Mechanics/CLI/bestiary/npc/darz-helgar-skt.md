@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Darz Helgar"
 ---
-# [Darz Helgar](3-Mechanics\CLI\bestiary\npc/darz-helgar-skt.md)
+# [Darz Helgar](3-Mechanics/CLI/bestiary/npc/darz-helgar-skt.md)
 *Source: Storm King's Thunder p. 253*  
 
 In his youth, Darz was a member of the Xanathar Thieves' Guild in Waterdeep. After serving ten years in prison for his crimes, he cut all ties to the city and moved north to be a campground caretaker.
@@ -49,8 +49,8 @@ Flaw:"I have no regrets. I do whatever it takes to survive."
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "gear":
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
-  - "[sling](3-Mechanics/CLI/items/sling.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
+  - "[sling](3-Mechanics/CLI/items/sling-xphb.md)"
 "senses": "passive Perception 10"
 "languages": "Common"
 "traits":
@@ -75,6 +75,6 @@ Flaw:"I have no regrets. I do whatever it takes to survive."
     "name": "Sling"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/darz-helgar-skt.webp"
+"image": "file://bestiary/tokens/SKT/Darz%20Helgar.webp"
 ```
 ^statblock

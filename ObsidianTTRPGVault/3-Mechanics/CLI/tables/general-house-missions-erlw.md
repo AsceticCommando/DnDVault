@@ -12,6 +12,8 @@ aliases:
 
 **General House Missions**
 
+`dice: [](general-house-missions-erlw.md#^general-house-missions)`
+
 | dice: d8 | Mission |
 |----------|---------|
 | 1 | Establish a safe location for a house enclave in a hostile environment. |

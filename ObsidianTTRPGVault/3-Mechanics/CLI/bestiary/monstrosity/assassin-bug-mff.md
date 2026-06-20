@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Assassin Bug"
 ---
-# [Assassin Bug](3-Mechanics\CLI\bestiary\monstrosity/assassin-bug-mff.md)
+# [Assassin Bug](3-Mechanics/CLI/bestiary/monstrosity/assassin-bug-mff.md)
 *Source: Mordenkainen's Fiendish Folio p. 4*  
 
 Assassin bugs plague the frontier and the wilderness, where they seek to hatch their voracious maggots within [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) hosts. Resembling giant bluebottle flies, these insectile terrors bear stunted humanoid limbs hinting at the bizarre ceremonies that created them.
@@ -90,6 +90,6 @@ Few creatures are able to survive an assassin bug's infestation without immediat
     "name": "Ovipositor"
 "source":
   - "MFF"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/assassin-bug-mff.webp"
+"image": "file://bestiary/tokens/MFF/Assassin%20Bug.webp"
 ```
 ^statblock

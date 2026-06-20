@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Wiri Fleagol"
 ---
-# [Wiri Fleagol](3-Mechanics\CLI\bestiary\npc/wiri-fleagol-skt.md)
+# [Wiri Fleagol](3-Mechanics/CLI/bestiary/npc/wiri-fleagol-skt.md)
 *Source: Storm King's Thunder p. 176*  
 
 ```statblock
@@ -34,7 +34,7 @@ aliases:
   - !!int "10"
 "speed": "30 ft."
 "gear":
-  - "[club](3-Mechanics/CLI/items/club.md)"
+  - "[club](3-Mechanics/CLI/items/club-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 10"
 "languages": "any one language (usually Common), Gnomish"
@@ -48,6 +48,6 @@ aliases:
     "name": "Club"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/wiri-fleagol-skt.webp"
+"image": "file://bestiary/tokens/SKT/Wiri%20Fleagol.webp"
 ```
 ^statblock

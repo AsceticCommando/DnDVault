@@ -12,6 +12,8 @@ aliases:
 
 **Athreos's Quests**
 
+`dice: [](athreoss-quests-mot.md#^athreoss-quests)`
+
 | dice: d6 | Adventure Goal |
 |----------|----------------|
 | 1 | Seal a secret path that the Returned use to escape the Underworld. |

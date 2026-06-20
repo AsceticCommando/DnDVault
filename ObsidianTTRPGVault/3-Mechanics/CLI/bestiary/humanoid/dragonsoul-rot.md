@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Dragonsoul"
 ---
-# [Dragonsoul](3-Mechanics\CLI\bestiary\humanoid/dragonsoul-rot.md)
+# [Dragonsoul](3-Mechanics/CLI/bestiary/humanoid/dragonsoul-rot.md)
 *Source: The Rise of Tiamat p. 89, Tyranny of Dragons p. 183*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "human"
 "alignment": "Neutral Evil"
 "ac": !!int "16"
-"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor.md)"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
 "hp": !!int "110"
 "hit_dice": "17d8 + 34"
 "modifier": !!int "4"
@@ -43,7 +43,7 @@ aliases:
     "desc": "+7"
 "damage_resistances": "one of the following: acid, cold, fire, lightning, poison"
 "gear":
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "passive Perception 11"
 "languages": "Common, Draconic, Infernal"
 "cr": "7"
@@ -77,6 +77,6 @@ aliases:
 "source":
   - "RoT"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/dragonsoul-rot.webp"
+"image": "file://bestiary/tokens/RoT/Dragonsoul.webp"
 ```
 ^statblock

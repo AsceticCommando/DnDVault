@@ -12,6 +12,8 @@ aliases:
 
 **Human Names – Slavic, Female**
 
+`dice: [](human-names-slavic-female-xge.md#^human-names-slavic-female)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Agripina |

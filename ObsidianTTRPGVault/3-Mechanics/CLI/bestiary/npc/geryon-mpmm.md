@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Geryon"
 ---
-# [Geryon](3-Mechanics\CLI\bestiary\npc/geryon-mpmm.md)
+# [Geryon](3-Mechanics/CLI/bestiary/npc/geryon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 136, Mordenkainen's Tome of Foes p. 173*  
 
 Geryon is locked in an endless struggle with Levistus for control of Stygia. The two have fought for centuries, each displacing the other innumerable times. Currently, Levistus claims lordship over Stygia, but he has been trapped in an enormous block of ice at the command of Asmodeus. In response, Geryon is marshaling his followers, hoping to use this opportunity to replace his hated rival.
@@ -101,11 +101,12 @@ Geryon has recently reclaimed his ancient fortress, Coldsteel, a sprawling compl
     "name": "Teleport"
   - "desc": "Geryon casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 21):\n\n**At\
-      \ will:** [alter self](3-Mechanics/CLI/spells/alter-self.md) (can become Medium\
-      \ when changing his appearance), [detect magic](3-Mechanics/CLI/spells/detect-magic.md),\
-      \ [ice storm](3-Mechanics/CLI/spells/ice-storm.md), [invisibility](3-Mechanics/CLI/spells/invisibility.md)\
-      \ (self only), [locate object](3-Mechanics/CLI/spells/locate-object.md), [suggestion](3-Mechanics/CLI/spells/suggestion.md),\
-      \ [wall of ice](3-Mechanics/CLI/spells/wall-of-ice.md)\n\n**1/day:** [banishment](3-Mechanics/CLI/spells/banishment.md)"
+      \ will:** [alter self](3-Mechanics/CLI/spells/alter-self-xphb.md) (can become\
+      \ Medium when changing his appearance), [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [ice storm](3-Mechanics/CLI/spells/ice-storm-xphb.md), [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md)\
+      \ (self only), [locate object](3-Mechanics/CLI/spells/locate-object-xphb.md),\
+      \ [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md), [wall of ice](3-Mechanics/CLI/spells/wall-of-ice-xphb.md)\n\
+      \n**1/day:** [banishment](3-Mechanics/CLI/spells/banishment-xphb.md)"
     "name": "Spellcasting"
 "lair_actions":
   - "desc": "On initiative count 20 (losing initiative ties), Geryon can take one\
@@ -147,6 +148,6 @@ Geryon has recently reclaimed his ancient fortress, Coldsteel, a sprawling compl
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/npc/token/geryon-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Geryon.webp"
 ```
 ^statblock

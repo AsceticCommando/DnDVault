@@ -12,6 +12,8 @@ aliases:
 
 **Beyond a Door**
 
+`dice: [](doors-beyond-a-door.md#^beyond-a-door)`
+
 | dice: d20 | Feature |
 |-----------|---------|
 | 1-2 | Passage extending 10 ft., then T intersection extending 10 ft. to the right and left |

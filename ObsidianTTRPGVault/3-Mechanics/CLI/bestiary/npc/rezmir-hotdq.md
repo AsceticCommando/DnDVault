@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Rezmir"
 ---
-# [Rezmir](3-Mechanics\CLI\bestiary\npc/rezmir-hotdq.md)
+# [Rezmir](3-Mechanics/CLI/bestiary/npc/rezmir-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 93, Tyranny of Dragons p. 180*  
 
 ```statblock
@@ -45,7 +45,7 @@ aliases:
 "damage_immunities": "acid"
 "condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
 "gear":
-  - "[greatsword](3-Mechanics/CLI/items/greatsword.md)"
+  - "[greatsword](3-Mechanics/CLI/items/greatsword-xphb.md)"
 "senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 11"
 "languages": "Common, Draconic, Infernal, Giant, Netherese"
@@ -102,6 +102,6 @@ aliases:
 "source":
   - "HotDQ"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/npc/token/rezmir-hotdq.webp"
+"image": "file://bestiary/tokens/HotDQ/Rezmir.webp"
 ```
 ^statblock

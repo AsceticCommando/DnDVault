@@ -12,6 +12,8 @@ aliases:
 
 **Dragon Flaws and Secrets**
 
+`dice: [](dragon-characters-dragon-flaws-and-secrets-ftd.md#^dragon-flaws-and-secrets)`
+
 | dice: d10 | Flaw or Secret |
 |-----------|----------------|
 | 1 | I find adventurers fearsome, and I'm convinced that I'll meet my doom at their hands one day. |

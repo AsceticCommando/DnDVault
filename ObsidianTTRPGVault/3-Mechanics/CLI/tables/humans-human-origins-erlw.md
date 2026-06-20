@@ -12,6 +12,8 @@ aliases:
 
 **Human Origins**
 
+`dice: [](humans-human-origins-erlw.md#^human-origins)`
+
 | dice: d10 | Origin |
 |-----------|--------|
 | 1 | An impoverished wizard from Aundair, striving to prove you're as intelligent as any other Aundairian |

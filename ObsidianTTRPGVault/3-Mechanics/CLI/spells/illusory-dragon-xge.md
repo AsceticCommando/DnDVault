@@ -4,15 +4,17 @@ cssclasses:
 - json5e-spell
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/spell/class/bard/magical-secrets
+- ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/wizard
 - ttrpg-cli/spell/level/8th-level
 - ttrpg-cli/spell/school/illusion
 - ttrpg-cli/spell/subclass/arcana-domain
+- ttrpg-cli/spell/subclass/illusionist
 classes:
-- Bard (Magical Secrets)
+- Bard
 - Cleric (Arcana Domain)
 - Wizard
+- Wizard (Illusionist)
 aliases:
 - "Illusory Dragon"
 ---
@@ -29,10 +31,10 @@ By gathering threads of shadow material from the Shadowfell, you create a Huge s
 
 When the illusion appears, any of your enemies that can see it must succeed on a Wisdom saving throw or become [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) of it for 1 minute. If a [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) creature ends its turn in a location where it doesn't have line of sight to the illusion, it can repeat the saving throw, ending the effect on itself on a success.
 
-As a bonus action on your turn, you can move the illusion up to 60 feet. At any point during its movement, you can cause it to exhale a blast of energy in a 60-foot cone originating from its space. When you create the dragon, choose a damage type: acid, cold, fire, lightning, necrotic, or poison. Each creature in the cone must make an Intelligence saving throw, taking `7d6` damage of the chosen damage type on a failed save, or half as much damage on a successful one.
+As a bonus action on your turn, you can move the illusion up to 60 feet. At any point during its movement, you can cause it to exhale a blast of energy in a 60-foot cone originating from its space. When you create the dragon, choose a damage type: acid, cold, fire, lightning, necrotic, or poison. Each creature in the cone must make an Intelligence saving throw, taking `dice:7d6|noform|noparens|avg` (`7d6`) damage of the chosen damage type on a failed save, or half as much damage on a successful one.
 
 The illusion is tangible because of the shadow stuff used to create it, but attacks miss it automatically, it succeeds on all saving throws, and it is immune to all damage and conditions. A creature that uses an action to examine the dragon can determine that it is an illusion by succeeding on an Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through it and has advantage on saving throws against its breath.
 
-**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](3-Mechanics/CLI/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG"); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](3-Mechanics/CLI/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Wizard (Illusionist)](3-Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 157*

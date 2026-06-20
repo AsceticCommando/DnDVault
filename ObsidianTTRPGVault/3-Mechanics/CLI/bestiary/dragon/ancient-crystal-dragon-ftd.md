@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Ancient Crystal Dragon"
 ---
-# [Ancient Crystal Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-crystal-dragon-ftd.md)
+# [Ancient Crystal Dragon](3-Mechanics/CLI/bestiary/dragon/ancient-crystal-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 170*  
 
 Shimmering with radiant energy and brimming with life, crystal dragons enjoy an innate psionic connection to the Positive Plane that suffuses their bodies as well as their personalities with light. Though they prefer to live in desolate, frigid regions, many of them are among the friendliest of dragonkind, nurturing and optimistic.
@@ -95,10 +95,10 @@ The challenge rating of a legendary crystal dragon increases by 1 when it's enco
     "name": "Scintillating Breath (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 19):\n\n\
-      **At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md), [guidance](3-Mechanics/CLI/spells/guidance.md)\n\
-      \n**1/day each:** [command](3-Mechanics/CLI/spells/command.md), [divination](3-Mechanics/CLI/spells/divination.md),\
-      \ [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md), [hypnotic\
-      \ pattern](3-Mechanics/CLI/spells/hypnotic-pattern.md), [invisibility](3-Mechanics/CLI/spells/invisibility.md)"
+      **At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
+      \ [guidance](3-Mechanics/CLI/spells/guidance-xphb.md)\n\n**1/day each:** [command](3-Mechanics/CLI/spells/command-xphb.md),\
+      \ [divination](3-Mechanics/CLI/spells/divination-xphb.md), [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md),\
+      \ [hypnotic pattern](3-Mechanics/CLI/spells/hypnotic-pattern-xphb.md), [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md)"
     "name": "Spellcasting (Psionics)"
 "bonus_actions":
   - "desc": "The dragon magically transforms into any creature that is Medium or Small,\
@@ -140,7 +140,7 @@ The challenge rating of a legendary crystal dragon increases by 1 when it's enco
       \ form in natural stone within 6 miles of the lair, particularly in places where\
       \ natural light can shine on the crystals.  \n- **Icy Sight.** Ice and quartz\
       \ within 6 miles of the lair become conduits for the dragon's psionic presence.\
-      \ As an action, the dragon can cast the [clairvoyance](3-Mechanics/CLI/spells/clairvoyance.md)\
+      \ As an action, the dragon can cast the [clairvoyance](3-Mechanics/CLI/spells/clairvoyance-xphb.md)\
       \ spell, requiring no spell components and targeting any ice or quartz crystals\
       \ in that region.  \n- **Positive Energy.** Any creature that finishes a long\
       \ rest within 6 miles of the lair regains two additional spent Hit Dice.  \n\
@@ -165,6 +165,6 @@ The challenge rating of a legendary crystal dragon increases by 1 when it's enco
     "name": "Starlight Strike (Costs 3 Actions)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/ancient-crystal-dragon-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Ancient%20Crystal%20Dragon.webp"
 ```
 ^statblock

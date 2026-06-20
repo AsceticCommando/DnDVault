@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Giant Swan"
 ---
-# [Giant Swan](3-Mechanics\CLI\bestiary\beast/giant-swan-wbtw.md)
+# [Giant Swan](3-Mechanics/CLI/bestiary/beast/giant-swan-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 38*  
 
 ```statblock
@@ -50,6 +50,6 @@ aliases:
     "name": "Beak"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/beast/token/giant-swan-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Giant%20Swan.webp"
 ```
 ^statblock

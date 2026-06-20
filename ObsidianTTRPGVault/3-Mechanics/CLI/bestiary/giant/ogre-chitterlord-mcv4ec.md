@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Ogre Chitterlord"
 ---
-# [Ogre Chitterlord](3-Mechanics\CLI\bestiary\giant/ogre-chitterlord-mcv4ec.md)
+# [Ogre Chitterlord](3-Mechanics/CLI/bestiary/giant/ogre-chitterlord-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 When ogres first moved into the wilds of Eldraine, they encountered all manner of unfamiliar creatures: spellcasting witches, tricksy faeries, and talking beasts. Over generations, these ogres adapted to their new environs, passing down a spellcasting tradition of their own to help their kin wreak havoc in the wilds and beyond.
@@ -26,7 +26,7 @@ An ogre chitterlord exercises control over the rats that infest Dunbarrow and co
 "subtype": "druid"
 "alignment": "Any alignment"
 "ac": !!int "12"
-"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor.md)"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor-xphb.md)"
 "hp": !!int "52"
 "hit_dice": "7d10 + 14"
 "modifier": !!int "0"
@@ -46,7 +46,7 @@ An ogre chitterlord exercises control over the rats that infest Dunbarrow and co
   - "name": "[Nature](3-Mechanics/CLI/rules/skills.md#Nature)"
     "desc": "+1"
 "gear":
-  - "[club](3-Mechanics/CLI/items/club.md)"
+  - "[club](3-Mechanics/CLI/items/club-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 11"
 "languages": "Common, Giant"
@@ -68,10 +68,10 @@ An ogre chitterlord exercises control over the rats that infest Dunbarrow and co
     "name": "Rat-Tail Whip"
   - "desc": "The ogre casts one of the following spells, requiring no material components\
       \ and using Wisdom as the spellcasting ability (spell save DC 11):\n\n**At will:**\
-      \ [beast sense](3-Mechanics/CLI/spells/beast-sense.md) (rats only), [druidcraft](3-Mechanics/CLI/spells/druidcraft.md),\
-      \ [entangle](3-Mechanics/CLI/spells/entangle.md)\n\n**1/day each:** [animal\
-      \ messenger](3-Mechanics/CLI/spells/animal-messenger.md) (rats only), [stinking\
-      \ cloud](3-Mechanics/CLI/spells/stinking-cloud.md)"
+      \ [beast sense](3-Mechanics/CLI/spells/beast-sense-xphb.md) (rats only), [druidcraft](3-Mechanics/CLI/spells/druidcraft-xphb.md),\
+      \ [entangle](3-Mechanics/CLI/spells/entangle-xphb.md)\n\n**1/day each:** [animal\
+      \ messenger](3-Mechanics/CLI/spells/animal-messenger-xphb.md) (rats only), [stinking\
+      \ cloud](3-Mechanics/CLI/spells/stinking-cloud-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The ogre magically calls 1d4 giant rats. Each rat appears in an unoccupied\
@@ -82,6 +82,6 @@ An ogre chitterlord exercises control over the rats that infest Dunbarrow and co
     "name": "Call Rats (1/Day)"
 "source":
   - "MCV4EC"
-"image": "3-Mechanics/CLI/bestiary/giant/token/ogre-chitterlord-mcv4ec.webp"
+"image": "file://bestiary/tokens/MCV4EC/Ogre%20Chitterlord.webp"
 ```
 ^statblock

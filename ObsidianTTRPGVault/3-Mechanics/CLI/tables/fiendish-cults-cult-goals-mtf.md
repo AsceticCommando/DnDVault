@@ -12,6 +12,8 @@ aliases:
 
 **Cult Goals**
 
+`dice: [](fiendish-cults-cult-goals-mtf.md#^cult-goals)`
+
 | dice: d6 | Goal |
 |----------|------|
 | 1 | Political power, control over the local area |

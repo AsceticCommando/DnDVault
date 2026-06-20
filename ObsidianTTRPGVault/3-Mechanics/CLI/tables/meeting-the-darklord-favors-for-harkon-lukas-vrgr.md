@@ -12,6 +12,8 @@ aliases:
 
 **Favors for Harkon Lukas**
 
+`dice: [](meeting-the-darklord-favors-for-harkon-lukas-vrgr.md#^favors-for-harkon-lukas)`
+
 | dice: d4 | Favor |
 |----------|-------|
 | 1 | Harkon is expected to debut a new song, "Just Like the Wind," but his backup performers and entourage are missing. The Darklord asks for the characters to fill in as entertainers and personal security. |

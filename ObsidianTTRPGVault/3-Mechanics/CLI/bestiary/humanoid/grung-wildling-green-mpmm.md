@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Grung Wildling (Green)"
 ---
-# [Grung Wildling (Green)](3-Mechanics\CLI\bestiary\humanoid/grung-wildling-green-mpmm.md)
+# [Grung Wildling (Green)](3-Mechanics/CLI/bestiary/humanoid/grung-wildling-green-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 150, Volo's Guide to Monsters p. 157*  
 
 ```statblock
@@ -48,8 +48,8 @@ aliases:
 "damage_immunities": "poison"
 "condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
-  - "[shortbow](3-Mechanics/CLI/items/shortbow.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
+  - "[shortbow](3-Mechanics/CLI/items/shortbow-xphb.md)"
 "senses": "passive Perception 14"
 "languages": "Grung"
 "cr": "1"
@@ -79,9 +79,10 @@ aliases:
       \ 6 (1d6 + 3) piercing damage plus 5 (2d4) poison damage."
     "name": "Shortbow"
   - "desc": "The grung casts one of the following spells, using Wisdom as the spellcasting\
-      \ ability (spell save DC 12):\n\n**At will:** [druidcraft](3-Mechanics/CLI/spells/druidcraft.md)\n\
-      \n**3/day each:** [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md), [spike\
-      \ growth](3-Mechanics/CLI/spells/spike-growth.md)\n\n**2/day:** [plant growth](3-Mechanics/CLI/spells/plant-growth.md)"
+      \ ability (spell save DC 12):\n\n**At will:** [druidcraft](3-Mechanics/CLI/spells/druidcraft-xphb.md)\n\
+      \n**3/day each:** [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md),\
+      \ [spike growth](3-Mechanics/CLI/spells/spike-growth-xphb.md)\n\n**2/day:**\
+      \ [plant growth](3-Mechanics/CLI/spells/plant-growth-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"

@@ -15,7 +15,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Blue Abishai"
 ---
-# [Blue Abishai](3-Mechanics\CLI\bestiary\fiend/blue-abishai-mpmm.md)
+# [Blue Abishai](3-Mechanics/CLI/bestiary/fiend/blue-abishai-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 39, Mordenkainen's Tome of Foes p. 161*  
 
 Seekers of forgotten lore and lost relics, blue abishais are the most cunning and learned of their kind. Their research into occult subjects gleaned from tomes plundered from across the multiverse enables them to become accomplished spellcasters. They use their magic to devastate Tiamat's enemies.
@@ -77,11 +77,11 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
       \ 36 (8d8) lightning damage."
     "name": "Lightning Strike"
   - "desc": "The abishai casts one of the following spells, using Intelligence as\
-      \ the spellcasting ability (spell save DC 20):\n\n**At will:** [disguise self](3-Mechanics/CLI/spells/disguise-self.md),\
-      \ [mage hand](3-Mechanics/CLI/spells/mage-hand.md), [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md)\n\
-      \n**2/day each:** [charm person](3-Mechanics/CLI/spells/charm-person.md), [dispel\
-      \ magic](3-Mechanics/CLI/spells/dispel-magic.md), [greater invisibility](3-Mechanics/CLI/spells/greater-invisibility.md),\
-      \ [wall of force](3-Mechanics/CLI/spells/wall-of-force.md)"
+      \ the spellcasting ability (spell save DC 20):\n\n**At will:** [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md),\
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\
+      \n**2/day each:** [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md),\
+      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [greater invisibility](3-Mechanics/CLI/spells/greater-invisibility-xphb.md),\
+      \ [wall of force](3-Mechanics/CLI/spells/wall-of-force-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The abishai teleports, along with any equipment it is wearing or carrying,\
@@ -90,7 +90,7 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/blue-abishai-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Blue%20Abishai.webp"
 ```
 ^statblock
 

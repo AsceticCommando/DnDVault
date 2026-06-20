@@ -11,7 +11,7 @@ aliases:
 # Revenant Blade
 *Source: Eberron: Rising from the Last War p. 22*  
 
-**Prerequisite**: [Elf](3-Mechanics/CLI/races/elf.md)
+**Prerequisite**: [Elf](3-Mechanics/CLI/races/elf-xphb.md)
 
 You are descended from a master of the [double-bladed scimitar](3-Mechanics/CLI/items/double-bladed-scimitar-erlw.md), and some of that mastery has passed on to you. You gain the following benefits:
 

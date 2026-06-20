@@ -18,7 +18,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Nagpa"
 ---
-# [Nagpa](3-Mechanics\CLI\bestiary\monstrosity/nagpa-mpmm.md)
+# [Nagpa](3-Mechanics/CLI/bestiary/monstrosity/nagpa-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 189, Mordenkainen's Tome of Foes p. 215*  
 
 Long ago, the Raven Queen cursed a cabal of powerful wizards for meddling in a ritual that would have helped avert a war between the gods. She transformed them into the scabrous, birdlike creatures known as nagpas and rendered them able to acquire new lore and magical power only from the ruins of fallen civilizations and great calamities.
@@ -76,14 +76,14 @@ Hungry to claim more power despite the Raven Queen's curse, nagpas strive to bri
       \ 30 (7d6 + 6) necrotic damage."
     "name": "Deathly Ray"
   - "desc": "The nagpa casts one of the following spells, using Intelligence as the\
-      \ spellcasting ability (spell save DC 20):\n\n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic.md),\
-      \ [mage hand](3-Mechanics/CLI/spells/mage-hand.md), [message](3-Mechanics/CLI/spells/message.md),\
-      \ [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md)\n\n**2/day each:**\
-      \ [fireball](3-Mechanics/CLI/spells/fireball.md), [fly](3-Mechanics/CLI/spells/fly.md),\
-      \ [hold person](3-Mechanics/CLI/spells/hold-person.md), [suggestion](3-Mechanics/CLI/spells/suggestion.md),\
-      \ [wall of fire](3-Mechanics/CLI/spells/wall-of-fire.md)\n\n**1/day each:**\
-      \ [dominate person](3-Mechanics/CLI/spells/dominate-person.md), [etherealness](3-Mechanics/CLI/spells/etherealness.md),\
-      \ [feeblemind](3-Mechanics/CLI/spells/feeblemind.md)"
+      \ spellcasting ability (spell save DC 20):\n\n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [message](3-Mechanics/CLI/spells/message-xphb.md),\
+      \ [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\n**2/day\
+      \ each:** [fireball](3-Mechanics/CLI/spells/fireball-xphb.md), [fly](3-Mechanics/CLI/spells/fly-xphb.md),\
+      \ [hold person](3-Mechanics/CLI/spells/hold-person-xphb.md), [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md),\
+      \ [wall of fire](3-Mechanics/CLI/spells/wall-of-fire-xphb.md)\n\n**1/day each:**\
+      \ [dominate person](3-Mechanics/CLI/spells/dominate-person-xphb.md), [etherealness](3-Mechanics/CLI/spells/etherealness-xphb.md),\
+      \ [feeblemind](3-Mechanics/CLI/spells/befuddlement-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The nagpa targets one creature it can see within 90 feet of it. The target\
@@ -102,7 +102,7 @@ Hungry to claim more power despite the Raven Queen's curse, nagpas strive to bri
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/nagpa-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Nagpa.webp"
 ```
 ^statblock
 

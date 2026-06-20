@@ -12,6 +12,8 @@ aliases:
 
 **War**
 
+`dice: [](secondary-tables-war-xge.md#^war)`
+
 | dice: d12 | War Outcome |
 |-----------|-------------|
 | 1 | You were knocked out and left for dead. You woke up hours later with no recollection of the battle. |

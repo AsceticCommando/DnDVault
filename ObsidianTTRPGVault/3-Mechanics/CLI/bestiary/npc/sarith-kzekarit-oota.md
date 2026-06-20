@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Sarith Kzekarit"
 ---
-# [Sarith Kzekarit](3-Mechanics\CLI\bestiary\npc/sarith-kzekarit-oota.md)
+# [Sarith Kzekarit](3-Mechanics/CLI/bestiary/npc/sarith-kzekarit-oota.md)
 *Source: Out of the Abyss p. 7*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "Drow elf"
 "alignment": "Neutral Evil"
 "ac": !!int "15"
-"ac_class": "[chain shirt](3-Mechanics/CLI/items/chain-shirt.md)"
+"ac_class": "[chain shirt](3-Mechanics/CLI/items/chain-shirt-xphb.md)"
 "hp": !!int "13"
 "hit_dice": "3d8"
 "modifier": !!int "2"
@@ -40,8 +40,8 @@ aliases:
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "gear":
-  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow.md)"
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
   \ Perception 12"
 "languages": "Elvish, Undercommon"
@@ -49,8 +49,9 @@ aliases:
 "traits":
   - "desc": "Sarith's spellcasting ability is Charisma (spell save DC 11). It can\
       \ innately cast the following spells, requiring no material components:\n\n\
-      **At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md)\n\n\
-      **1/day each:** [darkness](3-Mechanics/CLI/spells/darkness.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md)"
+      **At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md)\n\
+      \n**1/day each:** [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [faerie\
+      \ fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "Sarith has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
       \ and magic can't put Sarith to sleep."
@@ -73,6 +74,6 @@ aliases:
     "name": "Hand Crossbow"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/sarith-kzekarit-oota.webp"
+"image": "file://bestiary/tokens/OotA/Sarith%20Kzekarit.webp"
 ```
 ^statblock

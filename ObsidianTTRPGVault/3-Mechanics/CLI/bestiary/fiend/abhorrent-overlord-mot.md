@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Abhorrent Overlord"
 ---
-# [Abhorrent Overlord](3-Mechanics\CLI\bestiary\fiend/abhorrent-overlord-mot.md)
+# [Abhorrent Overlord](3-Mechanics/CLI/bestiary/fiend/abhorrent-overlord-mot.md)
 *Source: Mythic Odysseys of Theros p. 219*  
 
 Abhorrent overlords are gaunt, bipedal creatures whose gray, leathery skin is in stark contrast to the gleaming jewelry made of Underworld gold that they adorn themselves with. Their appetite for pain and death is eclipsed only by their greed; these fiends delight in searching out treasure and slaughtering all who stand in their way.
@@ -55,8 +55,8 @@ Abhorrent overlords are gaunt, bipedal creatures whose gray, leathery skin is in
 "traits":
   - "desc": "The abhorrent overlord's spellcasting ability is Charisma (spell save\
       \ DC 15). It can innately cast the following spells, requiring no material components:\n\
-      \n**1/day each:** [confusion](3-Mechanics/CLI/spells/confusion.md), [crown of\
-      \ madness](3-Mechanics/CLI/spells/crown-of-madness.md), [suggestion](3-Mechanics/CLI/spells/suggestion.md)"
+      \n**1/day each:** [confusion](3-Mechanics/CLI/spells/confusion-xphb.md), [crown\
+      \ of madness](3-Mechanics/CLI/spells/crown-of-madness-xphb.md), [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "The abhorrent overlord can sense the presence of gold within 1,000 feet\
       \ of itself. It can determine which location has the greatest amount of gold\
@@ -88,6 +88,6 @@ Abhorrent overlords are gaunt, bipedal creatures whose gray, leathery skin is in
     "name": "Storm of Crows (Recharge 6)"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/abhorrent-overlord-mot.webp"
+"image": "file://bestiary/tokens/MOT/Abhorrent%20Overlord.webp"
 ```
 ^statblock

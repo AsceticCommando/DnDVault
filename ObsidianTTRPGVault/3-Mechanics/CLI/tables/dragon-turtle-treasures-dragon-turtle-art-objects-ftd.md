@@ -12,6 +12,8 @@ aliases:
 
 **Dragon Turtle Art Objects**
 
+`dice: [](dragon-turtle-treasures-dragon-turtle-art-objects-ftd.md#^dragon-turtle-art-objects)`
+
 | dice: d10 | Object |
 |-----------|--------|
 | 1 | An elven coronet, which the dragon turtle wears as an earring |

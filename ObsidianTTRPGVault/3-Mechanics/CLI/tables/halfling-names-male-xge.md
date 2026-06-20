@@ -12,6 +12,8 @@ aliases:
 
 **Halfling Names – Male**
 
+`dice: [](halfling-names-male-xge.md#^halfling-names-male)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Alton |

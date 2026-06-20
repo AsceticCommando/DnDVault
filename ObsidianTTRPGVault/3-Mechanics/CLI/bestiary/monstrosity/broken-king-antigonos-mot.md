@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Broken King Antigonos"
 ---
-# [Broken King Antigonos](3-Mechanics\CLI\bestiary\monstrosity/broken-king-antigonos-mot.md)
+# [Broken King Antigonos](3-Mechanics/CLI/bestiary/monstrosity/broken-king-antigonos-mot.md)
 *Source: Mythic Odysseys of Theros p. 189*  
 
 He is old and decrepit, garbed in ancient finery worn to tatters. A dented crown rests on his brow, and one of his horns ends in a jagged stump. He drags a rusty greataxe in the dirt, and tied to his back is a 30-pound, clay amphora painted with images of warring hoplites—all of whom have had horns crudely painted on them to make them look like minotaurs. The broad-mouthed amphora is large enough to hold roughly 55 gallons of wine.
@@ -41,7 +41,7 @@ He claims that he was a great king who was cursed by Mogis after he defied his w
   - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+7"
 "gear":
-  - "[greataxe](3-Mechanics/CLI/items/greataxe.md)"
+  - "[greataxe](3-Mechanics/CLI/items/greataxe-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 17"
 "languages": "Abyssal"
@@ -78,6 +78,6 @@ He claims that he was a great king who was cursed by Mogis after he defied his w
     "name": "Amphora"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/broken-king-antigonos-mot.webp"
+"image": "file://bestiary/tokens/MOT/Broken%20King%20Antigonos.webp"
 ```
 ^statblock

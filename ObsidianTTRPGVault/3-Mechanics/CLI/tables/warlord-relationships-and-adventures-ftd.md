@@ -12,6 +12,8 @@ aliases:
 
 **Relationships and Adventures**
 
+`dice: [](warlord-relationships-and-adventures-ftd.md#^relationships-and-adventures)`
+
 | dice: d20 | Adventure Hook |
 |-----------|----------------|
 | 1 | The dragon is trying to eliminate a business rival through ruthless competition or underhanded means, and the rival seeks the characters' help. (Business owner) |

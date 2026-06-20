@@ -12,6 +12,8 @@ aliases:
 
 **Shady Nightclub Adventures**
 
+`dice: [](shady-nightclub-adventures-erlw.md#^shady-nightclub-adventures)`
+
 | dice: d6 | Adventure Goal |
 |----------|----------------|
 | 1 | Get accepted into a private high-stakes card game, and try to win the grand prize. |

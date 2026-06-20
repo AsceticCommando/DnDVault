@@ -12,6 +12,8 @@ aliases:
 
 **Heliod's Divine Schemes**
 
+`dice: [](heliods-divine-schemes-mot.md#^heliods-divine-schemes)`
+
 | dice: d4 | Scheme |
 |----------|--------|
 | 1 | Heliod decides to confront Erebos in the Underworld. He gathers fallen heroes around him as he marches on Erebos's palace in Tizerus. Meanwhile, the sun has vanished from the sky in the mortal world, and the dead can't enter the Underworld. |

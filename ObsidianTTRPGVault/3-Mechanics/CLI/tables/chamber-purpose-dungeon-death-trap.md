@@ -12,6 +12,8 @@ aliases:
 
 **Dungeon: Death Trap**
 
+`dice: [](chamber-purpose-dungeon-death-trap.md#^dungeon-death-trap)`
+
 | dice: d20 | Purpose |
 |-----------|---------|
 | 1 | Antechamber or waiting room for spectators |

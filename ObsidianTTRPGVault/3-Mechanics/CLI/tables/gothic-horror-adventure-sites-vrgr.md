@@ -12,6 +12,8 @@ aliases:
 
 **Gothic Horror Adventure Sites**
 
+`dice: [](gothic-horror-adventure-sites-vrgr.md#^gothic-horror-adventure-sites)`
+
 | dice: d8 | Adventure Site |
 |----------|----------------|
 | 1 | A mansion's forbidden east wing, where terrible noises sound from every night |

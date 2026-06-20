@@ -12,6 +12,8 @@ aliases:
 
 **Human Names – Spanish, Female**
 
+`dice: [](human-names-spanish-female-xge.md#^human-names-spanish-female)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Abella |

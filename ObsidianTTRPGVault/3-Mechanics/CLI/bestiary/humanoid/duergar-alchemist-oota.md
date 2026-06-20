@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Duergar Alchemist"
 ---
-# [Duergar Alchemist](3-Mechanics\CLI\bestiary\humanoid/duergar-alchemist-oota.md)
+# [Duergar Alchemist](3-Mechanics/CLI/bestiary/humanoid/duergar-alchemist-oota.md)
 *Source: Out of the Abyss p. 76*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "dwarf"
 "alignment": "Lawful Evil"
 "ac": !!int "16"
-"ac_class": "[scale mail](3-Mechanics/CLI/items/scale-mail.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[scale mail](3-Mechanics/CLI/items/scale-mail-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "26"
 "hit_dice": "4d8 + 4"
 "modifier": !!int "0"
@@ -36,8 +36,8 @@ aliases:
 "speed": "25 ft."
 "damage_resistances": "poison"
 "gear":
-  - "[javelin](3-Mechanics/CLI/items/javelin.md)"
-  - "[war pick](3-Mechanics/CLI/items/war-pick.md)"
+  - "[javelin](3-Mechanics/CLI/items/javelin-xphb.md)"
+  - "[war pick](3-Mechanics/CLI/items/war-pick-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
   \ Perception 10"
 "languages": "Dwarvish, Undercommon"
@@ -78,6 +78,6 @@ aliases:
     "name": "Invisibility (Recharges after a Short or Long Rest)"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/duergar-alchemist-oota.webp"
+"image": "file://bestiary/tokens/OotA/Duergar%20Alchemist.webp"
 ```
 ^statblock

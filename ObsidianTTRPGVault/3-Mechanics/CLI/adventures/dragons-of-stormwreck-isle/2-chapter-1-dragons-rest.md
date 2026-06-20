@@ -10,7 +10,7 @@ aliases:
 # Chapter 1: Dragon's Rest
 *Source: Dragons of Stormwreck Isle, p. 6* 
 
-![](3-Mechanics/CLI/adventures/dragons-of-stormwreck-isle/img/002-01-001-splash-art.webp#center)
+![](file://adventure/DoSI/002-01-001.splash-art.webp#center)
 
 The adventure begins at a tiny cloister called Dragon's Rest, a haven where world-weary people come to seek peace, reconciliation, and enlightenment. There, the characters learn about the dangers facing Stormwreck Isle.
 
@@ -44,18 +44,18 @@ Read the following text to start the encounter:
 > As you're about to leave the beach and start your climb, you hear a ruckus of splashing and a wet, gurgling moan behind you. Three figures are shambling up from the water's edge, about thirty feet away. They're dressed as sailors, but their skin is gray and they look drowned. Sea water drools from their slack mouths as they lurch toward you.
 ^015
 
-The three shambling sailors are [zombies](3-Mechanics/CLI/bestiary/undead/zombie.md), the animated corpses of sailors who died in a recent shipwreck. The characters face a choice: they can turn and fight the zombies, or they can continue up the path and leave the slow, shambling zombies behind.
+The three shambling sailors are [zombies](3-Mechanics/CLI/bestiary/undead/zombie-xmm.md), the animated corpses of sailors who died in a recent shipwreck. The characters face a choice: they can turn and fight the zombies, or they can continue up the path and leave the slow, shambling zombies behind.
 
 If the characters turn and fight, this is the first combat encounter in the adventure. Here are the steps you should follow to run it:
 
-- Review the [zombie](3-Mechanics/CLI/bestiary/undead/zombie.md) stat block.  
+- Review the [zombie](3-Mechanics/CLI/bestiary/undead/zombie-xmm.md) stat block.  
 - Use the "initiative" rules to determine who acts first, second, third, and so on. Keep track of everyone's initiative count on your notepad.  
 - On the zombies' initiative count, they move toward the characters. If they get close enough, they make melee attacks. The zombies' stat block contains the information you need to resolve these attacks. If all the characters are more than 20 feet away, the zombies use the [Dash](3-Mechanics/CLI/rules/actions.md#Dash) action so they can move farther. For more information on what the zombies can do on their turn, see ""Combat"" in the "Basic Rules".  
 - The zombies fight until they're all defeated.  
 
 #### Tip: Undead Fortitude
 
-The zombies' Undead Fortitude trait reflects how hard it is to kill these walking corpses. When this trait prevents a zombie from dying, give the players a hint about what happened. You might say, "That should have finished the creature off, but it refuses to stop moving!" On the flip side, any time a zombie takes radiant damage (such as from the cleric's [sacred flame](3-Mechanics/CLI/spells/sacred-flame.md) cantrip), you might describe the creature howling in agony. This can help the players realize that radiant damage is a way to get around Undead Fortitude. If the players ask whether their characters know anything about fighting zombies, have them make DC 10 Intelligence checks. Those who succeed might recall that a particularly powerful blow (a "critical hit") or radiant damage can help finish off a zombie.
+The zombies' Undead Fortitude trait reflects how hard it is to kill these walking corpses. When this trait prevents a zombie from dying, give the players a hint about what happened. You might say, "That should have finished the creature off, but it refuses to stop moving!" On the flip side, any time a zombie takes radiant damage (such as from the cleric's [sacred flame](3-Mechanics/CLI/spells/sacred-flame-xphb.md) cantrip), you might describe the creature howling in agony. This can help the players realize that radiant damage is a way to get around Undead Fortitude. If the players ask whether their characters know anything about fighting zombies, have them make DC 10 Intelligence checks. Those who succeed might recall that a particularly powerful blow (a "critical hit") or radiant damage can help finish off a zombie.
 
 #### Runara's Aid
 
@@ -107,7 +107,7 @@ Elder [Runara](3-Mechanics/CLI/bestiary/npc/runara-dosi.md) is the leader of Dra
 
 Kobolds are small reptilian Humanoids who believe they are descended from dragons and often live near them. Over the centuries, many bands of kobolds have been drawn to Stormwreck Isle by the lingering draconic magic that suffuses the island. Nine kobolds utterly devoted to [Runara](3-Mechanics/CLI/bestiary/npc/runara-dosi.md) now live at Dragon's Rest.
 
-![Ever since an unfortunate ...](3-Mechanics/CLI/adventures/dragons-of-stormwreck-isle/img/003-01-002-kobold-laylee.webp#center "Ever since an unfortunate incident in the kitchen, Laylee is no longer allowed to handle Myla's alchemical fire.")
+![Ever since an unfortunate incident in the kitchen, Laylee is no longer allowed to handle Myla's alchemical fire.](file://adventure/DoSI/003-01-002.kobold-laylee.webp#center)
 
 The kobolds of Dragon's Rest are lawful good, sharing [Runara](3-Mechanics/CLI/bestiary/npc/runara-dosi.md)'s ideals of justice and compassion. Since they are sensitive to sunlight, they work at night and avoid moving about during the day. Unless otherwise noted, the kobolds are initially friendly toward the adventurers.
 
@@ -125,7 +125,7 @@ The kobolds are summarized below. They can offer a local perspective or be a way
 
 **Mumpo** is so audaciously courageous that he stole a copper piece from [Runara](3-Mechanics/CLI/bestiary/npc/runara-dosi.md)'s hoard. He's convinced she has no idea. (He is wrong, but [Runara](3-Mechanics/CLI/bestiary/npc/runara-dosi.md) finds the situation amusing and lets Mumpo continue to believe in her ignorance.)
 
-**Myla** (lawful good [kobold tinkerer](3-Mechanics/CLI/bestiary/humanoid/kobold-tinkerer-dosi.md)) is a winged kobold whose brothers, Mek and Minn, now follow Sparkrender, the [blue wyrmling](3-Mechanics/CLI/bestiary/dragon/blue-dragon-wyrmling.md) in Clifftop Observatory (see chapter 4). When [Myla](3-Mechanics/CLI/bestiary/npc/myla-dosi.md)'s wings were badly injured in an attack by [stirges](3-Mechanics/CLI/bestiary/beast/stirge.md) (which she describes as "hungry, icky, blood-sucking, bat-things"), [Runara](3-Mechanics/CLI/bestiary/npc/runara-dosi.md) helped in her recovery. Now [Myla](3-Mechanics/CLI/bestiary/npc/myla-dosi.md) spends her time experimenting with alchemy, engineering, and magic.
+**Myla** (lawful good [kobold tinkerer](3-Mechanics/CLI/bestiary/humanoid/kobold-tinkerer-dosi.md)) is a winged kobold whose brothers, Mek and Minn, now follow Sparkrender, the [blue wyrmling](3-Mechanics/CLI/bestiary/dragon/blue-dragon-wyrmling-xmm.md) in Clifftop Observatory (see chapter 4). When [Myla](3-Mechanics/CLI/bestiary/npc/myla-dosi.md)'s wings were badly injured in an attack by [stirges](3-Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md) (which she describes as "hungry, icky, blood-sucking, bat-things"), [Runara](3-Mechanics/CLI/bestiary/npc/runara-dosi.md) helped in her recovery. Now [Myla](3-Mechanics/CLI/bestiary/npc/myla-dosi.md) spends her time experimenting with alchemy, engineering, and magic.
 
 **Rix** is pious and tends to the temple, acting as [Runara](3-Mechanics/CLI/bestiary/npc/runara-dosi.md)'s assistant. She adores puns. Rix recently witnessed a ship crashing on the rocks to the north (see "Cloister Quests" later in this chapter).
 
@@ -141,7 +141,7 @@ An avid botanist, [Tarak](3-Mechanics/CLI/bestiary/npc/tarak-dosi.md) tends the 
 
 A gold hangman's noose is worked into the design of [Tarak](3-Mechanics/CLI/bestiary/npc/tarak-dosi.md)'s visible tattoos. A character who studies the tattoos and succeeds on a DC 15 Intelligence ([History](3-Mechanics/CLI/rules/skills.md#History)) check recognizes the mark as a symbol associated with the Gilded Gallows, a thieves' guild that operates in a country far to the southeast called Elturgard. A character with the [criminal background](3-Mechanics/CLI/backgrounds/criminal-spy-variant.md) automatically succeeds on this check. [Tarak](3-Mechanics/CLI/bestiary/npc/tarak-dosi.md) does not willingly discuss the details of his past with anyone but trusted friends.
 
-[Tarak](3-Mechanics/CLI/bestiary/npc/tarak-dosi.md) frequently visits the sea caves on the south side of the island to acquire heart cap mushrooms from the myconids that live there. He uses the mushrooms to make [potions of healing](3-Mechanics/CLI/items/potion-of-healing.md). But the myconids have installed a fearsome guardian at their caves—a fungus-covered octopus monster—that has turned him away on his latest visits, and he is worried (see "Cloister Quests").
+[Tarak](3-Mechanics/CLI/bestiary/npc/tarak-dosi.md) frequently visits the sea caves on the south side of the island to acquire heart cap mushrooms from the myconids that live there. He uses the mushrooms to make [potions of healing](3-Mechanics/CLI/items/potion-of-healing-xdmg.md). But the myconids have installed a fearsome guardian at their caves—a fungus-covered octopus monster—that has turned him away on his latest visits, and he is worried (see "Cloister Quests").
 
 #### Varnoth
 
@@ -153,15 +153,15 @@ A gold hangman's noose is worked into the design of [Tarak](3-Mechanics/CLI/best
 
 [Varnoth](3-Mechanics/CLI/bestiary/npc/varnoth-dosi.md) is indifferent to visitors, but a character can shift her attitude to friendly by engaging her in conversation on her favorite topics: history, ethics, and the impact of individual actions on the world.
 
-A character who learns [Varnoth](3-Mechanics/CLI/bestiary/npc/varnoth-dosi.md)'s name and succeeds on a DC 15 Intelligence ([History](3-Mechanics/CLI/rules/skills.md#History)) check recalls hearing of General [Varnoth](3-Mechanics/CLI/bestiary/npc/varnoth-dosi.md) Wender and the Azure Wolves, which was a mighty force in the east about a decade ago. A character with the [soldier background](3-Mechanics/CLI/backgrounds/soldier.md) succeeds on this check automatically.
+A character who learns [Varnoth](3-Mechanics/CLI/bestiary/npc/varnoth-dosi.md)'s name and succeeds on a DC 15 Intelligence ([History](3-Mechanics/CLI/rules/skills.md#History)) check recalls hearing of General [Varnoth](3-Mechanics/CLI/bestiary/npc/varnoth-dosi.md) Wender and the Azure Wolves, which was a mighty force in the east about a decade ago. A character with the [soldier background](3-Mechanics/CLI/backgrounds/soldier-xphb.md) succeeds on this check automatically.
 
 ### Dragon's Rest Locations
 
 The following locations are keyed to map 2, which shows the layout of Dragon's Rest.
 
 > [!gallery]
-> ![Map 2: Dragons Rest](3-Mechanics/CLI/adventures/dragons-of-stormwreck-isle/img/004-map-1-01-dragons-rest.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/dragons-of-stormwreck-isle/img/005-map-1-01-dragons-rest-player.webp#gallery)
+> ![Map 2: Dragons Rest](file://adventure/DoSI/004-map-1.01-dragons-rest.webp#gallery)
+> ![Player Version](file://adventure/DoSI/005-map-1.01-dragons-rest-player.webp#gallery)
 
 #### A1: Path and Monastic Cells
 
@@ -222,7 +222,7 @@ The temple is very simple, with the statue (represented by the star-in-a-circle 
 
 Depressions in the statue's pedestal at the four cardinal directions hold offerings of incense made to Bahamut. [Runara](3-Mechanics/CLI/bestiary/npc/runara-dosi.md) spends about half her time here, tending and maintaining the temple, offering prayers and incense, or in quiet contemplation. Other residents of the cloister help her, most often [Varnoth](3-Mechanics/CLI/bestiary/npc/varnoth-dosi.md) and the kobold Rix.
 
-The feeling of serenity that pervades the temple is the result of protective magic. A non-evil creature who makes a "saving throw" within the temple can roll a `d4` and add the number rolled to the saving throw. If a character casts [detect magic](3-Mechanics/CLI/spells/detect-magic.md) in the temple, the spell reveals a faint aura around the statue. [Runara](3-Mechanics/CLI/bestiary/npc/runara-dosi.md) is the only inhabitant of Dragon's Rest who knows that this is a lingering effect of the death of a dragon on this site—her father, Astalagan.
+The feeling of serenity that pervades the temple is the result of protective magic. A non-evil creature who makes a "saving throw" within the temple can roll a `dice:d4|noform|noparens|avg` (`d4`) and add the number rolled to the saving throw. If a character casts [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) in the temple, the spell reveals a faint aura around the statue. [Runara](3-Mechanics/CLI/bestiary/npc/runara-dosi.md) is the only inhabitant of Dragon's Rest who knows that this is a lingering effect of the death of a dragon on this site—her father, Astalagan.
 
 ##### About Bahamut
 
@@ -245,7 +245,7 @@ If the adventurers did not fight the zombies when they first arrived on the isla
 > Two residents of Dragon's Rest are running for their lives up the lower path, their fishing equipment discarded behind them. Blood and dirt stain their robes. Three figures shamble after them—bloated corpses dressed as sailors, moaning and gurgling.
 ^031
 
-The characters have another opportunity to fight the three [zombies](3-Mechanics/CLI/bestiary/undead/zombie.md), this time with the lives of two new acquaintances—Blepp the [kobold](3-Mechanics/CLI/bestiary/humanoid/kobold.md) and [Tarak](3-Mechanics/CLI/bestiary/npc/tarak-dosi.md) the human gardener—hanging in the balance. See "Drowned Sailors" for help getting the encounter started.
+The characters have another opportunity to fight the three [zombies](3-Mechanics/CLI/bestiary/undead/zombie-xmm.md), this time with the lives of two new acquaintances—Blepp the [kobold](3-Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm.md) and [Tarak](3-Mechanics/CLI/bestiary/npc/tarak-dosi.md) the human gardener—hanging in the balance. See "Drowned Sailors" for help getting the encounter started.
 
 Blepp has 2 hit points left after a zombie hit him, and he is convinced that his good luck and his "magical" dagger saved him from certain death. [Tarak](3-Mechanics/CLI/bestiary/npc/tarak-dosi.md) is unarmed, and the zombies overpower both him and Blepp if the characters don't help.
 
@@ -253,11 +253,11 @@ If the characters talk to [Runara](3-Mechanics/CLI/bestiary/npc/runara-dosi.md) 
 
 #### More Zombies
 
-If the characters defeated the zombies when they first arrived on the island, you can use this encounter at any point during the adventure to add a little extra combat spice to the characters' lives. If the characters have already reached 2nd level, you can use from four to six [zombies](3-Mechanics/CLI/bestiary/undead/zombie.md) to give them a good challenge.
+If the characters defeated the zombies when they first arrived on the island, you can use this encounter at any point during the adventure to add a little extra combat spice to the characters' lives. If the characters have already reached 2nd level, you can use from four to six [zombies](3-Mechanics/CLI/bestiary/undead/zombie-xmm.md) to give them a good challenge.
 
 ### Sea Caves
 
-[Tarak](3-Mechanics/CLI/bestiary/npc/tarak-dosi.md) is eager to reestablish contact with the myconids of the sea caves. He asks the characters to visit the caves, find out what's wrong with the myconids, and bring him back some heart cap mushrooms. He warns them about the fungal octopus the myconids have created as a guardian and tells them they'll probably have to fight the creature to gain access to the caves. He also gives them a foul-smelling sack of food scraps they can give the myconids as a gesture of friendship. Finally, he gives them two [potions of healing](3-Mechanics/CLI/items/potion-of-healing.md).
+[Tarak](3-Mechanics/CLI/bestiary/npc/tarak-dosi.md) is eager to reestablish contact with the myconids of the sea caves. He asks the characters to visit the caves, find out what's wrong with the myconids, and bring him back some heart cap mushrooms. He warns them about the fungal octopus the myconids have created as a guardian and tells them they'll probably have to fight the creature to gain access to the caves. He also gives them a foul-smelling sack of food scraps they can give the myconids as a gesture of friendship. Finally, he gives them two [potions of healing](3-Mechanics/CLI/items/potion-of-healing-xdmg.md).
 
 ### Shipwreck
 
@@ -334,7 +334,7 @@ The spring is the site of a brass dragon's death, and life-giving magic persists
 
 ##### Treasure
 
-A character who examines the mushrooms lining the spring and succeeds on a DC 15 Intelligence ([Nature](3-Mechanics/CLI/rules/skills.md#Nature)) check identifies these mushrooms as wind spores—a rare fungus with a unique magical property. When a creature squeezes a wind spore mushroom's cap, it releases a small cloud of spores. For 1 hour, the creature doesn't need to breathe, as the spores provide it with oxygen. A wind spore is worth 30 gp, and at any given time `2d4` wind spores are ready to be harvested.
+A character who examines the mushrooms lining the spring and succeeds on a DC 15 Intelligence ([Nature](3-Mechanics/CLI/rules/skills.md#Nature)) check identifies these mushrooms as wind spores—a rare fungus with a unique magical property. When a creature squeezes a wind spore mushroom's cap, it releases a small cloud of spores. For 1 hour, the creature doesn't need to breathe, as the spores provide it with oxygen. A wind spore is worth 30 gp, and at any given time `dice:2d4|noform|noparens|avg` (`2d4`) wind spores are ready to be harvested.
 
 #### There, There, Owlbear
 
@@ -345,9 +345,9 @@ This encounter poses a medium challenge for 3rd-level characters and a difficult
 > A discordant sound—half a low growl, half a piercing screech—rips through the air. Abruptly, a hulking creature comes into view. A mix of purple feathers and deep brown fur covers its bearlike body, and its large eyes stare hungrily at you from its owlish head.
 ^045
 
-![](3-Mechanics/CLI/adventures/dragons-of-stormwreck-isle/img/006-01-003-owlbear.webp#center)
+![](file://adventure/DoSI/006-01-003.owlbear.webp#center)
 
-This [owlbear](3-Mechanics/CLI/bestiary/monstrosity/owlbear.md) is hostile toward the characters. It views them as intruders in its territory, though its goal is to drive them away rather than kill them. Originally a part of a performing troupe, the owlbear was stranded here after the ship carrying the troupe crashed on the northern rocks.
+This [owlbear](3-Mechanics/CLI/bestiary/monstrosity/owlbear-xmm.md) is hostile toward the characters. It views them as intruders in its territory, though its goal is to drive them away rather than kill them. Originally a part of a performing troupe, the owlbear was stranded here after the ship carrying the troupe crashed on the northern rocks.
 
 Any character within 5 feet of the owlbear notices a small wooden whistle hanging around its neck. This whistle was (and still can be) used to train and command the owlbear. A character within 5 feet of the owlbear can use their action to attempt to grab the whistle. If the character succeeds on a DC 12 Strength check, the whistle comes free. With the whistle in hand, a character can take an action to blow into it and make a DC 10 Wisdom ([Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling)) check. On a success, the owlbear calms and immediately becomes friendly toward the whistle holder and indifferent toward the other characters. However, it won't leave the area it now considers its territory, and any attempt to force it to leave makes it hostile again.
 
@@ -362,7 +362,7 @@ A group of kobolds tries to ambush the characters. They're hiding in the rocks a
 > A yipping sound erupts around you as angry kobolds emerge from their hiding places and attack!
 ^047
 
-Four [kobolds](3-Mechanics/CLI/bestiary/humanoid/kobold.md) and one [winged kobold](3-Mechanics/CLI/bestiary/humanoid/winged-kobold.md) (all lawful evil) participate in this ambush. These cruel, vicious kobolds reject both the peaceful teaching of [Runara](3-Mechanics/CLI/bestiary/npc/runara-dosi.md) and the tyrannical rule of Sparkrender, and they prey on travelers who stray away from Dragon's Rest. They haven't had much success and are desperate, so they're hostile and fight to the death.
+Four [kobolds](3-Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm.md) and one [winged kobold](3-Mechanics/CLI/bestiary/dragon/winged-kobold-xmm.md) (all lawful evil) participate in this ambush. These cruel, vicious kobolds reject both the peaceful teaching of [Runara](3-Mechanics/CLI/bestiary/npc/runara-dosi.md) and the tyrannical rule of Sparkrender, and they prey on travelers who stray away from Dragon's Rest. They haven't had much success and are desperate, so they're hostile and fight to the death.
 
 Their desperation means that they can easily be persuaded to stop fighting with an offer of money or food. Otherwise, they're not interested in conversation or negotiation.
 

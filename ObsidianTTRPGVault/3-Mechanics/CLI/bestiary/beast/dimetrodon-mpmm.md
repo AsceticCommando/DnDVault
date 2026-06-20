@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Dimetrodon"
 ---
-# [Dimetrodon](3-Mechanics\CLI\bestiary\beast/dimetrodon-mpmm.md)
+# [Dimetrodon](3-Mechanics/CLI/bestiary/beast/dimetrodon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 95, Volo's Guide to Monsters p. 139*  
 
 This sail-backed reptile is commonly found in areas where dinosaurs live. It hunts on shores and in shallow water, filling a similar role to a crocodile.
@@ -51,7 +51,7 @@ This sail-backed reptile is commonly found in areas where dinosaurs live. It hun
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/beast/token/dimetrodon-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Dimetrodon.webp"
 ```
 ^statblock
 

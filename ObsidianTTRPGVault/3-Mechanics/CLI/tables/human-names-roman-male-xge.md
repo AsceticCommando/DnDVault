@@ -12,6 +12,8 @@ aliases:
 
 **Human Names – Roman, Male**
 
+`dice: [](human-names-roman-male-xge.md#^human-names-roman-male)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Aelius |

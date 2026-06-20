@@ -12,6 +12,8 @@ aliases:
 
 **Life in the City**
 
+`dice: [](adventures-in-sharn-life-in-the-city-erlw.md#^life-in-the-city)`
+
 | dice: d6 | Adventure Seed |
 |----------|----------------|
 | 1 | A homicidal changeling has killed two members of different dragonmarked houses, and doesn't plan to stop until one heir from each of the dragonmarked houses is dead. |

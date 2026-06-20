@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Metallic Warbler"
 ---
-# [Metallic Warbler](3-Mechanics\CLI\bestiary\construct/metallic-warbler-ftd.md)
+# [Metallic Warbler](3-Mechanics/CLI/bestiary/construct/metallic-warbler-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 210*  
 
 Metallic warblers resemble songbirds and serve as clandestine agents of their creators, keeping watch over communities without directly intervening. Their telepathic bond lets them summon their dragon creators in case of dire need.
@@ -69,6 +69,6 @@ A metallic sentinel is a guardian created by a metallic dragon, forged from the 
     "name": "Calming Mist (Recharge 5-6)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/construct/token/metallic-warbler-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Metallic%20Warbler.webp"
 ```
 ^statblock

@@ -12,6 +12,8 @@ aliases:
 
 **Human Names – Japanese, Female**
 
+`dice: [](human-names-japanese-female-xge.md#^human-names-japanese-female)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Aika |

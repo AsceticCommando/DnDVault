@@ -1,0 +1,53 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-monster
+tags:
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/0
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/any-race
+statblock: inline
+statblock-link: "#^statblock"
+aliases:
+- "Goblin Commoner"
+---
+# [Goblin Commoner](3-Mechanics/CLI/bestiary/humanoid/goblin-commoner-tftyp.md)
+*Source: Tales from the Yawning Portal p. 24*  
+
+```statblock
+"name": "Goblin Commoner (TftYP)"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "any race"
+"alignment": "Any alignment"
+"ac": !!int "10"
+"hp": !!int "3"
+"hit_dice": "1d6"
+"modifier": !!int "0"
+"stats":
+  - !!int "8"
+  - !!int "10"
+  - !!int "10"
+  - !!int "10"
+  - !!int "10"
+  - !!int "10"
+"speed": "30 ft."
+"gear":
+  - "[club](3-Mechanics/CLI/items/club-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
+"languages": "any one language (usually Common), Goblin"
+"cr": "0"
+"traits":
+  - "desc": "The goblin commoner"
+    "name": "Nimble Escape"
+"actions":
+  - "desc": "*Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 1 (1d4\
+      \ - 1) bludgeoning damage."
+    "name": "Club"
+"source":
+  - "TftYP"
+"image": "file://bestiary/tokens/TftYP/Goblin%20Commoner.webp"
+```
+^statblock

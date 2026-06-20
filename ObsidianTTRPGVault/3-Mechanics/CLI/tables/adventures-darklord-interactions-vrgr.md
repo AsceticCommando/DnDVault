@@ -12,6 +12,8 @@ aliases:
 
 **Darklord Interactions**
 
+`dice: [](adventures-darklord-interactions-vrgr.md#^darklord-interactions)`
+
 | dice: d8 | Encounter |
 |----------|-----------|
 | 1 | The Darklord promises to give the adventurers what they want if they join the Darklord for dinner. |

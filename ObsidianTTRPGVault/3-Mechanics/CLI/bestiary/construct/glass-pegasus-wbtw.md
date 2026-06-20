@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Glass Pegasus"
 ---
-# [Glass Pegasus](3-Mechanics\CLI\bestiary\construct/glass-pegasus-wbtw.md)
+# [Glass Pegasus](3-Mechanics/CLI/bestiary/construct/glass-pegasus-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 181*  
 
 ```statblock
@@ -51,6 +51,6 @@ aliases:
     "name": "Hooves"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/construct/token/glass-pegasus-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Glass%20Pegasus.webp"
 ```
 ^statblock

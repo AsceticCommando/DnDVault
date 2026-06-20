@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Berbalang"
 ---
-# [Berbalang](3-Mechanics\CLI\bestiary\aberration/berbalang-mpmm.md)
+# [Berbalang](3-Mechanics/CLI/bestiary/aberration/berbalang-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 61, Mordenkainen's Tome of Foes p. 120*  
 
 Berbalangs creep across the [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified) remains of dead gods adrift on the Astral Plane. Obsessed with gathering secrets, both from the gods they inhabit and from the bones of dead creatures, they call forth the spirits of the dead and force them to divulge what they learned in life.
@@ -71,8 +71,8 @@ The knowledge that berbalangs accumulate makes them great sources of information
     "name": "Claw"
   - "desc": "The berbalang casts one of the following spells, requiring no material\
       \ components and using Intelligence as the spellcasting ability:\n\n**At will:**\
-      \ [speak with dead](3-Mechanics/CLI/spells/speak-with-dead.md)\n\n**1/day:**\
-      \ [plane shift](3-Mechanics/CLI/spells/plane-shift.md) (self only)"
+      \ [speak with dead](3-Mechanics/CLI/spells/speak-with-dead-xphb.md)\n\n**1/day:**\
+      \ [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md) (self only)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The berbalang creates one spectral duplicate of itself in an unoccupied\
@@ -87,7 +87,7 @@ The knowledge that berbalangs accumulate makes them great sources of information
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/berbalang-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Berbalang.webp"
 ```
 ^statblock
 

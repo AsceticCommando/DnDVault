@@ -11,12 +11,12 @@ aliases:
 
 ## Cantrip
 
-- [Dancing Lights](3-Mechanics/CLI/spells/dancing-lights.md "PHB") as cantrip
+- [Dancing Lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md "XPHB") as cantrip
 
 ## 1st Level
 
-- [Faerie Fire](3-Mechanics/CLI/spells/faerie-fire.md "PHB") as cantrip
+- [Faerie Fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md "XPHB") at class level 3
 
 ## 2nd Level
 
-- [Darkness](3-Mechanics/CLI/spells/darkness.md "PHB") as cantrip
+- [Darkness](3-Mechanics/CLI/spells/darkness-xphb.md "XPHB") at class level 5

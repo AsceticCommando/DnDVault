@@ -11,4 +11,4 @@ aliases:
 
 ## 3rd Level
 
-- [Create Food and Water](3-Mechanics/CLI/spells/create-food-and-water.md "PHB")
+- [Create Food and Water](3-Mechanics/CLI/spells/create-food-and-water-xphb.md "XPHB")

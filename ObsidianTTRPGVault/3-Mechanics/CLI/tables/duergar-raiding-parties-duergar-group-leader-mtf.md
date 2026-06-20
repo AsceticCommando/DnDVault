@@ -12,6 +12,8 @@ aliases:
 
 **Duergar Group Leader**
 
+`dice: [](duergar-raiding-parties-duergar-group-leader-mtf.md#^duergar-group-leader)`
+
 | dice: d6 | Leader |
 |----------|--------|
 | 1 | [Duergar Stone Guard](3-Mechanics/CLI/bestiary/humanoid/duergar-stone-guard-mpmm.md) |

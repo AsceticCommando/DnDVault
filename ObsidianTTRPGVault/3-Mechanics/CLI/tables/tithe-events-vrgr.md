@@ -12,6 +12,8 @@ aliases:
 
 **Tithe Events**
 
+`dice: [](tithe-events-vrgr.md#^tithe-events)`
+
 | dice: d6 | Event | Token |
 |----------|-------|-------|
 | 1 | Crooked Joust. Participants use stilts strapped to their arms and legs to topple one another. | Five-legged sheep figurine |

@@ -12,6 +12,8 @@ aliases:
 
 **Mage Furnishings**
 
+`dice: [](dungeon-dressing-mage-furnishings.md#^mage-furnishings)`
+
 | dice: d100 | Item |
 |------------|------|
 | 1-3 | Alembic |

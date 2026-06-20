@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Dolgrim"
 ---
-# [Dolgrim](3-Mechanics\CLI\bestiary\aberration/dolgrim-erlw.md)
+# [Dolgrim](3-Mechanics/CLI/bestiary/aberration/dolgrim-erlw.md)
 *Source: Eberron: Rising from the Last War p. 291*  
 
 Dolgrims are squat, deformed things. Warped by the daelkyr, a dolgrim is essentially two goblins crushed into one creature, their misshapen body boasting four arms and a pair of twisted mouths that gibber and slather at the front of a headless torso. The two mouths of a dolgrim sometimes carry on demented conversations with one another. However, a dolgrim has only a single personality—sadistic, bloodthirsty, and brutally dedicated to serving itself.
@@ -25,7 +25,7 @@ Small numbers of these creatures sometimes make their way to the surface, often 
 "type": "aberration"
 "alignment": "Chaotic Evil"
 "ac": !!int "15"
-"ac_class": "natural armor, [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "natural armor, [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "13"
 "hit_dice": "3d6 + 3"
 "modifier": !!int "2"
@@ -38,9 +38,9 @@ Small numbers of these creatures sometimes make their way to the surface, often 
   - !!int "8"
 "speed": "30 ft."
 "gear":
-  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow.md)"
-  - "[morningstar](3-Mechanics/CLI/items/morningstar.md)"
-  - "[spear](3-Mechanics/CLI/items/spear.md)"
+  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow-xphb.md)"
+  - "[morningstar](3-Mechanics/CLI/items/morningstar-xphb.md)"
+  - "[spear](3-Mechanics/CLI/items/spear-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 10"
 "languages": "Deep Speech, Goblin"
@@ -66,6 +66,6 @@ Small numbers of these creatures sometimes make their way to the surface, often 
     "name": "Hand Crossbow"
 "source":
   - "ERLW"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/dolgrim-erlw.webp"
+"image": "file://bestiary/tokens/ERLW/Dolgrim.webp"
 ```
 ^statblock

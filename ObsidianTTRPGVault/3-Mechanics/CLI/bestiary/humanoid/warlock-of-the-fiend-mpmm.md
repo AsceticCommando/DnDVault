@@ -16,10 +16,10 @@ statblock-link: "#^statblock"
 aliases:
 - "Warlock of the Fiend"
 ---
-# [Warlock of the Fiend](3-Mechanics\CLI\bestiary\humanoid/warlock-of-the-fiend-mpmm.md)
+# [Warlock of the Fiend](3-Mechanics/CLI/bestiary/humanoid/warlock-of-the-fiend-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 255, Volo's Guide to Monsters p. 219*  
 
-Warlocks of the Fiend gain their powers through magical pacts forged with archfiends of the Lower Planes. These warlocks often keep [imps](3-Mechanics/CLI/bestiary/fiend/imp.md) or [quasits](3-Mechanics/CLI/bestiary/fiend/quasit.md) as companions, and they tend toward philosophical extremes: consorting with fiendish cults or dedicating their lives to destroying such cults.
+Warlocks of the Fiend gain their powers through magical pacts forged with archfiends of the Lower Planes. These warlocks often keep [imps](3-Mechanics/CLI/bestiary/fiend/imp-xmm.md) or [quasits](3-Mechanics/CLI/bestiary/fiend/quasit-xmm.md) as companions, and they tend toward philosophical extremes: consorting with fiendish cults or dedicating their lives to destroying such cults.
 
 ## Warlocks
 
@@ -31,7 +31,7 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "13"
-"ac_class": "16 with [mage armor](3-Mechanics/CLI/spells/mage-armor.md)"
+"ac_class": "16 with [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
 "hp": !!int "78"
 "hit_dice": "12d8 + 24"
 "modifier": !!int "3"
@@ -56,7 +56,7 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
   - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+4"
 "gear":
-  - "[scimitar](3-Mechanics/CLI/items/scimitar.md)"
+  - "[scimitar](3-Mechanics/CLI/items/scimitar-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 11"
 "languages": "any two languages (usually Abyssal or Infernal)"
@@ -78,11 +78,12 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
       \ a failed save, or half as much damage on a successful one."
     "name": "Hellfire"
   - "desc": "The warlock casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 15): \n\n**At will:** [alter self](3-Mechanics/CLI/spells/alter-self.md),\
-      \ [mage armor](3-Mechanics/CLI/spells/mage-armor.md) (self only), [mage hand](3-Mechanics/CLI/spells/mage-hand.md),\
-      \ [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md)\n\
-      \n**1/day each:** [banishment](3-Mechanics/CLI/spells/banishment.md), [plane\
-      \ shift](3-Mechanics/CLI/spells/plane-shift.md), [suggestion](3-Mechanics/CLI/spells/suggestion.md)"
+      \ spellcasting ability (spell save DC 15): \n\n**At will:** [alter self](3-Mechanics/CLI/spells/alter-self-xphb.md),\
+      \ [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md) (self only), [mage\
+      \ hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md),\
+      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n**1/day\
+      \ each:** [banishment](3-Mechanics/CLI/spells/banishment-xphb.md), [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md),\
+      \ [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "In response to being damaged by a visible creature within 60 feet of\
@@ -93,7 +94,7 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/warlock-of-the-fiend-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Warlock%20of%20the%20Fiend.webp"
 ```
 ^statblock
 

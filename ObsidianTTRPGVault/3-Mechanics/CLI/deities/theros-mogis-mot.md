@@ -11,7 +11,7 @@ aliases:
 ---
 # Mogis
 *Source: Mythic Odysseys of Theros p. 64* 
-![](3-Mechanics/CLI/deities/img/mot-042-02-03-mogis.webp#symbol)
+![](file://deities/MOT/042-02-03-mogis.webp#symbol)
 
 - **Alignment**: Chaotic Evil
 - **Domains**: War
@@ -49,7 +49,7 @@ Minotaurs are the most ardent worshipers of Mogis and regularly hold bloody rite
 
 The appearance of the blood moon is a most holy occasion for the faithful of Mogis, since the moon represents his hateful crimson eye. At such times, his followers prepare and consume a feast of meat, either raw or barely cooked, along with copious amounts of intoxicants, followed by ritual self-mutilation—scarring themselves to demonstrate their devotion to Mogis.
 
-![](3-Mechanics/CLI/deities/img/mot-043-02-13.webp#center)
+![](file://deities/MOT/043-02-13.webp#center)
 
 > [!readaloud] Myths of Mogis
 > 
@@ -90,6 +90,8 @@ To Mogis, the ideal follower is one who sheds all moral compunctions in the cour
 
 **Mogis's Favor**
 
+`dice: [](theros-mogis-mot.md#^mogiss-favor)`
+
 | dice: d6 | Circumstance |
 |----------|--------------|
 | 1 | You were born under a sanguine moon, the symbol of Mogis's red eye. |
@@ -105,6 +107,8 @@ To Mogis, the ideal follower is one who sheds all moral compunctions in the cour
 Following Mogis is a definitive rejection of ethical codes and adoption of bloodlust and rage. As a follower of Mogis, consider the ideals on the Mogis's Ideals table as alternatives to those suggested for your background.
 
 **Mogis's Ideals**
+
+`dice: [](theros-mogis-mot.md#^mogiss-ideals)`
 
 | dice: d6 | Ideal |
 |----------|-------|

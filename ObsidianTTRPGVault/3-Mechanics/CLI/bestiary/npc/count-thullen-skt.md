@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Count Thullen"
 ---
-# [Count Thullen](3-Mechanics\CLI\bestiary\npc/count-thullen-skt.md)
+# [Count Thullen](3-Mechanics/CLI/bestiary/npc/count-thullen-skt.md)
 *Source: Storm King's Thunder p. 198*  
 
 ```statblock
@@ -21,7 +21,7 @@ aliases:
 "type": "giant"
 "alignment": "Neutral Good"
 "ac": !!int "14"
-"ac_class": "natural armor; 16 with [barkskin](3-Mechanics/CLI/spells/barkskin.md)"
+"ac_class": "natural armor; 16 with [barkskin](3-Mechanics/CLI/spells/barkskin-xphb.md)"
 "hp": !!int "200"
 "hit_dice": "16d12 + 96"
 "modifier": !!int "0"
@@ -43,33 +43,34 @@ aliases:
   - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+7"
 "gear":
-  - "[morningstar](3-Mechanics/CLI/items/morningstar.md)"
+  - "[morningstar](3-Mechanics/CLI/items/morningstar-xphb.md)"
 "senses": "passive Perception 17"
 "languages": "Common, Draconic, Druidic, Giant"
 "cr": "10"
 "traits":
   - "desc": "Thullen is a 9th-level spellcaster. His spellcasting ability is Wisdom\
       \ (spell save DC 15, +7 to hit with spell attacks). He has the following druid\
-      \ spells prepared:\n\n**Cantrips (at will):** [druidcraft](3-Mechanics/CLI/spells/druidcraft.md),\
-      \ [mending](3-Mechanics/CLI/spells/mending.md), [produce flame](3-Mechanics/CLI/spells/produce-flame.md)\n\
-      \n**1st level (4 slots):** [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md),\
-      \ [entangle](3-Mechanics/CLI/spells/entangle.md), [thunderwave](3-Mechanics/CLI/spells/thunderwave.md)\n\
-      \n**2nd level (3 slots):** [animal messenger](3-Mechanics/CLI/spells/animal-messenger.md),\
-      \ [barkskin](3-Mechanics/CLI/spells/barkskin.md), [gust of wind](3-Mechanics/CLI/spells/gust-of-wind.md)\n\
-      \n**3rd level (3 slots):** [call lightning](3-Mechanics/CLI/spells/call-lightning.md),\
-      \ [conjure animals](3-Mechanics/CLI/spells/conjure-animals.md), [speak with\
-      \ plants](3-Mechanics/CLI/spells/speak-with-plants.md)\n\n**4th level (3 slots):**\
-      \ [freedom of movement](3-Mechanics/CLI/spells/freedom-of-movement.md), [grasping\
-      \ vine](3-Mechanics/CLI/spells/grasping-vine.md)\n\n**5th level (1 slots):**\
-      \ [conjure elemental](3-Mechanics/CLI/spells/conjure-elemental.md)"
+      \ spells prepared:\n\n**Cantrips (at will):** [druidcraft](3-Mechanics/CLI/spells/druidcraft-xphb.md),\
+      \ [mending](3-Mechanics/CLI/spells/mending-xphb.md), [produce flame](3-Mechanics/CLI/spells/produce-flame-xphb.md)\n\
+      \n**1st level (4 slots):** [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md),\
+      \ [entangle](3-Mechanics/CLI/spells/entangle-xphb.md), [thunderwave](3-Mechanics/CLI/spells/thunderwave-xphb.md)\n\
+      \n**2nd level (3 slots):** [animal messenger](3-Mechanics/CLI/spells/animal-messenger-xphb.md),\
+      \ [barkskin](3-Mechanics/CLI/spells/barkskin-xphb.md), [gust of wind](3-Mechanics/CLI/spells/gust-of-wind-xphb.md)\n\
+      \n**3rd level (3 slots):** [call lightning](3-Mechanics/CLI/spells/call-lightning-xphb.md),\
+      \ [conjure animals](3-Mechanics/CLI/spells/conjure-animals-xphb.md), [speak\
+      \ with plants](3-Mechanics/CLI/spells/speak-with-plants-xphb.md)\n\n**4th level\
+      \ (3 slots):** [freedom of movement](3-Mechanics/CLI/spells/freedom-of-movement-xphb.md),\
+      \ [grasping vine](3-Mechanics/CLI/spells/grasping-vine-xphb.md)\n\n**5th level\
+      \ (1 slots):** [conjure elemental](3-Mechanics/CLI/spells/conjure-elemental-xphb.md)"
     "name": "Spellcasting"
   - "desc": "Thullen's innate spellcasting ability is Charisma. It can innately cast\
       \ the following spells, requiring no material components:\n\n**At will:** [detect\
-      \ magic](3-Mechanics/CLI/spells/detect-magic.md), [fog cloud](3-Mechanics/CLI/spells/fog-cloud.md),\
-      \ [light](3-Mechanics/CLI/spells/light.md)\n\n**3/day each:** [feather fall](3-Mechanics/CLI/spells/feather-fall.md),\
-      \ [fly](3-Mechanics/CLI/spells/fly.md), [misty step](3-Mechanics/CLI/spells/misty-step.md),\
-      \ [telekinesis](3-Mechanics/CLI/spells/telekinesis.md)\n\n**1/day each:** [control\
-      \ weather](3-Mechanics/CLI/spells/control-weather.md), [gaseous form](3-Mechanics/CLI/spells/gaseous-form.md)"
+      \ magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [fog cloud](3-Mechanics/CLI/spells/fog-cloud-xphb.md),\
+      \ [light](3-Mechanics/CLI/spells/light-xphb.md)\n\n**3/day each:** [feather\
+      \ fall](3-Mechanics/CLI/spells/feather-fall-xphb.md), [fly](3-Mechanics/CLI/spells/fly-xphb.md),\
+      \ [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md), [telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md)\n\
+      \n**1/day each:** [control weather](3-Mechanics/CLI/spells/control-weather-xphb.md),\
+      \ [gaseous form](3-Mechanics/CLI/spells/gaseous-form-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "Thullen has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
       \ checks that rely on smell."
@@ -85,6 +86,6 @@ aliases:
     "name": "Rock"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/count-thullen-skt.webp"
+"image": "file://bestiary/tokens/SKT/Count%20Thullen.webp"
 ```
 ^statblock

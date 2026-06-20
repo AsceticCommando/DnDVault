@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Ygorl, Lord of Entropy"
 ---
-# [Ygorl, Lord of Entropy](3-Mechanics\CLI\bestiary\npc/ygorl-lord-of-entropy-mff.md)
+# [Ygorl, Lord of Entropy](3-Mechanics/CLI/bestiary/npc/ygorl-lord-of-entropy-mff.md)
 *Source: Mordenkainen's Fiendish Folio p. 20*  
 
 The enigmatic being known as Ygorl was one of the first slaadi created after Primus unleashed the Spawning Stone upon Limbo. A powerful being suffused with entropic power, Ygorl delights in the act of unmaking and bringing chaos to any ecosystem it visits. Lesser slaadi follow close behind the lord of entropy, delighting and furthering the destruction it brings.
@@ -70,17 +70,18 @@ Ygorl's most notable possession is an adamantine scythe with the slaad word for 
 "traits":
   - "desc": "Ygorl's innate spellcasting ability is Charisma (spell save DC 23, +15\
       \ to hit with spell attacks). It can innately cast the following spells, requiring\
-      \ no material components:\n\n**At will:** [blight](3-Mechanics/CLI/spells/blight.md),\
-      \ [blink](3-Mechanics/CLI/spells/blink.md), [chaos bolt](3-Mechanics/CLI/spells/chaos-bolt-xge.md)*,\
-      \ [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [fly](3-Mechanics/CLI/spells/fly.md),\
-      \ [shield](3-Mechanics/CLI/spells/shield.md)\n\n**3/day each:** [circle of death](3-Mechanics/CLI/spells/circle-of-death.md),\
-      \ [enervation](3-Mechanics/CLI/spells/enervation-xge.md)*, [symbol](3-Mechanics/CLI/spells/symbol.md)\
-      \ (discord only)\n\n**2/day each:** [finger of death](3-Mechanics/CLI/spells/finger-of-death.md),\
-      \ [harm](3-Mechanics/CLI/spells/harm.md), [mental prison](3-Mechanics/CLI/spells/mental-prison-xge.md)*\n\
-      \n**1/day each:** [power word kill](3-Mechanics/CLI/spells/power-word-kill.md),\
-      \ [power word stun](3-Mechanics/CLI/spells/power-word-stun.md), [symbol](3-Mechanics/CLI/spells/symbol.md)\
-      \ (death only), [weird](3-Mechanics/CLI/spells/weird.md)\n\n* Spell from Xanathar's\
-      \ Guide to Everything"
+      \ no material components:\n\n**At will:** [blight](3-Mechanics/CLI/spells/blight-xphb.md),\
+      \ [blink](3-Mechanics/CLI/spells/blink-xphb.md), [chaos bolt](3-Mechanics/CLI/spells/chaos-bolt-xge.md)*,\
+      \ [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [fly](3-Mechanics/CLI/spells/fly-xphb.md),\
+      \ [shield](3-Mechanics/CLI/spells/shield-xphb.md)\n\n**3/day each:** [circle\
+      \ of death](3-Mechanics/CLI/spells/circle-of-death-xphb.md), [enervation](3-Mechanics/CLI/spells/enervation-xge.md)*,\
+      \ [symbol](3-Mechanics/CLI/spells/symbol-xphb.md) (discord only)\n\n**2/day\
+      \ each:** [finger of death](3-Mechanics/CLI/spells/finger-of-death-xphb.md),\
+      \ [harm](3-Mechanics/CLI/spells/harm-xphb.md), [mental prison](3-Mechanics/CLI/spells/mental-prison-xge.md)*\n\
+      \n**1/day each:** [power word kill](3-Mechanics/CLI/spells/power-word-kill-xphb.md),\
+      \ [power word stun](3-Mechanics/CLI/spells/power-word-stun-xphb.md), [symbol](3-Mechanics/CLI/spells/symbol-xphb.md)\
+      \ (death only), [weird](3-Mechanics/CLI/spells/weird-xphb.md)\n\n* Spell from\
+      \ Xanathar's Guide to Everything"
     "name": "Innate Spellcasting"
   - "desc": "Each creature that is not a construct or undead that ends its turn within\
       \ 15 feet of Ygorl takes 14 (4d6) necrotic damage."
@@ -98,14 +99,14 @@ Ygorl's most notable possession is an adamantine scythe with the slaad word for 
       \ 18 (2d10 + 7) slashing damage plus 19 (3d12) necrotic damage. Any creature\
       \ reduced to 0 hit points by this attack dies, with its body and everything\
       \ it is wearing and carrying, except magic items, exploding into a cloud of\
-      \ ash. The creature can be restored to life only by means of a [wish](3-Mechanics/CLI/spells/wish.md)\
+      \ ash. The creature can be restored to life only by means of a [wish](3-Mechanics/CLI/spells/wish-xphb.md)\
       \ spell."
     "name": "Scythe"
   - "desc": "*Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 16\
       \ (2d8 + 7) necrotic damage, and the target must succeed on a DC 22 Constitution\
       \ saving throw or gain one level of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion)."
     "name": "Entropic Touch"
-  - "desc": "Ygorl summons 1d4 + 1 [death slaadi](3-Mechanics/CLI/bestiary/aberration/death-slaad.md).\
+  - "desc": "Ygorl summons 1d4 + 1 [death slaadi](3-Mechanics/CLI/bestiary/aberration/death-slaad-xmm.md).\
       \ A summoned slaad appears in an unoccupied space within 60 feet of Ygorl, acts\
       \ as an ally of Ygorl, and can't summon other slaadi. It remains for 1 minute,\
       \ until it or Ygorl dies, or until Ygorl dismisses it as an action."
@@ -129,6 +130,6 @@ Ygorl's most notable possession is an adamantine scythe with the slaad word for 
     "name": "Call the Void (Costs 3 Actions)"
 "source":
   - "MFF"
-"image": "3-Mechanics/CLI/bestiary/npc/token/ygorl-lord-of-entropy-mff.webp"
+"image": "file://bestiary/tokens/MFF/Ygorl%2C%20Lord%20of%20Entropy.webp"
 ```
 ^statblock

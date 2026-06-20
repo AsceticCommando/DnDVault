@@ -12,6 +12,8 @@ aliases:
 
 **Beholder Bonds**
 
+`dice: [](roleplaying-a-beholder-beholder-bonds-vgm.md#^beholder-bonds)`
+
 | dice: d6 | Bond |
 |----------|------|
 | 1 | My followers are all spying on me, and I seek motivated, powerful allies to destroy them. |

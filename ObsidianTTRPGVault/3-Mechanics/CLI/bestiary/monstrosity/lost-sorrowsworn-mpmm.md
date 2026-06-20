@@ -19,7 +19,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Lost Sorrowsworn"
 ---
-# [Lost Sorrowsworn](3-Mechanics\CLI\bestiary\monstrosity/lost-sorrowsworn-mpmm.md)
+# [Lost Sorrowsworn](3-Mechanics/CLI/bestiary/monstrosity/lost-sorrowsworn-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 224, Mordenkainen's Tome of Foes p. 233*  
 
 The Shadowfell turns visitors around until they become marooned in its twisted landscape. Lost sorrowsworn—often referred to as the Lost—are representations of the anxiety and fear people experience when they can't find their way. These sorrowsworn appear desperate and panicked.
@@ -76,7 +76,7 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/lost-sorrowsworn-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Lost%20Sorrowsworn.webp"
 ```
 ^statblock
 

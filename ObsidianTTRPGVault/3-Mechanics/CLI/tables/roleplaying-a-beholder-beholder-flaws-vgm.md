@@ -12,6 +12,8 @@ aliases:
 
 **Beholder Flaws**
 
+`dice: [](roleplaying-a-beholder-beholder-flaws-vgm.md#^beholder-flaws)`
+
 | dice: d6 | Flaw |
 |----------|------|
 | 1 | I usually ignore advice from my minions. |

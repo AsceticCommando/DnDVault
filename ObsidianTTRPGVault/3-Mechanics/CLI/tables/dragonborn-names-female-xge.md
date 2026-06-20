@@ -12,6 +12,8 @@ aliases:
 
 **Dragonborn Names – Female**
 
+`dice: [](dragonborn-names-female-xge.md#^dragonborn-names-female)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Akra |

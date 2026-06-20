@@ -12,6 +12,8 @@ aliases:
 
 **Daask Contacts**
 
+`dice: [](daask-contacts-erlw.md#^daask-contacts)`
+
 | dice: d6 | Contact |
 |----------|---------|
 | 1 | **Whyhyr** (gnoll), a talented tracker, loves a good hunt and finding people who don't want to be found. |

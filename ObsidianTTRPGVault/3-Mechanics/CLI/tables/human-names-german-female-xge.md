@@ -12,6 +12,8 @@ aliases:
 
 **Human Names – German, Female**
 
+`dice: [](human-names-german-female-xge.md#^human-names-german-female)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Adelhayt |

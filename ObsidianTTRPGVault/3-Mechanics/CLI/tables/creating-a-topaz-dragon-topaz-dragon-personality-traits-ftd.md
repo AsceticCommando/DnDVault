@@ -12,6 +12,8 @@ aliases:
 
 **Topaz Dragon Personality Traits**
 
+`dice: [](creating-a-topaz-dragon-topaz-dragon-personality-traits-ftd.md#^topaz-dragon-personality-traits)`
+
 | dice: d8 | Trait |
 |----------|-------|
 | 1 | I seek no company other than my own, for no one else can compete with me. |

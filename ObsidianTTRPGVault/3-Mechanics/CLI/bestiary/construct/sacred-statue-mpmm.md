@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Sacred Statue"
 ---
-# [Sacred Statue](3-Mechanics\CLI\bestiary\construct/sacred-statue-mpmm.md)
+# [Sacred Statue](3-Mechanics/CLI/bestiary/construct/sacred-statue-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 114, Mordenkainen's Tome of Foes p. 194*  
 
 To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bound to safeguard a sacred place. Forged from the souls of those with unwavering devotion, eidolons stalk temples and vaults to ensure that no enemy defiles, damages, or plunders these sites. If an enemy sets foot inside a warded location, the [eidolon](3-Mechanics/CLI/bestiary/undead/eidolon-mpmm.md) plunges into a [statue](3-Mechanics/CLI/bestiary/construct/sacred-statue-mpmm.md) specially prepared to house its soul; it then animates this effigy and uses the statue to drive out the intruders.
@@ -56,7 +56,7 @@ To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bo
   - "desc": "The [eidolon](3-Mechanics/CLI/bestiary/undead/eidolon-mpmm.md) that enters\
       \ the statue remains inside it until the statue drops to 0 hit points, the eidolon\
       \ uses a bonus action to move out of the statue, or the eidolon is turned or\
-      \ forced out by an effect such as the [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good.md)\
+      \ forced out by an effect such as the [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md)\
       \ spell. When the eidolon leaves the statue, it appears in an unoccupied space\
       \ within 5 feet of the statue."
     "name": "Ghostly Inhabitant"
@@ -77,6 +77,6 @@ To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bo
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/construct/token/sacred-statue-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Sacred%20Statue.webp"
 ```
 ^statblock

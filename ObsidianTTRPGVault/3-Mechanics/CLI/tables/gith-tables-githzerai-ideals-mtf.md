@@ -12,6 +12,8 @@ aliases:
 
 **Githzerai Ideals**
 
+`dice: [](gith-tables-githzerai-ideals-mtf.md#^githzerai-ideals)`
+
 | dice: d4 | Ideal |
 |----------|-------|
 | 1 | Faith. Zerthimon shall return, and I will be worthy to walk beside him. |

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Dralmorrer Borngray"
 ---
-# [Dralmorrer Borngray](3-Mechanics\CLI\bestiary\npc/dralmorrer-borngray-hotdq.md)
+# [Dralmorrer Borngray](3-Mechanics/CLI/bestiary/npc/dralmorrer-borngray-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 90, Tyranny of Dragons p. 184*  
 
 ```statblock
@@ -22,7 +22,8 @@ aliases:
 "subtype": "High elf"
 "alignment": "Neutral Evil"
 "ac": !!int "16"
-"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md),\
+  \ [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "52"
 "hit_dice": "7d10 + 14"
 "modifier": !!int "2"
@@ -49,8 +50,8 @@ aliases:
   - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+5"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
-  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 12"
 "languages": "Common, Bullywug, Draconic, Elvish, Goblin, Sylvan"
@@ -59,12 +60,13 @@ aliases:
   - "desc": "Dralmorrer is a 7th-level spellcaster that uses Intelligence as his spellcasting\
       \ ability (spell save DC 13, +5 to hit with spell attacks). Dralmorrer has the\
       \ following spells prepared from the wizard spell list:\n\n**Cantrips (at will):**\
-      \ [fire bolt](3-Mechanics/CLI/spells/fire-bolt.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md),\
-      \ [shocking grasp](3-Mechanics/CLI/spells/shocking-grasp.md)\n\n**1st level\
-      \ (4 slots):** [longstrider](3-Mechanics/CLI/spells/longstrider.md), [magic\
-      \ missile](3-Mechanics/CLI/spells/magic-missile.md), [shield](3-Mechanics/CLI/spells/shield.md),\
-      \ [thunderwave](3-Mechanics/CLI/spells/thunderwave.md)\n\n**2nd level (2 slots):**\
-      \ [magic weapon](3-Mechanics/CLI/spells/magic-weapon.md), [misty step](3-Mechanics/CLI/spells/misty-step.md)"
+      \ [fire bolt](3-Mechanics/CLI/spells/fire-bolt-xphb.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md),\
+      \ [shocking grasp](3-Mechanics/CLI/spells/shocking-grasp-xphb.md)\n\n**1st level\
+      \ (4 slots):** [longstrider](3-Mechanics/CLI/spells/longstrider-xphb.md), [magic\
+      \ missile](3-Mechanics/CLI/spells/magic-missile-xphb.md), [shield](3-Mechanics/CLI/spells/shield-xphb.md),\
+      \ [thunderwave](3-Mechanics/CLI/spells/thunderwave-xphb.md)\n\n**2nd level (2\
+      \ slots):** [magic weapon](3-Mechanics/CLI/spells/magic-weapon-xphb.md), [misty\
+      \ step](3-Mechanics/CLI/spells/misty-step-xphb.md)"
     "name": "Spellcasting"
   - "desc": "Dralmorrer has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
       \ and magic can't put him to sleep."
@@ -87,6 +89,6 @@ aliases:
 "source":
   - "HotDQ"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/npc/token/dralmorrer-borngray-hotdq.webp"
+"image": "file://bestiary/tokens/HotDQ/Dralmorrer%20Borngray.webp"
 ```
 ^statblock

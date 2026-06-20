@@ -12,6 +12,8 @@ aliases:
 
 **Half-Orc Parents**
 
+`dice: [](half-orc-parents-xge.md#^half-orc-parents)`
+
 | dice: d8 | Parents |
 |----------|---------|
 | 1-3 | One parent was an orc and the other was a human. |

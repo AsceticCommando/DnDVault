@@ -12,6 +12,8 @@ aliases:
 
 **Odor**
 
+`dice: [](dungeon-dressing-odor.md#^odor)`
+
 | dice: d100 | Effect |
 |------------|--------|
 | 1-3 | Acrid |

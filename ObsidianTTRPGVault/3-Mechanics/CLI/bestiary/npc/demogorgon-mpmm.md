@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Demogorgon"
 ---
-# [Demogorgon](3-Mechanics\CLI\bestiary\npc/demogorgon-mpmm.md)
+# [Demogorgon](3-Mechanics/CLI/bestiary/npc/demogorgon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 90, Mordenkainen's Tome of Foes p. 144*  
 
 > [!quote] A quote from Mordenkainen  
@@ -97,25 +97,26 @@ Demogorgon makes his lair in a palace called Abysm, found on a layer of the Abys
       \ Beguiling Gaze.** The target is [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)\
       \ until the start of Demogorgon's next turn or until Demogorgon is no longer\
       \ within line of sight.  \n- **3–4 Confusing Gaze.** The target suffers the\
-      \ effect of the [confusion](3-Mechanics/CLI/spells/confusion.md) spell without\
-      \ making a saving throw. The effect lasts until the start of Demogorgon's next\
-      \ turn. Demogorgon doesn't need to concentrate on the spell.  \n- **5–6 Hypnotic\
-      \ Gaze.** The target is [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ effect of the [confusion](3-Mechanics/CLI/spells/confusion-xphb.md) spell\
+      \ without making a saving throw. The effect lasts until the start of Demogorgon's\
+      \ next turn. Demogorgon doesn't need to concentrate on the spell.  \n- **5–\
+      6 Hypnotic Gaze.** The target is [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
       \ by Demogorgon until the start of Demogorgon's next turn. Demogorgon chooses\
       \ how the [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) target uses\
       \ its action, reaction, and movement.  "
     "name": "Gaze"
   - "desc": "Demogorgon casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 23):\n\n**At\
-      \ will:** [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [major image](3-Mechanics/CLI/spells/major-image.md)\n\
-      \n**3/day each:** [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), [fear](3-Mechanics/CLI/spells/fear.md),\
-      \ [telekinesis](3-Mechanics/CLI/spells/telekinesis.md)\n\n**1/day each:** [feeblemind](3-Mechanics/CLI/spells/feeblemind.md),\
-      \ [project image](3-Mechanics/CLI/spells/project-image.md)"
+      \ will:** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [major\
+      \ image](3-Mechanics/CLI/spells/major-image-xphb.md)\n\n**3/day each:** [dispel\
+      \ magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [fear](3-Mechanics/CLI/spells/fear-xphb.md),\
+      \ [telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md)\n\n**1/day each:**\
+      \ [feeblemind](3-Mechanics/CLI/spells/befuddlement-xphb.md), [project image](3-Mechanics/CLI/spells/project-image-xphb.md)"
     "name": "Spellcasting"
 "lair_actions":
   - "desc": "On initiative count 20 (losing initiative ties), Demogorgon can take\
       \ one of the following lair actions; he can't take the same lair action two\
-      \ rounds in a row:\n\n- **Darkness.** Demogorgon casts the [darkness](3-Mechanics/CLI/spells/darkness.md)\
+      \ rounds in a row:\n\n- **Darkness.** Demogorgon casts the [darkness](3-Mechanics/CLI/spells/darkness-xphb.md)\
       \ spell four times, targeting different areas with the spell. Demogorgon doesn't\
       \ need to concentrate on the spells, which end on initiative count 20 of the\
       \ next round.  \n- **Illusory Duplicate.** Demogorgon creates an illusory duplicate\
@@ -138,7 +139,7 @@ Demogorgon makes his lair in a palace called Abysm, found on a layer of the Abys
       \ the lair become frenzied and violent—even creatures that are normally docile.\
       \ Within that area, any ability check involving Animal Handling has disadvantage.\
       \  \n- **Venomous Beasts.** The area within 6 miles of the lair becomes overpopulated\
-      \ with [poisonous snakes](3-Mechanics/CLI/bestiary/beast/poisonous-snake.md)\
+      \ with [poisonous snakes](3-Mechanics/CLI/bestiary/beast/venomous-snake-xmm.md)\
       \ and other venomous Beasts.  \n\nIf Demogorgon dies, these effects fade over\
       \ the course of 1d10 days."
     "name": ""
@@ -157,6 +158,6 @@ Demogorgon makes his lair in a palace called Abysm, found on a layer of the Abys
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/npc/token/demogorgon-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Demogorgon.webp"
 ```
 ^statblock

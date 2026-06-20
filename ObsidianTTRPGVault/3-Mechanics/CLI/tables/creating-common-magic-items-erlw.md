@@ -14,8 +14,8 @@ aliases:
 
 | Common Magic Item | Time | Cost |
 |-------------------|------|------|
-| [Spell scroll](3-Mechanics/CLI/items/spell-scroll.md) (cantrip) | 8 hours | 15 gp |
-| [Potion of healing](3-Mechanics/CLI/items/potion-of-healing.md) | 8 hours | 25 gp |
+| [Spell scroll](3-Mechanics/CLI/items/spell-scroll-xdmg.md) (cantrip) | 8 hours | 15 gp |
+| [Potion of healing](3-Mechanics/CLI/items/potion-of-healing-xdmg.md) | 8 hours | 25 gp |
 | Any other common magic item | 32 hours* | 50 gp* |
 ^creating-common-magic-items
 

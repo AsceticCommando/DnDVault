@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Bone Knight"
 ---
-# [Bone Knight](3-Mechanics\CLI\bestiary\humanoid/bone-knight-erlw.md)
+# [Bone Knight](3-Mechanics/CLI/bestiary/humanoid/bone-knight-erlw.md)
 *Source: Eberron: Rising from the Last War p. 316*  
 
 Bone knights are the champions of the Order of the Emerald Claw. Clad in distinctive bonecraft armor—heavy armor adorned with the bones of fallen enemies—these fearsome warriors command squads of undead soldiers as they pursue the sinister goals of Lady Illmarrow.
@@ -58,20 +58,20 @@ During the Last War, many bone knights took service with the Order of the Emeral
     "desc": "+6"
 "damage_resistances": "necrotic, poison"
 "gear":
-  - "[greatsword](3-Mechanics/CLI/items/greatsword.md)"
-  - "[longbow](3-Mechanics/CLI/items/longbow.md)"
+  - "[greatsword](3-Mechanics/CLI/items/greatsword-xphb.md)"
+  - "[longbow](3-Mechanics/CLI/items/longbow-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "any one language (usually Common)"
 "cr": "5"
 "traits":
   - "desc": "The knight is an 8th-level spellcaster. Its spellcasting ability is Charisma\
       \ (spell save DC 14, +6 to hit with spell attacks). It has the following paladin\
-      \ spells prepared:\n\n**1st level (4 slots):** [command](3-Mechanics/CLI/spells/command.md),\
-      \ [compelled duel](3-Mechanics/CLI/spells/compelled-duel.md), [hellish rebuke](3-Mechanics/CLI/spells/hellish-rebuke.md),\
-      \ [wrathful smite](3-Mechanics/CLI/spells/wrathful-smite.md)\n\n**2nd level\
-      \ (3 slots):** [branding smite](3-Mechanics/CLI/spells/branding-smite.md), [crown\
-      \ of madness](3-Mechanics/CLI/spells/crown-of-madness.md), [darkness](3-Mechanics/CLI/spells/darkness.md),\
-      \ [find steed](3-Mechanics/CLI/spells/find-steed.md), [magic weapon](3-Mechanics/CLI/spells/magic-weapon.md)"
+      \ spells prepared:\n\n**1st level (4 slots):** [command](3-Mechanics/CLI/spells/command-xphb.md),\
+      \ [compelled duel](3-Mechanics/CLI/spells/compelled-duel-xphb.md), [hellish\
+      \ rebuke](3-Mechanics/CLI/spells/hellish-rebuke-xphb.md), [wrathful smite](3-Mechanics/CLI/spells/wrathful-smite-xphb.md)\n\
+      \n**2nd level (3 slots):** [branding smite](3-Mechanics/CLI/spells/shining-smite-xphb.md),\
+      \ [crown of madness](3-Mechanics/CLI/spells/crown-of-madness-xphb.md), [darkness](3-Mechanics/CLI/spells/darkness-xphb.md),\
+      \ [find steed](3-Mechanics/CLI/spells/find-steed-xphb.md), [magic weapon](3-Mechanics/CLI/spells/magic-weapon-xphb.md)"
     "name": "Spellcasting"
   - "desc": "As a bonus action, the knight can target one skeleton or zombie it can\
       \ see within 30 feet of it. The target must make a DC 14 Wisdom saving throw.\
@@ -93,6 +93,6 @@ During the Last War, many bone knights took service with the Order of the Emeral
     "name": "Longbow"
 "source":
   - "ERLW"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/bone-knight-erlw.webp"
+"image": "file://bestiary/tokens/ERLW/Bone%20Knight.webp"
 ```
 ^statblock

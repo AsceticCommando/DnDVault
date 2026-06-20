@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Cog"
 ---
-# [Cog](3-Mechanics\CLI\bestiary\npc/cog-skt.md)
+# [Cog](3-Mechanics/CLI/bestiary/npc/cog-skt.md)
 *Source: Storm King's Thunder p. 209*  
 
 ```statblock
@@ -21,7 +21,7 @@ aliases:
 "type": "giant"
 "alignment": "Chaotic Evil"
 "ac": !!int "15"
-"ac_class": "[scale mail](3-Mechanics/CLI/items/scale-mail.md)"
+"ac_class": "[scale mail](3-Mechanics/CLI/items/scale-mail-xphb.md)"
 "hp": !!int "105"
 "hit_dice": "10d12 + 40"
 "modifier": !!int "-1"
@@ -37,7 +37,7 @@ aliases:
   - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
 "gear":
-  - "[greatclub](3-Mechanics/CLI/items/greatclub.md)"
+  - "[greatclub](3-Mechanics/CLI/items/greatclub-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Giant"
 "cr": "5"
@@ -52,6 +52,6 @@ aliases:
     "name": "Rock"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/cog-skt.webp"
+"image": "file://bestiary/tokens/SKT/Cog.webp"
 ```
 ^statblock

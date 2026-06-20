@@ -12,6 +12,8 @@ aliases:
 
 **Domains of Ravenloft**
 
+`dice: [](domains-of-ravenloft-vrgr.md#^domains-of-ravenloft)`
+
 | dice: d100 | Domain |
 |------------|--------|
 | 01–04 | "Barovia"* |

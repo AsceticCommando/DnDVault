@@ -12,6 +12,8 @@ aliases:
 
 **Giant Flaws**
 
+`dice: [](roleplaying-a-giant-giant-flaws-vgm.md#^giant-flaws)`
+
 | dice: d6 | Flaw |
 |----------|------|
 | 1 | The ordning is too restrictive for the likes of me. |

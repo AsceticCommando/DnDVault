@@ -18,7 +18,7 @@ This chapter begins with a look at three key themes that pervade many Eberron ad
 
 Specific monsters and nonplayer characters (NPCs) mentioned in this chapter can be found either in the "Monster Manual" or in "chapter 6" of this book. When a creature's name appears in bold type, that's a visual cue pointing you to the creature's stat block in the "Monster Manual" or in chapter 6. If the stat block appears in chapter 6, the text tells you so.
 
-![Passengers from all over K...](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/104-4-01.webp#center "Passengers from all over Khorvaire disembark from a lightning train.")
+![Passengers from all over Khorvaire disembark from a lightning train.](file://book/ERLW/104-4-01.webp#center)
 
 ## Adventure Themes
 
@@ -65,7 +65,7 @@ Adventurers get more powerful over time, so if a villain is going to remain a re
 
 **Mechanical Improvement**. Use the guidelines in "chapter 9" of the "Dungeon Master's Guide" to add class levels or Hit Dice to the villain and improve its challenge rating to make it relevant to the higher-level characters.
 
-**NPC Stat Blocks**. Some of the stat blocks in the "Monster Manual" can reflect the same character at different stages of advancement. For example, the adventurers might confront a villain who uses the stat block of a [mage](3-Mechanics/CLI/bestiary/humanoid/mage.md) (9th-level wizard) and then returns later as an [archmage](3-Mechanics/CLI/bestiary/humanoid/archmage.md) (18th-level wizard). You could also use stat blocks in other sources to add to the sequence, so the characters could even meet this aspiring villain as an [apprentice wizard](3-Mechanics/CLI/bestiary/humanoid/apprentice-wizard-mpmm.md) and later as an [evoker](3-Mechanics/CLI/bestiary/humanoid/evoker-wizard-mpmm.md) (both in "Volo's Guide to Monsters").
+**NPC Stat Blocks**. Some of the stat blocks in the "Monster Manual" can reflect the same character at different stages of advancement. For example, the adventurers might confront a villain who uses the stat block of a [mage](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) (9th-level wizard) and then returns later as an [archmage](3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md) (18th-level wizard). You could also use stat blocks in other sources to add to the sequence, so the characters could even meet this aspiring villain as an [apprentice wizard](3-Mechanics/CLI/bestiary/humanoid/apprentice-wizard-mpmm.md) and later as an [evoker](3-Mechanics/CLI/bestiary/humanoid/evoker-wizard-mpmm.md) (both in "Volo's Guide to Monsters").
 
 **Organizations as Villains**. Rather than use an individual as a recurring villain, you could think in terms of the organization the villain belongs to or represents. For example, low-level adventurers might fight low-level agents of the Order of the Emerald Claw and grow to loathe the sight of their claw-shaped symbol and green cloaks. As they attain higher levels, the characters will face increasingly more powerful members of the order.
 
@@ -89,7 +89,7 @@ Use the Villain You Know table to add some depth and detail to the actions and m
 
 #### The Mysterious Villain
 
-![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/105-4-02.webp#center)
+![](file://book/ERLW/105-4-02.webp#center)
 
 In contrast to a villain who is a part of the characters' everyday life, an otherworldly villain isn't only anonymous but also fundamentally mysterious. It's not just a question of *who* the villain is, but also of *what* the villain is, and what extraordinary measures might be required to put a stop to their villainy. Even after the adventurers discover that their long-term nemesis is one of the Inspired, for example, they still need to learn the secrets of the Inspired and their quori masters in order to figure out how to deal with this threat.
 
@@ -242,8 +242,8 @@ Arcane workshops have many features in common, from workbenches and tools to dia
 Characters might find their way to an arcane workshop for a variety of reasons. Some possibilities are outlined in the Arcane Workshop Adventures table.
 
 > [!gallery]
-> ![Map 4.1: Arcane Workshop](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/106-map41_arcaneworkshop.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/107-map41_arcaneworkshop-player.webp#gallery)
+> ![Map 4.1: Arcane Workshop](file://book/ERLW/106-map41_arcaneworkshop.webp#gallery)
+> ![Player Version](file://book/ERLW/107-map41_arcaneworkshop-player.webp#gallery)
 
 ![Arcane Workshop Adventures](3-Mechanics/CLI/tables/arcane-workshop-adventures-erlw.md)
 
@@ -304,8 +304,8 @@ Each observatory must be built in a location that is balanced between Siberys an
 The characters might find their way to a planar observatory as unwitting minions of a Chamber observer, as a destination in their struggles against servants of the Lords of Dust, or even accidentally. The Planar Observatory Adventures table presents some possibilities.
 
 > [!gallery]
-> ![Map 4.2: Planar Observatory](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/108-map42_planarobservatory.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/109-map42_planarobservatory-player.webp#gallery)
+> ![Map 4.2: Planar Observatory](file://book/ERLW/108-map42_planarobservatory.webp#gallery)
+> ![Player Version](file://book/ERLW/109-map42_planarobservatory-player.webp#gallery)
 
 ![Planar Observatory Adventures](3-Mechanics/CLI/tables/planar-observatory-adventures-erlw.md)
 
@@ -360,7 +360,7 @@ The feelings of mistrust and festering animosity between the nations that linger
 
 ### The Role of Dreams
 
-All dreams occur in the plane of Dal Quor. When mortals sleep, their minds touch the plane and shape a shard of it. Normally, a dream is shaped by the memories and emotions of the dreamer. But the [dream](3-Mechanics/CLI/spells/dream.md) spell and similar effects (such as a night hag's Nightmare Haunting) can influence a dream from the outside, to a specific and often sinister purpose. The quori are masters of using the [dream](3-Mechanics/CLI/spells/dream.md) spell as a weapon to terrorize their foes.
+All dreams occur in the plane of Dal Quor. When mortals sleep, their minds touch the plane and shape a shard of it. Normally, a dream is shaped by the memories and emotions of the dreamer. But the [dream](3-Mechanics/CLI/spells/dream-xphb.md) spell and similar effects (such as a night hag's Nightmare Haunting) can influence a dream from the outside, to a specific and often sinister purpose. The quori are masters of using the [dream](3-Mechanics/CLI/spells/dream-xphb.md) spell as a weapon to terrorize their foes.
 
 It's possible for an entire adventure to take place in a dream. The trick with a dream adventure is ensuring that it feels meaningful, even consequential, and not just a waste of time. One of four basic approaches can help you do that:
 
@@ -381,7 +381,7 @@ The Dream Adventures table puts these principles together and suggests hooks int
 
 #### Dying in Dreams
 
-Death in dreams is less severe than in reality, but it's not without consequence. Of course, characters who are mere figments of a dreamer's imagination are simply removed from the dream. But a character dies while actually dreaming, the character receives no benefit from the rest and takes `3d6` psychic damage.
+Death in dreams is less severe than in reality, but it's not without consequence. Of course, characters who are mere figments of a dreamer's imagination are simply removed from the dream. But a character dies while actually dreaming, the character receives no benefit from the rest and takes `dice:3d6|noform|noparens|avg` (`3d6`) psychic damage.
 
 If you want to establish more severe consequences, you can. A dreamer killed by a quori could be trapped in Dal Quor while the quori possesses their body, forcing their allies to try to rescue them from their nightmares.
 
@@ -471,8 +471,8 @@ The middle tower consists of two crumbling floors with arrow slits, accessed by 
 The top level of the fort overhangs the tower. Large portions of the floor are missing, making certain areas difficult to reach. Arrow slits on the perimeter of this level made it instrumental to the fort's defense, and the large rooms here were used for arms storage and mustering troops for battle.
 
 > [!gallery]
-> ![Map 4.3: Ruined Dhakaani Fort](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/110-map43_ruindhakaanifort.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/111-map43_ruindhakaanifort-player.webp#gallery)
+> ![Map 4.3: Ruined Dhakaani Fort](file://book/ERLW/110-map43_ruindhakaanifort.webp#gallery)
+> ![Player Version](file://book/ERLW/111-map43_ruindhakaanifort-player.webp#gallery)
 
 #### Ruined Dhakaani Fort Adventures
 
@@ -541,8 +541,8 @@ The most common form of Gatekeeper seal is a great stone slab set into the groun
 Map 4.4 shows what a Gatekeeper seal might look like. A seal is a protected site, usually attended at all times by Gatekeepers who live at or near the seal. The one depicted in the map lies on the edge of a swamp, but it could be located in any kind of terrain. A circle of standing stones serves to focus the magic of the area toward the seal itself, and the stones also serve as a place of worship for the druids' devotions and ceremonies.
 
 > [!gallery]
-> ![Map 4.4: Gatekeeper Seal](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/112-map44_gatekeeperseal.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/113-map44_gatekeeperseal-player.webp#gallery)
+> ![Map 4.4: Gatekeeper Seal](file://book/ERLW/112-map44_gatekeeperseal.webp#gallery)
+> ![Player Version](file://book/ERLW/113-map44_gatekeeperseal-player.webp#gallery)
 
 #### Gatekeeper Seal Adventures
 

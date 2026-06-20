@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Duergar Hammerer"
 ---
-# [Duergar Hammerer](3-Mechanics\CLI\bestiary\construct/duergar-hammerer-mpmm.md)
+# [Duergar Hammerer](3-Mechanics/CLI/bestiary/construct/duergar-hammerer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 112, Mordenkainen's Tome of Foes p. 188*  
 
 The duergar hammerer is a digging machine and siege engine, used to dig tunnels and besiege enemy fortifications.
@@ -71,7 +71,7 @@ These machines are deployed to assist with construction projects and war. Some d
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/construct/token/duergar-hammerer-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Duergar%20Hammerer.webp"
 ```
 ^statblock
 

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Tressym"
 ---
-# [Tressym](3-Mechanics\CLI\bestiary\monstrosity/tressym-bgdia.md)
+# [Tressym](3-Mechanics/CLI/bestiary/monstrosity/tressym-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 241*  
 
 ```statblock
@@ -53,7 +53,7 @@ aliases:
   - "desc": "The tressym can detect whether a substance is poisonous by taste, touch,\
       \ or smell."
     "name": "Poison Sense"
-  - "desc": "With the DM's permission, a person who casts the [find familiar](3-Mechanics/CLI/spells/find-familiar.md)\
+  - "desc": "With the DM's permission, a person who casts the [find familiar](3-Mechanics/CLI/spells/find-familiar-xphb.md)\
       \ spell can choose to conjure a tressym instead of a normal cat."
     "name": "Familiar"
 "actions":
@@ -62,6 +62,6 @@ aliases:
     "name": "Claws"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/tressym-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Tressym.webp"
 ```
 ^statblock

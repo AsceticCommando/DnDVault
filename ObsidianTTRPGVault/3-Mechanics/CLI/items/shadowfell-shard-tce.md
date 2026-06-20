@@ -12,7 +12,7 @@ aliases:
 ---
 # Shadowfell Shard
 *Wondrous item, spellcasting focus, rare (requires attunement by a sorcerer)*  
-![](3-Mechanics/CLI/items/img/shadowfell-shard.webp#right)
+![](file://items/TCE/Shadowfell%20Shard.webp#right)
 
 - **Weight**: 1.0 lbs.
 

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Duchess Brimskarda"
 ---
-# [Duchess Brimskarda](3-Mechanics\CLI\bestiary\npc/duchess-brimskarda-skt.md)
+# [Duchess Brimskarda](3-Mechanics/CLI/bestiary/npc/duchess-brimskarda-skt.md)
 *Source: Storm King's Thunder p. 185*  
 
 ```statblock
@@ -44,12 +44,12 @@ aliases:
     "desc": "+6"
 "damage_immunities": "fire"
 "gear":
-  - "[greatsword](3-Mechanics/CLI/items/greatsword.md)"
+  - "[greatsword](3-Mechanics/CLI/items/greatsword-xphb.md)"
 "senses": "passive Perception 16"
 "languages": "Common, Giant, Goblin"
 "cr": "9"
 "traits":
-  - "desc": "Brimskarda carries a [potion of invulnerability](3-Mechanics/CLI/items/potion-of-invulnerability.md),\
+  - "desc": "Brimskarda carries a [potion of invulnerability](3-Mechanics/CLI/items/potion-of-invulnerability-xdmg.md),\
       \ which she quaffs on her first turn in combat."
     "name": "Special Equipment"
 "actions":
@@ -63,6 +63,6 @@ aliases:
     "name": "Iron Cauldron"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/duchess-brimskarda-skt.webp"
+"image": "file://bestiary/tokens/SKT/Duchess%20Brimskarda.webp"
 ```
 ^statblock

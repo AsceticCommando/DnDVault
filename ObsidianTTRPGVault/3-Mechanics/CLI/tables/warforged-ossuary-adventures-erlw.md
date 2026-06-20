@@ -12,6 +12,8 @@ aliases:
 
 **Warforged Ossuary Adventures**
 
+`dice: [](warforged-ossuary-adventures-erlw.md#^warforged-ossuary-adventures)`
+
 | dice: d6 | Adventure Goal |
 |----------|----------------|
 | 1 | Rescue an artificer who is being forced to graft warforged components onto [the Lord of Blades](3-Mechanics/CLI/bestiary/npc/the-lord-of-blades-erlw.md)' warriors. |

@@ -12,6 +12,8 @@ aliases:
 
 **Ruler's Status**
 
+`dice: [](random-settlements-rulers-status.md#^rulers-status)`
+
 | dice: d20 | Ruler |
 |-----------|-------|
 | 1-5 | Respected, fair, and just |

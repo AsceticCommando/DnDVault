@@ -15,7 +15,7 @@ aliases:
 - **Skill Proficiencies.** [Athletics](3-Mechanics/CLI/rules/skills.md#Athletics), [Survival](3-Mechanics/CLI/rules/skills.md#Survival)  
 - **Languages.** Any one of your choice  
 - **Tool Proficiencies.** One type of musical instrument or artisan's tools  
-- **Equipment.** A [hunting trap](3-Mechanics/CLI/items/hunting-trap.md), a totemic token or set of tattoos marking your loyalty to Uthgar and your tribal totem, a set of [traveler's clothes](3-Mechanics/CLI/items/travelers-clothes.md), and a [pouch](3-Mechanics/CLI/items/pouch.md) containing 10 gp  
+- **Equipment.** A [hunting trap](3-Mechanics/CLI/items/hunting-trap-xphb.md), a totemic token or set of tattoos marking your loyalty to Uthgar and your tribal totem, a set of [traveler's clothes](3-Mechanics/CLI/items/travelers-clothes-xphb.md), and a [pouch](3-Mechanics/CLI/items/pouch-xphb.md) containing 10 gp  
 
 Though you might have only recently arrived in civilized lands, you are no stranger to the values of cooperation and group effort when striving for supremacy. You learned these principles, and much more, as a member of an Uthgardt tribe.
 

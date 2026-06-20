@@ -22,7 +22,7 @@ If you're reading this, the answer is that *you* make a hero, of course. In Ther
 
 This chapter describes playable races of Theros, new subclass options, a new background, and their places in the world. It also includes a description of the supernatural gifts that set the heroes of Theros above the ordinary mortals of their world. But it begins with the question of what makes *your* character a hero.
 
-![Drawn together by fate, th...](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/005-01-01.webp#center "Drawn together by fate, three heroes—centaur, leonin, and human—pit themselves against sirens in the Dakra Isles")
+![Drawn together by fate, three heroes—centaur, leonin, and human—pit themselves against sirens in the Dakra Isles](file://book/MOT/005-01-01.webp#center)
 
 ## Heroic Drive
 
@@ -75,18 +75,18 @@ These supernatural gifts are intended for starting characters, but some might be
 > 
 > If your campaign uses the optional feat rules from "chapter 6" of the "Player's Handbook", your Dungeon Master might allow you to take a feat as a variant supernatural gift. You gain one feat of your choice. This list suggests twelve feats from the "Player's Handbook", but you can choose any feat your DM allows:
 > 
-> - A snake emerged from my mouth before I took my first breath—an omen of my gift for deception. ([Actor](3-Mechanics/CLI/feats/actor.md))  
-> - I hear voices on the wind, warning me of danger. ([Alert](3-Mechanics/CLI/feats/alert.md))  
-> - Iroas gifted me with physical prowess, intending to see me compete in the Iroan Games. ([Athlete](3-Mechanics/CLI/feats/athlete.md))  
-> - I feel the vitality of the earth beneath my feet, and it refreshes my strength when I rest on it. ([Durable](3-Mechanics/CLI/feats/durable.md))  
-> - The stars of Nyx are never hidden from my sight, revealing their secrets to my eyes. ([Keen Mind](3-Mechanics/CLI/feats/keen-mind.md))  
+> - A snake emerged from my mouth before I took my first breath—an omen of my gift for deception. ([Actor](3-Mechanics/CLI/feats/actor-xphb.md))  
+> - I hear voices on the wind, warning me of danger. ([Alert](3-Mechanics/CLI/feats/alert-xphb.md))  
+> - Iroas gifted me with physical prowess, intending to see me compete in the Iroan Games. ([Athlete](3-Mechanics/CLI/feats/athlete-xphb.md))  
+> - I feel the vitality of the earth beneath my feet, and it refreshes my strength when I rest on it. ([Durable](3-Mechanics/CLI/feats/durable-xphb.md))  
+> - The stars of Nyx are never hidden from my sight, revealing their secrets to my eyes. ([Keen Mind](3-Mechanics/CLI/feats/keen-mind-xphb.md))  
 > - I hear the echoes of the gods' speech in every mortal language and trace the patterns of Nyx in the written word. ([Linguist](3-Mechanics/CLI/feats/linguist.md))  
-> - The gods smile on me, but I dread the day when they withdraw their favor and my luck runs out. ([Lucky](3-Mechanics/CLI/feats/lucky.md))  
-> - As a child, I used to run through the woods and play with a giant lynx—which, I learned later, was an emissary of Nylea. ([Mobile](3-Mechanics/CLI/feats/mobile.md))  
-> - The sun's light brings what is hidden to clear view in my eyes. ([Observant](3-Mechanics/CLI/feats/observant.md))  
-> - I ate a magical fruit that blessed me with extraordinary resilience. ([Resilient](3-Mechanics/CLI/feats/resilient.md))  
-> - I studied with a supernatural tutor. ([Skilled](3-Mechanics/CLI/feats/skilled.md))  
-> - I was bathed in the waters of a mystic river that left my skin resistant to harm—and glittering with starlight. ([Tough](3-Mechanics/CLI/feats/tough.md))  
+> - The gods smile on me, but I dread the day when they withdraw their favor and my luck runs out. ([Lucky](3-Mechanics/CLI/feats/lucky-xphb.md))  
+> - As a child, I used to run through the woods and play with a giant lynx—which, I learned later, was an emissary of Nylea. ([Mobile](3-Mechanics/CLI/feats/speedy-xphb.md))  
+> - The sun's light brings what is hidden to clear view in my eyes. ([Observant](3-Mechanics/CLI/feats/observant-xphb.md))  
+> - I ate a magical fruit that blessed me with extraordinary resilience. ([Resilient](3-Mechanics/CLI/feats/resilient-xphb.md))  
+> - I studied with a supernatural tutor. ([Skilled](3-Mechanics/CLI/feats/skilled-xphb.md))  
+> - I was bathed in the waters of a mystic river that left my skin resistant to harm—and glittering with starlight. ([Tough](3-Mechanics/CLI/feats/tough-xphb.md))  
 ^heroic-feats
 
 > [!note] Myths of Theros
@@ -107,7 +107,7 @@ A diverse assortment of peoples dwell among the lands of Theros. Aside from huma
 
 This chapter provides information about the following common playable races of Theros, as well as racial traits for all of them except humans:
 
-[Humans](3-Mechanics/CLI/races/human.md) on Theros are similar to those found on other D&D worlds: adaptable, ambitious, and wildly diverse.
+[Humans](3-Mechanics/CLI/races/human-xphb.md) on Theros are similar to those found on other D&D worlds: adaptable, ambitious, and wildly diverse.
 
 [Centaurs](3-Mechanics/CLI/races/centaur-mpmm.md) employ cunning and equine strength to further the goals of the roaming Lagonna and Pheres bands.
 
@@ -136,11 +136,11 @@ The most prestigious names however, are those earned through deeds or temperamen
 
 ## Subclass Options
 
-![An unrivaled orator, the c...](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/019-01-15.webp#center "An unrivaled orator, the centaur Perisophia guides Meletis as a member of the polis's ruling council, the Twelve")
+![An unrivaled orator, the centaur Perisophia guides Meletis as a member of the polis's ruling council, the Twelve](file://book/MOT/019-01-15.webp#center)
 
-At 3rd level, a bard chooses a Bard College and a paladin chooses a Sacred Oath. This section offers the [College of Eloquence](3-Mechanics/CLI/classes/bard-college-of-eloquence-tce.md) for bards and the [Oath of Glory](3-Mechanics/CLI/classes/paladin-oath-of-glory-tce.md) for paladins, expanding their options for that choice.
+At 3rd level, a bard chooses a Bard College and a paladin chooses a Sacred Oath. This section offers the College of Eloquence for bards and the [Oath of Glory](3-Mechanics/CLI/classes/paladin-xphb-oath-of-glory-xphb.md) for paladins, expanding their options for that choice.
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/020-01-16.webp#center)
+![](file://book/MOT/020-01-16.webp#center)
 
 ## Background
 

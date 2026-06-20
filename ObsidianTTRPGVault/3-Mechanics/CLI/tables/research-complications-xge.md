@@ -12,6 +12,8 @@ aliases:
 
 **Research Complications**
 
+`dice: [](research-complications-xge.md#^research-complications)`
+
 | dice: d6 | Complication |
 |----------|--------------|
 | 1 | You accidentally damage a rare book. |

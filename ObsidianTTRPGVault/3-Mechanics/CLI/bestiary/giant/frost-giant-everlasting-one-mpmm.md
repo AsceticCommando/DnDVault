@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Frost Giant Everlasting One"
 ---
-# [Frost Giant Everlasting One](3-Mechanics\CLI\bestiary\giant/frost-giant-everlasting-one-mpmm.md)
+# [Frost Giant Everlasting One](3-Mechanics/CLI/bestiary/giant/frost-giant-everlasting-one-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 131, Volo's Guide to Monsters p. 148*  
 
 To hold its place or rise within the ordning, a frost giant must routinely face mighty foes in single combat. Some seek out magic that will aid them, but enchanted objects can be taken or lost. True greatness relies on personal prowess. Faced with this truth, a frost giant might seek a supernatural gift from Vaprak the Destroyer.
@@ -51,7 +51,7 @@ After devouring the troll sent by Vaprak, bones and all, a frost giant becomes a
     "desc": "+4"
 "damage_immunities": "cold"
 "gear":
-  - "[greataxe](3-Mechanics/CLI/items/greataxe.md)"
+  - "[greataxe](3-Mechanics/CLI/items/greataxe-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 14"
 "languages": "Giant"
@@ -89,7 +89,7 @@ After devouring the troll sent by Vaprak, bones and all, a frost giant becomes a
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/giant/token/frost-giant-everlasting-one-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Frost%20Giant%20Everlasting%20One.webp"
 ```
 ^statblock
 

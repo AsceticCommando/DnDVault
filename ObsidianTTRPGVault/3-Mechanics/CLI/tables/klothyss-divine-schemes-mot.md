@@ -12,6 +12,8 @@ aliases:
 
 **Klothys's Divine Schemes**
 
+`dice: [](klothyss-divine-schemes-mot.md#^klothyss-divine-schemes)`
+
 | dice: d4 | Scheme |
 |----------|--------|
 | 1 | Convinced that Heliod's boundless ambition will destroy Theros, Klothys creates an artifact that will destroy the sun god once he claims it as his own. She needs mortal heroes who can demonstrate the artifact's power by vanquishing Erebos's servants, and in the process stoke Heliod's envy. |

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Incomplete Dragon Skeleton"
 ---
-# [Incomplete Dragon Skeleton](3-Mechanics\CLI\bestiary\undead/incomplete-dragon-skeleton-dsotdq.md)
+# [Incomplete Dragon Skeleton](3-Mechanics/CLI/bestiary/undead/incomplete-dragon-skeleton-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 138*  
 
 ```statblock
@@ -46,6 +46,6 @@ aliases:
     "name": "Bite"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/undead/token/incomplete-dragon-skeleton-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Incomplete%20Dragon%20Skeleton.webp"
 ```
 ^statblock

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Adult Moonstone Dragon"
 ---
-# [Adult Moonstone Dragon](3-Mechanics\CLI\bestiary\dragon/adult-moonstone-dragon-ftd.md)
+# [Adult Moonstone Dragon](3-Mechanics/CLI/bestiary/dragon/adult-moonstone-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 212*  
 
 Ancient legends suggest that when the gods came to the First World and tried to populate it with their Humanoid followers, a clever dragon fled to the Feywild to hide a clutch of eggs. The magic of that faerie realm suffused the eggs, which hatched into the first moonstone dragons. Their descendants are now found throughout the Feywild.
@@ -90,9 +90,9 @@ The challenge rating of a legendary moonstone dragon increases by 1 when it's en
     "name": "Breath Weapon (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 19):\n\n**At\
-      \ will:** [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md)\n\n**1/day each:**\
-      \ [calm emotions](3-Mechanics/CLI/spells/calm-emotions.md), [invisibility](3-Mechanics/CLI/spells/invisibility.md),\
-      \ [revivify](3-Mechanics/CLI/spells/revivify.md)"
+      \ will:** [faerie fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md)\n\n**1/day\
+      \ each:** [calm emotions](3-Mechanics/CLI/spells/calm-emotions-xphb.md), [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md),\
+      \ [revivify](3-Mechanics/CLI/spells/revivify-xphb.md)"
     "name": "Spellcasting"
 "lair_actions":
   - "desc": "On initiative count 20 (losing initiative ties), the dragon can take\
@@ -136,6 +136,6 @@ The challenge rating of a legendary moonstone dragon increases by 1 when it's en
     "name": "Cast a Spell (Costs 2 Actions)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/adult-moonstone-dragon-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Adult%20Moonstone%20Dragon.webp"
 ```
 ^statblock

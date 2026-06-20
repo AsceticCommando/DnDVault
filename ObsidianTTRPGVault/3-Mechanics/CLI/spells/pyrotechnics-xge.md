@@ -5,17 +5,20 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/spell/class/artificer
-- ttrpg-cli/spell/class/bard/magical-secrets
+- ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/sorcerer
 - ttrpg-cli/spell/class/wizard
 - ttrpg-cli/spell/feat/adept-of-the-red-robes
+- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
 - ttrpg-cli/spell/level/2nd-level
 - ttrpg-cli/spell/school/transmutation
 - ttrpg-cli/spell/subclass/arcane-trickster
+- ttrpg-cli/spell/subclass/college-of-lore
 - ttrpg-cli/spell/subclass/eldritch-knight
 classes:
 - Artificer
-- Bard (Magical Secrets)
+- Bard
+- Bard (College of Lore)
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
 - Sorcerer
@@ -44,6 +47,6 @@ Thick black smoke spreads out from the target in a 20-foot radius, moving around
 
 ## Summary
 
-**Classes**: [Artificer](3-Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Artificer](3-Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Xanathar's Guide to Everything p. 163*
+*Source: Xanathar's Guide to Everything p. 163, Elemental Evil Player's Companion p. 21*

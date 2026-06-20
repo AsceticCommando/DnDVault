@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Simon Aumar"
 ---
-# [Simon Aumar](3-Mechanics\CLI\bestiary\npc/simon-aumar-hat-tg.md)
+# [Simon Aumar](3-Mechanics/CLI/bestiary/npc/simon-aumar-hat-tg.md)
 *Source: Honor Among Thieves: Thieves' Gallery*  
 
 Simon Aumar suffers under the weight of his family name. Though he is a descendent of an elf and the legendary wizard Elminster Aumar, Simon's own sorcerous wild magic runs uncontrolled through his veins. Simon has not yet developed the ability to harness his power, and his spells explode or fizzle seemingly at random.
@@ -52,7 +52,7 @@ Though he's dogged by doubt, the brave young mage has earned his place in Edgin'
   - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+4"
 "gear":
-  - "[quarterstaff](3-Mechanics/CLI/items/quarterstaff.md)"
+  - "[quarterstaff](3-Mechanics/CLI/items/quarterstaff-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 11"
 "languages": "Common, Draconic, Elvish"
@@ -61,9 +61,9 @@ Though he's dogged by doubt, the brave young mage has earned his place in Edgin'
   - "desc": "Simon has advantage on saving throws he makes to avoid or end the [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
       \ condition on himself, and magic can't put him to sleep."
     "name": "Fey Ancestry"
-  - "desc": "Simon carries a [bag of holding](3-Mechanics/CLI/items/bag-of-holding.md),\
-      \ two pairs of [sending stones](3-Mechanics/CLI/items/sending-stones.md), and\
-      \ a deathly token (see Spellcasting)."
+  - "desc": "Simon carries a [bag of holding](3-Mechanics/CLI/items/bag-of-holding-xdmg.md),\
+      \ two pairs of [sending stones](3-Mechanics/CLI/items/sending-stones-xdmg.md),\
+      \ and a deathly token (see Spellcasting)."
     "name": "Special Equipment"
   - "desc": "When Simon takes 20 or more damage from a single source or takes damage\
       \ from a critical hit, he must roll on the Wild Magic Surge table in the Player's\
@@ -84,13 +84,13 @@ Though he's dogged by doubt, the brave young mage has earned his place in Edgin'
   - "desc": "Roll a d6. On a roll of 1, Simon must roll on the Wild Magic Surge table\
       \ in the Player's Handbook. On a roll of 2 or higher, Simon casts one of the\
       \ following spells, using Charisma as the spellcasting ability (spell save DC\
-      \ 14):\n\n**At will:** [mage hand](3-Mechanics/CLI/spells/mage-hand.md), [minor\
-      \ illusion](3-Mechanics/CLI/spells/minor-illusion.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md),\
-      \ [speak with dead](3-Mechanics/CLI/spells/speak-with-dead.md) (Simon must be\
-      \ holding his deathly token to cast this spell)\n\n**2/day each:** [fog cloud](3-Mechanics/CLI/spells/fog-cloud.md),\
-      \ [mage armor](3-Mechanics/CLI/spells/mage-armor.md), [magic missile](3-Mechanics/CLI/spells/magic-missile.md),\
-      \ [spider climb](3-Mechanics/CLI/spells/spider-climb.md)\n\n**1/day each:**\
-      \ [Bigby's hand](3-Mechanics/CLI/spells/bigbys-hand.md), [major image](3-Mechanics/CLI/spells/major-image.md)"
+      \ 14):\n\n**At will:** [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md),\
+      \ [speak with dead](3-Mechanics/CLI/spells/speak-with-dead-xphb.md) (Simon must\
+      \ be holding his deathly token to cast this spell)\n\n**2/day each:** [fog cloud](3-Mechanics/CLI/spells/fog-cloud-xphb.md),\
+      \ [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md), [magic missile](3-Mechanics/CLI/spells/magic-missile-xphb.md),\
+      \ [spider climb](3-Mechanics/CLI/spells/spider-climb-xphb.md)\n\n**1/day each:**\
+      \ [Bigby's hand](3-Mechanics/CLI/spells/bigbys-hand-xphb.md), [major image](3-Mechanics/CLI/spells/major-image-xphb.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "When Simon or another creature he can see within 10 feet of himself would\
@@ -100,6 +100,6 @@ Though he's dogged by doubt, the brave young mage has earned his place in Edgin'
     "name": "Sheltering Shield (3/Day)"
 "source":
   - "HAT-TG"
-"image": "3-Mechanics/CLI/bestiary/npc/token/simon-aumar-hat-tg.webp"
+"image": "file://bestiary/tokens/HAT-TG/Simon%20Aumar.webp"
 ```
 ^statblock

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Setessan Hoplite"
 ---
-# [Setessan Hoplite](3-Mechanics\CLI\bestiary\humanoid/setessan-hoplite-mot.md)
+# [Setessan Hoplite](3-Mechanics/CLI/bestiary/humanoid/setessan-hoplite-mot.md)
 *Source: Mythic Odysseys of Theros p. 229*  
 
 Most Setessan hoplites begin their training as hunters, making them skilled in traversing the woods and adept at both guerrilla tactics and archery. Their strategies often emulate the favored servants of Nylea—especially wild beasts like wolves and lynxes. Typically a few soldiers harry an enemy while the rest capitalize on their foe's distraction.
@@ -51,6 +51,8 @@ The three Hoplite Unit Names tables present the sorts of titles used by hoplite 
 
 **Setessan Hoplite Unit Names**
 
+`dice: [](setessan-hoplite-mot.md#^setessan-hoplite-unit-names)`
+
 | dice: d8 | Name |
 |----------|------|
 | 1 | Nylea's Arrows |
@@ -69,7 +71,7 @@ The three Hoplite Unit Names tables present the sorts of titles used by hoplite 
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "[leather](3-Mechanics/CLI/items/leather-armor.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[leather](3-Mechanics/CLI/items/leather-armor-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "58"
 "hit_dice": "9d8 + 18"
 "modifier": !!int "3"
@@ -92,8 +94,8 @@ The three Hoplite Unit Names tables present the sorts of titles used by hoplite 
   - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+5"
 "gear":
-  - "[longbow](3-Mechanics/CLI/items/longbow.md)"
-  - "[scimitar](3-Mechanics/CLI/items/scimitar.md)"
+  - "[longbow](3-Mechanics/CLI/items/longbow-xphb.md)"
+  - "[scimitar](3-Mechanics/CLI/items/scimitar-xphb.md)"
 "senses": "passive Perception 15"
 "languages": "Common"
 "cr": "4"
@@ -113,6 +115,6 @@ The three Hoplite Unit Names tables present the sorts of titles used by hoplite 
     "name": "Longbow"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/setessan-hoplite-mot.webp"
+"image": "file://bestiary/tokens/MOT/Setessan%20Hoplite.webp"
 ```
 ^statblock

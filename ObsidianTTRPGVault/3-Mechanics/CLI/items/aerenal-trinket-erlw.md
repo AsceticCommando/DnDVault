@@ -16,6 +16,8 @@ aliases:
 
 **Trinkets from Aerenal**
 
+`dice: [](aerenal-trinket-erlw.md#^trinkets-from-aerenal)`
+
 | dice: d8 | Trinket |
 |----------|---------|
 | 1 | A bronzewood ring inscribed with the Elvish word for "hope" |

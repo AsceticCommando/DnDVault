@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "War Priest"
 ---
-# [War Priest](3-Mechanics\CLI\bestiary\humanoid/war-priest-mpmm.md)
+# [War Priest](3-Mechanics/CLI/bestiary/humanoid/war-priest-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 254, Volo's Guide to Monsters p. 218*  
 
 War priests worship deities of war, protection, and strategy. They plan tactics, lead soldiers into battle, confront enemy spellcasters, and tend to casualties. A war priest might command an army or serve as the right hand of a [warlord](3-Mechanics/CLI/bestiary/humanoid/warlord-mpmm.md) (appears in "this book") on the battlefield.
@@ -23,16 +23,18 @@ War priests typically adorn themselves with a symbol of their faith. You can rol
 
 **War Priest Holy Symbols**
 
+`dice: [](war-priest-mpmm.md#^war-priest-holy-symbols)`
+
 | dice: d8 | Holy Symbol |
 |----------|-------------|
 | 1 | Vial of iridescent liquid |
 | 2 | Hilt of a broken sword |
 | 3 | Piece of stained glass from a shrine |
 | 4 | Clay figurine of a [ki-rin](3-Mechanics/CLI/bestiary/celestial/ki-rin-mpmm.md) or another Celestial |
-| 5 | [Torch](3-Mechanics/CLI/items/torch.md) carved so that a hand appears to be holding the flame |
+| 5 | [Torch](3-Mechanics/CLI/items/torch-xphb.md) carved so that a hand appears to be holding the flame |
 | 6 | Circlet of woven reeds |
 | 7 | Scrimshawed bone |
-| 8 | Vessel such as a cup, a [jug](3-Mechanics/CLI/items/jug.md), an urn, or an amphora |
+| 8 | Vessel such as a cup, a [jug](3-Mechanics/CLI/items/jug-xphb.md), an urn, or an amphora |
 ^war-priest-holy-symbols
 
 ```statblock
@@ -42,7 +44,7 @@ War priests typically adorn themselves with a symbol of their faith. You can rol
 "subtype": "cleric"
 "alignment": "Any alignment"
 "ac": !!int "18"
-"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor.md)"
+"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "117"
 "hit_dice": "18d8 + 36"
 "modifier": !!int "0"
@@ -63,7 +65,7 @@ War priests typically adorn themselves with a symbol of their faith. You can rol
   - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+4"
 "gear":
-  - "[maul](3-Mechanics/CLI/items/maul.md)"
+  - "[maul](3-Mechanics/CLI/items/maul-xphb.md)"
 "senses": "passive Perception 13"
 "languages": "any two languages"
 "cr": "9"
@@ -80,12 +82,13 @@ War priests typically adorn themselves with a symbol of their faith. You can rol
       \ takes half as much damage and isn't [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded)."
     "name": "Holy Fire"
   - "desc": "The war priest casts one of the following spells, using Wisdom as the\
-      \ spellcasting ability (spell save DC 15):\n\n**At will:** [light](3-Mechanics/CLI/spells/light.md),\
-      \ [spare the dying](3-Mechanics/CLI/spells/spare-the-dying.md), [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy.md)\n\
-      \n**1/day each:** [banishment](3-Mechanics/CLI/spells/banishment.md), [command](3-Mechanics/CLI/spells/command.md),\
-      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), [flame strike](3-Mechanics/CLI/spells/flame-strike.md),\
-      \ [guardian of faith](3-Mechanics/CLI/spells/guardian-of-faith.md), [hold person](3-Mechanics/CLI/spells/hold-person.md),\
-      \ [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration.md), [revivify](3-Mechanics/CLI/spells/revivify.md)"
+      \ spellcasting ability (spell save DC 15):\n\n**At will:** [light](3-Mechanics/CLI/spells/light-xphb.md),\
+      \ [spare the dying](3-Mechanics/CLI/spells/spare-the-dying-xphb.md), [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
+      \n**1/day each:** [banishment](3-Mechanics/CLI/spells/banishment-xphb.md), [command](3-Mechanics/CLI/spells/command-xphb.md),\
+      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [flame strike](3-Mechanics/CLI/spells/flame-strike-xphb.md),\
+      \ [guardian of faith](3-Mechanics/CLI/spells/guardian-of-faith-xphb.md), [hold\
+      \ person](3-Mechanics/CLI/spells/hold-person-xphb.md), [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md),\
+      \ [revivify](3-Mechanics/CLI/spells/revivify-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The war priest or one creature of its choice within 60 feet of it regains\
@@ -94,7 +97,7 @@ War priests typically adorn themselves with a symbol of their faith. You can rol
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/war-priest-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/War%20Priest.webp"
 ```
 ^statblock
 

@@ -12,6 +12,8 @@ aliases:
 
 **Gold Dragon Ideals**
 
+`dice: [](creating-a-gold-dragon-gold-dragon-ideals-ftd.md#^gold-dragon-ideals)`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Foresight. Righteous action requires carefully weighing potential consequences to ensure the cure is not worse than the disease. (Lawful) |

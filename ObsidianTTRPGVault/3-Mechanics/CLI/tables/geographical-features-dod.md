@@ -12,6 +12,8 @@ aliases:
 
 **Geographical Features**
 
+`dice: [](geographical-features-dod.md#^geographical-features)`
+
 | dice: d8 | Feature |
 |----------|---------|
 | 1 | A colossal, gnarled tree, its trunk riddled with passageways, halls, chambers, and staircases |

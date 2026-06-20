@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Nightmare Beast"
 ---
-# [Nightmare Beast](3-Mechanics\CLI\bestiary\monstrosity/nightmare-beast-mcv1sc.md)
+# [Nightmare Beast](3-Mechanics/CLI/bestiary/monstrosity/nightmare-beast-mcv1sc.md)
 *Source: Monstrous Compendium Volume 1: Spelljammer Creatures p. 10*  
 
 Nightmare beasts are enormous quadrupeds that stand 20 feet tall, or 40 feet tall when rearing on their hind legs.
@@ -86,6 +86,6 @@ Powerful spellcasters create nightmare beasts to serve as living siege engines. 
     "name": "Frightful Howl (Costs 2 Actions)"
 "source":
   - "MCV1SC"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/nightmare-beast-mcv1sc.webp"
+"image": "file://bestiary/tokens/MCV1SC/Nightmare%20Beast.webp"
 ```
 ^statblock

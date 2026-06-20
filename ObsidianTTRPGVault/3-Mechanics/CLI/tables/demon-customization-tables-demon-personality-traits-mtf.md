@@ -12,6 +12,8 @@ aliases:
 
 **Demon Personality Traits**
 
+`dice: [](demon-customization-tables-demon-personality-traits-mtf.md#^demon-personality-traits)`
+
 | dice: d6 | Trait |
 |----------|-------|
 | 1 | I enjoy telling lies. |

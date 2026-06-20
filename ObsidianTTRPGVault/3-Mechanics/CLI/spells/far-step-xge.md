@@ -4,14 +4,15 @@ cssclasses:
 - json5e-spell
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/spell/class/bard/magical-secrets
+- ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/sorcerer
 - ttrpg-cli/spell/class/warlock
 - ttrpg-cli/spell/class/wizard
+- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
 - ttrpg-cli/spell/level/5th-level
 - ttrpg-cli/spell/school/conjuration
 classes:
-- Bard (Magical Secrets)
+- Bard
 - Sorcerer
 - Warlock
 - Wizard
@@ -29,6 +30,6 @@ aliases:
 
 You teleport up to 60 feet to an unoccupied space you can see. On each of your turns before the spell ends, you can use a bonus action to teleport in this way again.
 
-**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 155*

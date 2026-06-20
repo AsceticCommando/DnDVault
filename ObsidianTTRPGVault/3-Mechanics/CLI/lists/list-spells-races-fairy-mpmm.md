@@ -11,12 +11,12 @@ aliases:
 
 ## Cantrip
 
-- [Druidcraft](3-Mechanics/CLI/spells/druidcraft.md "PHB") as cantrip
+- [Druidcraft](3-Mechanics/CLI/spells/druidcraft-xphb.md "XPHB") as cantrip
 
 ## 1st Level
 
-- [Faerie Fire](3-Mechanics/CLI/spells/faerie-fire.md "PHB") as cantrip
+- [Faerie Fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md "XPHB") at class level 3
 
 ## 2nd Level
 
-- [Enlarge/Reduce](3-Mechanics/CLI/spells/enlarge-reduce.md "PHB") as cantrip
+- [Enlarge/Reduce](3-Mechanics/CLI/spells/enlarge-reduce-xphb.md "XPHB") at class level 5

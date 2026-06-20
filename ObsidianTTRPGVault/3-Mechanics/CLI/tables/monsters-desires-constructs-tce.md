@@ -12,6 +12,8 @@ aliases:
 
 **Constructs**
 
+`dice: [](monsters-desires-constructs-tce.md#^constructs)`
+
 | dice: d4 | Desired Offering |
 |----------|------------------|
 | 1 | Oil to apply to the construct's joints |

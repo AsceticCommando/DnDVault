@@ -12,6 +12,8 @@ aliases:
 
 **Romantic Elements**
 
+`dice: [](romance-romantic-elements-vrgr.md#^romantic-elements)`
+
 | dice: d8 | Romantic Element |
 |----------|------------------|
 | 1 | The ghost hopes to be reunited with another ghost—the spirit of someone they loved in life. |

@@ -12,6 +12,8 @@ aliases:
 
 **Human Names – Chinese, Female**
 
+`dice: [](human-names-chinese-female-xge.md#^human-names-chinese-female)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Ai |

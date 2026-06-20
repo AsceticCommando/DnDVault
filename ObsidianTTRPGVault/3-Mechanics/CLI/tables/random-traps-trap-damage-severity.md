@@ -12,6 +12,8 @@ aliases:
 
 **Trap Damage Severity**
 
+`dice: [](random-traps-trap-damage-severity.md#^trap-damage-severity)`
+
 | dice: d6 | Damage Severity |
 |----------|-----------------|
 | 1-2 | Setback |

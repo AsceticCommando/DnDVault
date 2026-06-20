@@ -12,6 +12,8 @@ aliases:
 
 **Iroas's Quests**
 
+`dice: [](iroass-quests-mot.md#^iroass-quests)`
+
 | dice: d6 | Adventure Goal |
 |----------|----------------|
 | 1 | Defeat Returned bandits who are terrorizing the polis. |

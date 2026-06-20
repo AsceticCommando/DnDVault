@@ -11,4 +11,4 @@ aliases:
 
 ## 1st Level
 
-- [Thunderwave](3-Mechanics/CLI/spells/thunderwave.md "PHB")
+- [Thunderwave](3-Mechanics/CLI/spells/thunderwave-xphb.md "XPHB")

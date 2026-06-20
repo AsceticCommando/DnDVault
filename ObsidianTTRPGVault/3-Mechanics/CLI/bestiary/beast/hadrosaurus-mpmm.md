@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Hadrosaurus"
 ---
-# [Hadrosaurus](3-Mechanics\CLI\bestiary\beast/hadrosaurus-mpmm.md)
+# [Hadrosaurus](3-Mechanics/CLI/bestiary/beast/hadrosaurus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*  
 
 A hadrosaurus is a semi-quadrupedal herbivore with bony head crests. If raised from a hatchling, it can be trained to carry a rider.
@@ -51,7 +51,7 @@ A hadrosaurus is a semi-quadrupedal herbivore with bony head crests. If raised f
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/beast/token/hadrosaurus-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Hadrosaurus.webp"
 ```
 ^statblock
 

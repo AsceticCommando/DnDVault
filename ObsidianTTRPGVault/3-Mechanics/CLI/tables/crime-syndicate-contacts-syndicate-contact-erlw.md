@@ -12,6 +12,8 @@ aliases:
 
 **Syndicate Contact**
 
+`dice: [](crime-syndicate-contacts-syndicate-contact-erlw.md#^syndicate-contact)`
+
 | dice: d8 | Contact |
 |----------|---------|
 | 1 | A surrogate parent who views you as challenging but beloved children |

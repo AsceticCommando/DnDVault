@@ -17,7 +17,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Dire Troll"
 ---
-# [Dire Troll](3-Mechanics\CLI\bestiary\giant/dire-troll-mpmm.md)
+# [Dire Troll](3-Mechanics/CLI/bestiary/giant/dire-troll-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 246, Mordenkainen's Tome of Foes p. 243*  
 
 Trolls kill and eat almost anything—including, in rare cases, other trolls. This cannibalism has the effect of causing a troll to grow to an unusually large size. The resulting dire trolls crave more and more troll flesh to fuel their continued growth.
@@ -87,7 +87,7 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/giant/token/dire-troll-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Dire%20Troll.webp"
 ```
 ^statblock
 

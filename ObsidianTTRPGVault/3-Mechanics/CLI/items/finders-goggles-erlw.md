@@ -16,7 +16,7 @@ aliases:
 
 The lenses of these garish goggles are carved from Siberys dragonshards. While wearing these lenses, you gain the following benefits:
 
-- When you make a Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check, you can roll a `d4` and add the number rolled to the check.  
-- As an action, you can use the goggles to examine an object to identify the aura of the last creature that touched it. Make a Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check against a DC of 13 + the number of days since the last contact occurred. On a success, you learn the creature's type and can immediately use the goggles to cast [locate creature](3-Mechanics/CLI/spells/locate-creature.md) to find that creature. This property can't be used again until the next dawn.  
+- When you make a Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check, you can roll a `dice:d4|noform|noparens|avg` (`d4`) and add the number rolled to the check.  
+- As an action, you can use the goggles to examine an object to identify the aura of the last creature that touched it. Make a Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check against a DC of 13 + the number of days since the last contact occurred. On a success, you learn the creature's type and can immediately use the goggles to cast [locate creature](3-Mechanics/CLI/spells/locate-creature-xphb.md) to find that creature. This property can't be used again until the next dawn.  
 
 *Source: Eberron: Rising from the Last War p. 277*

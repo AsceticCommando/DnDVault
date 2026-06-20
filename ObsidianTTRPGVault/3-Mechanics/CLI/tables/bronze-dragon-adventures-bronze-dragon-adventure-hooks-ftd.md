@@ -12,6 +12,8 @@ aliases:
 
 **Bronze Dragon Adventure Hooks**
 
+`dice: [](bronze-dragon-adventures-bronze-dragon-adventure-hooks-ftd.md#^bronze-dragon-adventure-hooks)`
+
 | dice: d8 | Adventure Hook |
 |----------|----------------|
 | 1 | Attempts to salvage a sunken merchant ship are being thwarted by a bronze dragon who claims "finder's rights." |

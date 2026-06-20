@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Screaming Devilkin"
 ---
-# [Screaming Devilkin](3-Mechanics\CLI\bestiary\fey/screaming-devilkin-mff.md)
+# [Screaming Devilkin](3-Mechanics/CLI/bestiary/fey/screaming-devilkin-mff.md)
 *Source: Mordenkainen's Fiendish Folio p. 19*  
 
 The ferocious screaming devilkin are bizarre fey creatures spawned by overwhelming moments of panic. Despite their diabolic appearance and name, are denizens of the Feywild. Sages believe that their appearance derives from the primal fear inspired by fiendish creatures, while bards assert that panic, being such a repulsive emotion, is embodied by an equally ugly creature.
@@ -69,6 +69,6 @@ A flock of screaming devilkins can appreciate vicious cruelty in other creatures
     "name": "Barbed Tail"
 "source":
   - "MFF"
-"image": "3-Mechanics/CLI/bestiary/fey/token/screaming-devilkin-mff.webp"
+"image": "file://bestiary/tokens/MFF/Screaming%20Devilkin.webp"
 ```
 ^statblock

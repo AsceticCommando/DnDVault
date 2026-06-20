@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Greater Death Dragon"
 ---
-# [Greater Death Dragon](3-Mechanics\CLI\bestiary\undead/greater-death-dragon-dsotdq.md)
+# [Greater Death Dragon](3-Mechanics/CLI/bestiary/undead/greater-death-dragon-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 195*  
 
 Some death dragons manage to retain almost all of their former selves, albeit twisted by their state of being. These greater death dragons scheme to achieve their ends, all the while amassing and jealously guarding treasure hoards as they did in life. In battle, they are deadly foes, channeling the Cataclysmic fire that limns their bones and fuels their breath. They take cruel delight in snatching foes in their jaws, rushing into the air, then dropping the snared creatures to their doom.
@@ -98,6 +98,6 @@ A death dragon's bones burn with violet Cataclysmic fire, which it can unleash i
     "name": "Cataclysmic Rush (Costs 2 Actions)"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/undead/token/greater-death-dragon-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Greater%20Death%20Dragon.webp"
 ```
 ^statblock

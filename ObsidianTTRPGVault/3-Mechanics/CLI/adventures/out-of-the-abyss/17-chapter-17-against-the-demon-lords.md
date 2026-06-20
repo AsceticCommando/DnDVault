@@ -26,11 +26,11 @@ Over the course of their adventures, the characters have collected the component
 
 After [Vizeran DeVir](3-Mechanics/CLI/bestiary/npc/vizeran-devir-oota.md) uses these components to create the talisman known as the *dark heart* to draw forth the exiled demon lords from across the Underdark, he expects the adventurers to plant it in Menzoberranzan. Having learned from Vizeran's apprentice Grin Ousstyl of the archmage's secret goal to see the city destroyed, the characters might decide to place the *dark heart* talisman elsewhere, determining the battlefield for their confrontation with the demon lords (see "Let This Be Their Battlefield").
 
-![](3-Mechanics/CLI/adventures/out-of-the-abyss/img/110-ooa17-01.webp#center)
+![](file://adventure/OotA/110-ooa17-01.webp#center)
 
 ## Enacting the Plan
 
-Once the *dark heart* is in place, the ritual can begin. The adventurers and their allies take up a position not far from the *dark heart*, close to where the demons will appear. Where exactly depends on the placement of the talisman and the adventurers' own tactics and plans. They can use a [sending](3-Mechanics/CLI/spells/sending.md) spell to signal Vizeran to begin the ritual once the talisman is in place. (If none of the characters can cast [sending](3-Mechanics/CLI/spells/sending.md), Vizeran can provide the spell on a *spell scroll*).
+Once the *dark heart* is in place, the ritual can begin. The adventurers and their allies take up a position not far from the *dark heart*, close to where the demons will appear. Where exactly depends on the placement of the talisman and the adventurers' own tactics and plans. They can use a [sending](3-Mechanics/CLI/spells/sending-xphb.md) spell to signal Vizeran to begin the ritual once the talisman is in place. (If none of the characters can cast [sending](3-Mechanics/CLI/spells/sending-xphb.md), Vizeran can provide the spell on a *spell scroll*).
 
 Vizeran (assisted by Grin if the apprentice is available), performs the complex ritual in the sanctum of his tower. The ritual causes the *dark heart* to radiate a summons throughout the Underdark using the *faerzress*—an irresistible call drawing the demons toward it. When the ritual reaches its conclusion at the end of nine hours, portals of *faerzress* form. All the demons and demon lords in the Underdark are drawn through those portals, appearing together in the area around the *dark heart* talisman.
 
@@ -58,7 +58,7 @@ Wherever the players decide to place the talisman, their characters must travel 
 > Vizeran might also learn of Grin Ousstyl's betrayal of information to the adventurers, and choose to eliminate him immediately after he's served his purpose in assisting with the ritual. This might lead some characters back to Araj to aid the drow apprentice.
 ^staying-behind
 
-![](3-Mechanics/CLI/adventures/out-of-the-abyss/img/111-ooa17-02.webp#center)
+![](file://adventure/OotA/111-ooa17-02.webp#center)
 
 #### Araumycos
 
@@ -93,7 +93,7 @@ Most of the heroes' allies are of limited use against the demon lords—creature
 
 ##### Healing Support
 
-A character regains `2d6` hit points at the end of each of his or her turns, provided the character has at least 1 hit point remaining.
+A character regains `dice:2d6|noform|noparens|avg` (`2d6`) hit points at the end of each of his or her turns, provided the character has at least 1 hit point remaining.
 
 ##### Tactical Losses
 
@@ -128,7 +128,7 @@ Numerous other demons also pour through the portals. For a brief moment, all of 
 > 
 > "[Jimjar](3-Mechanics/CLI/bestiary/npc/jimjar-oota.md)" isn't at all who he appears. He is, in fact, a god or other great power in disguise—or the Chosen of such a power—and has been watching the heroes since their first encounter in Velkynvelve. His reasons for doing this are his own, but when push comes to shove, he can give the heroes some help in overcoming the demon lords.
 > 
-> At an opportune moment, [Jimjar](3-Mechanics/CLI/bestiary/npc/jimjar-oota.md) shows up (even returning from death if he appeared to perish earlier in the adventure) and gives the characters a vote of encouragement, telling them, "I bet you can do this." Each character gains inspiration and a [blessing of wound closure](3-Mechanics/CLI/rewards/blessing-of-wound-closure.md) (see ""Other Rewards"" in chapter 7 of the *Dungeon Master's Guide*). [Jimjar](3-Mechanics/CLI/bestiary/npc/jimjar-oota.md) disappears afterward, potentially putting in one last appearance at the end of the adventure to hint as to his true nature before vanishing into the Underdark.
+> At an opportune moment, [Jimjar](3-Mechanics/CLI/bestiary/npc/jimjar-oota.md) shows up (even returning from death if he appeared to perish earlier in the adventure) and gives the characters a vote of encouragement, telling them, "I bet you can do this." Each character gains inspiration and a [blessing of wound closure](3-Mechanics/CLI/rewards/blessing-of-wound-closure-xdmg.md) (see ""Other Rewards"" in chapter 7 of the *Dungeon Master's Guide*). [Jimjar](3-Mechanics/CLI/bestiary/npc/jimjar-oota.md) disappears afterward, potentially putting in one last appearance at the end of the adventure to hint as to his true nature before vanishing into the Underdark.
 > 
 > Who is [Jimjar](3-Mechanics/CLI/bestiary/npc/jimjar-oota.md) really? That depends on your characters and the campaign, but one of the characters' patron deities is a good possibility. He might also be a gnomish god such as Garl Glittergold or Callarduran Smoothhands, known tricksters and shapeshifters, and foes of demons and their ilk. The more important thing is that he serves as a "lucky charm" for the characters when they need him. This option works particularly well if the adventurers have been kind to the sometimes annoying deep gnome over the course of the campaign, earning his respect and gratitude.
 ^option-jimjars-last-gamble
@@ -139,31 +139,33 @@ Ideally, the adventurers and their allies remain hidden from the battling demons
 
 #### Demon Sortie
 
-Rampaging lesser demons discover one or more of the characters where they wait out the battle, attacking at once. Roll a `d4` to determine the demons involved.
+Rampaging lesser demons discover one or more of the characters where they wait out the battle, attacking at once. Roll a `dice:d4|noform|noparens|avg` (`d4`) to determine the demons involved.
 
 #### Demon Sortie Force
 
+`dice: [](17-chapter-17-against-the-demon-lords.md#^demon-sortie)`
+
 | dice: d4 | Demon Sortie |
 |----------|--------------|
-| 1 | 4 [barlguras](3-Mechanics/CLI/bestiary/fiend/barlgura.md) |
-| 2 | 4 [chasmes](3-Mechanics/CLI/bestiary/fiend/chasme.md) |
-| 3 | 2 [hezrous](3-Mechanics/CLI/bestiary/fiend/hezrou.md) |
-| 4 | 3 [vrocks](3-Mechanics/CLI/bestiary/fiend/vrock.md) |
+| 1 | 4 [barlguras](3-Mechanics/CLI/bestiary/fiend/barlgura-xmm.md) |
+| 2 | 4 [chasmes](3-Mechanics/CLI/bestiary/fiend/chasme-xmm.md) |
+| 3 | 2 [hezrous](3-Mechanics/CLI/bestiary/fiend/hezrou-xmm.md) |
+| 4 | 3 [vrocks](3-Mechanics/CLI/bestiary/fiend/vrock-xmm.md) |
 ^demon-sortie
 
 #### Demon Thief
 
-An [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) [quasit](3-Mechanics/CLI/bestiary/fiend/quasit.md) tries to steal a small, valuable item from a party member. The target must succeed on a DC 13 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check to notice the theft as it happens. On a failed check, the quasit makes off with the item undetected. You can make the search for the item a loose thread for the conclusion of the adventure. Alternatively, have the quasit killed during the battle, with the stolen item turning up in the aftermath.
+An [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) [quasit](3-Mechanics/CLI/bestiary/fiend/quasit-xmm.md) tries to steal a small, valuable item from a party member. The target must succeed on a DC 13 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check to notice the theft as it happens. On a failed check, the quasit makes off with the item undetected. You can make the search for the item a loose thread for the conclusion of the adventure. Alternatively, have the quasit killed during the battle, with the stolen item turning up in the aftermath.
 
 #### Endangered Allies
 
-If any of the player characters' allies are accompanying them, a demon sortie (see above) attacks the NPCs. The characters must decide whether or not to break cover to aid their allies against the demons. If they do, another demon sortie attacks them `1d4` rounds later.
+If any of the player characters' allies are accompanying them, a demon sortie (see above) attacks the NPCs. The characters must decide whether or not to break cover to aid their allies against the demons. If they do, another demon sortie attacks them `dice:1d4|noform|noparens|avg` (`1d4`) rounds later.
 
 > [!note] Option: Playing Out the Battle Option
 > 
 > Rather than focusing on the adventurers biding their time and dealing with the fallout of the titanic battle between the demon lords, you can shift focus for this part of the adventure. Consider having the players take control of the various demon lords from appendix D, then play out the conflict between them.
 > 
-> Assign each player an available demon lord, or allow players to choose one demon lord to control during the battle. You manage any of the remaining demon lords. If there aren't enough demon lords for all the players, you can use [balors](3-Mechanics/CLI/bestiary/fiend/balor.md) or other powerful demons to round out their numbers.
+> Assign each player an available demon lord, or allow players to choose one demon lord to control during the battle. You manage any of the remaining demon lords. If there aren't enough demon lords for all the players, you can use [balors](3-Mechanics/CLI/bestiary/fiend/balor-xmm.md) or other powerful demons to round out their numbers.
 > 
 > The players control the demons in their battle to the death, with the only restriction being that they can't withdraw from the combat. Brief tactical retreats are permissible, but Vizeran's ritual has filled the demon lords with the rage to do battle.
 > 
@@ -172,18 +174,20 @@ If any of the player characters' allies are accompanying them, a demon sortie (s
 
 #### Near Miss
 
-The battle between the demon lords shifts dangerously close to the characters. Roll a `d6` and consult the Near Miss table to determine the result.
+The battle between the demon lords shifts dangerously close to the characters. Roll a `dice:d6|noform|noparens|avg` (`d6`) and consult the Near Miss table to determine the result.
+
+`dice: [](17-chapter-17-against-the-demon-lords.md#^event)`
 
 | dice: d6 | Event |
 |----------|-------|
-| 1–2 | **Explosion**. Each creature within 20 feet of a point you choose must make a DC 13 Dexterity saving throw. On a failure, the creature takes `3d6` fire damage, or half as much damage on a success. |
-| 3–4 | **Flying Debris**. Each creature within 30 feet of a point you choose must make a DC 13 Dexterity saving throw, taking `3d6` bludgeoning damage and falling [prone](3-Mechanics/CLI/rules/conditions.md#Prone) on a failure. |
-| 5–6 | **Close Call**. A character you choose must make a successful DC 13 Dexterity saving throw to dodge a stray attack. On a failed save, the character takes `3d6` bludgeoning damage. |
+| 1–2 | **Explosion**. Each creature within 20 feet of a point you choose must make a DC 13 Dexterity saving throw. On a failure, the creature takes `dice:3d6\|noform\|noparens\|avg` (`3d6`) fire damage, or half as much damage on a success. |
+| 3–4 | **Flying Debris**. Each creature within 30 feet of a point you choose must make a DC 13 Dexterity saving throw, taking `dice:3d6\|noform\|noparens\|avg` (`3d6`) bludgeoning damage and falling [prone](3-Mechanics/CLI/rules/conditions.md#Prone) on a failure. |
+| 5–6 | **Close Call**. A character you choose must make a successful DC 13 Dexterity saving throw to dodge a stray attack. On a failed save, the character takes `dice:3d6\|noform\|noparens\|avg` (`3d6`) bludgeoning damage. |
 ^event
 
 #### Threatened Bystanders
 
-If the battle takes place in a populated area such as Menzoberranzan, the characters spot bystanders under attack by lesser demons that prefer to take on easy prey rather than fighting against their own kind. A dozen [dretches](3-Mechanics/CLI/bestiary/fiend/dretch.md) or [manes](3-Mechanics/CLI/bestiary/fiend/manes.md) (50 percent chance of either) attack, killing and consuming their mortal victims unless the adventurers intervene.
+If the battle takes place in a populated area such as Menzoberranzan, the characters spot bystanders under attack by lesser demons that prefer to take on easy prey rather than fighting against their own kind. A dozen [dretches](3-Mechanics/CLI/bestiary/fiend/dretch-xmm.md) or [manes](3-Mechanics/CLI/bestiary/fiend/manes-xmm.md) (50 percent chance of either) attack, killing and consuming their mortal victims unless the adventurers intervene.
 
 ## Against Demogorgon
 
@@ -202,14 +206,14 @@ Demogorgon has been wounded during the fight, giving the characters an edge in t
 
 - Demogorgon has 290 hit points remaining and can't regain hit points due to the disruptive nature of Vizeran's *faerzress*-empowered ritual.  
 - He has only one use of Legendary Resistance remaining for the day.  
-- His [feeblemind](3-Mechanics/CLI/spells/feeblemind.md) innate spell is expended, as are all but one use each of [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), [fear](3-Mechanics/CLI/spells/fear.md), and [telekinesis](3-Mechanics/CLI/spells/telekinesis.md).  
+- His [feeblemind](3-Mechanics/CLI/spells/befuddlement-xphb.md) innate spell is expended, as are all but one use each of [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [fear](3-Mechanics/CLI/spells/fear-xphb.md), and [telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md).  
 - With all the other demon lords banished back to the Abyss, Demogorgon becomes the focus of the disruptive power of Vizeran's ritual. This imposes a −5 penalty to his attack rolls, ability checks, and saving throws.  
 
 Even in his weakened state, the demon lord remains a terrifying opponent, attacking the adventurers in a howling fury as battle is joined.
 
 ### Wand of Orcus
 
-When Orcus is defeated, he drops the [Wand of Orcus](3-Mechanics/CLI/items/wand-of-orcus.md) (see "chapter 7" of the *Dungeon Master's Guide*), which falls to the ground. A party member can try to grab the wand before Demogorgon seizes it as a trophy, but any such theft draws the attention and ire of the Prince of Demons. Angry at its master's defeat, the [Wand of Orcus](3-Mechanics/CLI/items/wand-of-orcus.md) tries to attune itself to the first willing creature other than Demogorgon that touches it. The attunement is instantaneous, allowing the wand's properties to be used during the battle.
+When Orcus is defeated, he drops the [Wand of Orcus](3-Mechanics/CLI/items/wand-of-orcus-xdmg.md) (see "chapter 7" of the *Dungeon Master's Guide*), which falls to the ground. A party member can try to grab the wand before Demogorgon seizes it as a trophy, but any such theft draws the attention and ire of the Prince of Demons. Angry at its master's defeat, the [Wand of Orcus](3-Mechanics/CLI/items/wand-of-orcus-xdmg.md) tries to attune itself to the first willing creature other than Demogorgon that touches it. The attunement is instantaneous, allowing the wand's properties to be used during the battle.
 
 ### Destroying Demogorgon
 

@@ -4,15 +4,16 @@ cssclasses:
 - json5e-spell
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/spell/class/bard/magical-secrets
+- ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/sorcerer
 - ttrpg-cli/spell/class/warlock
 - ttrpg-cli/spell/class/wizard
+- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
 - ttrpg-cli/spell/level/7th-level
 - ttrpg-cli/spell/school/enchantment
 - ttrpg-cli/spell/subclass/arcana-domain
 classes:
-- Bard (Magical Secrets)
+- Bard
 - Cleric (Arcana Domain)
 - Sorcerer
 - Warlock
@@ -35,6 +36,6 @@ While the target is affected by crippling pain, any speed it has can be no highe
 
 A target suffering this pain can make a Constitution saving throw at the end of each of its turns. On a successful save, the pain ends.
 
-**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](3-Mechanics/CLI/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG"); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](3-Mechanics/CLI/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 163*

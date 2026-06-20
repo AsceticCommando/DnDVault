@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Mind Flayer Psion"
 ---
-# [Mind Flayer Psion](3-Mechanics\CLI\bestiary\aberration/mind-flayer-psion-vgm.md)
+# [Mind Flayer Psion](3-Mechanics/CLI/bestiary/aberration/mind-flayer-psion-vgm.md)
 *Source: Volo's Guide to Monsters p. 71*  
 
 Mind flayers sometimes devote themselves to deeper study of psionic power, and many excel at using their innate psionic energy to duplicate the casting of spells.
@@ -48,7 +48,7 @@ Illithids subsist on the brains of humanoids. The brains provide enzymes, hormon
 "type": "aberration"
 "alignment": "Lawful Evil"
 "ac": !!int "15"
-"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate.md)"
+"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate-xphb.md)"
 "hp": !!int "71"
 "hit_dice": "13d8 + 13"
 "modifier": !!int "1"
@@ -85,21 +85,21 @@ Illithids subsist on the brains of humanoids. The brains provide enzymes, hormon
   - "desc": "The mind flayer is a 10th-level spellcaster. Its innate spellcasting\
       \ ability is Intelligence (spell save DC 15; +7 to hit with spell attacks).\
       \ It can innately cast the following spells, requiring no components:\n\n**At\
-      \ will:** [guidance](3-Mechanics/CLI/spells/guidance.md), [mage hand](3-Mechanics/CLI/spells/mage-hand.md),\
-      \ [vicious mockery](3-Mechanics/CLI/spells/vicious-mockery.md), [true strike](3-Mechanics/CLI/spells/true-strike.md),\
-      \ [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md), [levitate](3-Mechanics/CLI/spells/levitate.md)\n\
-      \n**1/day each:** [dominate monster](3-Mechanics/CLI/spells/dominate-monster.md),\
-      \ [plane shift](3-Mechanics/CLI/spells/plane-shift.md) (self only)\n\n**1st\
-      \ level (4 slots):** [charm person](3-Mechanics/CLI/spells/charm-person.md),\
-      \ [command](3-Mechanics/CLI/spells/command.md), [comprehend languages](3-Mechanics/CLI/spells/comprehend-languages.md),\
-      \ [sanctuary](3-Mechanics/CLI/spells/sanctuary.md)\n\n**2nd level (3 slots):**\
-      \ [crown of madness](3-Mechanics/CLI/spells/crown-of-madness.md), [phantasmal\
-      \ force](3-Mechanics/CLI/spells/phantasmal-force.md), [see invisibility](3-Mechanics/CLI/spells/see-invisibility.md)\n\
-      \n**3rd level (3 slots):** [clairvoyance](3-Mechanics/CLI/spells/clairvoyance.md),\
-      \ [fear](3-Mechanics/CLI/spells/fear.md), [meld into stone](3-Mechanics/CLI/spells/meld-into-stone.md)\n\
-      \n**4th level (3 slots):** [confusion](3-Mechanics/CLI/spells/confusion.md),\
-      \ [stone shape](3-Mechanics/CLI/spells/stone-shape.md)\n\n**5th level (2 slots):**\
-      \ [scrying](3-Mechanics/CLI/spells/scrying.md), [telekinesis](3-Mechanics/CLI/spells/telekinesis.md)"
+      \ will:** [guidance](3-Mechanics/CLI/spells/guidance-xphb.md), [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [vicious mockery](3-Mechanics/CLI/spells/vicious-mockery-xphb.md), [true strike](3-Mechanics/CLI/spells/true-strike-xphb.md),\
+      \ [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md), [levitate](3-Mechanics/CLI/spells/levitate-xphb.md)\n\
+      \n**1/day each:** [dominate monster](3-Mechanics/CLI/spells/dominate-monster-xphb.md),\
+      \ [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md) (self only)\n\n\
+      **1st level (4 slots):** [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md),\
+      \ [command](3-Mechanics/CLI/spells/command-xphb.md), [comprehend languages](3-Mechanics/CLI/spells/comprehend-languages-xphb.md),\
+      \ [sanctuary](3-Mechanics/CLI/spells/sanctuary-xphb.md)\n\n**2nd level (3 slots):**\
+      \ [crown of madness](3-Mechanics/CLI/spells/crown-of-madness-xphb.md), [phantasmal\
+      \ force](3-Mechanics/CLI/spells/phantasmal-force-xphb.md), [see invisibility](3-Mechanics/CLI/spells/see-invisibility-xphb.md)\n\
+      \n**3rd level (3 slots):** [clairvoyance](3-Mechanics/CLI/spells/clairvoyance-xphb.md),\
+      \ [fear](3-Mechanics/CLI/spells/fear-xphb.md), [meld into stone](3-Mechanics/CLI/spells/meld-into-stone-xphb.md)\n\
+      \n**4th level (3 slots):** [confusion](3-Mechanics/CLI/spells/confusion-xphb.md),\
+      \ [stone shape](3-Mechanics/CLI/spells/stone-shape-xphb.md)\n\n**5th level (2\
+      \ slots):** [scrying](3-Mechanics/CLI/spells/scrying-xphb.md), [telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md)"
     "name": "Innate Spellcasting (Psionics)"
   - "desc": "The mind flayer has advantage on saving throws against spells and other\
       \ magical effects."
@@ -125,7 +125,7 @@ Illithids subsist on the brains of humanoids. The brains provide enzymes, hormon
     "name": "Mind Blast (Recharge 5-6)"
 "source":
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/mind-flayer-psion-vgm.webp"
+"image": "file://bestiary/tokens/VGM/Mind%20Flayer%20Psion.webp"
 ```
 ^statblock
 

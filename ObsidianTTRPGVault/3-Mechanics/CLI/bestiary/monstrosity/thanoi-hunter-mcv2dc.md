@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Thanoi Hunter"
 ---
-# [Thanoi Hunter](3-Mechanics\CLI\bestiary\monstrosity/thanoi-hunter-mcv2dc.md)
+# [Thanoi Hunter](3-Mechanics/CLI/bestiary/monstrosity/thanoi-hunter-mcv2dc.md)
 *Source: Monstrous Compendium Volume 2: Dragonlance Creatures p. 12*  
 
 Thanoi are walrus-like beings who dwell in the frozen wastelands of Krynn. They sport thick, ivory tusks, which they use both to defend themselves and to poke breathing holes in sea ice as they swim.
@@ -25,7 +25,7 @@ Often at odds with the monstrous creatures that live in the frozen wastes, thano
 "type": "monstrosity"
 "alignment": "Any alignment"
 "ac": !!int "14"
-"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor.md)"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor-xphb.md)"
 "hp": !!int "32"
 "hit_dice": "5d8 + 10"
 "modifier": !!int "2"
@@ -70,6 +70,6 @@ Often at odds with the monstrous creatures that live in the frozen wastes, thano
     "name": "Tusk"
 "source":
   - "MCV2DC"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/thanoi-hunter-mcv2dc.webp"
+"image": "file://bestiary/tokens/MCV2DC/Thanoi%20Hunter.webp"
 ```
 ^statblock

@@ -18,7 +18,7 @@ aliases:
 > 
 > Kytheon gaped, both at the spear and at the task the god had set before him.
 
-![Within his workshop, the t...](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/141-05-01.webp#center "Within his workshop, the triton genius Dalakos equips a satyr and leonin with the tools they need to become legends")
+![Within his workshop, the triton genius Dalakos equips a satyr and leonin with the tools they need to become legends](file://book/MOT/141-05-01.webp#center)
 
 On Theros, magic items carry reputations as rich and storied as those who wield them. They might take form in the god-realm of Nyx, spring from Purphoros's forge in Mount Velus, or come from legendary mortal smiths. Some crafters create great works to put an end to a specific peril, while others create to honor the gods. The most renowned works are the weapons of the gods themselves, treasures synonymous with divine power that forge legends with their every use.
 
@@ -30,7 +30,7 @@ The following sections explore some of the magic items that heroes might encount
 
 Just as the heroes of Theros carry great destinies, so too do many of the magic items they encounter. The common folk don't typically possess magic items, yet adventurers come across them with some regularity—further evidencing the divine favor most enjoy. Nearly every magic item was created with a purpose and often carries with it a role in some greater story, whether an epic long ended or one yet untold.
 
-As DM, feel free to make ordinary magic items feel like they have significant history and purpose. Even a [+1 spear](3-Mechanics/CLI/items/1-weapon.md) might have been carried by a company of hoplite veterans that went missing during their quest to reach the edge of the world. Wands might be crafted from legendary sources, while potions might bear the seals of famed alchemists or include signature reagents—like a pegasus feather in a [potion of flying](3-Mechanics/CLI/items/potion-of-flying.md). The Remarkable Origins table offers just a few ways to suggest a magic item's remarkable pedigree without altering its magical properties.
+As DM, feel free to make ordinary magic items feel like they have significant history and purpose. Even a [+1 spear](3-Mechanics/CLI/items/1-weapon-xdmg.md) might have been carried by a company of hoplite veterans that went missing during their quest to reach the edge of the world. Wands might be crafted from legendary sources, while potions might bear the seals of famed alchemists or include signature reagents—like a pegasus feather in a [potion of flying](3-Mechanics/CLI/items/potion-of-flying-xdmg.md). The Remarkable Origins table offers just a few ways to suggest a magic item's remarkable pedigree without altering its magical properties.
 
 Certain treasures might also be the objects of heroic quests. For example, one might not be considered a true hero until one follows in the footsteps of past legends and either makes or claims one's own magical garment from the wool of a [Nyx-fleece ram](3-Mechanics/CLI/bestiary/monstrosity/nyx-fleece-ram-mot.md) (see "chapter 6"). You can also use the tables in "chapter 7" of the "Dungeon Master's Guide" to help further inspire the story you create for a magic item.
 

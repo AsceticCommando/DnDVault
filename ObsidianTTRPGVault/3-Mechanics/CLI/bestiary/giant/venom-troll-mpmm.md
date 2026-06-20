@@ -15,7 +15,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Venom Troll"
 ---
-# [Venom Troll](3-Mechanics\CLI\bestiary\giant/venom-troll-mpmm.md)
+# [Venom Troll](3-Mechanics/CLI/bestiary/giant/venom-troll-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 248, Mordenkainen's Tome of Foes p. 245*  
 
 A troll that survives massive doses of poison might transform into a venom troll. Lingering poison infuses the troll's blood and tissue, and poison leaks from the pores to coat the troll's fangs and claws. These creatures are especially dangerous in close combat because poison drips off their flesh and sprays out from every wound they receive.
@@ -89,7 +89,7 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/giant/token/venom-troll-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Venom%20Troll.webp"
 ```
 ^statblock
 

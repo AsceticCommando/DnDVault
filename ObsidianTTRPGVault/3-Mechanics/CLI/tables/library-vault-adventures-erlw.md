@@ -12,6 +12,8 @@ aliases:
 
 **Library Vault Adventures**
 
+`dice: [](library-vault-adventures-erlw.md#^library-vault-adventures)`
+
 | dice: d6 | Adventure Goal |
 |----------|----------------|
 | 1 | Destroy a scroll containing an incantation that allows even non-spellcasters to animate the dead. |

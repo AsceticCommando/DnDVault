@@ -11,12 +11,12 @@ aliases:
 
 ## Cantrip
 
-- [Ray of Frost](3-Mechanics/CLI/spells/ray-of-frost.md "PHB") as 2nd-level, at class level 3
+- [Ray of Frost](3-Mechanics/CLI/spells/ray-of-frost-xphb.md "XPHB") as cantrip
 
 ## 1st Level
 
-- [Armor of Agathys](3-Mechanics/CLI/spells/armor-of-agathys.md "PHB") as 2nd-level, at class level 3
+- [Armor of Agathys](3-Mechanics/CLI/spells/armor-of-agathys-xphb.md "XPHB") as 2nd-level, at class level 3
 
 ## 2nd Level
 
-- [Darkness](3-Mechanics/CLI/spells/darkness.md "PHB") as 2nd-level, at class level 3
+- [Darkness](3-Mechanics/CLI/spells/darkness-xphb.md "XPHB") at class level 5

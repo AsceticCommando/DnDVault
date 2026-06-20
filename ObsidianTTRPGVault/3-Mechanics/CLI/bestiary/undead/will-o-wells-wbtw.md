@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Will-o'-Wells"
 ---
-# [Will-o'-Wells](3-Mechanics\CLI\bestiary\undead/will-o-wells-wbtw.md)
+# [Will-o'-Wells](3-Mechanics/CLI/bestiary/undead/will-o-wells-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 61*  
 
 ```statblock
@@ -76,6 +76,6 @@ aliases:
     "name": "Magic Boon (Recharges after a Long Rest)"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/undead/token/will-o-wells-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Will-o%27-Wells.webp"
 ```
 ^statblock

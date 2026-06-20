@@ -12,6 +12,8 @@ aliases:
 
 **Daask Assignments**
 
+`dice: [](daask-assignments-erlw.md#^daask-assignments)`
+
 | dice: d6 | Assignment |
 |----------|------------|
 | 1 | Convince several new businesses in the lower wards to pay protection fees to Daask. |

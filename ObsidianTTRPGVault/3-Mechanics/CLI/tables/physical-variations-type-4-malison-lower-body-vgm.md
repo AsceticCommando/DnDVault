@@ -12,6 +12,8 @@ aliases:
 
 **Type 4 Malison: Lower Body**
 
+`dice: [](physical-variations-type-4-malison-lower-body-vgm.md#^type-4-malison-lower-body)`
+
 | dice: d20 | Malison Type 4 Lower Body |
 |-----------|---------------------------|
 | 1-7 | Human legs and large snake tail |

@@ -12,14 +12,14 @@ statblock-link: "#^statblock"
 aliases:
 - "Jabberwock"
 ---
-# [Jabberwock](3-Mechanics\CLI\bestiary\dragon/jabberwock-wbtw.md)
+# [Jabberwock](3-Mechanics/CLI/bestiary/dragon/jabberwock-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 236*  
 
 A jabberwock is a solitary, temperamental predator that haunts pristine forests and ancient ruins. Accurate descriptions of jabberwocks are difficult to come by, because the rare survivors of an encounter with one retain only a confused impression of its parts and not a sense of the whole. Pieced-together accounts describe it as a sinewy, dragon-like creature that can walk on its hind legs as easily as it travels on all four. Its eyes can emit fiery beams.
 
 Once a jabberwock has chosen its target, it concentrates its attacks on that target until the victim is killed (and devoured), until the jabberwock is killed, or until the target escapes using teleportation magic or other means.
 
-If a jabberwock is slain, another one appears `3d8` years later, materializing within a thousand miles of where the old one perished. No immature jabberwock has ever been sighted, and the creature does not appear to age.
+If a jabberwock is slain, another one appears `dice:3d8|noform|noparens|avg` (`3d8`) years later, materializing within a thousand miles of where the old one perished. No immature jabberwock has ever been sighted, and the creature does not appear to age.
 
 ```statblock
 "name": "Jabberwock (WBtW)"
@@ -108,6 +108,6 @@ If a jabberwock is slain, another one appears `3d8` years later, materializing w
     "name": "Wing Attack (3 Actions)"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/jabberwock-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Jabberwock.webp"
 ```
 ^statblock

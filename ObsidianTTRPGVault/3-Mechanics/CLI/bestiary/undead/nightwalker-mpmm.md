@@ -16,7 +16,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Nightwalker"
 ---
-# [Nightwalker](3-Mechanics\CLI\bestiary\undead/nightwalker-mpmm.md)
+# [Nightwalker](3-Mechanics/CLI/bestiary/undead/nightwalker-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 194, Mordenkainen's Tome of Foes p. 216*  
 
 The Negative Plane is a place of death, anathema to all living things. Yet there are some who would tap into its fell power and use its energy for sinister ends. Most individuals prove unequal to the task. Those not destroyed outright are sometimes drawn inside the plane and replaced by nightwalkers—terrifying Undead creatures that devour all life they encounter.
@@ -62,7 +62,7 @@ Generally, a nightwalker on the Material Plane is attracted to elements of the w
       \ Undead are immune to this aura."
     "name": "Annihilating Aura"
   - "desc": "A creature dies if reduced to 0 hit points by the nightwalker and can't\
-      \ be revived except by a [wish](3-Mechanics/CLI/spells/wish.md) spell."
+      \ be revived except by a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell."
     "name": "Life Eater"
   - "desc": "The nightwalker doesn't require air, food, drink, or sleep."
     "name": "Unusual Nature"
@@ -87,7 +87,7 @@ Generally, a nightwalker on the Material Plane is attracted to elements of the w
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/undead/token/nightwalker-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Nightwalker.webp"
 ```
 ^statblock
 

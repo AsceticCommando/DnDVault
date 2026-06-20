@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Frulam Mondath"
 ---
-# [Frulam Mondath](3-Mechanics\CLI\bestiary\npc/frulam-mondath-hotdq.md)
+# [Frulam Mondath](3-Mechanics/CLI/bestiary/npc/frulam-mondath-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 90, Tyranny of Dragons p. 184*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "human"
 "alignment": "Lawful Evil"
 "ac": !!int "16"
-"ac_class": "[chain mail](3-Mechanics/CLI/items/chain-mail.md)"
+"ac_class": "[chain mail](3-Mechanics/CLI/items/chain-mail-xphb.md)"
 "hp": !!int "44"
 "hit_dice": "8d8 + 8"
 "modifier": !!int "0"
@@ -45,22 +45,22 @@ aliases:
   - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+2"
 "gear":
-  - "[halberd](3-Mechanics/CLI/items/halberd.md)"
+  - "[halberd](3-Mechanics/CLI/items/halberd-xphb.md)"
 "senses": "passive Perception 14"
 "languages": "Common, Draconic, Infernal"
 "cr": "2"
 "traits":
   - "desc": "Frulam is a 5th-level spellcaster that uses Wisdom as her spellcasting\
       \ ability (spell save DC 14, +6 to hit with spell attacks). Frulam has the following\
-      \ spells prepared from the cleric spell list:\n\n**Cantrips (at will):** [light](3-Mechanics/CLI/spells/light.md),\
-      \ [sacred flame](3-Mechanics/CLI/spells/sacred-flame.md), [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy.md)\n\
-      \n**1st level (4 slots):** [command](3-Mechanics/CLI/spells/command.md), [cure\
-      \ wounds](3-Mechanics/CLI/spells/cure-wounds.md), [healing word](3-Mechanics/CLI/spells/healing-word.md),\
-      \ [sanctuary](3-Mechanics/CLI/spells/sanctuary.md)\n\n**2nd level (3 slots):**\
-      \ [calm emotions](3-Mechanics/CLI/spells/calm-emotions.md), [hold person](3-Mechanics/CLI/spells/hold-person.md),\
-      \ [spiritual weapon](3-Mechanics/CLI/spells/spiritual-weapon.md)\n\n**3rd level\
-      \ (2 slots):** [mass healing word](3-Mechanics/CLI/spells/mass-healing-word.md),\
-      \ [spirit guardians](3-Mechanics/CLI/spells/spirit-guardians.md)"
+      \ spells prepared from the cleric spell list:\n\n**Cantrips (at will):** [light](3-Mechanics/CLI/spells/light-xphb.md),\
+      \ [sacred flame](3-Mechanics/CLI/spells/sacred-flame-xphb.md), [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
+      \n**1st level (4 slots):** [command](3-Mechanics/CLI/spells/command-xphb.md),\
+      \ [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md), [healing word](3-Mechanics/CLI/spells/healing-word-xphb.md),\
+      \ [sanctuary](3-Mechanics/CLI/spells/sanctuary-xphb.md)\n\n**2nd level (3 slots):**\
+      \ [calm emotions](3-Mechanics/CLI/spells/calm-emotions-xphb.md), [hold person](3-Mechanics/CLI/spells/hold-person-xphb.md),\
+      \ [spiritual weapon](3-Mechanics/CLI/spells/spiritual-weapon-xphb.md)\n\n**3rd\
+      \ level (2 slots):** [mass healing word](3-Mechanics/CLI/spells/mass-healing-word-xphb.md),\
+      \ [spirit guardians](3-Mechanics/CLI/spells/spirit-guardians-xphb.md)"
     "name": "Spellcasting"
 "actions":
   - "desc": "Frulam attacks twice with her halberd."
@@ -71,6 +71,6 @@ aliases:
 "source":
   - "HotDQ"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/npc/token/frulam-mondath-hotdq.webp"
+"image": "file://bestiary/tokens/HotDQ/Frulam%20Mondath.webp"
 ```
 ^statblock

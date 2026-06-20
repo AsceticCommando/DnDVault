@@ -12,6 +12,8 @@ aliases:
 
 **Passage**
 
+`dice: [](passages-passage.md#^passage)`
+
 | dice: d20 | Detail |
 |-----------|--------|
 | 1-2 | Continue straight 30 ft., no doors or side passages |

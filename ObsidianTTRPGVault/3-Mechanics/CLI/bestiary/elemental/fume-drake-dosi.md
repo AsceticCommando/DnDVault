@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Fume Drake"
 ---
-# [Fume Drake](3-Mechanics\CLI\bestiary\elemental/fume-drake-dosi.md)
+# [Fume Drake](3-Mechanics/CLI/bestiary/elemental/fume-drake-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 41*  
 
 Fume drakes are mischievous creatures that arise from the lingering magical energy of a dead dragon. They resemble small, legless dragons formed from clouds of greenish smoke. They delight in causing pain and confusion in other creatures.
@@ -57,6 +57,6 @@ Fume drakes are mischievous creatures that arise from the lingering magical ener
     "name": "Scalding Breath (Recharge 6)"
 "source":
   - "DoSI"
-"image": "3-Mechanics/CLI/bestiary/elemental/token/fume-drake-dosi.webp"
+"image": "file://bestiary/tokens/DoSI/Fume%20Drake.webp"
 ```
 ^statblock

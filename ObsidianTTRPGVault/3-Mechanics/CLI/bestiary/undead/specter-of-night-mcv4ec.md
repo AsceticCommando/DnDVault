@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Specter of Night"
 ---
-# [Specter of Night](3-Mechanics\CLI\bestiary\undead/specter-of-night-mcv4ec.md)
+# [Specter of Night](3-Mechanics/CLI/bestiary/undead/specter-of-night-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 Like dark mirrors of Eldraine's archons (see "[Archon of Boundaries](3-Mechanics/CLI/bestiary/celestial/archon-of-boundaries-mcv4ec.md)"), specters appear as shrouded figures mounted on horrific flying beasts. It is easy to look at a specter and imagine the rider in command of the mount, but the truth is the opposite; the flying horror is an Undead monster that scours the wilds for a knightly corpse. On finding one, the horror binds its essence to the dead body, giving the corpse the semblance of life as a rider. The two function as a single creature, more powerful for their unnatural union.
@@ -72,7 +72,7 @@ Humans of Eldraine view specters as heralds of death. Specters are said to utter
       \ death.\n\nA creature marked for death can't regain hit points, has disadvantage\
       \ on death saving throws, and all attack rolls against it are made with advantage.\
       \ This effect lasts for 1 minute or until the creature is targeted by a [remove\
-      \ curse](3-Mechanics/CLI/spells/remove-curse.md) spell or similar magic."
+      \ curse](3-Mechanics/CLI/spells/remove-curse-xphb.md) spell or similar magic."
     "name": "Mournful Keening (Recharge 6)"
   - "desc": "*Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 12\
       \ (1d12 + 6) slashing damage plus 28 (8d6) necrotic damage. If the target is\
@@ -81,6 +81,6 @@ Humans of Eldraine view specters as heralds of death. Specters are said to utter
     "name": "Reaping Scythe"
 "source":
   - "MCV4EC"
-"image": "3-Mechanics/CLI/bestiary/undead/token/specter-of-night-mcv4ec.webp"
+"image": "file://bestiary/tokens/MCV4EC/Specter%20of%20Night.webp"
 ```
 ^statblock

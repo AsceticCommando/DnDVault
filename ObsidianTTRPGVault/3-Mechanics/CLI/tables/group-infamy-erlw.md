@@ -12,6 +12,8 @@ aliases:
 
 **Group Infamy**
 
+`dice: [](group-infamy-erlw.md#^group-infamy)`
+
 | dice: d6 | Notorious Element |
 |----------|-------------------|
 | 1 | **Tattoos**. Each member of your group has a distinct tattoo that inspires fear in others. When possible, you use the symbol as a calling card to mark your work. |

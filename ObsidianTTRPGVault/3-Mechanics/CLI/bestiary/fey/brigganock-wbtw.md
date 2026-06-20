@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Brigganock"
 ---
-# [Brigganock](3-Mechanics\CLI\bestiary\fey/brigganock-wbtw.md)
+# [Brigganock](3-Mechanics/CLI/bestiary/fey/brigganock-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 230*  
 
 Brigganocks are frantic, mouse-sized creatures that live in mines. Whenever a mortal makes a nonmagical wish, perhaps while blowing out the candles on a birthday cake or tossing a coin down a well, an echo of that wish becomes lodged in a stone buried deep in the earth of the Feywild. Brigganocks seek out these wish stones, discarding the ones that contain wishes of ill intent and keeping those that hold good wishes. Brigganocks refine wish stones into gems and use them to decorate their architecture and crafts, or they trade them to other Fey for food and favors. A more powerful Fey creature can use a wish stone to scry on the maker of the wish, empower a supernatural charm, or provide the spark needed to create an animated object. Other uses are possible as well.
@@ -72,10 +72,11 @@ Brigganocks like to nibble on cheese, lettuce, and other soft foods. They eat qu
     "name": "Time Lapse (Recharges after a Short or Long Rest)"
   - "desc": "The brigganock casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 11):\n\
-      \n**At will:** [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md), [spare\
-      \ the dying](3-Mechanics/CLI/spells/spare-the-dying.md)\n\n**1/day each:** [animal\
-      \ friendship](3-Mechanics/CLI/spells/animal-friendship.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md),\
-      \ [meld into stone](3-Mechanics/CLI/spells/meld-into-stone.md), [silence](3-Mechanics/CLI/spells/silence.md)"
+      \n**At will:** [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md),\
+      \ [spare the dying](3-Mechanics/CLI/spells/spare-the-dying-xphb.md)\n\n**1/day\
+      \ each:** [animal friendship](3-Mechanics/CLI/spells/animal-friendship-xphb.md),\
+      \ [faerie fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md), [meld into stone](3-Mechanics/CLI/spells/meld-into-stone-xphb.md),\
+      \ [silence](3-Mechanics/CLI/spells/silence-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The brigganock moves its soul light up to 30 feet in any direction to\
@@ -84,6 +85,6 @@ Brigganocks like to nibble on cheese, lettuce, and other soft foods. They eat qu
     "name": "Move Soul Light"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/fey/token/brigganock-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Brigganock.webp"
 ```
 ^statblock

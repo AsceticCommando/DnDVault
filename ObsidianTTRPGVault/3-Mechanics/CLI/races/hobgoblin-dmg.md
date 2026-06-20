@@ -20,7 +20,7 @@ aliases:
 
 ### Martial Advantage
 
-Once per turn, you can deal an extra `2d6` damage to a creature you hit with a weapon attack if that creature is within 5 ft. of an ally of yours that isn't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated).
+Once per turn, you can deal an extra `dice:2d6|noform|noparens|avg` (`2d6`) damage to a creature you hit with a weapon attack if that creature is within 5 ft. of an ally of yours that isn't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated).
 
 ### Darkvision
 

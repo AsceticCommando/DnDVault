@@ -12,6 +12,8 @@ aliases:
 
 **Dream Adventures**
 
+`dice: [](the-role-of-dreams-dream-adventures-erlw.md#^dream-adventures)`
+
 | dice: d4 | Adventure Goal |
 |----------|----------------|
 | 1 | Break a psychic lock that is preventing a House Thuranni spy from remembering what they learned about a sinister Dreaming Dark plot. |

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Dragon Army Soldier"
 ---
-# [Dragon Army Soldier](3-Mechanics\CLI\bestiary\humanoid/dragon-army-soldier-dsotdq.md)
+# [Dragon Army Soldier](3-Mechanics/CLI/bestiary/humanoid/dragon-army-soldier-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 200*  
 
 The Dragon Armies gather fanatical followers to their ranks. Recruits are indoctrinated to revere the Dragon Queen and view dragons as her favored servants. Troops in the Dragon Army wield weapons blessed by Takhisis to strike with the power of the dragons they fight alongside.
@@ -27,7 +27,7 @@ The weapons of Dragon Army troops are blessed with an infusion of dragon breath.
 "type": "humanoid"
 "alignment": "typically  Lawful Evil"
 "ac": !!int "17"
-"ac_class": "[scale mail](3-Mechanics/CLI/items/scale-mail.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[scale mail](3-Mechanics/CLI/items/scale-mail-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "22"
 "hit_dice": "4d8 + 4"
 "modifier": !!int "1"
@@ -45,8 +45,8 @@ The weapons of Dragon Army troops are blessed with an infusion of dragon breath.
   - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
 "gear":
-  - "[javelin](3-Mechanics/CLI/items/javelin.md)"
-  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
+  - "[javelin](3-Mechanics/CLI/items/javelin-xphb.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Common, Draconic"
 "cr": "1"
@@ -66,6 +66,6 @@ The weapons of Dragon Army troops are blessed with an infusion of dragon breath.
     "name": "Javelin"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/dragon-army-soldier-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Dragon%20Army%20Soldier.webp"
 ```
 ^statblock

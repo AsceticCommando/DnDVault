@@ -12,7 +12,7 @@ aliases:
 
 The Red Dragon Army has failed to raise the City of Lost Names into the heavens. The characters have deprived the Dragon Army of its city-sized battle platform, but as the smoke clears, a citadel flies free of the ruins, its course set for Kalaman.
 
-![With its flying citadel lo...](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/111-07-001-chapter-splash.webp#center "With its flying citadel looming overhead, the Dragon Army prepares to lay siege to the city of Kalaman")
+![With its flying citadel looming overhead, the Dragon Army prepares to lay siege to the city of Kalaman](file://adventure/DSotDQ/111-07-001.chapter-splash.webp#center)
 
 ## Running This Chapter
 
@@ -50,9 +50,9 @@ After the characters see the flying citadel, Darrett seeks them out. If they hav
 - Darrett urges allies of the characters, like Cudgel and Rookledust, to go with them to help support their report to Kalaman's leaders.  
 - Darrett will stay and lead the troops back himself.  
 
-Darrett encourages the characters to rest, then set off for the coast as soon as they're ready. If [Clystran](3-Mechanics/CLI/bestiary/humanoid/scout.md) (see chapter 5) is with Darrett's troops, he can guide them, hastening the characters' journey.
+Darrett encourages the characters to rest, then set off for the coast as soon as they're ready. If [Clystran](3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md) (see chapter 5) is with Darrett's troops, he can guide them, hastening the characters' journey.
 
-![Darrett Highwater Wearing Solamnic Armor](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/112-07-002-darrett-highwater.webp#center)
+![Darrett Highwater Wearing Solamnic Armor](file://adventure/DSotDQ/112-07-002.darrett-highwater.webp#center)
 
 ### To the Coast
 
@@ -98,7 +98,7 @@ When the characters return to Castle Kalaman, Marshal Vendri is in a meeting wit
 > Marshal Vendri sees you and stands, surprise clear on her face.
 ^3f5
 
-Vendri calls for silence and welcomes the characters. Unless they recently contacted her via the [sending](3-Mechanics/CLI/spells/sending.md) spell or similar magic, she had thought they were lost. She's eager to hear their private report on what happened in the Northern Wastes.
+Vendri calls for silence and welcomes the characters. Unless they recently contacted her via the [sending](3-Mechanics/CLI/spells/sending-xphb.md) spell or similar magic, she had thought they were lost. She's eager to hear their private report on what happened in the Northern Wastes.
 
 Before Vendri can leave with the characters, though, Lord Bakaris demands the entire council hear whatever news they bring. Governor Thren hesitantly agrees, and Vendri reluctantly gestures for the characters to report. As the characters tell their story, consider interjecting criticism from Lord Bakaris or support from Marshal Vendri.
 
@@ -133,6 +133,8 @@ This news ushers in an uneasy day of waiting as the city braces for battle. As t
 
 **Dread in the Streets**
 
+`dice: [](08-chapter-7-siege-of-kalaman.md#^dread-in-the-streets)`
+
 | dice: d6 | Event |
 |----------|-------|
 | 1 | A makeshift aid camp has taken over an alley, providing help to refugees recently arrived in the city. |
@@ -154,7 +156,7 @@ If the characters follow the soldier, they find the following scene at the Trade
 > The portcullis of the Trade Gate has been lowered. Dozens of anxious civilians gather outside it, banging on the gate and pleading for entry. Inside the gate, Kalaman soldiers stand with spears ready, nervously eyeing the gate and their stern captain.
 ^3fa
 
-The Trade Gate has been closed at the orders of Captain Oklid Narnhelm (neutral, human [veteran](3-Mechanics/CLI/bestiary/humanoid/veteran.md)). He's on the scene with his eight [Kalaman soldiers](3-Mechanics/CLI/bestiary/humanoid/kalaman-soldier-dsotdq.md) (see appendix B). If questioned, Narnhelm shares the following:
+The Trade Gate has been closed at the orders of Captain Oklid Narnhelm (neutral, human [veteran](3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md)). He's on the scene with his eight [Kalaman soldiers](3-Mechanics/CLI/bestiary/humanoid/kalaman-soldier-dsotdq.md) (see appendix B). If questioned, Narnhelm shares the following:
 
 - Dozens of travelers and residents of the trade camps seek refuge in the city.  
 - Narnhelm has heard draconians can take on the appearance of other people.  
@@ -173,7 +175,7 @@ The characters can learn more about these visitors by heading to the ramparts at
 > On a broken stone buttress jutting from the ancient tower wall perches an exhausted dragonnel, its coppery scales glimmering in the sunlight. Two figures tend to the dragonnel—one in rugged leather, the other wearing the armor of a Knight of Solamnia.
 ^3fc
 
-The riders are [Clystran](3-Mechanics/CLI/bestiary/humanoid/scout.md) and [Darrett](3-Mechanics/CLI/bestiary/humanoid/knight.md). If the characters saved the dragonnel in the "Occupied Mansion" section in chapter 6 or in the "Dragonnel Down" encounter earlier in this chapter, they recognize it as the same creature.
+The riders are [Clystran](3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md) and [Darrett](3-Mechanics/CLI/bestiary/humanoid/knight-xmm.md). If the characters saved the dragonnel in the "Occupied Mansion" section in chapter 6 or in the "Dragonnel Down" encounter earlier in this chapter, they recognize it as the same creature.
 
 [Clystran](3-Mechanics/CLI/bestiary/npc/clystran-dsotdq.md) and Darrett are pleased to see the characters and have the following information to share:
 
@@ -217,6 +219,8 @@ The people of Kalaman face a long, anxious night waiting for the Dragon Army's a
 
 **Night Encounters**
 
+`dice: [](08-chapter-7-siege-of-kalaman.md#^night-encounters)`
+
 | dice: d4 | Encounter |
 |----------|-----------|
 | 1 | Six [kapak draconians](3-Mechanics/CLI/bestiary/monstrosity/kapak-draconian-dsotdq.md) scale the walls and attack a group of [Kalaman soldiers](3-Mechanics/CLI/bestiary/humanoid/kalaman-soldier-dsotdq.md) near the characters (see appendix B for both stat blocks). |
@@ -225,7 +229,7 @@ The people of Kalaman face a long, anxious night waiting for the Dragon Army's a
 | 4 | Highmaster's Message (see below) |
 ^night-encounters
 
-![A sivak draconian swoops down to attack](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/113-07-003-sivak-draconian.webp#center)
+![A sivak draconian swoops down to attack](file://adventure/DSotDQ/113-07-003.sivak-draconian.webp#center)
 
 #### Testing the Defenses
 
@@ -275,7 +279,7 @@ When the characters arrive at the gate, read the following text:
 
 The portcullis rises jerkily. After 3 rounds, it will be high enough to admit a group of six [Dragon Army officers](3-Mechanics/CLI/bestiary/humanoid/dragon-army-officer-dsotdq.md) (see appendix B) into the city.
 
-The characters know the portcullis's controls are in the guardroom adjacent to the gate. There they find the anxious Lord Bakaris ([noble](3-Mechanics/CLI/bestiary/humanoid/noble.md)), accompanied by six [knights](3-Mechanics/CLI/bestiary/humanoid/knight.md) in Kalaman armor. One of the knights turns a winch, raising the portcullis outside.
+The characters know the portcullis's controls are in the guardroom adjacent to the gate. There they find the anxious Lord Bakaris ([noble](3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md)), accompanied by six [knights](3-Mechanics/CLI/bestiary/humanoid/knight-xmm.md) in Kalaman armor. One of the knights turns a winch, raising the portcullis outside.
 
 Lord Bakaris is defecting to the Dragon Army and has convinced these knights to come with him. The cowardly lord is terrified of the invasion and is convinced everyone in Kalaman is about to be slaughtered. After a moment of shock at seeing the characters, he orders the five unoccupied knights to attack the characters—while trying to stay out of battle himself.
 
@@ -317,6 +321,8 @@ This section has no set timeline or specific goals beyond involving characters i
 
 **Defending the Wall**
 
+`dice: [](08-chapter-7-siege-of-kalaman.md#^defending-the-wall)`
+
 | dice: d4 | Encounter |
 |----------|-----------|
 | 1 | Ballista Breakers |
@@ -337,11 +343,11 @@ Three [Dragon Army officers](3-Mechanics/CLI/bestiary/humanoid/dragon-army-offic
 
 #### Death Dragon Attack
 
-A [lesser death dragon](3-Mechanics/CLI/bestiary/undead/lesser-death-dragon-dsotdq.md) (see appendix B) crashes against Kalaman's wall at least 90 feet from the characters. By the time the characters draw close, the death dragon has already used its Cataclysmic Breath to kill four Kalaman soldiers, transforming them into [zombies](3-Mechanics/CLI/bestiary/undead/zombie.md).
+A [lesser death dragon](3-Mechanics/CLI/bestiary/undead/lesser-death-dragon-dsotdq.md) (see appendix B) crashes against Kalaman's wall at least 90 feet from the characters. By the time the characters draw close, the death dragon has already used its Cataclysmic Breath to kill four Kalaman soldiers, transforming them into [zombies](3-Mechanics/CLI/bestiary/undead/zombie-xmm.md).
 
 #### Draconian Assassins
 
-While the characters are at the Trade Gate command post or another vulnerable point, two [aurak draconians](3-Mechanics/CLI/bestiary/monstrosity/aurak-draconian-dsotdq.md) (see appendix B) teleport nearby using the [dimension door](3-Mechanics/CLI/spells/dimension-door.md) spell and attack a Kalaman commander (use the [veteran](3-Mechanics/CLI/bestiary/humanoid/veteran.md) stat block). This might be Marshal Vendri, Captain Narnhelm, or another Kalaman officer.
+While the characters are at the Trade Gate command post or another vulnerable point, two [aurak draconians](3-Mechanics/CLI/bestiary/monstrosity/aurak-draconian-dsotdq.md) (see appendix B) teleport nearby using the [dimension door](3-Mechanics/CLI/spells/dimension-door-xphb.md) spell and attack a Kalaman commander (use the [veteran](3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) stat block). This might be Marshal Vendri, Captain Narnhelm, or another Kalaman officer.
 
 ### Dragonnel Reinforcements
 
@@ -383,7 +389,7 @@ Hawker's Grove is depicted on map 7.1. As the characters near Hawker's Grove, re
 > Kalaman's scouts weren't the only ones to notice [Clystran](3-Mechanics/CLI/bestiary/npc/clystran-dsotdq.md) and his dragonnels. The grove ahead is in flames. From amid the smoke comes the sound of bestial screeching.
 ^419
 
-The [scout](3-Mechanics/CLI/bestiary/humanoid/scout.md) [Clystran](3-Mechanics/CLI/bestiary/npc/clystran-dsotdq.md) has taken refuge in the grove and has set up a small camp where he waits for the characters. He's accompanied by his own coppery [wasteland dragonnel](3-Mechanics/CLI/bestiary/dragon/wasteland-dragonnel-dsotdq.md) (see appendix B) and one for each character. Just before the characters arrived, four [red dragon wyrmlings](3-Mechanics/CLI/bestiary/dragon/red-dragon-wyrmling.md) pursuing the dragonnels used their breath to set part of the grove aflame. The red dragons now lurk in the smoke, preparing to attack. They fight until wounded by a [dragonlance](3-Mechanics/CLI/items/dragonlance-ftd.md) or reduced to 10 hit points or fewer. [Clystran](3-Mechanics/CLI/bestiary/npc/clystran-dsotdq.md) and his dragonnels stay out of battle unless attacked.
+The [scout](3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md) [Clystran](3-Mechanics/CLI/bestiary/npc/clystran-dsotdq.md) has taken refuge in the grove and has set up a small camp where he waits for the characters. He's accompanied by his own coppery [wasteland dragonnel](3-Mechanics/CLI/bestiary/dragon/wasteland-dragonnel-dsotdq.md) (see appendix B) and one for each character. Just before the characters arrived, four [red dragon wyrmlings](3-Mechanics/CLI/bestiary/dragon/red-dragon-wyrmling-xmm.md) pursuing the dragonnels used their breath to set part of the grove aflame. The red dragons now lurk in the smoke, preparing to attack. They fight until wounded by a [dragonlance](3-Mechanics/CLI/items/dragonlance-ftd.md) or reduced to 10 hit points or fewer. [Clystran](3-Mechanics/CLI/bestiary/npc/clystran-dsotdq.md) and his dragonnels stay out of battle unless attacked.
 
 Unless the characters prepared another strategy, they begin this encounter adjacent to the tree stump at the southeast corner of the map.
 
@@ -397,8 +403,8 @@ The battlefield includes the following features:
 - **Fray.** The 15-foot-wide area marked by the design at the edge of the map represents areas from which dangers might appear.  
 
 > [!gallery]
-> ![Map 7.1: Assault on Hawkers Grove](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/114-map-7-01-assault-on-hawkers-grove.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/115-map-7-01-assault-on-hawkers-grove-player.webp#gallery)
+> ![Map 7.1: Assault on Hawkers Grove](file://adventure/DSotDQ/114-map-7.01-assault-on-hawkers-grove.webp#gallery)
+> ![Player Version](file://adventure/DSotDQ/115-map-7.01-assault-on-hawkers-grove-player.webp#gallery)
 
 #### Hawker's Grove Battlefield Events
 
@@ -406,10 +412,12 @@ During this battle, roll on the Hawker's Grove Battlefield Events table each rou
 
 **Hawker's Grove Battlefield Events**
 
+`dice: [](08-chapter-7-siege-of-kalaman.md#^hawkers-grove-battlefield-events)`
+
 | dice: d10 | Event |
 |-----------|-------|
-| 1–3 | A flight of dragonnels strafes the battlefield, the wind from their passage reigniting flames in the burnt ground. Each creature in this area must make a DC 14 Dexterity saving throw, taking 21 (`6d6`) fire damage on a failed save, or half as much damage on a successful one. |
-| 4–6 | A stray ballista bolt fires into the grove. Roll any die. On an even roll, the bolt targets a random player character. On an odd roll, the bolt targets a random red dragon. The attack has +6 to hit and deals 16 (`3d10`) piercing damage on a hit. |
+| 1–3 | A flight of dragonnels strafes the battlefield, the wind from their passage reigniting flames in the burnt ground. Each creature in this area must make a DC 14 Dexterity saving throw, taking `dice:6d6\|noform\|noparens\|avg\|text(21)` (`6d6`) fire damage on a failed save, or half as much damage on a successful one. |
+| 4–6 | A stray ballista bolt fires into the grove. Roll any die. On an even roll, the bolt targets a random player character. On an odd roll, the bolt targets a random red dragon. The attack has `dice:1d20+6\|noform\|noparens\|text(+6)` to hit and deals `dice:3d10\|noform\|noparens\|avg\|text(16)` (`3d10`) piercing damage on a hit. |
 | 7–8 | A [sivak draconian](3-Mechanics/CLI/bestiary/monstrosity/sivak-draconian-dsotdq.md) (see appendix B) arrives, appearing adjacent to the Fray near a random player character. If there is already a sivak draconian in the battle, no event occurs. |
 | 9–10 | One of the red dragons roars a prayer: "Dragon Queen, grant us your flames!" Each red dragon recharges their Fire Breath action. |
 ^hawkers-grove-battlefield-events
@@ -439,7 +447,7 @@ As the characters near the flying citadel, they must succeed on a DC 14 group De
 
 #### Red Ruin
 
-![The Dragon Army's ace drag...](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/116-07-004-red-ruin.webp#center "The Dragon Army's ace dragonnel rider, Red Ruin, soars toward her target")
+![The Dragon Army's ace dragonnel rider, Red Ruin, soars toward her target](file://adventure/DSotDQ/116-07-004.red-ruin.webp#center)
 
 After the characters avoid or contend with the dragonnels, [Clystran](3-Mechanics/CLI/bestiary/npc/clystran-dsotdq.md) breaks away from the Dragon Army flight path he had been following, rushing the characters toward the base of the flying citadel. Read the following text as the characters approach:
 
@@ -460,7 +468,7 @@ During the battle, Bakaris removes his helmet and taunts the characters, claimin
 
 ##### Falling in Battle
 
-[Red Ruin](3-Mechanics/CLI/bestiary/npc/red-ruin-dsotdq.md) seeks to knock her foes from their mounts using her Lance attack. If a rider falls from a dragonnel, the rider falls toward the ground until the end of the following round. During this time, another rider who is mounted alone on a dragonnel can use movement to dive alongside the falling creature and try to catch that creature as an action. The rider catches the falling creature on the rider's dragonnel if the rider succeeds on a DC 12 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. A falling creature that isn't rescued takes 70 (`20d6`) bludgeoning damage upon hitting the ground.
+[Red Ruin](3-Mechanics/CLI/bestiary/npc/red-ruin-dsotdq.md) seeks to knock her foes from their mounts using her Lance attack. If a rider falls from a dragonnel, the rider falls toward the ground until the end of the following round. During this time, another rider who is mounted alone on a dragonnel can use movement to dive alongside the falling creature and try to catch that creature as an action. The rider catches the falling creature on the rider's dragonnel if the rider succeeds on a DC 12 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. A falling creature that isn't rescued takes `dice:20d6|noform|noparens|avg|text(70)` (`20d6`) bludgeoning damage upon hitting the ground.
 
 #### Entering the Citadel
 
@@ -515,8 +523,8 @@ Maps 7.2 and 7.3 depict the flying citadel. Unless otherwise noted, the followin
 The lowest levels of the flying citadel are unworked tunnels. The characters find an entrance to these depths through a fissure in the citadel's base.
 
 > [!gallery]
-> ![Map 7.2: Flying Citadel Sublevels](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/117-map-7-02-flying-citadel-sublevels.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/118-map-7-02-flying-citadel-sublevels-player.webp#gallery)
+> ![Map 7.2: Flying Citadel Sublevels](file://adventure/DSotDQ/117-map-7.02-flying-citadel-sublevels.webp#gallery)
+> ![Player Version](file://adventure/DSotDQ/118-map-7.02-flying-citadel-sublevels-player.webp#gallery)
 
 #### S1: Tunnels
 
@@ -544,9 +552,9 @@ The Bastion of Takhisis had countless enemies, many of whom were interred in the
 
 This chamber is a crooked seam in the rock. The passage to the east splits, with both routes connecting to area S3. One path enters area S3 through a broken crypt in that room's wall, while the other descends 15 feet and leads to a gouge in the floor of that area.
 
-![Leedara](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/119-07-005-leedara.webp#center)
+![Leedara](file://adventure/DSotDQ/119-07-005.leedara.webp#center)
 
-The elf waiting here is [Leedara](3-Mechanics/CLI/bestiary/npc/leedara-dsotdq.md) (a neutral [ghost](3-Mechanics/CLI/bestiary/undead/ghost.md) detailed in chapter 3) in her guise as a living Silvanesti elf. She's here to aid the characters in confounding [Lord Soth](3-Mechanics/CLI/bestiary/npc/lord-soth-dsotdq.md)'s plans and imparts the following information:
+The elf waiting here is [Leedara](3-Mechanics/CLI/bestiary/npc/leedara-dsotdq.md) (a neutral [ghost](3-Mechanics/CLI/bestiary/undead/ghost-xmm.md) detailed in chapter 3) in her guise as a living Silvanesti elf. She's here to aid the characters in confounding [Lord Soth](3-Mechanics/CLI/bestiary/npc/lord-soth-dsotdq.md)'s plans and imparts the following information:
 
 - [Lord Soth](3-Mechanics/CLI/bestiary/npc/lord-soth-dsotdq.md) lurks in the ruins above. He's using the Cataclysmic fire from Kalaman's catacombs to control the flying citadel and reanimate dragon skeletons buried in the flying island's foundations.  
 - If the characters can quell the Cataclysmic fire, the Undead dragons will be destroyed and the flying citadel will fall.  
@@ -570,7 +578,7 @@ During the conversation with [Leedara](3-Mechanics/CLI/bestiary/npc/leedara-dsot
 
 A fissure has opened in the wall of this vault, allowing access from area S2. Eleven sealed crypts line its walls. One crypt has been broken open, and a branch of the fissure connects it to area S2. The broken crypt bears a plaque reading "Acont, Prince of Minotaurs."
 
-Two [skeletal knights](3-Mechanics/CLI/bestiary/undead/skeletal-knight-dsotdq.md) (see appendix B) and a [minotaur skeleton](3-Mechanics/CLI/bestiary/undead/minotaur-skeleton.md) stand guard in this room and attack intruders on sight.
+Two [skeletal knights](3-Mechanics/CLI/bestiary/undead/skeletal-knight-dsotdq.md) (see appendix B) and a [minotaur skeleton](3-Mechanics/CLI/bestiary/undead/minotaur-skeleton-xmm.md) stand guard in this room and attack intruders on sight.
 
 ##### Brickwork Seals
 
@@ -581,6 +589,8 @@ Each occupied crypt is bricked over. These brickwork seals are Large objects wit
 Each crypt contains the remains of someone whose soul was remanded to Chemosh, God of Undeath. A simple plaque notes the occupant's identity. Use the Crypt Plaques table and Crypt Contents table to determine what the crypts' plaques say and what lies within each. If you roll the same name for a plaque more than once, the plaque is missing.
 
 **Crypt Plaques**
+
+`dice: [](08-chapter-7-siege-of-kalaman.md#^crypt-plaques)`
 
 | dice: d10 | Plaque |
 |-----------|--------|
@@ -596,16 +606,18 @@ Each crypt contains the remains of someone whose soul was remanded to Chemosh, G
 
 **Crypt Contents**
 
+`dice: [](08-chapter-7-siege-of-kalaman.md#^crypt-contents)`
+
 | dice: d10 | Contents |
 |-----------|----------|
 | 1–3 | Dusty Humanoid skeleton |
 | 4 | Toppled jar of ashes |
-| 5 | A [wight](3-Mechanics/CLI/bestiary/undead/wight.md) that won't stop crying |
+| 5 | A [wight](3-Mechanics/CLI/bestiary/undead/wight-xmm.md) that won't stop crying |
 | 6 | Skeleton of an unidentifiable Beast |
-| 7 | A [black pudding](3-Mechanics/CLI/bestiary/ooze/black-pudding.md) |
+| 7 | A [black pudding](3-Mechanics/CLI/bestiary/ooze/black-pudding-xmm.md) |
 | 8 | Gouged stone and a Humanoid skeleton with worn-down finger bones |
 | 9 | Perfectly preserved Humanoid corpse |
-| 10 | Humanoid skeleton wearing [+2 leather armor](3-Mechanics/CLI/items/2-armor.md). The crypt is empty if this result is rolled a second time. |
+| 10 | Humanoid skeleton wearing [+2 leather armor](3-Mechanics/CLI/items/2-armor-xdmg.md). The crypt is empty if this result is rolled a second time. |
 ^crypt-contents
 
 #### S4: Chemosh's Shrine
@@ -615,22 +627,22 @@ Each crypt contains the remains of someone whose soul was remanded to Chemosh, G
 > In the center of the crypt, a dais bears a statue of a robed figure with a grim skull for a face. Before the statue, a pair of skeletons kneel, holding an altar of polished black stone between them.
 ^437
 
-This shrine is under the effect of a [hallow](3-Mechanics/CLI/spells/hallow.md) spell, with the additional effect that creatures other than Undead that attempt to ascend the dais are subject to the spell's fear effect (save DC 16).
+This shrine is under the effect of a [hallow](3-Mechanics/CLI/spells/hallow-xphb.md) spell, with the additional effect that creatures other than Undead that attempt to ascend the dais are subject to the spell's fear effect (save DC 16).
 
 ##### Chemosh's Blessing
 
-The first character who succeeds on the saving throw against the [hallow](3-Mechanics/CLI/spells/hallow.md) spell and approaches the skull on the shrine hears the voice of Chemosh in their mind:
+The first character who succeeds on the saving throw against the [hallow](3-Mechanics/CLI/spells/hallow-xphb.md) spell and approaches the skull on the shrine hears the voice of Chemosh in their mind:
 
 > [!readaloud] 
 > 
 > "I find you worthy. Join me, and I will open the River of Souls to you."
 ^439
 
-If the character refuses the offer, the altar emits smoke that coalesces into a [hulking figure](3-Mechanics/CLI/bestiary/undead/hulking-shadow-dsotdq.md). This hostile figure uses the [clay golem](3-Mechanics/CLI/bestiary/construct/clay-golem.md) stat block, but it is an Undead instead of a Construct. If the character accepts, they immediately become aware of how to use the altar to speak with the dead, and they don't need a holy symbol to do so.
+If the character refuses the offer, the altar emits smoke that coalesces into a [hulking figure](3-Mechanics/CLI/bestiary/undead/hulking-shadow-dsotdq.md). This hostile figure uses the [clay golem](3-Mechanics/CLI/bestiary/construct/clay-golem-xmm.md) stat block, but it is an Undead instead of a Construct. If the character accepts, they immediately become aware of how to use the altar to speak with the dead, and they don't need a holy symbol to do so.
 
 ##### Chemosh's Altar
 
-A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals an aura of necromancy around the altar. The altar can be used to commune with the dead. If a corpse's skull is placed on the altar, a creature wearing or holding a holy symbol of Chemosh can ask the skull five questions, as if by the [speak with dead](3-Mechanics/CLI/spells/speak-with-dead.md) spell. Each skull can be questioned only once in this way.
+A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of necromancy around the altar. The altar can be used to commune with the dead. If a corpse's skull is placed on the altar, a creature wearing or holding a holy symbol of Chemosh can ask the skull five questions, as if by the [speak with dead](3-Mechanics/CLI/spells/speak-with-dead-xphb.md) spell. Each skull can be questioned only once in this way.
 
 If the characters question a skull from area S3, it can answer little beyond general questions about the temple's layout. If asked about the treasure vault's location, one of the skulls answers, "Treasure is found when Takhisis turns her ire south."
 
@@ -647,7 +659,7 @@ The small room is strewn with shattered pottery, a broken chest of empty drawers
 
 ##### Treasure
 
-A character who searches the pile finds a [portable hole](3-Mechanics/CLI/items/portable-hole.md) hidden among the clothing, folded into a small triangle and tucked into the pocket of a shirt sized for a Small creature.
+A character who searches the pile finds a [portable hole](3-Mechanics/CLI/items/portable-hole-xdmg.md) hidden among the clothing, folded into a small triangle and tucked into the pocket of a shirt sized for a Small creature.
 
 #### S6: Elven Catacombs
 
@@ -680,9 +692,9 @@ The doorway to this tomb can be accessed by pushing its statue aside with a succ
 > A long, gray marble slab lies in the center of this chamber. Scattered around it are the skeletal remains of an elf. An inset in the ceiling above the slab holds a mirror the same size as the slab.
 ^443
 
-A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals the mirror on the ceiling radiates an aura of necromancy. If the characters return Cithcillion's bones to the slab, the reflection in the mirror is of him as he was in life. His reflected image opens its eyes and speaks:
+A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals the mirror on the ceiling radiates an aura of necromancy. If the characters return Cithcillion's bones to the slab, the reflection in the mirror is of him as he was in life. His reflected image opens its eyes and speaks:
 
-![Cithcillion](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/120-07-006-cithcillion.webp#center)
+![Cithcillion](file://adventure/DSotDQ/120-07-006.cithcillion.webp#center)
 
 > [!readaloud] 
 > 
@@ -703,7 +715,7 @@ When Madar's and Tenadria's remains are brought to his tomb, Cithcillion is will
 - Their diplomatic visit ended with Cithcillion and his friends imprisoned and dying in the temple.  
 - Cithcillion doesn't know what happened to the mirror, but it's likely still in the temple somewhere.  
 
-If the characters use the [speak with dead](3-Mechanics/CLI/spells/speak-with-dead.md) spell on Cithcillion's skull instead of using the mirror, he gives truthful answers about the above information.
+If the characters use the [speak with dead](3-Mechanics/CLI/spells/speak-with-dead-xphb.md) spell on Cithcillion's skull instead of using the mirror, he gives truthful answers about the above information.
 
 #### S9: Tenadria's Tomb
 
@@ -714,11 +726,11 @@ The doorway to this tomb opens to area S6, as its statue was moved before the ch
 > A long, gray marble slab lies in the middle of this chamber, and atop it lies a Humanoid skeleton. A shallow inset of similar dimensions is carved into the ceiling directly above the slab. Shards of broken glass litter the slab and floor.
 ^447
 
-Close inspection of the floor reveals the shards of glass are pieces of a shattered mirror. The skeleton on the slab belongs to Tenadria, an elf diplomat and one of Cithcillion's companions. Tenadria responds uncooperatively to the [speak with dead](3-Mechanics/CLI/spells/speak-with-dead.md) spell.
+Close inspection of the floor reveals the shards of glass are pieces of a shattered mirror. The skeleton on the slab belongs to Tenadria, an elf diplomat and one of Cithcillion's companions. Tenadria responds uncooperatively to the [speak with dead](3-Mechanics/CLI/spells/speak-with-dead-xphb.md) spell.
 
 ##### Alstare Bellis
 
-The neutral evil [vampire](3-Mechanics/CLI/bestiary/undead/vampire.md) and former high priest of Chemosh, Alstare Bellis, hides just above the entrance to the tomb in bat form. A character who succeeds on a DC 18 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check notices the bat. If Alstare isn't detected, he waits for the characters to enter the tomb and drops behind them, changing into his Humanoid form and blocking the exit.
+The neutral evil [vampire](3-Mechanics/CLI/bestiary/undead/vampire-xmm.md) and former high priest of Chemosh, Alstare Bellis, hides just above the entrance to the tomb in bat form. A character who succeeds on a DC 18 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check notices the bat. If Alstare isn't detected, he waits for the characters to enter the tomb and drops behind them, changing into his Humanoid form and blocking the exit.
 
 Alstare doesn't immediately attack the characters but instead questions them. If it becomes clear they're enemies of the Red Dragon Army, he offers a deal. In exchange for the characters destroying the draconians on the floor above—especially their gold-scaled leader (Drayan in area S12)—Alstare will reward the party with "treasures untold." Once the characters return to him with evidence they've completed this task, Alstare tells them how to access the treasure vault (area S13) using the statue in area S12.
 
@@ -738,7 +750,7 @@ The priests' quarters (depicted on map 7.2) are where many of the temple's faith
 
 The corridors on this level are guarded by two [skeletal knights](3-Mechanics/CLI/bestiary/undead/skeletal-knight-dsotdq.md) (see appendix B). The knights guard the door to the sanctuary (area S12), and they notice anyone using the southeast stairs to area S3.
 
-![Lorry Wanwillow](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/121-07-007-lorry-wanwillow.webp#center)
+![Lorry Wanwillow](file://adventure/DSotDQ/121-07-007.lorry-wanwillow.webp#center)
 
 #### S11: Rubble and Ruin
 
@@ -752,7 +764,7 @@ Though the ruined area to the south has mostly collapsed, cramped passages allow
 
 Past the rubble is a ruined chamber lit by black candles surrounding an open stone coffin. The body of a female kender lies in the coffin, her features placid and her hands folded over her heart.
 
-[Lorry Wanwillow](3-Mechanics/CLI/bestiary/npc/lorry-wanwillow-dsotdq.md) (chaotic evil, kender [vampire](3-Mechanics/CLI/bestiary/undead/vampire.md); her Shapechanger trait allows her to become a rat instead of a bat) rests in the coffin. The Humanoid and rat tracks in the room to the north were both hers. She appears dead, feigning as much until the characters draw near, at which point she tries to scare them by sitting up. Amused with herself, she then addresses the characters:
+[Lorry Wanwillow](3-Mechanics/CLI/bestiary/npc/lorry-wanwillow-dsotdq.md) (chaotic evil, kender [vampire](3-Mechanics/CLI/bestiary/undead/vampire-xmm.md); her Shapechanger trait allows her to become a rat instead of a bat) rests in the coffin. The Humanoid and rat tracks in the room to the north were both hers. She appears dead, feigning as much until the characters draw near, at which point she tries to scare them by sitting up. Amused with herself, she then addresses the characters:
 
 > [!readaloud] 
 > 
@@ -771,7 +783,7 @@ Lorry chatters at length and eventually provides the following information, only
 
 ##### Treasure
 
-Lorry's backpack is tucked in the corner of the room. Among her possessions are a [potion of gaseous form](3-Mechanics/CLI/items/potion-of-gaseous-form.md), a [ring of spell storing](3-Mechanics/CLI/items/ring-of-spell-storing.md) with a [seeming](3-Mechanics/CLI/spells/seeming.md) spell (save DC 16) stored in it, and a ventriloquist's dummy with a sharp widow's peak and a red satin cape. Lorry turns hostile if the characters try to take these items without her permission.
+Lorry's backpack is tucked in the corner of the room. Among her possessions are a [potion of gaseous form](3-Mechanics/CLI/items/potion-of-gaseous-form-xdmg.md), a [ring of spell storing](3-Mechanics/CLI/items/ring-of-spell-storing-xdmg.md) with a [seeming](3-Mechanics/CLI/spells/seeming-xphb.md) spell (save DC 16) stored in it, and a ventriloquist's dummy with a sharp widow's peak and a red satin cape. Lorry turns hostile if the characters try to take these items without her permission.
 
 #### S12: Sanctuary
 
@@ -784,7 +796,7 @@ This chamber's vaulted ceiling is 50 feet high. Obsidian columns outline the wal
 
 ##### Creatures
 
-The [aurak draconian](3-Mechanics/CLI/bestiary/monstrosity/aurak-draconian-dsotdq.md) Drayan supervises six [bozak draconians](3-Mechanics/CLI/bestiary/monstrosity/bozak-draconian-dsotdq.md) (see appendix B for both stat blocks) in this room. The bozaks are busy dismantling the statues of the gods behind the effigy of Takhisis. If a fight ensues and the draconians are losing, Drayan uses the [dimension door](3-Mechanics/CLI/spells/dimension-door.md) spell to flee to area S18, where she prepares to ambush the characters.
+The [aurak draconian](3-Mechanics/CLI/bestiary/monstrosity/aurak-draconian-dsotdq.md) Drayan supervises six [bozak draconians](3-Mechanics/CLI/bestiary/monstrosity/bozak-draconian-dsotdq.md) (see appendix B for both stat blocks) in this room. The bozaks are busy dismantling the statues of the gods behind the effigy of Takhisis. If a fight ensues and the draconians are losing, Drayan uses the [dimension door](3-Mechanics/CLI/spells/dimension-door-xphb.md) spell to flee to area S18, where she prepares to ambush the characters.
 
 ##### Statue
 
@@ -792,7 +804,7 @@ If the characters examine the statue of Takhisis, they notice depressions spaced
 
 Though the statue is designed to move, it's still immensely heavy. It can be rotated to a new position by a character who succeeds on a DC 22 Strength check or by creatures with a combined Strength of 40 or higher.
 
-If the statue is rotated to face north, the secret door to area S14 opens. If the statue is rotated to face south, the secret door to area S13 opens. If it is rotated to face any other direction, the statue's heads animate and breathe flame. Each creature in the chamber must make a DC 16 Dexterity saving throw, taking 35 (`10d6`) fire damage on a failed save, or half as much damage on a successful one. Once the statue has breathed flame, it rotates back to face east.
+If the statue is rotated to face north, the secret door to area S14 opens. If the statue is rotated to face south, the secret door to area S13 opens. If it is rotated to face any other direction, the statue's heads animate and breathe flame. Each creature in the chamber must make a DC 16 Dexterity saving throw, taking `dice:10d6|noform|noparens|avg|text(35)` (`10d6`) fire damage on a failed save, or half as much damage on a successful one. Once the statue has breathed flame, it rotates back to face east.
 
 ##### Secret Doors
 
@@ -809,7 +821,7 @@ This is the temple's treasure vault, where offerings and the recovered goods of 
 
 ##### Treasure
 
-Though some of this room has crumbled, the characters can easily retrieve 5,200 gp worth of coins and valuable pieces of art, as well as a [potion of gaseous form](3-Mechanics/CLI/items/potion-of-gaseous-form.md), two [potions of healing (superior)](3-Mechanics/CLI/items/potion-of-superior-healing.md), a [+1 greatsword](3-Mechanics/CLI/items/1-weapon.md), and the [mirror of reflected pasts](3-Mechanics/CLI/items/mirror-of-reflected-pasts-dsotdq.md) (see appendix A).
+Though some of this room has crumbled, the characters can easily retrieve 5,200 gp worth of coins and valuable pieces of art, as well as a [potion of gaseous form](3-Mechanics/CLI/items/potion-of-gaseous-form-xdmg.md), two [potions of healing (superior)](3-Mechanics/CLI/items/potion-of-superior-healing-xdmg.md), a [+1 greatsword](3-Mechanics/CLI/items/1-weapon-xdmg.md), and the [mirror of reflected pasts](3-Mechanics/CLI/items/mirror-of-reflected-pasts-dsotdq.md) (see appendix A).
 
 #### S14: Primordial Altar
 
@@ -826,7 +838,7 @@ The first character who touches the primordial altar is [stunned](3-Mechanics/CL
 
 ##### Creatures
 
-As soon a creature touches the altar, three [wraiths](3-Mechanics/CLI/bestiary/undead/wraith.md) emerge and attack.
+As soon a creature touches the altar, three [wraiths](3-Mechanics/CLI/bestiary/undead/wraith-xmm.md) emerge and attack.
 
 #### S15: Draconian Garrison
 
@@ -844,7 +856,7 @@ This garrison is occupied by four [bozak draconians](3-Mechanics/CLI/bestiary/mo
 > An old desk sits in this study. One of its legs is missing and has been propped up with chunks of rubble. Doors lead from this room to the west, north, and east.
 ^461
 
-The top drawer of the desk contains Dragon Army reports on troops and supplies on the surface of the flying island, as well as a [spell scroll](3-Mechanics/CLI/items/spell-scroll.md) of [arcane eye](3-Mechanics/CLI/spells/arcane-eye.md).
+The top drawer of the desk contains Dragon Army reports on troops and supplies on the surface of the flying island, as well as a [spell scroll](3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [arcane eye](3-Mechanics/CLI/spells/arcane-eye-xphb.md).
 
 #### S17: Library
 
@@ -853,7 +865,7 @@ The top drawer of the desk contains Dragon Army reports on troops and supplies o
 > Ancient shelves have collapsed into heaps along the walls. Old books with deteriorated bindings spill their pages onto the dusty floor.
 ^463
 
-The books here are rotted and worthless, but a character who spends five minutes searching the library finds a [spell scroll](3-Mechanics/CLI/items/spell-scroll.md) of [polymorph](3-Mechanics/CLI/spells/polymorph.md).
+The books here are rotted and worthless, but a character who spends five minutes searching the library finds a [spell scroll](3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md).
 
 #### S18: Draconian War Room
 
@@ -884,8 +896,8 @@ These bare stone cells once quartered the temple's priests. They are currently e
 The City of Lost Names was built on a foundation of pillaged dragon bones, which gave it much of its magic. The Bastion of Takhisis (depicted on map 7.3) now carries that magic's legacy, empowered by the Mourning Flame that burns in the Mourning Sanctum at the temple's heart.
 
 > [!gallery]
-> ![Map 7.3: Bastion of Takhisis](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/122-map-7-03-bastion-of-takhisis.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/123-map-7-03-bastion-of-takhisis-player.webp#gallery)
+> ![Map 7.3: Bastion of Takhisis](file://adventure/DSotDQ/122-map-7.03-bastion-of-takhisis.webp#gallery)
+> ![Player Version](file://adventure/DSotDQ/123-map-7.03-bastion-of-takhisis-player.webp#gallery)
 
 #### S21: Ruined Hall
 
@@ -906,7 +918,7 @@ The east wall here is weak and riddled with cracks. The Mourning Sanctum (area S
 
 ##### Soldier
 
-The soldier is a [veteran](3-Mechanics/CLI/bestiary/humanoid/veteran.md) wearing the armor of a Kalaman soldier—but she's possessed by [Caradoc](3-Mechanics/CLI/bestiary/npc/caradoc-dsotdq.md) (detailed in chapter 4; stat block in appendix B). When she notices the characters, she withdraws up the stairs to area S22.
+The soldier is a [veteran](3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) wearing the armor of a Kalaman soldier—but she's possessed by [Caradoc](3-Mechanics/CLI/bestiary/npc/caradoc-dsotdq.md) (detailed in chapter 4; stat block in appendix B). When she notices the characters, she withdraws up the stairs to area S22.
 
 #### S22: Nuitari's Shrine
 
@@ -933,11 +945,11 @@ Regardless of how [Caradoc](3-Mechanics/CLI/bestiary/npc/caradoc-dsotdq.md) inte
 
 ##### Captive Soldier
 
-If the soldier [Caradoc](3-Mechanics/CLI/bestiary/npc/caradoc-dsotdq.md) is possessing drops to 0 hit points, allow her to make death saving throws, as the characters may wish to heal her. Her name is [Amelia Ghallen](3-Mechanics/CLI/bestiary/npc/amelia-ghallen-dsotdq.md) (neutral good, human [veteran](3-Mechanics/CLI/bestiary/humanoid/veteran.md)). She remembers being captured during a battle with the Red Dragon Army and taken alongside other prisoners to a terrifying castle in the mountains. She helps the characters defeat [Caradoc](3-Mechanics/CLI/bestiary/npc/caradoc-dsotdq.md) if the spirit is present, but she wants nothing more than to return home to Kalaman.
+If the soldier [Caradoc](3-Mechanics/CLI/bestiary/npc/caradoc-dsotdq.md) is possessing drops to 0 hit points, allow her to make death saving throws, as the characters may wish to heal her. Her name is [Amelia Ghallen](3-Mechanics/CLI/bestiary/npc/amelia-ghallen-dsotdq.md) (neutral good, human [veteran](3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md)). She remembers being captured during a battle with the Red Dragon Army and taken alongside other prisoners to a terrifying castle in the mountains. She helps the characters defeat [Caradoc](3-Mechanics/CLI/bestiary/npc/caradoc-dsotdq.md) if the spirit is present, but she wants nothing more than to return home to Kalaman.
 
 #### S23: Mourning Sanctum
 
-![Wersten Kern loyally serve...](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/124-07-008-werstern-kern.webp#center "Wersten Kern loyally serves Lord Soth and stands guard over the Mourning Sanctum")
+![Wersten Kern loyally serves Lord Soth and stands guard over the Mourning Sanctum](file://adventure/DSotDQ/124-07-008.werstern-kern.webp#center)
 
 > [!readaloud] 
 > 
@@ -958,7 +970,7 @@ If the characters didn't already paralyze [Lord Soth](3-Mechanics/CLI/bestiary/n
 
 ##### Brazier
 
-Cataclysmic fire fills the room's giant brazier. A creature that falls into it takes 70 (`20d6`) necrotic damage. The brazier's flames can be extinguished by bathing a holy relic of a good-aligned god in the flames, such as a [dragonlance](3-Mechanics/CLI/items/dragonlance-ftd.md). If the players don't think of this on their own, have the characters make a DC 14 Intelligence ([Religion](3-Mechanics/CLI/rules/skills.md#Religion)) or Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check. On a successful check, a character recalls [Leedara](3-Mechanics/CLI/bestiary/npc/leedara-dsotdq.md) said the power of the gods could quell the flames, and they remember the [dragonlance](3-Mechanics/CLI/items/dragonlance-ftd.md) bears Paladine's power. Extinguishing the flames destroys the brazier, as detailed below.
+Cataclysmic fire fills the room's giant brazier. A creature that falls into it takes `dice:20d6|noform|noparens|avg|text(70)` (`20d6`) necrotic damage. The brazier's flames can be extinguished by bathing a holy relic of a good-aligned god in the flames, such as a [dragonlance](3-Mechanics/CLI/items/dragonlance-ftd.md). If the players don't think of this on their own, have the characters make a DC 14 Intelligence ([Religion](3-Mechanics/CLI/rules/skills.md#Religion)) or Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check. On a successful check, a character recalls [Leedara](3-Mechanics/CLI/bestiary/npc/leedara-dsotdq.md) said the power of the gods could quell the flames, and they remember the [dragonlance](3-Mechanics/CLI/items/dragonlance-ftd.md) bears Paladine's power. Extinguishing the flames destroys the brazier, as detailed below.
 
 ##### Scaffold
 
@@ -979,7 +991,7 @@ Two [skeletal knights](3-Mechanics/CLI/bestiary/undead/skeletal-knight-dsotdq.md
 
 A cleric of Sargonnas or a character who succeeds on a DC 12 Intelligence ([Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check recognizes the images on the walls represent the god Sargonnas.
 
-![Lord Soth glimpses his pas...](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/125-07-009-lord-soth-glimpse.webp#center "Lord Soth glimpses his past betrayals in the Mirror of Reflected Pasts")
+![Lord Soth glimpses his past betrayals in the Mirror of Reflected Pasts](file://adventure/DSotDQ/125-07-009.lord-soth-glimpse.webp#center)
 
 #### S25: Lord Soth's Throne Room
 
@@ -1029,8 +1041,8 @@ Allow the characters to decide how they're going to escape the citadel. If they 
 - **Ruins.** Ruined Istarian buildings lie scattered across the area.  
 
 > [!gallery]
-> ![Map 7.4: Flying Citadel Surface](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/126-map-7-04-flying-citadel-surface.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/127-map-7-04-flying-citadel-surface-player.webp#gallery)
+> ![Map 7.4: Flying Citadel Surface](file://adventure/DSotDQ/126-map-7.04-flying-citadel-surface.webp#gallery)
+> ![Player Version](file://adventure/DSotDQ/127-map-7.04-flying-citadel-surface-player.webp#gallery)
 
 The hundreds of Dragon Army troops outside the citadel are largely too preoccupied with their own escape to pay the characters any attention.
 
@@ -1041,7 +1053,7 @@ Whatever their path, before the characters manage to escape, highlight the flyin
 Emphasize the destruction of the flying citadel and the effects of the extinguished Cataclysmic flames using any of the following events you wish:
 
 - **Death Dragon Destruction.** A [lesser death dragon](3-Mechanics/CLI/bestiary/undead/lesser-death-dragon-dsotdq.md) (see appendix B) lands near the characters. The violet flames animating it fade, and the creature collapses into a pile of inanimate bones. Elsewhere, the characters can see other death dragons falling, their flames extinguished as well.  
-- **Falling Rocks.** Part of the temple collapses. Each character must succeed on a DC 14 Dexterity saving throw or take 27 (`6d8`) bludgeoning damage.  
+- **Falling Rocks.** Part of the temple collapses. Each character must succeed on a DC 14 Dexterity saving throw or take `dice:6d8|noform|noparens|avg|text(27)` (`6d8`) bludgeoning damage.  
 - **Hungry Crevice.** Six [baaz draconians](3-Mechanics/CLI/bestiary/monstrosity/baaz-draconian-dsotdq.md) (see appendix B) rush toward the characters through a crack opening in the temple walls. A 10-foot-wide fissure in the ground opens up, swallowing the draconians in darkness.  
 
 #### Karavarix's Revenge
@@ -1055,13 +1067,13 @@ Before the characters escape, they're confronted by [Karavarix](3-Mechanics/CLI/
 
 [Karavarix](3-Mechanics/CLI/bestiary/npc/karavarix-dsotdq.md) is a chaotic evil [greater death dragon](3-Mechanics/CLI/bestiary/undead/greater-death-dragon-dsotdq.md) (see appendix B) who hasn't been affected by the destruction of the brazier in the Mourning Sanctum (area S23). In life, she was the gold dragon [Sarlamir](3-Mechanics/CLI/bestiary/npc/sarlamir-dsotdq.md) slew during his quest to the flying city of Onyari—and [Karavarix](3-Mechanics/CLI/bestiary/npc/karavarix-dsotdq.md) still seeks revenge. Before she attacks, she roars, "[Sarlamir](3-Mechanics/CLI/bestiary/npc/sarlamir-dsotdq.md)! I won't be driven from the skies again. I'll have my revenge on you and all humans!" Characters who explored the catacombs beneath Castle Kalaman (detailed in chapter 4) recall the name [Sarlamir](3-Mechanics/CLI/bestiary/npc/sarlamir-dsotdq.md), the dragon he slew, and the statue in his tomb with gold dragon features. [Karavarix](3-Mechanics/CLI/bestiary/npc/karavarix-dsotdq.md) then fights until destroyed.
 
-![Karavarix](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/128-07-010-karavarix.webp#center)
+![Karavarix](file://adventure/DSotDQ/128-07-010.karavarix.webp#center)
 
 #### Escaping the Bastion
 
 The citadel is 300 feet in the air. Before it crashes, the characters can escape it using the following options or any other approach they please:
 
-- **Magic.** The easiest way off the Bastion of Takhisis is magic, such as the [feather fall](3-Mechanics/CLI/spells/feather-fall.md) or [fly](3-Mechanics/CLI/spells/fly.md) spell.  
+- **Magic.** The easiest way off the Bastion of Takhisis is magic, such as the [feather fall](3-Mechanics/CLI/spells/feather-fall-xphb.md) or [fly](3-Mechanics/CLI/spells/fly-xphb.md) spell.  
 - **Narycrash.** If the characters obtained extra [narycrashes](3-Mechanics/CLI/items/narycrash-dsotdq.md) earlier in the adventure, these devices can be used to escape.  
 - **Enemy Dragonnels.** Although most Dragon Army dragonnels have abandoned the citadel, a few remain trapped in stables across the plaza. If the characters free them, the dragonnels help them escape to the battlefield below.  
 - **Clystran's Dragonnels.** If the characters can find no other way off the flying citadel, [Clystran](3-Mechanics/CLI/bestiary/npc/clystran-dsotdq.md) and his dragonnel friends arrive just in time to airlift the characters to the battlefield below.  
@@ -1083,7 +1095,7 @@ The characters land a quarter mile from Kalaman's west wall. There is little ris
 
 ### Clash of Fallen Flames
 
-![Dragon Highmaster Kansaldi...](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/129-07-011-dragon-highmaster-kansaldi.webp#center "Dragon Highmaster Kansaldi Fire-Eyes scours the battlefield astride the red dragon Ignia")
+![Dragon Highmaster Kansaldi Fire-Eyes scours the battlefield astride the red dragon Ignia](file://adventure/DSotDQ/129-07-011.dragon-highmaster-kansaldi.webp#center)
 
 When the characters start their return to Kalaman, read the following text:
 
@@ -1092,7 +1104,7 @@ When the characters start their return to Kalaman, read the following text:
 > A streak of red sweeps low over the battlefield, crashing through dozens of retreating enemies. At the last moment, it sweeps upward and a mighty red dragon perches atop a stone spire fallen from the citadel above. On the dragon's back sits a woman with short white hair and Dragon Army armor. She levels a vicious pike at you as her left eye—a crimson gemstone—smolders with magical flame.
 ^48b
 
-This is [Kansaldi Fire-Eyes](3-Mechanics/CLI/bestiary/npc/kansaldi-fire-eyes-dsotdq.md) (see appendix B) and her red dragon ally, [Ignia](3-Mechanics/CLI/bestiary/npc/ignia-dsotdq.md). [Ignia](3-Mechanics/CLI/bestiary/npc/ignia-dsotdq.md) uses the [young red dragon](3-Mechanics/CLI/bestiary/dragon/young-red-dragon.md) stat block but is Huge. Kansaldi spotted the characters fleeing the flying citadel and now seeks revenge. She's a fanatical follower of the Dragon Queen and vents righteous rage on the characters, including the following topics:
+This is [Kansaldi Fire-Eyes](3-Mechanics/CLI/bestiary/npc/kansaldi-fire-eyes-dsotdq.md) (see appendix B) and her red dragon ally, [Ignia](3-Mechanics/CLI/bestiary/npc/ignia-dsotdq.md). [Ignia](3-Mechanics/CLI/bestiary/npc/ignia-dsotdq.md) uses the [young red dragon](3-Mechanics/CLI/bestiary/dragon/young-red-dragon-xmm.md) stat block but is Huge. Kansaldi spotted the characters fleeing the flying citadel and now seeks revenge. She's a fanatical follower of the Dragon Queen and vents righteous rage on the characters, including the following topics:
 
 - The Dragon Queen's victory is inevitable. Half of Ansalon already bows to Takhisis.  
 - The characters might've delayed Kalaman's fall, but Kansaldi's troops are a mere fraction of the Dragon Armies' forces. Her master, Dragon Highlord Verminaard, will return with greater numbers.  
@@ -1108,9 +1120,9 @@ Even as she dies, Kansaldi whispers to the characters that her death is the sacr
 
 #### Treasure
 
-Kansaldi's gold-embossed half helmet is worth 3,000 gp, and a crimson [gem of seeing](3-Mechanics/CLI/items/gem-of-seeing.md) is embedded in her left eye socket. The gem can be removed only if Kansaldi is dead. When used, the gem grows uncomfortably warm to the touch.
+Kansaldi's gold-embossed half helmet is worth 3,000 gp, and a crimson [gem of seeing](3-Mechanics/CLI/items/gem-of-seeing-xdmg.md) is embedded in her left eye socket. The gem can be removed only if Kansaldi is dead. When used, the gem grows uncomfortably warm to the touch.
 
-If Kansaldi is dead, this [gem of seeing](3-Mechanics/CLI/items/gem-of-seeing.md) becomes a sentient magic item of lawful evil alignment with an Intelligence of 16, a Wisdom of 19, and a Charisma of 15. It has hearing and normal vision in a range of 120 feet. The gem can speak and understand Common and Draconic, and it can communicate telepathically with its wielder. It promises its bearer the Dragon Queen's favor if they replace one of their eyes with the gem.
+If Kansaldi is dead, this [gem of seeing](3-Mechanics/CLI/items/gem-of-seeing-xdmg.md) becomes a sentient magic item of lawful evil alignment with an Intelligence of 16, a Wisdom of 19, and a Charisma of 15. It has hearing and normal vision in a range of 120 feet. The gem can speak and understand Common and Draconic, and it can communicate telepathically with its wielder. It promises its bearer the Dragon Queen's favor if they replace one of their eyes with the gem.
 
 #### Clash of Fallen Flames Features
 
@@ -1118,11 +1130,11 @@ The battlefield includes the following features:
 
 - **Citadel Spire.** A 30-foot-tall stone shard dominates the center of the battlefield. A cliff winds up its side, making it possible to walk from the ground to the top. There are ample handholds in the rock, making it easy to climb.  
 - **Citadel Rubble and Dragon Skeletons.** The squares with fallen rubble or bones of dead dragons are "difficult terrain".  
-- **Fray.** The 15-foot-wide area marked by the design at the edge of the map represents dozens of Dragon Army troops trying to retreat. This area and the battlefield beyond the map are "difficult terrain". A creature that starts its turn in the Fray or that enters the Fray for the first time during a turn must succeed on a DC 16 Dexterity saving throw or take 10 (`3d6`) slashing damage from attacks by opportunistic foes.  
+- **Fray.** The 15-foot-wide area marked by the design at the edge of the map represents dozens of Dragon Army troops trying to retreat. This area and the battlefield beyond the map are "difficult terrain". A creature that starts its turn in the Fray or that enters the Fray for the first time during a turn must succeed on a DC 16 Dexterity saving throw or take `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) slashing damage from attacks by opportunistic foes.  
 
 > [!gallery]
-> ![Map 7.5: Clash Of Fallen Flames](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/130-map-7-05-clash-of-fallen-flames.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/131-map-7-05-clash-of-fallen-flames-player.webp#gallery)
+> ![Map 7.5: Clash Of Fallen Flames](file://adventure/DSotDQ/130-map-7.05-clash-of-fallen-flames.webp#gallery)
+> ![Player Version](file://adventure/DSotDQ/131-map-7.05-clash-of-fallen-flames-player.webp#gallery)
 
 #### Clash of Fallen Flames Events
 
@@ -1130,11 +1142,13 @@ During this encounter, on initiative count 0 each round, roll on the Clash of Fa
 
 **Clash of Fallen Flames Events**
 
+`dice: [](08-chapter-7-siege-of-kalaman.md#^clash-of-fallen-flames-events)`
+
 | dice: d8 | Event |
 |----------|-------|
-| 1–3 | Fragments of flying citadel rain down. Each creature must succeed on a DC 15 Dexterity saving throw or take 22 (`4d10`) bludgeoning damage. |
-| 4–5 | A [bozak draconian](3-Mechanics/CLI/bestiary/monstrosity/bozak-draconian-dsotdq.md) (see appendix B) with 10 hit points falls from above and crashes toward a random player character. The character must succeed on a DC 16 Dexterity saving throw or take 11 (`2d10`) bludgeoning damage. The draconian is [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned) for a round, then attacks. |
-| 6 | A siege engine explodes nearby. Its remains crash in a 20-foot-radius centered on a random player character. Each creature in that area must either use its reaction to move up to half its speed to escape the area or take 11 (`2d10`) fire damage. |
+| 1–3 | Fragments of flying citadel rain down. Each creature must succeed on a DC 15 Dexterity saving throw or take `dice:4d10\|noform\|noparens\|avg\|text(22)` (`4d10`) bludgeoning damage. |
+| 4–5 | A [bozak draconian](3-Mechanics/CLI/bestiary/monstrosity/bozak-draconian-dsotdq.md) (see appendix B) with 10 hit points falls from above and crashes toward a random player character. The character must succeed on a DC 16 Dexterity saving throw or take `dice:2d10\|noform\|noparens\|avg\|text(11)` (`2d10`) bludgeoning damage. The draconian is [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned) for a round, then attacks. |
+| 6 | A siege engine explodes nearby. Its remains crash in a 20-foot-radius centered on a random player character. Each creature in that area must either use its reaction to move up to half its speed to escape the area or take `dice:2d10\|noform\|noparens\|avg\|text(11)` (`2d10`) fire damage. |
 | 7 | Low-flying dragonnels flee across the battlefield. Creatures on the spire or otherwise above ground level must succeed on a DC 14 Strength saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone). |
 | 8 | A random player character notices the clouds above the battlefield momentarily look like five hateful draconic heads. The character must succeed on a DC 16 Wisdom saving throw or have disadvantage on attack rolls and ability checks for 1 round. If the character is wearing the holy symbol of a good-aligned god, it glimmers and the character gains "inspiration" instead. This event happens only once. No event occurs if you roll it again. |
 ^clash-of-fallen-flames-events
@@ -1152,7 +1166,7 @@ The adventure unfolds in one of two ways from here:
 > 
 > As the characters near the gates of Kalaman, a contingent of the city's defenders emerges to clear the remaining Dragon Army forces from the field. Run scenario 12 from *Dragonlance: Warriors of Krynn* to represent this final conflict.
 > 
-> If the characters attain a win or hold during this scenario, Darrett approaches the characters and gives them something he found amid the rubble of the flying citadel. If there is a good cleric or paladin among the characters, this item is a [talisman of pure good](3-Mechanics/CLI/items/talisman-of-pure-good.md) in the shape of their god's holy symbol. If there's not, it's an ancient [+3 shield](3-Mechanics/CLI/items/3-shield.md) bearing Solamnic knotwork designs and the symbol of Paladine. Characters gain no reward for a loss.
+> If the characters attain a win or hold during this scenario, Darrett approaches the characters and gives them something he found amid the rubble of the flying citadel. If there is a good cleric or paladin among the characters, this item is a [talisman of pure good](3-Mechanics/CLI/items/talisman-of-pure-good-xdmg.md) in the shape of their god's holy symbol. If there's not, it's an ancient [+3 shield](3-Mechanics/CLI/items/3-shield-xdmg.md) bearing Solamnic knotwork designs and the symbol of Paladine. Characters gain no reward for a loss.
 > 
 > At the end of the scenario, proceed with "Kalaman Victorious."
 ^warriors-of-krynn-scenario-12

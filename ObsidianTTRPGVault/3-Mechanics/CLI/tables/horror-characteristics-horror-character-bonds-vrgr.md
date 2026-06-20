@@ -12,6 +12,8 @@ aliases:
 
 **Horror Character Bonds**
 
+`dice: [](horror-characteristics-horror-character-bonds-vrgr.md#^horror-character-bonds)`
+
 | dice: d12 | Bond |
 |-----------|------|
 | 1 | I desperately need to get back to someone or someplace, but I lost them in the Mists. |

@@ -12,7 +12,7 @@ aliases:
 
 ## Spawning Trees
 
-![Diagram 3.2: Path of Demons](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/065-1fckv-flowchart-3-2.webp#center)
+![Diagram 3.2: Path of Demons](file://adventure/BGDIA/065-1fckv-flowchart-3-2.webp#center)
 
 *Demons beget demons. Where their filth lands, they spawn ever more corruption*.
 
@@ -29,13 +29,13 @@ When the characters arrive here, read or paraphrase the following boxed text to 
 
 Lakes of demonic ichor appear where demons are slaughtered in great numbers. Malformed trees grow on their shorelines, their branches laden with fleshy sacs. These eventually flop to the ground and wetly break open, each one releasing a fully grown [abyssal chicken](3-Mechanics/CLI/bestiary/fiend/abyssal-chicken-bgdia.md). Abyssal chickens are carnivorous, temperamental, tasty bottom-feeders native to the Abyss. They beat their leathery wings to scare predators and to help them run faster, and they taste like fatty chicken.
 
-With your permission, a character who casts the [find familiar](3-Mechanics/CLI/spells/find-familiar.md) spell can henceforth choose to conjure an abyssal chicken instead of a raven.
+With your permission, a character who casts the [find familiar](3-Mechanics/CLI/spells/find-familiar-xphb.md) spell can henceforth choose to conjure an abyssal chicken instead of a raven.
 
 ### Devilish Work Crew
 
-Zariel dispatched infernal cleanup crews to scour the lake shores for the trees and destroy them before they become thickets. When the characters arrive, they encounter a work crew of five [bearded devils](3-Mechanics/CLI/bestiary/fiend/bearded-devil.md) in the process of raising a pyre around a tree to incinerate it. Four of the devils tease the fifth, whose name is Krikendolt. A vrock savaged Krikendolt's skull during one of the many battles of the Blood War, leaving him with terrible scars and a brain injury that has turned his alignment to chaotic good. Krikendolt's comrades learned that he pities the abyssal chickens, and they are now goading him into slaughtering the chickens on pain of death. Secretly, Krikendolt keeps an [abyssal chicken](3-Mechanics/CLI/bestiary/fiend/abyssal-chicken-bgdia.md) named Earwax in his sack.
+Zariel dispatched infernal cleanup crews to scour the lake shores for the trees and destroy them before they become thickets. When the characters arrive, they encounter a work crew of five [bearded devils](3-Mechanics/CLI/bestiary/fiend/bearded-devil-xmm.md) in the process of raising a pyre around a tree to incinerate it. Four of the devils tease the fifth, whose name is Krikendolt. A vrock savaged Krikendolt's skull during one of the many battles of the Blood War, leaving him with terrible scars and a brain injury that has turned his alignment to chaotic good. Krikendolt's comrades learned that he pities the abyssal chickens, and they are now goading him into slaughtering the chickens on pain of death. Secretly, Krikendolt keeps an [abyssal chicken](3-Mechanics/CLI/bestiary/fiend/abyssal-chicken-bgdia.md) named Earwax in his sack.
 
-The devils are likely to attack on sight unless a character can convince them to parley with a successful DC 12 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check. The devils won't forgive their comrade for his compassion, but the characters could persuade them to release Krikendolt into their care if they offer the right price. Krikendolt knows Avernus well, so he makes a good traveling companion and guide. The characters can cure Krikendolt of his disorder using a [heal](3-Mechanics/CLI/spells/heal.md) spell or similar magic, which restores his lawful evil alignment.
+The devils are likely to attack on sight unless a character can convince them to parley with a successful DC 12 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check. The devils won't forgive their comrade for his compassion, but the characters could persuade them to release Krikendolt into their care if they offer the right price. Krikendolt knows Avernus well, so he makes a good traveling companion and guide. The characters can cure Krikendolt of his disorder using a [heal](3-Mechanics/CLI/spells/heal-xphb.md) spell or similar magic, which restores his lawful evil alignment.
 
 The devils don't know where the Bleeding Citadel is, but they do know someone who could help. For the price of a [soul coin](3-Mechanics/CLI/items/soul-coin-bgdia.md), the devils direct the group to a mysterious outlander (see "Development" below). If the characters are unable to pay, they must return later with the coin and track down the fiends on the lake shore.
 
@@ -47,7 +47,7 @@ The fiends carry five [soul coins](3-Mechanics/CLI/items/soul-coin-bgdia.md) and
 
 The fiends tell the characters about a powerful mage who visits Avernus from other planes and often pays yugoloths for their protection. If anyone knows where to find this Bleeding Citadel, it's surely Mordenkainen! The fiends mark the location of the wizard's tower on the players' map of Avernus. Following this lead takes the group to the Tower of Urm.
 
-![Abyssal Chicken](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/066-636997675080825896.webp#center)
+![Abyssal Chicken](file://adventure/BGDIA/066-636997675080825896.webp#center)
 
 ## Tower of Urm
 
@@ -64,9 +64,9 @@ If the characters arrive when the Tower of Urm is present, read or paraphrase th
 > An iron tower rises atop an island on a lake of boiling blood. No windows penetrate the tower's walls, and its only visible door opens onto a high balcony. Red lightning crackles constantly between two horns of metal on the tower's roof.
 ^201
 
-Mordenkainen, a chaotic neutral human [archmage](3-Mechanics/CLI/bestiary/humanoid/archmage.md), often sojourns to Avernus to study how the Nine Hells affect the schools of magic. This archmage of Oerth leads a powerful group of adventurers called the Circle of Eight and has authored several planar tomes. He has also crafted many renowned spells.
+Mordenkainen, a chaotic neutral human [archmage](3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md), often sojourns to Avernus to study how the Nine Hells affect the schools of magic. This archmage of Oerth leads a powerful group of adventurers called the Circle of Eight and has authored several planar tomes. He has also crafted many renowned spells.
 
-Mordenkainen takes the tower with him when he leaves Avernus. Its empty iron foundations remain behind to mark the site, and when the tower returns, it locks itself into place with a satisfying clunk. Mordenkainen pays yugoloths to carry out his bidding in Avernus. His wages are so attractive that these fiends have taken to gathering outside his tower. There are nine [mezzoloths](3-Mechanics/CLI/bestiary/fiend/mezzoloth.md) and three [nycaloths](3-Mechanics/CLI/bestiary/fiend/nycaloth.md) present here at any time. The fiends aren't looking for trouble, since they're more interested in landing a lucrative contract with the mage.
+Mordenkainen takes the tower with him when he leaves Avernus. Its empty iron foundations remain behind to mark the site, and when the tower returns, it locks itself into place with a satisfying clunk. Mordenkainen pays yugoloths to carry out his bidding in Avernus. His wages are so attractive that these fiends have taken to gathering outside his tower. There are nine [mezzoloths](3-Mechanics/CLI/bestiary/fiend/mezzoloth-xmm.md) and three [nycaloths](3-Mechanics/CLI/bestiary/fiend/nycaloth-xmm.md) present here at any time. The fiends aren't looking for trouble, since they're more interested in landing a lucrative contract with the mage.
 
 Two of the nycaloths—Torgrazk and Shraal—are loyal to Zariel and have been sent here to assassinate Mordenkainen. If they overhear his discussions with the characters, the assassins decide to alter their plans. Both fiends turn [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) and follow the party in hope of an opportunity to kidnap one or more characters and deliver them to Zariel. If they succeed, Zariel invites the rest of the group to her flying fortress to negotiate terms for their comrades' release (see "Zariel's Flying Fortress").
 
@@ -74,7 +74,7 @@ Two of the nycaloths—Torgrazk and Shraal—are loyal to Zariel and have been s
 
 Mordenkainen is a stern, bald man with a neatly trimmed black goatee beard and a penetrating stare. When his tower arrives in Avernus, Mordenkainen steps out onto the balcony to address the fiends gathered below. Fights frequently break out between the yugoloths as they jostle for his attention.
 
-Zariel's assassins often lurk here, so Mordenkainen presents a [simulacrum](3-Mechanics/CLI/spells/simulacrum.md) of his true self that disintegrates into a pile of snow if it is destroyed. The real archmage remains deep inside his tower and swiftly shunts the building to another plane in times of danger.
+Zariel's assassins often lurk here, so Mordenkainen presents a [simulacrum](3-Mechanics/CLI/spells/simulacrum-xphb.md) of his true self that disintegrates into a pile of snow if it is destroyed. The real archmage remains deep inside his tower and swiftly shunts the building to another plane in times of danger.
 
 If the characters make themselves known to Mordenkainen's simulacrum, he demands to know their reasons for visiting. The archmage doesn't know the location of the Bleeding Citadel, nor does he care to find it. Even so, he claims that "balance will be maintained in the universe" by giving the characters directions to a lesser mage who also studies the workings of magic in Avernus—specifically, a "mage of no renown" who haunts the site of an obelisk. The yugoloths recently told Mordenkainen about this stranger and his guidance has an ulterior motive: if the characters end up slaying the mysterious mage, Mordenkainen has one less rival to contend with in Avernus.
 
@@ -91,7 +91,7 @@ When the characters arrive at this location, read or paraphrase the following bo
 > A thirty-foot-tall obelisk ringed by seven smaller standing stones rises from the crest of this hill. A tall man wearing tattered robes strides between the standing stones, gesticulating wildly and screaming curses into the wind.
 ^204
 
-The pit fiend [Bel](3-Mechanics/CLI/bestiary/npc/bel-bgdia.md) imprisoned the [barlgura](3-Mechanics/CLI/bestiary/fiend/barlgura.md) demon Ubbalux inside this circle of standing stones. To torment his adversary, [Bel](3-Mechanics/CLI/bestiary/npc/bel-bgdia.md) revealed that the secret to escaping the prison was hidden in the arcane runes etched across the standing stones. Ever since, the tormented demon has tried futilely to solve the riddle and escape. The figure pacing the standing stones is Ubbalux masquerading in human form using a [disguise self](3-Mechanics/CLI/spells/disguise-self.md) spell. The magic of the obelisk prevents the demon from leaving the circle and stops any form of divination magic from affecting the stones or targeting a creature inside their perimeter.
+The pit fiend [Bel](3-Mechanics/CLI/bestiary/npc/bel-bgdia.md) imprisoned the [barlgura](3-Mechanics/CLI/bestiary/fiend/barlgura-xmm.md) demon Ubbalux inside this circle of standing stones. To torment his adversary, [Bel](3-Mechanics/CLI/bestiary/npc/bel-bgdia.md) revealed that the secret to escaping the prison was hidden in the arcane runes etched across the standing stones. Ever since, the tormented demon has tried futilely to solve the riddle and escape. The figure pacing the standing stones is Ubbalux masquerading in human form using a [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md) spell. The magic of the obelisk prevents the demon from leaving the circle and stops any form of divination magic from affecting the stones or targeting a creature inside their perimeter.
 
 Ubbalux appears as a tall human wizard. The demon stole this appearance from the last visitor to stray into his stones (after Ubbalux ate him). If the characters approach, the "wizard" greets them eagerly and is keen to divulge details of his studies, but his conversation often trails off on confusing tangents. The following information can be gleaned by speaking with the false wizard:
 
@@ -104,20 +104,20 @@ Ubbalux can truly help the characters find the path to the Bleeding Citadel, but
 
 The wizard claims that each standing stone is keyed to one of the eight schools of magic (abjuration, conjuration, divination, enchantment, evocation, illusion, necromancy, and transmutation). His theory suggests that the central obelisk grants a boost in arcane power to mages across the cosmos, and he urges the characters to aid him in empowering it. In truth, Ubbalux has concocted this theory to dupe the characters into testing his latest escape plan. Characters who examine the standing stones and succeed on a DC 15 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check discern that the arcane runes do indeed relate to the eight schools of magic.
 
-The wizard requests that each character places a hand upon a different stone, to "assist in channeling the streams of magic." When their hands are in place, Ubbalux begins to chant. The air fills with ozone as lightning courses over the standing stones. Each character who participates in the experiment takes 22 (`5d8`) lightning damage and suffers an additional effect based on the school of magic associated with the standing stone that the character touched, as noted in the Standing Stone Effects table. Ubbalux's latest attempt to escape his prison has failed.
+The wizard requests that each character places a hand upon a different stone, to "assist in channeling the streams of magic." When their hands are in place, Ubbalux begins to chant. The air fills with ozone as lightning courses over the standing stones. Each character who participates in the experiment takes `dice:5d8|noform|noparens|avg|text(22)` (`5d8`) lightning damage and suffers an additional effect based on the school of magic associated with the standing stone that the character touched, as noted in the Standing Stone Effects table. Ubbalux's latest attempt to escape his prison has failed.
 
 #### Standing Stone Effects
 
 | School | Effect |
 |--------|--------|
 | Abjuration | You gain a +2 bonus to AC for the next 24 hours. |
-| Conjuration | A [monodrone](3-Mechanics/CLI/bestiary/construct/monodrone.md) appears in an unoccupied space within 5 feet of you and follows you around until it's destroyed. It is indifferent toward all creatures, including you. |
-| Divination | You gain the benefits of a [true seeing](3-Mechanics/CLI/spells/true-seeing.md) spell for the next hour. |
-| Enchantment | The standing stone casts [confusion](3-Mechanics/CLI/spells/confusion.md) on you (save DC 15). The spell lasts for 1 minute. |
-| Evocation | The standing stone casts [magic missile](3-Mechanics/CLI/spells/magic-missile.md), targeting you with five missiles. |
-| Illusion | An illusory swarm of harmless bats or pigeons (DM's choice) flutters over your head for the next hour. A [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md) cast on the swarm ends the effect. |
+| Conjuration | A [monodrone](3-Mechanics/CLI/bestiary/construct/modron-monodrone-xmm.md) appears in an unoccupied space within 5 feet of you and follows you around until it's destroyed. It is indifferent toward all creatures, including you. |
+| Divination | You gain the benefits of a [true seeing](3-Mechanics/CLI/spells/true-seeing-xphb.md) spell for the next hour. |
+| Enchantment | The standing stone casts [confusion](3-Mechanics/CLI/spells/confusion-xphb.md) on you (save DC 15). The spell lasts for 1 minute. |
+| Evocation | The standing stone casts [magic missile](3-Mechanics/CLI/spells/magic-missile-xphb.md), targeting you with five missiles. |
+| Illusion | An illusory swarm of harmless bats or pigeons (DM's choice) flutters over your head for the next hour. A [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) cast on the swarm ends the effect. |
 | Necromancy | You also take 30 necrotic damage from the standing stone. |
-| Transmutation | Your skin turns blue for the next 24 hours. A [remove curse](3-Mechanics/CLI/spells/remove-curse.md) spell ends the effect on you. |
+| Transmutation | Your skin turns blue for the next 24 hours. A [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md) spell ends the effect on you. |
 ^school-effect
 
 #### Development
@@ -143,7 +143,7 @@ Any character who witnesses their reflection in the mirror must succeed on a DC 
 
 ### The Emissary
 
-Shortly after arriving here, the characters see one of Mephistopheles's emissaries in the mirror: a [cambion](3-Mechanics/CLI/bestiary/fiend/cambion.md) named Rigorath. The emissary, only visible in the icy world beyond the mirror, swoops down from the direction of the tower. His skin is cadaver-blue, and his face is frozen in a scream. Rigorath holds a kettle of steaming water in one hand. Before speaking, he pours the boiling water over his face to thaw it out. After each utterance, the ice spreads over his face again, freezing into an expression of pained anguish.
+Shortly after arriving here, the characters see one of Mephistopheles's emissaries in the mirror: a [cambion](3-Mechanics/CLI/bestiary/fiend/cambion-xmm.md) named Rigorath. The emissary, only visible in the icy world beyond the mirror, swoops down from the direction of the tower. His skin is cadaver-blue, and his face is frozen in a scream. Rigorath holds a kettle of steaming water in one hand. Before speaking, he pours the boiling water over his face to thaw it out. After each utterance, the ice spreads over his face again, freezing into an expression of pained anguish.
 
 Rigorath can perceive the characters though the mirror but can't pass through its surface, nor can the characters pass through the mirror or target Rigorath with spells or attacks. Rigorath tries to broker an infernal pact with the characters on behalf of his master Mephistopheles, offering them knowledge and power in return for their assistance:
 
@@ -153,15 +153,15 @@ Rigorath can perceive the characters though the mirror but can't pass through it
 
 Rigorath refuses to explain why Mephistopheles wants the River Styx dammed. His master is wary of angering Zariel and refuses to grant directions to the Bleeding Citadel. If the characters agree to Mephistopheles's pact, Rigorath etches the terms onto the surface of the mirror. The words form into chunks of ice on the group's side, which Rigorath instructs them to chisel off, melt, and then drink to seal the bargain.
 
-To aid the characters with damming the River Styx, the emissary crafts an [imp](3-Mechanics/CLI/bestiary/fiend/imp.md) out of snow, which hops through the mirror to join them. This imp has immunity to cold damage and carries a sling bag containing five [shattersticks](3-Mechanics/CLI/items/shatterstick-bgdia.md) (see the "Shattersticks" sidebar) that it can use to demolish the riverbank. The imp is focused on his task, dislikes procrastination, and spits shards of ice when annoyed. The imp can guide the characters to the chasm of the Pit of Shummrath.
+To aid the characters with damming the River Styx, the emissary crafts an [imp](3-Mechanics/CLI/bestiary/fiend/imp-xmm.md) out of snow, which hops through the mirror to join them. This imp has immunity to cold damage and carries a sling bag containing five [shattersticks](3-Mechanics/CLI/items/shatterstick-bgdia.md) (see the "Shattersticks" sidebar) that it can use to demolish the riverbank. The imp is focused on his task, dislikes procrastination, and spits shards of ice when annoyed. The imp can guide the characters to the chasm of the Pit of Shummrath.
 
 #### Development
 
-If Mephistopheles learns of the [Sword of Zariel](3-Mechanics/CLI/items/sword-of-zariel-bgdia.md), the archdevil orders the imp to follow the group invisibly after it completes its demolition work and report back when they've located the Bleeding Citadel. At that point, Mephistopheles sends an [ice devil](3-Mechanics/CLI/bestiary/fiend/ice-devil.md) into Avernus with orders to murder the characters and steal the sword. If he gets the sword, Mephistopheles plans to use the artifact as leverage against Zariel in future dealings.
+If Mephistopheles learns of the [Sword of Zariel](3-Mechanics/CLI/items/sword-of-zariel-bgdia.md), the archdevil orders the imp to follow the group invisibly after it completes its demolition work and report back when they've located the Bleeding Citadel. At that point, Mephistopheles sends an [ice devil](3-Mechanics/CLI/bestiary/fiend/ice-devil-xmm.md) into Avernus with orders to murder the characters and steal the sword. If he gets the sword, Mephistopheles plans to use the artifact as leverage against Zariel in future dealings.
 
 > [!note] Shatterstick
 > 
-> A shatterstick is a nonmagical, 12-inch-long, 4-pound stake made of blue-tinged infernal iron mined on Cania, the eighth layer of the Nine Hells. When embedded in earth or pounded into solid rock, the stake emits a seismic vibration in a 20-foot radius centered on itself for 1 minute, shaking the ground in that area for the duration. When the effects ends, the shatterstick breaks apart, becoming useless, and all structures within 20 feet of it take 35 (`10d6`) bludgeoning damage.
+> A shatterstick is a nonmagical, 12-inch-long, 4-pound stake made of blue-tinged infernal iron mined on Cania, the eighth layer of the Nine Hells. When embedded in earth or pounded into solid rock, the stake emits a seismic vibration in a 20-foot radius centered on itself for 1 minute, shaking the ground in that area for the duration. When the effects ends, the shatterstick breaks apart, becoming useless, and all structures within 20 feet of it take `dice:10d6|noform|noparens|avg|text(35)` (`10d6`) bludgeoning damage.
 ^shatterstick
 
 ## Pit of Shummrath
@@ -185,25 +185,25 @@ Those who establish communication with Shummrath discover that the devil repeats
 
 ### Imprisoned Ultroloth
 
-When the characters arrive here, they spot an [ultroloth](3-Mechanics/CLI/bestiary/fiend/ultroloth.md) imprisoned in the iron cage suspended over the chasm. The iron crane has a magically powered winch mechanism that repeatedly dunks the cage into the goo, nearly drowning the prisoner with each submersion. The ultroloth, Baazit, is bound by [dimensional shackles](3-Mechanics/CLI/items/dimensional-shackles.md) that prevent it from teleporting away.
+When the characters arrive here, they spot an [ultroloth](3-Mechanics/CLI/bestiary/fiend/ultroloth-xmm.md) imprisoned in the iron cage suspended over the chasm. The iron crane has a magically powered winch mechanism that repeatedly dunks the cage into the goo, nearly drowning the prisoner with each submersion. The ultroloth, Baazit, is bound by [dimensional shackles](3-Mechanics/CLI/items/dimensional-shackles-xdmg.md) that prevent it from teleporting away.
 
 Baazit contacts the characters telepathically as soon as they're in range. The ultroloth was imprisoned by a pit fiend for stealing [soul coins](3-Mechanics/CLI/items/soul-coin-bgdia.md). Baazit promises to show the characters how to form magical servants from the goo if they free it. Baazit can also direct the group to [Bel](3-Mechanics/CLI/bestiary/npc/bel-bgdia.md)'s forge (see "Bel's Forge").
 
-A character can jam the crane's winch with a crowbar or similar tool, preventing it from lowering or raising Baazit's cage. Once the cage stops moving, a character can try to use [thieves' tools](3-Mechanics/CLI/items/thieves-tools.md) to unlock the cage door, doing so with a successful DC 20 Dexterity check. A [knock](3-Mechanics/CLI/spells/knock.md) spell or similar magic also unlocks the cage door.
+A character can jam the crane's winch with a crowbar or similar tool, preventing it from lowering or raising Baazit's cage. Once the cage stops moving, a character can try to use [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md) to unlock the cage door, doing so with a successful DC 20 Dexterity check. A [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell or similar magic also unlocks the cage door.
 
 #### Creating a Homunculus
 
-Characters can follow Baazit's instructions to scoop out a handful of the slime and spend an hour molding it into a tiny humanoid shape. At the end of this time, the slime animates as a loyal, lawful evil [homunculus](3-Mechanics/CLI/bestiary/construct/homunculus.md) made of dripping green jelly. Each character can only have one of these servants active at a time. If a character makes a second homunculus, the first one melts into a sticky puddle of inanimate goo.
+Characters can follow Baazit's instructions to scoop out a handful of the slime and spend an hour molding it into a tiny humanoid shape. At the end of this time, the slime animates as a loyal, lawful evil [homunculus](3-Mechanics/CLI/bestiary/construct/homunculus-xmm.md) made of dripping green jelly. Each character can only have one of these servants active at a time. If a character makes a second homunculus, the first one melts into a sticky puddle of inanimate goo.
 
 #### Treasure
 
-Characters who free or slay Baazit can claim the [dimensional shackles](3-Mechanics/CLI/items/dimensional-shackles.md) that restrain it.
+Characters who free or slay Baazit can claim the [dimensional shackles](3-Mechanics/CLI/items/dimensional-shackles-xdmg.md) that restrain it.
 
 ### Damming the Styx
 
-If the characters are traveling with the ice imp (see "Mirror of Mephistar"), it leads them to the narrowest point of the Styx's tributary river and sets about hammering its five shattersticks into the rocky ravine walls (see the "Shatterstick" sidebar). The imp asks the characters to stand guard while it works. As the imp places the shattersticks, eight [spined devils](3-Mechanics/CLI/bestiary/fiend/spined-devil.md) swoop down and attack. One minute after the last shatterstick is activated, the combined seismic activity of all the shattersticks triggers a huge rockfall that fills the gully, creating a dam.
+If the characters are traveling with the ice imp (see "Mirror of Mephistar"), it leads them to the narrowest point of the Styx's tributary river and sets about hammering its five shattersticks into the rocky ravine walls (see the "Shatterstick" sidebar). The imp asks the characters to stand guard while it works. As the imp places the shattersticks, eight [spined devils](3-Mechanics/CLI/bestiary/fiend/spined-devil-xmm.md) swoop down and attack. One minute after the last shatterstick is activated, the combined seismic activity of all the shattersticks triggers a huge rockfall that fills the gully, creating a dam.
 
-With the polluted River Styx cut off from the chasm, Shummrath slowly starts to regenerate its mind and reform its body. After 48 hours, Shummrath reforms as a [pit fiend](3-Mechanics/CLI/bestiary/fiend/pit-fiend.md) and flies off to wage war on his rival, [Bel](3-Mechanics/CLI/bestiary/npc/bel-bgdia.md). If the characters visit [Bel](3-Mechanics/CLI/bestiary/npc/bel-bgdia.md)'s forge later in the adventure (see "Bel's Forge"), they find it under siege from Shummrath's hastily mustered forces. The attackers are quickly overwhelmed, forcing Shummrath to retreat to some far corner of Avernus to escape [Bel](3-Mechanics/CLI/bestiary/npc/bel-bgdia.md)'s wrath.
+With the polluted River Styx cut off from the chasm, Shummrath slowly starts to regenerate its mind and reform its body. After 48 hours, Shummrath reforms as a [pit fiend](3-Mechanics/CLI/bestiary/fiend/pit-fiend-xmm.md) and flies off to wage war on his rival, [Bel](3-Mechanics/CLI/bestiary/npc/bel-bgdia.md). If the characters visit [Bel](3-Mechanics/CLI/bestiary/npc/bel-bgdia.md)'s forge later in the adventure (see "Bel's Forge"), they find it under siege from Shummrath's hastily mustered forces. The attackers are quickly overwhelmed, forcing Shummrath to retreat to some far corner of Avernus to escape [Bel](3-Mechanics/CLI/bestiary/npc/bel-bgdia.md)'s wrath.
 
 #### Development
 
@@ -231,8 +231,8 @@ The onyx steps descend into catacombs containing the remains of Hellriders who d
 Dozens of dead knights kneel before the monoliths, their foreheads resting on the pommels of their swords. The knights' armor serves as caskets for their bones, yet their corpses stay upright as though in prayer. Each knight wears the faded regalia of Elturel.
 
 > [!gallery]
-> ![Map 3.3: Crypt of the Hellriders](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/067-veqr1-map-3-3.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/068-swsdq-map-3-3-player.webp#gallery)
+> ![Map 3.3: Crypt of the Hellriders](file://adventure/BGDIA/067-veqr1-map-3-3.webp#gallery)
+> ![Player Version](file://adventure/BGDIA/068-swsdq-map-3-3-player.webp#gallery)
 
 ### Encounters in the Crypt
 
@@ -247,7 +247,7 @@ When the characters descend into the catacombs, read:
 > A pair of basalt doors block the passage ahead, their surfaces engraved with a relief of a knight locked in combat with a devil. Both wield burning swords.
 ^218
 
-The doors do not have visible handles, locks, or bolts, and they are magically locked, hardened, and enchanted to resist magic. Any spell cast to unlock, damage, or re-mold the doors automatically fails. Characters can use [dimension door](3-Mechanics/CLI/spells/dimension-door.md) or similar magic to get past the doors. They can also slip through the cracks between the doors if they have the magic to do so (such as the [gaseous form](3-Mechanics/CLI/spells/gaseous-form.md) spell). Otherwise, they'll need the speak the pass phrase "For Glory" to proceed any farther. Characters can learn the pass phrase from Ubbalux the barlgura (as discussed in the "Pit of Shummrath" section).
+The doors do not have visible handles, locks, or bolts, and they are magically locked, hardened, and enchanted to resist magic. Any spell cast to unlock, damage, or re-mold the doors automatically fails. Characters can use [dimension door](3-Mechanics/CLI/spells/dimension-door-xphb.md) or similar magic to get past the doors. They can also slip through the cracks between the doors if they have the magic to do so (such as the [gaseous form](3-Mechanics/CLI/spells/gaseous-form-xphb.md) spell). Otherwise, they'll need the speak the pass phrase "For Glory" to proceed any farther. Characters can learn the pass phrase from Ubbalux the barlgura (as discussed in the "Pit of Shummrath" section).
 
 If a character speaks the pass phrase aloud within 10 feet of the doors, the doors slowly grind open. The doors close on their own after 1 hour unless they are held or wedged open.
 
@@ -260,7 +260,7 @@ There are several funerary chambers in the catacombs. When the characters enter 
 > Large iron burial urns are positioned reverently throughout this hall, each engraved with a noble coats-of-arms from the city of Elturel. Polished swords, lances, and shields hang from racks on the walls.
 ^21a
 
-If a character says respectful words over the urns or disturb them in any way, three [ghosts](3-Mechanics/CLI/bestiary/undead/ghost.md) of Zariel's knights arise from their remains. The ghosts solemnly reveal the following information:
+If a character says respectful words over the urns or disturb them in any way, three [ghosts](3-Mechanics/CLI/bestiary/undead/ghost-xmm.md) of Zariel's knights arise from their remains. The ghosts solemnly reveal the following information:
 
 - The knights fought and died alongside the angel Zariel when she waged war in Avernus.  
 - Zariel's crusade ended in failure. Most of their generals, including the angel herself, fell to evil and transformed into fiends.  
@@ -285,7 +285,7 @@ When the characters approach one of these areas, read:
 
 Each of these corridors contains six caskets arranged in stacked pairs.
 
-Being entombed in Avernus has corrupted the spirits of these knights. Each casket contains a single [wraith](3-Mechanics/CLI/bestiary/undead/wraith.md) magically held at bay by the rose laid on the casket. If a character removes a rose from a casket, the flower immediately withers and dies, and the wraith arises from the casket to attack any living creature or fiend that it sees. A wraith can't touch any of the roses on the other caskets.
+Being entombed in Avernus has corrupted the spirits of these knights. Each casket contains a single [wraith](3-Mechanics/CLI/bestiary/undead/wraith-xmm.md) magically held at bay by the rose laid on the casket. If a character removes a rose from a casket, the flower immediately withers and dies, and the wraith arises from the casket to attack any living creature or fiend that it sees. A wraith can't touch any of the roses on the other caskets.
 
 #### C4. Warlocks' Tomb
 
@@ -296,11 +296,11 @@ When the characters peer into this room, read:
 > An iron urn heaped with human bones squats in an alcove at one end of this hall. On the wall nearby, a carved relief shows a column of mounted knights charging through a portal into a fiery hellscape.
 ^21e
 
-Zariel's warlocks helped build the Crypt of the Hellriders to gain infernal power in their mortal world. When they died, their cursed bodies were dragged into Avernus to guard the tomb for eternity. Eight [mummies](3-Mechanics/CLI/bestiary/undead/mummy.md) now lurk inside this chamber and guard the path to the memorial steles. If the undead hear the characters elsewhere in the catacombs, they hide inside the large urn to the west. When the characters enter, they try to creep out silently and ambush them.
+Zariel's warlocks helped build the Crypt of the Hellriders to gain infernal power in their mortal world. When they died, their cursed bodies were dragged into Avernus to guard the tomb for eternity. Eight [mummies](3-Mechanics/CLI/bestiary/undead/mummy-xmm.md) now lurk inside this chamber and guard the path to the memorial steles. If the undead hear the characters elsewhere in the catacombs, they hide inside the large urn to the west. When the characters enter, they try to creep out silently and ambush them.
 
 ##### Treasure
 
-One of the mummies carries a [wand of secrets](3-Mechanics/CLI/items/wand-of-secrets.md), and another wears a [necklace of fireballs](3-Mechanics/CLI/items/necklace-of-fireballs.md). If the characters defeat the undead, they can claim these items for themselves.
+One of the mummies carries a [wand of secrets](3-Mechanics/CLI/items/wand-of-secrets-xdmg.md), and another wears a [necklace of fireballs](3-Mechanics/CLI/items/necklace-of-fireballs-xdmg.md). If the characters defeat the undead, they can claim these items for themselves.
 
 #### C5. Memorial Steles
 
@@ -313,9 +313,9 @@ When the characters enter this room, read:
 > Adorning the wall across from the steles is a carved relief showing a solemn, blindfolded angel on the back of a mammoth with feathered wings. The mammoth is reared up on its hind legs, and the angel holds her sword high. All around them are the broken bodies of fallen knights and devils.
 ^221
 
-Characters who use [detect magic](3-Mechanics/CLI/spells/detect-magic.md) or similar magic to examine the steles discern a strong aura of necromantic magic emanating from the engraved names.
+Characters who use [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) or similar magic to examine the steles discern a strong aura of necromantic magic emanating from the engraved names.
 
-While the steles remain empowered, necrotic energy lashes out at anyone who touches them. A creature touching a stele must make a DC 15 Dexterity saving throw, taking 36 (`8d8`) necrotic damage on a failed save, or half as much damage on a successful one. If the soul-bound parchments in both ritual rooms (area C6) are destroyed, the steles deactivate. The characters can then free the warriors' souls by striking their names from the stone. As the names are removed, the knights' ghosts fade from view with gasps of relief. If all the names are struck from the stele, each character gains the benefit of a [bless](3-Mechanics/CLI/spells/bless.md) spell that lasts for 24 hours.
+While the steles remain empowered, necrotic energy lashes out at anyone who touches them. A creature touching a stele must make a DC 15 Dexterity saving throw, taking `dice:8d8|noform|noparens|avg|text(36)` (`8d8`) necrotic damage on a failed save, or half as much damage on a successful one. If the soul-bound parchments in both ritual rooms (area C6) are destroyed, the steles deactivate. The characters can then free the warriors' souls by striking their names from the stone. As the names are removed, the knights' ghosts fade from view with gasps of relief. If all the names are struck from the stele, each character gains the benefit of a [bless](3-Mechanics/CLI/spells/bless-xphb.md) spell that lasts for 24 hours.
 
 #### C6. Ritual Rooms
 
@@ -349,9 +349,9 @@ The journals belong to Olanthius the death knight and are written in Common. Cha
 
 ### Olanthius Returns
 
-If the characters desecrate any of the tombs or disturb the journals in area C7, Olanthius the [death knight](3-Mechanics/CLI/bestiary/undead/death-knight.md) returns to the crypt on a chariot pulled by two [gorgons](3-Mechanics/CLI/bestiary/monstrosity/gorgon.md). Olanthius is bound to protect the crypt and can be summoned from anywhere in Avernus to fulfill his duties. He descends below ground to hunt down intruders and interrogate them, leaving the gorgons and chariot outside.
+If the characters desecrate any of the tombs or disturb the journals in area C7, Olanthius the [death knight](3-Mechanics/CLI/bestiary/undead/death-knight-xmm.md) returns to the crypt on a chariot pulled by two [gorgons](3-Mechanics/CLI/bestiary/construct/gorgon-xmm.md). Olanthius is bound to protect the crypt and can be summoned from anywhere in Avernus to fulfill his duties. He descends below ground to hunt down intruders and interrogate them, leaving the gorgons and chariot outside.
 
-As Olanthius moves through the catacombs, he compels any ghosts he encounters to fight at his side. Any ghosts that the characters summoned from the urns in the funerary chambers (area C2) transform into [specters](3-Mechanics/CLI/bestiary/undead/specter.md) under Olanthius's command and join him on his hunt.
+As Olanthius moves through the catacombs, he compels any ghosts he encounters to fight at his side. Any ghosts that the characters summoned from the urns in the funerary chambers (area C2) transform into [specters](3-Mechanics/CLI/bestiary/undead/specter-xmm.md) under Olanthius's command and join him on his hunt.
 
 Olanthius is an extraordinarily powerful foe for 9th-level characters. Fortunately, the characters can avoid combat with the death knight once they realize he's willing to help them.
 
@@ -378,13 +378,13 @@ When the characters arrive at this location, read or paraphrase the following bo
 > Two ornate, black arches dominate the scorched landscape for miles, each one rising two hundred feet into the stiflingly hot air. Every inch of stonework is engraved with images of devils waging war against demons.
 ^229
 
-In forgotten times, archdevils used these twin arches to transport entire regiments to other planes of existence. The arches' magic has waned significantly, but there's still enough magic left in each one to transport creatures to another location in the Nine Hells. Characters who use a [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell or similar magic to examine the arches discern a powerful aura of conjuration magic around each one.
+In forgotten times, archdevils used these twin arches to transport entire regiments to other planes of existence. The arches' magic has waned significantly, but there's still enough magic left in each one to transport creatures to another location in the Nine Hells. Characters who use a [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar magic to examine the arches discern a powerful aura of conjuration magic around each one.
 
 When a creature approaches within 100 feet of either arch, the stonework emits a loud, resonant hum that grows louder and higher in pitch as the creature draws closer. As a creature passes through an arch, a roaring sheet of flame fills the archway, teleporting the creature to another location in the Nine Hells. Any creature or object that passes through the arch while the portal is open is transported to the same destination. Each arch is wide enough to accommodate infernal war machines.
 
 To travel to a specific destination, a creature must have visited it before or be able to point to its location on a map. Characters who point to [Kostchtchie](3-Mechanics/CLI/bestiary/npc/kostchtchie-bgdia.md)'s Maw on their map as they pass through an arch are teleported to the top of the demon lord's prison-chasm.
 
-If the characters fail to pick a destination, determine it randomly. Ask a player to roll a `d20` on the poster map of Avernus. The location closest to where the die rests becomes the destination. If the die rolls off the map, the DM chooses a destination.
+If the characters fail to pick a destination, determine it randomly. Ask a player to roll a `dice:d20|noform|noparens|avg` (`d20`) on the poster map of Avernus. The location closest to where the die rests becomes the destination. If the die rolls off the map, the DM chooses a destination.
 
 The portal remains open and fixed to the same destination for 10 minutes, after which it deactivates as the arch that created it crumbles and falls to the ground.
 
@@ -415,7 +415,7 @@ The chasm descends to a depth of 500 feet. Although there are abundant handholds
 
 #### Prison Guards
 
-A [chain devil](3-Mechanics/CLI/bestiary/fiend/chain-devil.md) named Mazer and four [hell hounds](3-Mechanics/CLI/bestiary/fiend/hell-hound.md) guard the demon lord. If they detect intruders, the hounds pounce down from high caves as the devil emerges from the tar pit.
+A [chain devil](3-Mechanics/CLI/bestiary/fiend/chain-devil-xmm.md) named Mazer and four [hell hounds](3-Mechanics/CLI/bestiary/fiend/hell-hound-xmm.md) guard the demon lord. If they detect intruders, the hounds pounce down from high caves as the devil emerges from the tar pit.
 
 Mazer keeps [Kostchtchie](3-Mechanics/CLI/bestiary/npc/kostchtchie-bgdia.md)'s chains tight at all times. Hidden in the tar pit are dozens more chains (each 100 feet long) that Mazer can use its Animate Chains action to animate. Mazer uses these loose chains to bind enemies or drag them into the tar pit, which is difficult terrain.
 
@@ -423,8 +423,8 @@ If the chain devil dies, [Kostchtchie](3-Mechanics/CLI/bestiary/npc/kostchtchie-
 
 #### Development
 
-If [Kostchtchie](3-Mechanics/CLI/bestiary/npc/kostchtchie-bgdia.md) is freed, the he cries out to Zariel (in Giant) that he's coming for his hammer and swears to crush her with it. He then casts [wind walk](3-Mechanics/CLI/spells/wind-walk.md), which turns him into a cloudy form with an astonishingly fast flying speed of 300 feet. In this form, he travels with great haste across Avernus, determined to get his hammer back. Characters swift enough to follow in his wake are led to Zariel (see chapter 5).
+If [Kostchtchie](3-Mechanics/CLI/bestiary/npc/kostchtchie-bgdia.md) is freed, the he cries out to Zariel (in Giant) that he's coming for his hammer and swears to crush her with it. He then casts [wind walk](3-Mechanics/CLI/spells/wind-walk-xphb.md), which turns him into a cloudy form with an astonishingly fast flying speed of 300 feet. In this form, he travels with great haste across Avernus, determined to get his hammer back. Characters swift enough to follow in his wake are led to Zariel (see chapter 5).
 
 With [Kostchtchie](3-Mechanics/CLI/bestiary/npc/kostchtchie-bgdia.md) freed, the characters can return to the Crypt of the Hellriders, where Olanthius dutifully reveals the location of the Bleeding Citadel (see chapter 4). As the characters leave the catacombs, he asks them to give his love to Yael when they see her.
 
-![](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/069-xef0g-03-15.webp#center)
+![](file://adventure/BGDIA/069-xef0g-03-15.webp#center)

@@ -12,6 +12,8 @@ aliases:
 
 **Archfey's Presentation**
 
+`dice: [](archfeys-presentation-dod.md#^archfeys-presentation)`
+
 | dice: d8 | Presentation |
 |----------|--------------|
 | 1 | **Adorable.** The archfey has taken on the form of something adorable, such as an otter, a fawn, a sugar glider, a wombat, or a beautiful butterfly. |

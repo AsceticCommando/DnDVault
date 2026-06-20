@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "The Pudding King"
 ---
-# [The Pudding King](3-Mechanics\CLI\bestiary\npc/the-pudding-king-oota.md)
+# [The Pudding King](3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md)
 *Source: Out of the Abyss p. 233*  
 
 ```statblock
@@ -23,7 +23,7 @@ aliases:
 "subtype": "gnome, shapechanger"
 "alignment": "Chaotic Evil"
 "ac": !!int "13"
-"ac_class": "16 with [mage armor](3-Mechanics/CLI/spells/mage-armor.md)"
+"ac_class": "16 with [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
 "hp": !!int "49"
 "hit_dice": "9d6 + 18"
 "modifier": !!int "3"
@@ -50,7 +50,7 @@ aliases:
 "damage_resistances": "acid, poison"
 "condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
 "gear":
-  - "[war pick](3-Mechanics/CLI/items/war-pick.md)"
+  - "[war pick](3-Mechanics/CLI/items/war-pick-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 12"
 "languages": "Abyssal, Gnomish, Terran, Undercommon"
@@ -59,22 +59,24 @@ aliases:
   - "desc": "The Pudding King is a 9th-level spellcaster. His spellcasting ability\
       \ is Charisma (spell save DC 14, +6 to hit with spell attacks). The Pudding\
       \ King knows the following sorcerer spells:\n\n**Cantrips (at will):** [acid\
-      \ splash](3-Mechanics/CLI/spells/acid-splash.md), [light](3-Mechanics/CLI/spells/light.md),\
-      \ [mage hand](3-Mechanics/CLI/spells/mage-hand.md), [poison spray](3-Mechanics/CLI/spells/poison-spray.md),\
-      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md)\n\n**1st level\
-      \ (4 slots):** [false life](3-Mechanics/CLI/spells/false-life.md), [mage armor](3-Mechanics/CLI/spells/mage-armor.md),\
-      \ [ray of sickness](3-Mechanics/CLI/spells/ray-of-sickness.md), [shield](3-Mechanics/CLI/spells/shield.md)\n\
-      \n**2nd level (3 slots):** [crown of madness](3-Mechanics/CLI/spells/crown-of-madness.md),\
-      \ [misty step](3-Mechanics/CLI/spells/misty-step.md)\n\n**3rd level (3 slots):**\
-      \ [gaseous form](3-Mechanics/CLI/spells/gaseous-form.md), [stinking cloud](3-Mechanics/CLI/spells/stinking-cloud.md)\n\
-      \n**4th level (3 slots):** [blight](3-Mechanics/CLI/spells/blight.md), [confusion](3-Mechanics/CLI/spells/confusion.md)\n\
-      \n**5th level (1 slots):** [cloudkill](3-Mechanics/CLI/spells/cloudkill.md)"
+      \ splash](3-Mechanics/CLI/spells/acid-splash-xphb.md), [light](3-Mechanics/CLI/spells/light-xphb.md),\
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [poison spray](3-Mechanics/CLI/spells/poison-spray-xphb.md),\
+      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n**1st\
+      \ level (4 slots):** [false life](3-Mechanics/CLI/spells/false-life-xphb.md),\
+      \ [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md), [ray of sickness](3-Mechanics/CLI/spells/ray-of-sickness-xphb.md),\
+      \ [shield](3-Mechanics/CLI/spells/shield-xphb.md)\n\n**2nd level (3 slots):**\
+      \ [crown of madness](3-Mechanics/CLI/spells/crown-of-madness-xphb.md), [misty\
+      \ step](3-Mechanics/CLI/spells/misty-step-xphb.md)\n\n**3rd level (3 slots):**\
+      \ [gaseous form](3-Mechanics/CLI/spells/gaseous-form-xphb.md), [stinking cloud](3-Mechanics/CLI/spells/stinking-cloud-xphb.md)\n\
+      \n**4th level (3 slots):** [blight](3-Mechanics/CLI/spells/blight-xphb.md),\
+      \ [confusion](3-Mechanics/CLI/spells/confusion-xphb.md)\n\n**5th level (1 slots):**\
+      \ [cloudkill](3-Mechanics/CLI/spells/cloudkill-xphb.md)"
     "name": "Spellcasting"
   - "desc": "The Pudding King's innate spellcasting ability is Intelligence (spell\
       \ save DC 12). He can innately cast the following spells, requiring no material\
-      \ components:\n\n**At will:** [nondetection](3-Mechanics/CLI/spells/nondetection.md)\
-      \ (self only)\n\n**1/day each:** [blindness/deafness](3-Mechanics/CLI/spells/blindness-deafness.md),\
-      \ [blur](3-Mechanics/CLI/spells/blur.md), [disguise self](3-Mechanics/CLI/spells/disguise-self.md)"
+      \ components:\n\n**At will:** [nondetection](3-Mechanics/CLI/spells/nondetection-xphb.md)\
+      \ (self only)\n\n**1/day each:** [blindness/deafness](3-Mechanics/CLI/spells/blindness-deafness-xphb.md),\
+      \ [blur](3-Mechanics/CLI/spells/blur-xphb.md), [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "The Pudding King has advantage on Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth))\
       \ checks made to hide in rocky terrain."
@@ -102,6 +104,6 @@ aliases:
     "name": "Create Green Slime (Recharges after a Long Rest)"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/the-pudding-king-oota.webp"
+"image": "file://bestiary/tokens/OotA/The%20Pudding%20King.webp"
 ```
 ^statblock

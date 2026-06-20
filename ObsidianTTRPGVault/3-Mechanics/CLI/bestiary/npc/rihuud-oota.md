@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Rihuud"
 ---
-# [Rihuud](3-Mechanics\CLI\bestiary\npc/rihuud-oota.md)
+# [Rihuud](3-Mechanics/CLI/bestiary/npc/rihuud-oota.md)
 *Source: Out of the Abyss p. 59*  
 
 ```statblock
@@ -43,7 +43,7 @@ aliases:
   - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
 "gear":
-  - "[greatclub](3-Mechanics/CLI/items/greatclub.md)"
+  - "[greatclub](3-Mechanics/CLI/items/greatclub-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 14"
 "languages": "Giant"
@@ -75,6 +75,6 @@ aliases:
     "name": "Rock Catching"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/rihuud-oota.webp"
+"image": "file://bestiary/tokens/OotA/Rihuud.webp"
 ```
 ^statblock

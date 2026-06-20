@@ -12,6 +12,8 @@ aliases:
 
 **NPC Abilities**
 
+`dice: [](npc-abilities.md#^npc-abilities)`
+
 | dice: d6 | High Ability |
 |----------|--------------|
 | 1 | Strength-powerful, brawny, strong as an ox |

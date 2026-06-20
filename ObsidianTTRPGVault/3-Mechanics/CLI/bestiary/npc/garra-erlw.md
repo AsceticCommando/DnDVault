@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Garra"
 ---
-# [Garra](3-Mechanics\CLI\bestiary\npc/garra-erlw.md)
+# [Garra](3-Mechanics/CLI/bestiary/npc/garra-erlw.md)
 *Source: Eberron: Rising from the Last War p. 272*  
 
 ```statblock
@@ -21,7 +21,7 @@ aliases:
 "type": "giant"
 "alignment": "Chaotic Evil"
 "ac": !!int "12"
-"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor.md)"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor-xphb.md)"
 "hp": !!int "30"
 "hit_dice": "4d10 + 8"
 "modifier": !!int "0"
@@ -34,8 +34,8 @@ aliases:
   - !!int "10"
 "speed": "30 ft."
 "gear":
-  - "[battleaxe](3-Mechanics/CLI/items/battleaxe.md)"
-  - "[javelin](3-Mechanics/CLI/items/javelin.md)"
+  - "[battleaxe](3-Mechanics/CLI/items/battleaxe-xphb.md)"
+  - "[javelin](3-Mechanics/CLI/items/javelin-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 9"
 "languages": "Common, Giant"
@@ -50,6 +50,6 @@ aliases:
     "name": "Javelin"
 "source":
   - "ERLW"
-"image": "3-Mechanics/CLI/bestiary/npc/token/garra-erlw.webp"
+"image": "file://bestiary/tokens/ERLW/Garra.webp"
 ```
 ^statblock

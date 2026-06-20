@@ -12,6 +12,8 @@ aliases:
 
 **Military Missions**
 
+`dice: [](military-missions-erlw.md#^military-missions)`
+
 | dice: d6 | Missions |
 |----------|----------|
 | 1 | **Strike Force**. You are trained to make quick, strategic, devastating attacks against enemy assets. |

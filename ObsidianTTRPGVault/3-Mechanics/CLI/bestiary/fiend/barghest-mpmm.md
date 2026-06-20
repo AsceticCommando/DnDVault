@@ -17,7 +17,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Barghest"
 ---
-# [Barghest](3-Mechanics\CLI\bestiary\fiend/barghest-mpmm.md)
+# [Barghest](3-Mechanics/CLI/bestiary/fiend/barghest-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 60, Volo's Guide to Monsters p. 123*  
 
 Long ago, the god Maglubiyet—conqueror and then lord of early goblinoids—bargained with the General of Gehenna for aid. The General provided yugoloths, which then died in service to Maglubiyet. Yet when the time came to honor his part of the compact, Maglubiyet reneged on the deal. In vengeance, the General of Gehenna created the soul-devouring barghests to devour goblinoid souls.
@@ -87,10 +87,10 @@ Any conflagration larger than its body acts as a gateway to Gehenna and banishes
     "name": "Claw"
   - "desc": "The barghest casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 12):\n\
-      \n**At will:** [levitate](3-Mechanics/CLI/spells/levitate.md), [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md),\
-      \ [pass without trace](3-Mechanics/CLI/spells/pass-without-trace.md)\n\n**1/day\
-      \ each:** [charm person](3-Mechanics/CLI/spells/charm-person.md), [dimension\
-      \ door](3-Mechanics/CLI/spells/dimension-door.md), [suggestion](3-Mechanics/CLI/spells/suggestion.md)"
+      \n**At will:** [levitate](3-Mechanics/CLI/spells/levitate-xphb.md), [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md),\
+      \ [pass without trace](3-Mechanics/CLI/spells/pass-without-trace-xphb.md)\n\n\
+      **1/day each:** [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md),\
+      \ [dimension door](3-Mechanics/CLI/spells/dimension-door-xphb.md), [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The barghest transforms into a Small goblin or back into its true form.\
@@ -101,7 +101,7 @@ Any conflagration larger than its body acts as a gateway to Gehenna and banishes
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/barghest-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Barghest.webp"
 ```
 ^statblock
 

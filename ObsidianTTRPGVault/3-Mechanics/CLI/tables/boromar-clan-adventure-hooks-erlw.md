@@ -12,6 +12,8 @@ aliases:
 
 **Boromar Clan Adventure Hooks**
 
+`dice: [](boromar-clan-adventure-hooks-erlw.md#^boromar-clan-adventure-hooks)`
+
 | dice: d4 | Adventure Hook |
 |----------|----------------|
 | 1 | Daask forces capture Boromar family members who are visiting Sharn from the Talenta Plains. The Boromars offer a reward for the safe return of their family and a larger reward for the kidnappers' heads, leading to gang violence in the streets. |

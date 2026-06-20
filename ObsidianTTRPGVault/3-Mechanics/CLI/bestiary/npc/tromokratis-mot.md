@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Tromokratis"
 ---
-# [Tromokratis](3-Mechanics\CLI\bestiary\npc/tromokratis-mot.md)
+# [Tromokratis](3-Mechanics/CLI/bestiary/npc/tromokratis-mot.md)
 *Source: Mythic Odysseys of Theros p. 254*  
 
 Most krakens roam the seas, shattering hulls and scattering fleets, but the kraken Tromokratis notoriously vents its wrath on coastal settlements. Whether it acts at the command of the god Thassa or to sate its own hunger, Tromokratis numbers among the most feared threats in the sea, having no fixed lair and wandering where it will. In recent memory, the massive menace rose from the waves to topple the Pyrgnos, Meletis's great repository of scholarly knowledge. Since that day, the polis keeps a watch specifically for Tromokratis.
@@ -128,6 +128,6 @@ Most krakens roam the seas, shattering hulls and scattering fleets, but the krak
     "name": "Coral Growth (Costs 2 Actions)"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/tromokratis-mot.webp"
+"image": "file://bestiary/tokens/MOT/Tromokratis.webp"
 ```
 ^statblock

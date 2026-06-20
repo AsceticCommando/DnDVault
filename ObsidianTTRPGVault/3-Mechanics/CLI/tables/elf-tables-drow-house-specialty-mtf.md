@@ -12,6 +12,8 @@ aliases:
 
 **Drow House Specialty**
 
+`dice: [](elf-tables-drow-house-specialty-mtf.md#^drow-house-specialty)`
+
 | dice: d10 | Specialty |
 |-----------|-----------|
 | 1 | Adamantine weapons |

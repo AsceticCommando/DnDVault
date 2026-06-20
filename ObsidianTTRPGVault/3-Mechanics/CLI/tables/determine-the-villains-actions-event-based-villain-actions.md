@@ -12,6 +12,8 @@ aliases:
 
 **Event-Based Villain Actions**
 
+`dice: [](determine-the-villains-actions-event-based-villain-actions.md#^event-based-villain-actions)`
+
 | dice: d6 | Type of Actions |
 |----------|-----------------|
 | 1 | Big event |

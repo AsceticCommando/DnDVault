@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Colossus of Akros"
 ---
-# [Colossus of Akros](3-Mechanics\CLI\bestiary\construct/colossus-of-akros-mot.md)
+# [Colossus of Akros](3-Mechanics/CLI/bestiary/construct/colossus-of-akros-mot.md)
 *Source: Mythic Odysseys of Theros p. 218*  
 
 An enormous golem of bronze and iron overlooks the path leading to the polis of Akros. Though it is rarely called on to defend the polis, the sight of its towering form is enough to ease the minds of the populace. In truly desperate times, priests of Purphoros work their magic to call the colossus to life, whereupon the earth rumbles as it steps down from its twin plinths to place itself before the threat.
@@ -50,7 +50,7 @@ An enormous golem of bronze and iron overlooks the path leading to the polis of 
   \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
   \ [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned), [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)"
 "gear":
-  - "[spear](3-Mechanics/CLI/items/spear.md)"
+  - "[spear](3-Mechanics/CLI/items/spear-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
   \ Perception 17"
 "languages": "understands Common and Celestial but can't speak"
@@ -93,6 +93,6 @@ An enormous golem of bronze and iron overlooks the path leading to the polis of 
     "name": "Flames of Akros (Recharge 6)"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/construct/token/colossus-of-akros-mot.webp"
+"image": "file://bestiary/tokens/MOT/Colossus%20of%20Akros.webp"
 ```
 ^statblock

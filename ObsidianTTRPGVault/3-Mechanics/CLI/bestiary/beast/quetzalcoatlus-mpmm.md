@@ -15,7 +15,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Quetzalcoatlus"
 ---
-# [Quetzalcoatlus](3-Mechanics\CLI\bestiary\beast/quetzalcoatlus-mpmm.md)
+# [Quetzalcoatlus](3-Mechanics/CLI/bestiary/beast/quetzalcoatlus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*  
 
 This giant relative of the pteranodon has a wingspan exceeding 30 feet. Although it can walk like a quadruped, it is more comfortable in the air.
@@ -58,7 +58,7 @@ This giant relative of the pteranodon has a wingspan exceeding 30 feet. Although
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/beast/token/quetzalcoatlus-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Quetzalcoatlus.webp"
 ```
 ^statblock
 

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Ancient Dragon Turtle"
 ---
-# [Ancient Dragon Turtle](3-Mechanics\CLI\bestiary\dragon/ancient-dragon-turtle-ftd.md)
+# [Ancient Dragon Turtle](3-Mechanics/CLI/bestiary/dragon/ancient-dragon-turtle-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 191*  
 
 Dragon turtles are mighty creatures whose inherent magic is intimately linked with the oceans of the Material Plane. The dragon turtle presented in the *Monster Manual* is a typical adult, at least a century old and boasting a valuable hoard. You can use the stat blocks in this section for older or younger dragon turtles. In addition, chapter 5 includes lair actions and regional effects that can be used for adult or ancient dragon turtles. An ancient dragon turtle is a mythic creature akin to a greatwyrm, combining the power of multiple echoes from across the worlds of the Material Plane. Such a creature can be as large as an island—and indeed, legends suggest that many unwitting sailors wrecked at sea have mistaken slumbering dragon turtles for solid ground.
@@ -24,6 +24,8 @@ Ancient dragon turtles might sleep for years or decades while floating along the
 Use the Dragon Turtle Personality Traits and Dragon Turtle Ideals tables to inspire your portrayal of distinctive dragon turtle characters, and use the Dragon Turtle Spellcasting table to help select spells for a spellcasting dragon. (Though the *Monster Manual*doesn't explicitly include dragon turtles in the variant rules for making a dragon a spellcaster, you can apply those rules to these aquatic dragons.)
 
 ### Dragon Turtle Personality Traits
+
+`dice: [](ancient-dragon-turtle-ftd.md#^trait)`
 
 | dice: d8 | Trait |
 |----------|-------|
@@ -38,6 +40,8 @@ Use the Dragon Turtle Personality Traits and Dragon Turtle Ideals tables to insp
 ^trait
 
 ### Dragon Turtle Ideals
+
+`dice: [](ancient-dragon-turtle-ftd.md#^ideal)`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -64,6 +68,8 @@ The Dragon Turtle Adventure Hooks table offers suggestions for stories and adven
 
 ### Dragon Turtle Adventure Hooks
 
+`dice: [](ancient-dragon-turtle-ftd.md#^adventure-hook)`
+
 | dice: d8 | Adventure Hook |
 |----------|----------------|
 | 1 | A ruthless shipping magnate has bribed a dragon turtle to attack competitors' vessels and drive them out of business. |
@@ -82,11 +88,13 @@ Dragon turtles are stolid and slow to anger. This temperament, combined with the
 
 ### Ancient Dragon Turtle Connections
 
+`dice: [](ancient-dragon-turtle-ftd.md#^connected-creatures)`
+
 | dice: d4 | Connected Creatures |
 |----------|---------------------|
 | 1 | An ancient dragon turtle and an ancient gold dragon meet once a year to trade moves in a game of dragonchess that has been going on for centuries. |
 | 2 | An ancient dragon turtle serves as counsel to an empyrean court, tempering the Celestials' passions with the dragon turtle's endless patience. |
-| 3 | A [geas](3-Mechanics/CLI/spells/geas.md) spell forces an ancient dragon turtle to carry a lich's tower. |
+| 3 | A [geas](3-Mechanics/CLI/spells/geas-xphb.md) spell forces an ancient dragon turtle to carry a lich's tower. |
 | 4 | An ancient dragon turtle is responsible for ensuring that a kraken is never woken from its slumber. |
 ^connected-creatures
 
@@ -232,6 +240,6 @@ As an example, map 5.14 depicts a topaz dragon's lair in a seaside cavern, but i
     "name": "Armor of Storms (Costs 2 Actions)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/ancient-dragon-turtle-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Ancient%20Dragon%20Turtle.webp"
 ```
 ^statblock

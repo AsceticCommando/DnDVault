@@ -22,18 +22,18 @@ At the end of the chapter is a section that you can use to determine the height 
 
 If you're the DM, including any of these races in your campaign is a storytelling opportunity, a chance for you to decide the roles that different peoples play in the tales you weave. You might decide that a race in this chapter is common in your world, that only a few members of it still live, or that it doesn't exist at all. Whatever you decide about the races, consider how they can enhance your stories.
 
-- [Aasimar (Fallen)](3-Mechanics/CLI/races/aasimar-mpmm.md)  
-- [Aasimar (Protector)](3-Mechanics/CLI/races/aasimar-mpmm.md)  
-- [Aasimar (Scourge)](3-Mechanics/CLI/races/aasimar-mpmm.md)  
+- [Aasimar (Fallen)](3-Mechanics/CLI/races/aasimar-xphb.md)  
+- [Aasimar (Protector)](3-Mechanics/CLI/races/aasimar-xphb.md)  
+- [Aasimar (Scourge)](3-Mechanics/CLI/races/aasimar-xphb.md)  
 - [Bugbear](3-Mechanics/CLI/races/bugbear-mpmm.md)  
 - [Firbolg](3-Mechanics/CLI/races/firbolg-mpmm.md)  
 - [Goblin](3-Mechanics/CLI/races/goblin-mpmm.md)  
-- [Goliath](3-Mechanics/CLI/races/goliath-mpmm.md)  
+- [Goliath](3-Mechanics/CLI/races/goliath-xphb.md)  
 - [Hobgoblin](3-Mechanics/CLI/races/hobgoblin-mpmm.md)  
 - [Kenku](3-Mechanics/CLI/races/kenku-mpmm.md)  
 - [Kobold](3-Mechanics/CLI/races/kobold-mpmm.md)  
 - [Lizardfolk](3-Mechanics/CLI/races/lizardfolk-mpmm.md)  
-- [Orc](3-Mechanics/CLI/races/orc-mpmm.md)  
+- [Orc](3-Mechanics/CLI/races/orc-xphb.md)  
 - [Tabaxi](3-Mechanics/CLI/races/tabaxi-mpmm.md)  
 - [Triton](3-Mechanics/CLI/races/triton-mpmm.md)  
 - [Yuan-ti Pureblood](3-Mechanics/CLI/races/yuan-ti-mpmm.md)  

@@ -12,6 +12,8 @@ aliases:
 
 **NPC Interaction Traits**
 
+`dice: [](interactions-with-others-npc-interaction-traits.md#^npc-interaction-traits)`
+
 | dice: d12 | Trait |
 |-----------|-------|
 | 1 | Argumentative |

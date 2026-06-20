@@ -12,6 +12,8 @@ aliases:
 
 **Dungeon Chamber Contents**
 
+`dice: [](dungeon-chamber-contents.md#^dungeon-chamber-contents)`
+
 | dice: d100 | Contents |
 |------------|----------|
 | 01-08 | Monster (dominant inhabitant) |

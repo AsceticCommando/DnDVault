@@ -10,7 +10,7 @@ aliases:
 ---
 # Bugbear
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 8*  
-![](3-Mechanics/CLI/races/img/bugbear.webp#right)
+![](file://races/MPMM/Bugbear.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Type**: humanoid
@@ -45,7 +45,7 @@ You are proficient in the [Stealth](3-Mechanics/CLI/rules/skills.md#Stealth) ski
 
 ### Surprise Attack
 
-If you hit a creature with an attack roll, the creature takes an extra `2d6` damage if it hasn't taken a turn yet in the current combat.
+If you hit a creature with an attack roll, the creature takes an extra `dice:2d6|noform|noparens|avg` (`2d6`) damage if it hasn't taken a turn yet in the current combat.
 
 ## Description
 

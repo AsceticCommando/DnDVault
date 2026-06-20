@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Giff"
 ---
-# [Giff](3-Mechanics\CLI\bestiary\humanoid/giff-mpmm.md)
+# [Giff](3-Mechanics/CLI/bestiary/humanoid/giff-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 138, Mordenkainen's Tome of Foes p. 204*  
 
 > [!quote] A quote from Mordenkainen  
@@ -28,7 +28,7 @@ Muskets and grenades are the specialties of many giff regiments. The bigger the 
 
 ## Gunpowder by the Keg
 
-In addition to their personal gunpowder weapons, giff ships and mercenary companies carry spare gunpowder in kegs. In an emergency, or if a large explosion is needed, a whole keg can be detonated. A giff lights the fuse on the keg and can then throw the keg up to 15 feet as part of the same action. The keg explodes at the start of the giff's next turn. Each creature within 20 feet of the exploding keg must make a DC 12 Dexterity saving throw. On a failed save, a creature takes 24 (`7d6`) fire damage and is knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone). On a successful save, a creature takes half as much damage and isn't knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone).
+In addition to their personal gunpowder weapons, giff ships and mercenary companies carry spare gunpowder in kegs. In an emergency, or if a large explosion is needed, a whole keg can be detonated. A giff lights the fuse on the keg and can then throw the keg up to 15 feet as part of the same action. The keg explodes at the start of the giff's next turn. Each creature within 20 feet of the exploding keg must make a DC 12 Dexterity saving throw. On a failed save, a creature takes `dice:7d6|noform|noparens|avg|text(24)` (`7d6`) fire damage and is knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone). On a successful save, a creature takes half as much damage and isn't knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone).
 
 Every other keg of gunpowder within 20 feet of an exploding keg has a 50 percent chance of also exploding. Check each keg only once per turn, no matter how many other kegs explode around it.
 
@@ -38,7 +38,7 @@ Every other keg of gunpowder within 20 feet of an exploding keg has a 50 percent
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate.md)"
+"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate-xphb.md)"
 "hp": !!int "60"
 "hit_dice": "8d8 + 24"
 "modifier": !!int "2"
@@ -51,9 +51,9 @@ Every other keg of gunpowder within 20 feet of an exploding keg has a 50 percent
   - !!int "12"
 "speed": "30 ft."
 "gear":
-  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
-  - "[musket](3-Mechanics/CLI/items/musket.md)"
-  - "[pistol](3-Mechanics/CLI/items/pistol.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
+  - "[musket](3-Mechanics/CLI/items/musket-xphb.md)"
+  - "[pistol](3-Mechanics/CLI/items/pistol-xphb.md)"
 "senses": "passive Perception 11"
 "languages": "Common"
 "cr": "3"
@@ -86,7 +86,7 @@ Every other keg of gunpowder within 20 feet of an exploding keg has a 50 percent
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/giff-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Giff.webp"
 ```
 ^statblock
 

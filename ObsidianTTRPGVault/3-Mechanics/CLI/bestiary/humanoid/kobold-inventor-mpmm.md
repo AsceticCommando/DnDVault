@@ -17,7 +17,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Kobold Inventor"
 ---
-# [Kobold Inventor](3-Mechanics\CLI\bestiary\humanoid/kobold-inventor-mpmm.md)
+# [Kobold Inventor](3-Mechanics/CLI/bestiary/humanoid/kobold-inventor-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 164, Volo's Guide to Monsters p. 166*  
 
 A kobold inventor builds improvised weapons to gain an advantage in combat. These weapons last for only one or two attacks before they break and typically work only for the inventor, but they might be surprisingly effective in the meantime. The weapons don't have to be lethal—often one serves its purpose if it distracts, scares, or confuses a creature long enough for the inventor to kill that foe.
@@ -40,8 +40,8 @@ A kobold inventor builds improvised weapons to gain an advantage in combat. Thes
   - !!int "8"
 "speed": "30 ft."
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
-  - "[sling](3-Mechanics/CLI/items/sling.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
+  - "[sling](3-Mechanics/CLI/items/sling-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 10"
 "languages": "Common, Draconic"
@@ -64,15 +64,15 @@ A kobold inventor builds improvised weapons to gain an advantage in combat. Thes
     "name": "Sling"
   - "desc": "The kobold uses one of the following options (choose one or roll a d8);\
       \ the kobold can use each one no more than once per day:\n\n- **1 Acid.** The\
-      \ kobold hurls a [flask of acid](3-Mechanics/CLI/items/acid-vial.md). *Ranged\
+      \ kobold hurls a [flask of acid](3-Mechanics/CLI/items/acid-xphb.md). *Ranged\
       \ Weapon Attack:* +4 to hit, range 5/20 ft., one target. *Hit:* 7 (2d6) acid\
       \ damage.  \n- **2 Alchemist's Fire.** The kobold throws a [flask of alchemist's\
-      \ fire](3-Mechanics/CLI/items/alchemists-fire-flask.md). *Ranged Weapon Attack:*\
+      \ fire](3-Mechanics/CLI/items/alchemists-fire-xphb.md). *Ranged Weapon Attack:*\
       \ +4 to hit, range 5/20 ft., one target. *Hit:* 2 (1d4) fire damage at the start\
       \ of each of the target's turns. The target can end this damage by using its\
       \ action to make a DC 10 Dexterity check to extinguish the flames.  \n- **3\
       \ Basket of Centipedes.** The kobold throws a small basket into a 5-foot-square\
-      \ space within 20 feet of it. A [swarm of insects (centipedes)](3-Mechanics/CLI/bestiary/beast/swarm-of-centipedes.md)\
+      \ space within 20 feet of it. A [swarm of insects (centipedes)](3-Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm.md)\
       \ with 11 hit points emerges from the basket and rolls initiative. At the end\
       \ of each of the swarm's turns, there's a 50 percent chance that the swarm disperses.\
       \  \n- **4 Green Slime Pot.** The kobold throws a clay pot full of green slime\
@@ -85,13 +85,13 @@ A kobold inventor builds improvised weapons to gain an advantage in combat. Thes
       \ impact. A [swarm of rot grubs](3-Mechanics/CLI/bestiary/beast/swarm-of-rot-grubs-mpmm.md)\
       \ (in this book) emerges from the shattered pot and remains a hazard in that\
       \ square.  \n- **6 Scorpion on a Stick.** The kobold makes a melee attack with\
-      \ a [scorpion](3-Mechanics/CLI/bestiary/beast/scorpion.md) tied to the end of\
-      \ a 5-foot-long pole. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target.\
-      \ *Hit:* 1 piercing damage, and the target must make a DC 9 Constitution saving\
-      \ throw, taking 4 (1d8) poison damage on a failed save, or half as much damage\
-      \ on a successful one.  \n- **7 Skunk in a Cage.** The kobold releases a skunk\
-      \ into an unoccupied space within 5 feet of it. The skunk has a walking speed\
-      \ of 20 feet, AC 10, 1 hit point, and no effective attacks. It rolls initiative\
+      \ a [scorpion](3-Mechanics/CLI/bestiary/beast/scorpion-xmm.md) tied to the end\
+      \ of a 5-foot-long pole. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one\
+      \ target. *Hit:* 1 piercing damage, and the target must make a DC 9 Constitution\
+      \ saving throw, taking 4 (1d8) poison damage on a failed save, or half as much\
+      \ damage on a successful one.  \n- **7 Skunk in a Cage.** The kobold releases\
+      \ a skunk into an unoccupied space within 5 feet of it. The skunk has a walking\
+      \ speed of 20 feet, AC 10, 1 hit point, and no effective attacks. It rolls initiative\
       \ and, on its turn, uses its action to spray musk at a random creature within\
       \ 5 feet of it. The target must succeed on a DC 9 Constitution saving throw,\
       \ or it retches and is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
@@ -101,14 +101,14 @@ A kobold inventor builds improvised weapons to gain an advantage in combat. Thes
       \ throw. Once the skunk has sprayed its musk, it can't do so again until it\
       \ finishes a short or long rest.  \n- **8 Wasp Nest in a Bag.** The kobold throws\
       \ a small bag into a 5-foot-square space within 20 feet of it. A [swarm of insects\
-      \ (wasps)](3-Mechanics/CLI/bestiary/beast/swarm-of-wasps.md) with 11 hit points\
-      \ emerges from the bag and rolls initiative. At the end of each of the swarm's\
-      \ turns, there's a 50 percent chance that the swarm disperses.  "
+      \ (wasps)](3-Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm.md) with 11 hit\
+      \ points emerges from the bag and rolls initiative. At the end of each of the\
+      \ swarm's turns, there's a 50 percent chance that the swarm disperses.  "
     "name": "Weapon Invention"
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/kobold-inventor-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Kobold%20Inventor.webp"
 ```
 ^statblock
 

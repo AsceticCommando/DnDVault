@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Ancient Amethyst Dragon"
 ---
-# [Ancient Amethyst Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-amethyst-dragon-ftd.md)
+# [Ancient Amethyst Dragon](3-Mechanics/CLI/bestiary/dragon/ancient-amethyst-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 160*  
 
 Amethyst dragons, the mightiest of the gem dragons, study and psionically manipulate the fundamental principles of the multiverse, from the force of gravity to the emanations of the Outer Planes. Their innate psionics give them a measure of control over how physical laws affect them. They defy gravity with flight that doesn't rely solely upon their great wings, and gravitational force empowers both their devastating breath weapon and the exploding amethyst crystals they spit at their foes.
@@ -100,12 +100,13 @@ The challenge rating of a legendary amethyst dragon increases by 1 when it's enc
     "name": "Singularity Breath (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 23, +15\
-      \ to hit with spell attacks):\n\n**1/day each:** [blink](3-Mechanics/CLI/spells/blink.md),\
-      \ [control water](3-Mechanics/CLI/spells/control-water.md), [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md),\
-      \ [freedom of movement](3-Mechanics/CLI/spells/freedom-of-movement.md), [globe\
-      \ of invulnerability](3-Mechanics/CLI/spells/globe-of-invulnerability.md), [plane\
-      \ shift](3-Mechanics/CLI/spells/plane-shift.md), [protection from evil and good](3-Mechanics/CLI/spells/protection-from-evil-and-good.md),\
-      \ [sending](3-Mechanics/CLI/spells/sending.md)"
+      \ to hit with spell attacks):\n\n**1/day each:** [blink](3-Mechanics/CLI/spells/blink-xphb.md),\
+      \ [control water](3-Mechanics/CLI/spells/control-water-xphb.md), [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
+      \ [freedom of movement](3-Mechanics/CLI/spells/freedom-of-movement-xphb.md),\
+      \ [globe of invulnerability](3-Mechanics/CLI/spells/globe-of-invulnerability-xphb.md),\
+      \ [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md), [protection from\
+      \ evil and good](3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md),\
+      \ [sending](3-Mechanics/CLI/spells/sending-xphb.md)"
     "name": "Spellcasting (Psionics)"
 "bonus_actions":
   - "desc": "The dragon magically transforms into any creature that is Medium or Small,\
@@ -125,9 +126,9 @@ The challenge rating of a legendary amethyst dragon increases by 1 when it's enc
       \ by the dragon until initiative count 20 on the next round. A creature [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
       \ in this way obeys to the best of its ability any command the dragon issues\
       \ that isn't directly harmful to the creature.  \n- **Imprisoning Force.** The\
-      \ dragon casts the [forcecage](3-Mechanics/CLI/spells/forcecage.md) spell, using\
-      \ its spell save DC and requiring no spell components. The spell ends early\
-      \ if the dragon uses this lair action again or dies.  \n- **Spatial Projection.**\
+      \ dragon casts the [forcecage](3-Mechanics/CLI/spells/forcecage-xphb.md) spell,\
+      \ using its spell save DC and requiring no spell components. The spell ends\
+      \ early if the dragon uses this lair action again or dies.  \n- **Spatial Projection.**\
       \ The dragon chooses a space it can fit into within the lair. It exists in its\
       \ own space and the chosen space simultaneously until initiative count 20 on\
       \ the next round. Whenever it moves or takes an action, it chooses which version\
@@ -137,7 +138,7 @@ The challenge rating of a legendary amethyst dragon increases by 1 when it's enc
 "regional_effects":
   - "desc": "The region surrounding a legendary amethyst dragon's lair is altered\
       \ by the dragon's magic, creating one or more of the following effects:\n\n\
-      - **Background Check.** Once per day, the dragon can cast the [legend lore](3-Mechanics/CLI/spells/legend-lore.md)\
+      - **Background Check.** Once per day, the dragon can cast the [legend lore](3-Mechanics/CLI/spells/legend-lore-xphb.md)\
       \ spell, requiring no spell components, naming any person, place, or object\
       \ within 1 mile of the lair as the spell's subject.  \n- **Crystal Profusion.**\
       \ Amethyst crystals and geodes form along muddy shores and lake beds within\
@@ -145,7 +146,7 @@ The challenge rating of a legendary amethyst dragon increases by 1 when it's enc
       \ reproduce rapidly and thrive in bodies of water within 6 miles of the lair.\
       \ Foraging in these waters yields twice the usual amount of food.  \n- **Watery\
       \ Sight.** Water within 6 miles of the lair is a conduit for the dragon's psionic\
-      \ presence. As an action, the dragon can cast the [clairvoyance](3-Mechanics/CLI/spells/clairvoyance.md)\
+      \ presence. As an action, the dragon can cast the [clairvoyance](3-Mechanics/CLI/spells/clairvoyance-xphb.md)\
       \ spell, requiring no spell components and targeting any body of water in that\
       \ region.  \n\nIf the dragon dies, the populations of aquatic life near the\
       \ lair return to normal levels over the course of 1d10 days. The existing abundance\
@@ -166,6 +167,6 @@ The challenge rating of a legendary amethyst dragon increases by 1 when it's enc
     "name": "Explosive Crystal (Costs 3 Actions)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/ancient-amethyst-dragon-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Ancient%20Amethyst%20Dragon.webp"
 ```
 ^statblock

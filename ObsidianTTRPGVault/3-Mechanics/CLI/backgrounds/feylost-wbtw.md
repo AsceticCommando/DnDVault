@@ -10,12 +10,12 @@ aliases:
 ---
 # Feylost
 *Source: The Wild Beyond the Witchlight p. 9*  
-![](3-Mechanics/CLI/backgrounds/img/feylost.webp#right)
+![](file://backgrounds/WBtW/Feylost.webp#right)
 
 - **Skill Proficiencies.** [Deception](3-Mechanics/CLI/rules/skills.md#Deception), [Survival](3-Mechanics/CLI/rules/skills.md#Survival)  
 - **Tool Proficiencies.** One type of musical instrument  
 - **Languages.** One of your choice of Elvish, Gnomish, Goblin, or Sylvan  
-- **Equipment.** A musical instrument (one of your choice), a [set of traveler's clothes](3-Mechanics/CLI/items/travelers-clothes.md), three trinkets (each determined by rolling on the [Feywild Trinkets](3-Mechanics/CLI/items/feywild-trinket-wbtw.md) table), and a [pouch](3-Mechanics/CLI/items/pouch.md) containing 8 gp  
+- **Equipment.** A musical instrument (one of your choice), a [set of traveler's clothes](3-Mechanics/CLI/items/travelers-clothes-xphb.md), three trinkets (each determined by rolling on the [Feywild Trinkets](3-Mechanics/CLI/items/feywild-trinket-wbtw.md) table), and a [pouch](3-Mechanics/CLI/items/pouch-xphb.md) containing 8 gp  
 
 You grew up in the Feywild after disappearing from your home plane as a child. Perhaps you were spirited away by kindly Fey who thought you were destined for great things. Perhaps you stumbled through a fey crossing by chance during a twilight stroll in the woods. Perhaps you were kidnapped by evil Fey but escaped from their clutches. Whatever the manner of your disappearance, you gradually fell under the Feywild's spell and learned a little about the nature of the mercurial tricksters that dwell there.
 
@@ -30,6 +30,8 @@ Your mannerisms and knowledge of fey customs are recognized by natives of the Fe
 You were transformed in some small way by your stay in the Feywild and gained a fey mark, determined by rolling on the Fey Mark table.
 
 **Fey Mark**
+
+`dice: [](feylost-wbtw.md#^fey-mark)`
 
 | dice: d8 | Fey Mark |
 |----------|----------|
@@ -49,16 +51,18 @@ Whenever you're sound asleep or in a deep trance during a long rest, a spirit of
 
 **Feywild Visitor**
 
+`dice: [](feylost-wbtw.md#^feywild-visitor)`
+
 | dice: d8 | Visitor |
 |----------|---------|
-| 1 | Awakened creature (a Beast or an ordinary plant that has had the [awaken](3-Mechanics/CLI/spells/awaken.md) spell cast on it) |
-| 2 | [Centaur](3-Mechanics/CLI/bestiary/monstrosity/centaur.md) |
-| 3 | [Dryad](3-Mechanics/CLI/bestiary/fey/dryad.md) |
-| 4 | [Faerie dragon](3-Mechanics/CLI/bestiary/dragon/faerie-dragon-violet.md) |
-| 5 | [Pixie](3-Mechanics/CLI/bestiary/fey/pixie.md) |
-| 6 | [Satyr](3-Mechanics/CLI/bestiary/fey/satyr.md) |
-| 7 | [Sprite](3-Mechanics/CLI/bestiary/fey/sprite.md) |
-| 8 | [Unicorn](3-Mechanics/CLI/bestiary/celestial/unicorn.md) |
+| 1 | Awakened creature (a Beast or an ordinary plant that has had the [awaken](3-Mechanics/CLI/spells/awaken-xphb.md) spell cast on it) |
+| 2 | [Centaur](3-Mechanics/CLI/bestiary/fey/centaur-trooper-xmm.md) |
+| 3 | [Dryad](3-Mechanics/CLI/bestiary/fey/dryad-xmm.md) |
+| 4 | [Faerie dragon](3-Mechanics/CLI/bestiary/dragon/faerie-dragon-adult-xmm.md) |
+| 5 | [Pixie](3-Mechanics/CLI/bestiary/fey/pixie-xmm.md) |
+| 6 | [Satyr](3-Mechanics/CLI/bestiary/fey/satyr-xmm.md) |
+| 7 | [Sprite](3-Mechanics/CLI/bestiary/fey/sprite-xmm.md) |
+| 8 | [Unicorn](3-Mechanics/CLI/bestiary/celestial/unicorn-xmm.md) |
 ^feywild-visitor
 
 ## Character Traits
@@ -68,6 +72,8 @@ As the players choose backgrounds for their characters, they can use the followi
 These tables, while optional, are well suited to Feywild-themed adventures and are ideal for any character who has the feylost or Witchlight hand background.
 
 **Personality Traits**
+
+`dice: [](feylost-wbtw.md#^personality-traits)`
 
 | dice: d8 | Trait |
 |----------|-------|
@@ -83,6 +89,8 @@ These tables, while optional, are well suited to Feywild-themed adventures and a
 
 **Ideals**
 
+`dice: [](feylost-wbtw.md#^ideals)`
+
 | dice: d8 | Ideal |
 |----------|-------|
 | 1 | Friendship. I never leave a friend behind. (Good) |
@@ -97,6 +105,8 @@ These tables, while optional, are well suited to Feywild-themed adventures and a
 
 **Bonds**
 
+`dice: [](feylost-wbtw.md#^bonds)`
+
 | dice: d8 | Bond |
 |----------|------|
 | 1 | I would never break my word. |
@@ -110,6 +120,8 @@ These tables, while optional, are well suited to Feywild-themed adventures and a
 ^bonds
 
 **Flaws**
+
+`dice: [](feylost-wbtw.md#^flaws)`
 
 | dice: d8 | Flaw |
 |----------|------|

@@ -12,6 +12,8 @@ aliases:
 
 **Human Names – Polynesian, Female**
 
+`dice: [](human-names-polynesian-female-xge.md#^human-names-polynesian-female)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Ahulani |

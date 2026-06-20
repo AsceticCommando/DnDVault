@@ -12,6 +12,8 @@ aliases:
 
 **Chamber**
 
+`dice: [](chambers-chamber.md#^chamber)`
+
 | dice: d20 | Chamber |
 |-----------|---------|
 | 1-2 | Square, 20 × 20 ft.¹ |

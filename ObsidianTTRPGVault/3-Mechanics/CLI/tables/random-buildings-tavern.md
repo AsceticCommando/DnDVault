@@ -12,6 +12,8 @@ aliases:
 
 **Tavern**
 
+`dice: [](random-buildings-tavern.md#^tavern)`
+
 | dice: d20 | Type |
 |-----------|------|
 | 1-5 | Quiet, low-key bar |

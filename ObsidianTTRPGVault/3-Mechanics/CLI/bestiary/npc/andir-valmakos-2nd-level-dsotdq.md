@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Andir Valmakos (2nd Level)"
 ---
-# [Andir Valmakos (2nd Level)](3-Mechanics\CLI\bestiary\npc/andir-valmakos-2nd-level-dsotdq.md)
+# [Andir Valmakos (2nd Level)](3-Mechanics/CLI/bestiary/npc/andir-valmakos-2nd-level-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 210*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "human"
 "alignment": "Chaotic Good"
 "ac": !!int "12"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "16"
 "hit_dice": "3d8 + 3"
 "modifier": !!int "1"
@@ -46,15 +46,15 @@ aliases:
   - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+4"
 "gear":
-  - "[quarterstaff](3-Mechanics/CLI/items/quarterstaff.md)"
+  - "[quarterstaff](3-Mechanics/CLI/items/quarterstaff-xphb.md)"
 "senses": "passive Perception 10"
 "languages": "Common, Draconic"
 "traits":
   - "desc": "Andir's spellcasting ability is Intelligence (spell save DC 12, +4 to\
       \ hit with spell attacks). He has the following wizard spells prepared:\n\n\
-      **At will:** [light](3-Mechanics/CLI/spells/light.md), [ray of frost](3-Mechanics/CLI/spells/ray-of-frost.md)\n\
-      \n**1st level (2 slots):** [thunderwave](3-Mechanics/CLI/spells/thunderwave.md),\
-      \ [longstrider](3-Mechanics/CLI/spells/longstrider.md)"
+      **At will:** [light](3-Mechanics/CLI/spells/light-xphb.md), [ray of frost](3-Mechanics/CLI/spells/ray-of-frost-xphb.md)\n\
+      \n**1st level (2 slots):** [thunderwave](3-Mechanics/CLI/spells/thunderwave-xphb.md),\
+      \ [longstrider](3-Mechanics/CLI/spells/longstrider-xphb.md)"
     "name": "Spellcasting"
   - "desc": "Andir is proficient with simple weapons and light armor."
     "name": "Bonus Proficiencies"

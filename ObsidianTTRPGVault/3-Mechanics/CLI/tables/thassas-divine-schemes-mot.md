@@ -12,6 +12,8 @@ aliases:
 
 **Thassa's Divine Schemes**
 
+`dice: [](thassas-divine-schemes-mot.md#^thassas-divine-schemes)`
+
 | dice: d4 | Scheme |
 |----------|--------|
 | 1 | After a kraken is sighted near an inhabited island, a fleet prepares to set sail from Meletis to face it. In retribution, Thassa pulls the ocean back from the entire coastline, stranding not only the fleet, but the fishing boats and merchant vessels that keep the polis fed and supplied. Thassa's oracles announce that "the forest of masts must be felled" before the waters will return, but Meletis refuses to give up its navy. How can Thassa be appeased? |

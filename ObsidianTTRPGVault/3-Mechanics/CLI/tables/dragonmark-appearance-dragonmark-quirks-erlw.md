@@ -12,6 +12,8 @@ aliases:
 
 **Dragonmark Quirks**
 
+`dice: [](dragonmark-appearance-dragonmark-quirks-erlw.md#^dragonmark-quirks)`
+
 | dice: d8 | Quirk |
 |----------|-------|
 | 1 | Your dragonmark is unusually small or faint. |

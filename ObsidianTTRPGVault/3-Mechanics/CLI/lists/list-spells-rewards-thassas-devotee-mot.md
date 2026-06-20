@@ -11,4 +11,4 @@ aliases:
 
 ## 1st Level
 
-- [Fog Cloud](3-Mechanics/CLI/spells/fog-cloud.md "PHB")
+- [Fog Cloud](3-Mechanics/CLI/spells/fog-cloud-xphb.md "XPHB")

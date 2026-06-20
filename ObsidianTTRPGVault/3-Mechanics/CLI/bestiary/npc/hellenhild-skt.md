@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Hellenhild"
 ---
-# [Hellenhild](3-Mechanics\CLI\bestiary\npc/hellenhild-skt.md)
+# [Hellenhild](3-Mechanics/CLI/bestiary/npc/hellenhild-skt.md)
 *Source: Storm King's Thunder p. 207*  
 
 ```statblock
@@ -44,7 +44,7 @@ aliases:
     "desc": "+3"
 "damage_immunities": "cold"
 "gear":
-  - "[greataxe](3-Mechanics/CLI/items/greataxe.md)"
+  - "[greataxe](3-Mechanics/CLI/items/greataxe-xphb.md)"
 "senses": "passive Perception 13"
 "languages": "Giant"
 "cr": "8"
@@ -59,6 +59,6 @@ aliases:
     "name": "Rock"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/hellenhild-skt.webp"
+"image": "file://bestiary/tokens/SKT/Hellenhild.webp"
 ```
 ^statblock

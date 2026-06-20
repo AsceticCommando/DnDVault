@@ -12,6 +12,8 @@ aliases:
 
 **Blue Dragon Art Objects**
 
+`dice: [](blue-dragon-treasures-blue-dragon-art-objects-ftd.md#^blue-dragon-art-objects)`
+
 | dice: d8 | Object |
 |----------|--------|
 | 1 | An intricately carved seal from a civilization that worshiped the dragon's ancestors as gods |

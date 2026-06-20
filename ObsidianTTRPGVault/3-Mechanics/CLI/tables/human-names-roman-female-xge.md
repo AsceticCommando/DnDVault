@@ -12,6 +12,8 @@ aliases:
 
 **Human Names – Roman, Female**
 
+`dice: [](human-names-roman-female-xge.md#^human-names-roman-female)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Aelia |

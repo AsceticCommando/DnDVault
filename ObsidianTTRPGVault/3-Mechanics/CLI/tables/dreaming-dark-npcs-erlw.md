@@ -12,6 +12,8 @@ aliases:
 
 **Dreaming Dark NPCs**
 
+`dice: [](dreaming-dark-npcs-erlw.md#^dreaming-dark-npcs)`
+
 | dice: d4 | NPC |
 |----------|-----|
 | 1 | A servant in a manor house overhears everything the visiting nobles whisper about in their private rooms. |

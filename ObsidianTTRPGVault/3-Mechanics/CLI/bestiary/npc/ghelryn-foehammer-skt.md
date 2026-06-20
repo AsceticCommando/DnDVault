@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Ghelryn Foehammer"
 ---
-# [Ghelryn Foehammer](3-Mechanics\CLI\bestiary\npc/ghelryn-foehammer-skt.md)
+# [Ghelryn Foehammer](3-Mechanics/CLI/bestiary/npc/ghelryn-foehammer-skt.md)
 *Source: Storm King's Thunder p. 255*  
 
 The blacksmith Ghelryn has a good heart, but he hates orcs and giants-hates them with a fiery passion. He considers it the solemn duty of all dwarves to cave in their skulls!
@@ -30,7 +30,7 @@ Flaw:"I never run from a fight, especially if it involves killing orcs or giants
 "subtype": "Shield dwarf"
 "alignment": "Lawful Good"
 "ac": !!int "14"
-"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "30"
 "hit_dice": "4d8 + 12"
 "modifier": !!int "-2"
@@ -51,7 +51,7 @@ Flaw:"I never run from a fight, especially if it involves killing orcs or giants
     "desc": "+2"
 "damage_resistances": "poison"
 "gear":
-  - "[battleaxe](3-Mechanics/CLI/items/battleaxe.md)"
+  - "[battleaxe](3-Mechanics/CLI/items/battleaxe-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 12"
 "languages": "Common, Dwarvish"
@@ -76,6 +76,6 @@ Flaw:"I never run from a fight, especially if it involves killing orcs or giants
     "name": "Battleaxe"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/ghelryn-foehammer-skt.webp"
+"image": "file://bestiary/tokens/SKT/Ghelryn%20Foehammer.webp"
 ```
 ^statblock

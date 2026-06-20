@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Lampad"
 ---
-# [Lampad](3-Mechanics\CLI\bestiary\fey/lampad-mot.md)
+# [Lampad](3-Mechanics/CLI/bestiary/fey/lampad-mot.md)
 *Source: Mythic Odysseys of Theros p. 235*  
 
 Lampads guard the shadowed paths of the world, depths typically trod by souls destined for the Underworld. These rarely seen nymphs assist Athreos in guiding the dead, moving among the spirits that collect along the Tartyx River and reclaiming wayward souls that try to slip back to the mortal world. This means lampads are most often spotted in graveyards, crumbling crypts, and tunnels that bore deep into the earth, and near portals to the Underworld.
@@ -58,8 +58,8 @@ A nymph doesn't require food, drink, or sleep.
 "traits":
   - "desc": "The lampad's spellcasting ability is Charisma (+6 to hit with spell attacks).\
       \ It can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [chill touch](3-Mechanics/CLI/spells/chill-touch.md) (see \"\
-      Actions\" below), [gentle repose](3-Mechanics/CLI/spells/gentle-repose.md)"
+      \n**At will:** [chill touch](3-Mechanics/CLI/spells/chill-touch-xphb.md) (see\
+      \ \"Actions\" below), [gentle repose](3-Mechanics/CLI/spells/gentle-repose-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "Once on its turn, the lampad can use 10 feet of its movement to step\
       \ magically into one creature's corpse within its reach and emerge from a second\
@@ -82,6 +82,6 @@ A nymph doesn't require food, drink, or sleep.
     "name": "Chill Touch (Cantrip)"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/fey/token/lampad-mot.webp"
+"image": "file://bestiary/tokens/MOT/Lampad.webp"
 ```
 ^statblock

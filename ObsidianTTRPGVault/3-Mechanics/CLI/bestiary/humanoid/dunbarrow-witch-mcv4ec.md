@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Dunbarrow Witch"
 ---
-# [Dunbarrow Witch](3-Mechanics\CLI\bestiary\humanoid/dunbarrow-witch-mcv4ec.md)
+# [Dunbarrow Witch](3-Mechanics/CLI/bestiary/humanoid/dunbarrow-witch-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 > [!quote] A quote from Dunbarrow witch incantation  
@@ -39,7 +39,7 @@ Much of a Dunbarrow witch's magic is performed at cauldrons and delivered as a p
 "subtype": "human"
 "alignment": "typically  Neutral Evil"
 "ac": !!int "12"
-"ac_class": "15 with [mage armor](3-Mechanics/CLI/spells/mage-armor.md)"
+"ac_class": "15 with [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
 "hp": !!int "72"
 "hit_dice": "16d8"
 "modifier": !!int "2"
@@ -72,7 +72,7 @@ Much of a Dunbarrow witch's magic is performed at cauldrons and delivered as a p
   - "desc": "The witch hurls a bottle of liquid at a point up to 20 feet away from\
       \ itself, which shatters into a cloud of magical smoke that fills a 10-foot-radius\
       \ sphere. Each creature in that area must succeed on a DC 16 Wisdom saving throw\
-      \ or transform into a creature, as if under the effects of a [polymorph](3-Mechanics/CLI/spells/polymorph.md)\
+      \ or transform into a creature, as if under the effects of a [polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md)\
       \ spell, transforming into one of the following forms (roll a d4): 1, bat; 2,\
       \ frog; 3, lizard; or 4, rat. This transformation lasts for 1 hour or until\
       \ the creature drops to 0 hit points in its new form."
@@ -84,15 +84,16 @@ Much of a Dunbarrow witch's magic is performed at cauldrons and delivered as a p
       \ or half as much damage on a successful one."
     "name": "Shattered Shards"
   - "desc": "The witch casts one of the following spells, using Charisma as the spellcasting\
-      \ ability (spell save DC 16):\n\n**At will:** [mage armor](3-Mechanics/CLI/spells/mage-armor.md)\
-      \ (self only), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md)\n\
-      \n**2/day each:** [animal messenger](3-Mechanics/CLI/spells/animal-messenger.md),\
-      \ [charm person](3-Mechanics/CLI/spells/charm-person.md), [Tasha's hideous laughter](3-Mechanics/CLI/spells/tashas-hideous-laughter.md)\n\
-      \n**1/day each:** [bestow curse](3-Mechanics/CLI/spells/bestow-curse.md), [dispel\
-      \ magic](3-Mechanics/CLI/spells/dispel-magic.md)"
+      \ ability (spell save DC 16):\n\n**At will:** [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)\
+      \ (self only), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
+      \n**2/day each:** [animal messenger](3-Mechanics/CLI/spells/animal-messenger-xphb.md),\
+      \ [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md), [Tasha's hideous\
+      \ laughter](3-Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md)\n\n**1/day\
+      \ each:** [bestow curse](3-Mechanics/CLI/spells/bestow-curse-xphb.md), [dispel\
+      \ magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "MCV4EC"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/dunbarrow-witch-mcv4ec.webp"
+"image": "file://bestiary/tokens/MCV4EC/Dunbarrow%20Witch.webp"
 ```
 ^statblock

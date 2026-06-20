@@ -12,6 +12,8 @@ aliases:
 
 **Feywild Weather**
 
+`dice: [](feywild-weather-dod.md#^feywild-weather)`
+
 | dice: d8 | Weather Effect |
 |----------|----------------|
 | 1 | Flower blossoms rain from a sky filled with sparkling, pastel-colored clouds. |
@@ -21,5 +23,5 @@ aliases:
 | 5 | Snow begins to fall, and the flakes grow bigger over time. Flakes as big as dinner plates, wagon wheels, and even a waterwheel fall, but they're light as a feather. |
 | 6 | The sky fills with iridescent bubbles that lazily fall to the ground. Giggling pixie children chase and pop the bubbles but turn [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) and flee if spoken to or approached. |
 | 7 | A silvery rain lifts the spirits and brings a song to each heart that it touches. |
-| 8 | A howling wind blows through the party, and each party member must roll a `d8`. Anyone who rolls an 8 has a trinket or some other tiny, nonmagical item (such as a coin) stolen from them by weather spirits. |
+| 8 | A howling wind blows through the party, and each party member must roll a `dice:d8\|noform\|noparens\|avg` (`d8`). Anyone who rolls an 8 has a trinket or some other tiny, nonmagical item (such as a coin) stolen from them by weather spirits. |
 ^feywild-weather

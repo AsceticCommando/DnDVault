@@ -57,7 +57,7 @@ How do the mindsets of red dragons and gold dragons differ? Where do they prefer
 > *This dragon is introduced in "chapter 6".
 ^123
 
-![Fizban addresses a council...](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/039-05-001-chapter-splash.webp#center "Fizban addresses a council of metallic dragons on a matter of crucial importance, probably unrelated to baked goods")
+![Fizban addresses a council of metallic dragons on a matter of crucial importance, probably unrelated to baked goods](file://book/FTD/039-05-001.chapter-splash.webp#center)
 
 ## Using the Entries
 
@@ -135,8 +135,8 @@ Amethyst dragons prefer lairs near water, ideally mountain lakes, where they tak
 Amethyst dragon lairs frequently exhibit or develop large and beautiful clusters of amethyst crystals, including massive cathedral geodes split open to show their contents and clusters of crystal points more than a foot in diameter that extend six to ten feet from the interior stone surfaces of the lair. These crystals resonate with the dragon's presence, and glow with a soft inner light. The older the dragon, the deeper the purple color of the crystals.
 
 > [!gallery]
-> ![Map 5.1: amethyst dragon lair](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/040-map-5-1-amethyst-dragon-lair.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/041-map-5-1-amethyst-dragon-lair-player.webp#gallery)
+> ![Map 5.1: amethyst dragon lair](file://book/FTD/040-map-5.1-amethyst-dragon-lair.webp#gallery)
+> ![Player Version](file://book/FTD/041-map-5.1-amethyst-dragon-lair-player.webp#gallery)
 
 #### Amethyst Dragon Lair Features
 
@@ -145,7 +145,7 @@ The amethyst dragon lair shown in map 5.1 is set beneath a mountain ridge betwee
 - **Entrances.** Two cave entrances provide access to the lair, one in the rock face just above one tarn and one below the surface of the other tarn. The dragon uses the underwater passage as a secret entrance and emergency exit.  
 - **Main Caves.** The lair is a complex of caves and tunnels; the stone surfaces are smooth and water-worn, and the air is cool and slightly damp.  
 - **Glowing Crystals.** Large clusters of glowing amethyst crystals grow out from the walls and ceiling, casting dim light in a 30-foot radius.  
-- **Chimneys.** Two chimneys connect the main caves to the three chambers above. Each chimney appears to continue up through the ceiling of the upper level and down through the floor of the lower level, but the dragon's magic warps space within the lair. Moving up past the upper level brings a creature to the lower level again, while moving down from the lower level brings a creature to the upper level. A creature or object dropped down one of the chimneys continues falling endlessly unless it or some outside force has the means to slow or stop it. This property of the lair vanishes after `1d10` days if the dragon dies.  
+- **Chimneys.** Two chimneys connect the main caves to the three chambers above. Each chimney appears to continue up through the ceiling of the upper level and down through the floor of the lower level, but the dragon's magic warps space within the lair. Moving up past the upper level brings a creature to the lower level again, while moving down from the lower level brings a creature to the upper level. A creature or object dropped down one of the chimneys continues falling endlessly unless it or some outside force has the means to slow or stop it. This property of the lair vanishes after `dice:1d10|noform|noparens|avg` (`1d10`) days if the dragon dies.  
 - **Upper Caves.** The dragon most often sleeps in the largest upper chamber of the lair. The dragon's hoard is divided between that area and the chamber at the opposite end of the upper level. The magic of the lair sometimes makes it appear as though the dragon were sleeping amid both caches, creating the impression that two dragons dwell here.  
 
 ### Amethyst Dragon Treasures
@@ -199,8 +199,8 @@ Black dragons prefer to lair in swamps and jungles—the more dismal and fetid, 
 When choosing their lairs, black dragons are fond of locations that are naturally constraining and confounding. Whether adventurers seeking the dragon must wind their way through the roots of an ancient mangrove swamp or brave a trap-filled boggy ruin, the experience promises to be a deadly affair.
 
 > [!gallery]
-> ![Map 5.2: black dragon lair](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/042-map-5-2-black-dragon-lair.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/043-map-5-2-black-dragon-lair-player.webp#gallery)
+> ![Map 5.2: black dragon lair](file://book/FTD/042-map-5.2-black-dragon-lair.webp#gallery)
+> ![Player Version](file://book/FTD/043-map-5.2-black-dragon-lair-player.webp#gallery)
 
 #### Black Dragon Lair Features
 
@@ -221,9 +221,9 @@ The black dragon lair shown in map 5.2 is a derelict chapel, lost to time in a g
 
 #### Additional Lair Actions
 
-At your discretion, a legendary ([adult](3-Mechanics/CLI/bestiary/dragon/adult-black-dragon.md) or [ancient](3-Mechanics/CLI/bestiary/dragon/ancient-black-dragon.md)) black dragon can use one or more of the following additional lair actions while in its lair:
+At your discretion, a legendary ([adult](3-Mechanics/CLI/bestiary/dragon/adult-black-dragon-xmm.md) or [ancient](3-Mechanics/CLI/bestiary/dragon/ancient-black-dragon-xmm.md)) black dragon can use one or more of the following additional lair actions while in its lair:
 
-- **Filth Burst.** The dragon chooses a point on the ground it can see within 120 feet of it. A 20-foot-radius, 20-foot-high cylinder of watery filth centered on that point erupts from the ground until initiative count 20 on the next round. Each creature in the cylinder when it appears or that ends its turn there must make a DC 15 Constitution saving throw, taking 10 (`3d6`) poison damage on a failed save, or half as much damage on a successful one. The cylinder is "difficult terrain".  
+- **Filth Burst.** The dragon chooses a point on the ground it can see within 120 feet of it. A 20-foot-radius, 20-foot-high cylinder of watery filth centered on that point erupts from the ground until initiative count 20 on the next round. Each creature in the cylinder when it appears or that ends its turn there must make a DC 15 Constitution saving throw, taking `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) poison damage on a failed save, or half as much damage on a successful one. The cylinder is "difficult terrain".  
 - **Grasping Muck.** Tendrils of roiling muck extend from the dragon's lair to grasp up to three creatures of the dragon's choice that it can see within the lair. A targeted creature must succeed on a DC 15 Strength saving throw or be [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) until initiative count 20 on the next round.  
 - **Noxious Gas.** A bubble of swamp gas erupts in a 20-foot-radius sphere centered on a point the dragon can see within its lair. Each creature in the area must succeed on a DC 15 Constitution saving throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 
@@ -243,7 +243,7 @@ Because their lairs are inevitably slimy and dank, if not outright flooded, blac
 
 Most black dragons keep their treasure well hidden and have a private viewing room for particularly prized possessions. Knowing that interloping inferiors were able to so much as see their hoard can drive a black dragon to a state of rage.
 
-![](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/044-05-002.webp#center)
+![](file://book/FTD/044-05-002.webp#center)
 
 ![Black Dragon Treasures; Black Dragon Art Objects](3-Mechanics/CLI/tables/black-dragon-treasures-black-dragon-art-objects-ftd.md)
 
@@ -283,7 +283,7 @@ In contrast to most chromatic dragons, blue dragons see value in relationships w
 
 ![Connected Creatures; Ancient Blue Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-ancient-blue-dragon-connections-ftd.md)
 
-![Iymrith, &quot;Doom of the Dese...](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/045-05-003-iymrith.webp#center "Iymrith, &quot;Doom of the Desert,&quot; flies above her lair")
+![Iymrith, &quot;Doom of the Desert,&quot; flies above her lair](file://book/FTD/045-05-003.iymrith.webp#center)
 
 ### Blue Dragon Lairs
 
@@ -292,8 +292,8 @@ Blue dragons make their lairs in deserts and other arid landscapes. They prefer 
 Though most blue dragons would be loath to the use the term themselves, their lairs are often surprisingly homey. They favor lairs that balance beauty and comfort and adorn them in soothing shades of blue, purple, and green.
 
 > [!gallery]
-> ![Map 5.3: blue dragon lair](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/046-map-5-3-blue-dragon-lair.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/047-map-5-3-blue-dragon-lair-player.webp#gallery)
+> ![Map 5.3: blue dragon lair](file://book/FTD/046-map-5.3-blue-dragon-lair.webp#gallery)
+> ![Player Version](file://book/FTD/047-map-5.3-blue-dragon-lair-player.webp#gallery)
 
 #### Blue Dragon Lair Features
 
@@ -311,10 +311,10 @@ The lair has the following features:
 
 #### Additional Lair Actions
 
-At your discretion, a legendary ([adult](3-Mechanics/CLI/bestiary/dragon/adult-blue-dragon.md) or [ancient](3-Mechanics/CLI/bestiary/dragon/ancient-blue-dragon.md)) blue dragon can use one or both of the following additional lair actions while in its lair:
+At your discretion, a legendary ([adult](3-Mechanics/CLI/bestiary/dragon/adult-blue-dragon-xmm.md) or [ancient](3-Mechanics/CLI/bestiary/dragon/ancient-blue-dragon-xmm.md)) blue dragon can use one or both of the following additional lair actions while in its lair:
 
 - **Misleading Mirage.** Until initiative count 20 on the next round, at each intersection or branching passage in the lair, a creature other than the dragon has a 50 percent chance of going in a different direction from the direction it intends.  
-- **Sudden Sinkhole.** The dragon chooses a point on the ground that it can see within 120 feet of it. A 5-foot-radius, 20-foot-deep pit forms centered on that point. A creature on the ground above where the pit formed must make a DC 15 Dexterity saving throw. On a failed save, a creature falls to the bottom of the pit, taking 7 (`2d6`) bludgeoning damage and landing [prone](3-Mechanics/CLI/rules/conditions.md#Prone). On a successful save, a creature moves to the nearest unoccupied space instead of falling in the pit.  
+- **Sudden Sinkhole.** The dragon chooses a point on the ground that it can see within 120 feet of it. A 5-foot-radius, 20-foot-deep pit forms centered on that point. A creature on the ground above where the pit formed must make a DC 15 Dexterity saving throw. On a failed save, a creature falls to the bottom of the pit, taking `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) bludgeoning damage and landing [prone](3-Mechanics/CLI/rules/conditions.md#Prone). On a successful save, a creature moves to the nearest unoccupied space instead of falling in the pit.  
 
 #### Regional Effects
 
@@ -326,9 +326,9 @@ Any of these effects might appear in the area around a blue dragon's lair, in ad
 
 > [!note] Iymrith
 > 
-> Known as the Dragon of the Statues and the Doom of the Desert, the ancient blue dragon [Iymrith](3-Mechanics/CLI/bestiary/npc/iymrith-skt.md) commands an army of [gargoyles](3-Mechanics/CLI/bestiary/elemental/gargoyle.md) and has studied magic for centuries in the hope of transcending her physical form and becoming a god.
+> Known as the Dragon of the Statues and the Doom of the Desert, the ancient blue dragon [Iymrith](3-Mechanics/CLI/bestiary/npc/iymrith-skt.md) commands an army of [gargoyles](3-Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) and has studied magic for centuries in the hope of transcending her physical form and becoming a god.
 > 
-> Iymrith often appears as a [storm giant](3-Mechanics/CLI/bestiary/giant/storm-giant.md) using her special Change Shape trait. In this guise, she infiltrates storm giant settlements and insinuates herself into the affections of the rulers' heirs, becoming a mentor to them—and turning them against their parents. She demands great accomplishments from her own offspring, but she is more than willing to support and aid them with her considerable resources.
+> Iymrith often appears as a [storm giant](3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md) using her special Change Shape trait. In this guise, she infiltrates storm giant settlements and insinuates herself into the affections of the rulers' heirs, becoming a mentor to them—and turning them against their parents. She demands great accomplishments from her own offspring, but she is more than willing to support and aid them with her considerable resources.
 > 
 > Ferocious in her youth, Iymrith has grown more philosophical and even whimsical as she ages, but she has not lost sight of her quest for transcendence.
 ^iymrith
@@ -384,8 +384,8 @@ Brass dragons prefer to make their lairs in hot, dry, rocky areas—desert canyo
 Brass dragons like their lairs to be spacious and well lit; many lairs feature windows or skylights to let sunlight in. They respect skillfully wrought stonework and often take over canyon fortresses and similar structures when they're abandoned by their original non-dragon builders. Brass dragons are also capable of fine stonework themselves, and many meticulously carve out grand halls and galleries in which to store and display their hoards.
 
 > [!gallery]
-> ![Map 5.4: brass dragon lair](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/048-map-5-4-brass-dragon-lair.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/049-map-5-4-brass-dragon-lair-player.webp#gallery)
+> ![Map 5.4: brass dragon lair](file://book/FTD/048-map-5.4-brass-dragon-lair.webp#gallery)
+> ![Player Version](file://book/FTD/049-map-5.4-brass-dragon-lair-player.webp#gallery)
 
 #### Brass Dragon Lair Features
 
@@ -407,9 +407,9 @@ The brass dragon lair shown in map 5.4 is an ancient ruin located within rough, 
 
 #### Additional Lair Actions
 
-At your discretion, a legendary ([adult](3-Mechanics/CLI/bestiary/dragon/adult-brass-dragon.md) or [ancient](3-Mechanics/CLI/bestiary/dragon/ancient-brass-dragon.md)) brass dragon can use one or more of the following additional lair actions while in its lair:
+At your discretion, a legendary ([adult](3-Mechanics/CLI/bestiary/dragon/adult-brass-dragon-xmm.md) or [ancient](3-Mechanics/CLI/bestiary/dragon/ancient-brass-dragon-xmm.md)) brass dragon can use one or more of the following additional lair actions while in its lair:
 
-- **Animate Statues.** The dragon chooses up to three statues in the lair that it can see. Each of these statues briefly animates and attacks one creature within 5 feet of it, with a +7 bonus to hit and dealing 10 (`3d6`) bludgeoning damage on a hit.  
+- **Animate Statues.** The dragon chooses up to three statues in the lair that it can see. Each of these statues briefly animates and attacks one creature within 5 feet of it, with a `dice:1d20+7|noform|noparens|text(+7)` bonus to hit and dealing `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) bludgeoning damage on a hit.  
 - **Blast of Wind.** A mighty wind sweeps through the lair in a direction of the dragon's choice, blowing along a line 40 feet wide and 100 feet long. Each creature in that area except the dragon must succeed on a DC 15 Strength saving throw or be pushed 15 feet in the wind's direction and be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone). Gases and vapors are dispersed by the wind, and unprotected flames are extinguished. Protected flames, such as lanterns, have a 50 percent chance of being extinguished. If the dragon is within the area of the wind, it can choose to be pushed 15 feet in the wind's direction, and the wind can't knock the dragon [prone](3-Mechanics/CLI/rules/conditions.md#Prone).  
 - **Obscuring Sand.** Dust and sand fill the air within 120 feet of the dragon, making the area lightly obscured until initiative count 20 on the next round.  
 
@@ -481,15 +481,15 @@ The bronze dragon lair shown on map 5.5 is a set of sea caves that once served a
 - **Watery Caves.** Two chambers near the top of the map are accessible only via submerged tunnels, their entrances disguised with thick seaweed and boulders. The larger cavern on the right is the dragon's sleeping chamber, while the smaller on the left holds most of the dragon's hoard.  
 
 > [!gallery]
-> ![Map 5.5: bronze dragon lair](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/050-map-5-5-bronze-dragon-lair.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/051-map-5-5-bronze-dragon-lair-player.webp#gallery)
+> ![Map 5.5: bronze dragon lair](file://book/FTD/050-map-5.5-bronze-dragon-lair.webp#gallery)
+> ![Player Version](file://book/FTD/051-map-5.5-bronze-dragon-lair-player.webp#gallery)
 
 #### Additional Lair Actions
 
-At your discretion, a legendary ([adult](3-Mechanics/CLI/bestiary/dragon/adult-bronze-dragon.md) or [ancient](3-Mechanics/CLI/bestiary/dragon/ancient-bronze-dragon.md)) bronze dragon can use one or more of the following additional lair actions while in its lair:
+At your discretion, a legendary ([adult](3-Mechanics/CLI/bestiary/dragon/adult-bronze-dragon-xmm.md) or [ancient](3-Mechanics/CLI/bestiary/dragon/ancient-bronze-dragon-xmm.md)) bronze dragon can use one or more of the following additional lair actions while in its lair:
 
-- **Ocean's Call.** The dragon conjures a swarm of spectral dolphins. Each creature in the water within 120 feet of the dragon must succeed on a DC 15 Dexterity saving throw or take 5 (`1d10`) slashing damage; then the swarm vanishes.  
-- **Salt Burst.** The dragon chooses a point it can see in the lair. The air in a 20-foot-radius sphere centered on that point bursts with abrasive salt crystals. Each creature in that area must succeed on a DC 15 Dexterity saving throw or take 10 (`3d6`) slashing damage.  
+- **Ocean's Call.** The dragon conjures a swarm of spectral dolphins. Each creature in the water within 120 feet of the dragon must succeed on a DC 15 Dexterity saving throw or take `dice:1d10|noform|noparens|avg|text(5)` (`1d10`) slashing damage; then the swarm vanishes.  
+- **Salt Burst.** The dragon chooses a point it can see in the lair. The air in a 20-foot-radius sphere centered on that point bursts with abrasive salt crystals. Each creature in that area must succeed on a DC 15 Dexterity saving throw or take `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) slashing damage.  
 - **Whelming Water.** The dragon causes a strong current to course through the water in its lair. The dragon chooses any number of creatures it can see that are standing or swimming in water within 120 feet of it. Each chosen creature must succeed on a DC 15 Strength saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone).  
 
 #### Regional Effects
@@ -565,8 +565,8 @@ Copper dragons prefer dry uplands, hilltops, or mountainous foothills, where the
 Copper dragon burrows are often sinuous and winding, featuring twists, turns, and dead ends. Blank walls in the lair can conceal cunning hidden passages or might be stone or clay thin enough for the dragon to burst through them. The narrowest tunnels in a copper dragon's lair are just barely wide enough to accommodate the dragon's body, and they typically loop around and reconnect with themselves so the dragon can double back without having to reverse direction.
 
 > [!gallery]
-> ![Map 5.6: copper dragon lair](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/052-map-5-6-copper-dragon-lair.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/053-map-5-6-copper-dragon-lair-player.webp#gallery)
+> ![Map 5.6: copper dragon lair](file://book/FTD/052-map-5.6-copper-dragon-lair.webp#gallery)
+> ![Player Version](file://book/FTD/053-map-5.6-copper-dragon-lair-player.webp#gallery)
 
 #### Copper Dragon Lair Features
 
@@ -575,12 +575,12 @@ The copper dragon lair shown in map 5.6 is a network of tunnels and large chambe
 The lair has the following features:
 
 - **Concealed Entrances.** Four sloping tunnels emerge onto the surface among the hills, concealed by brush and tumbled stone. These openings allow the dragon to enter and depart the lair via multiple routes. Additionally, the sunken areas shown on the surface map correspond to areas where the dragon can burst through the ceiling to reach the surface.  
-- **Secret Doors.** Concealed passages connect a number of the tunnels and chambers of the lair. Their secret doors are magical in nature, with the stone at a passage junction reshaping itself at the dragon's command to open a passage or close it again (similar to the effect of a [stone shape](3-Mechanics/CLI/spells/stone-shape.md) spell). Whenever a creature with an Intelligence of 3 or higher comes within 10 feet of one of these secret doors, the dragon becomes aware of that creature's presence and location. Each secret door radiates an aura of transmutation magic but is otherwise indistinguishable from solid stone.  
+- **Secret Doors.** Concealed passages connect a number of the tunnels and chambers of the lair. Their secret doors are magical in nature, with the stone at a passage junction reshaping itself at the dragon's command to open a passage or close it again (similar to the effect of a [stone shape](3-Mechanics/CLI/spells/stone-shape-xphb.md) spell). Whenever a creature with an Intelligence of 3 or higher comes within 10 feet of one of these secret doors, the dragon becomes aware of that creature's presence and location. Each secret door radiates an aura of transmutation magic but is otherwise indistinguishable from solid stone.  
 - **Hoard Chamber.** At the bottom of the underground map, a chamber hidden beyond two secret passages and carved out beneath a low hill contains the bulk of the dragon's hoard. The dragon often sleeps in the adjoining chamber, acting as a final line of defense against intruders.  
 
 #### Additional Lair Actions
 
-At your discretion, a legendary ([adult](3-Mechanics/CLI/bestiary/dragon/adult-copper-dragon.md) or [ancient](3-Mechanics/CLI/bestiary/dragon/ancient-copper-dragon.md)) copper dragon can use one or both of the following additional lair actions while in its lair:
+At your discretion, a legendary ([adult](3-Mechanics/CLI/bestiary/dragon/adult-copper-dragon-xmm.md) or [ancient](3-Mechanics/CLI/bestiary/dragon/ancient-copper-dragon-xmm.md)) copper dragon can use one or both of the following additional lair actions while in its lair:
 
 - **Laughing Gas.** The dragon chooses a point on the ground that it can see within 120 feet of it. A cloud of pink gas fills a 20-foot-radius sphere centered on that point. Each creature in that area that fails a DC 15 Wisdom saving throw is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) with laughter until the end of its next turn.  
 - **Torpid Energy.** The dragon chooses a creature it can see within 120 feet of it. If the target fails a DC 15 Constitution saving throw, its speed is halved, and it can't use reactions or bonus actions until the end of its next turn.  
@@ -626,7 +626,7 @@ The Crystal Dragon Adventure Hooks table offers suggestions for stories and adve
 > 
 > The [adult crystal dragon](3-Mechanics/CLI/bestiary/dragon/adult-crystal-dragon-ftd.md) Saryndalaghlothtor is known as "Lady Gemcloak" and sometimes "the Axemother," thanks to her association with a dwarf clan dwelling in the northern part of Faerûn. She lives closer to civilization than crystal dragons typically do, which delights her because of the close friendships she has formed, but also annoys her as she is forced to deal with hostile fools who mistake her for an evil white dragon.
 > 
-> Having earned the enmity of the ancient red dragon [Klauth](3-Mechanics/CLI/bestiary/npc/klauth-skt.md), Lady Gemcloak is exploring the possibility of establishing close ties between her dwarf allies and a group of [azers](3-Mechanics/CLI/bestiary/elemental/azer.md) on the Elemental Plane of Fire. In the meantime, she's trying to protect her dwarf allies from the schemes of a hostile mining cartel.
+> Having earned the enmity of the ancient red dragon [Klauth](3-Mechanics/CLI/bestiary/npc/klauth-skt.md), Lady Gemcloak is exploring the possibility of establishing close ties between her dwarf allies and a group of [azers](3-Mechanics/CLI/bestiary/elemental/azer-sentinel-xmm.md) on the Elemental Plane of Fire. In the meantime, she's trying to protect her dwarf allies from the schemes of a hostile mining cartel.
 ^saryndalaghlothtor
 
 #### Connected Creatures
@@ -648,8 +648,8 @@ Crystal dragons seek out frigid, picturesque locations with clear views of the s
 Crystal dragons' lairs are often found in polar expanses, dizzying mountain peaks, and glacial floes. Some resemble icy palaces, with numerous balconies offering plentiful opportunities for sky gazing. Though ice and snow are the most common materials they use in the construction of a lair, crystal and other precious minerals feature prominently in certain areas. In this way, crystal dragons' hoards literally become the fabric of their homes.
 
 > [!gallery]
-> ![Map 5.7: crystal dragon lair](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/054-map-5-7-crystal-dragon-lair.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/055-map-5-7-crystal-dragon-lair-player.webp#gallery)
+> ![Map 5.7: crystal dragon lair](file://book/FTD/054-map-5.7-crystal-dragon-lair.webp#gallery)
+> ![Player Version](file://book/FTD/055-map-5.7-crystal-dragon-lair-player.webp#gallery)
 
 #### Crystal Dragon Lair Features
 
@@ -738,7 +738,7 @@ It is rare to find a deep dragon hoard that is simply a pile of gems and treasur
 > 
 > I know I didn't make dragon turtles, and Tiamat swears she didn't, so where did they come from? More importantly, why?
 
-Use the tables and other information in this section to craft unique encounters with dragon turtles. "Chapter 6" features stat blocks for [dragon turtle wyrmlings](3-Mechanics/CLI/bestiary/dragon/dragon-turtle-wyrmling-ftd.md), [young dragon turtles](3-Mechanics/CLI/bestiary/dragon/young-dragon-turtle-ftd.md), and [ancient dragon turtles](3-Mechanics/CLI/bestiary/dragon/ancient-dragon-turtle-ftd.md). The [dragon turtle](3-Mechanics/CLI/bestiary/dragon/dragon-turtle.md) in the "Monster Manual" is an adult.
+Use the tables and other information in this section to craft unique encounters with dragon turtles. "Chapter 6" features stat blocks for [dragon turtle wyrmlings](3-Mechanics/CLI/bestiary/dragon/dragon-turtle-wyrmling-ftd.md), [young dragon turtles](3-Mechanics/CLI/bestiary/dragon/young-dragon-turtle-ftd.md), and [ancient dragon turtles](3-Mechanics/CLI/bestiary/dragon/ancient-dragon-turtle-ftd.md). The [dragon turtle](3-Mechanics/CLI/bestiary/dragon/dragon-turtle-xmm.md) in the "Monster Manual" is an adult.
 
 ### Creating a Dragon Turtle
 
@@ -768,7 +768,7 @@ Dragon turtles are stolid and slow to anger. This temperament, combined with the
 
 ![Connected Creatures; Ancient Dragon Turtle Connections](3-Mechanics/CLI/tables/connected-creatures-ancient-dragon-turtle-connections-ftd.md)
 
-![](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/056-05-004.webp#center)
+![](file://book/FTD/056-05-004.webp#center)
 
 ### Dragon Turtle Lairs
 
@@ -789,11 +789,11 @@ As an example, "map 5.14" depicts a topaz dragon's lair in a seaside cavern, but
 
 #### Lair Actions
 
-As they are presented in the "Monster Manual", dragon turtles don't have access to lair actions while in their lairs. At your discretion, you can give an [adult](3-Mechanics/CLI/bestiary/dragon/dragon-turtle.md) or [ancient dragon turtle](3-Mechanics/CLI/bestiary/dragon/ancient-dragon-turtle-ftd.md) access to lair actions, increasing its challenge rating by 1. On initiative count 20 (losing initiative ties), the dragon turtle can take one of the following lair actions; the dragon turtle can't take the same lair action two rounds in a row:
+As they are presented in the "Monster Manual", dragon turtles don't have access to lair actions while in their lairs. At your discretion, you can give an [adult](3-Mechanics/CLI/bestiary/dragon/dragon-turtle-xmm.md) or [ancient dragon turtle](3-Mechanics/CLI/bestiary/dragon/ancient-dragon-turtle-ftd.md) access to lair actions, increasing its challenge rating by 1. On initiative count 20 (losing initiative ties), the dragon turtle can take one of the following lair actions; the dragon turtle can't take the same lair action two rounds in a row:
 
 - **Blasting Current.** A strong water current moves through the dragon turtle's lair. Each creature within 30 feet of the dragon turtle must succeed on a DC 15 Strength saving throw or be moved 30 feet in a direction of the dragon turtle's choice. On a success, the creature is moved 10 feet instead.  
 - **Entangling Kelp.** Strands of spectral kelp reach out to ensnare creatures in a 20-foot-radius sphere centered on a point in the lair that the dragon turtle can see. Each creature in that area must succeed on a DC 15 Strength saving throw or be [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) until the end of its next turn.  
-- **Steam Eruption.** Steam erupts in a 15-foot cone from a point on the ground the dragon turtle can see within 120 feet of it. Each creature in that area must make a DC 15 Constitution saving throw, taking 21 (`6d6`) fire damage on a failed save, or half as much damage on a successful one. Being underwater doesn't grant creatures resistance to this damage.  
+- **Steam Eruption.** Steam erupts in a 15-foot cone from a point on the ground the dragon turtle can see within 120 feet of it. Each creature in that area must make a DC 15 Constitution saving throw, taking `dice:6d6|noform|noparens|avg|text(21)` (`6d6`) fire damage on a failed save, or half as much damage on a successful one. Being underwater doesn't grant creatures resistance to this damage.  
 
 #### Regional Effects
 
@@ -803,11 +803,11 @@ The region containing a dragon turtle's lair can be transformed by its presence,
 - **Elemental Portals.** Crevasses on the ocean floor within 1 mile of the dragon turtle's lair form two-way portals to the Elemental Plane of Water, allowing creatures of elemental water into the world to dwell nearby.  
 - **Hot Water.** Geothermal vents heat the water within 6 miles of the dragon turtle's lair to 100 degrees Fahrenheit.  
 
-If the dragon turtle dies, these effects fade over the course of `1d10` days.
+If the dragon turtle dies, these effects fade over the course of `dice:1d10|noform|noparens|avg` (`1d10`) days.
 
 > [!note] Aremag
 > 
-> Aremag is an [adult dragon turtle](3-Mechanics/CLI/bestiary/dragon/dragon-turtle.md) who lays claim to the southern reaches of the Sea of Swords in Faerûn, extracting tribute from all who enter or leave the Bay of Chult. Traders often carry chests of treasure on board expressly for this purpose—pirates are more likely to offer captives, launched out in a skiff to feed the dragon turtle's voracious appetite.
+> Aremag is an [adult dragon turtle](3-Mechanics/CLI/bestiary/dragon/dragon-turtle-xmm.md) who lays claim to the southern reaches of the Sea of Swords in Faerûn, extracting tribute from all who enter or leave the Bay of Chult. Traders often carry chests of treasure on board expressly for this purpose—pirates are more likely to offer captives, launched out in a skiff to feed the dragon turtle's voracious appetite.
 > 
 > Aremag's predation has occasionally provoked reprisal from Chult's inhabitants, as attested to by his milky-white left eye and missing patch of shell. However, rather than humbling the great dragon turtle, these injuries have made him more irascible. Those who meet the dragon turtle are advised to pay whatever price he asks, and to treat him with the deference he believes he deserves.
 ^aremag
@@ -868,8 +868,8 @@ Emerald dragons make their lairs in caves and subterranean ruins, favoring locat
 An emerald dragon's lair is a maze of twisting tunnels, interconnected caverns, or crumbling ruins designed to disorient intruders. Circuitous routes within the lair provide the dragon with numerous ways to evade pursuit, while strategically designed choke points allow them to harry enemies with repeated ambushes. Emerald dragons frequently lay traps and alarms at the entrance points to their lairs, with older (and more paranoid) dragons employing several layers of such defenses.
 
 > [!gallery]
-> ![Map 5.8: emerald dragon lair](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/065-map-5-8-emerald-dragon-lair.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/066-map-5-8-emerald-dragon-lair-player.webp#gallery)
+> ![Map 5.8: emerald dragon lair](file://book/FTD/065-map-5.8-emerald-dragon-lair.webp#gallery)
+> ![Player Version](file://book/FTD/066-map-5.8-emerald-dragon-lair-player.webp#gallery)
 
 #### Emerald Dragon Lair Features
 
@@ -939,7 +939,7 @@ An example complex faerie dragon lair is built around several hollowed-out chamb
 
 #### Lair Actions
 
-As they are presented in the "Monster Manual", faerie dragons don't have access to lair actions while in their lairs. At your discretion, a green or [older faerie dragon](3-Mechanics/CLI/bestiary/dragon/faerie-dragon-violet.md) can take one of the following lair actions on initiative count 20 (losing initiative ties):
+As they are presented in the "Monster Manual", faerie dragons don't have access to lair actions while in their lairs. At your discretion, a green or [older faerie dragon](3-Mechanics/CLI/bestiary/dragon/faerie-dragon-adult-xmm.md) can take one of the following lair actions on initiative count 20 (losing initiative ties):
 
 - **Chaotic Aura.** The faerie dragon creates misdirecting currents of air and magic around itself. Until initiative count 20 on the next round, whenever a ranged attack roll misses the dragon, reroll the attack against a random creature within 30 feet of the dragon that doesn't have total cover against the attack.  
 - **Grasping Plants.** The faerie dragon causes roots and vines to temporarily grow around it; until initiative count 20 on the next round, the ground within 20 feet of the dragon is "difficult terrain".  
@@ -948,13 +948,13 @@ As they are presented in the "Monster Manual", faerie dragons don't have access 
 
 The region containing a faerie dragon's lair can be transformed by its presence, creating one or more of the following effects:
 
-![](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/067-05-005.webp#center)
+![](file://book/FTD/067-05-005.webp#center)
 
 - **Compulsory Offering.** The first time a creature comes within 1 mile of the faerie dragon's lair, the creature must succeed on a DC 15 Wisdom saving throw or feel an overwhelming compulsion to leave an offering worth at least 5 gp stashed in an out-of-the-way place. The dragon immediately senses the location of this gift. A creature can be affected only once by this compulsion.  
 - **Malleable Time.** Time is fluid within 1 mile of the faerie dragon's lair, flowing somewhere between half and twice its normal speed.  
 - **Mischief Afoot.** Sapient creatures that spend a year within 5 miles of the faerie dragon's lair feel the persistent urge to play pranks on others.  
 
-If the faerie dragon dies, these effects fade over the course of `1d10` days.
+If the faerie dragon dies, these effects fade over the course of `dice:1d10|noform|noparens|avg` (`1d10`) days.
 
 ### Faerie Dragon Treasures
 
@@ -1003,15 +1003,15 @@ Gold dragons tend to hold themselves apart from the worlds they watch over, favo
 
 ![Connected Creatures; Ancient Gold Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-ancient-gold-dragon-connections-ftd.md)
 
-![](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/068-05-006.webp#center)
+![](file://book/FTD/068-05-006.webp#center)
 
 ### Gold Dragon Lairs
 
 Despite their affection for people and their diverse cultures, gold dragons typically make their lairs in hidden places far from civilization, where only the most desperate and dedicated can find them. Many live in the ruins of vanished cultures, appreciating the beautiful inevitability of entropy and the reminder of how easily progress can be lost without careful tending. Crumbling shrines, towers reclaimed by the wilderness, and fallen fortresses all appeal to a gold dragon's sense of history—though they can be equally enraptured by picturesque natural settings. A gold dragon lair almost always involves water, be it a river, a lake, or an ocean shore.
 
 > [!gallery]
-> ![Map 5.9: gold dragon lair](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/069-map-5-9-gold-dragon-lair.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/070-map-5-9-gold-dragon-lair-player.webp#gallery)
+> ![Map 5.9: gold dragon lair](file://book/FTD/069-map-5.9-gold-dragon-lair.webp#gallery)
+> ![Player Version](file://book/FTD/070-map-5.9-gold-dragon-lair-player.webp#gallery)
 
 #### Gold Dragon Lair Features
 
@@ -1024,7 +1024,7 @@ The gold dragon lair shown in map 5.9 occupies a misty river gorge and has the f
 > 
 > As the King of Justice, Tamarand is the nominal ruler of gold dragons throughout Faerûn. Other gold dragons seek out his wisdom before embarking on their own quests, to ensure they aren't overlooking any hidden consequences.
 > 
-> Tamarand is thoughtful, decisive, and surprisingly friendly toward non-dragons. He has strong bonds with the [storm giants](3-Mechanics/CLI/bestiary/giant/storm-giant.md) of the Galena Mountains and is a dedicated scholar of Humanoid cultures, having seen firsthand just how powerful such creatures can be when properly organized. After narrowly escaping assassination by dragon hunters in his former lair near Bloodstone Pass, Tamarand currently resides in the Vaasan wilderness and keeps his exact location a closely guarded secret.
+> Tamarand is thoughtful, decisive, and surprisingly friendly toward non-dragons. He has strong bonds with the [storm giants](3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md) of the Galena Mountains and is a dedicated scholar of Humanoid cultures, having seen firsthand just how powerful such creatures can be when properly organized. After narrowly escaping assassination by dragon hunters in his former lair near Bloodstone Pass, Tamarand currently resides in the Vaasan wilderness and keeps his exact location a closely guarded secret.
 ^tamarand
 
 ##### Gallery
@@ -1040,7 +1040,7 @@ A passageway running left from the grand hall is lined with busts of allies and 
 
 #### Additional Lair Action
 
-At your discretion, a legendary ([adult](3-Mechanics/CLI/bestiary/dragon/adult-gold-dragon.md) or [ancient](3-Mechanics/CLI/bestiary/dragon/ancient-gold-dragon.md)) gold dragon can use the following additional lair action while in its lair:
+At your discretion, a legendary ([adult](3-Mechanics/CLI/bestiary/dragon/adult-gold-dragon-xmm.md) or [ancient](3-Mechanics/CLI/bestiary/dragon/ancient-gold-dragon-xmm.md)) gold dragon can use the following additional lair action while in its lair:
 
 - **Beguiling Glow.** Warm light fills a 30-foot-radius sphere centered on the dragon; each creature in that area must succeed on a DC 15 Wisdom saving throw or be [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) by the dragon until initiative count 20 on the next round.  
 
@@ -1103,8 +1103,8 @@ Green dragons prefer making their lairs in verdant places—jungles, bayous, pin
 Green dragons take great interest in woodland settlements when seeking lair sites. Though they are fully capable of modifying forests to their own liking, they find it easier and vastly more entertaining to take something belonging to smaller and weaker beings.
 
 > [!gallery]
-> ![Map 5.10: green dragon lair](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/071-map-5-10-green-dragon-lair.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/072-map-5-10-green-dragon-lair-player.webp#gallery)
+> ![Map 5.10: green dragon lair](file://book/FTD/071-map-5.10-green-dragon-lair.webp#gallery)
+> ![Player Version](file://book/FTD/072-map-5.10-green-dragon-lair-player.webp#gallery)
 
 #### Green Dragon Lair Features
 
@@ -1118,10 +1118,10 @@ The lair has the following features:
 
 #### Additional Lair Actions
 
-At your discretion, a legendary ([adult](3-Mechanics/CLI/bestiary/dragon/adult-green-dragon.md) or [ancient](3-Mechanics/CLI/bestiary/dragon/ancient-green-dragon.md)) green dragon can use one or both of the following additional lair actions while in its lair:
+At your discretion, a legendary ([adult](3-Mechanics/CLI/bestiary/dragon/adult-green-dragon-xmm.md) or [ancient](3-Mechanics/CLI/bestiary/dragon/ancient-green-dragon-xmm.md)) green dragon can use one or both of the following additional lair actions while in its lair:
 
-- **Creeper Vines.** The dragon can use the vines and roots within its lair to animate up to three Humanoid corpses, which become [zombies](3-Mechanics/CLI/bestiary/undead/zombie.md) (see their entry in the "Monster Manual"). The zombies take their turn immediately after this lair action. Each one reverts to an inanimate corpse after 1 minute, when the dragon uses this lair action again, or when the zombie is destroyed.  
-- **Lashing Root.** One large root or branch that is part of the lair makes a melee attack roll against a creature within 10 feet of it. It has a +7 bonus to hit and deals 10 (`3d6`) bludgeoning damage on a hit. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone).  
+- **Creeper Vines.** The dragon can use the vines and roots within its lair to animate up to three Humanoid corpses, which become [zombies](3-Mechanics/CLI/bestiary/undead/zombie-xmm.md) (see their entry in the "Monster Manual"). The zombies take their turn immediately after this lair action. Each one reverts to an inanimate corpse after 1 minute, when the dragon uses this lair action again, or when the zombie is destroyed.  
+- **Lashing Root.** One large root or branch that is part of the lair makes a melee attack roll against a creature within 10 feet of it. It has a `dice:1d20+7|noform|noparens|text(+7)` bonus to hit and deals `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) bludgeoning damage on a hit. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone).  
 
 #### Regional Effects
 
@@ -1130,7 +1130,7 @@ Either or both of these effects might appear in the area around a green dragon's
 - **Inviting Whispers.** Whispers rustle in the foliage within 1 mile of the dragon's lair. The words are indistinct, but a creature with an Intelligence score of 5 or higher interprets them as an invitation to move deeper into the greenery.  
 - **Twisted Messengers.** The dragon can cause any Tiny Beast within 1 mile of its lair to act as its mouthpiece. The effect is horrendous, as the creature's throat and mouth temporarily warp into a twisted version of the dragon's own in order to allow the dragon's voice to issue forth.  
 
-![](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/073-05-007.webp#center)
+![](file://book/FTD/073-05-007.webp#center)
 
 ### Green Dragon Treasures
 
@@ -1142,9 +1142,9 @@ Unlike many of their kin, green dragons use the transformative power of nature t
 
 > [!note] Cyan Bloodbane
 > 
-> K'rshinthintl—commonly known as Cyan Bloodbane—is a deeply cunning [ancient green dragon](3-Mechanics/CLI/bestiary/dragon/ancient-green-dragon.md) with an exacting sense of malice. He is a charismatic creature, but flattery is only one of his many weapons.
+> K'rshinthintl—commonly known as Cyan Bloodbane—is a deeply cunning [ancient green dragon](3-Mechanics/CLI/bestiary/dragon/ancient-green-dragon-xmm.md) with an exacting sense of malice. He is a charismatic creature, but flattery is only one of his many weapons.
 > 
-> During the War of the Lance on the world of Krynn, Cyan Bloodbane used one of the [Orbs of Dragonkind](3-Mechanics/CLI/items/orb-of-dragonkind.md) to poison the mind of the elf king Lorac, causing the land of Silvanesti to become swallowed up in Lorac's nightmares. The green dragon has no particular loyalty to Tiamat or dedication to her cause; his actions are in his own best interests.
+> During the War of the Lance on the world of Krynn, Cyan Bloodbane used one of the [Orbs of Dragonkind](3-Mechanics/CLI/items/orb-of-dragonkind-xdmg.md) to poison the mind of the elf king Lorac, causing the land of Silvanesti to become swallowed up in Lorac's nightmares. The green dragon has no particular loyalty to Tiamat or dedication to her cause; his actions are in his own best interests.
 ^cyan-bloodbane
 
 ## Moonstone Dragons
@@ -1171,7 +1171,7 @@ The Moonstone Dragon Adventure Hooks table offers suggestions for stories and ad
 
 #### Connected Creatures
 
-In the Feywild, moonstone dragons interact mostly with [pixies](3-Mechanics/CLI/bestiary/fey/pixie.md), [sprites](3-Mechanics/CLI/bestiary/fey/sprite.md), and other Fey creatures who revere and serve the dragon. Outside the Feywild, they often prefer to communicate with other creatures through dreams.
+In the Feywild, moonstone dragons interact mostly with [pixies](3-Mechanics/CLI/bestiary/fey/pixie-xmm.md), [sprites](3-Mechanics/CLI/bestiary/fey/sprite-xmm.md), and other Fey creatures who revere and serve the dragon. Outside the Feywild, they often prefer to communicate with other creatures through dreams.
 
 ![Connected Creatures; Moonstone Dragon Wyrmling Connections](3-Mechanics/CLI/tables/connected-creatures-moonstone-dragon-wyrmling-connections-ftd.md)
 
@@ -1211,7 +1211,7 @@ Use the tables, map, and other information in this section to craft unique encou
 
 Use the Red Dragon Personality Traits and Red Dragon Ideals tables to inspire your portrayal of distinctive red dragon characters, and use the Red Dragon Spellcasting table to help select spells for a spellcasting dragon.
 
-![](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/074-05-008.webp#center)
+![](file://book/FTD/074-05-008.webp#center)
 
 ![Creating a Red Dragon; Red Dragon Personality Traits](3-Mechanics/CLI/tables/creating-a-red-dragon-red-dragon-personality-traits-ftd.md)
 
@@ -1244,12 +1244,12 @@ Red dragons lair in mountain badlands and high, isolated peaks and hills, prefer
 Minions often attend red dragons in their lairs. These servants keep the place swept clean of refuse and watch out for intruders, while providing the imperious dragon with subjects to bully and command. Some minions worship the dragon and serve willingly, but others would escape if they could.
 
 > [!gallery]
-> ![Map 5.11: red dragon lair](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/075-map-5-11-red-dragon-lair.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/076-map-5-11-red-dragon-lair-player.webp#gallery)
+> ![Map 5.11: red dragon lair](file://book/FTD/075-map-5.11-red-dragon-lair.webp#gallery)
+> ![Player Version](file://book/FTD/076-map-5.11-red-dragon-lair-player.webp#gallery)
 
 #### Red Dragon Lair Features
 
-The red dragon lair shown in map 5.11 is inside the caldera of an active volcano. [Azers](3-Mechanics/CLI/bestiary/elemental/azer.md) dug out and expanded the lava tunnels within the volcano's peak, just above the level of the caldera's lava pools. Although the azers are long since gone, their construction—and much of their lost wealth—now serves the dragon's needs. That construction also provides a network of tunnels too small for the dragon to use, but where other creatures can make their lairs.
+The red dragon lair shown in map 5.11 is inside the caldera of an active volcano. [Azers](3-Mechanics/CLI/bestiary/elemental/azer-sentinel-xmm.md) dug out and expanded the lava tunnels within the volcano's peak, just above the level of the caldera's lava pools. Although the azers are long since gone, their construction—and much of their lost wealth—now serves the dragon's needs. That construction also provides a network of tunnels too small for the dragon to use, but where other creatures can make their lairs.
 
 The lair has the following features:
 
@@ -1259,10 +1259,10 @@ The lair has the following features:
 
 #### Additional Lair Actions
 
-At your discretion, a legendary ([adult](3-Mechanics/CLI/bestiary/dragon/adult-red-dragon.md) or [ancient](3-Mechanics/CLI/bestiary/dragon/ancient-red-dragon.md)) red dragon can use one or both of the following additional lair actions while in its lair:
+At your discretion, a legendary ([adult](3-Mechanics/CLI/bestiary/dragon/adult-red-dragon-xmm.md) or [ancient](3-Mechanics/CLI/bestiary/dragon/ancient-red-dragon-xmm.md)) red dragon can use one or both of the following additional lair actions while in its lair:
 
 - **Noxious Smoke.** A cloud of thick, dark smoke fills a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The sphere spreads around corners, and its area is heavily obscured. A creature other than the dragon that starts its turn in the cloud or enters it for the first time on its turn must succeed on a DC 15 Constitution saving throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) until the end of its turn. The cloud lasts until initiative count 20 on the next round.  
-- **Searing Heat.** Searing heat spreads out in a 15-foot-radius sphere centered on a point the dragon can see within 120 feet of it. Any creature that enters the affected area or starts its turn there must make a DC 15 Constitution saving throw, taking 10 (`3d6`) fire damage on a failed save, or half as much damage on a successful one. The heat lasts until initiative count 20 on the next round.  
+- **Searing Heat.** Searing heat spreads out in a 15-foot-radius sphere centered on a point the dragon can see within 120 feet of it. Any creature that enters the affected area or starts its turn there must make a DC 15 Constitution saving throw, taking `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) fire damage on a failed save, or half as much damage on a successful one. The heat lasts until initiative count 20 on the next round.  
 
 #### Regional Effects
 
@@ -1274,7 +1274,7 @@ Any of these effects might appear in the area around a red dragon's lair, in add
 
 ### Red Dragon Treasures
 
-Red dragons love gold above all other precious metals and are entranced by its gleam, its luster, and the sound of its chime. They amass gold coins and objects to form the bulk of their hoards, along with red and fiery gemstones such as rubies and fire opals. Red dragons favor items made of metal and stone, which can survive the test of time. Many such items in an [ancient red dragon's](3-Mechanics/CLI/bestiary/dragon/ancient-red-dragon.md) hoard might be hundreds or thousands of years old. They tend to eschew treasures that burn, such as leather, paper, and cloth items.
+Red dragons love gold above all other precious metals and are entranced by its gleam, its luster, and the sound of its chime. They amass gold coins and objects to form the bulk of their hoards, along with red and fiery gemstones such as rubies and fire opals. Red dragons favor items made of metal and stone, which can survive the test of time. Many such items in an [ancient red dragon's](3-Mechanics/CLI/bestiary/dragon/ancient-red-dragon-xmm.md) hoard might be hundreds or thousands of years old. They tend to eschew treasures that burn, such as leather, paper, and cloth items.
 
 For a red dragon, every treasure is a mark of pride and a personal trophy. Like a proud hunter, a red dragon relishes telling the tale of acquiring each individual relic or coin, glorifying the dragon's own deeds.
 
@@ -1326,8 +1326,8 @@ Sapphire dragons make their lairs in enormous caverns and complex tunnel systems
 Sapphire dragons eventually create dizzying honeycombs of hidden passages, deceptively thin walls, and secret chambers that allow them to traverse the entire lair without ever being seen by intruders. The best-defended sapphire dragon lairs have no easily accessible entrances or exits at all, and trespassers who do find their way inside must then contend with a maze of corridors, dead ends, and steep inclines.
 
 > [!gallery]
-> ![Map 5.12: sapphire dragon lair](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/077-map-5-12-sapphire-dragon-lair.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/078-map-5-12-sapphire-dragon-lair-player.webp#gallery)
+> ![Map 5.12: sapphire dragon lair](file://book/FTD/077-map-5.12-sapphire-dragon-lair.webp#gallery)
+> ![Player Version](file://book/FTD/078-map-5.12-sapphire-dragon-lair-player.webp#gallery)
 
 #### Sapphire Dragon Lair Features
 
@@ -1341,7 +1341,7 @@ The lair has the following features:
 
 > [!note] Bleucorundum
 > 
-> Bleucorundum is an [ancient sapphire dragon](3-Mechanics/CLI/bestiary/dragon/ancient-sapphire-dragon-ftd.md) with an equally ancient hatred of [beholders](3-Mechanics/CLI/bestiary/aberration/beholder.md) and their kin. After losing both parents to beholder attacks, he fled to the Lake of Steam in southern Faerûn. There, he discovered the resting place of a martial order known as the Knights of the Crescent Moon, who had fought beholders in an ancient war. Bleucorundum found the knights held in stasis, awaiting the day they would be called upon to fight their ancient enemies again, and he vowed to guard them until they awaken. He styles himself the Sapphire Sentinel, self-appointed guardian of the Sleeping Legion. But his vigil is lonely, and his servitor [gargoyles](3-Mechanics/CLI/bestiary/elemental/gargoyle.md) provide little companionship.
+> Bleucorundum is an [ancient sapphire dragon](3-Mechanics/CLI/bestiary/dragon/ancient-sapphire-dragon-ftd.md) with an equally ancient hatred of [beholders](3-Mechanics/CLI/bestiary/aberration/beholder-xmm.md) and their kin. After losing both parents to beholder attacks, he fled to the Lake of Steam in southern Faerûn. There, he discovered the resting place of a martial order known as the Knights of the Crescent Moon, who had fought beholders in an ancient war. Bleucorundum found the knights held in stasis, awaiting the day they would be called upon to fight their ancient enemies again, and he vowed to guard them until they awaken. He styles himself the Sapphire Sentinel, self-appointed guardian of the Sleeping Legion. But his vigil is lonely, and his servitor [gargoyles](3-Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) provide little companionship.
 ^bleucorundum
 
 - **Hoard Caverns.** The bulk of the lair, filling most of the lower half of the map, comprises chambers the dragon uses to host guests and visitors. These caverns hold the bulk of the dragon's hoard, particularly art objects that are impressive but not irreplaceable.  
@@ -1367,7 +1367,7 @@ Use the tables and other information in this section to craft unique encounters 
 
 Use the Shadow Dragon Personality Traits and Shadow Dragon Ideals tables to inspire your portrayal of distinctive shadow dragon characters.
 
-If you use the variant rule in the "Monster Manual" for making a dragon a spellcaster, shadow dragons typically have the spellcasting ability of their original forms. Over time, some shadow dragons might replace one or more of their innate spells with spells more appropriate to their tenebrous nature, such as [darkness](3-Mechanics/CLI/spells/darkness.md), [fog cloud](3-Mechanics/CLI/spells/fog-cloud.md), [misty step](3-Mechanics/CLI/spells/misty-step.md), or [nondetection](3-Mechanics/CLI/spells/nondetection.md).
+If you use the variant rule in the "Monster Manual" for making a dragon a spellcaster, shadow dragons typically have the spellcasting ability of their original forms. Over time, some shadow dragons might replace one or more of their innate spells with spells more appropriate to their tenebrous nature, such as [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [fog cloud](3-Mechanics/CLI/spells/fog-cloud-xphb.md), [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md), or [nondetection](3-Mechanics/CLI/spells/nondetection-xphb.md).
 
 ![Creating a Shadow Dragon; Shadow Dragon Personality Traits](3-Mechanics/CLI/tables/creating-a-shadow-dragon-shadow-dragon-personality-traits-ftd.md)
 
@@ -1468,8 +1468,8 @@ This inclination toward using high-altitude locales as sites for lairs isn't wit
 The lair of a silver dragon is always an impressive sight. Young dragons make their homes in icy cliffs, excavating space for themselves within the mountainside. Older silver dragons sometimes decorate their cliff-side habitats with ruins carefully collected from other places in the world. Depending on the dragon, a lair can be a multi-tiered affair, with its highest levels extending fully into the sky.
 
 > [!gallery]
-> ![Map 5.13: silver dragon lair](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/079-map-5-13-silver-dragon-lair.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/080-map-5-13-silver-dragon-lair-player.webp#gallery)
+> ![Map 5.13: silver dragon lair](file://book/FTD/079-map-5.13-silver-dragon-lair.webp#gallery)
+> ![Player Version](file://book/FTD/080-map-5.13-silver-dragon-lair-player.webp#gallery)
 
 #### Silver Dragon Lair Features
 
@@ -1484,13 +1484,13 @@ The silver dragon lair shown in map 5.13 is composed of three connected sections
 
 #### Additional Lair Action
 
-At your discretion, a legendary ([adult](3-Mechanics/CLI/bestiary/dragon/adult-silver-dragon.md) or [ancient](3-Mechanics/CLI/bestiary/dragon/ancient-silver-dragon.md)) silver dragon can use the following additional lair action while in its lair:
+At your discretion, a legendary ([adult](3-Mechanics/CLI/bestiary/dragon/adult-silver-dragon-xmm.md) or [ancient](3-Mechanics/CLI/bestiary/dragon/ancient-silver-dragon-xmm.md)) silver dragon can use the following additional lair action while in its lair:
 
 - **Icy Grip.** A sudden, supernatural chill fills the lair near the dragon. Each creature of the dragon's choice that it can see within 120 feet of it must succeed on a DC 15 Constitution saving throw or be [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) until initiative count 20 on the next round. Creatures that have resistance to cold damage have advantage on the saving throw; creatures that have immunity to cold damage succeed automatically.  
 
 > [!note] D'argent
 > 
-> Like so many silver dragons, D'argent takes considerable interest in the matters of mortals on her home world of Krynn. The [ancient dragon](3-Mechanics/CLI/bestiary/dragon/ancient-silver-dragon.md) rarely openly participates in heroics, preferring to help in more surreptitious ways. She has been known to join in the conflicts of mortals in disguise, either as a brave human knight or as a fierce elf healer with gleaming silver hair, named Silvara.
+> Like so many silver dragons, D'argent takes considerable interest in the matters of mortals on her home world of Krynn. The [ancient dragon](3-Mechanics/CLI/bestiary/dragon/ancient-silver-dragon-xmm.md) rarely openly participates in heroics, preferring to help in more surreptitious ways. She has been known to join in the conflicts of mortals in disguise, either as a brave human knight or as a fierce elf healer with gleaming silver hair, named Silvara.
 > 
 > Though she is happy to remain in the background, D'argent's seeming placidity hides a brilliant intellect, and she has exposed the machinations of many chromatic dragons on Krynn. She is a romantic at heart, and it is said that she has fallen deeply for mortals more than once.
 ^dargent
@@ -1544,8 +1544,8 @@ Topaz dragons are happiest by the sea. They spend most of their time basking in 
 Their preference for lair sites frequently brings topaz dragons into conflict with other creatures, since they resent having to share their chosen scenic locations with anything that isn't food. They often abandon lairs to seek new vistas, so the interiors of their lairs often feel less finished than those of other dragons. Topaz dragons decorate their lairs with mirrors to make them look bigger and brighter, as well as fabric and objects in golden shades that complement their scales. They obsessively organize their hoards but almost never show them to anyone else.
 
 > [!gallery]
-> ![Map 5.14: topaz dragon lair](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/081-map-5-14-topaz-dragon-lair.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/082-map-5-14-topaz-dragon-lair-player.webp#gallery)
+> ![Map 5.14: topaz dragon lair](file://book/FTD/081-map-5.14-topaz-dragon-lair.webp#gallery)
+> ![Player Version](file://book/FTD/082-map-5.14-topaz-dragon-lair-player.webp#gallery)
 
 #### Topaz Dragon Lair Features
 
@@ -1614,8 +1614,8 @@ A white dragon's lair is a place of freezing temperatures and profound solitude.
 White dragons enjoy the mournful sound of the wind and frequently choose lairs with long, winding tunnels down which icy gusts can travel. They seldom work to improve their lairs, but when they do, it is often to channel wind currents to create effects the dragon finds pleasing. The labyrinthine tunnels and the mirror-like icy surfaces in a white dragon's lair confound would-be thieves and might foil their escape.
 
 > [!gallery]
-> ![Map 5.15: white dragon lair](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/083-map-5-15-white-dragon-lair.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/084-map-5-15-white-dragon-lair-player.webp#gallery)
+> ![Map 5.15: white dragon lair](file://book/FTD/083-map-5.15-white-dragon-lair.webp#gallery)
+> ![Player Version](file://book/FTD/084-map-5.15-white-dragon-lair-player.webp#gallery)
 
 #### White Dragon Lair Features
 
@@ -1625,7 +1625,7 @@ The white dragon lair shown in map 5.15 is a natural stone grotto set in a cliff
 - **Frozen Stream.** The cave's interior is a twisting stone tunnel carved out by a subterranean stream, now frozen over by the dragon's presence. The stream spills down in stages over low, frozen cascades, creating an icy stairway.  
 - **Dining Hall.** A small chamber adjoining the stream just inside the cave's entrance is the dragon's dining hall; it contains the horrid remnants of recent meals.  
 
-![](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/085-05-009.webp#center)
+![](file://book/FTD/085-05-009.webp#center)
 
 - **Rocky Grotto.** Past the topmost cascade is the grotto floor, a rocky cavern dimly lit by blue light filtering through the icy vault high above. The largest of the dragon's frozen trophies are scattered about the grotto.  
 - **Low Cavern.** Beyond the grotto, the stream leads to a low-ceilinged cavern the dragon used as a sleeping place when smaller; it might now serve as a home for the dragon's minions.  
@@ -1634,7 +1634,7 @@ The white dragon lair shown in map 5.15 is a natural stone grotto set in a cliff
 
 #### Additional Lair Actions
 
-At your discretion, a legendary ([adult](3-Mechanics/CLI/bestiary/dragon/adult-white-dragon.md) or [ancient](3-Mechanics/CLI/bestiary/dragon/ancient-white-dragon.md)) white dragon can use one or both of the following additional lair actions while in its lair:
+At your discretion, a legendary ([adult](3-Mechanics/CLI/bestiary/dragon/adult-white-dragon-xmm.md) or [ancient](3-Mechanics/CLI/bestiary/dragon/ancient-white-dragon-xmm.md)) white dragon can use one or both of the following additional lair actions while in its lair:
 
 - **Blinding Sleet.** Driving sleet falls in a 40-foot-high, 20-foot-radius cylinder centered on a point the dragon can see within 120 feet of it. Each creature in that area must succeed on a DC 15 Constitution saving throw or be [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) until initiative count 20 on the next round.  
 - **Whirling Wind.** A strong wind blows in a 30-foot-radius sphere centered on the dragon (see the "Dungeon Master's Guide" for rules on "strong wind"). The dragon's flying is not affected by this wind, which lasts until the next time the dragon uses a lair action or until the dragon dies.  
@@ -1652,11 +1652,11 @@ White dragons favor gems and precious metals that mirror the cold sparkle of ice
 
 > [!note] Rime
 > 
-> Rime is a prisoner to her past. This now- [ancient white dragon](3-Mechanics/CLI/bestiary/dragon/ancient-white-dragon.md) was raised in captivity, bred as a mount for an ancient knightly order. Mithral plates were magically fused to her skull and breastbone, bearing an enchantment binding her to the service of her rider. And though that rider and their order have been dead for centuries, the magic of the mithral plates still binds Rime to the place of her rider's demise. Only in the winter, when her powers are at their peak, can she range out from the ruined citadel that has become her lair to terrorize surrounding lands.
+> Rime is a prisoner to her past. This now- [ancient white dragon](3-Mechanics/CLI/bestiary/dragon/ancient-white-dragon-xmm.md) was raised in captivity, bred as a mount for an ancient knightly order. Mithral plates were magically fused to her skull and breastbone, bearing an enchantment binding her to the service of her rider. And though that rider and their order have been dead for centuries, the magic of the mithral plates still binds Rime to the place of her rider's demise. Only in the winter, when her powers are at their peak, can she range out from the ruined citadel that has become her lair to terrorize surrounding lands.
 > 
 > Rime's past experience makes her suspicious of all Humanoids, and she frequently vents her wrath on them without provocation. However, she suffers the presence of the cultists who have taken up residence in her lair, since they bring her food during the long months when she cannot hunt. Rime also seeks a way to rid herself of her mithral shackles and will warily engage in conversation with spellcasters who might help her. Failing that, her plan is to continue to amass treasure during her winter raids until she is powerful enough to break her bonds completely.
 ^rime
 
-The greater part of a white dragon's hoard consists of trophies taken from defeated foes. Although these trophies include items such as mighty weapons or ornate regalia that are valuable treasures in their own right, they can just as easily be worthless junk. A white dragon hoards trophies not for their material value, but as testaments to the dragon's dominance. An [ancient white dragon's](3-Mechanics/CLI/bestiary/dragon/ancient-white-dragon.md) lair is a literal memory palace and a maze of rime-encrusted treasures that recount the story of the dragon's many victories.
+The greater part of a white dragon's hoard consists of trophies taken from defeated foes. Although these trophies include items such as mighty weapons or ornate regalia that are valuable treasures in their own right, they can just as easily be worthless junk. A white dragon hoards trophies not for their material value, but as testaments to the dragon's dominance. An [ancient white dragon's](3-Mechanics/CLI/bestiary/dragon/ancient-white-dragon-xmm.md) lair is a literal memory palace and a maze of rime-encrusted treasures that recount the story of the dragon's many victories.
 
 ![White Dragon Treasures; White Dragon Art Objects](3-Mechanics/CLI/tables/white-dragon-treasures-white-dragon-art-objects-ftd.md)

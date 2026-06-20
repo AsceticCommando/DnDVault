@@ -12,6 +12,8 @@ aliases:
 
 **Feywild Guide Names**
 
+`dice: [](feywild-guides-feywild-guide-names-dod.md#^feywild-guide-names)`
+
 | dice: d8 | Name |
 |----------|------|
 | 1 | Fetter |

@@ -12,6 +12,8 @@ aliases:
 
 **Human Names – French, Male**
 
+`dice: [](human-names-french-male-xge.md#^human-names-french-male)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Ambroys |

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Two-Headed Cerberus"
 ---
-# [Two-Headed Cerberus](3-Mechanics\CLI\bestiary\monstrosity/two-headed-cerberus-mot.md)
+# [Two-Headed Cerberus](3-Mechanics/CLI/bestiary/monstrosity/two-headed-cerberus-mot.md)
 *Source: Mythic Odysseys of Theros p. 215*  
 
 Thought to be a lesser breed of cerberi that have interbred with mortal wolves, two-headed cerberi typically roam the mortal side of the Tartyx River. There they generally ignore—or only modestly menace—the souls of the dead. Such isn't the case for mortals, though, and they eagerly set upon those who tread too close to the Underworld's borders.
@@ -77,6 +77,6 @@ Feared by the living and the dead, cerberi patrol both banks of the Tartyx River
     "name": "Breath Weapon (Recharge 5-6)"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/two-headed-cerberus-mot.webp"
+"image": "file://bestiary/tokens/MOT/Two-Headed%20Cerberus.webp"
 ```
 ^statblock

@@ -12,6 +12,8 @@ aliases:
 
 **Religious Order Contact**
 
+`dice: [](religious-order-contact-tce.md#^religious-order-contact)`
+
 | dice: d6 | Contact |
 |----------|---------|
 | 1 | **Shadow Tongue**. A mysterious speaker for your order advises your next steps but fears being discovered by a powerful rival faith. |

@@ -12,6 +12,8 @@ aliases:
 
 **Emerald Claw NPCs**
 
+`dice: [](order-of-the-emerald-claw-npcs-emerald-claw-npcs-erlw.md#^emerald-claw-npcs)`
+
 | dice: d6 | NPC |
 |----------|-----|
 | 1 | Though mortal, this fanatical warrior drinks the blood of those he slays in battle. |

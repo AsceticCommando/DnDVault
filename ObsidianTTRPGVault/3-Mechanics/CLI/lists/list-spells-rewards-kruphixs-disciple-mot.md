@@ -11,4 +11,4 @@ aliases:
 
 ## Cantrip
 
-- [Mage Hand](3-Mechanics/CLI/spells/mage-hand.md "PHB") as cantrip
+- [Mage Hand](3-Mechanics/CLI/spells/mage-hand-xphb.md "XPHB") as cantrip

@@ -11,4 +11,4 @@ aliases:
 
 ## 3rd Level
 
-- [Fly](3-Mechanics/CLI/spells/fly.md "PHB")
+- [Fly](3-Mechanics/CLI/spells/fly-xphb.md "XPHB")

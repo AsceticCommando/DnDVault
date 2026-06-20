@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Ice Troll"
 ---
-# [Ice Troll](3-Mechanics\CLI\bestiary\giant/ice-troll-rot.md)
+# [Ice Troll](3-Mechanics/CLI/bestiary/giant/ice-troll-rot.md)
 *Source: The Rise of Tiamat p. 30, Tyranny of Dragons p. 121*  
 
 ```statblock
@@ -62,6 +62,6 @@ aliases:
 "source":
   - "RoT"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/giant/token/ice-troll-rot.webp"
+"image": "file://bestiary/tokens/RoT/Ice%20Troll.webp"
 ```
 ^statblock

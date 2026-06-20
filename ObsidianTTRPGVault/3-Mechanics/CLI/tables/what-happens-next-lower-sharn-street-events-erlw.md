@@ -12,18 +12,20 @@ aliases:
 
 **Lower Sharn Street Events**
 
+`dice: [](what-happens-next-lower-sharn-street-events-erlw.md#^lower-sharn-street-events)`
+
 | dice: d100 | Event |
 |------------|-------|
-| 01–02 | A [minotaur](3-Mechanics/CLI/bestiary/monstrosity/minotaur.md) holding a large piece of wood that could serve as a maul approaches you and politely asks if you have any copper to spare. |
-| 03–04 | Down a nearby alleyway, a dwarf punches a [goblin](3-Mechanics/CLI/bestiary/humanoid/goblin.md) in the stomach, then walks away laughing. |
+| 01–02 | A [minotaur](3-Mechanics/CLI/bestiary/monstrosity/minotaur-of-baphomet-xmm.md) holding a large piece of wood that could serve as a maul approaches you and politely asks if you have any copper to spare. |
+| 03–04 | Down a nearby alleyway, a dwarf punches a [goblin](3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) in the stomach, then walks away laughing. |
 | 05–08 | A thin human child has been following you, but never gets too close. She keeps coughing, and you can see red marks on her neck that might be an aberrant dragonmark. |
-| 09–10 | A human [priest](3-Mechanics/CLI/bestiary/humanoid/priest.md) of Boldrei wheels a cart of bread loaves through the city, giving food to the homeless. |
-| 11–15 | A [goblin](3-Mechanics/CLI/bestiary/humanoid/goblin.md) pushing a cart of rusty weapons and broken clay pots calls out, "Real artifacts of ancient Dhakaan for sale! Recovered from the ruins below!" |
-| 16–18 | A man dressed in the livery of House Vadalis descends a tower wall mounted on the back of a [giant spider](3-Mechanics/CLI/bestiary/beast/giant-spider.md). He shouts, "Need a ride? No faster way to get to the middle and upper wards! Reasonable rates!" |
-| 19–22 | An [ogre](3-Mechanics/CLI/bestiary/giant/ogre.md) eating several rats on a skewer spits out a rodent skull at your feet. |
-| 23–26 | A playful stray [mastiff](3-Mechanics/CLI/bestiary/beast/mastiff.md) wags its tail as it approaches, drops a very large egg at your feet, and looks up expectantly. |
-| 27–30 | A small, jovial crowd gathers around a [goblin](3-Mechanics/CLI/bestiary/humanoid/goblin.md) and a [kobold](3-Mechanics/CLI/bestiary/humanoid/kobold.md) that are getting ready to have an arm wrestling match. A dwarf calls for the crowd to place their bets. |
-| 31–34 | Three [harpies](3-Mechanics/CLI/bestiary/monstrosity/harpy.md) fly through the streets singing a jolly drinking song. Each carries a bucket around her neck, and passersby occasionally drop coins in one. |
+| 09–10 | A human [priest](3-Mechanics/CLI/bestiary/humanoid/priest-xmm.md) of Boldrei wheels a cart of bread loaves through the city, giving food to the homeless. |
+| 11–15 | A [goblin](3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) pushing a cart of rusty weapons and broken clay pots calls out, "Real artifacts of ancient Dhakaan for sale! Recovered from the ruins below!" |
+| 16–18 | A man dressed in the livery of House Vadalis descends a tower wall mounted on the back of a [giant spider](3-Mechanics/CLI/bestiary/beast/giant-spider-xmm.md). He shouts, "Need a ride? No faster way to get to the middle and upper wards! Reasonable rates!" |
+| 19–22 | An [ogre](3-Mechanics/CLI/bestiary/giant/ogre-xmm.md) eating several rats on a skewer spits out a rodent skull at your feet. |
+| 23–26 | A playful stray [mastiff](3-Mechanics/CLI/bestiary/beast/mastiff-xmm.md) wags its tail as it approaches, drops a very large egg at your feet, and looks up expectantly. |
+| 27–30 | A small, jovial crowd gathers around a [goblin](3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) and a [kobold](3-Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm.md) that are getting ready to have an arm wrestling match. A dwarf calls for the crowd to place their bets. |
+| 31–34 | Three [harpies](3-Mechanics/CLI/bestiary/monstrosity/harpy-xmm.md) fly through the streets singing a jolly drinking song. Each carries a bucket around her neck, and passersby occasionally drop coins in one. |
 | 35–38 | A human woman and a warforged with a silvered body are walking down the street together. They're too well dressed for this district, and are looking around as if lost. |
 | 39–42 | A Khoravar half-elf in the robes of an oracle approaches and promises to give you the answer to all of life's problems for 42 copper crowns. |
 | 43–44 | A human and an elf kiss passionately in an alley near your path. They notice you and quickly move apart. |
@@ -39,10 +41,10 @@ aliases:
 | 67–68 | A group of students from Morgrave University moves through the street, asking for directions to Dragoneyes. |
 | 69–72 | You turn down an empty street. A door suddenly materializes on a nearby building that previously showed no entrances. |
 | 73–74 | Faded graffiti on a wall reads, "Need someone knifed? Tarkanan's got you covered!" |
-| 75–76 | A crowd gathers around a [kobold](3-Mechanics/CLI/bestiary/humanoid/kobold.md) playing a pan flute and leading a group of rats in a merry dance. |
-| 77–80 | Four [orcs](3-Mechanics/CLI/bestiary/humanoid/orc.md) jab at an [ochre jelly](3-Mechanics/CLI/bestiary/ooze/ochre-jelly.md) with long staffs, trying to herd the ooze into the sewers. |
+| 75–76 | A crowd gathers around a [kobold](3-Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm.md) playing a pan flute and leading a group of rats in a merry dance. |
+| 77–80 | Four [orcs](3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md) jab at an [ochre jelly](3-Mechanics/CLI/bestiary/ooze/ochre-jelly-xmm.md) with long staffs, trying to herd the ooze into the sewers. |
 | 81–82 | Several Cyran refugees are gathered in a circle, singing a haunting song. |
-| 83–84 | An old [goblin](3-Mechanics/CLI/bestiary/humanoid/goblin.md) offers to pierce your ears or nose for 5 copper crowns. She claims, "It will be painless. I know magic!" |
+| 83–84 | An old [goblin](3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) offers to pierce your ears or nose for 5 copper crowns. She claims, "It will be painless. I know magic!" |
 | 85–86 | A figure in red robes preaches, "The Last War was not the last! As long as the monarchy rules in Breland, another war is inevitable. Rise up!" |
 | 87–90 | A member of the Sharn Watch looks uncomfortable as she wanders the street. It's clear she doesn't come down here often. |
 | 91–92 | Two humans run into an alley, drawing daggers as they go. |

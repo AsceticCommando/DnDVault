@@ -12,6 +12,8 @@ aliases:
 
 **Fey Crossings**
 
+`dice: [](coming-and-going-fey-crossings-dod.md#^fey-crossings)`
+
 | dice: d8 | Fey Crossing |
 |----------|--------------|
 | 1 | **Altar.** This stone altar might be found atop a lonely plateau, behind a waterfall, inside a cave, or in some other remote location. When certain stars align and the proper ritual is performed, the fey crossing appears as a portal above the altar. |

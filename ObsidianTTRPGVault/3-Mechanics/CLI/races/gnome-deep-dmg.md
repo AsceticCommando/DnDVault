@@ -23,8 +23,8 @@ aliases:
 
 You have an innate ability to cast the following spells, requiring no material components:
 
-- **At will.** [nondetection](3-Mechanics/CLI/spells/nondetection.md) (self only)  
-- **1/day each.** [blindness/deafness](3-Mechanics/CLI/spells/blindness-deafness.md), [blur](3-Mechanics/CLI/spells/blur.md), [disguise self](3-Mechanics/CLI/spells/disguise-self.md)  
+- **At will.** [nondetection](3-Mechanics/CLI/spells/nondetection-xphb.md) (self only)  
+- **1/day each.** [blindness/deafness](3-Mechanics/CLI/spells/blindness-deafness-xphb.md), [blur](3-Mechanics/CLI/spells/blur-xphb.md), [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md)  
 
 Intelligence is your spellcasting ability for these spells.
 

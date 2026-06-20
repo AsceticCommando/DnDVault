@@ -12,6 +12,8 @@ aliases:
 
 **Dragonborn Names – Clan**
 
+`dice: [](dragonborn-names-clan-xge.md#^dragonborn-names-clan)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Akambherylliax |

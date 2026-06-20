@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Dragonflesh Grafter"
 ---
-# [Dragonflesh Grafter](3-Mechanics\CLI\bestiary\monstrosity/dragonflesh-grafter-ftd.md)
+# [Dragonflesh Grafter](3-Mechanics/CLI/bestiary/monstrosity/dragonflesh-grafter-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 186*  
 
 An ordinary dragonflesh grafter is a hulking fusion of draconic and bipedal characteristics, standing between 8 and 12 feet tall. As its original nature wanes, its draconic powers grow, giving it a thick layer of dragon scale armor that covers the grafted areas of its body. A dragonflesh grafter can belch forth a gout of corrosive acid in a mockery of dragon breath.
@@ -47,7 +47,7 @@ While most would-be grafters wind up hideously scarred or dead, a few survive as
   - "strength": !!int "5"
   - "constitution": !!int "4"
 "gear":
-  - "[greatclub](3-Mechanics/CLI/items/greatclub.md)"
+  - "[greatclub](3-Mechanics/CLI/items/greatclub-xphb.md)"
 "senses": "passive Perception 10"
 "languages": "Common, Draconic"
 "cr": "3"
@@ -67,6 +67,6 @@ While most would-be grafters wind up hideously scarred or dead, a few survive as
     "name": "Acid Retch (Recharge 5-6)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/dragonflesh-grafter-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Dragonflesh%20Grafter.webp"
 ```
 ^statblock

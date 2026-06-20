@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Aspect of Bahamut"
 ---
-# [Aspect of Bahamut](3-Mechanics\CLI\bestiary\dragon/aspect-of-bahamut-ftd.md)
+# [Aspect of Bahamut](3-Mechanics/CLI/bestiary/dragon/aspect-of-bahamut-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 165*  
 
 Known as the Platinum Dragon, Bahamut is the patron and progenitor of metallic dragons. Since fleeing the First World, he has made his home in the Seven Heavens of Mount Celestia and is often numbered among the gods of that plane. Adventurers and dragons alike pray to Bahamut to uphold honor and justice, or when they need courage to face a great threat. In the most dire situations, a powerful follower of Bahamut who makes a tremendous sacrifice—a vast hoard or even the follower's own life—might convince the god to send aid to the world in the form of a divine aspect. This aspect is a physical manifestation of the Platinum Dragon, carrying his memories and will—and a significant portion of his formidable strength.
@@ -116,7 +116,7 @@ In combat, Bahamut's enemies experience the full force of his justice, while his
 "mythic_description": "If the aspect's Platinum Brilliance trait has activated in\
   \ the last hour, he can use the options below as legendary actions."
 "mythic_actions":
-  - "desc": "The aspect manifests seven spectral [ancient gold dragons](3-Mechanics/CLI/bestiary/dragon/ancient-gold-dragon.md)\
+  - "desc": "The aspect manifests seven spectral [ancient gold dragons](3-Mechanics/CLI/bestiary/dragon/ancient-gold-dragon-xmm.md)\
       \ around himself that protect him; he gains 77 temporary hit points until the\
       \ start of his next turn."
     "name": "Celestial Shield (Costs 2 Actions)"
@@ -129,6 +129,6 @@ In combat, Bahamut's enemies experience the full force of his justice, while his
     "name": "Celestial Lances (Costs 3 Actions)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/aspect-of-bahamut-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Aspect%20of%20Bahamut.webp"
 ```
 ^statblock

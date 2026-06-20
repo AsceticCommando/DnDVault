@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Karavarix"
 ---
-# [Karavarix](3-Mechanics\CLI\bestiary\npc/karavarix-dsotdq.md)
+# [Karavarix](3-Mechanics/CLI/bestiary/npc/karavarix-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 183*  
 
 ```statblock
@@ -89,6 +89,6 @@ aliases:
     "name": "Cataclysmic Rush (Costs 2 Actions)"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/npc/token/karavarix-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Karavarix.webp"
 ```
 ^statblock

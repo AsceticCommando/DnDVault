@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Ront"
 ---
-# [Ront](3-Mechanics\CLI\bestiary\npc/ront-oota.md)
+# [Ront](3-Mechanics/CLI/bestiary/npc/ront-oota.md)
 *Source: Out of the Abyss p. 7*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "orc"
 "alignment": "Chaotic Evil"
 "ac": !!int "13"
-"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor.md)"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor-xphb.md)"
 "hp": !!int "15"
 "hit_dice": "2d8 + 6"
 "modifier": !!int "1"
@@ -38,8 +38,8 @@ aliases:
   - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+2"
 "gear":
-  - "[greataxe](3-Mechanics/CLI/items/greataxe.md)"
-  - "[javelin](3-Mechanics/CLI/items/javelin.md)"
+  - "[greataxe](3-Mechanics/CLI/items/greataxe-xphb.md)"
+  - "[javelin](3-Mechanics/CLI/items/javelin-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 10"
 "languages": "Common, Orc"
@@ -57,6 +57,6 @@ aliases:
     "name": "Javelin"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/ront-oota.webp"
+"image": "file://bestiary/tokens/OotA/Ront.webp"
 ```
 ^statblock

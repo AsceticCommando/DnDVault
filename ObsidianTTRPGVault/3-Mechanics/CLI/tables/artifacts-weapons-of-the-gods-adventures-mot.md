@@ -12,6 +12,8 @@ aliases:
 
 **Weapons of the Gods Adventures**
 
+`dice: [](artifacts-weapons-of-the-gods-adventures-mot.md#^weapons-of-the-gods-adventures)`
+
 | dice: d6 | Plot |
 |----------|------|
 | 1 | Steal a god's weapon to lay low one of that god's servants—a creature that can only be harmed by its creator's wrath. |

@@ -12,6 +12,8 @@ aliases:
 
 **Klothys's Quests**
 
+`dice: [](klothyss-quests-mot.md#^klothyss-quests)`
+
 | dice: d6 | Adventure Goal |
 |----------|----------------|
 | 1 | Defeat a titan-spawned monster that has escaped the Underworld. |

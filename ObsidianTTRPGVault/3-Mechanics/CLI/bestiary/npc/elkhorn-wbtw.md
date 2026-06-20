@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Elkhorn"
 ---
-# [Elkhorn](3-Mechanics\CLI\bestiary\npc/elkhorn-wbtw.md)
+# [Elkhorn](3-Mechanics/CLI/bestiary/npc/elkhorn-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 224*  
 
 Elkhorn has been Strongheart's most stalwart companion over the years—unflinchingly loyal, tirelessly optimistic, and fiercely devoted to the destruction of evil in all its forms. He's not especially bright, so he fights with his heart rather than his wits.
@@ -26,7 +26,7 @@ Age has drained much of the strength from Elkhorn's body. Strongheart has urged 
 "subtype": "dwarf"
 "alignment": "Lawful Good"
 "ac": !!int "18"
-"ac_class": "[chain mail](3-Mechanics/CLI/items/chain-mail.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[chain mail](3-Mechanics/CLI/items/chain-mail-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "52"
 "hit_dice": "7d8 + 21"
 "modifier": !!int "1"
@@ -48,14 +48,14 @@ Age has drained much of the strength from Elkhorn's body. Strongheart has urged 
     "desc": "+2"
 "damage_resistances": "poison"
 "gear":
-  - "[+1 longsword](3-Mechanics/CLI/items/1-weapon.md)"
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
+  - "[+1 longsword](3-Mechanics/CLI/items/1-weapon-xdmg.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 12"
 "languages": "Common, Dwarvish"
 "cr": "2"
 "traits":
-  - "desc": "Elkhorn wields a [+1 longsword](3-Mechanics/CLI/items/1-weapon.md)."
+  - "desc": "Elkhorn wields a [+1 longsword](3-Mechanics/CLI/items/1-weapon-xdmg.md)."
     "name": "Special Equipment"
 "actions":
   - "desc": "Elkhorn makes two Dagger or +1 Longsword attacks."
@@ -64,9 +64,9 @@ Age has drained much of the strength from Elkhorn's body. Strongheart has urged 
       \ ft., one target. *Hit:* 3 (1d4 + 1) piercing damage. If the target is a creature\
       \ that is Large or bigger, it takes an extra 5 (1d10) piercing damage."
     "name": "Dagger"
-  - "desc": "*Melee Weapon Attack:*  +2 to hit, reach 5 ft., one target. *Hit:* 4\
-      \ (1d8) slashing damage, or 5 (1d10) slashing damage when used with two hands.\
-      \ If the target is a creature that is Large or bigger, it takes an extra 5 (1d10)\
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 4 (1d8)\
+      \ slashing damage, or 5 (1d10) slashing damage when used with two hands. If\
+      \ the target is a creature that is Large or bigger, it takes an extra 5 (1d10)\
       \ slashing damage."
     "name": "+1 Longsword"
 "bonus_actions":
@@ -79,6 +79,6 @@ Age has drained much of the strength from Elkhorn's body. Strongheart has urged 
     "name": "Second Wind (Recharges after a Short or Long Rest)"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/npc/token/elkhorn-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Elkhorn.webp"
 ```
 ^statblock

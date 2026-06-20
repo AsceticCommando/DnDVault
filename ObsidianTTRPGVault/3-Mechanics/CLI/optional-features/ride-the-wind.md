@@ -13,4 +13,4 @@ aliases:
 
 **Prerequisite**: Level 11
 
-You can spend 4 ki points to cast [fly](3-Mechanics/CLI/spells/fly.md), targeting yourself.
+You can spend 4 ki points to cast [fly](3-Mechanics/CLI/spells/fly-xphb.md), targeting yourself.

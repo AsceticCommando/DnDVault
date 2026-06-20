@@ -12,10 +12,10 @@ statblock-link: "#^statblock"
 aliases:
 - "Booyahg Whip"
 ---
-# [Booyahg Whip](3-Mechanics\CLI\bestiary\humanoid/booyahg-whip-vgm.md)
+# [Booyahg Whip](3-Mechanics/CLI/bestiary/humanoid/booyahg-whip-vgm.md)
 *Source: Volo's Guide to Monsters p. 42*  
 
-Khurgorbaeyag saw fit to gift this goblin with powers that enable it to dominate others. The goblin has `1d3` other goblins that slavishly obey its orders.
+Khurgorbaeyag saw fit to gift this goblin with powers that enable it to dominate others. The goblin has `dice:1d3|noform|noparens|avg` (`1d3`) other goblins that slavishly obey its orders.
 
 ## Booyahgs
 
@@ -32,7 +32,7 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
 "subtype": "goblinoid"
 "alignment": "Neutral Evil"
 "ac": !!int "15"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "7"
 "hit_dice": "2d6"
 "modifier": !!int "2"
@@ -48,8 +48,8 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+6"
 "gear":
-  - "[scimitar](3-Mechanics/CLI/items/scimitar.md)"
-  - "[shortbow](3-Mechanics/CLI/items/shortbow.md)"
+  - "[scimitar](3-Mechanics/CLI/items/scimitar-xphb.md)"
+  - "[shortbow](3-Mechanics/CLI/items/shortbow-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 9"
 "languages": "Common, Goblin"
@@ -60,7 +60,7 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
       \ on each of its turns."
     "name": "Nimble Escape"
   - "desc": "Khurgorbaeyag saw fit to gift this goblin with powers that enable it\
-      \ to dominate others. The goblin has 1d3 other [goblins](3-Mechanics/CLI/bestiary/humanoid/goblin.md)\
+      \ to dominate others. The goblin has 1d3 other [goblins](3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md)\
       \ that slavishly obey its orders."
     "name": "Khurgorbaeyag's Gift"
 "actions":
@@ -72,6 +72,6 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
     "name": "Shortbow"
 "source":
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/booyahg-whip-vgm.webp"
+"image": "file://bestiary/tokens/VGM/Booyahg%20Whip.webp"
 ```
 ^statblock

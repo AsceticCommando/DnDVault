@@ -11,7 +11,7 @@ aliases:
 ---
 # The Devourer
 *Source: Eberron: Rising from the Last War p. 141* 
-![The Dark Six](3-Mechanics/CLI/deities/img/erlw-the-dark-six.webp#symbol)
+![The Dark Six](file://deities/ERLW/The%20Dark%20Six.webp#symbol)
 
 - **Alignment**: Unaligned
 - **Category**: The Dark Six

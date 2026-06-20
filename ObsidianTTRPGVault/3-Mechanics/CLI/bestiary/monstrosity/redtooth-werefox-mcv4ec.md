@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Redtooth Werefox"
 ---
-# [Redtooth Werefox](3-Mechanics\CLI\bestiary\monstrosity/redtooth-werefox-mcv4ec.md)
+# [Redtooth Werefox](3-Mechanics/CLI/bestiary/monstrosity/redtooth-werefox-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 By day, the elves of Redtooth Keep are agile and adept rangers, expertly patrolling the lands around one of the last elven citadels in Eldraine. But at night, terrifying howls echo from the keep's halls as its inhabitants transform into ruthless werefoxes.
@@ -50,7 +50,7 @@ Unlike other forms of lycanthropy, the werefox curse isn't contagious and is lim
   - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+3"
 "gear":
-  - "[lance](3-Mechanics/CLI/items/lance.md)"
+  - "[lance](3-Mechanics/CLI/items/lance-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 15"
 "languages": "Common, Elvish (can't speak in fox form)"
@@ -84,6 +84,6 @@ Unlike other forms of lycanthropy, the werefox curse isn't contagious and is lim
     "name": "Vulpine Nimbleness (Fox or Hybrid Form Only)"
 "source":
   - "MCV4EC"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/redtooth-werefox-mcv4ec.webp"
+"image": "file://bestiary/tokens/MCV4EC/Redtooth%20Werefox.webp"
 ```
 ^statblock

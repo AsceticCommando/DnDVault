@@ -12,6 +12,8 @@ aliases:
 
 **Tyrants Adventure Hooks**
 
+`dice: [](tyrants-adventure-hooks-erlw.md#^tyrants-adventure-hooks)`
+
 | dice: d6 | Adventure Hook |
 |----------|----------------|
 | 1 | A friendly NPC dies in combat. The corpse reveals its true form to be that of a changeling. |

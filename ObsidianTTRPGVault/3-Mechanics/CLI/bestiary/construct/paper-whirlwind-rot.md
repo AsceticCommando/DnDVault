@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Paper Whirlwind"
 ---
-# [Paper Whirlwind](3-Mechanics\CLI\bestiary\construct/paper-whirlwind-rot.md)
+# [Paper Whirlwind](3-Mechanics/CLI/bestiary/construct/paper-whirlwind-rot.md)
 *Source: The Rise of Tiamat p. 72, Tyranny of Dragons p. 158*  
 
 ```statblock
@@ -57,6 +57,6 @@ aliases:
 "source":
   - "RoT"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/construct/token/paper-whirlwind-rot.webp"
+"image": "file://bestiary/tokens/RoT/Paper%20Whirlwind.webp"
 ```
 ^statblock

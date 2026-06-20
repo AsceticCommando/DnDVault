@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Ghazrim DuLoc"
 ---
-# [Ghazrim DuLoc](3-Mechanics\CLI\bestiary\npc/ghazrim-duloc-oota.md)
+# [Ghazrim DuLoc](3-Mechanics/CLI/bestiary/npc/ghazrim-duloc-oota.md)
 *Source: Out of the Abyss p. 141*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "human"
 "alignment": "Any alignment"
 "ac": !!int "15"
-"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate.md)"
+"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate-xphb.md)"
 "hp": !!int "9"
 "hit_dice": "2d8"
 "modifier": !!int "1"
@@ -42,7 +42,7 @@ aliases:
   - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+5"
 "gear":
-  - "[rapier](3-Mechanics/CLI/items/rapier.md)"
+  - "[rapier](3-Mechanics/CLI/items/rapier-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "any two languages"
 "cr": "1/8"
@@ -56,6 +56,6 @@ aliases:
     "name": "Parry"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/ghazrim-duloc-oota.webp"
+"image": "file://bestiary/tokens/OotA/Ghazrim%20DuLoc.webp"
 ```
 ^statblock

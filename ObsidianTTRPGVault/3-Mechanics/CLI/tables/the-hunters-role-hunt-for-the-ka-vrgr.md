@@ -12,6 +12,8 @@ aliases:
 
 **Hunt for the Ka**
 
+`dice: [](the-hunters-role-hunt-for-the-ka-vrgr.md#^hunt-for-the-ka)`
+
 | dice: d6 | Hunt |
 |----------|------|
 | 1 | The characters come to the attention of High Priest Rehkotep, who demands they aid her in finding the pharaoh's lost treasure or face punishment. |

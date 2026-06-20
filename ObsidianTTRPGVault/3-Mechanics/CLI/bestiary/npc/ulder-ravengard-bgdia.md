@@ -12,14 +12,14 @@ statblock-link: "#^statblock"
 aliases:
 - "Ulder Ravengard"
 ---
-# [Ulder Ravengard](3-Mechanics\CLI\bestiary\npc/ulder-ravengard-bgdia.md)
+# [Ulder Ravengard](3-Mechanics/CLI/bestiary/npc/ulder-ravengard-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 70*  
 
 Ulder Ravengard is a fearless soldier who rose up through the ranks of the Flaming Fist to become its supreme marshal. Ravengard used his military position and influence to secure for himself a seat on the Council of Four. Following the deaths of two council members amid a cloud of corruption and scandal, he persuaded the Parliament of Peers to back his election to grand duke.
 
 Upon ascending to the highest position in the city government, Ravengard refused to relinquish command of the Flaming Fist, making him the most powerful figure in the city by far. This decision has not endeared him to anyone, but Ravengard could care less about his popularity. His only concerns are the stability and prosperity of Baldur's Gate, and he doesn't trust any of the other dukes or anyone in the Parliament of Peers to put the city's interests before their own.
 
-Ravengard rose to grand duke on a platform largely backed by idealistic commoners and enemies of the other established dukes. While he won election handily, Ravengard has struggled in performing his duties, finding his hands tied at every turn by both overt and [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) bureaucracy. Despite this, he's been a voice of reason and common sense on the Council of Four—if not the egalitarianism some hoped. He's also proven largely resistant to scandal and corruption, though many of his fellow dukes and those in the Parliament of Peers still regularly outmaneuver him politically. One of his only obvious pleasures remains the surprise inspections he regularly visits upon the troops at Wyrm's Rock.
+Ravengard rose to grand duke on a platform largely backed by idealistic commoners and enemies of the other established dukes. While he won election handily, Ravengard has struggled in performing his duties, finding his hands tied at every turn by both overt and invisible bureaucracy. Despite this, he's been a voice of reason and common sense on the Council of Four—if not the egalitarianism some hoped. He's also proven largely resistant to scandal and corruption, though many of his fellow dukes and those in the Parliament of Peers still regularly outmaneuver him politically. One of his only obvious pleasures remains the surprise inspections he regularly visits upon the troops at Wyrm's Rock.
 
 Ravengard was recently tricked into attending a diplomatic summit in Elturel, unaware that his political enemies in Baldur's Gate orchestrated this meeting in a fiendish plot to remove him from power. In his absence, the Flaming Fist is leaderless, the council rudderless.
 
@@ -30,7 +30,7 @@ Ravengard was recently tricked into attending a diplomatic summit in Elturel, un
 "subtype": "human"
 "alignment": "Neutral"
 "ac": !!int "20"
-"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "112"
 "hit_dice": "15d8 + 45"
 "modifier": !!int "2"
@@ -53,7 +53,7 @@ Ravengard was recently tricked into attending a diplomatic summit in Elturel, un
   - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
 "gear":
-  - "[+1 longsword](3-Mechanics/CLI/items/1-weapon.md)"
+  - "[+1 longsword](3-Mechanics/CLI/items/1-weapon-xdmg.md)"
 "senses": "passive Perception 13"
 "languages": "Common"
 "cr": "5"
@@ -75,6 +75,6 @@ Ravengard was recently tricked into attending a diplomatic summit in Elturel, un
     "name": "Guardian Strike"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/ulder-ravengard-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Ulder%20Ravengard.webp"
 ```
 ^statblock

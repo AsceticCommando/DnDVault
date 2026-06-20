@@ -11,4 +11,4 @@ aliases:
 
 ## 3rd Level
 
-- [Bestow Curse](3-Mechanics/CLI/spells/bestow-curse.md "PHB")
+- [Bestow Curse](3-Mechanics/CLI/spells/bestow-curse-xphb.md "XPHB")

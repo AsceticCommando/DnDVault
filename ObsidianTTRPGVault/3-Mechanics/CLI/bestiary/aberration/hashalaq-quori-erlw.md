@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Hashalaq Quori"
 ---
-# [Hashalaq Quori](3-Mechanics\CLI\bestiary\aberration/hashalaq-quori-erlw.md)
+# [Hashalaq Quori](3-Mechanics/CLI/bestiary/aberration/hashalaq-quori-erlw.md)
 *Source: Eberron: Rising from the Last War p. 305*  
 
 Hashalaq quori are loremasters and judges, and are commonly known as dreamstealers. In their natural form, hashalaqs are composed of hundreds of translucent tendrils. They can compress and configure these tendrils to form a wide range of simple shapes. A point of blue light suspended within its tendrils serves as the hashalaq's sensory organ, which can be moved around to suit the creature's current shape.
@@ -66,10 +66,11 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
 "traits":
   - "desc": "The quori's spellcasting ability is Intelligence (spell save DC 16).\
       \ It can innately cast the following spells, requiring no components:\n\n**At\
-      \ will:** [charm person](3-Mechanics/CLI/spells/charm-person.md)\n\n**3/day\
-      \ each:** [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md), [disguise\
-      \ self](3-Mechanics/CLI/spells/disguise-self.md), [suggestion](3-Mechanics/CLI/spells/suggestion.md)\n\
-      \n**1/day:** [dominate person](3-Mechanics/CLI/spells/dominate-person.md), [dream](3-Mechanics/CLI/spells/dream.md)"
+      \ will:** [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md)\n\n**3/day\
+      \ each:** [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md), [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md)\n\
+      \n**1/day:** [dominate person](3-Mechanics/CLI/spells/dominate-person-xphb.md),\
+      \ [dream](3-Mechanics/CLI/spells/dream-xphb.md)"
     "name": "Innate Spellcasting (Psionics)"
 "actions":
   - "desc": "The quori uses its Mind Thrust twice."
@@ -94,7 +95,7 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
       \ uses the possessed target's statistics, but doesn't gain access to the target's\
       \ knowledge, class features, or proficiencies.\n\nThe possession lasts until\
       \ the body drops to 0 hit points, the quori ends it as a bonus action, or the\
-      \ quori is forced out by an effect like the [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good.md)\
+      \ quori is forced out by an effect like the [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md)\
       \ spell. When the possession ends, the quori reappears in an unoccupied space\
       \ within 5 feet of the body. The target is immune to this quori's Possession\
       \ for 24 hours after succeeding on the saving throw or after the possession\
@@ -107,6 +108,6 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
     "name": "Empathic Feedback"
 "source":
   - "ERLW"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/hashalaq-quori-erlw.webp"
+"image": "file://bestiary/tokens/ERLW/Hashalaq%20Quori.webp"
 ```
 ^statblock

@@ -12,6 +12,8 @@ aliases:
 
 **Ending the Curse**
 
+`dice: [](fey-curses-ending-the-curse-dod.md#^ending-the-curse)`
+
 | dice: d12 | Ending the Curse |
 |-----------|------------------|
 | 1 | You must carve your name into a tree, whereupon the tree inherits the curse's magic and dies. |

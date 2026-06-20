@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Draconian Dreadnought"
 ---
-# [Draconian Dreadnought](3-Mechanics\CLI\bestiary\monstrosity/draconian-dreadnought-ftd.md)
+# [Draconian Dreadnought](3-Mechanics/CLI/bestiary/monstrosity/draconian-dreadnought-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 177*  
 
 The largest of the draconians are the dreadnoughts, who are born from the eggs of silver, blue, or sapphire dragons. They fly on mighty wings over the battlefield to wherever the fighting is the thickest. Their magical ability to change their appearance to mimic those they've slain allows them to sow confusion and despair among their enemies. When dreadnoughts are killed, their bodies burst into flames, scorching everything around them.
@@ -74,6 +74,6 @@ When draconians die, they do not go quietly. Instead, their lifeless bodies unle
     "name": "Shape Theft"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/draconian-dreadnought-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Draconian%20Dreadnought.webp"
 ```
 ^statblock

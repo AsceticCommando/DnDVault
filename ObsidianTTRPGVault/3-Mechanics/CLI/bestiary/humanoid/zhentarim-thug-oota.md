@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Zhentarim Thug"
 ---
-# [Zhentarim Thug](3-Mechanics\CLI\bestiary\humanoid/zhentarim-thug-oota.md)
+# [Zhentarim Thug](3-Mechanics/CLI/bestiary/humanoid/zhentarim-thug-oota.md)
 *Source: Out of the Abyss p. 131*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "human"
 "alignment": "Neutral"
 "ac": !!int "11"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "32"
 "hit_dice": "5d8 + 10"
 "modifier": !!int "0"
@@ -38,8 +38,8 @@ aliases:
   - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+2"
 "gear":
-  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow.md)"
-  - "[mace](3-Mechanics/CLI/items/mace.md)"
+  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow-xphb.md)"
+  - "[mace](3-Mechanics/CLI/items/mace-xphb.md)"
 "senses": "passive Perception 10"
 "languages": "Common"
 "cr": "1/2"
@@ -59,6 +59,6 @@ aliases:
     "name": "Heavy Crossbow"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/zhentarim-thug-oota.webp"
+"image": "file://bestiary/tokens/OotA/Zhentarim%20Thug.webp"
 ```
 ^statblock

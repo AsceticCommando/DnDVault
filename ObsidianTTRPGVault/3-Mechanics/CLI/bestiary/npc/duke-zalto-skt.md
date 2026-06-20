@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Duke Zalto"
 ---
-# [Duke Zalto](3-Mechanics\CLI\bestiary\npc/duke-zalto-skt.md)
+# [Duke Zalto](3-Mechanics/CLI/bestiary/npc/duke-zalto-skt.md)
 *Source: Storm King's Thunder p. 184*  
 
 Master crafters and organized warriors, fire giants dwell among volcanoes, lava floes, and rocky mountains. They are ruthless militaristic brutes whose mastery of metalwork is legendary.
@@ -79,7 +79,7 @@ Some giants abandon their own gods and fall prey to demon cults, paying homage t
 "type": "giant"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
-"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor.md)"
+"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "221"
 "hit_dice": "13d12 + 78"
 "modifier": !!int "-1"
@@ -103,14 +103,14 @@ Some giants abandon their own gods and fall prey to demon cults, paying homage t
 "damage_resistances": "lightning"
 "damage_immunities": "fire"
 "gear":
-  - "[maul](3-Mechanics/CLI/items/maul.md)"
+  - "[maul](3-Mechanics/CLI/items/maul-xphb.md)"
 "senses": "passive Perception 16"
 "languages": "Common, Elvish, Giant"
 "cr": "9"
 "traits":
   - "desc": "Zalto deals double damage to objects and structures."
     "name": "Siege Monster"
-  - "desc": "Zalto wears a [ring of lightning resistance](3-Mechanics/CLI/items/ring-of-lightning-resistance.md)."
+  - "desc": "Zalto wears a [ring of lightning resistance](3-Mechanics/CLI/items/ring-of-lightning-resistance-xdmg.md)."
     "name": "Special Equipment"
   - "desc": "When Zalto enters any enemy's space for the first time on a turn, the\
       \ enemy must succeed on a DC 19 Strength saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
@@ -126,6 +126,6 @@ Some giants abandon their own gods and fall prey to demon cults, paying homage t
     "name": "Rock"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/duke-zalto-skt.webp"
+"image": "file://bestiary/tokens/SKT/Duke%20Zalto.webp"
 ```
 ^statblock

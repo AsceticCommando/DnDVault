@@ -12,6 +12,8 @@ aliases:
 
 **Elf Names – Female Adult**
 
+`dice: [](elf-names-female-adult-xge.md#^elf-names-female-adult)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Adrie |

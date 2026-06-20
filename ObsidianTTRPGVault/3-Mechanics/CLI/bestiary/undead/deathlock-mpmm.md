@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Deathlock"
 ---
-# [Deathlock](3-Mechanics\CLI\bestiary\undead/deathlock-mpmm.md)
+# [Deathlock](3-Mechanics/CLI/bestiary/undead/deathlock-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 86, Mordenkainen's Tome of Foes p. 128*  
 
 An overpowering urge to serve consumes the mind of a newly awakened deathlock. Any goals and ambitions it had in life that don't please its patron fall away as its master's desires become the purpose that drives it. The deathlock immediately resumes work on its patron's behalf.
@@ -77,16 +77,16 @@ An powerful necromancer might also discover the wicked methods of creating a dea
       \ (2d10 + 3) necrotic damage."
     "name": "Grave Bolt"
   - "desc": "The deathlock casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 13):\n\n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic.md),\
-      \ [disguise self](3-Mechanics/CLI/spells/disguise-self.md), [mage armor](3-Mechanics/CLI/spells/mage-armor.md),\
-      \ [mage hand](3-Mechanics/CLI/spells/mage-hand.md)\n\n**1/day each:** [dispel\
-      \ magic](3-Mechanics/CLI/spells/dispel-magic.md), [hunger of Hadar](3-Mechanics/CLI/spells/hunger-of-hadar.md),\
-      \ [invisibility](3-Mechanics/CLI/spells/invisibility.md), [spider climb](3-Mechanics/CLI/spells/spider-climb.md)"
+      \ spellcasting ability (spell save DC 13):\n\n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md), [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md),\
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md)\n\n**1/day each:** [dispel\
+      \ magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [hunger of Hadar](3-Mechanics/CLI/spells/hunger-of-hadar-xphb.md),\
+      \ [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md), [spider climb](3-Mechanics/CLI/spells/spider-climb-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/undead/token/deathlock-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Deathlock.webp"
 ```
 ^statblock
 

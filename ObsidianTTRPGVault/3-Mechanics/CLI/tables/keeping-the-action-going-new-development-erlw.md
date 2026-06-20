@@ -12,6 +12,8 @@ aliases:
 
 **New Development**
 
+`dice: [](keeping-the-action-going-new-development-erlw.md#^new-development)`
+
 | dice: d8 | Event |
 |----------|-------|
 | 1 | One or more minions of the adventure's primary villain arrive to put a stop to the party's meddling. |

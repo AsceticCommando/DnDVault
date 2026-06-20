@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Death's Head of Bhaal"
 ---
-# [Death's Head of Bhaal](3-Mechanics\CLI\bestiary\humanoid/deaths-head-of-bhaal-bgdia.md)
+# [Death's Head of Bhaal](3-Mechanics/CLI/bestiary/humanoid/deaths-head-of-bhaal-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 233*  
 
 Bhaal's cultists emulate their deity, carrying out gruesome murders to spread fear and horror. They are charming and disarming when they wish, but in combat their true, bloodthirsty nature comes to the fore.
@@ -57,7 +57,7 @@ Low-ranking cultists of Bhaal are called night blades, whom Bhaal blesses with [
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+11"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 14"
 "languages": "Common"
@@ -85,6 +85,6 @@ Low-ranking cultists of Bhaal are called night blades, whom Bhaal blesses with [
     "name": "Unstoppable (3/Day)"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/deaths-head-of-bhaal-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Death%27s%20Head%20of%20Bhaal.webp"
 ```
 ^statblock

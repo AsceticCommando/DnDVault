@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Kostchtchie"
 ---
-# [Kostchtchie](3-Mechanics\CLI\bestiary\npc/kostchtchie-bgdia.md)
+# [Kostchtchie](3-Mechanics/CLI/bestiary/npc/kostchtchie-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 105*  
 
 The demon lord Kostchtchie resembles a squat hill giant with short, bandy legs and a grossly shaped head.
@@ -63,11 +63,11 @@ Frost giants who forsake their gods and turn to demon worship can summon Kostcht
 "traits":
   - "desc": "Kostchtchie's innate spellcasting ability is Charisma (spell save DC\
       \ 20). He can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [command](3-Mechanics/CLI/spells/command.md), [darkness](3-Mechanics/CLI/spells/darkness.md)\n\
-      \n**1/day each:** [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good.md),\
-      \ [gate](3-Mechanics/CLI/spells/gate.md), [harm](3-Mechanics/CLI/spells/harm.md),\
-      \ [telekinesis](3-Mechanics/CLI/spells/telekinesis.md), [teleport](3-Mechanics/CLI/spells/teleport.md),\
-      \ [wind walk](3-Mechanics/CLI/spells/wind-walk.md)"
+      \n**At will:** [command](3-Mechanics/CLI/spells/command-xphb.md), [darkness](3-Mechanics/CLI/spells/darkness-xphb.md)\n\
+      \n**1/day each:** [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md),\
+      \ [gate](3-Mechanics/CLI/spells/gate-xphb.md), [harm](3-Mechanics/CLI/spells/harm-xphb.md),\
+      \ [telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md), [teleport](3-Mechanics/CLI/spells/teleport-xphb.md),\
+      \ [wind walk](3-Mechanics/CLI/spells/wind-walk-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "If Kostchtchie fails a saving throw, he can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
@@ -100,6 +100,6 @@ Frost giants who forsake their gods and turn to demon worship can summon Kostcht
     "name": "Curse (Costs 2 Actions)"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/kostchtchie-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Kostchtchie.webp"
 ```
 ^statblock

@@ -12,6 +12,8 @@ aliases:
 
 **Ghost Story Torments**
 
+`dice: [](ghost-story-torments-vrgr.md#^ghost-story-torments)`
+
 | dice: d8 | Torment |
 |----------|---------|
 | 1 | The Darklord tames the spirits in his haunted mansion, but only when he sacrifices a memory. |

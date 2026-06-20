@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Rumpadump"
 ---
-# [Rumpadump](3-Mechanics\CLI\bestiary\npc/rumpadump-oota.md)
+# [Rumpadump](3-Mechanics/CLI/bestiary/npc/rumpadump-oota.md)
 *Source: Out of the Abyss p. 72*  
 
 ```statblock
@@ -56,6 +56,6 @@ aliases:
     "name": "Rapport Spores (3/Day)"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/rumpadump-oota.webp"
+"image": "file://bestiary/tokens/OotA/Rumpadump.webp"
 ```
 ^statblock

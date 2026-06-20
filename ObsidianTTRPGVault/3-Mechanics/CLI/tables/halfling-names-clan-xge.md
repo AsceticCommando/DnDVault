@@ -12,6 +12,8 @@ aliases:
 
 **Halfling Names – Clan**
 
+`dice: [](halfling-names-clan-xge.md#^halfling-names-clan)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Appleblossom |

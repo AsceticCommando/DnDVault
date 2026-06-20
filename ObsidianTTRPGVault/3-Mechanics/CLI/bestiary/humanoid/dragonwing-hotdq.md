@@ -12,8 +12,8 @@ statblock-link: "#^statblock"
 aliases:
 - "Dragonwing"
 ---
-# [Dragonwing](3-Mechanics\CLI\bestiary\humanoid/dragonwing-hotdq.md)
-*Source: Hoard of the Dragon Queen p. 90, Tyranny of Dragons p. 183*  
+# [Dragonwing](3-Mechanics/CLI/bestiary/humanoid/dragonwing-hotdq.md)
+*Source: Hoard of the Dragon Queen p. 90, The Rise of Tiamat p. 89, Tyranny of Dragons p. 183*  
 
 ```statblock
 "name": "Dragonwing (HotDQ)"
@@ -22,7 +22,7 @@ aliases:
 "subtype": "human"
 "alignment": "Lawful Evil"
 "ac": !!int "14"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "33"
 "hit_dice": "6d8 + 6"
 "modifier": !!int "3"
@@ -43,7 +43,7 @@ aliases:
     "desc": "+5"
 "damage_resistances": "one of the following: acid, cold, fire, lightning, poison"
 "gear":
-  - "[scimitar](3-Mechanics/CLI/items/scimitar.md)"
+  - "[scimitar](3-Mechanics/CLI/items/scimitar-xphb.md)"
 "senses": "passive Perception 10"
 "languages": "Common, Draconic"
 "cr": "2"
@@ -73,7 +73,8 @@ aliases:
     "name": "Scimitar"
 "source":
   - "HotDQ"
+  - "RoT"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/dragonwing-hotdq.webp"
+"image": "file://bestiary/tokens/HotDQ/Dragonwing.webp"
 ```
 ^statblock

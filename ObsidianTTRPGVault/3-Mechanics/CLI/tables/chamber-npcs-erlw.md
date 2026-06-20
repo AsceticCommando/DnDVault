@@ -12,6 +12,8 @@ aliases:
 
 **Chamber NPCs**
 
+`dice: [](chamber-npcs-erlw.md#^chamber-npcs)`
+
 | dice: d6 | NPC |
 |----------|-----|
 | 1 | A wizard agent of the Chamber seeks to eliminate all the people they worked with in the past to cover their tracks and preserve the Chamber's secrecy. |

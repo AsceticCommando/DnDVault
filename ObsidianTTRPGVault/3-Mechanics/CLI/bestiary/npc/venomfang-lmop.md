@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Venomfang"
 ---
-# [Venomfang](3-Mechanics\CLI\bestiary\npc/venomfang-lmop.md)
+# [Venomfang](3-Mechanics/CLI/bestiary/npc/venomfang-lmop.md)
 *Source: Lost Mine of Phandelver p. 63*  
 
 ```statblock
@@ -69,6 +69,6 @@ aliases:
     "name": "Poison Breath (Recharge 5-6)"
 "source":
   - "LMoP"
-"image": "3-Mechanics/CLI/bestiary/npc/token/venomfang-lmop.webp"
+"image": "file://bestiary/tokens/LMoP/Venomfang.webp"
 ```
 ^statblock

@@ -10,9 +10,9 @@ aliases:
 # Welcome to Theros
 *Source: Mythic Odysseys of Theros, p. 5* 
 
-![Cover: The invulnerable he...](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/196-07-01.webp#center "Cover: The invulnerable hero, Haktos the Unscarred, leaps into battle with a Nyxborn hydra, taking part in the most recent telling of a myth repeated through the ages.")
+![Cover: The invulnerable hero, Haktos the Unscarred, leaps into battle with a Nyxborn hydra, taking part in the most recent telling of a myth repeated through the ages.](file://book/MOT/196-07-01.webp#center)
 
-![Alternate Cover: While the...](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/197-07-02.webp#center "Alternate Cover: While the gods look on, the immortal struggle between Haktos and the hydra plays out in the stars of Nyx.")
+![Alternate Cover: While the gods look on, the immortal struggle between Haktos and the hydra plays out in the stars of Nyx.](file://book/MOT/197-07-02.webp#center)
 
 > [!readaloud] 
 > 
@@ -31,7 +31,7 @@ aliases:
 > Own bright pathway through history, greater than all mortal yearnings.
 ^001
 
-![](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/000-00-04.webp#center)
+![](file://book/MOT/000-00-04.webp#center)
 
 > [!quote] A quote from Jenna Helland, Godsend  
 > 
@@ -59,7 +59,7 @@ This book is your guide to Theros, its gods, its peoples and their cities (or po
 
 Finally, "chapter 6" presents numerous inhabitants of Theros. An exploration of familiar beasts from the "Monster Manual" and other sources—creatures with their roots in Greek mythology—details their place and unique characteristics in the lands of Theros. Several of Theros's most notorious creatures, foes as legendary as the world's most renowned heroes, are also presented as mythic monsters, terrors designed to test even the gods' mightiest champions.
 
-![The General, and The Protector](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/001-00-02-a.webp#center)
+![The General, and The Protector](file://book/MOT/001-00-02.a.webp#center)
 
 ## Dreams of Divinity
 
@@ -79,7 +79,7 @@ The competition for mortal devotion isn't necessarily a zero-sum game. The peopl
 
 Mortal beings—heroes and monsters alike—often become unwitting pawns in the contests of the gods. Having a powerful champion is an indication of a god's power—and can potentially increase the god's own power. A champion who acts as an agent of a god among other people helps increase those people's devotion to the god. And if a hero should happen to strike down the agents of a rival god along the way, all the better.
 
-![The Vanquisher, and The Hunter](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/002-00-02-b.webp#center)
+![The Vanquisher, and The Hunter](file://book/MOT/002-00-02.b.webp#center)
 
 ### Fate and Destiny
 
@@ -101,7 +101,7 @@ The heroes illustrated throughout this introduction are examples of heroic arche
 
 The heroes of a Theros campaign might aspire to emulate one of the great heroic archetypes, or they might strive to forge an entirely new mythic identity, to be remembered by name in tales of glory forever.
 
-![The Provider, and The Warrior](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/003-00-03-a.webp#center)
+![The Provider, and The Warrior](file://book/MOT/003-00-03.a.webp#center)
 
 ## History and Myth
 
@@ -125,7 +125,7 @@ After the fall of Agnomakhos and the other archons of Trax, humans and minotaurs
 
 Meletis, Akros, and Skophos perpetuated the stark division between civilization and nature that was inherent in the archons' rule. While most humans (and minotaurs) embraced that division, the god Karametra tried to teach people a new way of living in harmony with nature, leading to the founding of Setessa.
 
-![The Slayer, and The Philosopher](3-Mechanics/CLI/books/mythic-odysseys-of-theros/img/004-00-03-b.webp#center)
+![The Slayer, and The Philosopher](file://book/MOT/004-00-03.b.webp#center)
 
 ### Age of Heroes
 

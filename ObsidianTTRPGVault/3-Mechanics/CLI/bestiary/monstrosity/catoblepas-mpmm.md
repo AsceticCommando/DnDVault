@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Catoblepas"
 ---
-# [Catoblepas](3-Mechanics\CLI\bestiary\monstrosity/catoblepas-mpmm.md)
+# [Catoblepas](3-Mechanics/CLI/bestiary/monstrosity/catoblepas-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 70, Volo's Guide to Monsters p. 129*  
 
 The catoblepas is as loathsome as the vile swamplands in which it lives, a conglomeration of bloated buffalo, dinosaur, warthog, and hippopotamus parts. Despite its ungainly physiology, a catoblepas resembles a natural animal in its behavior, ambling through its marshy home, munching choice vegetation, eating the occasional bit of carrion, and wallowing in mire. A catoblepas might be found with the one mate it chooses for life and, on occasion, with a calf. A catoblepas attacks anyone that moves too close, especially if guarding its young.
@@ -77,7 +77,7 @@ Sages say that gods of pestilence and rot created catoblepases as embodiments of
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/catoblepas-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Catoblepas.webp"
 ```
 ^statblock
 

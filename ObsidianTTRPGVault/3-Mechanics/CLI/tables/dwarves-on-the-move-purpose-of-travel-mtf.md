@@ -12,6 +12,8 @@ aliases:
 
 **Purpose of Travel**
 
+`dice: [](dwarves-on-the-move-purpose-of-travel-mtf.md#^purpose-of-travel)`
+
 | dice: d6 | Purpose |
 |----------|---------|
 | 1 | Merchant caravan |

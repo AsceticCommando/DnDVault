@@ -12,6 +12,8 @@ aliases:
 
 **Sharn Heights Adventures**
 
+`dice: [](sharn-heights-adventures-erlw.md#^sharn-heights-adventures)`
+
 | dice: d4 | Adventure Goal |
 |----------|----------------|
 | 1 | Pose as House Tarkanan operatives to capture a wanted criminal with an aberrant dragonmark. The criminal is waiting on a bridge for his House Tarkanan escort to arrive. |

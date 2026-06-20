@@ -12,6 +12,8 @@ aliases:
 
 **Body Horror Plots**
 
+`dice: [](body-horror-plots-vrgr.md#^body-horror-plots)`
+
 | dice: d8 | Plot |
 |----------|------|
 | 1 | Learn who's organizing the local dinner parties before more epicureans die of autophagia. |

@@ -12,6 +12,8 @@ aliases:
 
 **Investigative Expertise**
 
+`dice: [](types-of-inquisitive-work-investigative-expertise-erlw.md#^investigative-expertise)`
+
 | dice: d6 | Investigation |
 |----------|---------------|
 | 1 | **Find People**. You seek people who are lost, in hiding, on the run, or victims of foul play. |

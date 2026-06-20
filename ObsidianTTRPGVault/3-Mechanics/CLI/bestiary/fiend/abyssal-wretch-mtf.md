@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Abyssal Wretch"
 ---
-# [Abyssal Wretch](3-Mechanics\CLI\bestiary\fiend/abyssal-wretch-mtf.md)
+# [Abyssal Wretch](3-Mechanics/CLI/bestiary/fiend/abyssal-wretch-mtf.md)
 *Source: Mordenkainen's Tome of Foes p. 136*  
 
 ```statblock
@@ -47,6 +47,6 @@ aliases:
     "name": "Bite"
 "source":
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/abyssal-wretch-mtf.webp"
+"image": "file://bestiary/tokens/MTF/Abyssal%20Wretch.webp"
 ```
 ^statblock

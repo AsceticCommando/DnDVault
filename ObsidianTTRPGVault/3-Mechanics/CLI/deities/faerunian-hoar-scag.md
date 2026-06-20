@@ -13,7 +13,7 @@ aliases:
 ---
 # Hoar
 *Source: Sword Coast Adventurer's Guide p. 21* 
-![](3-Mechanics/CLI/deities/img/scag-symbol-of-hoar.webp#symbol)
+![](file://deities/SCAG/Symbol%20of%20Hoar.webp#symbol)
 
 - **Alternate Names**: The Doombringer, Poet of Justice
 - **Alignment**: Lawful Neutral

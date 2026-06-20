@@ -12,6 +12,8 @@ aliases:
 
 **Topaz Dragon Art Objects**
 
+`dice: [](topaz-dragon-treasures-topaz-dragon-art-objects-ftd.md#^topaz-dragon-art-objects)`
+
 | dice: d8 | Object |
 |----------|--------|
 | 1 | An ornate statue of a sea serpent that plays ocean sounds when its gemstone eyes are pressed |

@@ -37,13 +37,13 @@ The suggested cleric domains are from the "Player's Handbook", unless followed b
 **"Xanathar's Guide to Everything"
 
 > [!gallery]
-> ![The Sovereign Host](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/088-2-16b.webp#gallery)
-> ![The Dark Six](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/089-2-16e.webp#gallery)
-> ![The Blood of Vol](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/090-2-16a.webp#gallery)
-> ![Cults of Khyber](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/091-2-16d.webp#gallery)
-> ![The Undying Court](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/092-2-16g.webp#gallery)
-> ![The Silver Flame](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/093-2-16c.webp#gallery)
-> ![The Path of Light](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/094-2-16f.webp#gallery)
+> ![The Sovereign Host](file://book/ERLW/088-2-16b.webp#gallery)
+> ![The Dark Six](file://book/ERLW/089-2-16e.webp#gallery)
+> ![The Blood of Vol](file://book/ERLW/090-2-16a.webp#gallery)
+> ![Cults of Khyber](file://book/ERLW/091-2-16d.webp#gallery)
+> ![The Undying Court](file://book/ERLW/092-2-16g.webp#gallery)
+> ![The Silver Flame](file://book/ERLW/093-2-16c.webp#gallery)
+> ![The Path of Light](file://book/ERLW/094-2-16f.webp#gallery)
 
 ## Sovereign Host
 
@@ -340,7 +340,7 @@ Since trance communion is a personal experience, the role of the priest is to pr
 
 In Aerenal, the temples of the Undying Court are step pyramids built from stone. In Khorvaire, shrines to the Court use imported Aereni densewood, a particularly tough lumber that grows only on the island. Regardless of form, the walls are engraved with stories about the Undying Councilors that serve as the particular patrons of the temple, usually those related to the local priests.
 
-![Oalian of the Towering Wood](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/095-2-17.webp#center)
+![Oalian of the Towering Wood](file://book/ERLW/095-2-17.webp#center)
 
 ## Druids of Khorvaire
 

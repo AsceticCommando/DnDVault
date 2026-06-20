@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Regenerating Black Pudding"
 ---
-# [Regenerating Black Pudding](3-Mechanics\CLI\bestiary\ooze/regenerating-black-pudding-oota.md)
+# [Regenerating Black Pudding](3-Mechanics/CLI/bestiary/ooze/regenerating-black-pudding-oota.md)
 *Source: Out of the Abyss p. 211*  
 
 ```statblock
@@ -75,6 +75,6 @@ aliases:
     "name": "Split"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/ooze/token/regenerating-black-pudding-oota.webp"
+"image": "file://bestiary/tokens/OotA/Regenerating%20Black%20Pudding.webp"
 ```
 ^statblock

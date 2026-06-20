@@ -12,6 +12,8 @@ aliases:
 
 **Pharika's Quests**
 
+`dice: [](pharikas-quests-mot.md#^pharikas-quests)`
+
 | dice: d6 | Adventure Goal |
 |----------|----------------|
 | 1 | Concoct the antidote for a powerful affliction that resists conventional treatments. |

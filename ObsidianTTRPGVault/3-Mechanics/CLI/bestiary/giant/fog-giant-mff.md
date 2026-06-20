@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Fog Giant"
 ---
-# [Fog Giant](3-Mechanics\CLI\bestiary\giant/fog-giant-mff.md)
+# [Fog Giant](3-Mechanics/CLI/bestiary/giant/fog-giant-mff.md)
 *Source: Mordenkainen's Fiendish Folio p. 10*  
 
 The place of cloud giants in the ordning—the set of values and expectations that determines their rank in giant society—is driven by wealth. Those cloud giants foolish or unlucky enough to have their treasure plundered fall to the bottom of the ordning, becoming outcasts known as fog giants. Cut off from their proper place in society, they become raiders and marauders who seek to reclaim their treasure or start a new hoard—by any means possible.
@@ -43,7 +43,7 @@ Clever, ambitious, and greedy, many fog giants build up whole networks of bandit
 "type": "giant"
 "alignment": "Neutral Evil"
 "ac": !!int "16"
-"ac_class": "[chain mail](3-Mechanics/CLI/items/chain-mail.md)"
+"ac_class": "[chain mail](3-Mechanics/CLI/items/chain-mail-xphb.md)"
 "hp": !!int "200"
 "hit_dice": "16d12 + 96"
 "modifier": !!int "0"
@@ -67,25 +67,25 @@ Clever, ambitious, and greedy, many fog giants build up whole networks of bandit
   - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+7"
 "gear":
-  - "[greatsword](3-Mechanics/CLI/items/greatsword.md)"
+  - "[greatsword](3-Mechanics/CLI/items/greatsword-xphb.md)"
 "senses": "passive Perception 17"
 "languages": "Common, Giant"
 "cr": "11"
 "traits":
   - "desc": "The giant's innate spellcasting ability is Charisma. It can innately\
       \ cast the following spells, requiring no material components:\n\n**At will:**\
-      \ [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [fog cloud](3-Mechanics/CLI/spells/fog-cloud.md),\
-      \ [light](3-Mechanics/CLI/spells/light.md)\n\n**3/day each:** [feather fall](3-Mechanics/CLI/spells/feather-fall.md),\
-      \ [misty step](3-Mechanics/CLI/spells/misty-step.md)"
+      \ [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [fog cloud](3-Mechanics/CLI/spells/fog-cloud-xphb.md),\
+      \ [light](3-Mechanics/CLI/spells/light-xphb.md)\n\n**3/day each:** [feather\
+      \ fall](3-Mechanics/CLI/spells/feather-fall-xphb.md), [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md)"
     "name": "Innate Spellcasting"
-  - "desc": "During its turn, the fog giant ignores the effects of [fog cloud](3-Mechanics/CLI/spells/fog-cloud.md)\
+  - "desc": "During its turn, the fog giant ignores the effects of [fog cloud](3-Mechanics/CLI/spells/fog-cloud-xphb.md)\
       \ spells cast by it or other allied fog giants."
     "name": "Denizen of the Mist"
   - "desc": "The giant has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
       \ checks that rely on smell."
     "name": "Keen Smell"
 "actions":
-  - "desc": "The giant makes two greatsword attacks and casts [fog cloud](3-Mechanics/CLI/spells/fog-cloud.md)."
+  - "desc": "The giant makes two greatsword attacks and casts [fog cloud](3-Mechanics/CLI/spells/fog-cloud-xphb.md)."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 29\
       \ (6d6 + 8) slashing damage."
@@ -99,6 +99,6 @@ Clever, ambitious, and greedy, many fog giants build up whole networks of bandit
     "name": "Petty Tyrant (Recharge 6)"
 "source":
   - "MFF"
-"image": "3-Mechanics/CLI/bestiary/giant/token/fog-giant-mff.webp"
+"image": "file://bestiary/tokens/MFF/Fog%20Giant.webp"
 ```
 ^statblock

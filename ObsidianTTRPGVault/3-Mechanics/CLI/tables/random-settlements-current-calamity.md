@@ -12,6 +12,8 @@ aliases:
 
 **Current Calamity**
 
+`dice: [](random-settlements-current-calamity.md#^current-calamity)`
+
 | dice: d20 | Calamity |
 |-----------|----------|
 | 1 | Suspected vampire infestation |

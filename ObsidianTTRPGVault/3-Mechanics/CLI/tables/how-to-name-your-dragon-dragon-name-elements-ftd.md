@@ -12,6 +12,8 @@ aliases:
 
 **Dragon Name Elements**
 
+`dice: [](how-to-name-your-dragon-dragon-name-elements-ftd.md#^dragon-name-elements)`
+
 | dice: d20 | 1 | 2 | 3 | 4 |
 |-----------|---|---|---|---|
 | 1 | Aeros | Agha | Akkan | Alae |

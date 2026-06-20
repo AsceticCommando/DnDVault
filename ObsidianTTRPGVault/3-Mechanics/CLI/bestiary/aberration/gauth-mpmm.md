@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Gauth"
 ---
-# [Gauth](3-Mechanics\CLI\bestiary\aberration/gauth-mpmm.md)
+# [Gauth](3-Mechanics/CLI/bestiary/aberration/gauth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 133, Volo's Guide to Monsters p. 125*  
 
 A gauth is a hungry, tyrannical creature similar to a beholder that eats magic and tries to exact tribute from anything weaker than itself. Its body is about 4 feet in diameter, with six eyestalks, a central eye (sometimes surrounded by multiple smaller eyes), and four small grasping tentacles near its mouth. It has color and texture variations similar to a true beholder.
@@ -22,7 +22,7 @@ A gauth can survive on meat but prefers to sustain itself with power drained fro
 
 When the ritual to summon a spectator goes wrong, a gauth might push itself through the flawed connection, arriving immediately or several minutes later. It might present itself as a beholder to ignorant creatures in an attempt to intimidate them, or as a spectator to its summoner in order to drain magic items it is expected to guard.
 
-A [beholder](3-Mechanics/CLI/bestiary/aberration/beholder.md) usually drives away or kills any gauths that enter its territory, but it might choose to force them to serve it as lieutenants. Gauths are less xenophobic than beholders, so they might form small clusters and work together, though they're just as likely to ignore each other entirely.
+A [beholder](3-Mechanics/CLI/bestiary/aberration/beholder-xmm.md) usually drives away or kills any gauths that enter its territory, but it might choose to force them to serve it as lieutenants. Gauths are less xenophobic than beholders, so they might form small clusters and work together, though they're just as likely to ignore each other entirely.
 
 ```statblock
 "name": "Gauth (MPMM)"
@@ -100,7 +100,7 @@ A [beholder](3-Mechanics/CLI/bestiary/aberration/beholder.md) usually drives awa
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/gauth-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Gauth.webp"
 ```
 ^statblock
 

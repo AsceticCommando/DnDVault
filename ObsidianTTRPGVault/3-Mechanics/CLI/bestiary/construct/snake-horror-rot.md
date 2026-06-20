@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Snake Horror"
 ---
-# [Snake Horror](3-Mechanics\CLI\bestiary\construct/snake-horror-rot.md)
+# [Snake Horror](3-Mechanics/CLI/bestiary/construct/snake-horror-rot.md)
 *Source: The Rise of Tiamat p. 46, Tyranny of Dragons p. 132*  
 
 ```statblock
@@ -21,7 +21,7 @@ aliases:
 "type": "construct"
 "alignment": "Unaligned"
 "ac": !!int "20"
-"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "60"
 "hit_dice": "8d8 + 24"
 "modifier": !!int "1"
@@ -44,7 +44,7 @@ aliases:
   \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified),\
   \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)"
 "gear":
-  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
 "senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft. (blind\
   \ beyond this radius), passive Perception 14"
 "languages": "understands the languages of its creator but can't speak"
@@ -54,8 +54,8 @@ aliases:
       \ magical effects."
     "name": "Magic Resistance"
   - "desc": "The snake horror is immune to three spells chosen by its creator. Typical\
-      \ immunities include [fireball](3-Mechanics/CLI/spells/fireball.md), [heat metal](3-Mechanics/CLI/spells/heat-metal.md),\
-      \ and [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt.md)."
+      \ immunities include [fireball](3-Mechanics/CLI/spells/fireball-xphb.md), [heat\
+      \ metal](3-Mechanics/CLI/spells/heat-metal-xphb.md), and [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt-xphb.md)."
     "name": "Spell Immunity"
 "actions":
   - "desc": "The snake horror makes two longsword attacks."
@@ -68,6 +68,6 @@ aliases:
 "source":
   - "RoT"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/construct/token/snake-horror-rot.webp"
+"image": "file://bestiary/tokens/RoT/Snake%20Horror.webp"
 ```
 ^statblock

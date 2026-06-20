@@ -12,12 +12,14 @@ aliases:
 
 **Ephara's Villains**
 
+`dice: [](epharas-villains-mot.md#^epharas-villains)`
+
 | dice: d6 | Villain |
 |----------|---------|
 | 1 | A neighborhood leader enacts punitive laws, preventing people from expressing themselves. |
-| 2 | A [guard](3-Mechanics/CLI/bestiary/humanoid/guard.md) imprisons people who worship gods opposed to Ephara, such as Phenax and Nylea. |
-| 3 | A [noble](3-Mechanics/CLI/bestiary/humanoid/noble.md) is building a new development directly in a forest, where it will displace wildlife that has lived there for millennia. |
-| 4 | A soldier begins killing people who have committed terrible crimes but have been acquitted because of loopholes in the judicial system. |
-| 5 | A group of [mages](3-Mechanics/CLI/bestiary/humanoid/mage.md) who follow Ephara want to build a city on an island, heedless of the current residents. |
+| 2 | A [guard](3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) imprisons people who worship gods opposed to Ephara, such as Phenax and Nylea. |
+| 3 | A [noble](3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md) is building a new development directly in a forest, where it will displace wildlife that has lived there for millennia. |
+| 4 | A [soldier](3-Mechanics/CLI/bestiary/humanoid/soldier-ggr.md) begins killing people who have committed terrible crimes but have been acquitted because of loopholes in the judicial system. |
+| 5 | A group of [mages](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) who follow Ephara want to build a city on an island, heedless of the current residents. |
 | 6 | An [oracle](3-Mechanics/CLI/bestiary/humanoid/oracle-mot.md) (see "chapter 6") leads a cadre of scholars secretly destroying work that they deem antithetical to proper society. |
 ^epharas-villains

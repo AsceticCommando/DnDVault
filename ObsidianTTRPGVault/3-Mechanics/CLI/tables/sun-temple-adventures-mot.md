@@ -12,6 +12,8 @@ aliases:
 
 **Sun Temple Adventures**
 
+`dice: [](sun-temple-adventures-mot.md#^sun-temple-adventures)`
+
 | dice: d12 | Adventure Goal |
 |-----------|----------------|
 | 1 | Acquire an artifact used by a legendary hero. |

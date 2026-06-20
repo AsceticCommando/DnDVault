@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Hellwasp"
 ---
-# [Hellwasp](3-Mechanics\CLI\bestiary\fiend/hellwasp-bgdia.md)
+# [Hellwasp](3-Mechanics/CLI/bestiary/fiend/hellwasp-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 236*  
 
 A hellwasp is an intelligent, malevolent insect native to the Nine Hells. It has a thick protective carapace, thin metallic wings, and strong legs ending in swordlike talons. It uses its stinger to inject a chemical admixture similar to alchemist's fire into its victims. This same solution carries a paralytic enzyme that renders the victim helpless long enough for the hellwasp to grab its prey and flee.
@@ -21,7 +21,7 @@ Hellwasps thrive in hot weather, but extreme cold causes their shells to crack a
 
 ## Nests
 
-Hellwasps spew a golden bile similar to amber, which they use to craft enormous nests riddled with chambers and passages. The hellwasps use these nests as communal shelters and food storage. A typical nest is large enough to support a commune of `1d10 + 10` hellwasps, with each hellwasp having an equal voice and role in the society.
+Hellwasps spew a golden bile similar to amber, which they use to craft enormous nests riddled with chambers and passages. The hellwasps use these nests as communal shelters and food storage. A typical nest is large enough to support a commune of `dice:1d10+10|noform|noparens|avg` (`1d10 + 10`) hellwasps, with each hellwasp having an equal voice and role in the society.
 
 ## Hellwasp Telepathy
 
@@ -74,6 +74,6 @@ Hellwasps communicate with one another via a form of telepathy perceptible only 
     "name": "Sword Talons"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/hellwasp-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Hellwasp.webp"
 ```
 ^statblock

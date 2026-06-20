@@ -12,6 +12,8 @@ aliases:
 
 **Arena Adventures**
 
+`dice: [](arena-adventures-mot.md#^arena-adventures)`
+
 | dice: d8 | Adventure Goal |
 |----------|----------------|
 | 1 | Help an unfit participant survive an athletic competition. |

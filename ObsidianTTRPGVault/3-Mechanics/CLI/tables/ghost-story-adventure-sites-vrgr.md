@@ -12,6 +12,8 @@ aliases:
 
 **Ghost Story Adventure Sites**
 
+`dice: [](ghost-story-adventure-sites-vrgr.md#^ghost-story-adventure-sites)`
+
 | dice: d8 | Adventure Site |
 |----------|----------------|
 | 1 | A decrepit conservatory whose inhabitants are prone to terrible accidents |

@@ -12,6 +12,8 @@ aliases:
 
 **Tyrants Villains**
 
+`dice: [](tyrants-villains-erlw.md#^tyrants-villains)`
+
 | dice: d6 | Villain |
 |----------|---------|
 | 1 | A changeling rogue infiltrates adventuring parties to steal their magic items. |

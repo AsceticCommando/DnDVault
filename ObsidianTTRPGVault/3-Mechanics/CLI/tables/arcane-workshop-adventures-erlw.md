@@ -12,6 +12,8 @@ aliases:
 
 **Arcane Workshop Adventures**
 
+`dice: [](arcane-workshop-adventures-erlw.md#^arcane-workshop-adventures)`
+
 | dice: d12 | Adventure Goal |
 |-----------|----------------|
 | 1 | Steal a pattern for creating a magic item, before the workshop's artificers finish making the item. |

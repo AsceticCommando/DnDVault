@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Duergar Spore Servant"
 ---
-# [Duergar Spore Servant](3-Mechanics\CLI\bestiary\plant/duergar-spore-servant-oota.md)
+# [Duergar Spore Servant](3-Mechanics/CLI/bestiary/plant/duergar-spore-servant-oota.md)
 *Source: Out of the Abyss p. 229*  
 
 ```statblock
@@ -21,7 +21,7 @@ aliases:
 "type": "plant"
 "alignment": "Unaligned"
 "ac": !!int "16"
-"ac_class": "[scale mail](3-Mechanics/CLI/items/scale-mail.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[scale mail](3-Mechanics/CLI/items/scale-mail-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "26"
 "hit_dice": "4d8 + 8"
 "modifier": !!int "0"
@@ -37,7 +37,7 @@ aliases:
 "condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
   \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)"
 "gear":
-  - "[war pick](3-Mechanics/CLI/items/war-pick.md)"
+  - "[war pick](3-Mechanics/CLI/items/war-pick-xphb.md)"
 "senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 30 ft. (blind\
   \ beyond this radius), passive Perception 8"
 "languages": ""
@@ -48,6 +48,6 @@ aliases:
     "name": "War Pick"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/plant/token/duergar-spore-servant-oota.webp"
+"image": "file://bestiary/tokens/OotA/Duergar%20Spore%20Servant.webp"
 ```
 ^statblock

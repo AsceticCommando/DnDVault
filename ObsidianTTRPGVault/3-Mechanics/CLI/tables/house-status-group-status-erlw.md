@@ -12,6 +12,8 @@ aliases:
 
 **Group Status**
 
+`dice: [](house-status-group-status-erlw.md#^group-status)`
+
 | dice: d4 | Status |
 |----------|--------|
 | 1 | **Favored**. You have access to the leadership of the house, owing to your record of faithful service. |

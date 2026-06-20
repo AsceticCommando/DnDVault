@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Claugiyliamatar"
 ---
-# [Claugiyliamatar](3-Mechanics\CLI\bestiary\npc/claugiyliamatar-skt.md)
+# [Claugiyliamatar](3-Mechanics/CLI/bestiary/npc/claugiyliamatar-skt.md)
 *Source: Storm King's Thunder p. 96*  
 
 ```statblock
@@ -86,15 +86,16 @@ aliases:
     "name": "Poison Breath (Recharge 5-6)"
   - "desc": "Claugiyliamatar casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 19):\n\
-      \n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [druidcraft](3-Mechanics/CLI/spells/druidcraft.md),\
-      \ [speak with animals](3-Mechanics/CLI/spells/speak-with-animals.md)\n\n**2/day\
-      \ each:** [animal messenger](3-Mechanics/CLI/spells/animal-messenger.md), [cure\
-      \ wounds](3-Mechanics/CLI/spells/cure-wounds.md), [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md),\
-      \ [entangle](3-Mechanics/CLI/spells/entangle.md), [invisibility](3-Mechanics/CLI/spells/invisibility.md)\n\
-      \n**1/day each:** [blight](3-Mechanics/CLI/spells/blight.md), [legend lore](3-Mechanics/CLI/spells/legend-lore.md)\
-      \ (cast as 1 action), [locate creature](3-Mechanics/CLI/spells/locate-creature.md),\
-      \ [pass without trace](3-Mechanics/CLI/spells/pass-without-trace.md), [protection\
-      \ from energy](3-Mechanics/CLI/spells/protection-from-energy.md), [true seeing](3-Mechanics/CLI/spells/true-seeing.md)"
+      \n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [druidcraft](3-Mechanics/CLI/spells/druidcraft-xphb.md), [speak with animals](3-Mechanics/CLI/spells/speak-with-animals-xphb.md)\n\
+      \n**2/day each:** [animal messenger](3-Mechanics/CLI/spells/animal-messenger-xphb.md),\
+      \ [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md), [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
+      \ [entangle](3-Mechanics/CLI/spells/entangle-xphb.md), [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md)\n\
+      \n**1/day each:** [blight](3-Mechanics/CLI/spells/blight-xphb.md), [legend lore](3-Mechanics/CLI/spells/legend-lore-xphb.md)\
+      \ (cast as 1 action), [locate creature](3-Mechanics/CLI/spells/locate-creature-xphb.md),\
+      \ [pass without trace](3-Mechanics/CLI/spells/pass-without-trace-xphb.md), [protection\
+      \ from energy](3-Mechanics/CLI/spells/protection-from-energy-xphb.md), [true\
+      \ seeing](3-Mechanics/CLI/spells/true-seeing-xphb.md)"
     "name": "Spellcasting"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, Claugiyliamatar can expend a use to take one of the following actions. Claugiyliamatar\
@@ -112,6 +113,6 @@ aliases:
     "name": "Wing Attack (Costs 2 Actions)"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/claugiyliamatar-skt.webp"
+"image": "file://bestiary/tokens/SKT/Claugiyliamatar.webp"
 ```
 ^statblock

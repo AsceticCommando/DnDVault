@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Duergar Mind Master"
 ---
-# [Duergar Mind Master](3-Mechanics\CLI\bestiary\humanoid/duergar-mind-master-mpmm.md)
+# [Duergar Mind Master](3-Mechanics/CLI/bestiary/humanoid/duergar-mind-master-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 108, Mordenkainen's Tome of Foes p. 189*  
 
 Wearing fearsome masks, duergar mind masters usually operate as spies, both inside and beyond a duergar stronghold. Their psionically augmented abilities enable them to see through illusions with ease and shrink down to miniature size to spy on their targets.
@@ -46,7 +46,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "subtype": "dwarf"
 "alignment": "Any alignment"
 "ac": !!int "14"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "39"
 "hit_dice": "6d8 + 12"
 "modifier": !!int "3"
@@ -113,7 +113,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/duergar-mind-master-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Duergar%20Mind%20Master.webp"
 ```
 ^statblock
 

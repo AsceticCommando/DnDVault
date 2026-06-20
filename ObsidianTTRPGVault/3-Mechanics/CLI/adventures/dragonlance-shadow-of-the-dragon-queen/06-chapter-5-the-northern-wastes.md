@@ -12,7 +12,7 @@ aliases:
 
 Buried beneath the magically scarred reaches of the Northern Wastes lies an ancient ruin now known as the City of Lost Names. In a bygone age, the city was named Onyari. Built by the Kingpriest of Istar, it soared through the heavens, but it was brought low by enraged dragons who discovered its grim secret: its flight relied on the innate magic of the draconic graveyard it was built on. Now, Onyari's ruins draw the attention of the Red Dragon Army, whose leaders believe they can raise the city into the heavens once more. The black-robed mage [Lohezet](3-Mechanics/CLI/bestiary/npc/lohezet-dsotdq.md) and the priest [Belephaion](3-Mechanics/CLI/bestiary/npc/belephaion-dsotdq.md) lead an expedition to claim the city as a massive weapon of war. The death knight [Lord Soth](3-Mechanics/CLI/bestiary/npc/lord-soth-dsotdq.md) joins them, following whispers from the Dragon Queen to use the Cataclysmic fire from the depths of Castle Kalaman to raise the dead dragons buried in Onyari's foundations and bring them to her service.
 
-![Soldiers from Kalaman stru...](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/069-05-001-chapter-splash.webp#center "Soldiers from Kalaman struggle to survive amid the treacherous canyons of the Northern Wastes")
+![Soldiers from Kalaman struggle to survive amid the treacherous canyons of the Northern Wastes](file://adventure/DSotDQ/069-05-001.chapter-splash.webp#center)
 
 ## Running This Chapter
 
@@ -143,6 +143,8 @@ Each day the characters travel the Northern Wastes (or whenever you please), rol
 
 **Nature of the Wash**
 
+`dice: [](06-chapter-5-the-northern-wastes.md#^nature-of-the-wash)`
+
 | dice: d10 | Wash Effect |
 |-----------|-------------|
 | 1–3 | The Wash is low. Canyons are dry. |
@@ -158,15 +160,17 @@ When the Wash fills the Northern Wastes, the characters must make a DC 12 group 
 
 During a flash flood, turbulent Wash waters flood the canyons in the area the characters are traveling through. If the characters are in a canyon, its walls are `2d4 × 10` feet high.
 
-When the flood starts, have the characters and nearby creatures roll initiative. Each round, on initiative counts 10 and 0, the water level rises by 10 feet (up to the height of the canyon) and travels 100 feet horizontally. On each of these initiative counts, creatures in the water and moving along with it must make a DC 15 Strength saving throw as they're smashed by large chunks of debris. A creature takes `2d6` bludgeoning damage on a failed save, or half as much damage on a successful one.
+When the flood starts, have the characters and nearby creatures roll initiative. Each round, on initiative counts 10 and 0, the water level rises by 10 feet (up to the height of the canyon) and travels 100 feet horizontally. On each of these initiative counts, creatures in the water and moving along with it must make a DC 15 Strength saving throw as they're smashed by large chunks of debris. A creature takes `dice:2d6|noform|noparens|avg` (`2d6`) bludgeoning damage on a failed save, or half as much damage on a successful one.
 
-The water level continues to rise and move this way for `2d4` rounds, then stops.
+The water level continues to rise and move this way for `dice:2d4|noform|noparens|avg` (`2d4`) rounds, then stops.
 
 ### Wastes Encounters
 
 Countless threats loom in the wild, dangerous Northern Wastes. Whenever you want a random encounter to occur—usually once per day—roll on the Northern Wastes Encounters table.
 
 **Northern Wastes Encounters**
+
+`dice: [](06-chapter-5-the-northern-wastes.md#^northern-wastes-encounters)`
 
 | dice: d20 | Encounter |
 |-----------|-----------|
@@ -182,6 +186,8 @@ Hostile Dragon Army patrols scour the Northern Wastes for pre-Cataclysm ruins to
 
 **Dragon Army Patrol**
 
+`dice: [](06-chapter-5-the-northern-wastes.md#^dragon-army-patrol)`
+
 | dice: d4 | Encounter |
 |----------|-----------|
 | 1 | 8 [baaz draconians](3-Mechanics/CLI/bestiary/monstrosity/baaz-draconian-dsotdq.md) and 2 [Dragon Army soldiers](3-Mechanics/CLI/bestiary/humanoid/dragon-army-soldier-dsotdq.md) |
@@ -192,9 +198,9 @@ Hostile Dragon Army patrols scour the Northern Wastes for pre-Cataclysm ruins to
 
 #### Malfunctioning Gate
 
-The characters find a stone archway lined with sigils. This gate used to be a teleportation gate—part of a magical transportation system created by Istarian mages. It once stood in Onyari before the city fell. As soon as a character approaches, magical energy swirls within the arch. The magic kicks up nearby debris that animates as a hostile [clay golem](3-Mechanics/CLI/bestiary/construct/clay-golem.md).
+The characters find a stone archway lined with sigils. This gate used to be a teleportation gate—part of a magical transportation system created by Istarian mages. It once stood in Onyari before the city fell. As soon as a character approaches, magical energy swirls within the arch. The magic kicks up nearby debris that animates as a hostile [clay golem](3-Mechanics/CLI/bestiary/construct/clay-golem-xmm.md).
 
-![Few can survive the flood-...](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/070-05-002-canyons-of-northern-wastes.webp#center "Few can survive the flood-prone canyons of the Northern Wastes")
+![Few can survive the flood-prone canyons of the Northern Wastes](file://adventure/DSotDQ/070-05-002.canyons-of-northern-wastes.webp#center)
 
 ##### Golem
 
@@ -206,7 +212,7 @@ Magical energy flickers in the gate. After the golem is defeated, a character wi
 
 ##### Sigil Sequence
 
-Characters can learn the sigil sequence on the gate so they can teleport to it with the [teleportation circle](3-Mechanics/CLI/spells/teleportation-circle.md) spell.
+Characters can learn the sigil sequence on the gate so they can teleport to it with the [teleportation circle](3-Mechanics/CLI/spells/teleportation-circle-xphb.md) spell.
 
 #### Wastes Predators
 
@@ -214,14 +220,16 @@ Roll on the table below to determine what predators the characters encounter. Ea
 
 **Wastes Predators**
 
+`dice: [](06-chapter-5-the-northern-wastes.md#^wastes-predators)`
+
 | dice: d10 | Encounter |
 |-----------|-----------|
 | 1 | The bones of a Humanoid or Beast, infested with harmless spiders or tide-pool creatures (high or low) |
-| 2–3 | 6 [giant octopuses](3-Mechanics/CLI/bestiary/beast/giant-octopus.md) (high) or 3 [giant scorpions](3-Mechanics/CLI/bestiary/beast/giant-scorpion.md) (low) |
-| 4–5 | 4 [merrow](3-Mechanics/CLI/bestiary/monstrosity/merrow.md) (high) or 6 [giant spiders](3-Mechanics/CLI/bestiary/beast/giant-spider.md) (low) |
-| 6–7 | 3 [plesiosauruses](3-Mechanics/CLI/bestiary/beast/plesiosaurus.md) (high) or 3 [manticores](3-Mechanics/CLI/bestiary/monstrosity/manticore.md) (low) |
-| 8–9 | 2 [giant sharks](3-Mechanics/CLI/bestiary/beast/giant-shark.md) (high) or 3 [wasteland dragonnels](3-Mechanics/CLI/bestiary/dragon/wasteland-dragonnel-dsotdq.md) (low; see appendix B) |
-| 10 | 1 [purple worm](3-Mechanics/CLI/bestiary/monstrosity/purple-worm.md) spotted a mile away (high or low) |
+| 2–3 | 6 [giant octopuses](3-Mechanics/CLI/bestiary/beast/giant-octopus-xmm.md) (high) or 3 [giant scorpions](3-Mechanics/CLI/bestiary/beast/giant-scorpion-xmm.md) (low) |
+| 4–5 | 4 [merrow](3-Mechanics/CLI/bestiary/monstrosity/merrow-xmm.md) (high) or 6 [giant spiders](3-Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) (low) |
+| 6–7 | 3 [plesiosauruses](3-Mechanics/CLI/bestiary/beast/plesiosaurus-xmm.md) (high) or 3 [manticores](3-Mechanics/CLI/bestiary/monstrosity/manticore-xmm.md) (low) |
+| 8–9 | 2 [giant sharks](3-Mechanics/CLI/bestiary/beast/giant-shark-xmm.md) (high) or 3 [wasteland dragonnels](3-Mechanics/CLI/bestiary/dragon/wasteland-dragonnel-dsotdq.md) (low; see appendix B) |
+| 10 | 1 [purple worm](3-Mechanics/CLI/bestiary/monstrosity/purple-worm-xmm.md) spotted a mile away (high or low) |
 ^wastes-predators
 
 ### Kalaman Troops
@@ -252,8 +260,8 @@ As they travel the wastes, Darrett and his troops establish temporary camps. The
 As the characters venture into the Northern Wastes, they might want to explore the following areas.
 
 > [!gallery]
-> ![Map 5.1: Kalaman and Northern Wastes](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/071-map-5-01-kalaman-and-northern-wastes.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/072-map-5-01-kalaman-and-northern-wastes-player.webp#gallery)
+> ![Map 5.1: Kalaman and Northern Wastes](file://adventure/DSotDQ/071-map-5.01-kalaman-and-northern-wastes.webp#gallery)
+> ![Player Version](file://adventure/DSotDQ/072-map-5.01-kalaman-and-northern-wastes-player.webp#gallery)
 
 ### A: Wrecker's Edge
 
@@ -276,9 +284,9 @@ A few rotten wooden buildings abandoned by smugglers line this cove. Additionall
 
 The ship belongs to a group of elven wizards who found Wrecker's Edge a few months ago. Characters who grew up in an elven society or who succeed on a DC 14 Intelligence ([History](3-Mechanics/CLI/rules/skills.md#History)) check identify the ship as being of Silvanesti elven origin.
 
-The ship is small but seaworthy, with enough room for a dozen crew members. It has nothing of value on its deck or in the communal bunks below deck. However, two [air elementals](3-Mechanics/CLI/bestiary/elemental/air-elemental.md) on the deck defend the vessel against intruders. They attack any non-elf that sets foot upon the ship.
+The ship is small but seaworthy, with enough room for a dozen crew members. It has nothing of value on its deck or in the communal bunks below deck. However, two [air elementals](3-Mechanics/CLI/bestiary/elemental/air-elemental-xmm.md) on the deck defend the vessel against intruders. They attack any non-elf that sets foot upon the ship.
 
-If the characters haven't met [Dalamar](3-Mechanics/CLI/bestiary/npc/dalamar-dsotdq.md) yet (see the following section), he's nearby when they board the ship, and an [alarm](3-Mechanics/CLI/spells/alarm.md) spell cast on the deck alerts him to their intrusion. He might approach them anytime after they defeat the elementals (see the following section).
+If the characters haven't met [Dalamar](3-Mechanics/CLI/bestiary/npc/dalamar-dsotdq.md) yet (see the following section), he's nearby when they board the ship, and an [alarm](3-Mechanics/CLI/spells/alarm-xphb.md) spell cast on the deck alerts him to their intrusion. He might approach them anytime after they defeat the elementals (see the following section).
 
 #### Meeting Dalamar
 
@@ -292,9 +300,9 @@ If the characters haven't met [Dalamar](3-Mechanics/CLI/bestiary/npc/dalamar-dso
 
 #### Dalamar
 
-![Dalamar provides a glimpse of lost, ancient ruins](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/073-05-003-dalamar.webp#center)
+![Dalamar provides a glimpse of lost, ancient ruins](file://adventure/DSotDQ/073-05-003.dalamar.webp#center)
 
-An ambitious elf magic-user, [Dalamar](3-Mechanics/CLI/bestiary/npc/dalamar-dsotdq.md) (neutral elf [mage](3-Mechanics/CLI/bestiary/humanoid/mage.md)) has an insatiable thirst for knowledge. This often puts him at odds with other Silvanesti mages, whose conservative methods wear on his patience.
+An ambitious elf magic-user, [Dalamar](3-Mechanics/CLI/bestiary/npc/dalamar-dsotdq.md) (neutral elf [mage](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md)) has an insatiable thirst for knowledge. This often puts him at odds with other Silvanesti mages, whose conservative methods wear on his patience.
 
 [Dalamar](3-Mechanics/CLI/bestiary/npc/dalamar-dsotdq.md) participated in the ill-fated defense of Silvanesti against the Dragon Armies. His desperate actions were part of the reason he and the other mages were sent to the Northern Wastes. Despite resenting his people's small-minded decisions, he sees this mission as a chance to prove himself and potentially strike back against the Dragon Armies. [Dalamar](3-Mechanics/CLI/bestiary/npc/dalamar-dsotdq.md) studied pre-Cataclysm magic long before being sent here, and he believes something of magical value might be hidden in the region. He wants to find it swiftly, return to his people, and continue working toward joining the Mages of High Sorcery.
 
@@ -326,7 +334,7 @@ While the characters are away, Kalaman's troops unload the ships and set up thei
 
 #### Expedition Members
 
-The elven camp lies next to some small ruins on a plateau overlooking the wastes, with a dozen or so tents arranged in a spiral pattern. Ten elves are present in the camp when the characters arrive, including their leader, Zhelsuel. Others roam the wastes in search of information. They all use the [mage](3-Mechanics/CLI/bestiary/humanoid/mage.md) stat block.
+The elven camp lies next to some small ruins on a plateau overlooking the wastes, with a dozen or so tents arranged in a spiral pattern. Ten elves are present in the camp when the characters arrive, including their leader, Zhelsuel. Others roam the wastes in search of information. They all use the [mage](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) stat block.
 
 #### Silvanesti's Exiles
 
@@ -402,7 +410,7 @@ When the characters arrive, the Wash is low. The sea elves have set up camp near
 
 After their recent ordeal, the sea elves are on alert for large groups of people. If the characters approach them with Kalaman's troops in tow, the sea elves retreat. Their current leader, [Ishvern](3-Mechanics/CLI/bestiary/npc/ishvern-dsotdq.md) Stargazer, approaches only if it's clear no one's pursuing them with hostile intent.
 
-[Ishvern](3-Mechanics/CLI/bestiary/npc/ishvern-dsotdq.md) and the [sea elves](3-Mechanics/CLI/bestiary/humanoid/sea-elf-scout-dsotdq.md) use the [scout](3-Mechanics/CLI/bestiary/humanoid/scout.md) stat block with the following changes:
+[Ishvern](3-Mechanics/CLI/bestiary/npc/ishvern-dsotdq.md) and the [sea elves](3-Mechanics/CLI/bestiary/humanoid/sea-elf-scout-dsotdq.md) use the [scout](3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md) stat block with the following changes:
 
 - They have advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), and magic can't put them to sleep.  
 - They have [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to 60 feet.  
@@ -410,7 +418,7 @@ After their recent ordeal, the sea elves are on alert for large groups of people
 
 #### Ishvern Stargazer
 
-![Ishvern](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/074-05-004-ishvern.webp#center)
+![Ishvern](file://adventure/DSotDQ/074-05-004.ishvern.webp#center)
 
 [Ishvern](3-Mechanics/CLI/bestiary/npc/ishvern-dsotdq.md) (neutral good, [sea elf scout](3-Mechanics/CLI/bestiary/humanoid/sea-elf-scout-dsotdq.md)), the de facto leader of the Dimernesti group in their priest's absence, is pious, curious, and insightful. Having survived in the deadliest depths of the Turbidus Ocean for over a century, he knows better than to venture into mysterious places unprepared. He isn't eager to risk his companions' lives without the priest Yearkal's guidance. However, [Ishvern](3-Mechanics/CLI/bestiary/npc/ishvern-dsotdq.md) fears Yearkal might be lost forever. If others might aid him in fulfilling her spiritual mission, he's eager for their help.
 
@@ -445,7 +453,7 @@ If the characters know of Yearkal's fate or return her to the group (see the "D:
 The shrine has the following features:
 
 - **Ceilings.** The ceilings in the shrine are 15 feet high.  
-- **Light.** All areas of the shrine are brightly lit by blue [continual flame](3-Mechanics/CLI/spells/continual-flame.md) spells cast on seashells and other objects embedded in the walls.  
+- **Light.** All areas of the shrine are brightly lit by blue [continual flame](3-Mechanics/CLI/spells/continual-flame-xphb.md) spells cast on seashells and other objects embedded in the walls.  
 - **Walls and Doors.** The shrine's walls and doors are made of solid stone. Except for the door in area C1, the doors throughout the shrine open easily.  
 - **Water.** The Wash is low when the characters reach the shrine, but each room is filled with 2 feet of standing water, except for area C5. Areas with standing water are "difficult terrain".  
 
@@ -454,8 +462,8 @@ The shrine has the following features:
 The following locations are keyed to map 5.2.
 
 > [!gallery]
-> ![Map 5.2: Blue Phoenix Shrine](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/075-map-5-02-blue-phoenix-shrine.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/076-map-5-02-blue-phoenix-shrine-player.webp#gallery)
+> ![Map 5.2: Blue Phoenix Shrine](file://adventure/DSotDQ/075-map-5.02-blue-phoenix-shrine.webp#gallery)
+> ![Player Version](file://adventure/DSotDQ/076-map-5.02-blue-phoenix-shrine-player.webp#gallery)
 
 #### C1: Shrine Entrance
 
@@ -470,7 +478,7 @@ A follower of Habbakuk or a character who succeeds on a DC 12 Intelligence ([Rel
 
 ##### Shrine Door
 
-[Ishvern](3-Mechanics/CLI/bestiary/npc/ishvern-dsotdq.md) explains Yearkal opened this door by saying a specific prayer, but he doesn't know it. If a character says the name "Habbakuk" within 10 feet of the door, it swings open magically. Casting the [knock](3-Mechanics/CLI/spells/knock.md) spell also opens the door.
+[Ishvern](3-Mechanics/CLI/bestiary/npc/ishvern-dsotdq.md) explains Yearkal opened this door by saying a specific prayer, but he doesn't know it. If a character says the name "Habbakuk" within 10 feet of the door, it swings open magically. Casting the [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell also opens the door.
 
 The door is a Large object with AC 17, 40 hit points, and immunity to poison and psychic damage.
 
@@ -489,7 +497,7 @@ Upon entering this chamber, [Ishvern](3-Mechanics/CLI/bestiary/npc/ishvern-dsotd
 
 ##### Altar Guardians
 
-If a character comes within 10 feet of the altar without having washed themself in area C3 within the last 24 hours, three [water weirds](3-Mechanics/CLI/bestiary/elemental/water-weird.md) rise from the water between the pillars. They are hostile toward any Humanoid who doesn't openly bear the symbol of Habbakuk. The water weirds cease attacking and vanish if a creature in the room uses an action to apologize to Habbakuk or speak a prayer to the god's name.
+If a character comes within 10 feet of the altar without having washed themself in area C3 within the last 24 hours, three [water weirds](3-Mechanics/CLI/bestiary/elemental/water-weird-xmm.md) rise from the water between the pillars. They are hostile toward any Humanoid who doesn't openly bear the symbol of Habbakuk. The water weirds cease attacking and vanish if a creature in the room uses an action to apologize to Habbakuk or speak a prayer to the god's name.
 
 #### C3: Cleansing Room
 
@@ -525,9 +533,9 @@ A character who succeeds on a DC 17 Strength check can open either sarcophagus�
 
 ##### Secret Door
 
-This crypt is seemingly a dead end. A character who has a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 20 or higher notices the secret door if they come within 5 feet of it. The [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell also reveals the secret door.
+This crypt is seemingly a dead end. A character who has a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 20 or higher notices the secret door if they come within 5 feet of it. The [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell also reveals the secret door.
 
-The secret door magically opens if a character obeys the inscription on door in area C4 and prays or makes an offering at either sarcophagus. Casting the [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md) or [knock](3-Mechanics/CLI/spells/knock.md) spell also makes it easy to push the door open. The door is a Large object with AC 17, 40 hit points, and immunity to poison and psychic damage.
+The secret door magically opens if a character obeys the inscription on door in area C4 and prays or makes an offering at either sarcophagus. Casting the [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) or [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell also makes it easy to push the door open. The door is a Large object with AC 17, 40 hit points, and immunity to poison and psychic damage.
 
 #### C6: Offering Chamber
 
@@ -540,7 +548,7 @@ Here, initiates of Habbakuk once made offerings to honor their god.
 
 ##### Shrine Guardians
 
-If a character who didn't wash in area C3 or who opened a sarcophagus in area C4 comes within 10 feet of the well, the algae on the walls coalesces into three [black puddings](3-Mechanics/CLI/bestiary/ooze/black-pudding.md) that immediately attack the offending character as well as other creatures that attack the puddings.
+If a character who didn't wash in area C3 or who opened a sarcophagus in area C4 comes within 10 feet of the well, the algae on the walls coalesces into three [black puddings](3-Mechanics/CLI/bestiary/ooze/black-pudding-xmm.md) that immediately attack the offending character as well as other creatures that attack the puddings.
 
 ##### Ishvern's Offering
 
@@ -585,7 +593,7 @@ At the base of the spire's remains stand a dozen ragged canvas tents in the red 
 
 ##### Abandoned Gear
 
-Characters who spend 10 minutes investigating the tents find enough dried meat to sustain one person for ten days, twelve dirty [shovels](3-Mechanics/CLI/items/shovel.md), an overturned wheelbarrow, and a suit of [leather armor](3-Mechanics/CLI/items/leather-armor.md) bearing the Dragon Queen's symbol.
+Characters who spend 10 minutes investigating the tents find enough dried meat to sustain one person for ten days, twelve dirty [shovels](3-Mechanics/CLI/items/shovel-xphb.md), an overturned wheelbarrow, and a suit of [leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md) bearing the Dragon Queen's symbol.
 
 ##### Mysterious Markings
 
@@ -593,7 +601,7 @@ A character who has a passive Wisdom ([Survival](3-Mechanics/CLI/rules/skills.md
 
 ##### Resting near Camp
 
-If the characters take a long rest in the camp or within a mile of the Sunward Fortress, there is a 50 percent chance they are attacked by two [red slaadi](3-Mechanics/CLI/bestiary/aberration/red-slaad.md) that fight to the death.
+If the characters take a long rest in the camp or within a mile of the Sunward Fortress, there is a 50 percent chance they are attacked by two [red slaadi](3-Mechanics/CLI/bestiary/aberration/red-slaad-xmm.md) that fight to the death.
 
 #### Sunward Fortress Features
 
@@ -608,8 +616,8 @@ The ruin has the following features:
 The following locations are keyed to map 5.3.
 
 > [!gallery]
-> ![Map 5.3: Sunward Fortress](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/077-map-5-03-sunward-fortress.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/078-map-5-03-sunward-fortress-player.webp#gallery)
+> ![Map 5.3: Sunward Fortress](file://adventure/DSotDQ/077-map-5.03-sunward-fortress.webp#gallery)
+> ![Player Version](file://adventure/DSotDQ/078-map-5.03-sunward-fortress-player.webp#gallery)
 
 #### D1: Entry Chamber
 
@@ -622,7 +630,7 @@ This room once served as a place of worship for the hermits who occupied the spi
 
 ##### Altar
 
-A cleric of Sirrion or a character who succeeds on a DC 14 Intelligence ([Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check recognizes the symbols on the altar as holy to Sirrion, god of creativity and change. A character who speaks an earnest prayer to Sirrion causes flames to spring to life within the altar's candle sconces and a thick, red liquid to fill its basin. This liquid is a [potion of fire breath](3-Mechanics/CLI/items/potion-of-fire-breath.md). After creating this potion, the altar won't do so again until one month has passed.
+A cleric of Sirrion or a character who succeeds on a DC 14 Intelligence ([Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check recognizes the symbols on the altar as holy to Sirrion, god of creativity and change. A character who speaks an earnest prayer to Sirrion causes flames to spring to life within the altar's candle sconces and a thick, red liquid to fill its basin. This liquid is a [potion of fire breath](3-Mechanics/CLI/items/potion-of-fire-breath-xdmg.md). After creating this potion, the altar won't do so again until one month has passed.
 
 ##### Stairs
 
@@ -635,7 +643,7 @@ The stairs here descend to area D3.
 > Battered bed frames and straw mattresses clutter this room, interspersed with fragments of ragged clothing.
 ^293
 
-The Dragon Army's prisoners rested here before slaadi destroyed the room. A character who spends five minutes searching the debris finds bits of clothing, two sets of [manacles](3-Mechanics/CLI/items/manacles.md), and a blue pearl worth 150 gp.
+The Dragon Army's prisoners rested here before slaadi destroyed the room. A character who spends five minutes searching the debris finds bits of clothing, two sets of [manacles](3-Mechanics/CLI/items/manacles-xphb.md), and a blue pearl worth 150 gp.
 
 #### D3: Lower Chambers
 
@@ -648,7 +656,7 @@ This floor once served as lodging for the fortress's residents. Characters who e
 
 ##### Equipment
 
-The crates hold dozens of tools. A character who spends ten minutes searching the equipment finds three [bullseye lanterns](3-Mechanics/CLI/items/bullseye-lantern.md), six [flasks of oil](3-Mechanics/CLI/items/oil-flask.md), 100 feet of [hempen rope](3-Mechanics/CLI/items/hempen-rope-50-feet.md), four [vials of acid](3-Mechanics/CLI/items/acid-vial.md), and three sets of [mason's tools](3-Mechanics/CLI/items/masons-tools.md).
+The crates hold dozens of tools. A character who spends ten minutes searching the equipment finds three [bullseye lanterns](3-Mechanics/CLI/items/bullseye-lantern-xphb.md), six [flasks of oil](3-Mechanics/CLI/items/oil-xphb.md), 100 feet of [hempen rope](3-Mechanics/CLI/items/rope-xphb.md), four [vials of acid](3-Mechanics/CLI/items/acid-xphb.md), and three sets of [mason's tools](3-Mechanics/CLI/items/masons-tools-xphb.md).
 
 ##### Dracophage Subjects
 
@@ -656,9 +664,9 @@ Four mutated [draconian-slaad hybrids](3-Mechanics/CLI/bestiary/monstrosity/drac
 
 > [!readaloud] 
 > 
-> **Claw.** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (`1d4 + 3`) piercing damage plus 7 (`2d6`) poison damage. If the target is a Humanoid, it must succeed on a DC 12 Constitution saving throw or be infected with a disease—a minuscule slaad egg.
+> **Claw.** Melee Weapon Attack: `dice:1d20+5|noform|noparens|text(+5)` to hit, reach 5 ft., one target. Hit: `dice:1d4+3|noform|noparens|avg|text(5)` (`1d4 + 3`) piercing damage plus `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) poison damage. If the target is a Humanoid, it must succeed on a DC 12 Constitution saving throw or be infected with a disease—a minuscule slaad egg.
 > 
-> A Humanoid host can carry only one slaad egg at a time. Over three months, the egg moves to the chest cavity, gestates, and forms a [slaad tadpole](3-Mechanics/CLI/bestiary/aberration/slaad-tadpole.md). In the 24-hour period before the tadpole is born, the host feels unwell; its speed is halved; and it has disadvantage on attack rolls, ability checks, and saving throws. At birth, the tadpole chews its way through vital organs and out of the host's chest in 1 round, killing the host in the process.
+> A Humanoid host can carry only one slaad egg at a time. Over three months, the egg moves to the chest cavity, gestates, and forms a [slaad tadpole](3-Mechanics/CLI/bestiary/aberration/slaad-tadpole-xmm.md). In the 24-hour period before the tadpole is born, the host feels unwell; its speed is halved; and it has disadvantage on attack rolls, ability checks, and saving throws. At birth, the tadpole chews its way through vital organs and out of the host's chest in 1 round, killing the host in the process.
 > 
 > If the disease is cured before the tadpole's emergence, the tadpole disintegrates.
 ^298
@@ -673,7 +681,7 @@ The entrance to this room is barricaded by heavy mining equipment. Inside are tw
 
 ##### Survivors
 
-The Dimernesti sea elf Yearkal (neutral good, sea elf [acolyte](3-Mechanics/CLI/bestiary/humanoid/acolyte.md); see the "C: Blue Phoenix Shrine" section for details on sea elves) hides inside the room with the [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) Rone (neutral, human [scout](3-Mechanics/CLI/bestiary/humanoid/scout.md)), a hunter from Heart's Hollow. Rone has been infected with an ailment Yearkal doesn't know how to treat (see "Rone's Fate" below).
+The Dimernesti sea elf Yearkal (neutral good, sea elf [acolyte](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md); see the "C: Blue Phoenix Shrine" section for details on sea elves) hides inside the room with the [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) Rone (neutral, human [scout](3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md)), a hunter from Heart's Hollow. Rone has been infected with an ailment Yearkal doesn't know how to treat (see "Rone's Fate" below).
 
 Yearkal is scared but unharmed. Once she confirms the characters aren't monsters, she removes the barricade and shares the following facts:
 
@@ -686,9 +694,9 @@ Yearkal is scared but unharmed. Once she confirms the characters aren't monsters
 
 ##### Rone's Fate
 
-Rone is infected with a slaad tadpole. Due to [Virruza](3-Mechanics/CLI/bestiary/npc/virruza-dsotdq.md)'s experiments, the tadpole matured rapidly and is about to hatch. A character who succeeds on a DC 18 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana) or [Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)) check realizes Rone is infected by a dangerous parasite that will soon kill him, though a [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration.md) spell or similar magic could heal him.
+Rone is infected with a slaad tadpole. Due to [Virruza](3-Mechanics/CLI/bestiary/npc/virruza-dsotdq.md)'s experiments, the tadpole matured rapidly and is about to hatch. A character who succeeds on a DC 18 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana) or [Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)) check realizes Rone is infected by a dangerous parasite that will soon kill him, though a [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md) spell or similar magic could heal him.
 
-If the characters don't heal Rone, a [slaad tadpole](3-Mechanics/CLI/bestiary/aberration/slaad-tadpole.md) emerges 1 hour after the characters encounter him, killing him. If the characters do heal Rone, he thanks them and offers them a 1,000 gp reward if they take him home to Heart's Hollow.
+If the characters don't heal Rone, a [slaad tadpole](3-Mechanics/CLI/bestiary/aberration/slaad-tadpole-xmm.md) emerges 1 hour after the characters encounter him, killing him. If the characters do heal Rone, he thanks them and offers them a 1,000 gp reward if they take him home to Heart's Hollow.
 
 #### D5: Spire Depths
 
@@ -697,38 +705,38 @@ If the characters don't heal Rone, a [slaad tadpole](3-Mechanics/CLI/bestiary/ab
 > This level of the fortress hasn't been fully excavated. A thirty-foot-wide chasm splits it in two, spanned by makeshift wooden footbridges. On the far side of the chasm, digging implements surround an eight-foot-tall crystal glowing with a noxious orange light. On the near side of the chasm, a hulking red form covered in squirming shapes digs through broken crates.
 ^29f
 
-The creature is a [red slaad](3-Mechanics/CLI/bestiary/aberration/red-slaad.md) covered in five [slaad tadpoles](3-Mechanics/CLI/bestiary/aberration/slaad-tadpole.md). These monsters attack as soon as they spot the characters. A character who succeeds on a DC 16 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check recognizes the monsters as slaadi, denizens of the plane of Limbo.
+The creature is a [red slaad](3-Mechanics/CLI/bestiary/aberration/red-slaad-xmm.md) covered in five [slaad tadpoles](3-Mechanics/CLI/bestiary/aberration/slaad-tadpole-xmm.md). These monsters attack as soon as they spot the characters. A character who succeeds on a DC 16 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check recognizes the monsters as slaadi, denizens of the plane of Limbo.
 
-![A red slaad covered in slaad tadpoles](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/079-05-005-red-slaad-covered-tadpoles.webp#center)
+![A red slaad covered in slaad tadpoles](file://adventure/DSotDQ/079-05-005.red-slaad-covered-tadpoles.webp#center)
 
 Hidden in the shadows south of the chasm is the mutated draconian [Virruza](3-Mechanics/CLI/bestiary/npc/virruza-dsotdq.md) (see below). He doesn't attack until someone tries to cross the chasm.
 
 ##### Chasm and Bridges
 
-The chasm drops 70 feet to an uneven stone floor below. A creature that falls into the chasm takes 24 (`7d6`) bludgeoning damage.
+The chasm drops 70 feet to an uneven stone floor below. A creature that falls into the chasm takes `dice:7d6|noform|noparens|avg|text(24)` (`7d6`) bludgeoning damage.
 
-The bridges crossing the chasm look treacherous but are stable. If [Virruza](3-Mechanics/CLI/bestiary/npc/virruza-dsotdq.md) hits a creature on a bridge with his Hurl Flame attack, the bridge begins to smolder, igniting at the beginning of his next turn. After a bridge ignites, a creature that enters the bridge for the first time on a turn or starts its turn there must succeed on a DC 14 Dexterity saving throw or take 3 (`1d6`) fire damage. A bridge falls into the chasm 3 rounds after it ignites.
+The bridges crossing the chasm look treacherous but are stable. If [Virruza](3-Mechanics/CLI/bestiary/npc/virruza-dsotdq.md) hits a creature on a bridge with his Hurl Flame attack, the bridge begins to smolder, igniting at the beginning of his next turn. After a bridge ignites, a creature that enters the bridge for the first time on a turn or starts its turn there must succeed on a DC 14 Dexterity saving throw or take `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) fire damage. A bridge falls into the chasm 3 rounds after it ignites.
 
 ##### Virruza
 
-Changed by days of strange experiments involving draconian blood and exposure to the Spawning Shard, [Virruza](3-Mechanics/CLI/bestiary/npc/virruza-dsotdq.md) now looks like a tumescent draconian with warty green skin and an overly large mouth. Use the [green slaad](3-Mechanics/CLI/bestiary/aberration/green-slaad.md) stat block for [Virruza](3-Mechanics/CLI/bestiary/npc/virruza-dsotdq.md), but replace the Shapechanger trait with the following trait:
+Changed by days of strange experiments involving draconian blood and exposure to the Spawning Shard, [Virruza](3-Mechanics/CLI/bestiary/npc/virruza-dsotdq.md) now looks like a tumescent draconian with warty green skin and an overly large mouth. Use the [green slaad](3-Mechanics/CLI/bestiary/aberration/green-slaad-xmm.md) stat block for [Virruza](3-Mechanics/CLI/bestiary/npc/virruza-dsotdq.md), but replace the Shapechanger trait with the following trait:
 
 > [!readaloud] 
 > 
-> **Death Throes.** When [Virruza](3-Mechanics/CLI/bestiary/npc/virruza-dsotdq.md) is reduced to 0 hit points, he turns into a puddle of acid and splashes acid on those around him. Each creature within 5 feet of him must succeed on a DC 12 Dexterity saving throw or be covered in acid for 1 minute. A creature can use its action to scrape or wash the acid off itself or another creature. A creature covered in the acid takes 7 (`2d6`) acid damage at the start of each of its turns.
+> **Death Throes.** When [Virruza](3-Mechanics/CLI/bestiary/npc/virruza-dsotdq.md) is reduced to 0 hit points, he turns into a puddle of acid and splashes acid on those around him. Each creature within 5 feet of him must succeed on a DC 12 Dexterity saving throw or be covered in acid for 1 minute. A creature can use its action to scrape or wash the acid off itself or another creature. A creature covered in the acid takes `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) acid damage at the start of each of its turns.
 ^2a2
 
 [Virruza](3-Mechanics/CLI/bestiary/npc/virruza-dsotdq.md) is hostile, is unable to communicate intelligibly, and fights to the death.
 
 ##### Spawning Shard
 
-This enormous orange gem weighs over a ton and sheds dim light for 10 feet. A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals it emanates an aura of transmutation magic. A character who inspects the Spawning Shard and succeeds on a DC 18 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check determines the gem's magic can corrupt creatures and turn them into slaadi.
+This enormous orange gem weighs over a ton and sheds dim light for 10 feet. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals it emanates an aura of transmutation magic. A character who inspects the Spawning Shard and succeeds on a DC 18 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check determines the gem's magic can corrupt creatures and turn them into slaadi.
 
-A creature that touches the gem must succeed on a DC 15 Constitution saving throw or become infected with a disease called chaos phage. While infected, the target can't regain hit points, and its hit point maximum is reduced by 10 (`3d6`) every 24 hours unless the target is cured by magic such as the [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration.md) spell. If the disease reduces the target's hit point maximum to 0, the target instantly transforms into a [red slaad](3-Mechanics/CLI/bestiary/aberration/red-slaad.md) or, if it has the ability to cast spells of 3rd level or higher, a [green slaad](3-Mechanics/CLI/bestiary/aberration/green-slaad.md). Only a [wish](3-Mechanics/CLI/spells/wish.md) spell can reverse the transformation.
+A creature that touches the gem must succeed on a DC 15 Constitution saving throw or become infected with a disease called chaos phage. While infected, the target can't regain hit points, and its hit point maximum is reduced by `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) every 24 hours unless the target is cured by magic such as the [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md) spell. If the disease reduces the target's hit point maximum to 0, the target instantly transforms into a [red slaad](3-Mechanics/CLI/bestiary/aberration/red-slaad-xmm.md) or, if it has the ability to cast spells of 3rd level or higher, a [green slaad](3-Mechanics/CLI/bestiary/aberration/green-slaad-xmm.md). Only a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell can reverse the transformation.
 
 ##### Treasure
 
-[Virruza](3-Mechanics/CLI/bestiary/npc/virruza-dsotdq.md) carries a pouch containing 900 gp worth of nonmagical orange gemstones—they aren't related to the Spawning Shard, though they look similar. He also carries a [+1 wand of the war mage](3-Mechanics/CLI/items/1-wand-of-the-war-mage.md) he has forgotten how to use.
+[Virruza](3-Mechanics/CLI/bestiary/npc/virruza-dsotdq.md) carries a pouch containing 900 gp worth of nonmagical orange gemstones—they aren't related to the Spawning Shard, though they look similar. He also carries a [+1 wand of the war mage](3-Mechanics/CLI/items/1-wand-of-the-war-mage-xdmg.md) he has forgotten how to use.
 
 Characters who search the south side of the chamber find [Virruza](3-Mechanics/CLI/bestiary/npc/virruza-dsotdq.md)'s personal notes on scattered pieces of parchment. A character who spends ten minutes reading them learns the following details:
 
@@ -766,8 +774,8 @@ Exposure to Shadowfell magic has caused the upper levels of Wakenreth to deterio
 The ancient door here opens into area E1.
 
 > [!gallery]
-> ![Map 5.4: Wakenreth](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/080-map-5-04-wakenreth.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/081-map-5-04-wakenreth-player.webp#gallery)
+> ![Map 5.4: Wakenreth](file://adventure/DSotDQ/080-map-5.04-wakenreth.webp#gallery)
+> ![Player Version](file://adventure/DSotDQ/081-map-5.04-wakenreth-player.webp#gallery)
 
 #### Wakenreth Features
 
@@ -775,7 +783,7 @@ The mystical tower has the following features:
 
 - **Ceilings.** Wakenreth's ceilings are 20 feet high.  
 - **Doors.** All doors are made of rusty iron. They are unlocked and open easily, though noisily.  
-- **Lighting.** Areas E1 and E2 are brightly lit by [continual flame](3-Mechanics/CLI/spells/continual-flame.md) spells cast on wall sconces. In areas E3 and E4, these glowing sconces are affected by Shadowfell magic that causes them to produce only dim light and shine with an eerie green glow. Area E5 is dimly lit by a gloomy gray sky.  
+- **Lighting.** Areas E1 and E2 are brightly lit by [continual flame](3-Mechanics/CLI/spells/continual-flame-xphb.md) spells cast on wall sconces. In areas E3 and E4, these glowing sconces are affected by Shadowfell magic that causes them to produce only dim light and shine with an eerie green glow. Area E5 is dimly lit by a gloomy gray sky.  
 
 #### Wakenreth Locations
 
@@ -792,7 +800,7 @@ If a character examines the coins or statue, have them make a DC 14 Intelligence
 
 ##### Cursed
 
-A character who proceeds up the stairs without leaving a coin on the pedestal or who takes a coin from the room becomes cursed for as long as they remain within the tower or until the curse is removed by a [remove curse](3-Mechanics/CLI/spells/remove-curse.md) spell or similar magic. While cursed, the character has disadvantage on all ability checks and saving throws.
+A character who proceeds up the stairs without leaving a coin on the pedestal or who takes a coin from the room becomes cursed for as long as they remain within the tower or until the curse is removed by a [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md) spell or similar magic. While cursed, the character has disadvantage on all ability checks and saving throws.
 
 ##### Stairs
 
@@ -809,7 +817,7 @@ There are 451 silver coins in this room, which a character can collect by spendi
 > Heaps of rubble have fallen from this chamber's partially collapsed ceiling. The room holds two stone crypts, while the walls are sculpted with empty burial niches. A door stands to the southeast. Sconces on the walls shed light tinged a faint green.
 ^2b3
 
-The characters draw the attention of two hostile [wraiths](3-Mechanics/CLI/bestiary/undead/wraith.md) that lurk inside the crypts here. Once each wraith is defeated, it turns into an incorporeal elven spirit. One spirit quickly fades away, while the other—a woman with light-gray hair and pale eyes—floats through the ceiling and out of sight.
+The characters draw the attention of two hostile [wraiths](3-Mechanics/CLI/bestiary/undead/wraith-xmm.md) that lurk inside the crypts here. Once each wraith is defeated, it turns into an incorporeal elven spirit. One spirit quickly fades away, while the other—a woman with light-gray hair and pale eyes—floats through the ceiling and out of sight.
 
 ##### Stairs and Ceiling
 
@@ -817,7 +825,7 @@ The door here leads to stairs once used to access area E3. However, the stairs a
 
 ##### Treasure
 
-The two crypts each hold a desiccated elven body. One body wears a [cloak of protection](3-Mechanics/CLI/items/cloak-of-protection.md), while the other wears the nonmagical white robes of a Mage of High Sorcery.
+The two crypts each hold a desiccated elven body. One body wears a [cloak of protection](3-Mechanics/CLI/items/cloak-of-protection-xdmg.md), while the other wears the nonmagical white robes of a Mage of High Sorcery.
 
 #### E3: Third Level
 
@@ -847,7 +855,7 @@ The stairs leading down are blocked by rubble. The stairs leading up have a door
 
 ##### Treasure
 
-The sword the spirit was trying to pick up is a [dancing longsword](3-Mechanics/CLI/items/dancing-sword.md). In addition, characters who search the remains in this room find six onyx gemstones worth 200 gp each.
+The sword the spirit was trying to pick up is a [dancing longsword](3-Mechanics/CLI/items/dancing-sword-xdmg.md). In addition, characters who search the remains in this room find six onyx gemstones worth 200 gp each.
 
 #### E4: Fourth Level
 
@@ -881,7 +889,7 @@ Once the characters enter the portal, they're in the Shadowfell, and they can se
 
 ##### Veriel
 
-An elf spirit appears and greets the characters, introducing himself as Veriel (lawful neutral [ghost](3-Mechanics/CLI/bestiary/undead/ghost.md)), Wakenreth's caretaker. He explains to the characters what happened to the tower (detailed in "The Doomed Mausoleum" at the beginning of the "E: Wakenreth" section). He knows nothing about the City of Lost Names or its location (as he's unaware Onyari was later called that). Veriel asks for the party's help in severing the link between Wakenreth and the Shadowfell, a feat that can be accomplished only from the other side of the portal. His time spent in the Shadowfell has linked him to this plane, and he can't pass through the portal.
+An elf spirit appears and greets the characters, introducing himself as Veriel (lawful neutral [ghost](3-Mechanics/CLI/bestiary/undead/ghost-xmm.md)), Wakenreth's caretaker. He explains to the characters what happened to the tower (detailed in "The Doomed Mausoleum" at the beginning of the "E: Wakenreth" section). He knows nothing about the City of Lost Names or its location (as he's unaware Onyari was later called that). Veriel asks for the party's help in severing the link between Wakenreth and the Shadowfell, a feat that can be accomplished only from the other side of the portal. His time spent in the Shadowfell has linked him to this plane, and he can't pass through the portal.
 
 ##### Undead Beast
 
@@ -895,7 +903,7 @@ As Veriel relays this information, an [anhkolox](3-Mechanics/CLI/bestiary/undead
 
 After the anhkolox is defeated, Veriel continues his explanation. To cut Wakenreth off from the Shadowfell, the runes on the portal in area E4 must be restored to their intended order, which Veriel shares with them.
 
-The runes on the portal can be adjusted only in area E4. The process takes five minutes and requires a character to make a DC 14 Constitution saving throw as Shadowfell energies tug at their life essence. On a failed check, the character takes 17 (`5d6`) necrotic damage and gains 1 level of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion), then the portal closes. On a successful check, the portal closes without harming the character. Either way, the portal's connection with the Shadowfell is severed.
+The runes on the portal can be adjusted only in area E4. The process takes five minutes and requires a character to make a DC 14 Constitution saving throw as Shadowfell energies tug at their life essence. On a failed check, the character takes `dice:5d6|noform|noparens|avg|text(17)` (`5d6`) necrotic damage and gains 1 level of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion), then the portal closes. On a successful check, the portal closes without harming the character. Either way, the portal's connection with the Shadowfell is severed.
 
 Once Wakenreth is cut off from the Shadowfell, the supernatural darkness in area E4 fades, the torch sconces throughout the structure shed bright light, and the walls are restored.
 
@@ -938,7 +946,7 @@ Grasha recently finished a pit trap just inside the mouth of the cave. She has b
 
 ##### Pit Trap
 
-The pit trap is concealed beneath rocky gravel that blends with the surrounding ground. As a character approaches the entrance, they must make a DC 15 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check. On a failed check, the character falls 20 feet into the pit, taking `2d6` bludgeoning damage from the fall and `2d10` piercing damage from the spikes at the bottom.
+The pit trap is concealed beneath rocky gravel that blends with the surrounding ground. As a character approaches the entrance, they must make a DC 15 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check. On a failed check, the character falls 20 feet into the pit, taking `dice:2d6|noform|noparens|avg` (`2d6`) bludgeoning damage from the fall and `dice:2d10|noform|noparens|avg` (`2d10`) piercing damage from the spikes at the bottom.
 
 Whether the trap is triggered or not, Grasha hears the characters approaching, and after confirming they aren't draconians, she comes out of hiding.
 
@@ -951,7 +959,7 @@ The leader of a dwarf family and an enthusiast of gnomish engineering, Grasha we
 - **Bond.** "I'll protect my family—their today and their tomorrow."  
 - **Flaw.** "Dangerous? My plans aren't dangerous—you just need to know where to stand."  
 
-![Grasha](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/082-05-006-grasha.webp#center)
+![Grasha](file://adventure/DSotDQ/082-05-006.grasha.webp#center)
 
 #### An Honest Mistake
 
@@ -983,7 +991,7 @@ Once the characters are ready, Grasha takes them to the entrance of Bluemaw Cave
 
 The cave is carved from igneous rock. Its entrance sports a cavernous 40-foot-high ceiling, and its lower chamber opens to the surface above. The lair also has the following features:
 
-- **Blue Crystals.** Glowing blue salt crystals line the cave's walls, most densely in area F1. Each 5-foot cube of crystal has AC 11, 15 hit points, immunity to poison and psychic damage, and vulnerability to thunder damage. The crystals are highly conductive to lightning energy, which a character can determine with a successful DC 13 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana) or [Nature](3-Mechanics/CLI/rules/skills.md#Nature)) check. If a crystal is dealt lightning damage, it explodes in a dazzling blast, dealing 7 (`2d6`) lightning damage to creatures within 10 feet of it.  
+- **Blue Crystals.** Glowing blue salt crystals line the cave's walls, most densely in area F1. Each 5-foot cube of crystal has AC 11, 15 hit points, immunity to poison and psychic damage, and vulnerability to thunder damage. The crystals are highly conductive to lightning energy, which a character can determine with a successful DC 13 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana) or [Nature](3-Mechanics/CLI/rules/skills.md#Nature)) check. If a crystal is dealt lightning damage, it explodes in a dazzling blast, dealing `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) lightning damage to creatures within 10 feet of it.  
 - **Lighting.** Crystals fill the upper level of the cave with dim light. The lower level opens to the surface, allowing natural bright light in during the daytime.  
 
 #### Bluemaw Cave Locations
@@ -991,8 +999,8 @@ The cave is carved from igneous rock. Its entrance sports a cavernous 40-foot-hi
 The following locations are keyed to map 5.5.
 
 > [!gallery]
-> ![Map 5.5: Bluemaw Cave](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/083-map-5-05-bluemaw-cave.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/084-map-5-05-bluemaw-cave-player.webp#gallery)
+> ![Map 5.5: Bluemaw Cave](file://adventure/DSotDQ/083-map-5.05-bluemaw-cave.webp#gallery)
+> ![Player Version](file://adventure/DSotDQ/084-map-5.05-bluemaw-cave-player.webp#gallery)
 
 #### F1: Crystal Cave
 
@@ -1005,7 +1013,7 @@ Investigation reveals the crystals to be salt, though they have special properti
 
 ##### Grick Pack
 
-The characters draw the attention of a pack of seven [gricks](3-Mechanics/CLI/bestiary/monstrosity/grick.md) hiding in cracks in the walls. They were riled up and ultimately scared off from the lower chamber by the draconians. They attack the first creature they see.
+The characters draw the attention of a pack of seven [gricks](3-Mechanics/CLI/bestiary/aberration/grick-xmm.md) hiding in cracks in the walls. They were riled up and ultimately scared off from the lower chamber by the draconians. They attack the first creature they see.
 
 The draconians in area F3 have heard other draconians slaying gricks around the cave, so they ignore the sound of fighting above.
 
@@ -1039,11 +1047,11 @@ A creature can pull another creature within its reach from the quicksand by usin
 
 ##### Grick Alpha
 
-If combat breaks out, a [grick alpha](3-Mechanics/CLI/bestiary/monstrosity/grick-alpha.md) and two [gricks](3-Mechanics/CLI/bestiary/monstrosity/grick.md) that were dozing in the sand emerge in a random space adjacent to the quicksand. They indiscriminately attack any creatures in the room.
+If combat breaks out, a [grick alpha](3-Mechanics/CLI/bestiary/aberration/grick-ancient-xmm.md) and two [gricks](3-Mechanics/CLI/bestiary/aberration/grick-xmm.md) that were dozing in the sand emerge in a random space adjacent to the quicksand. They indiscriminately attack any creatures in the room.
 
 ##### Treasure
 
-The draconians have removed much of the hoard's treasure, but some remains in the sacks here and hidden beneath the sand. The draconians have gathered 700 gp in their sacks. Searching for and safely extracting what remains takes approximately six hours, unless the characters use magical means to move the sand, in which case the time can be reduced at your discretion. The remaining hoard includes 1,200 cp, 8,000 sp, 2,300 gp, 60 pp, twelve assorted gems worth 50 gp each, an ornate chalice worth 1,000 gp, and a pair of [boots of levitation](3-Mechanics/CLI/items/boots-of-levitation.md).
+The draconians have removed much of the hoard's treasure, but some remains in the sacks here and hidden beneath the sand. The draconians have gathered 700 gp in their sacks. Searching for and safely extracting what remains takes approximately six hours, unless the characters use magical means to move the sand, in which case the time can be reduced at your discretion. The remaining hoard includes 1,200 cp, 8,000 sp, 2,300 gp, 60 pp, twelve assorted gems worth 50 gp each, an ornate chalice worth 1,000 gp, and a pair of [boots of levitation](3-Mechanics/CLI/items/boots-of-levitation-xdmg.md).
 
 #### Victory!
 
@@ -1064,11 +1072,11 @@ As characters near Heart's Hollow (or whenever you wish to introduce [Clystran](
 > Water rushes into the canyon ahead, rising swiftly. The sudden flooding has spurred creatures to seek higher ground—including a human in rugged leathers rapidly climbing a rope out of the chasm, pursued by several horse-sized spiders.
 ^2e1
 
-[Clystran](3-Mechanics/CLI/bestiary/npc/clystran-dsotdq.md) (neutral good, human [scout](3-Mechanics/CLI/bestiary/humanoid/scout.md)) is being pursued by five [giant spiders](3-Mechanics/CLI/bestiary/beast/giant-spider.md) as the canyon floods (see "The Wash" earlier in this chapter). You decide whether the characters are in the canyon as well or above it. The giant spiders turn their attention toward the characters if attacked, and they flee if three or more spiders are killed.
+[Clystran](3-Mechanics/CLI/bestiary/npc/clystran-dsotdq.md) (neutral good, human [scout](3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md)) is being pursued by five [giant spiders](3-Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) as the canyon floods (see "The Wash" earlier in this chapter). You decide whether the characters are in the canyon as well or above it. The giant spiders turn their attention toward the characters if attacked, and they flee if three or more spiders are killed.
 
 After the spiders are defeated, [Clystran](3-Mechanics/CLI/bestiary/npc/clystran-dsotdq.md) proves friendly—and tremendously excited to meet strangers in the Northern Wastes.
 
-![Clystran](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/085-05-007-clystran.webp#center)
+![Clystran](file://adventure/DSotDQ/085-05-007.clystran.webp#center)
 
 #### Clystran
 
@@ -1105,13 +1113,13 @@ So long as the characters aren't hostile to [Clystran](3-Mechanics/CLI/bestiary/
 Most structures in Heart's Hollow are carved out of the wall of a deep crater. Patchwork fabrics scavenged from the wastes decorate each home, and lanterns hang in every window. Detail the unique community of Heart's Hollow however you please, including the following locations and landmarks (appearing on map 5.6):
 
 > [!gallery]
-> ![Map 5.6: Hearts Hollow](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/086-map-5-06-hearts-hollow.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/087-map-5-06-hearts-hollow-player.webp#gallery)
+> ![Map 5.6: Hearts Hollow](file://adventure/DSotDQ/086-map-5.06-hearts-hollow.webp#gallery)
+> ![Player Version](file://adventure/DSotDQ/087-map-5.06-hearts-hollow-player.webp#gallery)
 
 - **Breakwater Landing.** Breakwater Landing serves as the town square and bartering place. A slate column marked with chalk serves as a community message board.  
-- **End's Odds.** Run by Grandit "End" Pike (neutral good, hill dwarf [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md)), End's Odds sells "slightly used" goods and equipment found in the wastes.  
+- **End's Odds.** Run by Grandit "End" Pike (neutral good, hill dwarf [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), End's Odds sells "slightly used" goods and equipment found in the wastes.  
 - **The Fort.** Secrecy is Heart's Hollow's greatest defense, but the town also maintains the Fort, a communal warehouse and armory. Should danger arise, the locals arm themselves here.  
-- **Lavender's.** Lavender Jalls (lawful neutral, human [mage](3-Mechanics/CLI/bestiary/humanoid/mage.md)) is a renegade wizard who hasn't taken the Test of High Sorcery. He specializes in casting helpful cantrips and brewing alchemical tinctures.  
+- **Lavender's.** Lavender Jalls (lawful neutral, human [mage](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md)) is a renegade wizard who hasn't taken the Test of High Sorcery. He specializes in casting helpful cantrips and brewing alchemical tinctures.  
 - **The Mosaic.** Spiraling through Heart's Hollow is the Mosaic, a sloped pathway lined with colorful stones. Every person who visits the village is invited to add a stone to the path, symbolizing the beautiful mark they leave on the community.  
 - **Salt Lick.** The Salt Lick is a popular tavern suspended over open air by a web of sturdy cords. Ness (see "Nezrah" below) can often be found here at a table jokingly called "the Mayor's Office."  
 
@@ -1121,7 +1129,7 @@ The lively people of Heart's Hollow are mainly humans, hill dwarves, and kender.
 
 #### Nezrah
 
-The secretive dragon Nezrah (neutral good [adult bronze dragon](3-Mechanics/CLI/bestiary/dragon/adult-bronze-dragon.md)) goes by the name Ness. She uses her magic to disguise herself as a middle-aged human woman, and no one knows she's a dragon.
+The secretive dragon Nezrah (neutral good [adult bronze dragon](3-Mechanics/CLI/bestiary/dragon/adult-bronze-dragon-xmm.md)) goes by the name Ness. She uses her magic to disguise herself as a middle-aged human woman, and no one knows she's a dragon.
 
 Nezrah has made it her life's mission to build and protect Heart's Hollow. Over a hundred years ago, she came to the Northern Wastes seeking clutches of good dragon eggs hidden in the region, but she hasn't found any yet. Although she focuses on protecting the people of Heart's Hollow, she still hopes to find dragon eggs in the wastes one day.
 
@@ -1137,7 +1145,7 @@ A group of scavengers have heard of Bluemaw Cave (location F on map 5.1), an out
 
 #### Carrionclay Discovery
 
-No one in Heart's Hollow knows about Camp Carrionclay (location I on map 5.1). However, if the characters recover the dragon egg there and return to Heart's Hollow, Ness urgently seeks them out. She pleads for the egg, swearing to keep it safe. She'll even reveal her true nature to the characters if she needs to convince them she'll be a worthy guardian, but she won't threaten or harm them. If the characters agree to give her the egg, she rewards them with a suit of [bronze dragon scale mail](3-Mechanics/CLI/items/bronze-dragon-scale-mail.md) made from her own scales. She won't interfere in the conflict with the Dragon Army, though.
+No one in Heart's Hollow knows about Camp Carrionclay (location I on map 5.1). However, if the characters recover the dragon egg there and return to Heart's Hollow, Ness urgently seeks them out. She pleads for the egg, swearing to keep it safe. She'll even reveal her true nature to the characters if she needs to convince them she'll be a worthy guardian, but she won't threaten or harm them. If the characters agree to give her the egg, she rewards them with a suit of [bronze dragon scale mail](3-Mechanics/CLI/items/bronze-dragon-scale-mail-xdmg.md) made from her own scales. She won't interfere in the conflict with the Dragon Army, though.
 
 #### Dragonnel Feeding
 
@@ -1191,8 +1199,8 @@ It's difficult to infiltrate Camp Carrionclay. Here are some ways the characters
 The following locations are keyed to map 5.7.
 
 > [!gallery]
-> ![Map 5.7: Camp Carrionclay](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/088-map-5-07-camp-carrionclay.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/089-map-5-07-camp-carrionclay-player.webp#gallery)
+> ![Map 5.7: Camp Carrionclay](file://adventure/DSotDQ/088-map-5.07-camp-carrionclay.webp#gallery)
+> ![Player Version](file://adventure/DSotDQ/089-map-5.07-camp-carrionclay-player.webp#gallery)
 
 #### I1: Wooden Bridge and Lake
 
@@ -1201,7 +1209,7 @@ The following locations are keyed to map 5.7.
 > A wooden bridge crosses the marshy lake, which reeks with decay. The bridge ends at the camp's gate.
 ^2f8
 
-When the Wash is low, the lake surrounding the camp becomes a marsh filled with marine-animal carcasses and swamp plants, making the area "difficult terrain". When the Wash is high, creatures can swim across the lake, but there is a 50 percent chance they are attacked by a [swarm of quippers](3-Mechanics/CLI/bestiary/beast/swarm-of-quippers.md).
+When the Wash is low, the lake surrounding the camp becomes a marsh filled with marine-animal carcasses and swamp plants, making the area "difficult terrain". When the Wash is high, creatures can swim across the lake, but there is a 50 percent chance they are attacked by a [swarm of quippers](3-Mechanics/CLI/bestiary/beast/swarm-of-piranhas-xmm.md).
 
 #### I2: Main Entrance
 
@@ -1236,7 +1244,7 @@ If a sentry atop the watchtower spots suspicious individuals—such as those not
 > Four dilapidated iron prison pens hold prisoners of the Dragon Army. Bloodstains spatter the ground beneath and around the cages.
 ^300
 
-The draconians keep prisoners in these cages. If the characters are captured, they're imprisoned in a cage with Kennah. The cages are guarded by three [baaz draconians](3-Mechanics/CLI/bestiary/monstrosity/baaz-draconian-dsotdq.md) (see appendix B) and Urta, a [hobgoblin captain](3-Mechanics/CLI/bestiary/humanoid/hobgoblin-captain.md) who serves as jailer.
+The draconians keep prisoners in these cages. If the characters are captured, they're imprisoned in a cage with Kennah. The cages are guarded by three [baaz draconians](3-Mechanics/CLI/bestiary/monstrosity/baaz-draconian-dsotdq.md) (see appendix B) and Urta, a [hobgoblin captain](3-Mechanics/CLI/bestiary/fey/hobgoblin-captain-xmm.md) who serves as jailer.
 
 ##### Cages
 
@@ -1248,7 +1256,7 @@ Two cages confine three Dimernesti sea elves, members of a group seeking the Blu
 
 ##### Bulette
 
-One cage holds a recently captured [bulette](3-Mechanics/CLI/bestiary/monstrosity/bulette.md). It's hostile to everyone. If freed, it goes on a rampage, attacking anyone and retreating into the ground once reduced to 15 hit points or fewer.
+One cage holds a recently captured [bulette](3-Mechanics/CLI/bestiary/monstrosity/bulette-xmm.md). It's hostile to everyone. If freed, it goes on a rampage, attacking anyone and retreating into the ground once reduced to 15 hit points or fewer.
 
 ##### Kennah
 
@@ -1261,7 +1269,7 @@ One cage houses Kennah, a [kender skirmisher](3-Mechanics/CLI/bestiary/humanoid/
 > This hut is larger than the others in the camp. It's made of hides stretched over a wooden frame, with bone spikes protruding from the ground around it.
 ^306
 
-This hut belongs to Fewmaster Zirrok, the [hobgoblin warlord](3-Mechanics/CLI/bestiary/humanoid/hobgoblin-warlord.md) in charge of the camp. Zirrok rarely leaves it. The hut is guarded by two [sivak draconians](3-Mechanics/CLI/bestiary/monstrosity/sivak-draconian-dsotdq.md) (see appendix B). Inside is a cot, a desk, and an ornate chest.
+This hut belongs to Fewmaster Zirrok, the [hobgoblin warlord](3-Mechanics/CLI/bestiary/fey/hobgoblin-warlord-xmm.md) in charge of the camp. Zirrok rarely leaves it. The hut is guarded by two [sivak draconians](3-Mechanics/CLI/bestiary/monstrosity/sivak-draconian-dsotdq.md) (see appendix B). Inside is a cot, a desk, and an ornate chest.
 
 ##### Desk
 
@@ -1273,7 +1281,7 @@ Opening this chest requires either the key held by Fewmaster Zirrok or a success
 
 ##### Treasure
 
-The desk holds two [potions of greater healing](3-Mechanics/CLI/items/potion-of-greater-healing.md) and a [pouch](3-Mechanics/CLI/items/pouch.md) containing 300 gp.
+The desk holds two [potions of greater healing](3-Mechanics/CLI/items/potion-of-greater-healing-xdmg.md) and a [pouch](3-Mechanics/CLI/items/pouch-xphb.md) containing 300 gp.
 
 #### Wings of Death
 
@@ -1284,7 +1292,7 @@ The following event occurs once the characters recover the bronze dragon egg or 
 > Flapping wings sound above as a hulking creature with black scales descends, roaring as it lands atop the watchtower.
 ^30b
 
-The creature is Akhviri, an [adult black dragon](3-Mechanics/CLI/bestiary/dragon/adult-black-dragon.md) tasked with retrieving the dragon egg for [Belephaion](3-Mechanics/CLI/bestiary/npc/belephaion-dsotdq.md). If the characters haven't left evidence of their presence, Akhviri waits for Fewmaster Zirrok to bring the chest from his tent to the watchtower.
+The creature is Akhviri, an [adult black dragon](3-Mechanics/CLI/bestiary/dragon/adult-black-dragon-xmm.md) tasked with retrieving the dragon egg for [Belephaion](3-Mechanics/CLI/bestiary/npc/belephaion-dsotdq.md). If the characters haven't left evidence of their presence, Akhviri waits for Fewmaster Zirrok to bring the chest from his tent to the watchtower.
 
 ##### True Dragon
 
@@ -1305,11 +1313,11 @@ At this point in the adventure, the characters aren't prepared to fight Akhviri 
 
 After the characters conclude their business at Wakenreth, [Dalamar](3-Mechanics/CLI/bestiary/npc/dalamar-dsotdq.md) requests they escort him here.
 
-Dread Wolf Cove is usually an unassuming inlet along the coast. However, the cove is lightly obscured by fog that billows from a nearby cave. If the characters enter, they encounter a wolflike [anhkolox](3-Mechanics/CLI/bestiary/undead/anhkolox-dsotdq.md) (see appendix B). Should the characters battle the monster, [Dalamar](3-Mechanics/CLI/bestiary/npc/dalamar-dsotdq.md) (neutral elf [mage](3-Mechanics/CLI/bestiary/humanoid/mage.md)) aids them.
+Dread Wolf Cove is usually an unassuming inlet along the coast. However, the cove is lightly obscured by fog that billows from a nearby cave. If the characters enter, they encounter a wolflike [anhkolox](3-Mechanics/CLI/bestiary/undead/anhkolox-dsotdq.md) (see appendix B). Should the characters battle the monster, [Dalamar](3-Mechanics/CLI/bestiary/npc/dalamar-dsotdq.md) (neutral elf [mage](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md)) aids them.
 
 #### Shard of Darkness
 
-Once the anhkolox is destroyed, a character who searches the cave finds the source of the fog: a rounded piece of broken black glass. The fog ceases if the glass is touched, and it clears a minute later. A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals the shard emanates an aura of enchantment magic. A character who succeeds on a DC 20 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check realizes the glass is a remnant of a destroyed [Orb of Dragonkind](3-Mechanics/CLI/items/orb-of-dragonkind.md) (detailed in the "Dungeon Master's Guide"). The shattered, incomplete artifact has no properties in its current state.
+Once the anhkolox is destroyed, a character who searches the cave finds the source of the fog: a rounded piece of broken black glass. The fog ceases if the glass is touched, and it clears a minute later. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals the shard emanates an aura of enchantment magic. A character who succeeds on a DC 20 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check realizes the glass is a remnant of a destroyed [Orb of Dragonkind](3-Mechanics/CLI/items/orb-of-dragonkind-xdmg.md) (detailed in the "Dungeon Master's Guide"). The shattered, incomplete artifact has no properties in its current state.
 
 [Dalamar](3-Mechanics/CLI/bestiary/npc/dalamar-dsotdq.md) recognizes the shard immediately but pretends not to. He hasn't decided whether he wants it to aid his people or for his own studies. A character who succeeds on a DC 17 Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check realizes [Dalamar](3-Mechanics/CLI/bestiary/npc/dalamar-dsotdq.md) recognizes the shard. If pressed, [Dalamar](3-Mechanics/CLI/bestiary/npc/dalamar-dsotdq.md) reveals the shard's nature and his intention to have it. [Dalamar](3-Mechanics/CLI/bestiary/npc/dalamar-dsotdq.md) won't attack the characters for the shard, but he will bargain for it now or concoct a way to steal it later. [Dalamar](3-Mechanics/CLI/bestiary/npc/dalamar-dsotdq.md)'s schemes don't have ramifications for the rest of the adventure, and you can develop them as you please.
 
@@ -1391,8 +1399,8 @@ The battlefield, depicted on map 5.8, has the following features:
 - **Fray.** The 15-foot-wide area marked by the design at the edge of the map represents areas from which danger might appear.  
 
 > [!gallery]
-> ![Map 5.8: Attack On Winds End](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/090-map-5-08-attack-on-winds-end.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/091-map-5-08-attack-on-winds-end-player.webp#gallery)
+> ![Map 5.8: Attack On Winds End](file://adventure/DSotDQ/090-map-5.08-attack-on-winds-end.webp#gallery)
+> ![Player Version](file://adventure/DSotDQ/091-map-5.08-attack-on-winds-end-player.webp#gallery)
 
 #### Wind's End Battlefield Events
 
@@ -1400,12 +1408,14 @@ During each round of this encounter, roll on the Wind's End Battlefield Events t
 
 **Wind's End Battlefield Events**
 
+`dice: [](06-chapter-5-the-northern-wastes.md#^winds-end-battlefield-events)`
+
 | dice: d10 | Event |
 |-----------|-------|
-| 1–4 | A [Dragon Army officer](3-Mechanics/CLI/bestiary/humanoid/dragon-army-officer-dsotdq.md) (see appendix B) on a dragonnel flies overhead, firing a heavy crossbow at the character closest to the Fray. The attack has a +4 bonus to hit and deals 7 (`1d10 + 2`) piercing damage plus 5 (`1d10`) fire damage on a hit. |
+| 1–4 | A [Dragon Army officer](3-Mechanics/CLI/bestiary/humanoid/dragon-army-officer-dsotdq.md) (see appendix B) on a dragonnel flies overhead, firing a heavy crossbow at the character closest to the Fray. The attack has a `dice:1d20+4\|noform\|noparens\|text(+4)` bonus to hit and deals `dice:1d10+2\|noform\|noparens\|avg\|text(7)` (`1d10 + 2`) piercing damage plus `dice:1d10\|noform\|noparens\|avg\|text(5)` (`1d10`) fire damage on a hit. |
 | 5–7 | A dragonnel roars and strafes the battlefield, throwing up a cloud of dust. For the next round, the battlefield is heavily obscured. |
 | 8–9 | Two [Dragon Army soldiers](3-Mechanics/CLI/bestiary/humanoid/dragon-army-soldier-dsotdq.md) (see appendix B) arrive, appearing in unoccupied spaces adjacent to the Fray near a random player character. |
-| 10 | A dead dragonnel falls from the sky, crashing in a 10-foot area centered on a random player character who isn't in the dragonnel pens. Each creature in the crash area must succeed on a DC 14 Dexterity saving throw or take 33 (`6d10`) bludgeoning damage and be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone). If all characters are in the dragonnel pens, reroll on this table. |
+| 10 | A dead dragonnel falls from the sky, crashing in a 10-foot area centered on a random player character who isn't in the dragonnel pens. Each creature in the crash area must succeed on a DC 14 Dexterity saving throw or take `dice:6d10\|noform\|noparens\|avg\|text(33)` (`6d10`) bludgeoning damage and be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone). If all characters are in the dragonnel pens, reroll on this table. |
 ^winds-end-battlefield-events
 
 #### Passage
@@ -1418,4 +1428,4 @@ The characters entering the passage in Wind's End concludes this chapter and mak
 
 The characters will discover what dangers lie beyond this passage in chapter 6.
 
-![The Dragon Army blocks the...](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/092-05-008-dragon-army-blockade.webp#center "The Dragon Army blocks the path leading to the City of Lost Names")
+![The Dragon Army blocks the path leading to the City of Lost Names](file://adventure/DSotDQ/092-05-008.dragon-army-blockade.webp#center)

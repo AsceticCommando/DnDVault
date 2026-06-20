@@ -18,7 +18,7 @@ Dragons are deeply connected to the worlds in which they dwell. The magic of the
 
 ""What's in a Hoard?"" provides tables to determine the contents of a dragon's hoard, expanding on the treasure tables in the "Dungeon Master's Guide".
 
-![Fizban argues with a smug ...](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/033-04-001-chapter-splash.webp#center "Fizban argues with a smug statue in the lair of an amused brass dragon")
+![Fizban argues with a smug statue in the lair of an amused brass dragon](file://book/FTD/033-04-001.chapter-splash.webp#center)
 
 ## Dragon Lairs
 
@@ -46,7 +46,7 @@ Plant growth creates "difficult terrain", sinkholes appear, and hedge mazes or i
 
 **Exposing Terrain**. The terrain within 6 miles of the lair actively works to foil stealth, giving creatures other than the dragon disadvantage on Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) checks. Leaves change color to contrast with those trying to hide among them, branches move to reveal creatures, fog clears, and so on.
 
-**Smooth Roads**. Difficult terrain within 12 miles of the dragon's lair is not considered difficult, as undergrowth moves out of a traveler's way, slopes are not as steep as they first appeared, and rough ground levels out under a traveler's feet.
+**Smooth Roads**. difficult terrain within 12 miles of the dragon's lair is not considered difficult, as undergrowth moves out of a traveler's way, slopes are not as steep as they first appeared, and rough ground levels out under a traveler's feet.
 
 **Wilderness Hazards**. Any of the "wilderness hazards" described in the "Dungeon Master's Guide" might manifest near the dragon's lair.
 
@@ -76,13 +76,13 @@ A dragon's presence can alter the behavior or physical characteristics of creatu
 
 **Draconic Tint**. Creatures that live within 6 miles of the lair develop coloration similar to the dragon's.
 
-**Pervasive Influence**. People dwelling within 12 miles of the dragon's lair develop personality traits inspired by the dragon—heightened suspicion, garrulousness, greed, placidity, or the like. Individuals manifest these tendencies in different ways and to different degrees. If the dragon dies or leaves the area, these traits fade over `1d10` days.
+**Pervasive Influence**. People dwelling within 12 miles of the dragon's lair develop personality traits inspired by the dragon—heightened suspicion, garrulousness, greed, placidity, or the like. Individuals manifest these tendencies in different ways and to different degrees. If the dragon dies or leaves the area, these traits fade over `dice:1d10|noform|noparens|avg` (`1d10`) days.
 
 #### Planar Connections
 
 The powerful magic bound up in a dragon's lair can forge connections to other worlds of the Material Plane or even other planes of existence. Magic portals to the Elemental Plane of Fire often appear around a red dragon's lair, for example, and the lairs of crystal and topaz dragons are suffused with positive and negative energy, respectively. Other planar connections that might appear around a dragon's lair include the following effects:
 
-**Draconic Blessing**. Bahamut or Tiamat has placed the lair under the effect of a [hallow](3-Mechanics/CLI/spells/hallow.md) spell.
+**Draconic Blessing**. Bahamut or Tiamat has placed the lair under the effect of a [hallow](3-Mechanics/CLI/spells/hallow-xphb.md) spell.
 
 **Planar Portals**. Fissures, archways, or tunnels within 1 mile of the dragon's lair form magic portals to an appropriate Elemental Plane.
 
@@ -90,7 +90,7 @@ The powerful magic bound up in a dragon's lair can forge connections to other wo
 
 #### Dragon Magic
 
-Regional effects sometimes give dragons unusual magical capabilities. For example, gold dragons can appear in the dreams of creatures that sleep near their lairs, green dragons can't be tracked near their lairs, brass dragons are aware of creatures that come near water in their territory, and gem dragons can use [clairvoyance](3-Mechanics/CLI/spells/clairvoyance.md) to observe particular features near their lairs. Similar effects include the following examples:
+Regional effects sometimes give dragons unusual magical capabilities. For example, gold dragons can appear in the dreams of creatures that sleep near their lairs, green dragons can't be tracked near their lairs, brass dragons are aware of creatures that come near water in their territory, and gem dragons can use [clairvoyance](3-Mechanics/CLI/spells/clairvoyance-xphb.md) to observe particular features near their lairs. Similar effects include the following examples:
 
 **Death Warning**. The dragon is instantly aware of the death of any creature within 1 mile of its lair and can review the last moments of the creature's life as seen through the creature's eyes.
 
@@ -112,11 +112,11 @@ Regional effects around a dragon's lair might involve only minor visual or audit
 
 Like regional effects, a dragon's lair actions reflect an intimate connection to the magical energy that flows through and around the lair. The broad scope of that magic means that a dragon need not be limited to the lair actions described in the "Monster Manual" and "chapter 6" of this book. "Chapter 5" of this book offers suggestions for additional lair actions for various kinds of dragon, which are tailored to those dragons and the example lair maps found in that chapter. Additional lair actions that might apply to any dragon in any lair include the following:
 
-**Catch Breath**. The dragon rolls a `d6`. On a 6, it recharges its breath weapon action.
+**Catch Breath**. The dragon rolls a `dice:d6|noform|noparens|avg` (`d6`). On a 6, it recharges its breath weapon action.
 
 **Lair Rejuvenation**. The dragon regains hit points equal to the number of Hit Dice it has by drawing on the magical energy suffusing its lair.
 
-**Lingering Breath**. Any creature that took damage from the dragon's breath weapon on the dragon's previous turn immediately takes 10 (`3d6`) damage of that type, as the breath weapon's energy lingers and clings to its targets.
+**Lingering Breath**. Any creature that took damage from the dragon's breath weapon on the dragon's previous turn immediately takes `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) damage of that type, as the breath weapon's energy lingers and clings to its targets.
 
 **Toughened Scales**. Glowing magical energy swirls across the dragon's scales, granting the dragon resistance to bludgeoning, piercing, and slashing damage until initiative count 20 on the next round.
 
@@ -149,7 +149,7 @@ Wyrmling dragons begin acquiring hoards as soon as they can fly, but their small
 
 As dragons transition from wyrmling to young age, at around five years, they also begin to look for their first permanent lairs and amass more substantial hoards, which grow in value to many thousands of gold pieces. Young dragons keep their hoards safe in the same central location where they sleep. Such dragons typically do not yet impose regional effects, but these effects might begin to manifest as the dragons' connections to their lairs develop. You can add regional effects and even lair actions to young dragons, particularly for dragons who have acquired an unusually large hoard. These dragons might not be old enough to fully step into the power of an adult, but gathering such a hoard makes them more powerful than other dragons of a similar age.
 
-![An ancient dragon's hoard ...](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/034-04-002-an-ancient-dragons-hoard.webp#center "An ancient dragon's hoard can hold enough wealth to cause the rise and the ruin of dynasties")
+![An ancient dragon's hoard can hold enough wealth to cause the rise and the ruin of dynasties](file://book/FTD/034-04-002.an-ancient-dragons-hoard.webp#center)
 
 #### Adult Dragons
 
@@ -205,7 +205,7 @@ The regional effects associated with legendary dragons' lairs are channeled into
 
 #### Haunted Hoards
 
-It's not unusual for one or more items in a dragon's hoard to be haunted. Restless spirits might haunt objects that held special significance to them in life, and the death of the dragon who stole those items might be an opportunity for such spirits to find rest at last. A haunting spirit might fully manifest as a [ghost](3-Mechanics/CLI/bestiary/undead/ghost.md), a [specter](3-Mechanics/CLI/bestiary/undead/specter.md), a [wraith](3-Mechanics/CLI/bestiary/undead/wraith.md), or a similar creature, or it might give the haunted item the characteristics of a sentient magic item.
+It's not unusual for one or more items in a dragon's hoard to be haunted. Restless spirits might haunt objects that held special significance to them in life, and the death of the dragon who stole those items might be an opportunity for such spirits to find rest at last. A haunting spirit might fully manifest as a [ghost](3-Mechanics/CLI/bestiary/undead/ghost-xmm.md), a [specter](3-Mechanics/CLI/bestiary/undead/specter-xmm.md), a [wraith](3-Mechanics/CLI/bestiary/undead/wraith-xmm.md), or a similar creature, or it might give the haunted item the characteristics of a sentient magic item.
 
 The most certain way to end a haunting is to complete the unfinished business that keeps a spirit bound to the mortal world. In the case of a haunted hoard, you can use the Unfinished Business table to help you decide what that might be.
 
@@ -219,7 +219,7 @@ Use the Hoard Curse Effects table to inspire possible effects for a dragon's lin
 
 ![A Dragon's Curse; Hoard Curse Effects](3-Mechanics/CLI/tables/a-dragons-curse-hoard-curse-effects-ftd.md)
 
-In general, ending the curse on a dragon's hoard is not as simple as casting a single spell. Magic can offer temporary respite, though. A [remove curse](3-Mechanics/CLI/spells/remove-curse.md) spell cast on any affected character suppresses the effect of the curse for 1 hour, while a [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md) spell suppresses the curse until the victim finishes a long rest.
+In general, ending the curse on a dragon's hoard is not as simple as casting a single spell. Magic can offer temporary respite, though. A [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md) spell cast on any affected character suppresses the effect of the curse for 1 hour, while a [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md) spell suppresses the curse until the victim finishes a long rest.
 
 Returning the entire hoard to the dragon's lair ends the curse, but removing even a single coin activates it again. Short of the drastic step of abandoning the treasure, gathering the entire hoard together and performing some specific rite can end the curse. Such a rite might involve any or all of the elements suggested on the Breaking a Hoard Curse table.
 
@@ -233,7 +233,7 @@ Shadowy cults, reclusive scholars, rival adventurers, and mysterious organizatio
 
 ![Competition for a Hoard; Hoard Magic](3-Mechanics/CLI/tables/competition-for-a-hoard-hoard-magic-ftd.md)
 
-![While a dragon slumbers, a...](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/035-04-003-skilled-burglar.webp#center "While a dragon slumbers, a skilled burglar might be able to make off with a treasure or two, but looting the entire hoard is another matter")
+![While a dragon slumbers, a skilled burglar might be able to make off with a treasure or two, but looting the entire hoard is another matter](file://book/FTD/035-04-003.skilled-burglar.webp#center)
 
 ## What's in a Hoard?
 
@@ -269,7 +269,7 @@ You can determine the specific magic items found in a dragon's hoard in one of t
 
 As described in "Xanathar's Guide to Everything", the items found on [Magic Item Table A](3-Mechanics/CLI/tables/magic-item-table-a.md) through [Magic Item Table E](3-Mechanics/CLI/tables/magic-item-table-e.md) in the "Dungeon Master's Guide" are minor items, a category that includes common items, potions and scrolls (which can be used only once), and other items whose impact on the game is minor or utilitarian. The items on [Magic Item Table F](3-Mechanics/CLI/tables/magic-item-table-f.md) through [Magic Item Table I](3-Mechanics/CLI/tables/magic-item-table-i.md) are major items: permanent items that can have significant long-term impact on the game.
 
-![Green dragons are poison—f...](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/036-04-004-green-dragons-are-poison.webp#center "Green dragons are poison—from their blood and fangs to the wispy gases of their breath and the sinister insinuations they whisper to the weak-willed")
+![Green dragons are poison—from their blood and fangs to the wispy gases of their breath and the sinister insinuations they whisper to the weak-willed](file://book/FTD/036-04-004.green-dragons-are-poison.webp#center)
 
 ### Creating a Hoard
 
@@ -283,13 +283,13 @@ A dragon's hoard contains each of the items listed for the dragon's age category
 
 140 (`4d6 × 10`) gp
 
-3 (`1d6`) mundane items
+3 (`dice:1d6|noform|noparens|avg` (`1d6`)) mundane items
 
-9 (`2d8`) gems
+9 (`dice:2d8|noform|noparens|avg` (`2d8`)) gems
 
-2 (`1d4`) art objects
+2 (`dice:1d4|noform|noparens|avg` (`1d4`)) art objects
 
-4 (`1d8`) magic items
+4 (`dice:1d8|noform|noparens|avg` (`1d8`)) magic items
 
 #### Adult Dragon Hoards
 
@@ -301,13 +301,13 @@ A dragon's hoard contains each of the items listed for the dragon's age category
 
 3,500 (`10d6 × 100`) pp
 
-7 (`2d6`) mundane items
+7 (`dice:2d6|noform|noparens|avg` (`2d6`)) mundane items
 
-21 (`6d6`) gems
+21 (`dice:6d6|noform|noparens|avg` (`6d6`)) gems
 
-10 (`3d6`) art objects
+10 (`dice:3d6|noform|noparens|avg` (`3d6`)) art objects
 
-4 (`1d8`) magic items
+4 (`dice:1d8|noform|noparens|avg` (`1d8`)) magic items
 
 #### Young Dragon Hoards
 
@@ -319,13 +319,13 @@ A dragon's hoard contains each of the items listed for the dragon's age category
 
 210 (`6d6 × 10`) pp
 
-4 (`1d8`) mundane items
+4 (`dice:1d8|noform|noparens|avg` (`1d8`)) mundane items
 
-21 (`6d6`) gems
+21 (`dice:6d6|noform|noparens|avg` (`6d6`)) gems
 
-5 (`2d4`) art objects
+5 (`dice:2d4|noform|noparens|avg` (`2d4`)) art objects
 
-4 (`1d8`) magic items
+4 (`dice:1d8|noform|noparens|avg` (`1d8`)) magic items
 
 #### Ancient Dragon Hoards
 
@@ -337,19 +337,19 @@ A dragon's hoard contains each of the items listed for the dragon's age category
 
 42,000 (`12d6 × 1,000`) pp
 
-9 (`2d8`) mundane items
+9 (`dice:2d8|noform|noparens|avg` (`2d8`)) mundane items
 
-21 (`6d6`) gems
+21 (`dice:6d6|noform|noparens|avg` (`6d6`)) gems
 
-11 (`2d10`) art objects
+11 (`dice:2d10|noform|noparens|avg` (`2d10`)) art objects
 
-7 (`2d6`) magic items
+7 (`dice:2d6|noform|noparens|avg` (`2d6`)) magic items
 
-![](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/037-04-005-gold-coins.webp#center)
+![](file://book/FTD/037-04-005.gold-coins.webp#center)
 
 ![Creating a Hoard; Hoard Mundane Items](3-Mechanics/CLI/tables/creating-a-hoard-hoard-mundane-items-ftd.md)
 
-![Trying to loot a dragon's ...](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/038-04-006-trying-to-loot.webp#center "Trying to loot a dragon's hoard without waking its owner is a reckless endeavor")
+![Trying to loot a dragon's hoard without waking its owner is a reckless endeavor](file://book/FTD/038-04-006.trying-to-loot.webp#center)
 
 ![Creating a Hoard; Hoard Gems](3-Mechanics/CLI/tables/creating-a-hoard-hoard-gems-ftd.md)
 

@@ -16,7 +16,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Spirit Troll"
 ---
-# [Spirit Troll](3-Mechanics\CLI\bestiary\giant/spirit-troll-mpmm.md)
+# [Spirit Troll](3-Mechanics/CLI/bestiary/giant/spirit-troll-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 247, Mordenkainen's Tome of Foes p. 244*  
 
 A troll blasted with psychic energy can take a non physical form upon regenerating. The troll's psyche survives, but the body is as insubstantial as shadow. The troll might be unaware of the transition—the creature still moves and attacks with teeth and claws as ever—but now the troll strikes at victims' minds.
@@ -88,7 +88,7 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/giant/token/spirit-troll-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Spirit%20Troll.webp"
 ```
 ^statblock
 

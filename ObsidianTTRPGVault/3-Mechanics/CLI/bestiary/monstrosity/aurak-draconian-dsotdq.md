@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Aurak Draconian"
 ---
-# [Aurak Draconian](3-Mechanics\CLI\bestiary\monstrosity/aurak-draconian-dsotdq.md)
+# [Aurak Draconian](3-Mechanics/CLI/bestiary/monstrosity/aurak-draconian-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 196*  
 
 Created from the eggs of gold dragons, aurak draconians are the most powerful of draconians, their entire being thrumming with eldritch power. Unlike other draconians, auraks are wingless. This might lull foes into a false sense of security, until the auraks exhale noxious fumes resembling those of their dragon progenitors. Auraks are masterminds and strategists that serve as commanders in the Dragon Armies. They often lead contingents of less powerful draconians. When slain, aurak draconians unleash their inherent magic in a deadly burst of lightning.
@@ -85,13 +85,14 @@ Draconians are bipedal monsters born from metallic dragon eggs that have been co
     "name": "Noxious Breath (Recharge 5-6)"
   - "desc": "The draconian casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 14):\n\
-      \n**At will:** [invisibility](3-Mechanics/CLI/spells/invisibility.md), [mage\
-      \ hand](3-Mechanics/CLI/spells/mage-hand.md)\n\n**2/day each:** [dimension door](3-Mechanics/CLI/spells/dimension-door.md),\
-      \ [disguise self](3-Mechanics/CLI/spells/disguise-self.md), [sending](3-Mechanics/CLI/spells/sending.md)\n\
-      \n**1/day:** [dominate person](3-Mechanics/CLI/spells/dominate-person.md)"
+      \n**At will:** [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md),\
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md)\n\n**2/day each:** [dimension\
+      \ door](3-Mechanics/CLI/spells/dimension-door-xphb.md), [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md),\
+      \ [sending](3-Mechanics/CLI/spells/sending-xphb.md)\n\n**1/day:** [dominate\
+      \ person](3-Mechanics/CLI/spells/dominate-person-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/aurak-draconian-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Aurak%20Draconian.webp"
 ```
 ^statblock

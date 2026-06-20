@@ -11,12 +11,12 @@ aliases:
 
 ## Cantrip
 
-- [Thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy.md "PHB") at class level 5
+- [Thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md "XPHB") as cantrip
 
 ## 1st Level
 
-- [Ray of Sickness](3-Mechanics/CLI/spells/ray-of-sickness.md "PHB") at class level 5
+- [Ray of Sickness](3-Mechanics/CLI/spells/ray-of-sickness-xphb.md "XPHB") as 2nd-level, at class level 3
 
 ## 2nd Level
 
-- [Crown of Madness](3-Mechanics/CLI/spells/crown-of-madness.md "PHB") at class level 5
+- [Crown of Madness](3-Mechanics/CLI/spells/crown-of-madness-xphb.md "XPHB") at class level 5

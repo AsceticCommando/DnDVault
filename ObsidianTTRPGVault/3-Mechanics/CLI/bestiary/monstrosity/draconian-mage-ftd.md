@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Draconian Mage"
 ---
-# [Draconian Mage](3-Mechanics\CLI\bestiary\monstrosity/draconian-mage-ftd.md)
+# [Draconian Mage](3-Mechanics/CLI/bestiary/monstrosity/draconian-mage-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 179*  
 
 Draconians born from the eggs of bronze, green, and emerald dragons have some ability to wield magic. They often lead small groups of draconian foot soldiers, using their magic to snipe across the battlefield or aid their allies' incursions and attacks. They have wings that allow them to glide during a fall.
@@ -50,7 +50,7 @@ When draconians die, they do not go quietly. Instead, their lifeless bodies unle
   - "wisdom": !!int "2"
   - "charisma": !!int "4"
 "gear":
-  - "[trident](3-Mechanics/CLI/items/trident.md)"
+  - "[trident](3-Mechanics/CLI/items/trident-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 10"
 "languages": "Common, Draconic"
@@ -76,11 +76,11 @@ When draconians die, they do not go quietly. Instead, their lifeless bodies unle
     "name": "Necrotic Ray"
   - "desc": "The draconian casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 12):\n\
-      \n**1/day each:** [enlarge/reduce](3-Mechanics/CLI/spells/enlarge-reduce.md),\
-      \ [invisibility](3-Mechanics/CLI/spells/invisibility.md), [stinking cloud](3-Mechanics/CLI/spells/stinking-cloud.md)"
+      \n**1/day each:** [enlarge/reduce](3-Mechanics/CLI/spells/enlarge-reduce-xphb.md),\
+      \ [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md), [stinking cloud](3-Mechanics/CLI/spells/stinking-cloud-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/draconian-mage-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Draconian%20Mage.webp"
 ```
 ^statblock

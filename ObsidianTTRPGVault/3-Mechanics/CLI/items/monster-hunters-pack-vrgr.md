@@ -18,16 +18,16 @@ aliases:
 
 Includes:
 
-- a [chest](3-Mechanics/CLI/items/chest.md)  
-- a [crowbar](3-Mechanics/CLI/items/crowbar.md)  
+- a [chest](3-Mechanics/CLI/items/chest-xphb.md)  
+- a [crowbar](3-Mechanics/CLI/items/crowbar-xphb.md)  
 - a [hammer](3-Mechanics/CLI/items/hammer.md)  
 - three wooden stakes  
-- a [holy symbol](3-Mechanics/CLI/items/holy-symbol.md)  
-- a [flask of holy water](3-Mechanics/CLI/items/holy-water-flask.md)  
-- a set of [manacles](3-Mechanics/CLI/items/manacles.md)  
-- a [steel mirror](3-Mechanics/CLI/items/steel-mirror.md)  
-- a [flask of oil](3-Mechanics/CLI/items/oil-flask.md)  
-- a [tinderbox](3-Mechanics/CLI/items/tinderbox.md)  
-- 3 [torches](3-Mechanics/CLI/items/torch.md)  
+- a [holy symbol](3-Mechanics/CLI/items/holy-symbol-xphb.md)  
+- a [flask of holy water](3-Mechanics/CLI/items/holy-water-xphb.md)  
+- a set of [manacles](3-Mechanics/CLI/items/manacles-xphb.md)  
+- a [steel mirror](3-Mechanics/CLI/items/mirror-xphb.md)  
+- a [flask of oil](3-Mechanics/CLI/items/oil-xphb.md)  
+- a [tinderbox](3-Mechanics/CLI/items/tinderbox-xphb.md)  
+- 3 [torches](3-Mechanics/CLI/items/torch-xphb.md)  
 
-*Source: Van Richten's Guide to Ravenloft p. 34*
+*Source: Van Richten's Guide to Ravenloft p. 34, Curse of Strahd p. 209*

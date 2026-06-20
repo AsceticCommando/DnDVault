@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Leedara"
 ---
-# [Leedara](3-Mechanics\CLI\bestiary\npc/leedara-dsotdq.md)
+# [Leedara](3-Mechanics/CLI/bestiary/npc/leedara-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 58*  
 
 Leedara died during the Cataclysm over three hundred years ago. Once an elven priest, Leedara witnessed her companion and fellow priest, Isolde, drawn into the grim fate of the wicked Knight of Solamnia, Lord Loren Soth. When Soth failed his gods-given quest to prevent the Cataclysm, he became cursed to exist forever as a death knight. As part of his curse, Leedara and several of her companions returned as deathless spirits devoted to ensuring Soth never finds peace.
@@ -71,7 +71,7 @@ Leedara died during the Cataclysm over three hundred years ago. Once an elven pr
       \ can repeat the saving throw at the end of each of its turns, ending the [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
       \ condition on itself on a success. If a target's saving throw is successful\
       \ or the effect ends for it, the target is immune to Leedara's Horrifying Visage\
-      \ for the next 24 hours. The aging effect can be reversed with a [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md)\
+      \ for the next 24 hours. The aging effect can be reversed with a [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md)\
       \ spell, but only within 24 hours of it occurring."
     "name": "Horrifying Visage"
   - "desc": "One humanoid that the ghost can see within 5 feet of it must succeed\
@@ -85,7 +85,7 @@ Leedara died during the Cataclysm over three hundred years ago. Once an elven pr
       \ uses the possessed target's statistics, but doesn't gain access to the target's\
       \ knowledge, class features, or proficiencies.\n\nThe possession lasts until\
       \ the body drops to 0 hit points, Leedara ends it as a bonus action, or Leedara\
-      \ is turned or forced out by an effect like the [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good.md)\
+      \ is turned or forced out by an effect like the [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md)\
       \ spell. When the possession ends, Leedara reappears in an unoccupied space\
       \ within 5 feet of the body. The target is immune to Leedara's Possession for\
       \ 24 hours after succeeding on the saving throw or after the possession ends."
@@ -97,6 +97,6 @@ Leedara died during the Cataclysm over three hundred years ago. Once an elven pr
     "name": "Change Shape"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/npc/token/leedara-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Leedara.webp"
 ```
 ^statblock

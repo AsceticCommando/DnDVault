@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Puppeteer Parasite"
 ---
-# [Puppeteer Parasite](3-Mechanics\CLI\bestiary\aberration/puppeteer-parasite-mcv1sc.md)
+# [Puppeteer Parasite](3-Mechanics/CLI/bestiary/aberration/puppeteer-parasite-mcv1sc.md)
 *Source: Monstrous Compendium Volume 1: Spelljammer Creatures p. 11*  
 
 A puppeteer parasite looks like a rubbery amoeba the size of a dinner plate. Its dorsal surface is soft and glossy, while its ventral surface is lined with bony hooks. The parasite uses its hooks to attach to a wall or ceiling until suitable prey passes nearby.
@@ -68,12 +68,12 @@ A parasite that comes in physical contact with a Humanoid uses its hooks to latc
       \ The parasite regains hit points equal to the damage taken."
     "name": "Consume Life"
 "bonus_actions":
-  - "desc": "The parasite casts the [suggestion](3-Mechanics/CLI/spells/suggestion.md)\
+  - "desc": "The parasite casts the [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md)\
       \ spell, requiring no spell components and using Intelligence as the spellcasting\
       \ ability (spell save DC 13)."
     "name": "Suggestion (Psionics; 1/Day)"
 "source":
   - "MCV1SC"
-"image": "3-Mechanics/CLI/bestiary/aberration/token/puppeteer-parasite-mcv1sc.webp"
+"image": "file://bestiary/tokens/MCV1SC/Puppeteer%20Parasite.webp"
 ```
 ^statblock

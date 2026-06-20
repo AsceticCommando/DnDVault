@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Gray Render"
 ---
-# [Gray Render](3-Mechanics\CLI\bestiary\monstrosity/gray-render-mpmm.md)
+# [Gray Render](3-Mechanics/CLI/bestiary/monstrosity/gray-render-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 146, Mordenkainen's Tome of Foes p. 209*  
 
 A curious impulse drives the gray render. Despite its hulking form and terrible appetite, it wants most of all to bond with an intelligent creature and, once bonded, to give its life to protect that creature. Great strength and a ferocious nature make gray renders fierce guardians, but they lack a shred of cunning.
@@ -26,6 +26,8 @@ A gray render might be a strong ally, but it's always an unpredictable one. In c
 The Gray Render Quirks table presents possible quirks for gray renders that can be generated randomly or selected as desired.
 
 **Gray Render Quirks**
+
+`dice: [](gray-render-mpmm.md#^gray-render-quirks)`
 
 | dice: d12 | Quirk |
 |-----------|-------|
@@ -89,7 +91,7 @@ The Gray Render Quirks table presents possible quirks for gray renders that can 
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/gray-render-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Gray%20Render.webp"
 ```
 ^statblock
 

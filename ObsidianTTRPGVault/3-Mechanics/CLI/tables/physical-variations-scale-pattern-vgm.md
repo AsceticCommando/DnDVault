@@ -12,6 +12,8 @@ aliases:
 
 **Scale Pattern**
 
+`dice: [](physical-variations-scale-pattern-vgm.md#^scale-pattern)`
+
 | dice: d20 | Scale Pattern |
 |-----------|---------------|
 | 1-4 | Mottled |

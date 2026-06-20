@@ -11,4 +11,4 @@ aliases:
 
 ## 1st Level
 
-- [Command](3-Mechanics/CLI/spells/command.md "PHB")
+- [Command](3-Mechanics/CLI/spells/command-xphb.md "XPHB")

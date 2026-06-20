@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Duergar Kavalrachni"
 ---
-# [Duergar Kavalrachni](3-Mechanics\CLI\bestiary\humanoid/duergar-kavalrachni-mpmm.md)
+# [Duergar Kavalrachni](3-Mechanics/CLI/bestiary/humanoid/duergar-kavalrachni-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 107, Mordenkainen's Tome of Foes p. 189*  
 
 Kavalrachni are duergar cavalry trained to fight while riding [female steeders](3-Mechanics/CLI/bestiary/monstrosity/female-steeder-mpmm.md) (in this book) or other Underdark creatures as mounts.
@@ -46,7 +46,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "subtype": "dwarf"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "[scale mail](3-Mechanics/CLI/items/scale-mail.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[scale mail](3-Mechanics/CLI/items/scale-mail-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "26"
 "hit_dice": "4d8 + 8"
 "modifier": !!int "0"
@@ -60,8 +60,8 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "speed": "25 ft."
 "damage_resistances": "poison"
 "gear":
-  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow.md)"
-  - "[war pick](3-Mechanics/CLI/items/war-pick.md)"
+  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow-xphb.md)"
+  - "[war pick](3-Mechanics/CLI/items/war-pick-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
   \ Perception 10"
 "languages": "Dwarvish, Undercommon"
@@ -99,7 +99,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/duergar-kavalrachni-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Duergar%20Kavalrachni.webp"
 ```
 ^statblock
 

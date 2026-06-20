@@ -12,6 +12,8 @@ aliases:
 
 **Relationship**
 
+`dice: [](supplemental-tables-relationship-xge.md#^relationship)`
+
 | dice: 3d4 | Attitude |
 |-----------|----------|
 | 3-4 | Hostile |

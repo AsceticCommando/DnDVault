@@ -11,7 +11,7 @@ aliases:
 ---
 # Phenax
 *Source: Mythic Odysseys of Theros p. 73* 
-![](3-Mechanics/CLI/deities/img/mot-048-02-03-phenax.webp#symbol)
+![](file://deities/MOT/048-02-03-phenax.webp#symbol)
 
 - **Alignment**: Chaotic Neutral
 - **Domains**: Trickery
@@ -53,7 +53,7 @@ Formal services to Phenax are conducted at night, with the most sacred rituals p
 
 Phenax is worshiped openly in the necropoleis of Asphodel and Odunos, though the Returned who are loyal to Erebos's agent, Tymaret, refuse to worship the god they're hunting (see "chapter 3"). Somber ceremonies are intoned to bless the golden funeral masks the Returned wear.
 
-![](3-Mechanics/CLI/deities/img/mot-049-02-16.webp#center)
+![](file://deities/MOT/049-02-16.webp#center)
 
 > [!readaloud] Myths of Phenax
 > 
@@ -92,6 +92,8 @@ What did you do to garner his attention? What set you apart in his eyes from pet
 
 **Phenax's Favor**
 
+`dice: [](theros-phenax-mot.md#^phenaxs-favor)`
+
 | dice: d6 | Circumstance |
 |----------|--------------|
 | 1 | You were born at midnight under the new moon. |
@@ -107,6 +109,8 @@ What did you do to garner his attention? What set you apart in his eyes from pet
 Following Phenax means devoting yourself to a life of trickery and guile. To a champion of Phenax, a life without risk is no life at all. Some rules are meant to be broken, some secrets meant to be shared, and order must be upended from time to time. As a follower of Phenax, consider the ideals on the Phenax's Ideals table as alternatives to those suggested for your background.
 
 **Phenax's Ideals**
+
+`dice: [](theros-phenax-mot.md#^phenaxs-ideals)`
 
 | dice: d6 | Ideal |
 |----------|-------|

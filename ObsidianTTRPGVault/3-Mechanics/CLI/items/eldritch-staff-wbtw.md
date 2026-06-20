@@ -23,11 +23,11 @@ aliases:
 
 This staff can be wielded as a magic quarterstaff that grants a +1 bonus to attack and damage rolls made with it.
 
-The staff has 10 charges and regains `1d6 + 4` expended charges daily at dawn. If you expend the last charge, roll a `d20`. On a 1, the staff is destroyed in an otherwise harmless burst of eldritch energy.
+The staff has 10 charges and regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the staff is destroyed in an otherwise harmless burst of eldritch energy.
 
 ## Eldritch Attack
 
-When you hit with a melee attack using the staff, you can expend up to 3 of its charges. For each charge you expend, the target takes an extra `1d8` lightning damage.
+When you hit with a melee attack using the staff, you can expend up to 3 of its charges. For each charge you expend, the target takes an extra `dice:1d8|noform|noparens|avg` (`1d8`) lightning damage.
 
 ## Eldritch Escape
 

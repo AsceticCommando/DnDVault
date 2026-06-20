@@ -28,7 +28,7 @@ Once you've selected the entrance, roll on the appropriate table for each passag
 
 When generating passages and corridors, roll on the Passage table multiple times, extending the length and branches of any open passage on the map until you arrive at a door or chamber.
 
-Whenever you create a new passage, roll to determine its width. If the passage branches from another passage, roll a `d12` on the Passage Width table. If it comes from a chamber, roll a `d20` on that table, but the width of the passage must be at least 5 feet smaller than the longest dimension of the chamber.
+Whenever you create a new passage, roll to determine its width. If the passage branches from another passage, roll a `dice:d12|noform|noparens|avg` (`d12`) on the Passage Width table. If it comes from a chamber, roll a `dice:d20|noform|noparens|avg` (`d20`) on that table, but the width of the passage must be at least 5 feet smaller than the longest dimension of the chamber.
 
 ![Passages; Passage](3-Mechanics/CLI/tables/passages-passage.md)
 
@@ -37,6 +37,8 @@ Whenever you create a new passage, roll to determine its width. If the passage b
 ## Doors
 
 Whenever a table roll indicates a door, roll on the Door Type table to determine its nature, then roll on the Beyond a Door table to see what lies on the other side of it. If a door is barred, you decide which side of the door the bar is on. Unlocked doors can also be stuck, at your discretion. See chapter 5, "Adventure Environments," for information on doors and portcullises.
+
+![](file://book/DMG/a-1.webp#center)
 
 ![Doors; Door Type](3-Mechanics/CLI/tables/doors-door-type.md)
 
@@ -64,6 +66,8 @@ Stairs can include any means of going up and down, including ramps, chimneys, op
 
 ## Connecting Areas
 
+![](file://book/DMG/a-2.webp#center)
+
 When your map is done, consider adding doors between chambers and passages that are next to each other but otherwise not connected. Such doors create more paths through the dungeon and expand players' options.
 
 If your dungeon consists of more than one level, be sure that any stairs, pits, and other vertical passages line up between levels. If you're using graph paper, lay a new page on top of your existing map, mark the locations of stairs and other features shared by the two levels, and begin mapping the new level.
@@ -75,6 +79,8 @@ Creating a map for your dungeon is only half the fun. Once you have the layout, 
 You don't need to have every last detail of your dungeon plotted out. You can get by with nothing more than a list of monsters, a list of treasures, and a list of one or two key elements for each dungeon area.
 
 ### Chamber Purpose
+
+![](file://book/DMG/a-3.webp#center)
 
 A room's purpose can help determine its furnishings and other contents.
 
@@ -91,6 +97,8 @@ Relying on random rolls to stock an entire dungeon can lead to incongruous resul
 ![Chamber Purpose; Dungeon: Mine](3-Mechanics/CLI/tables/chamber-purpose-dungeon-mine.md)
 
 ![Chamber Purpose; Dungeon: Planar Gate](3-Mechanics/CLI/tables/chamber-purpose-dungeon-planar-gate.md)
+
+![](file://book/DMG/a-4.webp#center)
 
 ![Chamber Purpose; Dungeon: Stronghold](3-Mechanics/CLI/tables/chamber-purpose-dungeon-stronghold.md)
 
@@ -110,6 +118,8 @@ If a dungeon has a tumultuous history, you can roll to determine the current con
 
 ### Chamber Contents
 
+![](file://book/DMG/a-5.webp#center)
+
 Once you have a sense of the purpose of the various dungeon chambers, you can think about the contents of those areas. The Dungeon Chamber Contents table allows you to randomly roll contents for a chamber, or you can choose contents for specific areas. If you choose contents, be sure to include an interesting, colorful assortment of things. In addition to the contents shown on this table, refer to "Dungeon Dressing" later in this appendix for additional items and elements to fill rooms.
 
 In the Dungeon Chamber Contents table, a "dominant inhabitant" is a creature that controls an area. Pets and allied creatures are subservient to the dominant inhabitant. "Random creatures" are scavengers or nuisances, usually lone monsters or small groups passing through the area. They include such creatures as carrion crawlers, dire rats, gelatinous cubes, and rust monsters. See chapter 3, "Creating Adventures," for more information on random encounters.
@@ -117,6 +127,8 @@ In the Dungeon Chamber Contents table, a "dominant inhabitant" is a creature tha
 ![Dungeon Chamber Contents](3-Mechanics/CLI/tables/dungeon-chamber-contents.md)
 
 ### Monsters and Motivations
+
+![](file://book/DMG/a-6.webp#center)
 
 See chapter 3, "Creating Adventures," for guidance on creating encounters with monsters. To foster variety and suspense, be sure to include encounters of varying difficulty.
 
@@ -154,6 +166,8 @@ If you need a trap quickly or want to drop random traps into a dungeon, use the 
 
 ### Random Tricks
 
+![](file://book/DMG/a-7.webp#center)
+
 Tricks are quirkier and less deadly than traps. Some are effects left behind by the dungeon's creators, while others might be manifestations of the strange magical energy suffusing the dungeon.
 
 The following tables allow you to generate random tricks. Roll first to determine an object that the trick is placed on, then roll to determine the nature of the trick. Some tricks are permanent effects that can't be dispelled; others are temporary or can be neutralized with a dispel magic spell. You decide which is which.
@@ -163,6 +177,8 @@ The following tables allow you to generate random tricks. Roll first to determin
 ![Random Tricks; Tricks](3-Mechanics/CLI/tables/random-tricks-tricks.md)
 
 ### Random treasures
+
+![](file://book/DMG/a-8.webp#center)
 
 Use the tables and guidelines in chapter 7, "Treasure" to determine the treasure in each area of your dungeon.
 

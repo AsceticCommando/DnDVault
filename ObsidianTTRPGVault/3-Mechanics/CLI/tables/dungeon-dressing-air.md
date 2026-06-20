@@ -12,6 +12,8 @@ aliases:
 
 **Air**
 
+`dice: [](dungeon-dressing-air.md#^air)`
+
 | dice: d100 | Effect |
 |------------|--------|
 | 1-60 | Clear and damp |

@@ -12,6 +12,8 @@ aliases:
 
 **Half-Orc Names – Male**
 
+`dice: [](half-orc-names-male-xge.md#^half-orc-names-male)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Argran |

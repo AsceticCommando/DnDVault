@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Typhon"
 ---
-# [Typhon](3-Mechanics\CLI\bestiary\monstrosity/typhon-mot.md)
+# [Typhon](3-Mechanics/CLI/bestiary/monstrosity/typhon-mot.md)
 *Source: Mythic Odysseys of Theros p. 246*  
 
 Titanic horrors of writhing flesh and gnashing maws, typhons slither through the Underworld seeking only to consume. Once the souls of mortal warlords and cruel tyrants, typhons come into being over ages of festering bitterness and rage. Over time, these souls twist into eternally ravenous monstrosities, which rampage through the realm of the dead, consuming souls by the thousands. The Underworld remains their prison, though, and most would relish nothing more than to escape and slaughter the living once more.
@@ -68,6 +68,6 @@ Titanic horrors of writhing flesh and gnashing maws, typhons slither through the
     "name": "Maw"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/typhon-mot.webp"
+"image": "file://bestiary/tokens/MOT/Typhon.webp"
 ```
 ^statblock

@@ -16,7 +16,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Gnoll Flesh Gnawer"
 ---
-# [Gnoll Flesh Gnawer](3-Mechanics\CLI\bestiary\monstrosity/gnoll-flesh-gnawer-mpmm.md)
+# [Gnoll Flesh Gnawer](3-Mechanics/CLI/bestiary/monstrosity/gnoll-flesh-gnawer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 144, Volo's Guide to Monsters p. 154*  
 
 These gnolls eschew the use of ranged weapons in favor of short blades that they wield with great speed and efficiency. In the thick of a fight, they dash across the battlefield, slashing and snarling as they run down stragglers and finish off wounded foes.
@@ -31,7 +31,7 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
 "type": "monstrosity"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "14"
-"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor.md)"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
 "hp": !!int "22"
 "hit_dice": "4d8 + 4"
 "modifier": !!int "2"
@@ -46,7 +46,7 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
 "saves":
   - "dexterity": !!int "4"
 "gear":
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 10"
 "languages": "Gnoll"
@@ -70,7 +70,7 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/gnoll-flesh-gnawer-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Gnoll%20Flesh%20Gnawer.webp"
 ```
 ^statblock
 

@@ -12,6 +12,8 @@ aliases:
 
 **Who Created It or Was Intended to Use It?**
 
+`dice: [](special-features-who-created-it-or-was-intended-to-use-it.md#^who-created-it-or-was-intended-to-use-it)`
+
 | dice: d20 | Creator or Intended User |
 |-----------|--------------------------|
 | 1 | Aberration. The item was created by aberrations in ancient times, possibly for the use of favored humanoid thralls. When seen from the corner of the eye, the item seems to be moving. |

@@ -24,4 +24,4 @@ In these pages, you'll learn about the history, lands, and peoples of Faerûn, o
 
 While the body of Realms lore is vast, and this book is only an introduction, the Forgotten Realms setting—like D&D itself—is yours, and has been ever since Ed opened that first portal and invited us to come and visit. The Realms are a place to create and tell your stories, about your adventurers and their deeds. The lands and peoples of Faerûn welcome you, traveler, for it is a place of peril sorely in need of the heroes you will bring forth. Go now, through the portal of imagination and into vast and wonderful realms awaiting beyond.
 
-![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/sword-coast-map.webp#center)
+![](file://book/SCAG/Sword%20Coast%20Map.webp#center)

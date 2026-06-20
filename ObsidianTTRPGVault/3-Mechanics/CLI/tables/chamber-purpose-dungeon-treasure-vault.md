@@ -12,6 +12,8 @@ aliases:
 
 **Dungeon: Treasure Vault**
 
+`dice: [](chamber-purpose-dungeon-treasure-vault.md#^dungeon-treasure-vault)`
+
 | dice: d20 | Purpose |
 |-----------|---------|
 | 1 | Antechamber for visiting dignitaries |

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Amidor the Dandelion"
 ---
-# [Amidor the Dandelion](3-Mechanics\CLI\bestiary\npc/amidor-the-dandelion-wbtw.md)
+# [Amidor the Dandelion](3-Mechanics/CLI/bestiary/npc/amidor-the-dandelion-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 135*  
 
 ## Roleplaying Notes
@@ -71,7 +71,7 @@ me to demonstrate: Do not cry, my love! Let me catch your tears as faeries colle
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "gear":
-  - "[rapier](3-Mechanics/CLI/items/rapier.md)"
+  - "[rapier](3-Mechanics/CLI/items/rapier-xphb.md)"
 "senses": "passive Perception 13"
 "languages": "Common, Sylvan"
 "cr": "1/2"
@@ -92,6 +92,6 @@ me to demonstrate: Do not cry, my love! Let me catch your tears as faeries colle
     "name": "Parry"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/npc/token/amidor-the-dandelion-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Amidor%20the%20Dandelion.webp"
 ```
 ^statblock

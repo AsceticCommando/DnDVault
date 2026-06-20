@@ -12,6 +12,8 @@ aliases:
 
 **Humanoids**
 
+`dice: [](monsters-desires-humanoids-tce.md#^humanoids)`
+
 | dice: d4 | Desired Offering |
 |----------|------------------|
 | 1 | Promising to find a lost item of great importance to their culture |

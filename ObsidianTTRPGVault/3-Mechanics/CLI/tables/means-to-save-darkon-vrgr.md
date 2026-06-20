@@ -12,6 +12,8 @@ aliases:
 
 **Means to Save Darkon**
 
+`dice: [](means-to-save-darkon-vrgr.md#^means-to-save-darkon)`
+
 | dice: d6 | Implement |
 |----------|-----------|
 | 1 | Pieces of Azalin's shattered crown |

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Hoard Scarab"
 ---
-# [Hoard Scarab](3-Mechanics\CLI\bestiary\monstrosity/hoard-scarab-ftd.md)
+# [Hoard Scarab](3-Mechanics/CLI/bestiary/monstrosity/hoard-scarab-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 205*  
 
 Hoard scarabs are beetle-like creatures that, through some feat of natural adaptation or alchemical ingenuity, blend in perfectly among piles of gold coins. They feed on tiny mites that infest a dragon's scales and lair, and their painful bite can be a strong deterrent to would-be treasure thieves.
@@ -59,11 +59,11 @@ Hoard scarabs also produce a glittering metallic dust from their wings that coat
       \ creature sheds dim light in a 10-foot radius and can't benefit from being\
       \ [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible). In addition, every\
       \ Dragon within 1 mile of the creature becomes aware of it and can unerringly\
-      \ track the creature. Casting [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md)\
+      \ track the creature. Casting [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md)\
       \ on the creature ends the effect on it."
     "name": "Scale Dust (1/Day)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/hoard-scarab-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Hoard%20Scarab.webp"
 ```
 ^statblock

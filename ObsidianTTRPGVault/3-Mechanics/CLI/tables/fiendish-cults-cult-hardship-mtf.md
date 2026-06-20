@@ -12,6 +12,8 @@ aliases:
 
 **Cult Hardship**
 
+`dice: [](fiendish-cults-cult-hardship-mtf.md#^cult-hardship)`
+
 | dice: d6 | Hardship |
 |----------|----------|
 | 1 | The cult is wracked with infighting. |

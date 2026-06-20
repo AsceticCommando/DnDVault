@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Bozak Draconian"
 ---
-# [Bozak Draconian](3-Mechanics\CLI\bestiary\monstrosity/bozak-draconian-dsotdq.md)
+# [Bozak Draconian](3-Mechanics/CLI/bestiary/monstrosity/bozak-draconian-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 198*  
 
 Bozak draconians are born from bronze dragon eggs and wield magic to aid their allies in battle. Their wings aren't strong enough for full flight, but bozaks can use them to glide during a fall. When bozaks die, their flesh shrivels away before their bones explode, sending a shower of magical splinters in all directions.
@@ -45,7 +45,7 @@ Draconians are bipedal monsters born from metallic dragon eggs that have been co
   - "wisdom": !!int "2"
   - "charisma": !!int "4"
 "gear":
-  - "[trident](3-Mechanics/CLI/items/trident.md)"
+  - "[trident](3-Mechanics/CLI/items/trident-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 10"
 "languages": "Common, Draconic"
@@ -72,12 +72,12 @@ Draconians are bipedal monsters born from metallic dragon eggs that have been co
     "name": "Lightning Discharge"
   - "desc": "The draconian casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 12):\n\
-      \n**1/day each:** [enlarge/reduce](3-Mechanics/CLI/spells/enlarge-reduce.md),\
-      \ [invisibility](3-Mechanics/CLI/spells/invisibility.md), [stinking cloud](3-Mechanics/CLI/spells/stinking-cloud.md),\
-      \ [web](3-Mechanics/CLI/spells/web.md)"
+      \n**1/day each:** [enlarge/reduce](3-Mechanics/CLI/spells/enlarge-reduce-xphb.md),\
+      \ [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md), [stinking cloud](3-Mechanics/CLI/spells/stinking-cloud-xphb.md),\
+      \ [web](3-Mechanics/CLI/spells/web-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/bozak-draconian-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Bozak%20Draconian.webp"
 ```
 ^statblock

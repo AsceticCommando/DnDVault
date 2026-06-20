@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Molydeus"
 ---
-# [Molydeus](3-Mechanics\CLI\bestiary\fiend/molydeus-mpmm.md)
+# [Molydeus](3-Mechanics/CLI/bestiary/fiend/molydeus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 184, Mordenkainen's Tome of Foes p. 134*  
 
 The fearsome molydeus speaks for the demon lord it serves and enforces its master's will. This demon is 12 feet tall, and its bipedal body has a slavering wolfs head and a fanged serpent's head. Its demon lord can speak and see through the serpent head; this master also uses the molydeus to guard treasures, slay foes, and terrify troops into obedience.
@@ -77,18 +77,19 @@ A molydeus' demon lord bestows on it a powerful weapon that dissolves if the mol
       \ 16 (2d6 + 9) poison damage. The target must succeed on a DC 22 Constitution\
       \ saving throw, or its hit point maximum is reduced by an amount equal to the\
       \ damage taken. This reduction lasts until the target finishes a long rest.\
-      \ The target transforms into a [manes](3-Mechanics/CLI/bestiary/fiend/manes.md)\
+      \ The target transforms into a [manes](3-Mechanics/CLI/bestiary/fiend/manes-xmm.md)\
       \ if this reduces its hit point maximum to 0. This transformation can be ended\
-      \ only by a [wish](3-Mechanics/CLI/spells/wish.md) spell."
+      \ only by a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell."
     "name": "Snakebite"
   - "desc": "*Melee Weapon Attack:* +16 to hit, reach 10 ft., one target. *Hit:* 25\
       \ (3d10 + 9) necrotic damage."
     "name": "Wolf Bite"
   - "desc": "The molydeus casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 22):\n\
-      \n**At will:** [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), [polymorph](3-Mechanics/CLI/spells/polymorph.md),\
-      \ [telekinesis](3-Mechanics/CLI/spells/telekinesis.md), [teleport](3-Mechanics/CLI/spells/teleport.md)\n\
-      \n**3/day:** [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt.md)"
+      \n**At will:** [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
+      \ [polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md), [telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md),\
+      \ [teleport](3-Mechanics/CLI/spells/teleport-xphb.md)\n\n**3/day:** [lightning\
+      \ bolt](3-Mechanics/CLI/spells/lightning-bolt-xphb.md)"
     "name": "Spellcasting"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, the molydeus can expend a use to take one of the following actions. The\
@@ -103,6 +104,6 @@ A molydeus' demon lord bestows on it a powerful weapon that dissolves if the mol
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/molydeus-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Molydeus.webp"
 ```
 ^statblock

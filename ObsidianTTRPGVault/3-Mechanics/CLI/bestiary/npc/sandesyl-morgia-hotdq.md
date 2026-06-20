@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Sandesyl Morgia"
 ---
-# [Sandesyl Morgia](3-Mechanics\CLI\bestiary\npc/sandesyl-morgia-hotdq.md)
+# [Sandesyl Morgia](3-Mechanics/CLI/bestiary/npc/sandesyl-morgia-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 81, Tyranny of Dragons p. 98*  
 
 ```statblock
@@ -76,8 +76,8 @@ aliases:
     "name": "Misty Escape"
   - "desc": "Sandesyl regains 20 hit points at the start of its turn if it has at\
       \ least 1 hit point and isn't in sunlight or running water. If Sandesyl takes\
-      \ radiant damage or damage from holy water, this trait doesn't function at the\
-      \ start of Sandesyl's next turn."
+      \ radiant damage or damage from [holy water](3-Mechanics/CLI/items/holy-water-xphb.md),\
+      \ this trait doesn't function at the start of Sandesyl's next turn."
     "name": "Regeneration"
   - "desc": "Sandesyl can climb difficult surfaces, including upside down on ceilings,\
       \ without needing to make an ability check."
@@ -108,7 +108,7 @@ aliases:
       \ and Sandesyl regains hit points equal to that amount. The reduction lasts\
       \ until the target finishes a long rest. The target dies if this effect reduces\
       \ its hit point maximum to 0. A humanoid slain in this way and then buried in\
-      \ the ground rises the following night as a [vampire spawn](3-Mechanics/CLI/bestiary/undead/vampire-spawn.md)\
+      \ the ground rises the following night as a [vampire spawn](3-Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md)\
       \ under Sandesyl's control."
     "name": "Bite (Bat or Vampire Form Only)"
   - "desc": "Sandesyl targets one humanoid it can see within 30 feet of it. If the\
@@ -124,9 +124,9 @@ aliases:
       \ is on a different plane of existence than the target, or takes a bonus action\
       \ to end the effect."
     "name": "Charm"
-  - "desc": "Sandesyl magically calls 2d4 swarms of [bats](3-Mechanics/CLI/bestiary/beast/swarm-of-bats.md)\
-      \ or [rats](3-Mechanics/CLI/bestiary/beast/swarm-of-rats.md), provided that\
-      \ the sun isn't up. While outdoors, Sandesyl can call 3d6 [wolves](3-Mechanics/CLI/bestiary/beast/wolf.md)\
+  - "desc": "Sandesyl magically calls 2d4 swarms of [bats](3-Mechanics/CLI/bestiary/beast/swarm-of-bats-xmm.md)\
+      \ or [rats](3-Mechanics/CLI/bestiary/beast/swarm-of-rats-xmm.md), provided that\
+      \ the sun isn't up. While outdoors, Sandesyl can call 3d6 [wolves](3-Mechanics/CLI/bestiary/beast/wolf-xmm.md)\
       \ instead. The called creatures arrive in 1d4 rounds, acting as allies of Sandesyl\
       \ and obeying its spoken commands. The beasts remain for 1 hour, until Sandesyl\
       \ dies, or until Sandesyl dismisses them as a bonus action."
@@ -144,6 +144,6 @@ aliases:
 "source":
   - "HotDQ"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/npc/token/sandesyl-morgia-hotdq.webp"
+"image": "file://bestiary/tokens/HotDQ/Sandesyl%20Morgia.webp"
 ```
 ^statblock

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Glyphic Shroomlight"
 ---
-# [Glyphic Shroomlight](3-Mechanics\CLI\bestiary\npc/glyphic-shroomlight-oota.md)
+# [Glyphic Shroomlight](3-Mechanics/CLI/bestiary/npc/glyphic-shroomlight-oota.md)
 *Source: Out of the Abyss p. 103*  
 
 ```statblock
@@ -39,22 +39,22 @@ aliases:
   - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+2"
 "gear":
-  - "[club](3-Mechanics/CLI/items/club.md)"
+  - "[club](3-Mechanics/CLI/items/club-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
   \ Perception 12"
 "languages": "any one language (usually Common), Gnomish, Terran, Undercommon"
 "cr": "1/4"
 "traits":
-  - "desc": "Glyphic\n\n**At will:** [nondetection](3-Mechanics/CLI/spells/nondetection.md)\
-      \ (self only)\n\n**1/day each:** [blindness/deafness](3-Mechanics/CLI/spells/blindness-deafness.md),\
-      \ [blur](3-Mechanics/CLI/spells/blur.md), [disguise self](3-Mechanics/CLI/spells/disguise-self.md)"
+  - "desc": "Glyphic\n\n**At will:** [nondetection](3-Mechanics/CLI/spells/nondetection-xphb.md)\
+      \ (self only)\n\n**1/day each:** [blindness/deafness](3-Mechanics/CLI/spells/blindness-deafness-xphb.md),\
+      \ [blur](3-Mechanics/CLI/spells/blur-xphb.md), [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "The acolyte is a 1st-level spellcaster. Its spellcasting ability is Wisdom\
       \ (spell save DC 12, +4 to hit with spell attacks). The acolyte has following\
-      \ cleric spells prepared:\n\n**Cantrips (at will):** [light](3-Mechanics/CLI/spells/light.md),\
-      \ [sacred flame](3-Mechanics/CLI/spells/sacred-flame.md), [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy.md)\n\
-      \n**1st level (3 slots):** [bless](3-Mechanics/CLI/spells/bless.md), [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md),\
-      \ [sanctuary](3-Mechanics/CLI/spells/sanctuary.md)"
+      \ cleric spells prepared:\n\n**Cantrips (at will):** [light](3-Mechanics/CLI/spells/light-xphb.md),\
+      \ [sacred flame](3-Mechanics/CLI/spells/sacred-flame-xphb.md), [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
+      \n**1st level (3 slots):** [bless](3-Mechanics/CLI/spells/bless-xphb.md), [cure\
+      \ wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md), [sanctuary](3-Mechanics/CLI/spells/sanctuary-xphb.md)"
     "name": "Spellcasting"
   - "desc": "Glyphic"
     "name": "Gnome Cunning"
@@ -66,6 +66,6 @@ aliases:
     "name": "Club"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/glyphic-shroomlight-oota.webp"
+"image": "file://bestiary/tokens/OotA/Glyphic%20Shroomlight.webp"
 ```
 ^statblock

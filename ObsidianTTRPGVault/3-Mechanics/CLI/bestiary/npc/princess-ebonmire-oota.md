@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Princess Ebonmire"
 ---
-# [Princess Ebonmire](3-Mechanics\CLI\bestiary\npc/princess-ebonmire-oota.md)
+# [Princess Ebonmire](3-Mechanics/CLI/bestiary/npc/princess-ebonmire-oota.md)
 *Source: Out of the Abyss p. 111*  
 
 ```statblock
@@ -71,6 +71,6 @@ aliases:
     "name": "Split"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/princess-ebonmire-oota.webp"
+"image": "file://bestiary/tokens/OotA/Princess%20Ebonmire.webp"
 ```
 ^statblock

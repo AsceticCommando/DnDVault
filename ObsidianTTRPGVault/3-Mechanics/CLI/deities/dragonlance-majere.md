@@ -10,7 +10,7 @@ aliases:
 ---
 # Majere
 *Source: Dragonlance: Shadow of the Dragon Queen p. 15* 
-![Symbols Left to Right: Kir...](3-Mechanics/CLI/deities/img/dsotdq-011-00-038-o-good-trio.webp#symbol "Symbols Left to Right: Kiri-Jolith, Majere, and Mishakal")
+![Symbols Left to Right: Kiri-Jolith, Majere, and Mishakal](file://deities/DSotDQ/011-00-038.o-good-trio.webp#symbol)
 
 - **Alignment**: Lawful Good
 - **Category**: Good

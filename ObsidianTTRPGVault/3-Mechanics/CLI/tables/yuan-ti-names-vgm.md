@@ -12,6 +12,8 @@ aliases:
 
 **Yuan-ti Names**
 
+`dice: [](yuan-ti-names-vgm.md#^yuan-ti-names)`
+
 | dice: d20 | Name |
 |-----------|------|
 | 1 | Asutali |

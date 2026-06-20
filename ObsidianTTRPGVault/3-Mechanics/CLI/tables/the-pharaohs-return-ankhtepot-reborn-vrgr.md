@@ -12,6 +12,8 @@ aliases:
 
 **Ankhtepot Reborn**
 
+`dice: [](the-pharaohs-return-ankhtepot-reborn-vrgr.md#^ankhtepot-reborn)`
+
 | dice: d4 | Development |
 |----------|-------------|
 | 1 | Ankhtepot is now mortal, but retains all his supernatural abilities. Newly invigorated, the tyrant takes a more active role in Har'Akir's rulership, indulging in decadences and forcing the people to raise vast monuments to his newfound glory. |

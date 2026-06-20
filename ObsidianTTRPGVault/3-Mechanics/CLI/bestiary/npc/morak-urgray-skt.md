@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Morak Ur'gray"
 ---
-# [Morak Ur'gray](3-Mechanics\CLI\bestiary\npc/morak-urgray-skt.md)
+# [Morak Ur'gray](3-Mechanics/CLI/bestiary/npc/morak-urgray-skt.md)
 *Source: Storm King's Thunder p. 31*  
 
 ```statblock
@@ -35,7 +35,7 @@ aliases:
 "speed": "30 ft."
 "damage_resistances": "poison"
 "gear":
-  - "[club](3-Mechanics/CLI/items/club.md)"
+  - "[club](3-Mechanics/CLI/items/club-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 10"
 "languages": "any one language (usually Common), Dwarvish"
@@ -49,6 +49,6 @@ aliases:
     "name": "Club"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/morak-urgray-skt.webp"
+"image": "file://bestiary/tokens/SKT/Morak%20Ur%27gray.webp"
 ```
 ^statblock

@@ -12,6 +12,8 @@ aliases:
 
 **Ghost Story Plots**
 
+`dice: [](ghost-story-plots-vrgr.md#^ghost-story-plots)`
+
 | dice: d8 | Plot |
 |----------|------|
 | 1 | Investigate the bloody graffiti being left on the village's ancient walls and stop the vandal. |

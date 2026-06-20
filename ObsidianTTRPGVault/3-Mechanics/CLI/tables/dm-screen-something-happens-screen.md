@@ -12,6 +12,8 @@ aliases:
 
 **Something happens!**
 
+`dice: [](dm-screen-something-happens-screen.md#^something-happens)`
+
 | dice: d20 | Event |
 |-----------|-------|
 | 1 | A door opens. |

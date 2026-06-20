@@ -15,7 +15,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Hobgoblin Devastator"
 ---
-# [Hobgoblin Devastator](3-Mechanics\CLI\bestiary\fey/hobgoblin-devastator-mpmm.md)
+# [Hobgoblin Devastator](3-Mechanics/CLI/bestiary/fey/hobgoblin-devastator-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 153, Volo's Guide to Monsters p. 161*  
 
 Hobgoblins with a prodigious talent for magic sometimes undergo grueling training to become hobgoblin devastators. Devastators are spellcasters who call down fireballs and other destructive magic in the defense of the court they serve, whether that court is in the Feywild or the Material Plane. A hobgoblin devastator on the battlefield is a boon to their allies and a threat to every foe around them.
@@ -36,7 +36,7 @@ In the Feywild, many archfey seek to bolster their armies' might with the servic
 "subtype": "goblinoid"
 "alignment": "Typically  Lawful Neutral"
 "ac": !!int "13"
-"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor.md)"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
 "hp": !!int "45"
 "hit_dice": "7d8 + 14"
 "modifier": !!int "1"
@@ -52,7 +52,7 @@ In the Feywild, many archfey seek to bolster their armies' might with the servic
   - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+5"
 "gear":
-  - "[quarterstaff](3-Mechanics/CLI/items/quarterstaff.md)"
+  - "[quarterstaff](3-Mechanics/CLI/items/quarterstaff-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 11"
 "languages": "Common, Goblin"
@@ -74,16 +74,16 @@ In the Feywild, many archfey seek to bolster their armies' might with the servic
       \ (4d8 + 3) force damage, and the target is knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Devastating Bolt"
   - "desc": "The hobgoblin casts one of the following spells, using Intelligence as\
-      \ the spellcasting ability (spell save DC 13):\n\n**At will:** [mage hand](3-Mechanics/CLI/spells/mage-hand.md),\
-      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md)\n\n**2/day\
-      \ each:** [fireball](3-Mechanics/CLI/spells/fireball.md), [fly](3-Mechanics/CLI/spells/fly.md),\
-      \ [fog cloud](3-Mechanics/CLI/spells/fog-cloud.md), [gust of wind](3-Mechanics/CLI/spells/gust-of-wind.md),\
-      \ [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt.md)"
+      \ the spellcasting ability (spell save DC 13):\n\n**At will:** [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n**2/day\
+      \ each:** [fireball](3-Mechanics/CLI/spells/fireball-xphb.md), [fly](3-Mechanics/CLI/spells/fly-xphb.md),\
+      \ [fog cloud](3-Mechanics/CLI/spells/fog-cloud-xphb.md), [gust of wind](3-Mechanics/CLI/spells/gust-of-wind-xphb.md),\
+      \ [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/fey/token/hobgoblin-devastator-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Hobgoblin%20Devastator.webp"
 ```
 ^statblock
 

@@ -12,6 +12,8 @@ aliases:
 
 **Story Kickoff**
 
+`dice: [](kicking-off-the-action-story-kickoff-erlw.md#^story-kickoff)`
+
 | dice: d6 | Event |
 |----------|-------|
 | 1 | On a quiet night, the tavern door bursts open and a group of soldiers calls for one of the party members by name. |

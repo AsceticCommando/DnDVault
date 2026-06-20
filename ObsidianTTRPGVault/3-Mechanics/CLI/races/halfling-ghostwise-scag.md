@@ -10,7 +10,7 @@ aliases:
 ---
 # Halfling (Ghostwise)
 *Source: Sword Coast Adventurer's Guide p. 110*  
-![](3-Mechanics/CLI/races/img/halfling.webp#right)
+![](file://races/PHB/Halfling.webp#right)
 
 - **Ability Scores**: wis +1
 - **Size**: Small

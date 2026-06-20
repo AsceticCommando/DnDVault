@@ -12,6 +12,8 @@ aliases:
 
 **Orc Flaws**
 
+`dice: [](roleplaying-an-orc-orc-flaws-vgm.md#^orc-flaws)`
+
 | dice: d6 | Flaw |
 |----------|------|
 | 1 | I have a calm temperament and let insults roll off my back. |

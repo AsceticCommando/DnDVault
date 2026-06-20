@@ -11,4 +11,4 @@ aliases:
 
 ## 3rd Level
 
-- [Blinding Smite](3-Mechanics/CLI/spells/blinding-smite.md "PHB")
+- [Blinding Smite](3-Mechanics/CLI/spells/blinding-smite-xphb.md "XPHB")

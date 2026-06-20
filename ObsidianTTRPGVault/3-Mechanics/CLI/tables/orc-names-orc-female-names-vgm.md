@@ -12,6 +12,8 @@ aliases:
 
 **Orc Female Names**
 
+`dice: [](orc-names-orc-female-names-vgm.md#^orc-female-names)`
+
 | dice: d12 | Name |
 |-----------|------|
 | 1 | Kansif |

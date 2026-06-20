@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Miros Xelbrin"
 ---
-# [Miros Xelbrin](3-Mechanics\CLI\bestiary\npc/miros-xelbrin-skt.md)
+# [Miros Xelbrin](3-Mechanics/CLI/bestiary/npc/miros-xelbrin-skt.md)
 *Source: Storm King's Thunder p. 251*  
 
 Innkeeper Miros is a retired carnival attraction, dubbed "the Yeti" because of his barrel-shaped body and the thick, white hair covering his arms, chest, back, and head. When Goldenfields suffers, so does his business, so he takes strides to protect the compound.
@@ -47,8 +47,8 @@ Flaw:"When something upsets me, I have a tendency to fly into a rage."
   - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
 "gear":
-  - "[club](3-Mechanics/CLI/items/club.md)"
-  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow.md)"
+  - "[club](3-Mechanics/CLI/items/club-xphb.md)"
+  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow-xphb.md)"
 "senses": "passive Perception 13"
 "languages": "Common"
 "traits":
@@ -76,6 +76,6 @@ Flaw:"When something upsets me, I have a tendency to fly into a rage."
     "name": "Heavy Crossbow"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/miros-xelbrin-skt.webp"
+"image": "file://bestiary/tokens/SKT/Miros%20Xelbrin.webp"
 ```
 ^statblock

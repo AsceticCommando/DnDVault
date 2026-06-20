@@ -12,6 +12,8 @@ aliases:
 
 **Island Environments**
 
+`dice: [](island-environments-mot.md#^island-environments)`
+
 | dice: d10 | Environment |
 |-----------|-------------|
 | 1 | Frozen. The island is magically frozen or is a floating iceberg. Perhaps something lies locked within. |

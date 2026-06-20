@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Mighty Servant of Leuk-o"
 ---
-# [Mighty Servant of Leuk-o](3-Mechanics\CLI\bestiary\construct/mighty-servant-of-leuk-o-tce.md)
+# [Mighty Servant of Leuk-o](3-Mechanics/CLI/bestiary/construct/mighty-servant-of-leuk-o-tce.md)
 *Source: Tasha's Cauldron of Everything p. 131*  
 
 ```statblock
@@ -85,6 +85,6 @@ aliases:
     "name": "Crushing Leap"
 "source":
   - "TCE"
-"image": "3-Mechanics/CLI/bestiary/construct/token/mighty-servant-of-leuk-o-tce.webp"
+"image": "file://bestiary/tokens/TCE/Mighty%20Servant%20of%20Leuk-o.webp"
 ```
 ^statblock

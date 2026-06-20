@@ -12,6 +12,8 @@ aliases:
 
 **Syndicate Types**
 
+`dice: [](types-of-criminal-syndicates-syndicate-types-tce.md#^syndicate-types)`
+
 | dice: d6 | Syndicate |
 |----------|-----------|
 | 1 | **Thieves' Guild**. A disparate convocation of thieves, spies, smugglers, and other scoundrels controls criminal activity in a region of a city. |

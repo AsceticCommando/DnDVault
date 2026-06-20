@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Warforged Titan"
 ---
-# [Warforged Titan](3-Mechanics\CLI\bestiary\construct/warforged-titan-erlw.md)
+# [Warforged Titan](3-Mechanics/CLI/bestiary/construct/warforged-titan-erlw.md)
 *Source: Eberron: Rising from the Last War p. 315*  
 
 Warforged titans are hulking constructs built to wreak paths of destruction through enemy armies. Some of the most feared combatants of the Last War, warforged titans are barely sentient, with just enough intelligence to follow commands.
@@ -73,6 +73,6 @@ In the Age of Giants, giant artificers built mindless war golems to aid them in 
     "name": "Sweeping Axe (Recharge 6)"
 "source":
   - "ERLW"
-"image": "3-Mechanics/CLI/bestiary/construct/token/warforged-titan-erlw.webp"
+"image": "file://bestiary/tokens/ERLW/Warforged%20Titan.webp"
 ```
 ^statblock

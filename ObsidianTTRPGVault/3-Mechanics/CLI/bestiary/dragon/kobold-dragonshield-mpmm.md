@@ -16,7 +16,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Kobold Dragonshield"
 ---
-# [Kobold Dragonshield](3-Mechanics\CLI\bestiary\dragon/kobold-dragonshield-mpmm.md)
+# [Kobold Dragonshield](3-Mechanics/CLI/bestiary/dragon/kobold-dragonshield-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 163, Volo's Guide to Monsters p. 165*  
 
 > [!quote] A quote from Mordenkainen  
@@ -33,7 +33,7 @@ Dragonshields know they have a place of honor among those who venerate dragons, 
 "type": "dragon"
 "alignment": "Any alignment"
 "ac": !!int "15"
-"ac_class": "[leather](3-Mechanics/CLI/items/leather-armor.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[leather](3-Mechanics/CLI/items/leather-armor-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "44"
 "hit_dice": "8d6 + 16"
 "modifier": !!int "2"
@@ -50,7 +50,7 @@ Dragonshields know they have a place of honor among those who venerate dragons, 
     "desc": "+1"
 "damage_resistances": "see Dragon's Resistance below"
 "gear":
-  - "[spear](3-Mechanics/CLI/items/spear.md)"
+  - "[spear](3-Mechanics/CLI/items/spear-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 11"
 "languages": "Common, Draconic"
@@ -86,7 +86,7 @@ Dragonshields know they have a place of honor among those who venerate dragons, 
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/kobold-dragonshield-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Kobold%20Dragonshield.webp"
 ```
 ^statblock
 

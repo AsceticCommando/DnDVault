@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Emerald Enclave Scout"
 ---
-# [Emerald Enclave Scout](3-Mechanics\CLI\bestiary\humanoid/emerald-enclave-scout-oota.md)
+# [Emerald Enclave Scout](3-Mechanics/CLI/bestiary/humanoid/emerald-enclave-scout-oota.md)
 *Source: Out of the Abyss p. 130*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "dwarf"
 "alignment": "Lawful Neutral"
 "ac": !!int "16"
-"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate.md)"
+"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate-xphb.md)"
 "hp": !!int "19"
 "hit_dice": "3d8 + 6"
 "modifier": !!int "2"
@@ -45,8 +45,8 @@ aliases:
     "desc": "+5"
 "damage_resistances": "poison"
 "gear":
-  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow.md)"
-  - "[war pick](3-Mechanics/CLI/items/war-pick.md)"
+  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow-xphb.md)"
+  - "[war pick](3-Mechanics/CLI/items/war-pick-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 15"
 "languages": "Common, Dwarvish"
@@ -68,6 +68,6 @@ aliases:
     "name": "Heavy Crossbow"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/emerald-enclave-scout-oota.webp"
+"image": "file://bestiary/tokens/OotA/Emerald%20Enclave%20Scout.webp"
 ```
 ^statblock

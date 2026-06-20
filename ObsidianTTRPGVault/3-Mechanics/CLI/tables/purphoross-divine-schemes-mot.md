@@ -12,6 +12,8 @@ aliases:
 
 **Purphoros's Divine Schemes**
 
+`dice: [](purphoross-divine-schemes-mot.md#^purphoross-divine-schemes)`
+
 | dice: d4 | Scheme |
 |----------|--------|
 | 1 | Enraged at Heliod's latest insult, Purphoros causes Mount Velus to erupt. The volcano's rage doesn't cease, though, threatening the region. |

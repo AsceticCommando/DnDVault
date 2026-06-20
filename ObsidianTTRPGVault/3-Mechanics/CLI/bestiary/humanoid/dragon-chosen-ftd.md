@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Dragon Chosen"
 ---
-# [Dragon Chosen](3-Mechanics\CLI\bestiary\humanoid/dragon-chosen-ftd.md)
+# [Dragon Chosen](3-Mechanics/CLI/bestiary/humanoid/dragon-chosen-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 189*  
 
 Dragon chosen are mighty warriors who offer their bodies as vessels for a dragon's might. They serve as enforcers of their masters' will; they often accompany dragon speakers—and are quick to defend them if they sense any ill intent. Dragon chosen are skilled in close combat, using two weapons to tear at their foes.
@@ -52,8 +52,8 @@ Dragon followers might serve and revere any kind of dragon, and their behavior a
     "desc": "+3"
 "condition_immunities": "[frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
 "gear":
-  - "[handaxe](3-Mechanics/CLI/items/handaxe.md)"
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[handaxe](3-Mechanics/CLI/items/handaxe-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "passive Perception 13"
 "languages": "Common, Draconic"
 "cr": "3"
@@ -73,6 +73,6 @@ Dragon followers might serve and revere any kind of dragon, and their behavior a
     "name": "Biting Rebuke"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/dragon-chosen-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Dragon%20Chosen.webp"
 ```
 ^statblock

@@ -12,6 +12,8 @@ aliases:
 
 **Human Names – Arabic, Female**
 
+`dice: [](human-names-arabic-female-xge.md#^human-names-arabic-female)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Aaliyah |

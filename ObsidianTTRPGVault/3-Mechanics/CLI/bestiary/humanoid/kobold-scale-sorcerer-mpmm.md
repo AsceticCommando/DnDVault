@@ -17,7 +17,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Kobold Scale Sorcerer"
 ---
-# [Kobold Scale Sorcerer](3-Mechanics\CLI\bestiary\humanoid/kobold-scale-sorcerer-mpmm.md)
+# [Kobold Scale Sorcerer](3-Mechanics/CLI/bestiary/humanoid/kobold-scale-sorcerer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 165, Volo's Guide to Monsters p. 167*  
 
 Kobold scale sorcerers have an innate talent for arcane magic, making them highly valuable members of their communities. These sorcerers typically fill the role of advisor, and when threatened, a scale sorcerer lashes out with colorful magic.
@@ -48,7 +48,7 @@ A scale sorcerer who resides in or near a dragon's lair may serve as that dragon
   - "name": "[Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)"
     "desc": "+1"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 9"
 "languages": "Common, Draconic"
@@ -75,14 +75,14 @@ A scale sorcerer who resides in or near a dragon's lair may serve as that dragon
     "name": "Chromatic Bolt"
   - "desc": "The kobold casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 12):\n\n**At\
-      \ will:** [mage hand](3-Mechanics/CLI/spells/mage-hand.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md)\n\
-      \n**2/day each:** [charm person](3-Mechanics/CLI/spells/charm-person.md), [fog\
-      \ cloud](3-Mechanics/CLI/spells/fog-cloud.md), [levitate](3-Mechanics/CLI/spells/levitate.md)"
+      \ will:** [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
+      \n**2/day each:** [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md),\
+      \ [fog cloud](3-Mechanics/CLI/spells/fog-cloud-xphb.md), [levitate](3-Mechanics/CLI/spells/levitate-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/kobold-scale-sorcerer-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Kobold%20Scale%20Sorcerer.webp"
 ```
 ^statblock
 

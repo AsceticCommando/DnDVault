@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Theran Chimera"
 ---
-# [Theran Chimera](3-Mechanics\CLI\bestiary\monstrosity/theran-chimera-mot.md)
+# [Theran Chimera](3-Mechanics/CLI/bestiary/monstrosity/theran-chimera-mot.md)
 *Source: Mythic Odysseys of Theros p. 216*  
 
 The term chimera applies to a wide variety of disparate monsters that combine the features of multiple beasts. While many artistic depictions represent chimeras as an amalgam of lion, ram, and dragon, these beasts appear with nearly endless variations.
@@ -27,6 +27,8 @@ The Theran chimera stat block presents one possible chimera configuration. You m
 
 **Body Composition**
 
+`dice: [](theran-chimera-mot.md#^body-composition)`
+
 | dice: d4 | Attack |
 |----------|--------|
 | 1 | **Plains Creature.** The chimera's body is that of a large lowland creature, such as a bull or a bear, and it lacks wings and a flying speed. The chimera is especially resilient, gaining resistance to cold and fire damage. |
@@ -37,25 +39,31 @@ The Theran chimera stat block presents one possible chimera configuration. You m
 
 **Head Attacks**
 
+`dice: [](theran-chimera-mot.md#^head-attacks)`
+
 | dice: d4 | Attack |
 |----------|--------|
-| 1 | **Bull Horns.** If the chimera moves at least 20 feet straight toward a target and then hits it with a head attack on the same turn, the target takes an extra 7 (`2d6`) piercing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone. |
+| 1 | **Bull Horns.** If the chimera moves at least 20 feet straight toward a target and then hits it with a head attack on the same turn, the target takes an extra `dice:2d6\|noform\|noparens\|avg\|text(7)` (`2d6`) piercing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone. |
 | 2 | **Shark Bite.** The chimera has advantage on a head attack roll against any creature that doesn't have all its hit points. |
-| 3 | **Unicorn Horn.** The chimera's head attack is magical and deals an extra 4 (`1d8`) radiant damage. |
+| 3 | **Unicorn Horn.** The chimera's head attack is magical and deals an extra `dice:1d8\|noform\|noparens\|avg\|text(4)` (`1d8`) radiant damage. |
 | 4 | **Cockatrice Beak.** A creature hit by the chimera's head attack must succeed on a DC 15 Constitution saving throw or be restrained as it begins to turn to stone. The restrained creature must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified for 24 hours. |
 ^head-attacks
 
 **Breath Weapons**
 
+`dice: [](theran-chimera-mot.md#^breath-weapons)`
+
 | dice: d4 | Attack |
 |----------|--------|
-| 1 | **Lightning Breath (Recharge 5-6).** The chimera exhales lightning in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 36 (`8d8`) lightning damage on a failed save, or half as much damage on a successful one. |
-| 2 | **Tidal Wave Breath (Recharge 5-6).** The chimera has an aquatic creature's head that exhales a torrent of acidic water in a 60-foot line that is 5 feet wide. Each creature in the line must make a DC 15 Dexterity saving throw. On failed save, a creature takes 27 (`5d10`) acid damage and is knocked prone. On a successful save, it takes half as much damage and isn't knocked prone. |
-| 3 | **Venom Spray (Recharge 5-6).** The chimera has a venomous creature's head that exhales a spray of poison in a 15-foot cone. Each creature in that area must succeed on a DC 15 Constitution saving throw or be poisoned for 1 minute. While poisoned in this way, a target takes 35 (`10d6`) poison damage at the start of each of its turns. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. |
-| 4 | **Necrotic Breath (Recharge 5-6).** The chimera exhales necrotic energy in a 15-foot cone. Each creature in that area must succeed on a DC 15 Constitution saving throw, or it takes 31 (`7d8`) necrotic damage and is unable to regain hit points until the end of its next turn. |
+| 1 | **Lightning Breath (Recharge 5-6).** The chimera exhales lightning in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking `dice:8d8\|noform\|noparens\|avg\|text(36)` (`8d8`) lightning damage on a failed save, or half as much damage on a successful one. |
+| 2 | **Tidal Wave Breath (Recharge 5-6).** The chimera has an aquatic creature's head that exhales a torrent of acidic water in a 60-foot line that is 5 feet wide. Each creature in the line must make a DC 15 Dexterity saving throw. On failed save, a creature takes `dice:5d10\|noform\|noparens\|avg\|text(27)` (`5d10`) acid damage and is knocked prone. On a successful save, it takes half as much damage and isn't knocked prone. |
+| 3 | **Venom Spray (Recharge 5-6).** The chimera has a venomous creature's head that exhales a spray of poison in a 15-foot cone. Each creature in that area must succeed on a DC 15 Constitution saving throw or be poisoned for 1 minute. While poisoned in this way, a target takes `dice:10d6\|noform\|noparens\|avg\|text(35)` (`10d6`) poison damage at the start of each of its turns. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. |
+| 4 | **Necrotic Breath (Recharge 5-6).** The chimera exhales necrotic energy in a 15-foot cone. Each creature in that area must succeed on a DC 15 Constitution saving throw, or it takes `dice:7d8\|noform\|noparens\|avg\|text(31)` (`7d8`) necrotic damage and is unable to regain hit points until the end of its next turn. |
 ^breath-weapons
 
 **Tail Attacks**
+
+`dice: [](theran-chimera-mot.md#^tail-attacks)`
 
 | dice: d4 | Attack |
 |----------|--------|
@@ -119,6 +127,6 @@ The Theran chimera stat block presents one possible chimera configuration. You m
     "name": "Breath Weapon (Recharge 5-6)"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/theran-chimera-mot.webp"
+"image": "file://bestiary/tokens/MOT/Theran%20Chimera.webp"
 ```
 ^statblock

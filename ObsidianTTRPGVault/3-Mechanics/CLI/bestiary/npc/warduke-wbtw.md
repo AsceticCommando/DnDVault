@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Warduke"
 ---
-# [Warduke](3-Mechanics\CLI\bestiary\npc/warduke-wbtw.md)
+# [Warduke](3-Mechanics/CLI/bestiary/npc/warduke-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 221*  
 
 Warduke's services as a remorseless killer-for-hire can be easily bought. The evil swordsman serves Kelek as a cohort and adventuring companion from time to time. He isn't terribly bright, which is why he leaves the plotting and scheming to others.
@@ -26,7 +26,7 @@ What does Warduke look like under his dread helm? No one knows. He never removes
 "subtype": "human"
 "alignment": "Chaotic Evil"
 "ac": !!int "17"
-"ac_class": "[half plate](3-Mechanics/CLI/items/half-plate-armor.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[half plate](3-Mechanics/CLI/items/half-plate-armor-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "78"
 "hit_dice": "12d8 + 24"
 "modifier": !!int "0"
@@ -47,13 +47,13 @@ What does Warduke look like under his dread helm? No one knows. He never removes
   - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+3"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
 "senses": "passive Perception 10"
 "languages": "Common"
 "cr": "5"
 "traits":
-  - "desc": "Warduke wears a [dread helm](3-Mechanics/CLI/items/dread-helm-xge.md)\
-      \ (see appendix A) and wields a [flame tongue longsword](3-Mechanics/CLI/items/flame-tongue.md)."
+  - "desc": "Warduke wears a [dread helm](3-Mechanics/CLI/items/dread-helm-xdmg.md)\
+      \ (see appendix A) and wields a [flame tongue longsword](3-Mechanics/CLI/items/flame-tongue-xdmg.md)."
     "name": "Special Equipment"
 "actions":
   - "desc": "Warduke makes three Flame Tongue or Dagger attacks."
@@ -74,6 +74,6 @@ What does Warduke look like under his dread helm? No one knows. He never removes
     "name": "Second Wind (Recharges after a Short or Long Rest)"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/npc/token/warduke-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Warduke.webp"
 ```
 ^statblock

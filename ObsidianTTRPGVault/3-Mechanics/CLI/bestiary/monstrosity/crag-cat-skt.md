@@ -12,14 +12,14 @@ statblock-link: "#^statblock"
 aliases:
 - "Crag Cat"
 ---
-# [Crag Cat](3-Mechanics\CLI\bestiary\monstrosity/crag-cat-skt.md)
+# [Crag Cat](3-Mechanics/CLI/bestiary/monstrosity/crag-cat-skt.md)
 *Source: Storm King's Thunder p. 240*  
 
 The creature referred to in Northlander lore as the Hunter of Men is a sure-footed predator that can be found anywhere except deep forest, preferring ledges and cliffs in the mountains. Its cry resembles a human scream of terror. It often elicits such sounds from its victims, for it prefers human flesh to all other prey.
 
 Crag cats blend in with natural surroundings. During the winter, their fur turns white to blend in with the snow. At other times of the year, their fur is gray, enabling them to hide among the rocks more easily.
 
-The crag cat knows its territory and often attacks when its prey is asleep, exhausted, or otherwise weakened. Although crag cats are typically solitary, they can be found in family groups of two parents and `1d4` Small noncombatant cubs in the spring, or in hungry packs in severe winter weather.
+The crag cat knows its territory and often attacks when its prey is asleep, exhausted, or otherwise weakened. Although crag cats are typically solitary, they can be found in family groups of two parents and `dice:1d4|noform|noparens|avg` (`1d4`) Small noncombatant cubs in the spring, or in hungry packs in severe winter weather.
 
 ```statblock
 "name": "Crag Cat (SKT)"
@@ -71,6 +71,6 @@ The crag cat knows its territory and often attacks when its prey is asleep, exha
     "name": "Claw"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/crag-cat-skt.webp"
+"image": "file://bestiary/tokens/SKT/Crag%20Cat.webp"
 ```
 ^statblock

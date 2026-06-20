@@ -17,7 +17,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Warlock of the Great Old One"
 ---
-# [Warlock of the Great Old One](3-Mechanics\CLI\bestiary\humanoid/warlock-of-the-great-old-one-mpmm.md)
+# [Warlock of the Great Old One](3-Mechanics/CLI/bestiary/humanoid/warlock-of-the-great-old-one-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 256, Volo's Guide to Monsters p. 220*  
 
 Warlocks of the Great Old One gain their powers through magical pacts forged with eldritch entities from strange and distant realms of existence. Some of these warlocks associate with cultists devoted to these entities, as well as Aberrations that share their goals, yet other warlocks of the Great Old One are experts at rooting out the chaos and wickedness inspired by bizarre beings from beyond the stars.
@@ -32,7 +32,7 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "13"
-"ac_class": "16 with [mage armor](3-Mechanics/CLI/spells/mage-armor.md)"
+"ac_class": "16 with [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
 "hp": !!int "91"
 "hit_dice": "14d8 + 28"
 "modifier": !!int "3"
@@ -54,7 +54,7 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
     "desc": "+4"
 "damage_resistances": "psychic"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 11"
 "languages": "any two languages, telepathy 30 ft."
@@ -79,17 +79,18 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
       \ save, a creature takes half as much damage and isn't [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)."
     "name": "Howling Void"
   - "desc": "The warlock casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 15): \n\n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic.md),\
-      \ [guidance](3-Mechanics/CLI/spells/guidance.md), [levitate](3-Mechanics/CLI/spells/levitate.md),\
-      \ [mage armor](3-Mechanics/CLI/spells/mage-armor.md) (self only), [mage hand](3-Mechanics/CLI/spells/mage-hand.md),\
-      \ [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md)\n\
-      \n**1/day each:** [arcane gate](3-Mechanics/CLI/spells/arcane-gate.md), [detect\
-      \ thoughts](3-Mechanics/CLI/spells/detect-thoughts.md), [true seeing](3-Mechanics/CLI/spells/true-seeing.md)"
+      \ spellcasting ability (spell save DC 15): \n\n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [guidance](3-Mechanics/CLI/spells/guidance-xphb.md), [levitate](3-Mechanics/CLI/spells/levitate-xphb.md),\
+      \ [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md) (self only), [mage\
+      \ hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md),\
+      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n**1/day\
+      \ each:** [arcane gate](3-Mechanics/CLI/spells/arcane-gate-xphb.md), [detect\
+      \ thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md), [true seeing](3-Mechanics/CLI/spells/true-seeing-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/warlock-of-the-great-old-one-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Warlock%20of%20the%20Great%20Old%20One.webp"
 ```
 ^statblock
 

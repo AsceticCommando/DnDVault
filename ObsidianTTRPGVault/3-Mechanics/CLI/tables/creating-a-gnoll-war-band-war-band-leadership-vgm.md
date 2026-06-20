@@ -12,6 +12,8 @@ aliases:
 
 **War Band Leadership**
 
+`dice: [](creating-a-gnoll-war-band-war-band-leadership-vgm.md#^war-band-leadership)`
+
 | dice: d6 | Leader | Number Appearing Modifier |
 |----------|--------|---------------------------|
 | 1 | Gnoll War Band Flind Leader | Double |

@@ -12,6 +12,8 @@ aliases:
 
 **Villain You Don't Understand**
 
+`dice: [](driving-forces-villain-you-dont-understand-erlw.md#^villain-you-dont-understand)`
+
 | dice: d6 | Driving Force |
 |----------|---------------|
 | 1 | "The Chamber" |

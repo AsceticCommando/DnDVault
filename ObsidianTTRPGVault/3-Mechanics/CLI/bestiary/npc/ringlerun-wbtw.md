@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Ringlerun"
 ---
-# [Ringlerun](3-Mechanics\CLI\bestiary\npc/ringlerun-wbtw.md)
+# [Ringlerun](3-Mechanics/CLI/bestiary/npc/ringlerun-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 227*  
 
 Ringlerun became an adventurer to better satisfy his craving for arcane knowledge. One of his adventures took him into an underwater tomb, where he tricked a marid into surrendering a staff of power. This staff greatly increased Ringlerun's capabilities and made him the envy of many rival spellcasters.
@@ -27,7 +27,7 @@ Ringlerun has a good heart, but he's easily distracted by intellectual pursuits.
 "subtype": "human, wizard"
 "alignment": "Lawful Good"
 "ac": !!int "12"
-"ac_class": "[staff of power](3-Mechanics/CLI/items/staff-of-power.md)"
+"ac_class": "[staff of power](3-Mechanics/CLI/items/staff-of-power-xdmg.md)"
 "hp": !!int "42"
 "hit_dice": "12d8 - 12"
 "modifier": !!int "0"
@@ -55,14 +55,14 @@ Ringlerun has a good heart, but he's easily distracted by intellectual pursuits.
 "languages": "Common, Draconic, Dwarvish, Elvish"
 "cr": "5"
 "traits":
-  - "desc": "Ringlerun wields a [staff of power](3-Mechanics/CLI/items/staff-of-power.md).\
+  - "desc": "Ringlerun wields a [staff of power](3-Mechanics/CLI/items/staff-of-power-xdmg.md).\
       \ It has 20 charges when fully charged and regains 2d8 + 4 expended charges\
       \ daily at dawn. If its last charge is expended, roll a d20. On a 1, the staff\
       \ retains its +2 bonus to attack and damage rolls but loses its other properties;\
       \ on a 20, it regains 1d8 + 2 charges."
     "name": "Special Equipment"
 "actions":
-  - "desc": "Ringlerun makes three [staff of power](3-Mechanics/CLI/items/staff-of-power.md)\
+  - "desc": "Ringlerun makes three [staff of power](3-Mechanics/CLI/items/staff-of-power-xdmg.md)\
       \ or Freezing Ray attacks. He can replace one of those attacks with a use of\
       \ Spellcasting."
     "name": "Multiattack"
@@ -74,7 +74,7 @@ Ringlerun has a good heart, but he's easily distracted by intellectual pursuits.
   - "desc": "*Ranged Spell Attack:* +8 to hit, range 120 ft., one creature. *Hit:*\
       \ 27 (6d8) cold damage."
     "name": "Freezing Ray"
-  - "desc": "While holding his [staff of power](3-Mechanics/CLI/items/staff-of-power.md),\
+  - "desc": "While holding his [staff of power](3-Mechanics/CLI/items/staff-of-power-xdmg.md),\
       \ Ringlerun can expend 1 or more of its charges to cast one of the following\
       \ spells from it (spell save DC 14, +8 to hit with spell attacks): cone of cold\
       \ (8d8 cold damage; 5 charges), fireball (10d6 fire damage; 5 charges), globe\
@@ -83,16 +83,16 @@ Ringlerun has a good heart, but he's easily distracted by intellectual pursuits.
       \ ray of enfeeblement (1 charge), or wall of force (5 charges)."
     "name": "Staff Spell"
   - "desc": "Ringlerun casts one of the following spells, using Intelligence as the\
-      \ spellcasting ability (spell save DC 14):\n\n**At will:** [light](3-Mechanics/CLI/spells/light.md),\
-      \ [mage hand](3-Mechanics/CLI/spells/mage-hand.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md)\n\
-      \n**3/day each:** [charm person](3-Mechanics/CLI/spells/charm-person.md), [detect\
-      \ magic](3-Mechanics/CLI/spells/detect-magic.md), [sleep](3-Mechanics/CLI/spells/sleep.md)\n\
-      \n**1/day each:** [banishment](3-Mechanics/CLI/spells/banishment.md), [dispel\
-      \ magic](3-Mechanics/CLI/spells/dispel-magic.md), [fly](3-Mechanics/CLI/spells/fly.md),\
-      \ [knock](3-Mechanics/CLI/spells/knock.md)"
+      \ spellcasting ability (spell save DC 14):\n\n**At will:** [light](3-Mechanics/CLI/spells/light-xphb.md),\
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
+      \n**3/day each:** [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md),\
+      \ [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [sleep](3-Mechanics/CLI/spells/sleep-xphb.md)\n\
+      \n**1/day each:** [banishment](3-Mechanics/CLI/spells/banishment-xphb.md), [dispel\
+      \ magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [fly](3-Mechanics/CLI/spells/fly-xphb.md),\
+      \ [knock](3-Mechanics/CLI/spells/knock-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/npc/token/ringlerun-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Ringlerun.webp"
 ```
 ^statblock

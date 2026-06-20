@@ -11,4 +11,4 @@ aliases:
 
 ## 1st Level
 
-- [Find Familiar](3-Mechanics/CLI/spells/find-familiar.md "PHB")
+- [Find Familiar](3-Mechanics/CLI/spells/find-familiar-xphb.md "XPHB")

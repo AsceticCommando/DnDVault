@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Spider King"
 ---
-# [Spider King](3-Mechanics\CLI\bestiary\npc/spider-king-oota.md)
+# [Spider King](3-Mechanics/CLI/bestiary/npc/spider-king-oota.md)
 *Source: Out of the Abyss p. 74*  
 
 ```statblock
@@ -78,6 +78,6 @@ aliases:
     "name": "Web (Recharge 5-6)"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/spider-king-oota.webp"
+"image": "file://bestiary/tokens/OotA/Spider%20King.webp"
 ```
 ^statblock

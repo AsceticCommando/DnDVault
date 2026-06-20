@@ -12,6 +12,8 @@ aliases:
 
 **Dragon Turtle Personality Traits**
 
+`dice: [](creating-a-dragon-turtle-dragon-turtle-personality-traits-ftd.md#^dragon-turtle-personality-traits)`
+
 | dice: d8 | Trait |
 |----------|-------|
 | 1 | I speak slowly and deliberately, pausing to reflect after (or sometimes in the middle of) each utterance. |

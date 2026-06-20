@@ -18,7 +18,7 @@ Performing a job requires one workweek of effort.
 
 ## Resolution
 
-To determine how much money a character earns, the character makes an ability check: Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)), Dexterity ([Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)), Intelligence using a set of tools, Charisma ([Performance](3-Mechanics/CLI/rules/skills.md#Performance)), or Charisma using a [musical instrument](3-Mechanics/CLI/items/musical-instrument.md). Consult the Wages table to see how much money is generated according to the total of the check.
+To determine how much money a character earns, the character makes an ability check: Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)), Dexterity ([Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)), Intelligence using a set of tools, Charisma ([Performance](3-Mechanics/CLI/rules/skills.md#Performance)), or Charisma using a [musical instrument](3-Mechanics/CLI/items/musical-instrument-xphb.md). Consult the Wages table to see how much money is generated according to the total of the check.
 
 ![Work; Wages](3-Mechanics/CLI/tables/work-wages-xge.md)
 

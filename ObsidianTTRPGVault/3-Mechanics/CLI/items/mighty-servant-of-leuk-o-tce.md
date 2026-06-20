@@ -11,7 +11,7 @@ aliases:
 ---
 # Mighty Servant of Leuk-o
 *Wondrous item, artifact (requires attunement)*  
-![](3-Mechanics/CLI/items/img/mighty-servant-of-leuk-o.webp#right)
+![](file://items/TCE/Mighty%20Servant%20of%20Leuk-o.webp#right)
 
 
 Named for the warlord who infamously employed it, the [Mighty Servant of Leuk-o](3-Mechanics/CLI/bestiary/construct/mighty-servant-of-leuk-o-tce.md) is a fantastically powerful, 10-foot-tall machine that turns into an animate construct when piloted. Crafted of a gleaming black alloy of unknown origin, the servant is often described as a combination of a disproportioned dwarf and an oversized beetle. The servant contains enough space for 1 ton of cargo and a crew compartment within, from which up to two Medium creatures can control it-and potentially execute a spree of unstoppable destruction.
@@ -28,7 +28,7 @@ Attuning to the artifact requires two hours, which can be undertaken as part of 
 
 ## Controlling the Servant
 
-While any creatures are attuned to the artifact, attuned creatures can open the hatch as easily as any other door. Other creatures can open the hatch as an action with a successful DC 25 Dexterity check using [thieves' tools](3-Mechanics/CLI/items/thieves-tools.md). A [knock](3-Mechanics/CLI/spells/knock.md) spell cast on the hatch also opens it until the start of the caster's next turn.
+While any creatures are attuned to the artifact, attuned creatures can open the hatch as easily as any other door. Other creatures can open the hatch as an action with a successful DC 25 Dexterity check using [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md). A [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell cast on the hatch also opens it until the start of the caster's next turn.
 
 A creature can enter or exit through the hatch by spending 10 feet of movement. Those inside the servant have total cover from effects originating outside it. The controls within it allow creatures to see outside without obstruction.
 
@@ -51,9 +51,9 @@ If the servant loses half of its hit points or more, each creature attuned to it
 
 By inputting a specific series of lever pulls and button presses, the servant's two crew members can cause it to explode. The self-destruct code is not revealed to crew members when they attune to the artifact. If the code is discovered (the DM determines how), it requires two attuned crew members to be inside the servant and spend their actions on 3 consecutive rounds performing the command. Should the crew members begin the process of entering the code, though, the servant uses its Ghost in the Machine property and turns the crew members against each other.
 
-If the crew members successfully implement the code, at the end of the third round, the servant explodes. Every creature in a 100-foot-radius sphere centered on the servant must make a DC 25 Dexterity saving throw. On a failed save, a creature takes 87 (`25d6`) force damage, 87 (`25d6`) lightning damage, and 87 (`25d6`) thunder damage. On a successful save, a creature takes half as much damage. Objects and structures in the area take triple damage. Creatures inside the servant are slain instantly and leave behind no remains.
+If the crew members successfully implement the code, at the end of the third round, the servant explodes. Every creature in a 100-foot-radius sphere centered on the servant must make a DC 25 Dexterity saving throw. On a failed save, a creature takes `dice:25d6|noform|noparens|avg|text(87)` (`25d6`) force damage, `dice:25d6|noform|noparens|avg|text(87)` (`25d6`) lightning damage, and `dice:25d6|noform|noparens|avg|text(87)` (`25d6`) thunder damage. On a successful save, a creature takes half as much damage. Objects and structures in the area take triple damage. Creatures inside the servant are slain instantly and leave behind no remains.
 
-This does not destroy the servant permanently. Rather, `2d6` days later, its parts—left arm, left leg, right arm, right leg, lower torso, and upper torso—drop from the sky in random places within 1,000 miles of the explosion. If brought within 5 feet of one another, the pieces reconnect and reform the servant.
+This does not destroy the servant permanently. Rather, `dice:2d6|noform|noparens|avg` (`2d6`) days later, its parts—left arm, left leg, right arm, right leg, lower torso, and upper torso—drop from the sky in random places within 1,000 miles of the explosion. If brought within 5 feet of one another, the pieces reconnect and reform the servant.
 
 ## Destroying the Servant
 

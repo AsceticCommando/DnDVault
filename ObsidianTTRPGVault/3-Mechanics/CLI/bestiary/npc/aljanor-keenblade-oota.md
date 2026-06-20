@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Aljanor Keenblade"
 ---
-# [Aljanor Keenblade](3-Mechanics\CLI\bestiary\npc/aljanor-keenblade-oota.md)
+# [Aljanor Keenblade](3-Mechanics/CLI/bestiary/npc/aljanor-keenblade-oota.md)
 *Source: Out of the Abyss p. 149*  
 
 ```statblock
@@ -37,8 +37,8 @@ aliases:
   - "constitution": !!int "4"
   - "wisdom": !!int "2"
 "gear":
-  - "[greatsword](3-Mechanics/CLI/items/greatsword.md)"
-  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow.md)"
+  - "[greatsword](3-Mechanics/CLI/items/greatsword-xphb.md)"
+  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow-xphb.md)"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "3"
@@ -66,6 +66,6 @@ aliases:
     "name": "Parry"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/aljanor-keenblade-oota.webp"
+"image": "file://bestiary/tokens/OotA/Aljanor%20Keenblade.webp"
 ```
 ^statblock

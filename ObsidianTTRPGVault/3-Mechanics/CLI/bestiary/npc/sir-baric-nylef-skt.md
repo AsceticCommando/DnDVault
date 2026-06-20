@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Sir Baric Nylef"
 ---
-# [Sir Baric Nylef](3-Mechanics\CLI\bestiary\npc/sir-baric-nylef-skt.md)
+# [Sir Baric Nylef](3-Mechanics/CLI/bestiary/npc/sir-baric-nylef-skt.md)
 *Source: Storm King's Thunder p. 249*  
 
 As a knight of the Order of the Gauntlet, Sir Baric has sworn oaths to catch evildoers and bring them to justice. His current quarry is a dwarf brigand, Worvil "the Weevil" Forkbeard, who is rumored to be hiding in Icewind Dale. In addition to his gear, Sir Baric has an unarmored warhorse, Henry.
@@ -30,7 +30,7 @@ Flaw:"I'm not afraid to die. When Tyr finally calls me, I'll go to him happily."
 "subtype": "Illuskan human"
 "alignment": "Lawful Good"
 "ac": !!int "18"
-"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor.md)"
+"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "52"
 "hit_dice": "8d8 + 16"
 "modifier": !!int "0"
@@ -52,8 +52,8 @@ Flaw:"I'm not afraid to die. When Tyr finally calls me, I'll go to him happily."
   - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+4"
 "gear":
-  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow.md)"
-  - "[maul](3-Mechanics/CLI/items/maul.md)"
+  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow-xphb.md)"
+  - "[maul](3-Mechanics/CLI/items/maul-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Common"
 "traits":
@@ -76,6 +76,6 @@ Flaw:"I'm not afraid to die. When Tyr finally calls me, I'll go to him happily."
     "name": "Heavy Crossbow"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/sir-baric-nylef-skt.webp"
+"image": "file://bestiary/tokens/SKT/Sir%20Baric%20Nylef.webp"
 ```
 ^statblock

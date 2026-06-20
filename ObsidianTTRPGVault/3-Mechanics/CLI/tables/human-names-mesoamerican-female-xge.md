@@ -12,6 +12,8 @@ aliases:
 
 **Human Names – Mesoamerican, Female**
 
+`dice: [](human-names-mesoamerican-female-xge.md#^human-names-mesoamerican-female)`
+
 | dice: d100 | Name |
 |------------|------|
 | 01-02 | Ahuiliztli |

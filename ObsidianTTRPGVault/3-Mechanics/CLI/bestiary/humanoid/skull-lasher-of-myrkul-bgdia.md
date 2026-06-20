@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Skull Lasher of Myrkul"
 ---
-# [Skull Lasher of Myrkul](3-Mechanics\CLI\bestiary\humanoid/skull-lasher-of-myrkul-bgdia.md)
+# [Skull Lasher of Myrkul](3-Mechanics/CLI/bestiary/humanoid/skull-lasher-of-myrkul-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 234*  
 
 Those who follow Myrkul are either wizards or those who seek to master the necromantic arts.
@@ -56,13 +56,13 @@ A follower of Myrkul wields a flail that has a skull replacing the normal flail'
 "traits":
   - "desc": "The skull lasher is a 3rd-level spellcaster. Its spellcasting ability\
       \ is Wisdom (spell save DC 13, +5 to hit with spell attacks). It has the following\
-      \ wizard spells prepared:\n\n**Cantrips (at will):** [mage hand](3-Mechanics/CLI/spells/mage-hand.md),\
-      \ [message](3-Mechanics/CLI/spells/message.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md)\n\
-      \n**1st level (4 slots):** [detect magic](3-Mechanics/CLI/spells/detect-magic.md),\
-      \ [protection from evil and good](3-Mechanics/CLI/spells/protection-from-evil-and-good.md),\
-      \ [ray of sickness](3-Mechanics/CLI/spells/ray-of-sickness.md) (see \"Actions\"\
-      \ below), [shield](3-Mechanics/CLI/spells/shield.md)\n\n**2nd level (2 slots):**\
-      \ [darkness](3-Mechanics/CLI/spells/darkness.md), [misty step](3-Mechanics/CLI/spells/misty-step.md)"
+      \ wizard spells prepared:\n\n**Cantrips (at will):** [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [message](3-Mechanics/CLI/spells/message-xphb.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
+      \n**1st level (4 slots):** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [protection from evil and good](3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md),\
+      \ [ray of sickness](3-Mechanics/CLI/spells/ray-of-sickness-xphb.md) (see \"\
+      Actions\" below), [shield](3-Mechanics/CLI/spells/shield-xphb.md)\n\n**2nd level\
+      \ (2 slots):** [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md)"
     "name": "Spellcasting"
 "actions":
   - "desc": "The skull lasher makes two attacks with its flail."
@@ -80,6 +80,6 @@ A follower of Myrkul wields a flail that has a skull replacing the normal flail'
     "name": "Ray of Sickness (1st-Level Spell; Requires a Spell Slot)"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/skull-lasher-of-myrkul-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Skull%20Lasher%20of%20Myrkul.webp"
 ```
 ^statblock

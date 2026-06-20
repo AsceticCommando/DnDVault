@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Hulking Crab"
 ---
-# [Hulking Crab](3-Mechanics\CLI\bestiary\beast/hulking-crab-skt.md)
+# [Hulking Crab](3-Mechanics/CLI/bestiary/beast/hulking-crab-skt.md)
 *Source: Storm King's Thunder p. 240*  
 
 Much bigger than a giant crab, a hulking crab has a body 15 to 20 feet in diameter. Its shell is often covered with coral, anemones, ship wreckage, or some other sort of detritus salvaged from the ocean floor.
@@ -60,6 +60,6 @@ Much bigger than a giant crab, a hulking crab has a body 15 to 20 feet in diamet
     "name": "Claw"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/beast/token/hulking-crab-skt.webp"
+"image": "file://bestiary/tokens/SKT/Hulking%20Crab.webp"
 ```
 ^statblock

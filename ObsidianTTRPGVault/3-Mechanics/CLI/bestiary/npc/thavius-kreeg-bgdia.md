@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Thavius Kreeg"
 ---
-# [Thavius Kreeg](3-Mechanics\CLI\bestiary\npc/thavius-kreeg-bgdia.md)
+# [Thavius Kreeg](3-Mechanics/CLI/bestiary/npc/thavius-kreeg-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 42*  
 
 ```statblock
@@ -43,7 +43,7 @@ aliases:
   - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+4"
 "gear":
-  - "[mace](3-Mechanics/CLI/items/mace.md)"
+  - "[mace](3-Mechanics/CLI/items/mace-xphb.md)"
 "senses": "passive Perception 14"
 "languages": "Abyssal, Common, Infernal"
 "cr": "1/2"
@@ -56,6 +56,6 @@ aliases:
     "name": "Mace"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/thavius-kreeg-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Thavius%20Kreeg.webp"
 ```
 ^statblock

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Iron Defender"
 ---
-# [Iron Defender](3-Mechanics\CLI\bestiary\construct/iron-defender-erlw.md)
+# [Iron Defender](3-Mechanics/CLI/bestiary/construct/iron-defender-erlw.md)
 *Source: Eberron: Rising from the Last War p. 293*  
 
 An iron defender fights for its creator. They come in many shapes and are often crafted in the form of animals. More creative artificers craft iron defenders in the shape of hybrid animals or other fantastical creatures.
@@ -72,6 +72,6 @@ Each kind of homunculus has a body constructed from different kinds of materials
     "name": "Bite"
 "source":
   - "ERLW"
-"image": "3-Mechanics/CLI/bestiary/construct/token/iron-defender-erlw.webp"
+"image": "file://bestiary/tokens/ERLW/Iron%20Defender.webp"
 ```
 ^statblock

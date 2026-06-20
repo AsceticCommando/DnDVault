@@ -12,6 +12,8 @@ aliases:
 
 **Chamber Missions**
 
+`dice: [](chamber-missions-erlw.md#^chamber-missions)`
+
 | dice: d6 | Mission |
 |----------|---------|
 | 1 | Gather pristine dragonshards to expand or repair an observatory. |

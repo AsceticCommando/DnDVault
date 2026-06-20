@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Bronze Sable"
 ---
-# [Bronze Sable](3-Mechanics\CLI\bestiary\construct/bronze-sable-mot.md)
+# [Bronze Sable](3-Mechanics/CLI/bestiary/construct/bronze-sable-mot.md)
 *Source: Mythic Odysseys of Theros p. 210*  
 
 The first bronze sables were presented to Karametra as a gift by Purphoros to serve primarily as guardians in Karametra's temples. But as others have been created, some have been used as nimble scouts, always on alert for danger.
@@ -72,6 +72,6 @@ A few extremely rare and valuable anvilwroughts were crafted by the hand of Purp
     "name": "Bite"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/construct/token/bronze-sable-mot.webp"
+"image": "file://bestiary/tokens/MOT/Bronze%20Sable.webp"
 ```
 ^statblock

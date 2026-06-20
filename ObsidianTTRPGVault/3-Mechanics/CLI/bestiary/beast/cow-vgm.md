@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Cow"
 ---
-# [Cow](3-Mechanics\CLI\bestiary\beast/cow-vgm.md)
+# [Cow](3-Mechanics/CLI/bestiary/beast/cow-vgm.md)
 *Source: Volo's Guide to Monsters p. 207*  
 
 There are many kinds of cattle, from common oxen to more unusual, magical variants.
@@ -49,7 +49,7 @@ There are many kinds of cattle, from common oxen to more unusual, magical varian
     "name": "Gore"
 "source":
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/beast/token/cow-vgm.webp"
+"image": "file://bestiary/tokens/VGM/Cow.webp"
 ```
 ^statblock
 

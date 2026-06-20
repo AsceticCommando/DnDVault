@@ -11,20 +11,20 @@ aliases:
 
 ## 1st Level
 
-- [Protection from Evil and Good](3-Mechanics/CLI/spells/protection-from-evil-and-good.md "PHB") at class level 13
+- [Protection from Evil and Good](3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md "XPHB") at class level 3
 
 ## 2nd Level
 
-- [Misty Step](3-Mechanics/CLI/spells/misty-step.md "PHB") at class level 13
+- [Misty Step](3-Mechanics/CLI/spells/misty-step-xphb.md "XPHB") at class level 5
 
 ## 3rd Level
 
-- [Haste](3-Mechanics/CLI/spells/haste.md "PHB") at class level 13
+- [Haste](3-Mechanics/CLI/spells/haste-xphb.md "XPHB") at class level 9
 
 ## 4th Level
 
-- [Banishment](3-Mechanics/CLI/spells/banishment.md "PHB") at class level 13
+- [Banishment](3-Mechanics/CLI/spells/banishment-xphb.md "XPHB") at class level 13
 
 ## 5th Level
 
-- [Teleportation Circle](3-Mechanics/CLI/spells/teleportation-circle.md "PHB") at class level 13
+- [Teleportation Circle](3-Mechanics/CLI/spells/teleportation-circle-xphb.md "XPHB") at class level 17

@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Chitine"
 ---
-# [Chitine](3-Mechanics\CLI\bestiary\monstrosity/chitine-mpmm.md)
+# [Chitine](3-Mechanics/CLI/bestiary/monstrosity/chitine-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 75, Volo's Guide to Monsters p. 131*  
 
 Dedicated to Lolth, chitines are multi-armed bipeds with arachnid qualities. Most live in colonies in the Underdark and fight the enemies of the Demon Queen of Spiders. Long ago, the cult of Lolth first subjected elf prisoners to horrible rituals that transformed them into creatures with both elven and spider traits, which their creators dubbed chitines. The intention was to create servile warriors dedicated first to the cult and then, only by association with it, to Lolth. The goddess found this arrangement unacceptable.
@@ -32,7 +32,7 @@ Chitines resemble spiders, but they behave more like social insects such as ants
 "type": "monstrosity"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "14"
-"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor.md)"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor-xphb.md)"
 "hp": !!int "18"
 "hit_dice": "4d6 + 4"
 "modifier": !!int "2"
@@ -50,7 +50,7 @@ Chitines resemble spiders, but they behave more like social insects such as ants
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 10"
 "languages": "Undercommon"
@@ -77,7 +77,7 @@ Chitines resemble spiders, but they behave more like social insects such as ants
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/monstrosity/token/chitine-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Chitine.webp"
 ```
 ^statblock
 

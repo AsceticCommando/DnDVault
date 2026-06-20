@@ -12,6 +12,8 @@ aliases:
 
 **Green Dragon Art Objects**
 
+`dice: [](green-dragon-treasures-green-dragon-art-objects-ftd.md#^green-dragon-art-objects)`
+
 | dice: d10 | Object |
 |-----------|--------|
 | 1 | The polished skull of a unicorn, latticed with luminescent blooms |

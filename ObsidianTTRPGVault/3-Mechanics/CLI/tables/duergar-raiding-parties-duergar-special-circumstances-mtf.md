@@ -12,6 +12,8 @@ aliases:
 
 **Duergar Special Circumstances**
 
+`dice: [](duergar-raiding-parties-duergar-special-circumstances-mtf.md#^duergar-special-circumstances)`
+
 | dice: d4 | Circumstance |
 |----------|--------------|
 | 1 | Special hatred for dwarves, will attack them first |

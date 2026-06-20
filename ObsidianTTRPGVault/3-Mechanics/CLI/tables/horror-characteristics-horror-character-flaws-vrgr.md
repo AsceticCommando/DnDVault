@@ -12,6 +12,8 @@ aliases:
 
 **Horror Character Flaws**
 
+`dice: [](horror-characteristics-horror-character-flaws-vrgr.md#^horror-character-flaws)`
+
 | dice: d12 | Flaw |
 |-----------|------|
 | 1 | I believe doom follows me and that anyone who gets close to me will face a tragic end. |

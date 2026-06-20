@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Spiderbait"
 ---
-# [Spiderbait](3-Mechanics\CLI\bestiary\npc/spiderbait-oota.md)
+# [Spiderbait](3-Mechanics/CLI/bestiary/npc/spiderbait-oota.md)
 *Source: Out of the Abyss p. 31*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "goblinoid"
 "alignment": "Neutral"
 "ac": !!int "15"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "7"
 "hit_dice": "2d6"
 "modifier": !!int "2"
@@ -42,8 +42,8 @@ aliases:
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+6"
 "gear":
-  - "[scimitar](3-Mechanics/CLI/items/scimitar.md)"
-  - "[shortbow](3-Mechanics/CLI/items/shortbow.md)"
+  - "[scimitar](3-Mechanics/CLI/items/scimitar-xphb.md)"
+  - "[shortbow](3-Mechanics/CLI/items/shortbow-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 9"
 "languages": "Common, Goblin"
@@ -64,6 +64,6 @@ aliases:
     "name": "Shortbow"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/spiderbait-oota.webp"
+"image": "file://bestiary/tokens/OotA/Spiderbait.webp"
 ```
 ^statblock

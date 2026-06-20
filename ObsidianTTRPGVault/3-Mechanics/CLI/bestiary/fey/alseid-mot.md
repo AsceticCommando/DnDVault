@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Alseid"
 ---
-# [Alseid](3-Mechanics\CLI\bestiary\fey/alseid-mot.md)
+# [Alseid](3-Mechanics/CLI/bestiary/fey/alseid-mot.md)
 *Source: Mythic Odysseys of Theros p. 235*  
 
 Touched with the golden light of the sun, alseids inhabit meadows, plains, and lands of cultivated natural beauty. Many live in closer proximity to human civilization than other nymphs. Farmers are grateful for the presence of alseids on their lands and often leave them offerings of mead, honey, flowers, and dates in return for protecting their flocks and making their crops more abundant.
@@ -56,11 +56,11 @@ A nymph doesn't require food, drink, or sleep.
 "traits":
   - "desc": "The alseid's spellcasting ability is Charisma (spell save DC 14). It\
       \ can innately cast the following spells, requiring no material components:\n\
-      \n**3/day each:** [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md), [charm\
-      \ person](3-Mechanics/CLI/spells/charm-person.md), [sleep](3-Mechanics/CLI/spells/sleep.md)\n\
-      \n**1/day each:** [calm emotions](3-Mechanics/CLI/spells/calm-emotions.md),\
-      \ [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration.md), [plant\
-      \ growth](3-Mechanics/CLI/spells/plant-growth.md)"
+      \n**3/day each:** [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md),\
+      \ [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md), [sleep](3-Mechanics/CLI/spells/sleep-xphb.md)\n\
+      \n**1/day each:** [calm emotions](3-Mechanics/CLI/spells/calm-emotions-xphb.md),\
+      \ [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md), [plant\
+      \ growth](3-Mechanics/CLI/spells/plant-growth-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "The alseid has advantage on Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth))\
       \ checks made to hide while it is in grassland."
@@ -76,6 +76,6 @@ A nymph doesn't require food, drink, or sleep.
     "name": "Radiant Touch"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/fey/token/alseid-mot.webp"
+"image": "file://bestiary/tokens/MOT/Alseid.webp"
 ```
 ^statblock

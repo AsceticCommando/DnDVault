@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Wersten Kern"
 ---
-# [Wersten Kern](3-Mechanics\CLI\bestiary\npc/wersten-kern-dsotdq.md)
+# [Wersten Kern](3-Mechanics/CLI/bestiary/npc/wersten-kern-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 209*  
 
 Wersten Kern is Lord Soth's standard bearer and champion. As with many of Soth's knights, she died alongside her liege during the Cataclysm and was cursed with undeath. In battle, she wields a wicked pike that flies Soth's black rose standard, and her cries can stop mighty warriors' hearts. Wersten staunchly follows Soth's commands, and she will serve him until she faces a second doom.
@@ -23,7 +23,7 @@ Wersten Kern is Lord Soth's standard bearer and champion. As with many of Soth's
 "type": "undead"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
-"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor.md)"
+"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "178"
 "hit_dice": "21d8 + 84"
 "modifier": !!int "0"
@@ -76,10 +76,11 @@ Wersten Kern is Lord Soth's standard bearer and champion. As with many of Soth's
     "name": "Terrifying Litany (Recharge 5-6)"
   - "desc": "Wersten casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 16):\n\n**1/day\
-      \ each:** [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), [wall of stone](3-Mechanics/CLI/spells/wall-of-stone.md)"
+      \ each:** [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [wall\
+      \ of stone](3-Mechanics/CLI/spells/wall-of-stone-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/npc/token/wersten-kern-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Wersten%20Kern.webp"
 ```
 ^statblock

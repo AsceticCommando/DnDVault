@@ -12,6 +12,8 @@ aliases:
 
 **Academy Quests**
 
+`dice: [](academy-quests-tce.md#^academy-quests)`
+
 | dice: d6 | Quest |
 |----------|-------|
 | 1 | **Aberrant Zoology**. You undertake expeditions to document, capture, and explain beings antithetical to the natural order. |

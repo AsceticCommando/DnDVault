@@ -13,4 +13,4 @@ aliases:
 
 **Prerequisite**: Level 17
 
-You can spend 5 ki points to cast [wall of fire](3-Mechanics/CLI/spells/wall-of-fire.md).
+You can spend 5 ki points to cast [wall of fire](3-Mechanics/CLI/spells/wall-of-fire-xphb.md).

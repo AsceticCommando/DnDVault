@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Hellfire Engine"
 ---
-# [Hellfire Engine](3-Mechanics\CLI\bestiary\construct/hellfire-engine-mpmm.md)
+# [Hellfire Engine](3-Mechanics/CLI/bestiary/construct/hellfire-engine-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 152, Mordenkainen's Tome of Foes p. 165*  
 
 Hellfire engines are semiautonomous bringers of destruction. Amnizus (in this book) and other devilish generals hold them in reserve until they are needed to repel an incursion by demons or crusading mortals, but occasionally one of these magical-mechanical hybrids gets loose, driven berserk by its need to destroy.
@@ -96,15 +96,15 @@ Mortal creatures slain by hellfire engines are doomed to join the infernal legio
       \ creature within 30 feet of that point must make a DC 20 Dexterity saving throw,\
       \ taking 27 (5d10) bludgeoning damage plus 19 (3d12) thunder damage on a failed\
       \ save, or half as much damage on a successful one.  \n\n    If the chosen option\
-      \ kills a creature, the creature's soul rises from the River Styx as a [lemure](3-Mechanics/CLI/bestiary/fiend/lemure.md)\
+      \ kills a creature, the creature's soul rises from the River Styx as a [lemure](3-Mechanics/CLI/bestiary/fiend/lemure-xmm.md)\
       \ in Avernus in 1d4 hours. If the creature isn't revived before then, only a\
-      \ [wish](3-Mechanics/CLI/spells/wish.md) spell or killing the [lemure](3-Mechanics/CLI/bestiary/fiend/lemure.md)\
+      \ [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell or killing the [lemure](3-Mechanics/CLI/bestiary/fiend/lemure-xmm.md)\
       \ and casting true resurrection on the creature's original body can restore\
       \ it to life. Constructs and devils are immune to this effect.  "
     "name": "Hellfire Weapons"
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/construct/token/hellfire-engine-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Hellfire%20Engine.webp"
 ```
 ^statblock

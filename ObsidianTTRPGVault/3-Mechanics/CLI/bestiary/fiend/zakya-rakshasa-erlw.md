@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Zakya Rakshasa"
 ---
-# [Zakya Rakshasa](3-Mechanics\CLI\bestiary\fiend/zakya-rakshasa-erlw.md)
+# [Zakya Rakshasa](3-Mechanics/CLI/bestiary/fiend/zakya-rakshasa-erlw.md)
 *Source: Eberron: Rising from the Last War p. 309*  
 
 Millions of years before the rise of the humanoid races, the rakshasas of Eberron ruled a civilization that spanned Khorvaire. Masters of combat, the rakshasas of Eberron wield their weapons with demonic fury, rushing into battle seeking vengeance against those who bound their fiendish masters.
@@ -27,7 +27,7 @@ Zakya rakshasas are the bloodthirsty foot soldiers of the rakshasa horde. They a
 "type": "fiend"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
-"ac_class": "[scale mail](3-Mechanics/CLI/items/scale-mail.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[scale mail](3-Mechanics/CLI/items/scale-mail-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "59"
 "hit_dice": "7d8 + 28"
 "modifier": !!int "2"
@@ -47,8 +47,8 @@ Zakya rakshasas are the bloodthirsty foot soldiers of the rakshasa horde. They a
 "damage_vulnerabilities": "piercing from magic weapons wielded by good creatures"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "gear":
-  - "[javelin](3-Mechanics/CLI/items/javelin.md)"
-  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
+  - "[javelin](3-Mechanics/CLI/items/javelin-xphb.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 14"
 "languages": "Common, Infernal"
@@ -56,8 +56,9 @@ Zakya rakshasas are the bloodthirsty foot soldiers of the rakshasa horde. They a
 "traits":
   - "desc": "The rakshasa's innate spellcasting ability is Charisma (spell save DC\
       \ 11). The rakshasa can innately cast the following spells, requiring no material\
-      \ components:\n\n**At will:** [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md),\
-      \ [disguise self](3-Mechanics/CLI/spells/disguise-self.md)\n\n**1/day:** [shield](3-Mechanics/CLI/spells/shield.md)"
+      \ components:\n\n**At will:** [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md)\n\n**1/day:**\
+      \ [shield](3-Mechanics/CLI/spells/shield-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "The rakshasa can't be affected or detected by spells of 1st level or\
       \ lower unless it wishes to be. It has advantage on saving throws against all\
@@ -83,6 +84,6 @@ Zakya rakshasas are the bloodthirsty foot soldiers of the rakshasa horde. They a
     "name": "Javelin"
 "source":
   - "ERLW"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/zakya-rakshasa-erlw.webp"
+"image": "file://bestiary/tokens/ERLW/Zakya%20Rakshasa.webp"
 ```
 ^statblock

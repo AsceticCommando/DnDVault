@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Sul Khatesh"
 ---
-# [Sul Khatesh](3-Mechanics\CLI\bestiary\npc/sul-khatesh-erlw.md)
+# [Sul Khatesh](3-Mechanics/CLI/bestiary/npc/sul-khatesh-erlw.md)
 *Source: Eberron: Rising from the Last War p. 304*  
 
 Sul Khatesh is known as the Keeper of Secrets and the Queen of Shadows. She embodies the fears and superstitions surrounding magic, from malevolent warlocks to mad wizards, from deadly curses to magical power that draws those who wield it deeper into darkness.
@@ -83,16 +83,16 @@ Some thirty overlords are bound in Khyber. Two are described here: Rak Tulkhesh 
 "traits":
   - "desc": "Sul Khatesh's spellcasting ability is Intelligence (spell save DC 26,\
       \ +18 to hit with spell attacks). She can innately cast the following spells,\
-      \ requiring no material components:\n\n**At will:** [counterspell](3-Mechanics/CLI/spells/counterspell.md),\
-      \ [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md),\
-      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), [eyebite](3-Mechanics/CLI/spells/eyebite.md),\
-      \ [fireball](3-Mechanics/CLI/spells/fireball.md), [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt.md),\
-      \ [shield](3-Mechanics/CLI/spells/shield.md)\n\n**3/day each:** [chain lightning](3-Mechanics/CLI/spells/chain-lightning.md),\
-      \ [create undead](3-Mechanics/CLI/spells/create-undead.md), [dream](3-Mechanics/CLI/spells/dream.md),\
-      \ [hold monster](3-Mechanics/CLI/spells/hold-monster.md), [mass suggestion](3-Mechanics/CLI/spells/mass-suggestion.md),\
-      \ [scrying](3-Mechanics/CLI/spells/scrying.md)\n\n**1/day each:** [foresight](3-Mechanics/CLI/spells/foresight.md),\
-      \ [gate](3-Mechanics/CLI/spells/gate.md), [power word kill](3-Mechanics/CLI/spells/power-word-kill.md),\
-      \ [teleport](3-Mechanics/CLI/spells/teleport.md)"
+      \ requiring no material components:\n\n**At will:** [counterspell](3-Mechanics/CLI/spells/counterspell-xphb.md),\
+      \ [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [eyebite](3-Mechanics/CLI/spells/eyebite-xphb.md),\
+      \ [fireball](3-Mechanics/CLI/spells/fireball-xphb.md), [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt-xphb.md),\
+      \ [shield](3-Mechanics/CLI/spells/shield-xphb.md)\n\n**3/day each:** [chain\
+      \ lightning](3-Mechanics/CLI/spells/chain-lightning-xphb.md), [create undead](3-Mechanics/CLI/spells/create-undead-xphb.md),\
+      \ [dream](3-Mechanics/CLI/spells/dream-xphb.md), [hold monster](3-Mechanics/CLI/spells/hold-monster-xphb.md),\
+      \ [mass suggestion](3-Mechanics/CLI/spells/mass-suggestion-xphb.md), [scrying](3-Mechanics/CLI/spells/scrying-xphb.md)\n\
+      \n**1/day each:** [foresight](3-Mechanics/CLI/spells/foresight-xphb.md), [gate](3-Mechanics/CLI/spells/gate-xphb.md),\
+      \ [power word kill](3-Mechanics/CLI/spells/power-word-kill-xphb.md), [teleport](3-Mechanics/CLI/spells/teleport-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "If Sul Khatesh fails a saving throw, she can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
@@ -116,8 +116,8 @@ Some thirty overlords are bound in Khyber. Two are described here: Rak Tulkhesh 
       \ saving throw, taking 71 (11d12) force damage on a failed save or half as much\
       \ damage on a successful one. A creature in the area of more than one arcane\
       \ burst is affected only once. The area of each arcane burst then acts as an\
-      \ [antimagic field](3-Mechanics/CLI/spells/antimagic-field.md) for 1 hour. Sul\
-      \ Khatesh and spells she casts are unaffected by these fields."
+      \ [antimagic field](3-Mechanics/CLI/spells/antimagic-field-xphb.md) for 1 hour.\
+      \ Sul Khatesh and spells she casts are unaffected by these fields."
     "name": "Arcane Cataclysm (Recharges after a Long Rest)"
   - "desc": "Sul Khatesh magically polymorphs into a humanoid, beast, or giant that\
       \ has a challenge rating no higher than her own, or back into her true form.\
@@ -151,6 +151,6 @@ Some thirty overlords are bound in Khyber. Two are described here: Rak Tulkhesh 
     "name": "Maddening Secrets (Costs 3 Actions)"
 "source":
   - "ERLW"
-"image": "3-Mechanics/CLI/bestiary/npc/token/sul-khatesh-erlw.webp"
+"image": "file://bestiary/tokens/ERLW/Sul%20Khatesh.webp"
 ```
 ^statblock

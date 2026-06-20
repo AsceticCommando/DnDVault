@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Rilsa Rael"
 ---
-# [Rilsa Rael](3-Mechanics\CLI\bestiary\npc/rilsa-rael-bgdia.md)
+# [Rilsa Rael](3-Mechanics/CLI/bestiary/npc/rilsa-rael-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 199*  
 
 The Guild kingpin of Little Calimshan. Among Little Calimshan's most notorious locations is the Calim Jewel Emporium, widely regarded as the best jeweler in the city—and the best place to fence stolen gems, as it's also the local Guild headquarters. In addition to hosting regular public forums in her shop, Rael tacitly oversees the Garden of Whispers, a maze of wood-and-paper screens where people from across the city can buy and sell secrets with Guild agents and each other, speaking through the barriers so as to maintain anonymity.
@@ -24,7 +24,7 @@ The Guild kingpin of Little Calimshan. Among Little Calimshan's most notorious l
 "subtype": "human"
 "alignment": "Neutral"
 "ac": !!int "15"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "52"
 "hit_dice": "8d8 + 16"
 "modifier": !!int "4"
@@ -53,8 +53,8 @@ The Guild kingpin of Little Calimshan. Among Little Calimshan's most notorious l
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+6"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Common, Thieves' cant"
 "cr": "3"
@@ -81,6 +81,6 @@ The Guild kingpin of Little Calimshan. Among Little Calimshan's most notorious l
     "name": "Dagger"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/rilsa-rael-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Rilsa%20Rael.webp"
 ```
 ^statblock

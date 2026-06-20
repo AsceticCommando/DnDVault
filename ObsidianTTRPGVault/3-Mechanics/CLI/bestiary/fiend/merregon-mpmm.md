@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Merregon"
 ---
-# [Merregon](3-Mechanics\CLI\bestiary\fiend/merregon-mpmm.md)
+# [Merregon](3-Mechanics/CLI/bestiary/fiend/merregon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 179, Mordenkainen's Tome of Foes p. 166*  
 
 The souls of fallen soldiers, mercenaries, and bodyguards who served evil without reservation often find everlasting servitude in the Nine Hells as merregons. These faceless foot soldiers are the Hells' legionnaires, tasked with protecting their infernal plane and its rulers against intruders.
@@ -46,8 +46,8 @@ Because of their unshakable loyalty, merregons form the backbone of many devils'
 "condition_immunities": "[frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
   \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
 "gear":
-  - "[halberd](3-Mechanics/CLI/items/halberd.md)"
-  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow.md)"
+  - "[halberd](3-Mechanics/CLI/items/halberd-xphb.md)"
+  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 11"
 "languages": "understands Infernal but can't speak, telepathy 120 ft."
@@ -74,6 +74,6 @@ Because of their unshakable loyalty, merregons form the backbone of many devils'
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/merregon-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Merregon.webp"
 ```
 ^statblock

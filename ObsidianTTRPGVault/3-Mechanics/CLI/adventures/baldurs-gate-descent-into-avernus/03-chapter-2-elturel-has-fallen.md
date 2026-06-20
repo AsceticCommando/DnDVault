@@ -10,7 +10,7 @@ aliases:
 # Chapter 2: Elturel Has Fallen
 *Source: Baldur's Gate: Descent Into Avernus, p. 52* 
 
-![](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/026-jkxip-02-01.webp#center)
+![](file://adventure/BGDIA/026-jkxip-02-01.webp#center)
 
 Once a holy city whose folk venerated Lathander, Torm, Helm, and Tyr, Elturel is now a site of doom and despair tethered some five hundred feet above the River Styx. Eight great chains bind the city to jagged posts of infernal iron, which stick up out of the ground like gargantuan spikes. (See "Climbing Down" at the end of this chapter for a full description of the infernal chains.) The bottoms of those spikes are guarded by scores of devils, making escaping the city by climbing down an arduous task. The Companion, the second sun that provided so much solace and protection to the city for years, now glares down on Elturel like a baleful eye—a black void crackling with lightning.
 
@@ -28,7 +28,7 @@ NPC survivors cowering in the crypts under the High Hall cathedral urge the char
 
 ## Arrival in Elturel
 
-A [plane shift](3-Mechanics/CLI/spells/plane-shift.md) spell transports [Traxigor](3-Mechanics/CLI/bestiary/npc/traxigor-bgdia.md) the wizard and up to eight other creatures to Elturel, including [Lulu the hollyphant](3-Mechanics/CLI/bestiary/celestial/hollyphant-bgdia.md) and Reya Mantlemorn if she's still with the party. When the group arrives in Elturel, read the following boxed text aloud to the players:
+A [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md) spell transports [Traxigor](3-Mechanics/CLI/bestiary/npc/traxigor-bgdia.md) the wizard and up to eight other creatures to Elturel, including [Lulu the hollyphant](3-Mechanics/CLI/bestiary/celestial/hollyphant-bgdia.md) and Reya Mantlemorn if she's still with the party. When the group arrives in Elturel, read the following boxed text aloud to the players:
 
 > [!readaloud] 
 > 
@@ -37,13 +37,13 @@ A [plane shift](3-Mechanics/CLI/spells/plane-shift.md) spell transports [Traxigo
 > [Traxigor](3-Mechanics/CLI/bestiary/npc/traxigor-bgdia.md) gazes up at the black orb nervously, utters a few arcane syllables, and disappears in the blink of an eye.
 ^115
 
-![Diagram 2.1: Chapter 2 Flowchart](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/027-3l0ic-flowchart-2-1.webp#center)
+![Diagram 2.1: Chapter 2 Flowchart](file://adventure/BGDIA/027-3l0ic-flowchart-2-1.webp#center)
 
-[Traxigor](3-Mechanics/CLI/bestiary/npc/traxigor-bgdia.md) casts [time stop](3-Mechanics/CLI/spells/time-stop.md), giving him time to flee using his [fly](3-Mechanics/CLI/spells/fly.md) spell. He's long gone before the [time stop](3-Mechanics/CLI/spells/time-stop.md) ends and the characters can react. Any character who succeeds on a DC 19 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check deduces how [Traxigor](3-Mechanics/CLI/bestiary/npc/traxigor-bgdia.md) made his escape. The party doesn't encounter [Traxigor](3-Mechanics/CLI/bestiary/npc/traxigor-bgdia.md) again unless you want him to reappear later in the adventure. [Traxigor](3-Mechanics/CLI/bestiary/npc/traxigor-bgdia.md) has no interest in saving Elturel or picking sides in the Blood War. After finishing a long rest, he can cast [plane shift](3-Mechanics/CLI/spells/plane-shift.md) again and return to his tower on the Material Plane.
+[Traxigor](3-Mechanics/CLI/bestiary/npc/traxigor-bgdia.md) casts [time stop](3-Mechanics/CLI/spells/time-stop-xphb.md), giving him time to flee using his [fly](3-Mechanics/CLI/spells/fly-xphb.md) spell. He's long gone before the [time stop](3-Mechanics/CLI/spells/time-stop-xphb.md) ends and the characters can react. Any character who succeeds on a DC 19 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check deduces how [Traxigor](3-Mechanics/CLI/bestiary/npc/traxigor-bgdia.md) made his escape. The party doesn't encounter [Traxigor](3-Mechanics/CLI/bestiary/npc/traxigor-bgdia.md) again unless you want him to reappear later in the adventure. [Traxigor](3-Mechanics/CLI/bestiary/npc/traxigor-bgdia.md) has no interest in saving Elturel or picking sides in the Blood War. After finishing a long rest, he can cast [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md) again and return to his tower on the Material Plane.
 
 The characters and any remaining NPC companions have a few minutes to acclimate to their new surroundings before facing their first threat in the city (see "Unwelcome Party" below). See the "Elturel Hazards" sidebar for more information about the earthquakes and other dangers.
 
-Upon her return to Avernus, [Lulu the hollyphant](3-Mechanics/CLI/bestiary/celestial/hollyphant-bgdia.md) regains her at-will innate spellcasting ability: [light](3-Mechanics/CLI/spells/light.md). In terms of her memories, she can at first only recognize that the surroundings feel familiar, albeit in a terrible way. The sounds and scents of Avernus trigger memories of Zariel's fall and the angel's earliest days as a denizen of the Lower Planes. [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md)'s time spent in Avernus and key interactions with specific NPCs slowly trigger the memories that help put the characters on a path to save the city.
+Upon her return to Avernus, [Lulu the hollyphant](3-Mechanics/CLI/bestiary/celestial/hollyphant-bgdia.md) regains her at-will innate spellcasting ability: [light](3-Mechanics/CLI/spells/light-xphb.md). In terms of her memories, she can at first only recognize that the surroundings feel familiar, albeit in a terrible way. The sounds and scents of Avernus trigger memories of Zariel's fall and the angel's earliest days as a denizen of the Lower Planes. [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md)'s time spent in Avernus and key interactions with specific NPCs slowly trigger the memories that help put the characters on a path to save the city.
 
 Reya Mantlemorn is disheartened by what she sees around her—Elturel in shambles—and is more determined than ever to try to save her city from destruction. She offers to lead the characters to the High Hall cathedral, where she hopes to find someone in charge.
 
@@ -60,7 +60,7 @@ Read the following boxed text to set the scene as the characters arrive in Eltur
 > Around the corner of a still-standing structure runs a woman with two toddlers, one on each arm. In her wake amble three infernal monsters with glaives and snakelike beards. The fiends are laughing darkly.
 ^117
 
-Three [bearded devils](3-Mechanics/CLI/bestiary/fiend/bearded-devil.md) named Blass, Nodd, and Thunn have infiltrated the city and are looking to wreak havoc. [Harkina Hunt](3-Mechanics/CLI/bestiary/npc/harkina-hunt-bgdia.md) and her young twin boys, Ezo and Brask, were out searching for provisions when the three devils spotted them. The chase has progressed into this street, 30 feet from the location of the characters' arrival.
+Three [bearded devils](3-Mechanics/CLI/bestiary/fiend/bearded-devil-xmm.md) named Blass, Nodd, and Thunn have infiltrated the city and are looking to wreak havoc. [Harkina Hunt](3-Mechanics/CLI/bestiary/npc/harkina-hunt-bgdia.md) and her young twin boys, Ezo and Brask, were out searching for provisions when the three devils spotted them. The chase has progressed into this street, 30 feet from the location of the characters' arrival.
 
 Unless the characters intervene, the bearded devils reach the innocent humans within a few rounds, then quickly capture them. Once captured, all three will be sold into slavery at the Wandering Emporium (see "Wandering Emporium"), in exchange for favors or goods that can help the devils advance in power.
 
@@ -70,7 +70,7 @@ Members of the Hunt family reduced to 0 hit points by the devils are knocked [un
 
 #### Aftermath
 
-If the characters save the Hunt family, Harkina expresses her undying gratitude. Although a [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md), she carries a longbow with which she is proficient. She uses it to protect her family. In addition to her longbow, she carries a quiver with forty arrows, twenty of which are silvered.
+If the characters save the Hunt family, Harkina expresses her undying gratitude. Although a [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md), she carries a longbow with which she is proficient. She uses it to protect her family. In addition to her longbow, she carries a quiver with forty arrows, twenty of which are silvered.
 
 Harkina can relay the following information regarding the current situation in the city:
 
@@ -93,18 +93,20 @@ If the characters capture and interrogate a bearded devil, or any other devil en
 > 
 > The easiest option is to have the NPCs stay back and out of the way, limiting their options to following the characters or hiding from enemies. During fights, you can effectively forget about those NPCs, assuming that the most capable among them are dealing with minor threats in the background while the adventurers handle the potent foes. You can also have combat-worthy NPCs join the fight, if you're up for running them. Have all NPCs act on the same initiative count, and focus their actions on assisting the characters in combat, rather than engaging in side fights of their own.
 > 
-> If the characters bring NPCs along, it increases the chances of having an encounter as the party moves from one location to another. Whenever you roll the `d20` to determine random encounters (see "More Encounters in Elturel"), an encounter takes place on a roll of 9 or higher.
+> If the characters bring NPCs along, it increases the chances of having an encounter as the party moves from one location to another. Whenever you roll the `dice:d20|noform|noparens|avg` (`d20`) to determine random encounters (see "More Encounters in Elturel"), an encounter takes place on a roll of 9 or higher.
 ^handling-noncombatants
 
 ### More Encounters in Elturel
 
 After their initial encounter with the Hunt family and the bearded devils, the characters are likely to want to get to the High Hall as quickly as possible to locate Grand Duke Ravengard. If you haven't done so already, unfold the poster map with the Elturel side facing up so players can get a sense of the city's layout and where they must go to reach the High Hall. Map 2.1 is a shrunk-down version of this side of the poster map.
 
-Whenever the party moves from one named location to another, roll a `d20`. A roll of 11 or higher indicates an encounter while the characters travel within the city. For example, as the characters travel to a bridge, make an encounter check. Then after crossing the bridge and moving toward the High Hall, make another check. Also make checks if the characters wander the streets or go off in search of other survivors.
+Whenever the party moves from one named location to another, roll a `dice:d20|noform|noparens|avg` (`d20`). A roll of 11 or higher indicates an encounter while the characters travel within the city. For example, as the characters travel to a bridge, make an encounter check. Then after crossing the bridge and moving toward the High Hall, make another check. Also make checks if the characters wander the streets or go off in search of other survivors.
 
 If an encounter is indicated, roll on the Encounters in Elturel table or choose an encounter you like. Each encounter can occur only once. If you roll an encounter that has already occurred, reroll on the table or select a different encounter. These encounters are described in the sections that follow the table.
 
 **Encounters in Elturel**
+
+`dice: [](03-chapter-2-elturel-has-fallen.md#^encounters-in-elturel)`
 
 | dice: d10 | Encounter |
 |-----------|-----------|
@@ -128,35 +130,35 @@ To keep the trapped victims from suffocating or being crushed, the characters mu
 
 During the rescue, the commotion might attract devils (see "Hateful Patrol" below) or other unwelcome attention.
 
-If the characters succeed in the rescue attempt, they pull out three lawful good shield dwarves from beneath the collapsed building: Strovin Ironfist, Kartra Boulderstern, and Velkora Ashenwell. Strovin and Kartra are laborers (use the [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md) stat block), but Velkora is a mason and an [acolyte](3-Mechanics/CLI/bestiary/humanoid/acolyte.md) of the dwarven god Moradin. Her healing powers would be a welcome resource at the High Hall. All three dwarves speak Common and Dwarvish, and have [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 60 feet. They also have resistance to poison damage and advantage on saving throws against being [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned).
+If the characters succeed in the rescue attempt, they pull out three lawful good shield dwarves from beneath the collapsed building: Strovin Ironfist, Kartra Boulderstern, and Velkora Ashenwell. Strovin and Kartra are laborers (use the [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) stat block), but Velkora is a mason and an [acolyte](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) of the dwarven god Moradin. Her healing powers would be a welcome resource at the High Hall. All three dwarves speak Common and Dwarvish, and have [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 60 feet. They also have resistance to poison damage and advantage on saving throws against being [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned).
 
 #### Cry for Help
 
 The characters hear a voice shouting for help. If they follow the voice, they find a male human under attack by two [bulezaus](3-Mechanics/CLI/bestiary/fiend/bulezau-mpmm.md) that slipped past the devils and climbed the infernal binding posts to Elturel.
 
-If the characters save the man, he introduces himself as Orin Ragron, a blacksmith who had a shop in Elturel. Orin is actually an [incubus](3-Mechanics/CLI/bestiary/fiend/incubus.md) in disguise named Faltrax. The incubus is trying to gain information on the defenses of Elturel, which it then plans to sell to the highest fiendish bidder. If the characters discover Faltrax's true nature, the incubus flees.
+If the characters save the man, he introduces himself as Orin Ragron, a blacksmith who had a shop in Elturel. Orin is actually an [incubus](3-Mechanics/CLI/bestiary/fiend/incubus-xmm.md) in disguise named Faltrax. The incubus is trying to gain information on the defenses of Elturel, which it then plans to sell to the highest fiendish bidder. If the characters discover Faltrax's true nature, the incubus flees.
 
 #### Ghastly Meal
 
-The characters catch of glimpse of four cloaked figures sneaking out of an alleyway and into a residence, as if trying not to be seen. If the characters enter the residence, they see four [ghasts](3-Mechanics/CLI/bestiary/undead/ghast.md) standing around a table eating the remains of a human family that perished here during the trip to Avernus. The ghasts reek of death and decay.
+The characters catch of glimpse of four cloaked figures sneaking out of an alleyway and into a residence, as if trying not to be seen. If the characters enter the residence, they see four [ghasts](3-Mechanics/CLI/bestiary/undead/ghast-xmm.md) standing around a table eating the remains of a human family that perished here during the trip to Avernus. The ghasts reek of death and decay.
 
 When the ghasts are dealt with, a successful DC 10 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check discerns a faint crying coming from a cupboard. Inside is a young girl called Shorah Hevrun. A noncombatant, she immediately attaches herself to the first character who is kind to her. Shorah insists on accompanying the characters until she feels safe. If they can get her to the High Hall, each character gains inspiration, and the survivors there can see to Shorah's care.
 
 #### Ghoul Pack
 
-Seven [ghouls](3-Mechanics/CLI/bestiary/undead/ghoul.md) roam the streets of Elturel, looking for their next meal. Their leader, formerly an adventuring rogue, wears magical [studded leather armor](3-Mechanics/CLI/items/studded-leather-armor.md) that increases its AC to 13 (see "Treasure" below). These former citizens of the city died when Elturel was drawn into Avernus. Their souls were corrupted by the terrible power of the plane, leaving them in these undead forms.
+Seven [ghouls](3-Mechanics/CLI/bestiary/undead/ghoul-xmm.md) roam the streets of Elturel, looking for their next meal. Their leader, formerly an adventuring rogue, wears magical [studded leather armor](3-Mechanics/CLI/items/studded-leather-armor-xphb.md) that increases its AC to 13 (see "Treasure" below). These former citizens of the city died when Elturel was drawn into Avernus. Their souls were corrupted by the terrible power of the plane, leaving them in these undead forms.
 
 ##### Treasure
 
-The ghoul leader wears [+1 studded leather armor](3-Mechanics/CLI/items/1-armor.md), carries an [explorer's pack](3-Mechanics/CLI/items/explorers-pack.md), and sports a belt pouch holding a [potion of invisibility](3-Mechanics/CLI/items/potion-of-invisibility.md).
+The ghoul leader wears [+1 studded leather armor](3-Mechanics/CLI/items/1-armor-xdmg.md), carries an [explorer's pack](3-Mechanics/CLI/items/explorers-pack-xphb.md), and sports a belt pouch holding a [potion of invisibility](3-Mechanics/CLI/items/potion-of-invisibility-xdmg.md).
 
 #### Hateful Patrol
 
-A [merregon](3-Mechanics/CLI/bestiary/fiend/merregon-mpmm.md) leads three [spined devils](3-Mechanics/CLI/bestiary/fiend/spined-devil.md) through the streets, looking for mortal survivors or demons that have slipped past the devilish forces below the city. The spined devils grumble in Infernal, unhappy about being up here when they could be fighting demons in the battle below. The merregon takes their insolence in silence.
+A [merregon](3-Mechanics/CLI/bestiary/fiend/merregon-mpmm.md) leads three [spined devils](3-Mechanics/CLI/bestiary/fiend/spined-devil-xmm.md) through the streets, looking for mortal survivors or demons that have slipped past the devilish forces below the city. The spined devils grumble in Infernal, unhappy about being up here when they could be fighting demons in the battle below. The merregon takes their insolence in silence.
 
 #### Imp Sales Pitch
 
-As the characters pass an alleyway, they notice an [imp](3-Mechanics/CLI/bestiary/fiend/imp.md) talking with a halfling. The two are focused on each other, making it easy for characters to get close enough to overhear the conversation in Common. The halfling, a baker ([commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md)) named Pilster Pebblehuck, has been hiding with his family in the basement of their bakery. They are running out of food, so Pilster has braved the streets to search for provisions. The imp, Perchillux, is offering Pilster a month's worth of food for the low price of his soul. Pilster is preparing to sign the contract as the characters come upon the pair.
+As the characters pass an alleyway, they notice an [imp](3-Mechanics/CLI/bestiary/fiend/imp-xmm.md) talking with a halfling. The two are focused on each other, making it easy for characters to get close enough to overhear the conversation in Common. The halfling, a baker ([commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) named Pilster Pebblehuck, has been hiding with his family in the basement of their bakery. They are running out of food, so Pilster has braved the streets to search for provisions. The imp, Perchillux, is offering Pilster a month's worth of food for the low price of his soul. Pilster is preparing to sign the contract as the characters come upon the pair.
 
 The contract is written on parchment made of halfling skin. If any character interrupts the signing and asks to read the contract, the imp tells them this is none of their business. Pilster welcomes the interruption, however, since he is having second thoughts about the deal, and he hands the contract to the characters. A successful DC 15 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check penetrates the dense and convoluted text of the contract—which will give the imp the souls of Pilster's entire family if Pilster signs it.
 
@@ -170,36 +172,36 @@ In addition to the contract, the imp carries a [soul coin](3-Mechanics/CLI/items
 > 
 > In addition to the threats they'll face from fiendish creatures and undead in Elturel, the characters quickly become aware of the threats presented by the city itself.
 > 
-> **Falling.** Any creature that falls from Elturel's location high above Avernus plummets 500 feet into the soul-shattering waters of the River Styx, taking 70 (`20d6`) bludgeoning damage from the fall. The memory-wiping effects of the river are described in "River Styx". However, characters who plunge into the Styx or the battle raging around the river are likely killed immediately, with their bodies beyond recovery.
+> **Falling.** Any creature that falls from Elturel's location high above Avernus plummets 500 feet into the soul-shattering waters of the River Styx, taking `dice:20d6|noform|noparens|avg|text(70)` (`20d6`) bludgeoning damage from the fall. The memory-wiping effects of the river are described in "River Styx". However, characters who plunge into the Styx or the battle raging around the river are likely killed immediately, with their bodies beyond recovery.
 > 
 > **Lightning.** Lightning from the Companion strikes the city every minute or so. The odds of the characters being harmed by the lightning are slim, but you can use it to reinforce a sense of urgency as the lightning damages a rooftop, triggers a building collapse, or strikes the ground nearby.
 > 
 > **Quakes.** Every so often, the entire city lurches from side to side as the great posts binding it to Avernus sink farther into the ground. This results in the same kind of damage that would be caused by an earthquake on the Material Plane: loose objects fall, buildings are damaged, cracks form in the ground and the streets, and creatures fall [prone](3-Mechanics/CLI/rules/conditions.md#Prone).
 > 
-> When Elturel shifts, creatures standing on any surface in the city must succeed on a DC 10 Dexterity saving throw or fall [prone](3-Mechanics/CLI/rules/conditions.md#Prone). In addition, you can describe other damage and drama resulting from a shift. Perhaps a building collapses, forcing any creature close enough to be struck by falling debris to succeed on a DC 15 Dexterity saving throw or take 7 (`2d6`) bludgeoning damage.
+> When Elturel shifts, creatures standing on any surface in the city must succeed on a DC 10 Dexterity saving throw or fall [prone](3-Mechanics/CLI/rules/conditions.md#Prone). In addition, you can describe other damage and drama resulting from a shift. Perhaps a building collapses, forcing any creature close enough to be struck by falling debris to succeed on a DC 15 Dexterity saving throw or take `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) bludgeoning damage.
 ^elturel-hazards
 
 > [!gallery]
-> ![Map 2.1: Elturel](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/028-huyub-map-2-1.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/029-fjxsa-map-elturel-poster.webp#gallery)
+> ![Map 2.1: Elturel](file://adventure/BGDIA/028-huyub-map-2-1.webp#gallery)
+> ![Player Version](file://adventure/BGDIA/029-fjxsa-map-elturel-poster.webp#gallery)
 
 #### Narzugon Cavalier
 
-A [narzugon](3-Mechanics/CLI/bestiary/fiend/narzugon-mpmm.md) patrols the streets of Elturel on the back of a [nightmare](3-Mechanics/CLI/bestiary/fiend/nightmare.md) equipped with [infernal tack](3-Mechanics/CLI/items/infernal-tack-mtf.md). The devil has orders to hunt down and destroy any demons that might have slipped past the battle on the ground below and gained access to the city.
+A [narzugon](3-Mechanics/CLI/bestiary/fiend/narzugon-mpmm.md) patrols the streets of Elturel on the back of a [nightmare](3-Mechanics/CLI/bestiary/fiend/nightmare-xmm.md) equipped with [infernal tack](3-Mechanics/CLI/items/infernal-tack-mtf.md). The devil has orders to hunt down and destroy any demons that might have slipped past the battle on the ground below and gained access to the city.
 
 When [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) sees the creature, she tells the characters that it is very powerful and should not be confronted.
 
 #### Spouts of Hellfire
 
-The characters see a charred humanoid corpse in the middle of the street, clutching a [silvered longsword](3-Mechanics/CLI/items/silvered-weapon.md) in its hand. When any creature moves within 5 feet of the corpse, a gout of hellfire erupts from it. Any creature within 5 feet of the corpse must make a DC 12 Dexterity saving throw, taking 14 (`4d6`) fire damage on a failed save, or half as much damage on a successful one.
+The characters see a charred humanoid corpse in the middle of the street, clutching a [silvered longsword](3-Mechanics/CLI/items/silvered-weapon-xdmg.md) in its hand. When any creature moves within 5 feet of the corpse, a gout of hellfire erupts from it. Any creature within 5 feet of the corpse must make a DC 12 Dexterity saving throw, taking `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) fire damage on a failed save, or half as much damage on a successful one.
 
 ##### Treasure
 
-If the corpse is examined further, an intact vial is found in its charred belt pouch. The vial contains a [potion of giant strength (frost)](3-Mechanics/CLI/items/potion-of-frost-giant-strength.md).
+If the corpse is examined further, an intact vial is found in its charred belt pouch. The vial contains a [potion of giant strength (frost)](3-Mechanics/CLI/items/potion-of-frost-giant-strength-xdmg.md).
 
 #### Vrock Philosophy
 
-A [vrock](3-Mechanics/CLI/bestiary/fiend/vrock.md) fled the battle and flew up to the city to ponder its role in all things. As long as the characters leave it alone, it doesn't attack. If they approach, it speaks with them, using its telepathy to communicate with one character at a time if none of the characters speaks Abyssal.
+A [vrock](3-Mechanics/CLI/bestiary/fiend/vrock-xmm.md) fled the battle and flew up to the city to ponder its role in all things. As long as the characters leave it alone, it doesn't attack. If they approach, it speaks with them, using its telepathy to communicate with one character at a time if none of the characters speaks Abyssal.
 
 The vrock pontificates on the vagaries and possible meanings of existence. If the characters treat it nicely, indulge it in its ponderings, and succeed on a DC 13 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check, they can get it to do them one small favor. If they attack it, the vrock repays their hostility in kind.
 
@@ -207,11 +209,11 @@ Favors from the vrock might include providing information about what's happening
 
 #### Zombie Horde
 
-As the characters pass a building, they hear a pounding coming from the front door. The door is stuck but not locked, requiring a successful DC 15 Strength check to force it open. If the characters do this, twelve [zombies](3-Mechanics/CLI/bestiary/undead/zombie.md) burst from the building as an avalanche of undead bodies, burying anyone standing near the door in the pile. This leaves those characters and the zombies [prone](3-Mechanics/CLI/rules/conditions.md#Prone) at the start of combat.
+As the characters pass a building, they hear a pounding coming from the front door. The door is stuck but not locked, requiring a successful DC 15 Strength check to force it open. If the characters do this, twelve [zombies](3-Mechanics/CLI/bestiary/undead/zombie-xmm.md) burst from the building as an avalanche of undead bodies, burying anyone standing near the door in the pile. This leaves those characters and the zombies [prone](3-Mechanics/CLI/rules/conditions.md#Prone) at the start of combat.
 
 If the characters deal with the zombies and search the building, they discover that it was a school. Five casks each holding three gallons of fresh water are stored in the basement.
 
-![Anchored by the chains of ...](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/030-qtzty-02-02-large.webp#center "Anchored by the chains of Avernus, the city of Elturel is doomed to drown in the River Styx unless someone finds a way to save it.")
+![Anchored by the chains of Avernus, the city of Elturel is doomed to drown in the River Styx unless someone finds a way to save it.](file://adventure/BGDIA/030-qtzty-02-02-large.webp#center)
 
 ### Torm's Bridges
 
@@ -226,11 +228,11 @@ When the characters approach either bridge, they can make out the initial detail
 > A bridge twenty feet wide and more than a hundred feet long spans the chasm. Holy runes etched into the stonework of the bridge indicate that the structure has been consecrated in the name of Torm, god of courage and self-sacrifice. Six infernal creatures stand guard at the center of the bridge, scanning in all directions.
 ^12d
 
-Each bridge is guarded by an infernal force tasked with cutting off any assistance between the east and west sides of the city. Each group consists of two [bearded devils](3-Mechanics/CLI/bestiary/fiend/bearded-devil.md) and four [spined devils](3-Mechanics/CLI/bestiary/fiend/spined-devil.md). Unsubtle brutes, these creatures have parked themselves in the middle of each bridge to maintain a vigilant watch. Taking them on is a tough fight, but the characters might have a trick up their collective sleeves.
+Each bridge is guarded by an infernal force tasked with cutting off any assistance between the east and west sides of the city. Each group consists of two [bearded devils](3-Mechanics/CLI/bestiary/fiend/bearded-devil-xmm.md) and four [spined devils](3-Mechanics/CLI/bestiary/fiend/spined-devil-xmm.md). Unsubtle brutes, these creatures have parked themselves in the middle of each bridge to maintain a vigilant watch. Taking them on is a tough fight, but the characters might have a trick up their collective sleeves.
 
 #### Holy Runes
 
-Any character trained in [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana), [History](3-Mechanics/CLI/rules/skills.md#History), or [Religion](3-Mechanics/CLI/rules/skills.md#Religion) recognizes that the runes etched into the stonework of each bridge can be activated to produce a radiant energy harmful to fiends and undead. A character touching the bridge who succeeds on a DC 15 Intelligence ([Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check as an action can speak the proper prayers to Torm to activate the runes for 1 minute. While the runes are active, any fiend or undead creature that starts its turn in contact with the bridge takes 22 (`4d10`) radiant damage. When this effect ends, the runes cannot be activated again for 1 hour.
+Any character trained in [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana), [History](3-Mechanics/CLI/rules/skills.md#History), or [Religion](3-Mechanics/CLI/rules/skills.md#Religion) recognizes that the runes etched into the stonework of each bridge can be activated to produce a radiant energy harmful to fiends and undead. A character touching the bridge who succeeds on a DC 15 Intelligence ([Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check as an action can speak the proper prayers to Torm to activate the runes for 1 minute. While the runes are active, any fiend or undead creature that starts its turn in contact with the bridge takes `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) radiant damage. When this effect ends, the runes cannot be activated again for 1 hour.
 
 ## High Hall
 
@@ -259,11 +261,11 @@ When the characters approach the High Hall, read the following boxed text to des
 
 No threats reveal themselves to the characters as they enter the castle grounds. Once inside, they spot two humans in plate armor lying dead on the ground near the shattered gate, blood still oozing from their bite wounds.
 
-As the characters approach the center of the courtyard, they see two [hell hounds](3-Mechanics/CLI/bestiary/fiend/hell-hound.md) standing guard in front of the cathedral doors. These fiends have been instructed by their devil masters to prevent any mortal creatures from entering or leaving the cathedral.
+As the characters approach the center of the courtyard, they see two [hell hounds](3-Mechanics/CLI/bestiary/fiend/hell-hound-xmm.md) standing guard in front of the cathedral doors. These fiends have been instructed by their devil masters to prevent any mortal creatures from entering or leaving the cathedral.
 
 The characters must defeat the hell hounds to gain access to the cathedral. Have them make a DC 15 group Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) check to find cover amid the rubble as they move. If half or more of the characters succeed on their individual checks, the group check is successful, allowing the characters to reach the base of the cathedral steps without being noticed by the hell hounds. This grants the characters surprise when the fight begins.
 
-![](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/031-nsppi-02-03.webp#center)
+![](file://adventure/BGDIA/031-nsppi-02-03.webp#center)
 
 ### Cathedral Assault
 
@@ -277,19 +279,19 @@ Most of the survivors currently in the cathedral are preparing for a last stand 
 
 #### Group 1: Abishai and Cultists
 
-This group is led by the mastermind behind the raid on the cathedral: Victuusa, a [white abishai](3-Mechanics/CLI/bestiary/fiend/white-abishai-mpmm.md). Victuusa serves both Tiamat and Zariel in an attempt to gain the most favor, and is presently searching for the leaders of the Elturel resistance. It wants nothing more than to deliver the heads of those leaders to Zariel personally. Victuusa leads six lawful evil human [cultists](3-Mechanics/CLI/bestiary/humanoid/cultist.md) devoted to Zariel.
+This group is led by the mastermind behind the raid on the cathedral: Victuusa, a [white abishai](3-Mechanics/CLI/bestiary/fiend/white-abishai-mpmm.md). Victuusa serves both Tiamat and Zariel in an attempt to gain the most favor, and is presently searching for the leaders of the Elturel resistance. It wants nothing more than to deliver the heads of those leaders to Zariel personally. Victuusa leads six lawful evil human [cultists](3-Mechanics/CLI/bestiary/humanoid/cultist-xmm.md) devoted to Zariel.
 
 #### Group 2: Crab Attack
 
-A [barbed devil](3-Mechanics/CLI/bestiary/fiend/barbed-devil.md) named Dreb marshals a pack of eight [giant crabs](3-Mechanics/CLI/bestiary/beast/giant-crab.md) through the cathedral. These crabs look and act like normal giant crabs, except for the spines protruding from their shells and the vile brimstone smell they exude. The clacking of the crabs' claws on the marble floors of the cathedral makes it impossible for this group to sneak up on anyone.
+A [barbed devil](3-Mechanics/CLI/bestiary/fiend/barbed-devil-xmm.md) named Dreb marshals a pack of eight [giant crabs](3-Mechanics/CLI/bestiary/beast/giant-crab-xmm.md) through the cathedral. These crabs look and act like normal giant crabs, except for the spines protruding from their shells and the vile brimstone smell they exude. The clacking of the crabs' claws on the marble floors of the cathedral makes it impossible for this group to sneak up on anyone.
 
 #### Group 3: Devilish Brigands
 
-A [spined devil](3-Mechanics/CLI/bestiary/fiend/spined-devil.md) leads three human brigands (use the [bandit captain](3-Mechanics/CLI/bestiary/humanoid/bandit-captain.md) stat block to represent them) on a rampage. The brigands were driven mad by the journey to Avernus, and have now pledged themselves to their spined devil master. Their madness causes them to bellow and gibber as they move through the cathedral. The spined devil roars at them as it uses its telepathy to order them to focus. This lack of caution and discipline makes ambushing or sneaking up on the group easy, granting advantage on Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) checks to do so.
+A [spined devil](3-Mechanics/CLI/bestiary/fiend/spined-devil-xmm.md) leads three human brigands (use the [bandit captain](3-Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm.md) stat block to represent them) on a rampage. The brigands were driven mad by the journey to Avernus, and have now pledged themselves to their spined devil master. Their madness causes them to bellow and gibber as they move through the cathedral. The spined devil roars at them as it uses its telepathy to order them to focus. This lack of caution and discipline makes ambushing or sneaking up on the group easy, granting advantage on Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) checks to do so.
 
 #### Group 4: Hellish Hunters
 
-A [merregon](3-Mechanics/CLI/bestiary/fiend/merregon-mpmm.md) oversees a mangy pair of [hell hounds](3-Mechanics/CLI/bestiary/fiend/hell-hound.md). The devil uses the hounds to sniff out survivors who might be hiding.
+A [merregon](3-Mechanics/CLI/bestiary/fiend/merregon-mpmm.md) oversees a mangy pair of [hell hounds](3-Mechanics/CLI/bestiary/fiend/hell-hound-xmm.md). The devil uses the hounds to sniff out survivors who might be hiding.
 
 ### High Hall Cathedral
 
@@ -301,17 +303,17 @@ Most of these descriptions highlight what the areas contain if a devil attack ha
 > 
 > Unless otherwise noted, the High Hall cathedral has the following recurring features.
 > 
-> **Art.** Once decorated with beautiful paintings, statues, and other works that depicted the strength and valor of Elturel's people, the cathedral was magically transformed when Elturel was pulled into Avernus. Now its artwork is a testament to the devils' superiority and strength, showing scenes of mortals succumbing to temptation, dying at the hands of fiends, and suffering eternal torture. When viewed, those images shift and swirl unsettlingly. A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals that the frescoes, mosaics, paintings, and tapestries of the cathedral radiate auras of illusion magic. These effects end if Elturel is freed from the chains of Avernus.
+> **Art.** Once decorated with beautiful paintings, statues, and other works that depicted the strength and valor of Elturel's people, the cathedral was magically transformed when Elturel was pulled into Avernus. Now its artwork is a testament to the devils' superiority and strength, showing scenes of mortals succumbing to temptation, dying at the hands of fiends, and suffering eternal torture. When viewed, those images shift and swirl unsettlingly. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals that the frescoes, mosaics, paintings, and tapestries of the cathedral radiate auras of illusion magic. These effects end if Elturel is freed from the chains of Avernus.
 > 
 > **Dimensions.** Each of the three levels of the cathedral is set 20 feet higher than the one below it. Rooms in the cathedral are 15 feet high, and have 8-foot-high doorways connecting them.
 > 
-> **Doors.** The doors of the cathedral are made of iron. Each door is a Large object with AC 19, 27 hit points, and immunity to poison and psychic damage. If a door in the cathedral is locked, it can be unlocked with a successful DC 17 Dexterity check with [thieves' tools](3-Mechanics/CLI/items/thieves-tools.md), or forced open with a successful DC 20 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check.
+> **Doors.** The doors of the cathedral are made of iron. Each door is a Large object with AC 19, 27 hit points, and immunity to poison and psychic damage. If a door in the cathedral is locked, it can be unlocked with a successful DC 17 Dexterity check with [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md), or forced open with a successful DC 20 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check.
 > 
-> **Illumination.** Areas within the cathedral are brightly lit by [continual flame](3-Mechanics/CLI/spells/continual-flame.md) spells cast on wall sconces.
+> **Illumination.** Areas within the cathedral are brightly lit by [continual flame](3-Mechanics/CLI/spells/continual-flame-xphb.md) spells cast on wall sconces.
 > 
 > **Walls.** Climbing the outside walls of the cathedral without equipment requires a successful DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check.
 > 
-> **Windows.** Most of the cathedral's windows were shattered during the descent into Avernus, but the windows are covered by defensive shutters that are latched from within and swing outward on iron hinges. A successful DC 17 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check or DC 15 Dexterity check with [thieves' tools](3-Mechanics/CLI/items/thieves-tools.md) opens a shutter from the outside. Each shutter is a Large object with AC 19, 27 hit points, and immunity to poison and psychic damage.
+> **Windows.** Most of the cathedral's windows were shattered during the descent into Avernus, but the windows are covered by defensive shutters that are latched from within and swing outward on iron hinges. A successful DC 17 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check or DC 15 Dexterity check with [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md) opens a shutter from the outside. Each shutter is a Large object with AC 19, 27 hit points, and immunity to poison and psychic damage.
 ^high-hall-cathedral-features
 
 #### H1. Hall of Heroes
@@ -351,8 +353,8 @@ Even with all that has happened in the city, this altar remains consecrated to T
 Any character who searches the altar while the hand is opened and succeeds on a DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check detects a large secret panel in the palm of the hand. The panel opens easily, revealing a concealed staircase descending into the central portion of the catacombs level, just west of area H15.
 
 > [!gallery]
-> ![Map 2.2: High Hall Cathedral](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/032-sibw6-map-2-2.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/033-d0d5t-map-2-2-player.webp#gallery)
+> ![Map 2.2: High Hall Cathedral](file://adventure/BGDIA/032-sibw6-map-2-2.webp#gallery)
+> ![Player Version](file://adventure/BGDIA/033-d0d5t-map-2-2-player.webp#gallery)
 
 #### H4. Private Chapels
 
@@ -360,11 +362,11 @@ These areas can be curtained off for small private ceremonies. Each of these cha
 
 ##### Survivor
 
-Seltern Obranch, a [druid](3-Mechanics/CLI/bestiary/humanoid/druid.md) dedicated to [Silvanus](3-Mechanics/CLI/deities/faerunian-silvanus-scag.md), was here when the attack took place. After being knocked down in the melee, he feigned his demise to trick his attackers. If the characters search the bodies, they notice Seltern open his eyes.
+Seltern Obranch, a [druid](3-Mechanics/CLI/bestiary/humanoid/druid-xmm.md) dedicated to Silvanus, was here when the attack took place. After being knocked down in the melee, he feigned his demise to trick his attackers. If the characters search the bodies, they notice Seltern open his eyes.
 
 If the characters treat him kindly, Seltern tells of how forces of devils assaulted the cathedral. He knows nothing of the current state of the place, but can tell the characters that all in the cathedral knew to flee to the main crypts (area H16) in case of an attack.
 
-Seltern has been using the [goodberry](3-Mechanics/CLI/spells/goodberry.md) spell to help keep those in the cathedral alive. However, his connection to his beloved nature grows weaker by the day, and he fears he may soon be unable to cast spells at all. Though he is not truly in danger of losing this ability (his resolve is simply shaken), this can provide a roleplaying opportunity for the characters to boost his spirits and strengthen his faith.
+Seltern has been using the [goodberry](3-Mechanics/CLI/spells/goodberry-xphb.md) spell to help keep those in the cathedral alive. However, his connection to his beloved nature grows weaker by the day, and he fears he may soon be unable to cast spells at all. Though he is not truly in danger of losing this ability (his resolve is simply shaken), this can provide a roleplaying opportunity for the characters to boost his spirits and strengthen his faith.
 
 #### H5. Stairs to Residences
 
@@ -384,11 +386,11 @@ This private chapel is similar to those of area H4. The devils currently rampagi
 The altar can be restored and its profane effect ended in the following ways:
 
 - A character who kneels before the altar, prays to Torm for 1 minute, and succeeds on a DC 15 Intelligence ([Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check at the end of the prayer causes Torm's power to wash over the altar and wipe clean the blood and other desecrating elements.  
-- Splashing at least three flasks of holy water on the altar destroys the desecrating elements and purifies the altar.  
+- Splashing at least three [flasks of holy water](3-Mechanics/CLI/items/holy-water-xphb.md) on the altar destroys the desecrating elements and purifies the altar.  
 
 > [!gallery]
-> ![Map 2.3: High Hall Cathedral, Choir Level](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/034-rkhyf-map-2-3.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/035-7vpmr-map-2-3-player.webp#gallery)
+> ![Map 2.3: High Hall Cathedral, Choir Level](file://adventure/BGDIA/034-rkhyf-map-2-3.webp#gallery)
+> ![Player Version](file://adventure/BGDIA/035-7vpmr-map-2-3-player.webp#gallery)
 
 #### H7. Pipe Organ
 
@@ -399,9 +401,9 @@ The circular stairs from area H2 lead up to this area. Read the following boxed 
 > Situated atop this balcony is a magnificent pipe organ. Its ivory keys practically glow, even as its ebony keys seem to absorb all light.
 ^14d
 
-The balcony looks out over area H3. Any character who sits down at the pipe organ can feel that it is enchanted with powerful magic, and a [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals an aura of enchantment magic around it.
+The balcony looks out over area H3. Any character who sits down at the pipe organ can feel that it is enchanted with powerful magic, and a [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of enchantment magic around it.
 
-A character who plays the organ and succeeds on a DC 15 Charisma ([Performance](3-Mechanics/CLI/rules/skills.md#Performance)) check can play a powerful song that resonates throughout the cathedral. This song grants a bonus die, a `d8`, to every other player character who can hear it. A character can only receive this benefit only once, and the `d8` can be added to one attack roll, ability check, or saving throw made by the character in the next 24 hours.
+A character who plays the organ and succeeds on a DC 15 Charisma ([Performance](3-Mechanics/CLI/rules/skills.md#Performance)) check can play a powerful song that resonates throughout the cathedral. This song grants a bonus die, a `dice:d8|noform|noparens|avg` (`d8`), to every other player character who can hear it. A character can only receive this benefit only once, and the `dice:d8|noform|noparens|avg` (`d8`) can be added to one attack roll, ability check, or saving throw made by the character in the next 24 hours.
 
 If the Charisma ([Performance](3-Mechanics/CLI/rules/skills.md#Performance)) check fails by 5 or more, a screeching, hellish tune erupts from the organ instead. Inspired by this cacophony, each devil the characters face in the next combat encounter in the cathedral has advantage on attack rolls during its first turn.
 
@@ -409,9 +411,9 @@ If the Charisma ([Performance](3-Mechanics/CLI/rules/skills.md#Performance)) che
 
 Two defensive turrets decorate the front of this area, looking down over the courtyard. Arrow slits in the walls of each turret offer a view of the ground below, but are too narrow for even Small creatures to squeeze through.
 
-The north turret contains a traumatized male human [guard](3-Mechanics/CLI/bestiary/humanoid/guard.md) named Trevick Thantorme. The other guards here ran downstairs when the attack started, only to quickly fall. The panicked Trevick remained here, and now sits curled up and whispering to himself that everything's going to be okay.
+The north turret contains a traumatized male human [guard](3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) named Trevick Thantorme. The other guards here ran downstairs when the attack started, only to quickly fall. The panicked Trevick remained here, and now sits curled up and whispering to himself that everything's going to be okay.
 
-A successful DC 10 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check restores Trevick's courage, as does a [calm emotions](3-Mechanics/CLI/spells/calm-emotions.md) spell or similar effect. If the characters allow it, Trevick vows to accompany them on their hunt for the devils. However, the first time he takes any damage, he curls up in a ball again, requiring another check made as an action to get him back in the fight.
+A successful DC 10 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check restores Trevick's courage, as does a [calm emotions](3-Mechanics/CLI/spells/calm-emotions-xphb.md) spell or similar effect. If the characters allow it, Trevick vows to accompany them on their hunt for the devils. However, the first time he takes any damage, he curls up in a ball again, requiring another check made as an action to get him back in the fight.
 
 #### H9. Balcony
 
@@ -419,7 +421,7 @@ The doors leading out onto this balcony are locked from the inside. The balcony 
 
 #### H10. Recessed Mausoleums
 
-These areas are the final resting places of esteemed priests, warriors, and other dedicated servants of Elturel. For each of these areas the characters enter, roll a `d6`. On a 1, the characters discover `1d4` [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner.md) in hiding (if the devils haven't found them) or a number of mangled bodies (if the devils did).
+These areas are the final resting places of esteemed priests, warriors, and other dedicated servants of Elturel. For each of these areas the characters enter, roll a `dice:d6|noform|noparens|avg` (`d6`). On a 1, the characters discover `dice:1d4|noform|noparens|avg` (`1d4`) [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) in hiding (if the devils haven't found them) or a number of mangled bodies (if the devils did).
 
 As the DM, you determine the fates of these commoners. If the characters are dawdling because the players don't appreciate the gravity of the threat to the survivors in the cathedral, coming upon deceased commoners can help underline that threat. Having the players understand that these deaths might have been prevented if they had acted more quickly is a good way to inspire the characters to act with a little more urgency.
 
@@ -429,15 +431,15 @@ These vaults are used for holding bodies waiting to be interred in some other pa
 
 #### H12. Temple of the Highest
 
-This large temple was used for private ceremonies involving the most powerful and respected figures in Elturel. Each of the semicircular alcoves here contains an elaborate, upright sarcophagus holding the body of a former high priest of Torm. A sarcophagus can be opened with a successful DC 20 Dexterity check by a character proficient with [thieves' tools](3-Mechanics/CLI/items/thieves-tools.md). Eleven of the sarcophagi contain partially decomposed bodies. The twelfth sarcophagus holds a [mummy](3-Mechanics/CLI/bestiary/undead/mummy.md), which attacks as soon as its coffin is opened.
+This large temple was used for private ceremonies involving the most powerful and respected figures in Elturel. Each of the semicircular alcoves here contains an elaborate, upright sarcophagus holding the body of a former high priest of Torm. A sarcophagus can be opened with a successful DC 20 Dexterity check by a character proficient with [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md). Eleven of the sarcophagi contain partially decomposed bodies. The twelfth sarcophagus holds a [mummy](3-Mechanics/CLI/bestiary/undead/mummy-xmm.md), which attacks as soon as its coffin is opened.
 
 ##### Treasure
 
-Each sarcophagus contains personal effects, but the sarcophagus with the mummy also contains [bracers of defense](3-Mechanics/CLI/items/bracers-of-defense.md) and a [yellow diamond elemental gem](3-Mechanics/CLI/items/elemental-gem-yellow-diamond.md). (The mummy does not use these items in combat.)
+Each sarcophagus contains personal effects, but the sarcophagus with the mummy also contains [bracers of defense](3-Mechanics/CLI/items/bracers-of-defense-xdmg.md) and a [yellow diamond elemental gem](3-Mechanics/CLI/items/elemental-gem-yellow-diamond-xdmg.md). (The mummy does not use these items in combat.)
 
 > [!gallery]
-> ![Map 2.4: High Hall Catacombs](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/036-qdpq8-map-2-4.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/037-wcrji-map-2-4-player.webp#gallery)
+> ![Map 2.4: High Hall Catacombs](file://adventure/BGDIA/036-qdpq8-map-2-4.webp#gallery)
+> ![Player Version](file://adventure/BGDIA/037-wcrji-map-2-4-player.webp#gallery)
 
 #### H13. Hall of Scholars
 
@@ -445,7 +447,7 @@ This crypt holds the bones of those who served Torm and Elturel through their kn
 
 ##### Treasure
 
-A rogue who worked in the cathedral used this room to hide her stolen goods. Behind the bones on one shelf are nine red amethysts (50 gp each) and a [potion of greater healing](3-Mechanics/CLI/items/potion-of-greater-healing.md).
+A rogue who worked in the cathedral used this room to hide her stolen goods. Behind the bones on one shelf are nine red amethysts (50 gp each) and a [potion of greater healing](3-Mechanics/CLI/items/potion-of-greater-healing-xdmg.md).
 
 #### H14. Chamber of Torm's Council
 
@@ -473,9 +475,9 @@ Read the following as the characters enter this area:
 > This large crypt area is presently home to over a hundred [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) people. They cower behind sarcophagi and in alcoves, their eyes red and their cheeks stained with tears. Standing before a large font is a haggard woman, her gray hair matted with sweat. With one arm, she clutches a leather-bound tome to her breast. In the other hand, she wields a ceremonial mace that would probably shatter if it struck anything harder than a pillow.
 ^15a
 
-These crypts house the remains of numerous worshipers and servants of Torm interred over the past century. Currently, more than one hundred [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) survivors of the attack on the High Hall are in hiding here, waiting for their doom. Standing between them and death is a lone [acolyte](3-Mechanics/CLI/bestiary/humanoid/acolyte.md), Pherria Jynks. With all the cathedral's priests dead and no one of higher authority to help her, she does her best to keep people calm and quiet. A simple sage and an expert on possession and exorcism, she is only just starting her career as a servant of Torm.
+These crypts house the remains of numerous worshipers and servants of Torm interred over the past century. Currently, more than one hundred [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) survivors of the attack on the High Hall are in hiding here, waiting for their doom. Standing between them and death is a lone [acolyte](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md), Pherria Jynks. With all the cathedral's priests dead and no one of higher authority to help her, she does her best to keep people calm and quiet. A simple sage and an expert on possession and exorcism, she is only just starting her career as a servant of Torm.
 
-![Tome of the Creed Resolute](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/038-h5py9-02-04.webp#center)
+![Tome of the Creed Resolute](file://adventure/BGDIA/038-h5py9-02-04.webp#center)
 
 ##### Tome of the Creed Resolute
 
@@ -485,7 +487,7 @@ Pherria took the *Tome of the Creed Resolute* from the cathedral to safeguard it
 
 ##### Holy Water Fonts
 
-The two wide fonts here contain water that has been blessed by priests, enough to fill fifty flasks with holy water.
+The two wide fonts here contain water that has been blessed by priests, enough to fill fifty [flasks with holy water](3-Mechanics/CLI/items/holy-water-xphb.md).
 
 A successful DC 15 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check notices odd details in the stonework around one of the fonts, which covers a secret tunnel (area H17).
 
@@ -526,7 +528,7 @@ Gideon slowly gave up his sanity and free will to the devils, leaving him corrup
 
 Because of his obsession with destroying demons, the characters might be able to temporarily ally with Gideon to deal with the threat posed by the demon portal. Unfortunately, unless they can trick him completely, the undead priest won't let the characters leave the cemetery without a fight.
 
-![Gideon Lightward](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/039-637001885543345186.webp#center)
+![Gideon Lightward](file://adventure/BGDIA/039-637001885543345186.webp#center)
 
 ### Demon Portal
 
@@ -540,11 +542,11 @@ The section describes locations in the city's cemetery—both the chapel and the
 
 Several graves have been dug up, leaving pits in the earth that are 6 feet deep, 2 feet wide, and 7 feet long. A number of stone mausoleums stand vacant, their doors hanging open. The interior of a mausoleum is dimly lit when its door is open and shrouded in darkness when the door is closed.
 
-As the characters investigate the cemetery, they observe dozens of [skeletons](3-Mechanics/CLI/bestiary/undead/skeleton.md) and [zombies](3-Mechanics/CLI/bestiary/undead/zombie.md) moving about the grounds. These undead, wandering aimlessly and without direction, pose no threat to the characters on their way into the chapel. However, if the characters fail to deal with Gideon before leaving Elturel, the priest has time to coordinate the efforts of the undead, turning them into a potent threat against the city.
+As the characters investigate the cemetery, they observe dozens of [skeletons](3-Mechanics/CLI/bestiary/undead/skeleton-xmm.md) and [zombies](3-Mechanics/CLI/bestiary/undead/zombie-xmm.md) moving about the grounds. These undead, wandering aimlessly and without direction, pose no threat to the characters on their way into the chapel. However, if the characters fail to deal with Gideon before leaving Elturel, the priest has time to coordinate the efforts of the undead, turning them into a potent threat against the city.
 
 #### Approaching the Chapel
 
-As the characters draw near the chapel, they are accosted by three [minotaur skeletons](3-Mechanics/CLI/bestiary/undead/minotaur-skeleton.md)—slain servants of Baphomet stripped of flesh and animated by Gideon using the power of the Companion. These skeletons attack any intruders on the cemetery grounds.
+As the characters draw near the chapel, they are accosted by three [minotaur skeletons](3-Mechanics/CLI/bestiary/undead/minotaur-skeleton-xmm.md)—slain servants of Baphomet stripped of flesh and animated by Gideon using the power of the Companion. These skeletons attack any intruders on the cemetery grounds.
 
 When the minotaur skeletons are disposed of and the characters get their first close look at the chapel, read the following to set the scene:
 
@@ -566,9 +568,9 @@ Read the following as the characters approach this area:
 
 With a successful DC 10 Intelligence ([History](3-Mechanics/CLI/rules/skills.md#History)) check, a character can remember the name of one of the heroes represented by the carved pillars, with another name remembered for each point by which the check total exceeds 10. The names of the heroes are Agnithar, Zokel of Torm, Bertra Zomes, Yevina Druen, Ca'sar, Xivik Looren, Dopp Hoosser, Whrenk the Bloody, Laveil deNue, and VanLancer Eagletalon.
 
-A successful DC 10 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana) or [Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check made to study the carved pillars reveals that a pillar can be empowered with radiant energy if the name of the hero it represents is spoken aloud as an action. Any undead creature that moves within 5 feet of an empowered statue for the first time on a turn or starts its turn there takes 5 (`1d10`) radiant damage.
+A successful DC 10 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana) or [Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check made to study the carved pillars reveals that a pillar can be empowered with radiant energy if the name of the hero it represents is spoken aloud as an action. Any undead creature that moves within 5 feet of an empowered statue for the first time on a turn or starts its turn there takes `dice:1d10|noform|noparens|avg|text(5)` (`1d10`) radiant damage.
 
-Each pillar is hollow and houses an incorporeal undead creature: four [shadows](3-Mechanics/CLI/bestiary/undead/shadow.md) and four [specters](3-Mechanics/CLI/bestiary/undead/specter.md) in total. Seven of the undead emerge from the pillars to attack any character who attempts to enter the chapel. The specter closest to the priest quarters (area G5) instead attempts to move to that area and warn Gideon of the intruders. If warned, Gideon quickly moves to area G4 and prepares to defend the chapel, while the specter returns to join the fray.
+Each pillar is hollow and houses an incorporeal undead creature: four [shadows](3-Mechanics/CLI/bestiary/undead/shadow-xmm.md) and four [specters](3-Mechanics/CLI/bestiary/undead/specter-xmm.md) in total. Seven of the undead emerge from the pillars to attack any character who attempts to enter the chapel. The specter closest to the priest quarters (area G5) instead attempts to move to that area and warn Gideon of the intruders. If warned, Gideon quickly moves to area G4 and prepares to defend the chapel, while the specter returns to join the fray.
 
 #### G2. Chapel of Light
 
@@ -581,7 +583,7 @@ Read the following as the characters enter this area:
 > Out of the shadows step four minotaur skeletons clutching bloody greataxes.
 ^169
 
-A squad of Baphomet's minotaurs attempted to overrun the chapel, but Gideon and his servants slew them. Gideon then turned them into four [minotaur skeletons](3-Mechanics/CLI/bestiary/undead/minotaur-skeleton.md) that attack as soon as any character enters this area. The minotaur skeletons attempt to charge characters, knocking them through the smashed windows. A creature pushed through a smashed window takes an extra 7 (`2d6`) slashing damage.
+A squad of Baphomet's minotaurs attempted to overrun the chapel, but Gideon and his servants slew them. Gideon then turned them into four [minotaur skeletons](3-Mechanics/CLI/bestiary/undead/minotaur-skeleton-xmm.md) that attack as soon as any character enters this area. The minotaur skeletons attempt to charge characters, knocking them through the smashed windows. A creature pushed through a smashed window takes an extra `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) slashing damage.
 
 ##### Stained-Glass Window
 
@@ -602,7 +604,7 @@ If a creature kneels before the damaged window and says a prayer to Lathander, t
 
 ##### Treasure
 
-The weapon that appears is a [+2 weapon](3-Mechanics/CLI/items/2-weapon.md). This item takes the form of whatever weapon the character is wielding or wearing at the time, and would be most useful to the supplicant in battle. Only one such weapon can be gained by the characters in this way.
+The weapon that appears is a [+2 weapon](3-Mechanics/CLI/items/2-weapon-xdmg.md). This item takes the form of whatever weapon the character is wielding or wearing at the time, and would be most useful to the supplicant in battle. Only one such weapon can be gained by the characters in this way.
 
 #### G4. Vestment Chamber
 
@@ -613,13 +615,13 @@ Read the following as the characters enter this area:
 > Three curtained archways connect this chamber to the other areas of the chapel. Shattered wardrobes and dressing tables, as well as a number of smashed mirrors, suggest that this was once where priests prepared for their daily services. Spiral stairs leading down are guarded by two creatures with insectoid features. Each one is armed with a wicked trident.
 ^16f
 
-The stairs lead down into the workshop (area G7) on the ossuary level. Two [mezzoloths](3-Mechanics/CLI/bestiary/fiend/mezzoloth.md) guard the stairs. [Gideon Lightward](3-Mechanics/CLI/bestiary/npc/gideon-lightward-bgdia.md) is also present here if one of his undead servants warned him of the characters' intrusion. Otherwise, the characters encounter Gideon in area G5.
+The stairs lead down into the workshop (area G7) on the ossuary level. Two [mezzoloths](3-Mechanics/CLI/bestiary/fiend/mezzoloth-xmm.md) guard the stairs. [Gideon Lightward](3-Mechanics/CLI/bestiary/npc/gideon-lightward-bgdia.md) is also present here if one of his undead servants warned him of the characters' intrusion. Otherwise, the characters encounter Gideon in area G5.
 
 > [!gallery]
-> ![Map 2.5: Grand Cemetery Chapel](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/040-422qk-map-2-5.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/041-oalyz-map-2-5-player.webp#gallery)
+> ![Map 2.5: Grand Cemetery Chapel](file://adventure/BGDIA/040-422qk-map-2-5.webp#gallery)
+> ![Player Version](file://adventure/BGDIA/041-oalyz-map-2-5-player.webp#gallery)
 
-Just as the characters are about to face off against the fiends, a cacophony erupts from below, and six creatures rush up the stairs: a fiendish [giant scorpion](3-Mechanics/CLI/bestiary/beast/giant-scorpion.md) trailed by five [dretches](3-Mechanics/CLI/bestiary/fiend/dretch.md). In response, the mezzoloths (and Gideon, if present) ignore the characters completely, focusing all their attacks on the scorpion and the demons. If Gideon is present and the characters refrain from attacking him after the first round or two, they have advantage on checks to parley with him after the battle. Otherwise, they have disadvantage on those checks.
+Just as the characters are about to face off against the fiends, a cacophony erupts from below, and six creatures rush up the stairs: a fiendish [giant scorpion](3-Mechanics/CLI/bestiary/beast/giant-scorpion-xmm.md) trailed by five [dretches](3-Mechanics/CLI/bestiary/fiend/dretch-xmm.md). In response, the mezzoloths (and Gideon, if present) ignore the characters completely, focusing all their attacks on the scorpion and the demons. If Gideon is present and the characters refrain from attacking him after the first round or two, they have advantage on checks to parley with him after the battle. Otherwise, they have disadvantage on those checks.
 
 ##### Parley
 
@@ -627,7 +629,7 @@ If Gideon is present, he lowers his weapon after all the demonic creatures are d
 
 If the characters ask about Ravengard, Gideon tells them that an armed group of humans entered the ossuary level earlier. Since they were not demons, he allowed them to pass, but with demons now coming from that area, Gideon angrily assumes that the humans are in league with the demons.
 
-A successful DC 12 Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception) or [Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check allows the characters to earn Gideon's trust. If they can convince him that they are here only to slay demons, he allows them to enter the crypt—and even provides them with the service of one [mezzoloth](3-Mechanics/CLI/bestiary/fiend/mezzoloth.md) if either of those creatures survived. Gideon doesn't accompany the characters, wanting to guard the chapel against demon attacks.
+A successful DC 12 Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception) or [Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check allows the characters to earn Gideon's trust. If they can convince him that they are here only to slay demons, he allows them to enter the crypt—and even provides them with the service of one [mezzoloth](3-Mechanics/CLI/bestiary/fiend/mezzoloth-xmm.md) if either of those creatures survived. Gideon doesn't accompany the characters, wanting to guard the chapel against demon attacks.
 
 #### G5. Gideon's Quarters
 
@@ -644,7 +646,7 @@ See area G4 for information on roleplaying Gideon if the characters first encoun
 
 The book is a testament written by Gideon in the months leading up to Elturel's fall. It pontificates about the evil of demons, instructing the reader to be ever vigilant against their incursions, and expounding that the demonic threat must be defeated at all costs. It praises the devils that stoically stand against the unending demonic tide, while chastising Helm, Torm, Tyr, Lathander, and their angelic servitors for not doing the same. Gideon has nothing but praise for Zariel's efforts to end the demonic threat. Any character who spends 10 minutes poring over the tome can conclude, with a successful DC 10 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check, that it's the work of a madman.
 
-Any character who continues to read the book beyond that basic level of understanding must succeed on a DC 15 Wisdom saving throw. On a failed check, the character is cursed with a particularly intense hatred of demons. A creature cursed in this way takes 5 (`1d10`) psychic damage if it can see any demon within 60 feet of it and ends its turn not having attempted to attack a demon. This curse can be removed with a [remove curse](3-Mechanics/CLI/spells/remove-curse.md) spell or similar magic. At the end of each long rest, a cursed creature can make a DC 15 Wisdom saving throw, ending the effect on itself on a success.
+Any character who continues to read the book beyond that basic level of understanding must succeed on a DC 15 Wisdom saving throw. On a failed check, the character is cursed with a particularly intense hatred of demons. A creature cursed in this way takes `dice:1d10|noform|noparens|avg|text(5)` (`1d10`) psychic damage if it can see any demon within 60 feet of it and ends its turn not having attempted to attack a demon. This curse can be removed with a [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md) spell or similar magic. At the end of each long rest, a cursed creature can make a DC 15 Wisdom saving throw, ending the effect on itself on a success.
 
 #### G6. Undead Pit
 
@@ -661,7 +663,7 @@ Gideon creates his undead servants in this 30-foot-deep pit, which was formed wh
 
 The mist is formed by necromantic energy emitted from the corrupted Companion. A successful DC 10 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check made to study the mist reveals that it pulsates in sync with the crackling energy of the corrupted Companion.
 
-Any creature that enters the mist for the first time on a turn or starts its turn there takes 5 (`1d10`) necrotic damage. Climbing the sides of the pit without equipment requires a successful DC 10 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check.
+Any creature that enters the mist for the first time on a turn or starts its turn there takes `dice:1d10|noform|noparens|avg|text(5)` (`1d10`) necrotic damage. Climbing the sides of the pit without equipment requires a successful DC 10 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check.
 
 Whenever Gideon directs his minions to toss a dead body into the pit, an undead creature crawls forth one hour later. Newly created undead patiently wander the cemetery grounds until Gideon gives them orders.
 
@@ -669,16 +671,18 @@ One undead creature appears during the time the characters investigate the pit, 
 
 **Undead Creation**
 
+`dice: [](03-chapter-2-elturel-has-fallen.md#^undead-creation)`
+
 | dice: d20 | Undead |
 |-----------|--------|
-| 1–4 | [Skeleton](3-Mechanics/CLI/bestiary/undead/skeleton.md) |
-| 5–7 | [Zombie](3-Mechanics/CLI/bestiary/undead/zombie.md) |
-| 8–10 | [Shadow](3-Mechanics/CLI/bestiary/undead/shadow.md) |
-| 11–12 | [Specter](3-Mechanics/CLI/bestiary/undead/specter.md) |
-| 13–15 | [Ghoul](3-Mechanics/CLI/bestiary/undead/ghoul.md) |
-| 16–17 | [Ghast](3-Mechanics/CLI/bestiary/undead/ghast.md) |
-| 18–19 | [Wight](3-Mechanics/CLI/bestiary/undead/wight.md) |
-| 20 | [Wraith](3-Mechanics/CLI/bestiary/undead/wraith.md) |
+| 1–4 | [Skeleton](3-Mechanics/CLI/bestiary/undead/skeleton-xmm.md) |
+| 5–7 | [Zombie](3-Mechanics/CLI/bestiary/undead/zombie-xmm.md) |
+| 8–10 | [Shadow](3-Mechanics/CLI/bestiary/undead/shadow-xmm.md) |
+| 11–12 | [Specter](3-Mechanics/CLI/bestiary/undead/specter-xmm.md) |
+| 13–15 | [Ghoul](3-Mechanics/CLI/bestiary/undead/ghoul-xmm.md) |
+| 16–17 | [Ghast](3-Mechanics/CLI/bestiary/undead/ghast-xmm.md) |
+| 18–19 | [Wight](3-Mechanics/CLI/bestiary/undead/wight-xmm.md) |
+| 20 | [Wraith](3-Mechanics/CLI/bestiary/undead/wraith-xmm.md) |
 ^undead-creation
 
 #### G7. Workshop
@@ -707,13 +711,13 @@ Those who could not afford the expense of a cemetery plot above ground were resp
 
 The bones marked by holy symbols are the remains of honored priests and acolytes who worked in the chapel, and who requested to take their final rest alongside the poor they served.
 
-The holy symbols in this area once channeled the blessings of their gods, but that trace magic has been corrupted by the passage of Elturel to Avernus, and by the presence of the abyssal portal in area G12. If any holy symbol is touched, or if any creature not a fiend or undead lingers in this area for more than 1 minute, all the holy symbols unleash a pulse of necrotic power. Each creature in the area must make a DC 15 Constitution saving throw, taking 18 (`4d8`) necrotic damage on a failed save, or half as much damage on a successful one. This hazard resets in 1 hour as long as the portal in area G12 is active.
+The holy symbols in this area once channeled the blessings of their gods, but that trace magic has been corrupted by the passage of Elturel to Avernus, and by the presence of the abyssal portal in area G12. If any holy symbol is touched, or if any creature not a fiend or undead lingers in this area for more than 1 minute, all the holy symbols unleash a pulse of necrotic power. Each creature in the area must make a DC 15 Constitution saving throw, taking `dice:4d8|noform|noparens|avg|text(18)` (`4d8`) necrotic damage on a failed save, or half as much damage on a successful one. This hazard resets in 1 hour as long as the portal in area G12 is active.
 
 #### G9. Main Ossuary
 
 > [!gallery]
-> ![Map 2.6: Grand Cemetery, Ossuary level](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/042-z24lv-map-2-6.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/043-cbi17-map-2-6-player.webp#gallery)
+> ![Map 2.6: Grand Cemetery, Ossuary level](file://adventure/BGDIA/042-z24lv-map-2-6.webp#gallery)
+> ![Player Version](file://adventure/BGDIA/043-cbi17-map-2-6-player.webp#gallery)
 
 Read the following as the characters enter this area:
 
@@ -722,7 +726,7 @@ Read the following as the characters enter this area:
 > This huge chamber is lined by funerary shelves along the stone walls above six bare daises, creating a display of dusty humanoid bones rising from floor to ceiling.
 ^17d
 
-A [quasit](3-Mechanics/CLI/bestiary/fiend/quasit.md) named Ophurkh was the first demon to come through the portal in area G12, acting as a scout. A steadfast servant of Baphomet, it remains in this area to provide instructions for other demons as they arrive through the portal and prepare to enter Elturel.
+A [quasit](3-Mechanics/CLI/bestiary/fiend/quasit-xmm.md) named Ophurkh was the first demon to come through the portal in area G12, acting as a scout. A steadfast servant of Baphomet, it remains in this area to provide instructions for other demons as they arrive through the portal and prepare to enter Elturel.
 
 Ophurkh remains [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) and keeps quiet as the characters pass through this area. If it is able to elude notice, it follows the characters, waiting for a chance to use its Scare ability to try to drive them from this level. If unsuccessful, it goes [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) again, then waits and attacks alongside the minotaurs that emerge from the portal when the characters reach area G12.
 
@@ -771,11 +775,11 @@ This chamber was a place for the most devout of Torm's followers to touch the mi
 
 The east wall of this area is a roiling field of abyssal energy, marking the portal where Baphomet has used this area's corrupted link to Torm to connect the Abyss to Avernus, by way of Elturel.
 
-![Ulder Ravengard](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/044-637000773572596171.webp#center)
+![Ulder Ravengard](file://adventure/BGDIA/044-637000773572596171.webp#center)
 
 [Ulder Ravengard](3-Mechanics/CLI/bestiary/npc/ulder-ravengard-bgdia.md) found the Helm of Torm's Sight in area G11 and donned it. The helm is a nonmagical item through which Torm can send visions. Ravengard was beginning to establish a connection with Torm when a disturbance in this room brought him and his guards into combat with demonic creatures sent through the portal by Baphomet. Ravengard was subjected to a psychic attack that drew his mind into a connection with Baphomet. Now the helm can't be removed, and he is locked in a mental battle with the demon lord. Ravengard is [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned) until the helm is removed. The helm can't be removed from him while he is alive—at least, not yet.
 
-As the characters observe the struggle taking place within Ravengard, three wild-eyed [minotaurs](3-Mechanics/CLI/bestiary/monstrosity/minotaur.md) come through the portal. They charge into battle with the characters but avoid Ravengard because of the demonic presence they feel within him.
+As the characters observe the struggle taking place within Ravengard, three wild-eyed [minotaurs](3-Mechanics/CLI/bestiary/monstrosity/minotaur-of-baphomet-xmm.md) come through the portal. They charge into battle with the characters but avoid Ravengard because of the demonic presence they feel within him.
 
 Any character who understands Celestial or Abyssal can recognize some of the words escaping Ravengard's lips. He alternates between the two languages as both Torm and Baphomet speak through him. A successful DC 15 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana) or [Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check reveals that the psychic struggle taking place within Ravengard's mind is between some divine higher power and a terrible, demonic entity. The power of the portal is now tied into the helm, and to Ravengard. The same check also reveals that no simple spell can break this hold—but that a more involved ritual might free Ravengard and shut down the portal by allowing the power of Torm to sanctify this area once more.
 
@@ -783,9 +787,9 @@ Characters who spoke to Pherria back at the cathedral remember that she was a sa
 
 ##### Treasure
 
-Searching the bodies of the fallen guards turns up three wet but usable [spell scrolls](3-Mechanics/CLI/items/spell-scroll.md) ([mass healing word](3-Mechanics/CLI/spells/mass-healing-word.md), [remove curse](3-Mechanics/CLI/spells/remove-curse.md), and [tongues](3-Mechanics/CLI/spells/tongues.md)).
+Searching the bodies of the fallen guards turns up three wet but usable [spell scrolls](3-Mechanics/CLI/items/spell-scroll-xdmg.md) ([mass healing word](3-Mechanics/CLI/spells/mass-healing-word-xphb.md), [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md), and [tongues](3-Mechanics/CLI/spells/tongues-xphb.md)).
 
-In addition to the Helm of Torm's Sight, Ravengard wears a bloodied suit of [plate armor](3-Mechanics/CLI/items/plate-armor.md) emblazoned with the emblem of the Flaming Fist. His [shield](3-Mechanics/CLI/items/shield.md), which also bears this emblem, is slung over his back. The grand duke's [+1 longsword](3-Mechanics/CLI/items/1-weapon.md) is sheathed at his side.
+In addition to the Helm of Torm's Sight, Ravengard wears a bloodied suit of [plate armor](3-Mechanics/CLI/items/plate-armor-xphb.md) emblazoned with the emblem of the Flaming Fist. His [shield](3-Mechanics/CLI/items/shield-xphb.md), which also bears this emblem, is slung over his back. The grand duke's [+1 longsword](3-Mechanics/CLI/items/1-weapon-xdmg.md) is sheathed at his side.
 
 #### Leaving the Chapel
 
@@ -821,9 +825,9 @@ Pherria outlines what's needed for the ritual:
 
 Pherria warns the characters that she has never attempted this particular ritual before, and that they should be ready to step in and help her—or to fight off any evil forces that might try to disrupt the process.
 
-The ritual prayer takes 30 seconds to recite. Pherria knows the prayer by heart, but another creature can invoke a suitable prayer with a successful DC 10 Intelligence ([Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check. While the prayer is being spoken, one character must spend the next 5 rounds gently resting the sword of the Unknown Hero on the Helm of Torm's Sight. While the prayer is being spoken, the one holding the sword must succeed on a DC 11 Constitution saving throw at the end of each of their turns or take 10 (`3d6`) force damage.
+The ritual prayer takes 30 seconds to recite. Pherria knows the prayer by heart, but another creature can invoke a suitable prayer with a successful DC 10 Intelligence ([Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check. While the prayer is being spoken, one character must spend the next 5 rounds gently resting the sword of the Unknown Hero on the Helm of Torm's Sight. While the prayer is being spoken, the one holding the sword must succeed on a DC 11 Constitution saving throw at the end of each of their turns or take `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) force damage.
 
-Immediately after the character holding the sword makes their first saving throw, the potent magic of the ritual attracts demonic spirits loyal to Baphomet, which emerge from the helm as two [will-o'-wisps](3-Mechanics/CLI/bestiary/undead/will-o-wisp.md) that attempt to disrupt the ritual by attacking the individuals reciting the prayer and holding the sword.
+Immediately after the character holding the sword makes their first saving throw, the potent magic of the ritual attracts demonic spirits loyal to Baphomet, which emerge from the helm as two [will-o'-wisps](3-Mechanics/CLI/bestiary/undead/will-o-wisp-xmm.md) that attempt to disrupt the ritual by attacking the individuals reciting the prayer and holding the sword.
 
 When the character holding the sword makes the last saving throw, the ritual is complete. The will-o'-wisps are banished, and Ravengard comes to his senses.
 
@@ -831,7 +835,7 @@ When the character holding the sword makes the last saving throw, the ritual is 
 > 
 > You can simplify the encounter with [Ulder Ravengard](3-Mechanics/CLI/bestiary/npc/ulder-ravengard-bgdia.md) by allowing the characters to remove the Helm of Torm's Sight from his head, whereupon Ravengard quickly regains his senses. At that point, he can tell them about his visions, which provide the information they need and trigger [Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md)'s memories. He then lets them plot a path forward in their quest to save Elturel.
 > 
-> Alternatively, Ravengard can fall [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) when the helm is removed, even as the character who removes it feels an almost overwhelming urge to don it. A character who dons the helm feels at peace and sees visions of troops in gleaming armor marching across a grassy plain with military precision. In the next breath, the character sees massive groups of disfigured monsters loping across a blighted landscape, tearing at screaming enemies. The character wearing the helm can't remove it until they receive a [bless](3-Mechanics/CLI/spells/bless.md) spell from a worshiper of Torm. (Pherria fits this description.) In the meantime, as the adventuring party travels back to the cathedral with the still-[unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) Ravengard, the character wearing the helm experiences the same visions that Ravengard was having, as described in "The Path Forward". Ravengard then awakens after 1 hour, no worse for wear.
+> Alternatively, Ravengard can fall [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) when the helm is removed, even as the character who removes it feels an almost overwhelming urge to don it. A character who dons the helm feels at peace and sees visions of troops in gleaming armor marching across a grassy plain with military precision. In the next breath, the character sees massive groups of disfigured monsters loping across a blighted landscape, tearing at screaming enemies. The character wearing the helm can't remove it until they receive a [bless](3-Mechanics/CLI/spells/bless-xphb.md) spell from a worshiper of Torm. (Pherria fits this description.) In the meantime, as the adventuring party travels back to the cathedral with the still-[unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) Ravengard, the character wearing the helm experiences the same visions that Ravengard was having, as described in "The Path Forward". Ravengard then awakens after 1 hour, no worse for wear.
 ^helm-of-torms-sight
 
 ### The Path Forward
@@ -865,7 +869,7 @@ The jagged posts and enormous chains of infernal iron that hold Elturel are the 
 
 The chain links are covered in 1-foot-long iron barbs that make them relatively easy to move along. The posts of infernal iron that anchor Elturel to the ground likewise offer numerous handholds for climbing. If the characters navigate the chains and the posts carefully, no ability checks are needed to prevent a fall while climbing across the chains or descending the posts at normal speed. Any character who tries to move or climb more quickly during a turn must succeed on a DC 10 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check or fall.
 
-Fiendish magic within the posts and chains makes prolonged contact with them unbearable. Once per minute, any creature in contact with the infernal iron must make a DC 10 Constitution saving throw, taking 10 (`3d6`) necrotic damage on a failed save, or half as much damage on a successful one. A creature that fails this saving throw must then succeed on a DC 10 Dexterity saving throw or slip from the chain or post and fall.
+Fiendish magic within the posts and chains makes prolonged contact with them unbearable. Once per minute, any creature in contact with the infernal iron must make a DC 10 Constitution saving throw, taking `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) necrotic damage on a failed save, or half as much damage on a successful one. A creature that fails this saving throw must then succeed on a DC 10 Dexterity saving throw or slip from the chain or post and fall.
 
 Any character within reach of a falling creature can, with a successful DC 10 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check, grab the falling creature and swing it back onto the chain, provided the falling creature is light enough for the character to carry.
 
@@ -873,7 +877,7 @@ Creatures that fall from Elturel or one of the chains take damage from the fall 
 
 #### Flying
 
-[Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) has the ability to fly, and one or more characters might also be able to do so. Whether they possess wings or have access to magic such as a [fly](3-Mechanics/CLI/spells/fly.md) spell or a [potion of flying](3-Mechanics/CLI/items/potion-of-flying.md), characters who take to the air can easily get clear of Elturel. However, flying creatures might attract the attention of winged devils and demons in the area, at your discretion.
+[Lulu](3-Mechanics/CLI/bestiary/npc/lulu-bgdia.md) has the ability to fly, and one or more characters might also be able to do so. Whether they possess wings or have access to magic such as a [fly](3-Mechanics/CLI/spells/fly-xphb.md) spell or a [potion of flying](3-Mechanics/CLI/items/potion-of-flying-xdmg.md), characters who take to the air can easily get clear of Elturel. However, flying creatures might attract the attention of winged devils and demons in the area, at your discretion.
 
 #### Improvised Equipment
 
@@ -900,9 +904,9 @@ Legions of devils camped on the shores of the River Styx below Elturel are the b
 > A dark river cuts a path across the blasted landscape and flows directly beneath the city. Floating on the river are demonic barges being assailed by squadrons of winged devils under the command of a terrifying pit fiend wearing an eyeless helm and clutching a battle standard.
 ^194
 
-The demons and the devils are too focused on one another to concern themselves with adventurers who keep their distance. The devils are commanded by Lucille, Zariel's most loyal [pit fiend](3-Mechanics/CLI/bestiary/fiend/pit-fiend.md). If the characters come to Lucille's attention, the pit fiend sends twelve [spined devils](3-Mechanics/CLI/bestiary/fiend/spined-devil.md) to dispose of them.
+The demons and the devils are too focused on one another to concern themselves with adventurers who keep their distance. The devils are commanded by Lucille, Zariel's most loyal [pit fiend](3-Mechanics/CLI/bestiary/fiend/pit-fiend-xmm.md). If the characters come to Lucille's attention, the pit fiend sends twelve [spined devils](3-Mechanics/CLI/bestiary/fiend/spined-devil-xmm.md) to dispose of them.
 
-![](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/045-vspmo-02-05.webp#center)
+![](file://adventure/BGDIA/045-vspmo-02-05.webp#center)
 
 Characters who hurl themselves into the fiendish conflict are as good as dead, but circumstances might necessitate one or more characters moving unseen through the ranks of devils and hordes of demons. Such a plan might include causing a distraction that moves the battle in a different direction, waiting for a demon surge (or creating one) to disturb the stalemate enough to sneak through, or magical disguises that would allow characters to pass themselves off as fiends of a sort. Particularly clever plans should be allowed to automatically succeed. Otherwise, you can call for ability checks to determine how well a plan is executed; use the guidelines in the "Dungeon Master's Guide" to set appropriate DCs for these checks. In the event of total failure, or no plan at all, the characters might end up having to fight their way through the fiendish battle, which is no small task.
 

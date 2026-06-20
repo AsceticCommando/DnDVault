@@ -12,6 +12,8 @@ aliases:
 
 **Dungeon: Planar Gate**
 
+`dice: [](chamber-purpose-dungeon-planar-gate.md#^dungeon-planar-gate)`
+
 | dice: d100 | Purpose |
 |------------|---------|
 | 01-03 | Decorated foyer or antechamber |

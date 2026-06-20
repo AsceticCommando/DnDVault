@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Ghost Dragon"
 ---
-# [Ghost Dragon](3-Mechanics\CLI\bestiary\undead/ghost-dragon-ftd.md)
+# [Ghost Dragon](3-Mechanics/CLI/bestiary/undead/ghost-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 203*  
 
 A dragon's attachment to a hoard can be strong enough to bind the dragon's spirit to existence after death. Such a ghost dragon haunts the hoard, often forming an attachment to a single priceless object that becomes the focus of the ghost dragon's Undead existence.
@@ -90,6 +90,6 @@ A ghost dragon is a translucent and incorporeal version of the original dragon. 
     "name": "Terrifying Breath (Recharge 6)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/undead/token/ghost-dragon-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Ghost%20Dragon.webp"
 ```
 ^statblock

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Maegera the Dawn Titan"
 ---
-# [Maegera the Dawn Titan](3-Mechanics\CLI\bestiary\npc/maegera-the-dawn-titan-skt.md)
+# [Maegera the Dawn Titan](3-Mechanics/CLI/bestiary/npc/maegera-the-dawn-titan-skt.md)
 *Source: Storm King's Thunder p. 241*  
 
 Maegera is powerful elemental that has been trapped in the forges of Gauntlgrym for millennia. About fifty years ago, Maegera briefly escaped and triggered the eruption of Mount Hotenow. Lava from the volcano flowed toward the coast, laying waste to Neverwinter. The city is still rebuilding in the wake of that catastrophe.
@@ -25,7 +25,7 @@ Maegera looks like a 50-foot-tall, multi-limbed beast made of flame, with smolde
 "name": "Maegera the Dawn Titan (SKT)"
 "size": "Gargantuan"
 "type": "elemental"
-"alignment": "Chaotic Evil"
+"alignment": "Chaotic Neutral"
 "ac": !!int "16"
 "hp": !!int "341"
 "hit_dice": "22d20 + 110"
@@ -80,10 +80,10 @@ Maegera looks like a 50-foot-tall, multi-limbed beast made of flame, with smolde
   - "desc": "*Melee Weapon Attack:* +12 to hit, reach 15 ft., one target. *Hit:* 15\
       \ (3d6 + 5) bludgeoning damage plus 35 (10d6) fire damage,"
     "name": "Slam"
-  - "desc": "Maegera casts [fireball](3-Mechanics/CLI/spells/fireball.md) (spell save\
-      \ DC 19), requiring no material components and using Charisma as the spellcasting\
+  - "desc": "Maegera casts [fireball](3-Mechanics/CLI/spells/fireball-xphb.md) (spell\
+      \ save DC 19), requiring no material components and using Charisma as the spellcasting\
       \ ability.\n"
-    "name": "Spellcasting"
+    "name": "Innate Spellcasting"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, Maegera can expend a use to take one of the following actions. Maegera regains\
   \ all expended uses at the start of each of their turns."
@@ -100,14 +100,14 @@ Maegera looks like a 50-foot-tall, multi-limbed beast made of flame, with smolde
       \ be seen."
     "name": "Smoke Cloud (Costs 2 Actions)"
   - "desc": "Maegera's hit points are reduced by 50 as part of it separates and becomes\
-      \ a [fire elemental](3-Mechanics/CLI/bestiary/elemental/fire-elemental.md) with\
-      \ 102 hit points. The fire element appears in an unoccupied space within 15\
-      \ feet of Maegera and acts on Maegera's initiative count. Maegera can't use\
+      \ a [fire elemental](3-Mechanics/CLI/bestiary/elemental/fire-elemental-xmm.md)\
+      \ with 102 hit points. The fire element appears in an unoccupied space within\
+      \ 15 feet of Maegera and acts on Maegera's initiative count. Maegera can't use\
       \ this action if it has 50 hit points or fewer. The fire element obeys Maegera's\
       \ commands and fights until destroyed."
     "name": "Create Fire Elemental (Costs 3 Actions)"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/maegera-the-dawn-titan-skt.webp"
+"image": "file://bestiary/tokens/SKT/Maegera%20the%20Dawn%20Titan.webp"
 ```
 ^statblock

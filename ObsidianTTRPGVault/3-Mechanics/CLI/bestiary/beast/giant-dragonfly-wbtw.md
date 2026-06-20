@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Giant Dragonfly"
 ---
-# [Giant Dragonfly](3-Mechanics\CLI\bestiary\beast/giant-dragonfly-wbtw.md)
+# [Giant Dragonfly](3-Mechanics/CLI/bestiary/beast/giant-dragonfly-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 234*  
 
 A giant dragonfly has a 20-foot wingspan. It drones loudly as it hovers and darts through the air, searching for smaller insects to consume.
@@ -52,6 +52,6 @@ A giant dragonfly has a 20-foot wingspan. It drones loudly as it hovers and dart
     "name": "Uncanny Dodge"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/beast/token/giant-dragonfly-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Giant%20Dragonfly.webp"
 ```
 ^statblock

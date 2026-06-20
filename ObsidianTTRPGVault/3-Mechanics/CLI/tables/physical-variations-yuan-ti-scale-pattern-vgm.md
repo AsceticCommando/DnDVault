@@ -12,6 +12,8 @@ aliases:
 
 **Yuan-ti Scale Pattern**
 
+`dice: [](physical-variations-yuan-ti-scale-pattern-vgm.md#^yuan-ti-scale-pattern)`
+
 | dice: d20 | Scale Pattern |
 |-----------|---------------|
 | 1-5 | Mottled |

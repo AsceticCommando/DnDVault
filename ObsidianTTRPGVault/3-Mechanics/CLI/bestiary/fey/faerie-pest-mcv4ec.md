@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Faerie Pest"
 ---
-# [Faerie Pest](3-Mechanics\CLI\bestiary\fey/faerie-pest-mcv4ec.md)
+# [Faerie Pest](3-Mechanics/CLI/bestiary/fey/faerie-pest-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 Faerie pests love to cause annoyance, fear, and pain. They are perhaps the most mercurial of the faeries and are happy to follow anyone who promises the opportunity to menace someone new.
@@ -44,7 +44,7 @@ The faeries of Eldraine are winged, elfin creatures similar to sprites or pixies
 "type": "fey"
 "alignment": "typically  Chaotic Evil"
 "ac": !!int "14"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "22"
 "hit_dice": "5d6 + 5"
 "modifier": !!int "3"
@@ -79,14 +79,14 @@ The faeries of Eldraine are winged, elfin creatures similar to sprites or pixies
     "name": "Theft of Nerves (1/Day)"
   - "desc": "The faerie casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 12):\n\n**2/day\
-      \ each:** [bane](3-Mechanics/CLI/spells/bane.md), [grease](3-Mechanics/CLI/spells/grease.md)\n\
-      \n**1/day:** [blindness/deafness](3-Mechanics/CLI/spells/blindness-deafness.md)"
+      \ each:** [bane](3-Mechanics/CLI/spells/bane-xphb.md), [grease](3-Mechanics/CLI/spells/grease-xphb.md)\n\
+      \n**1/day:** [blindness/deafness](3-Mechanics/CLI/spells/blindness-deafness-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The faerie takes the [Hide](3-Mechanics/CLI/rules/actions.md#Hide) action."
     "name": "Mischievous Stealth"
 "source":
   - "MCV4EC"
-"image": "3-Mechanics/CLI/bestiary/fey/token/faerie-pest-mcv4ec.webp"
+"image": "file://bestiary/tokens/MCV4EC/Faerie%20Pest.webp"
 ```
 ^statblock

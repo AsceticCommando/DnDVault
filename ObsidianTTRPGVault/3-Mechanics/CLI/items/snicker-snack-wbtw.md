@@ -12,14 +12,14 @@ aliases:
 - "Snicker-Snack"
 ---
 # Snicker-Snack
-*Weapon ([greatsword](3-Mechanics/CLI/items/greatsword.md)), legendary (requires attunement by a non-evil creature)*  
-![](3-Mechanics/CLI/items/img/snicker-snack.webp#right)
+*Weapon ([greatsword](3-Mechanics/CLI/items/greatsword-xphb.md)), legendary (requires attunement by a non-evil creature)*  
+![](file://items/WBtW/Snicker-Snack.webp#right)
 
 - **Damage**: 2d6 slashing
 - **Properties**: [Heavy](3-Mechanics/CLI/rules/item-properties.md#Heavy), [Two-Handed](3-Mechanics/CLI/rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
-You gain a +3 bonus to attack and damage rolls made with this magic vorpal sword. In addition, the weapon ignores resistance to slashing damage. When you use this weapon to attack a creature that has at least one head and roll a 20 on the attack roll, you cut off one of the creature's heads. The creature dies if it can't survive without the lost head. A creature is immune to this effect if it is immune to slashing damage, it doesn't have or need a head, it has legendary actions, or the DM decides that the creature is too big for its head to be cut off with this weapon. Such a creature instead takes an extra `6d8` slashing damage from the hit.
+You gain a +3 bonus to attack and damage rolls made with this magic vorpal sword. In addition, the weapon ignores resistance to slashing damage. When you use this weapon to attack a creature that has at least one head and roll a 20 on the attack roll, you cut off one of the creature's heads. The creature dies if it can't survive without the lost head. A creature is immune to this effect if it is immune to slashing damage, it doesn't have or need a head, it has legendary actions, or the DM decides that the creature is too big for its head to be cut off with this weapon. Such a creature instead takes an extra `dice:6d8|noform|noparens|avg` (`6d8`) slashing damage from the hit.
 
 While attuned to Snicker-Snack, you have proficiency with greatswords, and you can use your Charisma modifier instead of your Strength modifier for attack and damage rolls made with the weapon.
 

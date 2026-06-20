@@ -12,6 +12,8 @@ aliases:
 
 **Duergar Clan Names**
 
+`dice: [](duergar-in-the-clan-duergar-clan-names-mtf.md#^duergar-clan-names)`
+
 | dice: d12 | Name |
 |-----------|------|
 | 1 | Ashlord |

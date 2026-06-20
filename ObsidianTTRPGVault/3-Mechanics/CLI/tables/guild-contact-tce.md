@@ -12,6 +12,8 @@ aliases:
 
 **Guild Contact**
 
+`dice: [](guild-contact-tce.md#^guild-contact)`
+
 | dice: d6 | Contact |
 |----------|---------|
 | 1 | **The Perfectionist**. Your contact is a skilled but obsessive creator consumed with the quest to create something perfect that will define their life's work and secure their legacy. They lose sight of right and wrong in pursuit of the finest materials and exciting opportunities. |

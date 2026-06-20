@@ -12,6 +12,8 @@ aliases:
 
 **Hag Flaws**
 
+`dice: [](roleplaying-a-hag-hag-flaws-vgm.md#^hag-flaws)`
+
 | dice: d6 | Flaw |
 |----------|------|
 | 1 | I am too eager for gossip. |

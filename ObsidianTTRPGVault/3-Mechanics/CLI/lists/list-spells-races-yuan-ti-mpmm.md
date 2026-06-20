@@ -11,12 +11,12 @@ aliases:
 
 ## Cantrip
 
-- [Poison Spray](3-Mechanics/CLI/spells/poison-spray.md "PHB") 
+- [Poison Spray](3-Mechanics/CLI/spells/poison-spray-xphb.md "XPHB") as cantrip
 
 ## 1st Level
 
-- [Animal Friendship](3-Mechanics/CLI/spells/animal-friendship.md "PHB") 
+- [Animal Friendship](3-Mechanics/CLI/spells/animal-friendship-xphb.md "XPHB")
 
 ## 2nd Level
 
-- [Suggestion](3-Mechanics/CLI/spells/suggestion.md "PHB")
+- [Suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md "XPHB") at class level 3

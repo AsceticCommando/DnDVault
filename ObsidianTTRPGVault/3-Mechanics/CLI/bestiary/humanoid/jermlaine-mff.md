@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Jermlaine"
 ---
-# [Jermlaine](3-Mechanics\CLI\bestiary\humanoid/jermlaine-mff.md)
+# [Jermlaine](3-Mechanics/CLI/bestiary/humanoid/jermlaine-mff.md)
 *Source: Mordenkainen's Fiendish Folio p. 11*  
 
 Jermlaine prove that terrible things can come in tiny packages. Their tiny, foot-tall forms can barely contain the cruelty and malevolence that courses through them. Deep in the Underdark, the jermlaine lurk among the tunnels, dungeons, and caverns inhabited by much larger, more dangerous folk. The jermlaine huddle in their small tunnels, avoiding contact with all other creatures unless they can marshal overwhelming numbers. When the odds are in their favor, they strike with a vicious determination that can overwhelm even a heavily armed drow patrol or duergar war party.
@@ -55,8 +55,8 @@ The jermlaine can decipher the chitters and squeaks of rats, and in turn can com
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
 "gear":
-  - "[club](3-Mechanics/CLI/items/club.md)"
-  - "[dart](3-Mechanics/CLI/items/dart.md)"
+  - "[club](3-Mechanics/CLI/items/club-xphb.md)"
+  - "[dart](3-Mechanics/CLI/items/dart-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 30 ft., passive\
   \ Perception 10"
 "languages": "Undercommon"
@@ -82,6 +82,6 @@ The jermlaine can decipher the chitters and squeaks of rats, and in turn can com
     "name": "Dart"
 "source":
   - "MFF"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/jermlaine-mff.webp"
+"image": "file://bestiary/tokens/MFF/Jermlaine.webp"
 ```
 ^statblock

@@ -11,12 +11,12 @@ aliases:
 
 ## Cantrip
 
-- [Vicious Mockery](3-Mechanics/CLI/spells/vicious-mockery.md "PHB") as 2nd-level, at class level 3
+- [Vicious Mockery](3-Mechanics/CLI/spells/vicious-mockery-xphb.md "XPHB") as cantrip
 
 ## 1st Level
 
-- [Charm Person](3-Mechanics/CLI/spells/charm-person.md "PHB") as 2nd-level, at class level 3
+- [Charm Person](3-Mechanics/CLI/spells/charm-person-xphb.md "XPHB") as 2nd-level, at class level 3
 
 ## 2nd Level
 
-- [Enthrall](3-Mechanics/CLI/spells/enthrall.md "PHB") as 2nd-level, at class level 3
+- [Enthrall](3-Mechanics/CLI/spells/enthrall-xphb.md "XPHB") at class level 5

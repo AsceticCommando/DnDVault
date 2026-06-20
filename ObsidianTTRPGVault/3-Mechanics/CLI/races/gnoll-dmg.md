@@ -20,7 +20,7 @@ aliases:
 
 ### Bite
 
-Your fanged maw is a natural weapon, which you can use to make unarmed strikes. If you hit with it, you deal piercing damage equal to `1d4` + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
+Your fanged maw is a natural weapon, which you can use to make unarmed strikes. If you hit with it, you deal piercing damage equal to `dice:1d4|noform|noparens|avg` (`1d4`) + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
 
 ### Darkvision
 

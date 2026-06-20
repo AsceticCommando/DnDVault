@@ -11,7 +11,7 @@ aliases:
 ---
 # Iroas
 *Source: Mythic Odysseys of Theros p. 49* 
-![](3-Mechanics/CLI/deities/img/mot-032-02-03-iroas.webp#symbol)
+![](file://deities/MOT/032-02-03-iroas.webp#symbol)
 
 - **Alignment**: Chaotic Good
 - **Domains**: War
@@ -53,7 +53,7 @@ Iroas is interested not in pretty words, but in great deeds. The faithful of Iro
 
 The fifth month of the Meletian calendar is Thriambion, named for an annual commemoration of the Meletian conquest of Natumbria. This victory cemented Meletis's control over the entire peninsula. But in Akros, the month is called Iroagonion, for the Iroan Games. These games are the grandest display to honor Iroas. To even compete in the Iroan Games is considered noteworthy, as the poleis send only their finest athletes. The grand prize, besides a ceremonial wreath, is the opportunity to be visited by Iroas himself.
 
-![](3-Mechanics/CLI/deities/img/mot-033-02-08.webp#center)
+![](file://deities/MOT/033-02-08.webp#center)
 
 > [!readaloud] Myths of Iroas
 > 
@@ -92,6 +92,8 @@ Why did Iroas seek you out as a champion? Perhaps you proved your courage even w
 
 **Iroas's Favor**
 
+`dice: [](theros-iroas-mot.md#^iroass-favor)`
+
 | dice: d6 | Circumstance |
 |----------|--------------|
 | 1 | You were born on the eve of a major battle. |
@@ -107,6 +109,8 @@ Why did Iroas seek you out as a champion? Perhaps you proved your courage even w
 Following Iroas means making a commitment to combat in pursuit of righteous aims, not as a way of applying coercion or domination. It also means dedicating yourself to the pursuit of excellence, for the god of victory desires victorious champions. As a follower of Iroas, consider the ideals on the Iroas's Ideals table as alternatives to those suggested for your background.
 
 **Iroas's Ideals**
+
+`dice: [](theros-iroas-mot.md#^iroass-ideals)`
 
 | dice: d6 | Ideal |
 |----------|-------|

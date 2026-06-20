@@ -12,6 +12,8 @@ aliases:
 
 **World-Shaking Events**
 
+`dice: [](world-shaking-events.md#^world-shaking-events)`
+
 | dice: d10 | Event |
 |-----------|-------|
 | 1 | Rise of a leader or an era |

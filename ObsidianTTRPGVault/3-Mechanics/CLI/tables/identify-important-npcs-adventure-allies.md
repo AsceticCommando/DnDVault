@@ -12,6 +12,8 @@ aliases:
 
 **Adventure Allies**
 
+`dice: [](identify-important-npcs-adventure-allies.md#^adventure-allies)`
+
 | dice: d12 | Ally |
 |-----------|------|
 | 1 | Skilled adventurer |

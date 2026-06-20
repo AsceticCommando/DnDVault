@@ -12,6 +12,8 @@ aliases:
 
 **Ancient Crystal Dragon Connections**
 
+`dice: [](connected-creatures-ancient-crystal-dragon-connections-ftd.md#^ancient-crystal-dragon-connections)`
+
 | dice: d4 | Connected Creatures |
 |----------|---------------------|
 | 1 | A clan of dwarves has discovered a self-renewing vein of quartz near an [ancient crystal dragon's](3-Mechanics/CLI/bestiary/dragon/ancient-crystal-dragon-ftd.md) lair. The dwarves mine the area aggressively, unaware that the dragon is spying on them—and intends to demand recompense at some point in the future. |

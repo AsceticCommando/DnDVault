@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Thinnings"
 ---
-# [Thinnings](3-Mechanics\CLI\bestiary\npc/thinnings-wbtw.md)
+# [Thinnings](3-Mechanics/CLI/bestiary/npc/thinnings-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 15*  
 
 ```statblock
@@ -48,8 +48,8 @@ aliases:
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "gear":
-  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow.md)"
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "passive Perception 16"
 "languages": "Common, Elvish, Sylvan"
 "cr": "1"
@@ -78,6 +78,6 @@ aliases:
     "name": "Change Shape"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/npc/token/thinnings-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Thinnings.webp"
 ```
 ^statblock

@@ -12,6 +12,8 @@ aliases:
 
 **Books, Scrolls, and Tomes**
 
+`dice: [](dungeon-dressing-books-scrolls-and-tomes.md#^books-scrolls-and-tomes)`
+
 | dice: d100 | Contents |
 |------------|----------|
 | 1-2 | Account records |

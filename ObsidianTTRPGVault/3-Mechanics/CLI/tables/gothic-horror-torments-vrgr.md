@@ -12,6 +12,8 @@ aliases:
 
 **Gothic Horror Torments**
 
+`dice: [](gothic-horror-torments-vrgr.md#^gothic-horror-torments)`
+
 | dice: d8 | Torment |
 |----------|---------|
 | 1 | The Darklord's soul is so consumed by shadows that it extinguishes all light that shines on them. |

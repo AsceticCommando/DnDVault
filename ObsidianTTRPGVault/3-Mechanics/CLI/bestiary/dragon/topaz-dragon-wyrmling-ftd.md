@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Topaz Dragon Wyrmling"
 ---
-# [Topaz Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/topaz-dragon-wyrmling-ftd.md)
+# [Topaz Dragon Wyrmling](3-Mechanics/CLI/bestiary/dragon/topaz-dragon-wyrmling-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 223*  
 
 Decay and despair are bound up in the nature of topaz dragons, thanks to the necrotic energy of the Negative Plane that suffuses them. Their psionic power manifests the fundamental entropic principle that mortal beings and their creations are ultimately doomed to death and decomposition, and the dragons' demeanor is typically morbid and curmudgeonly as a result.
@@ -39,6 +39,8 @@ Use the Topaz Dragon Personality Traits and Topaz Dragon Ideals tables to inspir
 
 ### Topaz Dragon Personality Traits
 
+`dice: [](topaz-dragon-wyrmling-ftd.md#^trait)`
+
 | dice: d8 | Trait |
 |----------|-------|
 | 1 | I seek no company other than my own, for no one else can compete with me. |
@@ -52,6 +54,8 @@ Use the Topaz Dragon Personality Traits and Topaz Dragon Ideals tables to inspir
 ^trait
 
 ### Topaz Dragon Ideals
+
+`dice: [](topaz-dragon-wyrmling-ftd.md#^ideal)`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -68,6 +72,8 @@ Use the Topaz Dragon Personality Traits and Topaz Dragon Ideals tables to inspir
 The Topaz Dragon Adventure Hooks table offers suggestions for stories and adventures involving topaz dragons.
 
 ### Topaz Dragon Adventure Hooks
+
+`dice: [](topaz-dragon-wyrmling-ftd.md#^adventure-hook)`
 
 | dice: d8 | Adventure Hook |
 |----------|----------------|
@@ -87,11 +93,13 @@ Topaz dragons rarely tolerate any company but their own, and they are usually in
 
 ### Topaz Dragon Wyrmling Connections
 
+`dice: [](topaz-dragon-wyrmling-ftd.md#^connected-creatures)`
+
 | dice: d6 | Connected Creatures |
 |----------|---------------------|
 | 1 | Moved by pity, a giant eagle continues bringing food to an abandoned topaz dragon wyrmling, despite the wyrmling's attempts to eat the eagle. |
 | 2 | A pseudodragon who is fanatical about the kinship of all dragonkind is trying to win a topaz dragon wyrmling's friendship. |
-| 3 | A topaz dragon wyrmling has developed a taste for crab meat and persistently hunts a giant crab that always manages to evade the wyrmling. (The crab might have been the recipient of a druid's [awaken](3-Mechanics/CLI/spells/awaken.md) spell.) |
+| 3 | A topaz dragon wyrmling has developed a taste for crab meat and persistently hunts a giant crab that always manages to evade the wyrmling. (The crab might have been the recipient of a druid's [awaken](3-Mechanics/CLI/spells/awaken-xphb.md) spell.) |
 | 4 | A mated pair of griffons found a topaz dragon egg, and they care for it as if it were their own. |
 | 5 | A sea hag is on the hunt for a topaz dragon wyrmling, to be used as a component in a fell ritual. |
 | 6 | A pirate crew keeps a curmudgeonly topaz dragon wyrmling as a beloved mascot. |
@@ -150,10 +158,10 @@ Topaz dragons rarely tolerate any company but their own, and they are usually in
     "name": "Desiccating Breath (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 12):\n\n\
-      **1/day each:** [bane](3-Mechanics/CLI/spells/bane.md)"
+      **1/day each:** [bane](3-Mechanics/CLI/spells/bane-xphb.md)"
     "name": "Spellcasting (Psionics)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/topaz-dragon-wyrmling-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Topaz%20Dragon%20Wyrmling.webp"
 ```
 ^statblock

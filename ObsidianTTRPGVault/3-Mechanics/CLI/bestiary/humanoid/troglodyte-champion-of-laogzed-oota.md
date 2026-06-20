@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Troglodyte Champion of Laogzed"
 ---
-# [Troglodyte Champion of Laogzed](3-Mechanics\CLI\bestiary\humanoid/troglodyte-champion-of-laogzed-oota.md)
+# [Troglodyte Champion of Laogzed](3-Mechanics/CLI/bestiary/humanoid/troglodyte-champion-of-laogzed-oota.md)
 *Source: Out of the Abyss p. 229*  
 
 The Monster Manual provides statistics for the typical troglodyte. Once in a while, a troglodyte tribe produces an unusually smart and strong specimen that can spew acid-what many troglodytes consider blessings from Laogzed, their demonic god. These hulking troglodyte champions make excellent chieftains.
@@ -44,7 +44,7 @@ The Monster Manual provides statistics for the typical troglodyte. Once in a whi
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+3"
 "gear":
-  - "[greatclub](3-Mechanics/CLI/items/greatclub.md)"
+  - "[greatclub](3-Mechanics/CLI/items/greatclub-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
   \ Perception 11"
 "languages": "Troglodyte"
@@ -83,6 +83,6 @@ The Monster Manual provides statistics for the typical troglodyte. Once in a whi
     "name": "Acid Spray (Recharge 6)"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/troglodyte-champion-of-laogzed-oota.webp"
+"image": "file://bestiary/tokens/OotA/Troglodyte%20Champion%20of%20Laogzed.webp"
 ```
 ^statblock

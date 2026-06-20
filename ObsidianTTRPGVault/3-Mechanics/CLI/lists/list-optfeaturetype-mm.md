@@ -10,13 +10,13 @@ aliases:
 # Metamagic
 *Source: Player's Handbook, Player's Handbook (2024), Tasha's Cauldron of Everything p. 66. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>* 
 
-- [Careful Spell](3-Mechanics/CLI/optional-features/careful-spell.md)
-- [Distant Spell](3-Mechanics/CLI/optional-features/distant-spell.md)
-- [Empowered Spell](3-Mechanics/CLI/optional-features/empowered-spell.md)
-- [Extended Spell](3-Mechanics/CLI/optional-features/extended-spell.md)
-- [Heightened Spell](3-Mechanics/CLI/optional-features/heightened-spell.md)
-- [Quickened Spell](3-Mechanics/CLI/optional-features/quickened-spell.md)
-- [Seeking Spell](3-Mechanics/CLI/optional-features/seeking-spell-tce.md)
-- [Subtle Spell](3-Mechanics/CLI/optional-features/subtle-spell.md)
-- [Transmuted Spell](3-Mechanics/CLI/optional-features/transmuted-spell-tce.md)
-- [Twinned Spell](3-Mechanics/CLI/optional-features/twinned-spell.md)
+- [Careful Spell](3-Mechanics/CLI/optional-features/careful-spell-xphb.md)
+- [Distant Spell](3-Mechanics/CLI/optional-features/distant-spell-xphb.md)
+- [Empowered Spell](3-Mechanics/CLI/optional-features/empowered-spell-xphb.md)
+- [Extended Spell](3-Mechanics/CLI/optional-features/extended-spell-xphb.md)
+- [Heightened Spell](3-Mechanics/CLI/optional-features/heightened-spell-xphb.md)
+- [Quickened Spell](3-Mechanics/CLI/optional-features/quickened-spell-xphb.md)
+- [Seeking Spell](3-Mechanics/CLI/optional-features/seeking-spell-xphb.md)
+- [Subtle Spell](3-Mechanics/CLI/optional-features/subtle-spell-xphb.md)
+- [Transmuted Spell](3-Mechanics/CLI/optional-features/transmuted-spell-xphb.md)
+- [Twinned Spell](3-Mechanics/CLI/optional-features/twinned-spell-xphb.md)

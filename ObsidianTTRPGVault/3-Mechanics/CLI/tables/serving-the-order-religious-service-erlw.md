@@ -12,6 +12,8 @@ aliases:
 
 **Religious Service**
 
+`dice: [](serving-the-order-religious-service-erlw.md#^religious-service)`
+
 | dice: d6 | Service |
 |----------|---------|
 | 1 | **Smite Evil**. You battle evil in your order's name. |

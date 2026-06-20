@@ -17,10 +17,10 @@ statblock-link: "#^statblock"
 aliases:
 - "Warlock of the Archfey"
 ---
-# [Warlock of the Archfey](3-Mechanics\CLI\bestiary\humanoid/warlock-of-the-archfey-mpmm.md)
+# [Warlock of the Archfey](3-Mechanics/CLI/bestiary/humanoid/warlock-of-the-archfey-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 255, Volo's Guide to Monsters p. 219*  
 
-Warlocks of the Archfey gain their powers through magical pacts forged with lords of the Feywild. These warlocks commonly associate with lesser Fey creatures such as [boggles](3-Mechanics/CLI/bestiary/fey/boggle-mpmm.md), [quicklings](3-Mechanics/CLI/bestiary/fey/quickling-mpmm.md), and [redcaps](3-Mechanics/CLI/bestiary/fey/redcap-mpmm.md) (all appear in "this book") or even [satyrs](3-Mechanics/CLI/bestiary/fey/satyr.md) and [sprites](3-Mechanics/CLI/bestiary/fey/sprite.md).
+Warlocks of the Archfey gain their powers through magical pacts forged with lords of the Feywild. These warlocks commonly associate with lesser Fey creatures such as [boggles](3-Mechanics/CLI/bestiary/fey/boggle-mpmm.md), [quicklings](3-Mechanics/CLI/bestiary/fey/quickling-mpmm.md), and [redcaps](3-Mechanics/CLI/bestiary/fey/redcap-mpmm.md) (all appear in "this book") or even [satyrs](3-Mechanics/CLI/bestiary/fey/satyr-xmm.md) and [sprites](3-Mechanics/CLI/bestiary/fey/sprite-xmm.md).
 
 ## Warlocks
 
@@ -32,7 +32,7 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "13"
-"ac_class": "16 with [mage armor](3-Mechanics/CLI/spells/mage-armor.md)"
+"ac_class": "16 with [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
 "hp": !!int "67"
 "hit_dice": "15d8"
 "modifier": !!int "3"
@@ -58,7 +58,7 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
     "desc": "+6"
 "condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)"
 "gear":
-  - "[rapier](3-Mechanics/CLI/items/rapier.md)"
+  - "[rapier](3-Mechanics/CLI/items/rapier-xphb.md)"
 "senses": "passive Perception 11"
 "languages": "any two languages (usually Sylvan)"
 "cr": "4"
@@ -74,13 +74,13 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
       \ until the end of the warlock's next turn."
     "name": "Bewildering Word"
   - "desc": "The warlock casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 14): \n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md),\
-      \ [disguise self](3-Mechanics/CLI/spells/disguise-self.md), [mage armor](3-Mechanics/CLI/spells/mage-armor.md)\
-      \ (self only), [mage hand](3-Mechanics/CLI/spells/mage-hand.md), [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md),\
-      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md), [speak with\
-      \ animals](3-Mechanics/CLI/spells/speak-with-animals.md)\n\n**1/day each:**\
-      \ [charm person](3-Mechanics/CLI/spells/charm-person.md), [dimension door](3-Mechanics/CLI/spells/dimension-door.md),\
-      \ [hold monster](3-Mechanics/CLI/spells/hold-monster.md)"
+      \ spellcasting ability (spell save DC 14): \n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
+      \ [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md), [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)\
+      \ (self only), [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [minor\
+      \ illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md),\
+      \ [speak with animals](3-Mechanics/CLI/spells/speak-with-animals-xphb.md)\n\n\
+      **1/day each:** [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md),\
+      \ [dimension door](3-Mechanics/CLI/spells/dimension-door-xphb.md), [hold monster](3-Mechanics/CLI/spells/hold-monster-xphb.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "In response to taking damage, the warlock turns [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
@@ -92,7 +92,7 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/warlock-of-the-archfey-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Warlock%20of%20the%20Archfey.webp"
 ```
 ^statblock
 

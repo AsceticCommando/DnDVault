@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Azbara Jos"
 ---
-# [Azbara Jos](3-Mechanics\CLI\bestiary\npc/azbara-jos-hotdq.md)
+# [Azbara Jos](3-Mechanics/CLI/bestiary/npc/azbara-jos-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 88, Tyranny of Dragons p. 180*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "human"
 "alignment": "Lawful Evil"
 "ac": !!int "13"
-"ac_class": "16 with [mage armor](3-Mechanics/CLI/spells/mage-armor.md)"
+"ac_class": "16 with [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
 "hp": !!int "39"
 "hit_dice": "6d8 + 12"
 "modifier": !!int "3"
@@ -47,7 +47,7 @@ aliases:
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
 "senses": "passive Perception 11"
 "languages": "Common, Draconic, Infernal, Primordial, Thayan"
 "cr": "4"
@@ -55,18 +55,18 @@ aliases:
   - "desc": "Azbara is a 6th-level spellcaster that uses Intelligence as his spellcasting\
       \ ability (spell save DC 13, +5 to hit with spell attacks). Azbara has the following\
       \ spells prepared from the wizard spell list:\n\n**Cantrips (at will):** [mage\
-      \ hand](3-Mechanics/CLI/spells/mage-hand.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md),\
-      \ [ray of frost](3-Mechanics/CLI/spells/ray-of-frost.md), [shocking grasp](3-Mechanics/CLI/spells/shocking-grasp.md)\n\
-      \n**1st level (4 slots):** [fog cloud](3-Mechanics/CLI/spells/fog-cloud.md),\
-      \ [magic missile](3-Mechanics/CLI/spells/magic-missile.md), [shield](3-Mechanics/CLI/spells/shield.md),\
-      \ [thunderwave](3-Mechanics/CLI/spells/thunderwave.md)\n\n**2nd level (3 slots):**\
-      \ [invisibility](3-Mechanics/CLI/spells/invisibility.md), [misty step](3-Mechanics/CLI/spells/misty-step.md),\
-      \ [scorching ray](3-Mechanics/CLI/spells/scorching-ray.md)\n\n**3rd level (3\
-      \ slots):** [counterspell](3-Mechanics/CLI/spells/counterspell.md), [dispel\
-      \ magic](3-Mechanics/CLI/spells/dispel-magic.md), [fireball](3-Mechanics/CLI/spells/fireball.md)"
+      \ hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md),\
+      \ [ray of frost](3-Mechanics/CLI/spells/ray-of-frost-xphb.md), [shocking grasp](3-Mechanics/CLI/spells/shocking-grasp-xphb.md)\n\
+      \n**1st level (4 slots):** [fog cloud](3-Mechanics/CLI/spells/fog-cloud-xphb.md),\
+      \ [magic missile](3-Mechanics/CLI/spells/magic-missile-xphb.md), [shield](3-Mechanics/CLI/spells/shield-xphb.md),\
+      \ [thunderwave](3-Mechanics/CLI/spells/thunderwave-xphb.md)\n\n**2nd level (3\
+      \ slots):** [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md), [misty\
+      \ step](3-Mechanics/CLI/spells/misty-step-xphb.md), [scorching ray](3-Mechanics/CLI/spells/scorching-ray-xphb.md)\n\
+      \n**3rd level (3 slots):** [counterspell](3-Mechanics/CLI/spells/counterspell-xphb.md),\
+      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [fireball](3-Mechanics/CLI/spells/fireball-xphb.md)"
     "name": "Spellcasting"
-  - "desc": "Azbara has two [scrolls](3-Mechanics/CLI/items/spell-scroll-1st-level.md)\
-      \ of [mage armor](3-Mechanics/CLI/spells/mage-armor.md)."
+  - "desc": "Azbara has two [scrolls](3-Mechanics/CLI/items/spell-scroll-level-1-xdmg.md)\
+      \ of [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)."
     "name": "Special Equipment"
   - "desc": "When Azbara casts an evocation Cantrips and misses, or the target succeeds\
       \ on its saving throw, the target still takes half the cantrip's damage but\
@@ -84,6 +84,6 @@ aliases:
 "source":
   - "HotDQ"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/npc/token/azbara-jos-hotdq.webp"
+"image": "file://bestiary/tokens/HotDQ/Azbara%20Jos.webp"
 ```
 ^statblock

@@ -12,6 +12,8 @@ aliases:
 
 **Kobold Names**
 
+`dice: [](kobold-names-vgm.md#^kobold-names)`
+
 | dice: d20 | Name |
 |-----------|------|
 | 1 | Arix |

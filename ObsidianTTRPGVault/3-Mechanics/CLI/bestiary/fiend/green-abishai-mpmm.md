@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Green Abishai"
 ---
-# [Green Abishai](3-Mechanics\CLI\bestiary\fiend/green-abishai-mpmm.md)
+# [Green Abishai](3-Mechanics/CLI/bestiary/fiend/green-abishai-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 40, Mordenkainen's Tome of Foes p. 162*  
 
 Green abishais are adept at discovering secrets and other sensitive information, while their diplomatic skills and their magic ensure they can manipulate even the shrewdest opponents.
@@ -85,16 +85,16 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
     "name": "Fiendish Claw"
   - "desc": "The abishai casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 17):\n\
-      \n**At will:** [alter self](3-Mechanics/CLI/spells/alter-self.md), [major image](3-Mechanics/CLI/spells/major-image.md)\n\
-      \n**3/day each:** [charm person](3-Mechanics/CLI/spells/charm-person.md), [detect\
-      \ thoughts](3-Mechanics/CLI/spells/detect-thoughts.md), [fear](3-Mechanics/CLI/spells/fear.md)\n\
-      \n**1/day each:** [confusion](3-Mechanics/CLI/spells/confusion.md), [dominate\
-      \ person](3-Mechanics/CLI/spells/dominate-person.md), [mass suggestion](3-Mechanics/CLI/spells/mass-suggestion.md)"
+      \n**At will:** [alter self](3-Mechanics/CLI/spells/alter-self-xphb.md), [major\
+      \ image](3-Mechanics/CLI/spells/major-image-xphb.md)\n\n**3/day each:** [charm\
+      \ person](3-Mechanics/CLI/spells/charm-person-xphb.md), [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [fear](3-Mechanics/CLI/spells/fear-xphb.md)\n\n**1/day each:** [confusion](3-Mechanics/CLI/spells/confusion-xphb.md),\
+      \ [dominate person](3-Mechanics/CLI/spells/dominate-person-xphb.md), [mass suggestion](3-Mechanics/CLI/spells/mass-suggestion-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/green-abishai-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Green%20Abishai.webp"
 ```
 ^statblock
 

@@ -12,6 +12,8 @@ aliases:
 
 **Hag Personality Traits**
 
+`dice: [](roleplaying-a-hag-hag-personality-traits-vgm.md#^hag-personality-traits)`
+
 | dice: d8 | Personality Trait |
 |----------|-------------------|
 | 1 | I have made subtle insults into an art form. |

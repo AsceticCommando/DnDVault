@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Sled Dog"
 ---
-# [Sled Dog](3-Mechanics\CLI\bestiary\beast/sled-dog-rot.md)
+# [Sled Dog](3-Mechanics/CLI/bestiary/beast/sled-dog-rot.md)
 *Source: The Rise of Tiamat p. 27, Tyranny of Dragons p. 113*  
 
 ```statblock
@@ -57,6 +57,6 @@ aliases:
 "source":
   - "RoT"
   - "ToD"
-"image": "3-Mechanics/CLI/bestiary/beast/token/sled-dog-rot.webp"
+"image": "file://bestiary/tokens/RoT/Sled%20Dog.webp"
 ```
 ^statblock

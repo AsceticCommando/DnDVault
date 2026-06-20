@@ -12,6 +12,8 @@ aliases:
 
 **Gnome Flaws**
 
+`dice: [](gnome-tables-gnome-flaws-mtf.md#^gnome-flaws)`
+
 | dice: d4 | Flaw |
 |----------|------|
 | 1 | You embody the typical absent-minded professor. If you could forget where you put your head, you would. |

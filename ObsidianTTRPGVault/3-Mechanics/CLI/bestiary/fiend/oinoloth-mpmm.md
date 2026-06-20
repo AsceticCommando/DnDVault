@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Oinoloth"
 ---
-# [Oinoloth](3-Mechanics\CLI\bestiary\fiend/oinoloth-mpmm.md)
+# [Oinoloth](3-Mechanics/CLI/bestiary/fiend/oinoloth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 202, Mordenkainen's Tome of Foes p. 251*  
 
 Grim specters of death, oinoloths bring pestilence wherever they go. When armies recognize their awful forms, their mere appearance causes soldiers to break ranks and flee, lest they succumb to one of the awful plagues that oinoloths let loose.
@@ -75,20 +75,21 @@ Oinoloths solve thorny problems by killing everyone involved. They are typically
       \ or [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned). The target then\
       \ gains 1 level of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
       \ and its hit point maximum is reduced by 7 (2d6). This reduction can be removed\
-      \ only by a [wish](3-Mechanics/CLI/spells/wish.md) spell or by casting [greater\
-      \ restoration](3-Mechanics/CLI/spells/greater-restoration.md) on the target\
-      \ three times within the same hour. The target dies if its hit point maximum\
-      \ is reduced to 0."
+      \ only by a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell or by casting\
+      \ [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md)\
+      \ on the target three times within the same hour. The target dies if its hit\
+      \ point maximum is reduced to 0."
     "name": "Corrupted Healing (Recharge 6)"
   - "desc": "The oinoloth teleports, along with any equipment it is wearing or carrying,\
       \ up to 60 feet to an unoccupied space it can see."
     "name": "Teleport"
   - "desc": "The oinoloth casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 16):\n\
-      \n**At will:** [darkness](3-Mechanics/CLI/spells/darkness.md), [detect magic](3-Mechanics/CLI/spells/detect-magic.md),\
-      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), [hold monster](3-Mechanics/CLI/spells/hold-monster.md),\
-      \ [invisibility](3-Mechanics/CLI/spells/invisibility.md) (self only)\n\n**1/day\
-      \ each:** [feeblemind](3-Mechanics/CLI/spells/feeblemind.md), [globe of invulnerability](3-Mechanics/CLI/spells/globe-of-invulnerability.md)"
+      \n**At will:** [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [detect\
+      \ magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
+      \ [hold monster](3-Mechanics/CLI/spells/hold-monster-xphb.md), [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md)\
+      \ (self only)\n\n**1/day each:** [feeblemind](3-Mechanics/CLI/spells/befuddlement-xphb.md),\
+      \ [globe of invulnerability](3-Mechanics/CLI/spells/globe-of-invulnerability-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The oinoloth blights the area in a 30-foot-radius sphere centered on\
@@ -108,7 +109,7 @@ Oinoloths solve thorny problems by killing everyone involved. They are typically
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/oinoloth-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Oinoloth.webp"
 ```
 ^statblock
 

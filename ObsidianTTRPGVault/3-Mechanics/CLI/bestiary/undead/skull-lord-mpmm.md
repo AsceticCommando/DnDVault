@@ -15,7 +15,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Skull Lord"
 ---
-# [Skull Lord](3-Mechanics\CLI\bestiary\undead/skull-lord-mpmm.md)
+# [Skull Lord](3-Mechanics/CLI/bestiary/undead/skull-lord-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 220, Mordenkainen's Tome of Foes p. 230*  
 
 Skull lords have claimed vast regions of the Shadowfell as their dominion. From these blighted lands, they wage war against their rivals, commanding hordes of the undying in a bid to establish dominance. Yet skull lords always prove to be their own worst enemies; each is a combined being born from three hateful individuals, and they constantly plot against themselves.
@@ -29,7 +29,7 @@ Infighting and treachery brought skull lords into existence. The first of them a
 "subtype": "sorcerer"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "18"
-"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor.md)"
+"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "112"
 "hit_dice": "15d8 + 45"
 "modifier": !!int "3"
@@ -85,11 +85,11 @@ Infighting and treachery brought skull lords into existence. The first of them a
       \ (5d8 + 5) necrotic damage."
     "name": "Deathly Ray"
   - "desc": "The skull, lord casts one of the following spells, using Charisma as\
-      \ the spellcasting ability (spell save DC 18):\n\n**At will:** [mage hand](3-Mechanics/CLI/spells/mage-hand.md),\
-      \ [message](3-Mechanics/CLI/spells/message.md)\n\n**2/day each:** [dimension\
-      \ door](3-Mechanics/CLI/spells/dimension-door.md), [fear](3-Mechanics/CLI/spells/fear.md)\n\
-      \n**1/day each:** [cloudkill](3-Mechanics/CLI/spells/cloudkill.md), [cone of\
-      \ cold](3-Mechanics/CLI/spells/cone-of-cold.md)"
+      \ the spellcasting ability (spell save DC 18):\n\n**At will:** [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [message](3-Mechanics/CLI/spells/message-xphb.md)\n\n**2/day each:** [dimension\
+      \ door](3-Mechanics/CLI/spells/dimension-door-xphb.md), [fear](3-Mechanics/CLI/spells/fear-xphb.md)\n\
+      \n**1/day each:** [cloudkill](3-Mechanics/CLI/spells/cloudkill-xphb.md), [cone\
+      \ of cold](3-Mechanics/CLI/spells/cone-of-cold-xphb.md)"
     "name": "Spellcasting"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, the skull lord can expend a use to take one of the following actions. The\
@@ -99,17 +99,17 @@ Infighting and treachery brought skull lords into existence. The first of them a
     "name": "Attack"
   - "desc": "The skull lord moves up to its speed without provoking [opportunity attacks](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack)."
     "name": "Move"
-  - "desc": "The skull lord summons up to five [skeletons](3-Mechanics/CLI/bestiary/undead/skeleton.md)\
-      \ or [zombies](3-Mechanics/CLI/bestiary/undead/zombie.md) in unoccupied spaces\
-      \ within 30 feet of it. They remain until destroyed. Undead summoned in this\
-      \ way roll initiative, act in the next available turn, and obey the skull lord.\
-      \ The skull lord can have no more than five Undead summoned by this ability\
-      \ at a time."
+  - "desc": "The skull lord summons up to five [skeletons](3-Mechanics/CLI/bestiary/undead/skeleton-xmm.md)\
+      \ or [zombies](3-Mechanics/CLI/bestiary/undead/zombie-xmm.md) in unoccupied\
+      \ spaces within 30 feet of it. They remain until destroyed. Undead summoned\
+      \ in this way roll initiative, act in the next available turn, and obey the\
+      \ skull lord. The skull lord can have no more than five Undead summoned by this\
+      \ ability at a time."
     "name": "Summon Undead (Costs 2 Actions)"
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/undead/token/skull-lord-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Skull%20Lord.webp"
 ```
 ^statblock
 

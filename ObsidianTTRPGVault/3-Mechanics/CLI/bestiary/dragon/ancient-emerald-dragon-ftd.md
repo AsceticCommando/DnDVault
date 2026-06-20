@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Ancient Emerald Dragon"
 ---
-# [Ancient Emerald Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-emerald-dragon-ftd.md)
+# [Ancient Emerald Dragon](3-Mechanics/CLI/bestiary/dragon/ancient-emerald-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 195*  
 
 Emerald dragons are the most curious, cunning, and manipulative of the gem dragons, wielding psionic power to weave illusions to deceive and disorient. They cloak their own presence so they can observe other creatures without being discovered as they collect information on everything from local cultural practices to supernatural occurrences.
@@ -87,7 +87,7 @@ The challenge rating of a legendary emerald dragon increases by 1 when it's enco
   - "desc": "The dragon can burrow through solid rock at half its burrowing speed\
       \ and can leave a 20-foot-diameter tunnel in its wake."
     "name": "Tunneler"
-  - "desc": "The dragon can cast [mirage arcane](3-Mechanics/CLI/spells/mirage-arcane.md),\
+  - "desc": "The dragon can cast [mirage arcane](3-Mechanics/CLI/spells/mirage-arcane-xphb.md),\
       \ requiring no spell components and using Intelligence as the spellcasting ability."
     "name": "Warp Perception (1/Day)"
 "actions":
@@ -108,11 +108,11 @@ The challenge rating of a legendary emerald dragon increases by 1 when it's enco
     "name": "Disorienting Breath (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 20):\n\n\
-      **At will:** [mage hand](3-Mechanics/CLI/spells/mage-hand.md) (the hand is invisible),\
-      \ [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md)\n\n**1/day each:**\
-      \ [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md), [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md),\
-      \ [etherealness](3-Mechanics/CLI/spells/etherealness.md), [major image](3-Mechanics/CLI/spells/major-image.md),\
-      \ [mislead](3-Mechanics/CLI/spells/mislead.md)"
+      **At will:** [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md) (the hand\
+      \ is invisible), [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\
+      \n**1/day each:** [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [etherealness](3-Mechanics/CLI/spells/etherealness-xphb.md),\
+      \ [major image](3-Mechanics/CLI/spells/major-image-xphb.md), [mislead](3-Mechanics/CLI/spells/mislead-xphb.md)"
     "name": "Spellcasting (Psionics)"
 "bonus_actions":
   - "desc": "The dragon magically transforms into any creature that is Medium or Small,\
@@ -144,14 +144,14 @@ The challenge rating of a legendary emerald dragon increases by 1 when it's enco
       \ Profusion.** Natural stone within 6 miles of the lair grows plentiful crystal\
       \ formations and veins of emerald gemstones.  \n- **Fiery Sight.** Fire and\
       \ lava within 6 miles of the lair become conduits for the dragon's psionic presence.\
-      \ As an action, the dragon can cast the [clairvoyance](3-Mechanics/CLI/spells/clairvoyance.md)\
+      \ As an action, the dragon can cast the [clairvoyance](3-Mechanics/CLI/spells/clairvoyance-xphb.md)\
       \ spell, requiring no spell components and targeting any area of fire or lava\
       \ in that region.  \n- **Subtle Obstruction.** Rocks within 6 miles of the dragon's\
       \ lair sometimes move of their own accord, usually when no one is watching.\
       \ Often the rocks obstruct the approach to the emerald dragon's lair, with boulders\
       \ moving to block narrow defiles, way-markers tumbling off the path, or smaller\
       \ stones shifting beneath travelers' feet to send them tumbling down slopes\
-      \ or into rivers.  \n- **Thriving Wildlife.** [Giant lizards](3-Mechanics/CLI/bestiary/beast/giant-lizard.md)\
+      \ or into rivers.  \n- **Thriving Wildlife.** [Giant lizards](3-Mechanics/CLI/bestiary/beast/giant-lizard-xmm.md)\
       \ are attracted to the area within 6 miles of the lair and settle there in large\
       \ numbers.  \n\nIf the dragon dies, the population of giant lizards near the\
       \ lair returns to normal levels over the course of 1d10 days. Rocks immediately\
@@ -172,6 +172,6 @@ The challenge rating of a legendary emerald dragon increases by 1 when it's enco
     "name": "Emerald Embers (Costs 3 Actions)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/ancient-emerald-dragon-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Ancient%20Emerald%20Dragon.webp"
 ```
 ^statblock

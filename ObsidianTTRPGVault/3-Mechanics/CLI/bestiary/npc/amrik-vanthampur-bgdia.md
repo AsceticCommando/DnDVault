@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Amrik Vanthampur"
 ---
-# [Amrik Vanthampur](3-Mechanics\CLI\bestiary\npc/amrik-vanthampur-bgdia.md)
+# [Amrik Vanthampur](3-Mechanics/CLI/bestiary/npc/amrik-vanthampur-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 30*  
 
 Second son of Duke Thalamra Vanthampur of Baldur's Gate. Amrik loves to exchange pleasantries over drinks before conducting business. He has trained Laraelra's staff to recognize a variety of innocuous hand gestures that signal them to deliver drinks to the table. If he wants poison added to his clients' drinks, he has a secret sign for that. Hidden behind the bar is a small bottle containing four doses of torpor (see "Poisons" in chapter 8 of the Dungeon Master's Guide), which the kenku bartender can use to spike drinks when Amrik gives the signal.
@@ -24,7 +24,8 @@ Second son of Duke Thalamra Vanthampur of Baldur's Gate. Amrik loves to exchange
 "subtype": "human"
 "alignment": "Lawful Evil"
 "ac": !!int "17"
-"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md), charisma modifier"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md), charisma\
+  \ modifier"
 "hp": !!int "66"
 "hit_dice": "12d8 + 12"
 "modifier": !!int "4"
@@ -46,7 +47,7 @@ Second son of Duke Thalamra Vanthampur of Baldur's Gate. Amrik loves to exchange
   - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+6"
 "gear":
-  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Common, Infernal"
 "cr": "3"
@@ -67,6 +68,6 @@ Second son of Duke Thalamra Vanthampur of Baldur's Gate. Amrik loves to exchange
     "name": "Smoke Bomb (1/Day)"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/amrik-vanthampur-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Amrik%20Vanthampur.webp"
 ```
 ^statblock

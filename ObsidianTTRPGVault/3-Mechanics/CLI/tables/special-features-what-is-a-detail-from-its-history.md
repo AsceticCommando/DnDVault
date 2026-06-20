@@ -12,6 +12,8 @@ aliases:
 
 **What Is a Detail from Its History?**
 
+`dice: [](special-features-what-is-a-detail-from-its-history.md#^what-is-a-detail-from-its-history)`
+
 | dice: d8 | History |
 |----------|---------|
 | 1 | Arcane. This item was created for an ancient order of spellcasters and bears the order's symbol. |

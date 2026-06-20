@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Jimjar"
 ---
-# [Jimjar](3-Mechanics\CLI\bestiary\npc/jimjar-oota.md)
+# [Jimjar](3-Mechanics/CLI/bestiary/npc/jimjar-oota.md)
 *Source: Out of the Abyss p. 6*  
 
 ```statblock
@@ -49,16 +49,16 @@ aliases:
   - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "gear":
-  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow.md)"
-  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
   \ Perception 16"
 "languages": "Common, Gnomish, Terran, Undercommon"
 "cr": "1"
 "traits":
-  - "desc": "Jimjar\n\n**At will:** [nondetection](3-Mechanics/CLI/spells/nondetection.md)\
-      \ (self only)\n\n**1/day each:** [blindness/deafness](3-Mechanics/CLI/spells/blindness-deafness.md),\
-      \ [blur](3-Mechanics/CLI/spells/blur.md), [disguise self](3-Mechanics/CLI/spells/disguise-self.md)"
+  - "desc": "Jimjar\n\n**At will:** [nondetection](3-Mechanics/CLI/spells/nondetection-xphb.md)\
+      \ (self only)\n\n**1/day each:** [blindness/deafness](3-Mechanics/CLI/spells/blindness-deafness-xphb.md),\
+      \ [blur](3-Mechanics/CLI/spells/blur-xphb.md), [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "On each of its turns, Jimjar can use a bonus action to take the [Dash](3-Mechanics/CLI/rules/actions.md#Dash),\
       \ [Disengage](3-Mechanics/CLI/rules/actions.md#Disengage), or [Hide](3-Mechanics/CLI/rules/actions.md#Hide)\
@@ -84,6 +84,6 @@ aliases:
     "name": "Hand Crossbow"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/npc/token/jimjar-oota.webp"
+"image": "file://bestiary/tokens/OotA/Jimjar.webp"
 ```
 ^statblock

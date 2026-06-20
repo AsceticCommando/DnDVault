@@ -12,6 +12,8 @@ aliases:
 
 **Beholder Eye Color**
 
+`dice: [](physical-characteristics-beholder-eye-color-vgm.md#^beholder-eye-color)`
+
 | dice: d10 | Eye Color |
 |-----------|-----------|
 | 1 | Red |
@@ -23,5 +25,5 @@ aliases:
 | 7 | Pink |
 | 8 | Brown |
 | 9 | Black |
-| 10 | Metallic (roll `d6` for color) |
+| 10 | Metallic (roll `dice:d6\|noform\|noparens\|avg` (`d6`) for color) |
 ^beholder-eye-color

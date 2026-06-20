@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Sofina"
 ---
-# [Sofina](3-Mechanics\CLI\bestiary\npc/sofina-hat-tg.md)
+# [Sofina](3-Mechanics/CLI/bestiary/npc/sofina-hat-tg.md)
 *Source: Honor Among Thieves: Thieves' Gallery*  
 
 Sofina is a Red Wizard of Thay, an elite practitioner of magic with ties to Thay's tyrannical magocracy. Sofina specializes in necromancy. Death magic and fear are both tools in her arsenal.
@@ -69,14 +69,14 @@ As Red Wizards are shunned outside Thay, Sofina conceals her affiliations and co
       \ one. A creature in multiple spheres takes this damage only once."
     "name": "Swarm of Meteors (1/Day)"
   - "desc": "Sofina casts one of the following spells, using Intelligence as the spellcasting\
-      \ ability (spell save DC 18):\n\n**At will:** [mage hand](3-Mechanics/CLI/spells/mage-hand.md),\
-      \ [message](3-Mechanics/CLI/spells/message.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md)\n\
-      \n**2/day each:** [bestow curse](3-Mechanics/CLI/spells/bestow-curse.md), [Bigby's\
-      \ hand](3-Mechanics/CLI/spells/bigbys-hand.md), [dimension door](3-Mechanics/CLI/spells/dimension-door.md),\
-      \ [mage armor](3-Mechanics/CLI/spells/mage-armor.md), [Otiluke's resilient sphere](3-Mechanics/CLI/spells/otilukes-resilient-sphere.md),\
-      \ [thunderwave](3-Mechanics/CLI/spells/thunderwave.md)\n\n**1/day each:** [Evard's\
-      \ black tentacles](3-Mechanics/CLI/spells/evards-black-tentacles.md), [finger\
-      \ of death](3-Mechanics/CLI/spells/finger-of-death.md), [time stop](3-Mechanics/CLI/spells/time-stop.md)"
+      \ ability (spell save DC 18):\n\n**At will:** [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [message](3-Mechanics/CLI/spells/message-xphb.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
+      \n**2/day each:** [bestow curse](3-Mechanics/CLI/spells/bestow-curse-xphb.md),\
+      \ [Bigby's hand](3-Mechanics/CLI/spells/bigbys-hand-xphb.md), [dimension door](3-Mechanics/CLI/spells/dimension-door-xphb.md),\
+      \ [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md), [Otiluke's resilient\
+      \ sphere](3-Mechanics/CLI/spells/otilukes-resilient-sphere-xphb.md), [thunderwave](3-Mechanics/CLI/spells/thunderwave-xphb.md)\n\
+      \n**1/day each:** [Evard's black tentacles](3-Mechanics/CLI/spells/evards-black-tentacles-xphb.md),\
+      \ [finger of death](3-Mechanics/CLI/spells/finger-of-death-xphb.md), [time stop](3-Mechanics/CLI/spells/time-stop-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "Sofina magically summons the spirit of a Thayan assassin, which appears\
@@ -87,6 +87,6 @@ As Red Wizards are shunned outside Thay, Sofina conceals her affiliations and co
     "name": "Summon Wraith (1/Day)"
 "source":
   - "HAT-TG"
-"image": "3-Mechanics/CLI/bestiary/npc/token/sofina-hat-tg.webp"
+"image": "file://bestiary/tokens/HAT-TG/Sofina.webp"
 ```
 ^statblock

@@ -11,56 +11,65 @@ aliases:
 
 ## Cantrip
 
-- [Guidance](3-Mechanics/CLI/spells/guidance.md "PHB")
-- [True Strike](3-Mechanics/CLI/spells/true-strike.md "PHB")
+- [Guidance](3-Mechanics/CLI/spells/guidance-xphb.md "XPHB")
+- [True Strike](3-Mechanics/CLI/spells/true-strike-xphb.md "XPHB")
 
 ## 1st Level
 
 - [Beast Bond](3-Mechanics/CLI/spells/beast-bond-xge.md "XGE")
-- [Comprehend Languages](3-Mechanics/CLI/spells/comprehend-languages.md "PHB")
-- [Detect Evil and Good](3-Mechanics/CLI/spells/detect-evil-and-good.md "PHB")
-- [Detect Magic](3-Mechanics/CLI/spells/detect-magic.md "PHB")
-- [Detect Poison and Disease](3-Mechanics/CLI/spells/detect-poison-and-disease.md "PHB")
-- [Hunter's Mark](3-Mechanics/CLI/spells/hunters-mark.md "PHB")
-- [Identify](3-Mechanics/CLI/spells/identify.md "PHB")
-- [Speak with Animals](3-Mechanics/CLI/spells/speak-with-animals.md "PHB")
+- [Comprehend Languages](3-Mechanics/CLI/spells/comprehend-languages-xphb.md "XPHB")
+- [Detect Evil and Good](3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md "XPHB")
+- [Detect Magic](3-Mechanics/CLI/spells/detect-magic-xphb.md "XPHB")
+- [Detect Poison and Disease](3-Mechanics/CLI/spells/detect-poison-and-disease-xphb.md "XPHB")
+- [Gift of Alacrity](3-Mechanics/CLI/spells/gift-of-alacrity-egw.md "EGW")
+- [Hunter's Mark](3-Mechanics/CLI/spells/hunters-mark-xphb.md "XPHB")
+- [Identify](3-Mechanics/CLI/spells/identify-xphb.md "XPHB")
+- [Speak with Animals](3-Mechanics/CLI/spells/speak-with-animals-xphb.md "XPHB")
 
 ## 2nd Level
 
-- [Augury](3-Mechanics/CLI/spells/augury.md "PHB")
-- [Beast Sense](3-Mechanics/CLI/spells/beast-sense.md "PHB")
-- [Detect Thoughts](3-Mechanics/CLI/spells/detect-thoughts.md "PHB")
-- [Find Traps](3-Mechanics/CLI/spells/find-traps.md "PHB")
-- [Locate Animals or Plants](3-Mechanics/CLI/spells/locate-animals-or-plants.md "PHB")
-- [Locate Object](3-Mechanics/CLI/spells/locate-object.md "PHB")
-- [Mind Spike](3-Mechanics/CLI/spells/mind-spike-xge.md "XGE")
-- [See Invisibility](3-Mechanics/CLI/spells/see-invisibility.md "PHB")
+- [Augury](3-Mechanics/CLI/spells/augury-xphb.md "XPHB")
+- [Beast Sense](3-Mechanics/CLI/spells/beast-sense-xphb.md "XPHB")
+- [Borrowed Knowledge](3-Mechanics/CLI/spells/borrowed-knowledge-scc.md "SCC")
+- [Detect Thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md "XPHB")
+- [Find Traps](3-Mechanics/CLI/spells/find-traps-xphb.md "XPHB")
+- [Fortune's Favor](3-Mechanics/CLI/spells/fortunes-favor-egw.md "EGW")
+- [Locate Animals or Plants](3-Mechanics/CLI/spells/locate-animals-or-plants-xphb.md "XPHB")
+- [Locate Object](3-Mechanics/CLI/spells/locate-object-xphb.md "XPHB")
+- [Mind Spike](3-Mechanics/CLI/spells/mind-spike-xphb.md "XPHB")
+- [See Invisibility](3-Mechanics/CLI/spells/see-invisibility-xphb.md "XPHB")
+- [Warp Sense](3-Mechanics/CLI/spells/warp-sense-sato.md "SatO")
 
 ## 3rd Level
 
-- [Clairvoyance](3-Mechanics/CLI/spells/clairvoyance.md "PHB")
-- [Tongues](3-Mechanics/CLI/spells/tongues.md "PHB")
+- [Clairvoyance](3-Mechanics/CLI/spells/clairvoyance-xphb.md "XPHB")
+- [Sending](3-Mechanics/CLI/spells/sending-xphb.md "XPHB")
+- [Tongues](3-Mechanics/CLI/spells/tongues-xphb.md "XPHB")
 
 ## 4th Level
 
-- [Arcane Eye](3-Mechanics/CLI/spells/arcane-eye.md "PHB")
-- [Divination](3-Mechanics/CLI/spells/divination.md "PHB")
-- [Locate Creature](3-Mechanics/CLI/spells/locate-creature.md "PHB")
+- [Arcane Eye](3-Mechanics/CLI/spells/arcane-eye-xphb.md "XPHB")
+- [Divination](3-Mechanics/CLI/spells/divination-xphb.md "XPHB")
+- [Locate Creature](3-Mechanics/CLI/spells/locate-creature-xphb.md "XPHB")
 
 ## 5th Level
 
-- [Commune](3-Mechanics/CLI/spells/commune.md "PHB")
-- [Commune with Nature](3-Mechanics/CLI/spells/commune-with-nature.md "PHB")
-- [Contact Other Plane](3-Mechanics/CLI/spells/contact-other-plane.md "PHB")
-- [Legend Lore](3-Mechanics/CLI/spells/legend-lore.md "PHB")
-- [Rary's Telepathic Bond](3-Mechanics/CLI/spells/rarys-telepathic-bond.md "PHB")
-- [Scrying](3-Mechanics/CLI/spells/scrying.md "PHB")
+- [Commune](3-Mechanics/CLI/spells/commune-xphb.md "XPHB")
+- [Commune with Nature](3-Mechanics/CLI/spells/commune-with-nature-xphb.md "XPHB")
+- [Contact Other Plane](3-Mechanics/CLI/spells/contact-other-plane-xphb.md "XPHB")
+- [Legend Lore](3-Mechanics/CLI/spells/legend-lore-xphb.md "XPHB")
+- [Rary's Telepathic Bond](3-Mechanics/CLI/spells/rarys-telepathic-bond-xphb.md "XPHB")
+- [Scrying](3-Mechanics/CLI/spells/scrying-xphb.md "XPHB")
 
 ## 6th Level
 
-- [Find the Path](3-Mechanics/CLI/spells/find-the-path.md "PHB")
-- [True Seeing](3-Mechanics/CLI/spells/true-seeing.md "PHB")
+- [Find the Path](3-Mechanics/CLI/spells/find-the-path-xphb.md "XPHB")
+- [True Seeing](3-Mechanics/CLI/spells/true-seeing-xphb.md "XPHB")
+
+## 8th Level
+
+- [Telepathy](3-Mechanics/CLI/spells/telepathy-xphb.md "XPHB")
 
 ## 9th Level
 
-- [Foresight](3-Mechanics/CLI/spells/foresight.md "PHB")
+- [Foresight](3-Mechanics/CLI/spells/foresight-xphb.md "XPHB")

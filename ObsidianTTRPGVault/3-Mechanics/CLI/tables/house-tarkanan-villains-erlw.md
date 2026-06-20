@@ -12,6 +12,8 @@ aliases:
 
 **House Tarkanan Villains**
 
+`dice: [](house-tarkanan-villains-erlw.md#^house-tarkanan-villains)`
+
 | dice: d4 | Villain |
 |----------|---------|
 | 1 | A member of House Tarkanan murders members of dragonmarked houses, reducing her victims to smoldering piles of ash. |

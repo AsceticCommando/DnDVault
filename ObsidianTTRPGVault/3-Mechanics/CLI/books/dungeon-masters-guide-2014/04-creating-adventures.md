@@ -18,6 +18,8 @@ Whether you're creating your own adventures or using published adventures, you'l
 
 Creating an adventure involves blending scenes of exploration, social interaction, and combat into a unified whole that meets the needs of your players and your campaign. But it's more than that. The basic elements of good storytelling should guide you throughout this process, so your players experience the adventure as a story and not a disjointed series of encounters.
 
+![](file://book/DMG/3-1.webp#center)
+
 ## Elements of a Great Adventure
 
 The best adventures have several things in common.
@@ -108,6 +110,8 @@ Adventures set in crumbling dungeons and remote wilderness locations are the cor
 
 Creating a location-based adventure can be broken down into a number of steps. Each step provides tables from which you can select the basic elements of your adventure. Alternatively, roll on the tables and see how the random results inspire you. You can mix up the order of the steps.
 
+![](file://book/DMG/3-2.webp#center)
+
 #### 1. Identify the Party's Goals
 
 The Dungeon Goals table provides common goals that drive or lure adventurers into dungeons. The Wilderness Goals table provides similar inspiration for an adventure focused on outdoor exploration. The Other Goals table suggests location-based adventures that don't fit neatly into the first two categories.
@@ -142,7 +146,7 @@ An adventure can begin with a social interaction encounter in which the adventur
 
 The climactic ending of an adventure fulfills the promise of all that came before. Although the climax must hinge on the successes and failures of the characters up to that moment, the Adventure Climax table can provide suggestions to help you shape the end of your adventure.
 
-![Consider the Ideal Climax; Adventure Climax](3-Mechanics/CLI/tables/consider-the-ideal-climax-adventure-climax.md)
+![Consider the Ideal Climax; Adventure Climax](3-Mechanics/CLI/tables/bring-it-to-an-end-adventure-climax-xdmg.md)
 
 #### 6. Plan Encounters
 
@@ -155,6 +159,8 @@ See "Creating Encounters" later in this chapter for guidance on crafting individ
 In an event-based adventure, the focus is on what the characters and villains do and what happens as a result. The question of where those things happen is of secondary importance.
 
 Building an event-based adventure is more work than building a location-based one, but the process can be simplified by following a number of straightforward steps. Several steps include tables from which you can choose adventure elements or roll randomly for inspiration. As with location-based adventures, you don't necessarily have to follow these steps in order.
+
+![Vampire Villain](file://book/DMG/3-3.webp#center)
 
 #### 1. Start with a Villain
 
@@ -314,6 +320,8 @@ If you want to give the characters a crisis that no amount of spellcasting or sw
 
 ![Moral Quandaries](3-Mechanics/CLI/tables/moral-quandaries.md)
 
+![](file://book/DMG/3-4.webp#center)
+
 #### Ally Quandary
 
 The adventurers have a better chance of achieving their goal with the help of two individuals whose expertise is all but essential. However, these two NPCs hate each other and refuse to work together even if the fate of the world hangs in the balance. The adventurers must choose the NPC that is most likely to help them accomplish their goal.
@@ -355,6 +363,8 @@ First and foremost, an encounter should be fun for the players. Second, it shoul
 An encounter has one of three possible outcomes: the characters succeed, the characters partly succeed, or the characters fail. The encounter needs to account for all three possibilities, and the outcome needs to have consequences so that the players feel like their successes and failures matter.
 
 ### Character Objectives
+
+![](file://book/DMG/3-5.webp#center)
 
 When players don't know what they're supposed to do in a given encounter, anticipation and excitement can quickly turn to boredom and frustration. A transparent objective alleviates the risk of players losing interest.
 
@@ -420,7 +430,7 @@ A hard encounter could go badly for the adventurers. Weaker characters might get
 
 A deadly encounter could be lethal for one or more player characters. Survival often requires good tactics and quick thinking, and the party risks defeat.
 
-![Combat Encounter Difficulty; XP Thresholds by Character Level](3-Mechanics/CLI/tables/combat-encounter-difficulty-xp-thresholds-by-character-level.md)
+![Combat Encounter Difficulty; XP Thresholds by Character Level](3-Mechanics/CLI/tables/determine-your-xp-budget-xp-budget-per-character-xdmg.md)
 
 > [!note] Challenge Rating
 > 
@@ -482,6 +492,8 @@ If the party contains fewer than three characters, apply the next highest multip
 
 If the party contains six or more characters, use the next lowest multiplier on the table. Use a multiplier of 0.5 for a single monster.
 
+![](file://book/DMG/3-6.webp#center)
+
 #### Multipart Encounters
 
 Sometimes an encounter features multiple enemies that the party doesn't face all at once. For example, monsters might come at the party in waves.
@@ -497,6 +509,8 @@ You can build an encounter if you know its desired difficulty. The party's XP th
 For example, using the party from step 2, you can build a medium encounter by making sure that the adjusted XP value of the monsters is at least 550 XP (the party's threshold for a medium encounter) and no more than 825 XP (the party's threshold for a hard encounter). A single monster of challenge rating 3 (such as a manticore or owlbear) is worth 700 XP, so that's one possibility. If you want a pair of monsters, each one will count for 1.5 times its base XP value. A pair of dire wolves (worth 200 XP each) have an adjusted XP value of 600, making them a medium encounter for the party as well.
 
 To assist with this approach, appendix B presents a list of all monsters in the Monster Manual organized by challenge rating.
+
+![](file://book/DMG/3-7.webp#center)
 
 #### The Adventuring Day
 
@@ -564,11 +578,13 @@ Because you want random encounters to build on the intended narrative of a game 
 
 You decide when a random encounter happens, or you roll. Consider checking for a random encounter once every hour, once every 4 to 8 hours, or once during the day and once during a long rest-whatever makes the most sense based on how active the area is.
 
-If you roll, do so with a `d20`. If the result is 18 or higher, a random encounter occurs. You then roll on an appropriate random encounter table to determine what the adventurers meet, re-rolling if the die result doesn't make sense given the circumstances.
+If you roll, do so with a `dice:d20|noform|noparens|avg` (`d20`). If the result is 18 or higher, a random encounter occurs. You then roll on an appropriate random encounter table to determine what the adventurers meet, re-rolling if the die result doesn't make sense given the circumstances.
 
 Random encounter tables might be provided as part of the adventure you're running, or you can use the information in this chapter to build your own. Creating your own tables is the best way to reinforce the themes and flavor of your home campaign.
 
 Not every run-in with another creature counts as a random encounter. Encounter tables don't usually include rabbits hopping through the undergrowth, harmless rats scurrying through dungeon halls, or average citizens walking through the streets of a city. Random encounter tables present obstacles and events that advance the plot, foreshadow important elements or themes of the adventure, and provide fun distractions.
+
+![](file://book/DMG/3-8.webp#center)
 
 ### Creating Random Encounter Tables
 
@@ -588,7 +604,7 @@ As with planned encounters, random encounters are more interesting when they hap
 
 #### Probabilities
 
-A random encounter table can be created in a number of ways, ranging from simple (roll `1d6` for one of six possible encounters) to complicated (roll percentile dice, modify for time of day, and cross-index the modified number with the dungeon level). The sample encounter table presented here uses a range of 2 to 20 (nineteen entries total), generated using `1d12 + 1d8`. The probability curve ensures that encounters appearing in the middle of the table are more likely to occur than encounters placed at the beginning or end of the table. A roll of 2 or 20 is rare (about a 1 percent chance of either), while each of the rolls from 9 to 13 occurs a little over 8 percent of the time.
+A random encounter table can be created in a number of ways, ranging from simple (roll `dice:1d6|noform|noparens|avg` (`1d6`) for one of six possible encounters) to complicated (roll percentile dice, modify for time of day, and cross-index the modified number with the dungeon level). The sample encounter table presented here uses a range of 2 to 20 (nineteen entries total), generated using `dice:1d12+1d8|noform|noparens|avg` (`1d12 + 1d8`). The probability curve ensures that encounters appearing in the middle of the table are more likely to occur than encounters placed at the beginning or end of the table. A roll of 2 or 20 is rare (about a 1 percent chance of either), while each of the rolls from 9 to 13 occurs a little over 8 percent of the time.
 
 The Sylvan Forest Encounters table is an example of a random encounter table that implements the ideas mentioned above. Creature names in bold refer to stat blocks that appear in the *Monster Manual*.
 
@@ -599,3 +615,5 @@ The Sylvan Forest Encounters table is an example of a random encounter table tha
 Random encounters need not be level-appropriate challenges for the adventurers, but it's considered bad form to slaughter a party using a random encounter, since most players consider this ending to be an unsatisfying one.
 
 Not all random encounters with monsters need to be resolved through combat. A 1st-level party of adventurers could have a random encounter with a young dragon circling above a forest canopy in search of a quick meal, but the characters should have the option to hide or bargain for their lives if the dragon spots them. Similarly, the party might encounter a stone giant roaming the hills, but it might have no intention of harming anyone. In fact, it might shy away from the party because of its reclusive nature. The giant might attack only characters who annoy it.
+
+![](file://book/DMG/3-9.webp#center)

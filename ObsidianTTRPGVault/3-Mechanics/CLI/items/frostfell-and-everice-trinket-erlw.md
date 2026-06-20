@@ -16,6 +16,8 @@ aliases:
 
 **Trinkets from the Frostfell and Everice**
 
+`dice: [](frostfell-and-everice-trinket-erlw.md#^trinkets-from-the-frostfell-and-everice)`
+
 | dice: d8 | Trinket |
 |----------|---------|
 | 1 | A small prism carved from ice that doesn't melt |

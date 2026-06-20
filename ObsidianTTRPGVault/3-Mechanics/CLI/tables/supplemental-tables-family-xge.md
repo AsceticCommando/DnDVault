@@ -12,6 +12,8 @@ aliases:
 
 **Family**
 
+`dice: [](supplemental-tables-family-xge.md#^family)`
+
 | dice: d100 | Family |
 |------------|--------|
 | 1 | None |

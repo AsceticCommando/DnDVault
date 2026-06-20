@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Isendraug"
 ---
-# [Isendraug](3-Mechanics\CLI\bestiary\npc/isendraug-skt.md)
+# [Isendraug](3-Mechanics/CLI/bestiary/npc/isendraug-skt.md)
 *Source: Storm King's Thunder p. 164*  
 
 ```statblock
@@ -95,6 +95,6 @@ aliases:
     "name": "Wing Attack (Costs 2 Actions)"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/isendraug-skt.webp"
+"image": "file://bestiary/tokens/SKT/Isendraug.webp"
 ```
 ^statblock

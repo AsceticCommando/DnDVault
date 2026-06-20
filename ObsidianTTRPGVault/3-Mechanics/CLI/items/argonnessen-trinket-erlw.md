@@ -16,6 +16,8 @@ aliases:
 
 **Trinkets from Argonnessen**
 
+`dice: [](argonnessen-trinket-erlw.md#^trinkets-from-argonnessen)`
+
 | dice: d10 | Trinket |
 |-----------|---------|
 | 1 | A pierced dragon scale on a cord |

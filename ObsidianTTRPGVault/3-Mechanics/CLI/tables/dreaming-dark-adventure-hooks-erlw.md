@@ -12,6 +12,8 @@ aliases:
 
 **Dreaming Dark Adventure Hooks**
 
+`dice: [](dreaming-dark-adventure-hooks-erlw.md#^dreaming-dark-adventure-hooks)`
+
 | dice: d4 | Adventure Hook |
 |----------|----------------|
 | 1 | The high priest of a temple falls into a deep sleep from which nothing can awaken them. |

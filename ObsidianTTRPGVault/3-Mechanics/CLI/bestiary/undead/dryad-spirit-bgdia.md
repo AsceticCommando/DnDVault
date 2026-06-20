@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Dryad Spirit"
 ---
-# [Dryad Spirit](3-Mechanics\CLI\bestiary\undead/dryad-spirit-bgdia.md)
+# [Dryad Spirit](3-Mechanics/CLI/bestiary/undead/dryad-spirit-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 108*  
 
 ```statblock
@@ -76,6 +76,6 @@ aliases:
     "name": "Wail (1/Day)"
 "source":
   - "BGDIA"
-"image": "3-Mechanics/CLI/bestiary/undead/token/dryad-spirit-bgdia.webp"
+"image": "file://bestiary/tokens/BGDIA/Dryad%20Spirit.webp"
 ```
 ^statblock

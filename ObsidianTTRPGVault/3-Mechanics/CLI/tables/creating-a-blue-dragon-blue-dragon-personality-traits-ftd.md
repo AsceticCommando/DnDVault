@@ -12,6 +12,8 @@ aliases:
 
 **Blue Dragon Personality Traits**
 
+`dice: [](creating-a-blue-dragon-blue-dragon-personality-traits-ftd.md#^blue-dragon-personality-traits)`
+
 | dice: d8 | Trait |
 |----------|-------|
 | 1 | I enforce order and social hierarchies because I believe this is how strong societies are built. |

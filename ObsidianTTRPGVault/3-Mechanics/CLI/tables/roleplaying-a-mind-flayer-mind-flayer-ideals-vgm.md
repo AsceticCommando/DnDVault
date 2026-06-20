@@ -12,6 +12,8 @@ aliases:
 
 **Mind Flayer Ideals**
 
+`dice: [](roleplaying-a-mind-flayer-mind-flayer-ideals-vgm.md#^mind-flayer-ideals)`
+
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Knowledge. All information is of value. (Neutral) |

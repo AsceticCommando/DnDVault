@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Dragonborn of Sardior"
 ---
-# [Dragonborn of Sardior](3-Mechanics\CLI\bestiary\humanoid/dragonborn-of-sardior-ftd.md)
+# [Dragonborn of Sardior](3-Mechanics/CLI/bestiary/humanoid/dragonborn-of-sardior-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 185*  
 
 Sardior is said to have died in the destruction of the First World. But many believe that Sardior's divine essence survives within every gem dragon. This philosophy is central to the teachings of Sardior's dragonborn champions, who wield psionic power in the service of their mysterious cause. Many of these champions are associated with the Inheritors of the First World (see chapter 3).
@@ -82,11 +82,11 @@ The connection between dragonborn and their draconic ancestors manifests in a va
     "name": "Heat Breath (Recharge 6)"
   - "desc": "The dragonborn casts one of the following spells, requiring no spell\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 15, +7 to hit with spell attacks):\n\n**1/day each:** [Bigby's hand](3-Mechanics/CLI/spells/bigbys-hand.md),\
-      \ [hypnotic pattern](3-Mechanics/CLI/spells/hypnotic-pattern.md), [telekinesis](3-Mechanics/CLI/spells/telekinesis.md)"
+      \ DC 15, +7 to hit with spell attacks):\n\n**1/day each:** [Bigby's hand](3-Mechanics/CLI/spells/bigbys-hand-xphb.md),\
+      \ [hypnotic pattern](3-Mechanics/CLI/spells/hypnotic-pattern-xphb.md), [telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md)"
     "name": "Spellcasting (Psionics)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/dragonborn-of-sardior-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Dragonborn%20of%20Sardior.webp"
 ```
 ^statblock

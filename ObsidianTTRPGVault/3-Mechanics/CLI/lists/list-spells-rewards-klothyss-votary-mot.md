@@ -11,4 +11,4 @@ aliases:
 
 ## 3rd Level
 
-- [Clairvoyance](3-Mechanics/CLI/spells/clairvoyance.md "PHB")
+- [Clairvoyance](3-Mechanics/CLI/spells/clairvoyance-xphb.md "XPHB")

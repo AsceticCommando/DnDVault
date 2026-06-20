@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Living Doll"
 ---
-# [Living Doll](3-Mechanics\CLI\bestiary\construct/living-doll-wbtw.md)
+# [Living Doll](3-Mechanics/CLI/bestiary/construct/living-doll-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 238*  
 
 A living doll is easily mistaken for an inanimate doll or a stuffed animal until it moves. Trapped within each living doll is a mean spirit that encourages those around it to behave badly toward others. The doll takes pleasure in tormenting the guilt-ridden and despondent, hastening their descent into depression or paranoia. Because it fears its own destruction, the doll rarely causes direct harm to others. When forced to defend itself, it debilitates opponents with its maniacal cackle and assaults the minds of its enemies by turning their worst fears against them.
@@ -78,6 +78,6 @@ A living doll is easily mistaken for an inanimate doll or a stuffed animal until
     "name": "Cackle (Recharge 4-6)"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/construct/token/living-doll-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Living%20Doll.webp"
 ```
 ^statblock

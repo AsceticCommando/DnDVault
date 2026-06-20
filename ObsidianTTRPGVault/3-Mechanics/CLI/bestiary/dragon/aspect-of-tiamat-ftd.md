@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Aspect of Tiamat"
 ---
-# [Aspect of Tiamat](3-Mechanics\CLI\bestiary\dragon/aspect-of-tiamat-ftd.md)
+# [Aspect of Tiamat](3-Mechanics/CLI/bestiary/dragon/aspect-of-tiamat-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 166*  
 
 The five-headed progenitor of chromatic dragons, Tiamat embodies the vices of evil dragons. Since the destruction of the First World, she has dwelled in the Nine Hells—some say by choice. But others claim that she is imprisoned there to punish her for the evils she perpetrated when the gods sought to colonize the First World with their followers.
@@ -119,6 +119,6 @@ The aspect of Tiamat has the body of a titanic dragon with five heads, each the 
     "name": "Chromatic Flare (Costs 3 Actions)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/aspect-of-tiamat-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Aspect%20of%20Tiamat.webp"
 ```
 ^statblock

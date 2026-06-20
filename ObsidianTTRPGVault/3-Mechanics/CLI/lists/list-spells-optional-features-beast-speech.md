@@ -11,4 +11,4 @@ aliases:
 
 ## 1st Level
 
-- [Speak with Animals](3-Mechanics/CLI/spells/speak-with-animals.md "PHB")
+- [Speak with Animals](3-Mechanics/CLI/spells/speak-with-animals-xphb.md "XPHB")

@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Armanite"
 ---
-# [Armanite](3-Mechanics\CLI\bestiary\fiend/armanite-mpmm.md)
+# [Armanite](3-Mechanics/CLI/bestiary/fiend/armanite-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 50, Mordenkainen's Tome of Foes p. 131*  
 
 Great herds of armanites race across the blasted fields of the Abyss, bent on slaughter and death, driven by unrestrained bloodlust. Whether they're controlled by more powerful demons or charging into battle for the sake of it, armanites use their claws and hooves, as well as their long, whiplike tails, to tear apart foes.
@@ -74,7 +74,7 @@ Part of what makes armanites so fearsome is the number of weapons they have at t
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/armanite-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Armanite.webp"
 ```
 ^statblock
 

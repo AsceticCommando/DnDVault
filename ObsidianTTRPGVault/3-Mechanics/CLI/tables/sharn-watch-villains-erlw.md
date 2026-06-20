@@ -12,6 +12,8 @@ aliases:
 
 **Sharn Watch Villains**
 
+`dice: [](sharn-watch-villains-erlw.md#^sharn-watch-villains)`
+
 | dice: d6 | Villain |
 |----------|---------|
 | 1 | A dwarf arrests random halflings on the streets in the lower wards and allows Daask agents to interrogate and torture them. |

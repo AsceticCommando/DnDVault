@@ -14,7 +14,7 @@ aliases:
 
 - **Skill Proficiencies.** [Insight](3-Mechanics/CLI/rules/skills.md#Insight), [Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)  
 - **Languages.** Any two of your choice  
-- **Equipment.** A set of [fine clothes](3-Mechanics/CLI/items/fine-clothes.md) and a [pouch](3-Mechanics/CLI/items/pouch.md) containing 5 gp  
+- **Equipment.** A set of [fine clothes](3-Mechanics/CLI/items/fine-clothes-xphb.md) and a [pouch](3-Mechanics/CLI/items/pouch-xphb.md) containing 5 gp  
 
 In your earlier days, you were a personage of some significance in a noble court or a bureaucratic organization. You might or might not come from an upper-class family; your talents, rather than the circumstances of your birth, could have secured you this position.
 

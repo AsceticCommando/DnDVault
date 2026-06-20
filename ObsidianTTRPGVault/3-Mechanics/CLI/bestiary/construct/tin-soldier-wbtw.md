@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Tin Soldier"
 ---
-# [Tin Soldier](3-Mechanics\CLI\bestiary\construct/tin-soldier-wbtw.md)
+# [Tin Soldier](3-Mechanics/CLI/bestiary/construct/tin-soldier-wbtw.md)
 *Source: The Wild Beyond the Witchlight p. 115*  
 
 These automatons are fashioned to look like stout infantry soldiers, and they obey Skabatha without question. They charge forth to investigate any suspicious activity they see or hear, meaning that they are easily distracted.
@@ -45,9 +45,9 @@ These automatons are fashioned to look like stout infantry soldiers, and they ob
 "languages": ""
 "cr": "1"
 "traits":
-  - "desc": "The tin soldier is incapacitated while in the area of an [antimagic field](3-Mechanics/CLI/spells/antimagic-field.md).\
-      \ If targeted by [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), the\
-      \ tin soldier must succeed on a Constitution saving throw against the caster's\
+  - "desc": "The tin soldier is incapacitated while in the area of an [antimagic field](3-Mechanics/CLI/spells/antimagic-field-xphb.md).\
+      \ If targeted by [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
+      \ the tin soldier must succeed on a Constitution saving throw against the caster's\
       \ spell save DC or fall unconscious for 1 minute."
     "name": "Antimagic Susceptibility"
   - "desc": "While the tin soldier remains motionless, it is indistinguishable from\
@@ -61,6 +61,6 @@ These automatons are fashioned to look like stout infantry soldiers, and they ob
     "name": "Slam"
 "source":
   - "WBtW"
-"image": "3-Mechanics/CLI/bestiary/construct/token/tin-soldier-wbtw.webp"
+"image": "file://bestiary/tokens/WBtW/Tin%20Soldier.webp"
 ```
 ^statblock

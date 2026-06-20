@@ -12,6 +12,8 @@ aliases:
 
 **Crafting Complications**
 
+`dice: [](crafting-complications-xge.md#^crafting-complications)`
+
 | dice: d6 | Complication |
 |----------|--------------|
 | 1 | Rumors swirl that what you're working on is unstable and a threat to the community.* |

@@ -11,4 +11,4 @@ aliases:
 
 ## 1st Level
 
-- [Burning Hands](3-Mechanics/CLI/spells/burning-hands.md "PHB")
+- [Burning Hands](3-Mechanics/CLI/spells/burning-hands-xphb.md "XPHB")

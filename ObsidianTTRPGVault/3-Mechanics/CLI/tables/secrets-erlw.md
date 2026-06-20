@@ -12,6 +12,8 @@ aliases:
 
 **Secrets**
 
+`dice: [](secrets-erlw.md#^secrets)`
+
 | dice: d6 | Secret |
 |----------|--------|
 | 1 | **Blackmail Material**. You have evidence of a career-ending secret concerning an important figure. |

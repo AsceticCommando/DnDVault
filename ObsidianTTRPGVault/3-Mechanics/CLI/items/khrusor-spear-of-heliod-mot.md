@@ -12,8 +12,8 @@ aliases:
 - "Khrusor, Spear of Heliod"
 ---
 # Khrusor, Spear of Heliod
-*Weapon ([spear](3-Mechanics/CLI/items/spear.md)), artifact (requires attunement)*  
-![](3-Mechanics/CLI/items/img/khrusor-spear-of-heliod.webp#right)
+*Weapon ([spear](3-Mechanics/CLI/items/spear-xphb.md)), artifact (requires attunement)*  
+![](file://items/MOT/Khrusor%2C%20Spear%20of%20Heliod.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 piercing
@@ -26,18 +26,18 @@ Heliod wields Khrusor, a spear blessed with the power of the sun. In his hands, 
 
 ## Spear of the Sun
 
-This spear grants a +3 bonus to attack and damage rolls made with it. When you hit with an attack using this spear, the target takes an extra `2d8` radiant damage.
+This spear grants a +3 bonus to attack and damage rolls made with it. When you hit with an attack using this spear, the target takes an extra `dice:2d8|noform|noparens|avg` (`2d8`) radiant damage.
 
 ## Blessing of the Sun
 
 If you are a worshiper of Heliod, you gain all the following benefits for which you have the required piety:
 
 - **Piety 3+.** You gain 15 temporary hit points each dawn.  
-- **Piety 10+.** The spear has 1 randomly determined [minor beneficial](3-Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties.md) property.  
-- **Piety 25+.** The spear has 1 additional randomly determined [minor beneficial](3-Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties.md) property.  
-- **Piety 50+.** The spear has 1 randomly determined [major beneficial](3-Mechanics/CLI/tables/artifact-properties-major-beneficial-properties.md) property.  
+- **Piety 10+.** The spear has 1 randomly determined [minor beneficial](3-Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties-xdmg.md) property.  
+- **Piety 25+.** The spear has 1 additional randomly determined [minor beneficial](3-Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties-xdmg.md) property.  
+- **Piety 50+.** The spear has 1 randomly determined [major beneficial](3-Mechanics/CLI/tables/artifact-properties-major-beneficial-properties-xdmg.md) property.  
 
-If you aren't a worshiper of Heliod, the spear has 2 randomly determined [major detrimental](3-Mechanics/CLI/tables/artifact-properties-major-detrimental-properties.md) properties.
+If you aren't a worshiper of Heliod, the spear has 2 randomly determined [major detrimental](3-Mechanics/CLI/tables/artifact-properties-major-detrimental-properties-xdmg.md) properties.
 
 See "Artifacts" in chapter 7 of the Dungeon Master's Guide for details on randomly determined properties.
 
@@ -51,7 +51,7 @@ When you take damage from a creature within 5 feet of you, you can use your reac
 
 ## Spells
 
-The spear has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells (save DC 18) from it: [guiding bolt](3-Mechanics/CLI/spells/guiding-bolt.md) (1 charge), [daylight](3-Mechanics/CLI/spells/daylight.md) (3 charges, targeting the tip of the spear only), [sunbeam](3-Mechanics/CLI/spells/sunbeam.md) (6 charges). The spear regains `1d6 + 4` expended charges daily at dawn.
+The spear has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells (save DC 18) from it: [guiding bolt](3-Mechanics/CLI/spells/guiding-bolt-xphb.md) (1 charge), [daylight](3-Mechanics/CLI/spells/daylight-xphb.md) (3 charges, targeting the tip of the spear only), [sunbeam](3-Mechanics/CLI/spells/sunbeam-xphb.md) (6 charges). The spear regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dawn.
 
 ## Destroying the Spear
 

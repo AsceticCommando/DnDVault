@@ -12,6 +12,8 @@ aliases:
 
 **NPC Low Abilities**
 
+`dice: [](npc-low-abilities.md#^npc-low-abilities)`
+
 | dice: d6 | Low Ability |
 |----------|-------------|
 | 1 | Strength-feeble, scrawny |

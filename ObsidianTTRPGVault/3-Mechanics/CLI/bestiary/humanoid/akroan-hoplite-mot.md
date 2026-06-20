@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Akroan Hoplite"
 ---
-# [Akroan Hoplite](3-Mechanics\CLI\bestiary\humanoid/akroan-hoplite-mot.md)
+# [Akroan Hoplite](3-Mechanics/CLI/bestiary/humanoid/akroan-hoplite-mot.md)
 *Source: Mythic Odysseys of Theros p. 228*  
 
 Akroan hoplites, also called stratians, number among the fiercest soldiers on Theros. They train relentlessly and possess unflinching resolve. In the annals of Akros, tales abound of squads of stratians that defended a key location against a much larger force or crept behind enemy lines and wreaked havoc in the opposing army.
@@ -51,6 +51,8 @@ The three Hoplite Unit Names tables present the sorts of titles used by hoplite 
 
 **Setessan Hoplite Unit Names**
 
+`dice: [](akroan-hoplite-mot.md#^setessan-hoplite-unit-names)`
+
 | dice: d8 | Name |
 |----------|------|
 | 1 | Nylea's Arrows |
@@ -69,7 +71,7 @@ The three Hoplite Unit Names tables present the sorts of titles used by hoplite 
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "18"
-"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "52"
 "hit_dice": "8d8 + 16"
 "modifier": !!int "3"
@@ -85,7 +87,7 @@ The three Hoplite Unit Names tables present the sorts of titles used by hoplite 
   - "strength": !!int "5"
   - "dexterity": !!int "5"
 "gear":
-  - "[spear](3-Mechanics/CLI/items/spear.md)"
+  - "[spear](3-Mechanics/CLI/items/spear-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Common"
 "cr": "3"
@@ -109,6 +111,6 @@ The three Hoplite Unit Names tables present the sorts of titles used by hoplite 
     "name": "Shield Bash"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/akroan-hoplite-mot.webp"
+"image": "file://bestiary/tokens/MOT/Akroan%20Hoplite.webp"
 ```
 ^statblock

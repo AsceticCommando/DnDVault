@@ -12,6 +12,8 @@ aliases:
 
 **Nemesis**
 
+`dice: [](nemesis-erlw.md#^nemesis)`
+
 | dice: d6 | Nemesis |
 |----------|---------|
 | 1 | **Necromancer**. You lost a lot of friends in battle, but what made it worse was watching that cackling wizard raise them as zombies and turn them against you. |

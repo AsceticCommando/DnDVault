@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Caradoc"
 ---
-# [Caradoc](3-Mechanics\CLI\bestiary\npc/caradoc-dsotdq.md)
+# [Caradoc](3-Mechanics/CLI/bestiary/npc/caradoc-dsotdq.md)
 *Source: Dragonlance: Shadow of the Dragon Queen p. 193*  
 
 Seneschal of Lord Soth and a former Knight of Solamnia, Caradoc burned when Dargaard Keep was consumed in the fires of the Cataclysm. As with many of Soth's retainers, Caradoc was cursed with undeath. Being duplicitous and cowardly at his core, the seneschal didn't return as a skeletal knight but rather as an intangible spirit. Caradoc's Undead form suits him well, allowing him to possess the living and use unwilling tongues to spread his lies. However, Caradoc is tethered to his scorched bones, which collect dust in Dargaard Keep. He can leave the accursed castle while possessing the body of a Humanoid, but he's swiftly pulled back if caught beyond its walls without a host.
@@ -88,10 +88,10 @@ Seneschal of Lord Soth and a former Knight of Solamnia, Caradoc burned when Darg
       \ but doesn't gain access to the target's knowledge, class features, or proficiencies.\n\
       \nThe possession lasts until the body drops to 0 hit points, Caradoc ends it\
       \ as a bonus action, or he is turned or forced out by an effect like the [dispel\
-      \ evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good.md) spell. When\
-      \ the possession ends, Caradoc reappears in an unoccupied space within 5 feet\
-      \ of the body. The target is immune to Caradoc's Possession for 24 hours after\
-      \ succeeding on the saving throw or after the possession ends."
+      \ evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md) spell.\
+      \ When the possession ends, Caradoc reappears in an unoccupied space within\
+      \ 5 feet of the body. The target is immune to Caradoc's Possession for 24 hours\
+      \ after succeeding on the saving throw or after the possession ends."
     "name": "Possession (Recharge 5-6)"
 "bonus_actions":
   - "desc": "Caradoc magically whispers to one creature within 60 feet of himself.\
@@ -102,6 +102,6 @@ Seneschal of Lord Soth and a former Knight of Solamnia, Caradoc burned when Darg
     "name": "Divisive Whispers"
 "source":
   - "DSotDQ"
-"image": "3-Mechanics/CLI/bestiary/npc/token/caradoc-dsotdq.webp"
+"image": "file://bestiary/tokens/DSotDQ/Caradoc.webp"
 ```
 ^statblock

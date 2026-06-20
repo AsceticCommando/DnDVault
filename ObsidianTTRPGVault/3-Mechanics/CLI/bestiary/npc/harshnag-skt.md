@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Harshnag"
 ---
-# [Harshnag](3-Mechanics\CLI\bestiary\npc/harshnag-skt.md)
+# [Harshnag](3-Mechanics/CLI/bestiary/npc/harshnag-skt.md)
 *Source: Storm King's Thunder p. 120*  
 
 Gigantic reavers from the freezing lands beyond civilization, frost giants are fierce, hardy warriors that survive on the spoils of their raids and pillaging.They respect only brute strength and skill in battle, demonstrating both with their scars and the grisly trophies they take from their enemies.
@@ -73,7 +73,7 @@ Some giants abandon their own gods and fall prey to demon cults, paying homage t
 "type": "giant"
 "alignment": "Chaotic Good"
 "ac": !!int "21"
-"ac_class": "[+3 plate armor](3-Mechanics/CLI/items/3-armor.md)"
+"ac_class": "[+3 plate armor](3-Mechanics/CLI/items/3-armor-xdmg.md)"
 "hp": !!int "204"
 "hit_dice": "12d12 + 60"
 "modifier": !!int "-1"
@@ -122,6 +122,6 @@ Some giants abandon their own gods and fall prey to demon cults, paying homage t
     "name": "Rock"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/harshnag-skt.webp"
+"image": "file://bestiary/tokens/SKT/Harshnag.webp"
 ```
 ^statblock

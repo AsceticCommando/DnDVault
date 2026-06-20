@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Eater of Hope"
 ---
-# [Eater of Hope](3-Mechanics\CLI\bestiary\fiend/eater-of-hope-mot.md)
+# [Eater of Hope](3-Mechanics/CLI/bestiary/fiend/eater-of-hope-mot.md)
 *Source: Mythic Odysseys of Theros p. 220*  
 
 An eater of hope is bitter to the core, resentful of all forms of life and joy. Although these demons can strike down most foes, they prefer to let terror and despair overtake their victims first, letting their victims marinate in fear before the fiend devours them.
@@ -77,6 +77,6 @@ An eater of hope is bitter to the core, resentful of all forms of life and joy. 
     "name": "Breath of Hopelessness (Recharge 5-6)"
 "source":
   - "MOT"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/eater-of-hope-mot.webp"
+"image": "file://bestiary/tokens/MOT/Eater%20of%20Hope.webp"
 ```
 ^statblock

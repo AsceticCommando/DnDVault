@@ -14,7 +14,7 @@ The Dragon Queen's conquest of Ansalon has begun. The eastern half of the contin
 
 *Dragonlance: Shadow of the Dragon Queen* tells the tale of the Dragon Army's first strike into Solamnia and thrusts a group of heroes into the path of a world-altering war. This chapter provides an overview of the adventure presented in the chapters to come, as well as details on how to further involve the characters in the plot.
 
-![Dragon Highmaster Kansaldi...](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/029-02-001-chapter-splash.webp#center "Dragon Highmaster Kansaldi Fire-Eyes leads the Red Dragon Army to war against Solamnia")
+![Dragon Highmaster Kansaldi Fire-Eyes leads the Red Dragon Army to war against Solamnia](file://adventure/DSotDQ/029-02-001.chapter-splash.webp#center)
 
 ## Overview
 
@@ -119,7 +119,7 @@ This chapter pits the characters and their allies against the full might of the 
 
 ## The Dragon Queen's Threat
 
-![After centuries of secrecy...](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/030-02-002-dragon-queen-followers.webp#center "After centuries of secrecy, the followers of the Dragon Queen emerge prepared for war")
+![After centuries of secrecy, the followers of the Dragon Queen emerge prepared for war](file://adventure/DSotDQ/030-02-002.dragon-queen-followers.webp#center)
 
 Throughout this adventure, most of the characters' foes are servants of Takhisis the Dragon Queen, an evil god who seeks to conquer Krynn. Her agents are many, but her organized forces are known as the Dragon Armies. This book's introduction provides additional details on Takhisis and the Dragon Armies. As the adventure unfolds, the characters find themselves opposed by several of the Dragon Queen's agents. The characters' goal in this adventure isn't to lay low the entirety of the Dragon Armies or to stop the threat of the Dragon Queen herself. Rather, their deeds will oppose the Red Dragon Army's forces seeking to conquer the Kalaman region.
 
@@ -163,6 +163,8 @@ The Meeting Ispin Greenshield table suggests a few ways characters might have co
 
 **Meeting Ispin Greenshield**
 
+`dice: [](03-chapter-2-prelude-to-war.md#^meeting-ispin-greenshield)`
+
 | dice: d6 | Experience |
 |----------|------------|
 | 1 | Ispin was a close friend of one of your parents. You've known him since you were a child. |
@@ -179,7 +181,7 @@ Ispin Greenshield wished to have his life celebrated in a simple way, with frien
 
 Each character has agreed to attend Ispin's funeral and has set off on the road to Vogler. The extent of this undertaking might vary for each character. Characters who travel by sea disembark at the port of Kalaman (detailed in chapter 4) and then travel by road to Vogler. The characters' travels are largely uneventful until the final leg of their journey (see the "Preludes" section). Chapter 3 gives characters who have not been traveling together the opportunity to reunite and share details of their journeys.
 
-![Handout 2.1](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/031-02-003-becklins-letter.webp#center)
+![Handout 2.1](file://adventure/DSotDQ/031-02-003.becklins-letter.webp#center)
 
 > [!readaloud] 
 > 
@@ -314,7 +316,7 @@ Read or paraphrase the following text to describe the vision the characters have
 > You stand at the center of a forest clearing. Clashing steel echoes from the thicket beyond. As you look around, you realize piles of bodies cover the ground. One of the fallen clutches something against their chest. You're not sure what it is, but you feel the urge to reach for it. Before you can, the object glows and then flashes with intense light.
 ^0b5
 
-![Kiri-Jolith, God of War, i...](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/032-02-004-kiri-jolith.webp#center "Kiri-Jolith, God of War, is one of many deities seeking followers to carry their faith back to Krynn")
+![Kiri-Jolith, God of War, is one of many deities seeking followers to carry their faith back to Krynn](file://adventure/DSotDQ/032-02-004.kiri-jolith.webp#center)
 
 The characters wake after having the vision and find nothing out of the ordinary. They realize the object in the vision was an amulet. The amulet bears a design they might not recognize, but is the symbol of the god the character's player chose during character creation. The echoes of battle don't mean anything in particular to the characters but feel like a bad omen.
 
@@ -398,7 +400,7 @@ Characters who examine the tapestries recognize each of the three moons and thei
 
 A character who succeeds on a DC 10 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check realizes that while the doors in the room should lead outside, no other entrances into the Barb were visible from the exterior.
 
-![A Spellbook Emblazoned wit...](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/033-02-005-spellbook.webp#center "A Spellbook Emblazoned with the Symbol of the Mages of High Sorcery")
+![A Spellbook Emblazoned with the Symbol of the Mages of High Sorcery](file://adventure/DSotDQ/033-02-005.spellbook.webp#center)
 
 #### Rules of the Trial
 
@@ -411,7 +413,7 @@ Rovina leads the characters to a door and shares the following information:
 
 #### The Trial Begins
 
-Once the characters are ready, Rovina opens a door, revealing a portal filled with swirling amber light. She directs anyone intending to face the trial to enter the portal together. If a single character is going through this prelude and you think they'd appreciate assistance, Rovina can also admit another visiting apprentice (an [acolyte](3-Mechanics/CLI/bestiary/humanoid/acolyte.md)) to aid the character.
+Once the characters are ready, Rovina opens a door, revealing a portal filled with swirling amber light. She directs anyone intending to face the trial to enter the portal together. If a single character is going through this prelude and you think they'd appreciate assistance, Rovina can also admit another visiting apprentice (an [acolyte](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md)) to aid the character.
 
 #### Hall of Sight
 
@@ -424,17 +426,17 @@ As characters pass through the door, read the following text:
 > Behind you, the door you entered through vanishes. On the opposite side of the room, an identical, closed door appears.
 ^0c6
 
-The room is 100 feet in diameter, with a door on the wall opposite the characters and the pedestal at the center. The door is locked and can be opened only by the key at the center of the rotunda or by casting the [knock](3-Mechanics/CLI/spells/knock.md) spell on the door.
+The room is 100 feet in diameter, with a door on the wall opposite the characters and the pedestal at the center. The door is locked and can be opened only by the key at the center of the rotunda or by casting the [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell on the door.
 
 ##### Invisible Maze
 
 If the characters move more than 5 feet toward the pedestal, they run into an invisible wall. The wall extends to the ceiling and is part of an invisible, shifting maze that the characters must traverse to reach the key at the center. The maze is 90 feet in diameter, leaving a 5-foot gap between it and the rotunda's walls.
 
-A character who casts [detect magic](3-Mechanics/CLI/spells/detect-magic.md) sees the walls of the maze glow with auras of illusion and transmutation magic. Other spells that reveal invisibility, such as [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md) or [see invisibility](3-Mechanics/CLI/spells/see-invisibility.md), also reveal the walls. Characters who can see the walls can easily navigate to the maze's center. Characters who can't see the walls can still complete the test, but doing so takes an hour and requires a successful DC 14 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check. Characters can attempt this check again after an additional hour of effort.
+A character who casts [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) sees the walls of the maze glow with auras of illusion and transmutation magic. Other spells that reveal invisibility, such as [faerie fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md) or [see invisibility](3-Mechanics/CLI/spells/see-invisibility-xphb.md), also reveal the walls. Characters who can see the walls can easily navigate to the maze's center. Characters who can't see the walls can still complete the test, but doing so takes an hour and requires a successful DC 14 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check. Characters can attempt this check again after an additional hour of effort.
 
 ##### Wall Carvings
 
-The carvings on the wall around the rotunda are magical runes. A character who examines the carvings learns their meaning by succeeding on a DC 14 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check or by spending an hour studying them. The runes are an arcane cipher for the [knock](3-Mechanics/CLI/spells/knock.md) spell. Reading the spell from the wall allows a character to cast the spell as if they were casting it from a [spell scroll](3-Mechanics/CLI/items/spell-scroll.md) of [knock](3-Mechanics/CLI/spells/knock.md), except the spell on the wall isn't consumed. The characters can use this spell to open the door and complete the test.
+The carvings on the wall around the rotunda are magical runes. A character who examines the carvings learns their meaning by succeeding on a DC 14 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check or by spending an hour studying them. The runes are an arcane cipher for the [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell. Reading the spell from the wall allows a character to cast the spell as if they were casting it from a [spell scroll](3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [knock](3-Mechanics/CLI/spells/knock-xphb.md), except the spell on the wall isn't consumed. The characters can use this spell to open the door and complete the test.
 
 ##### Golden Key
 
@@ -444,7 +446,7 @@ Touching the key at the center causes the walls of the maze to vanish. The key c
 
 Upon completing the trial and passing through the door, the characters emerge into the atrium of the Barb. Rovina congratulates them on passing the challenge and deems their apprenticeship complete. They are now ready to take the next step on the path to becoming members of the Mages of High Sorcery.
 
-![After completing the Trial...](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/034-02-006-scroll-mcguffin.webp#center "After completing the Trial of the Barb, an adventurer receives this scroll and instructions to take it to Wyhan in Kalaman")
+![After completing the Trial of the Barb, an adventurer receives this scroll and instructions to take it to Wyhan in Kalaman](file://adventure/DSotDQ/034-02-006.scroll-mcguffin.webp#center)
 
 Rovina hands each character an ornate scroll and a [spellbook](3-Mechanics/CLI/items/spellbook.md) emblazoned with the symbol of the Mages of High Sorcery. She says the books are meant for the characters, either to use as spellbooks or to fill with their discoveries. The scrolls are meant for the mage who will lead the characters on the next step of their journey: a black-robed mage named [Wyhan](3-Mechanics/CLI/bestiary/npc/wyhan-dsotdq.md) who resides in the city of Kalaman near Vogler. The characters have already received their invitation to Ispin Greenshield's funeral, and Kalaman is conveniently nearby.
 
@@ -460,7 +462,7 @@ The characters witness the aftermath of a vicious attack by draconian servants o
 
 #### Frantic Farmer
 
-The prelude begins on the road to Vogler. At some point during travel, the characters encounter Rhys, a young human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md) who barely survived a recent attack on the caravan he was traveling with.
+The prelude begins on the road to Vogler. At some point during travel, the characters encounter Rhys, a young human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) who barely survived a recent attack on the caravan he was traveling with.
 
 Read or paraphrase the following text to start this prelude:
 
@@ -482,7 +484,7 @@ Rhys doesn't know this, but the soldiers who hired him weren't merely solders—
 
 #### Fallen Caravan
 
-![A terrifying new enemy inf...](3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/035-02-007-draconian-om-nom-nom.webp#center "A terrifying new enemy infiltrates the shadows of Solamnia: draconians")
+![A terrifying new enemy infiltrates the shadows of Solamnia: draconians](file://adventure/DSotDQ/035-02-007.draconian-om-nom-nom.webp#center)
 
 Rhys leads the characters down the road. Once they approach the place where Rhys and the soldiers were ambushed, Rhys refuses to go any farther. He tells the characters the soldiers should be just ahead.
 
@@ -501,13 +503,13 @@ If the draconians notice the characters, the kapak draconian orders two of the b
 
 ##### Murdered Knights
 
-By the time the characters arrive, the three soldiers who hired Rhys have been killed. They are beyond the aid of a [revivify](3-Mechanics/CLI/spells/revivify.md) spell. A character who examines the dead soldiers' armor and succeeds on a DC 12 Intelligence ([History](3-Mechanics/CLI/rules/skills.md#History)) check recognizes them as Knights of Solamnia.
+By the time the characters arrive, the three soldiers who hired Rhys have been killed. They are beyond the aid of a [revivify](3-Mechanics/CLI/spells/revivify-xphb.md) spell. A character who examines the dead soldiers' armor and succeeds on a DC 12 Intelligence ([History](3-Mechanics/CLI/rules/skills.md#History)) check recognizes them as Knights of Solamnia.
 
 If the characters search the remains, they find correspondence that states the knights were investigating reports of nearby farmsteads being raided by strange creatures that match the draconians' descriptions.
 
 ##### Treasure
 
-The three soldiers each wear plate armor with filigree and horned helmets distinctive to Knights of Solamnia, but each suit bears vicious claw marks that make it unusable. Among the wreckage are also three [longswords](3-Mechanics/CLI/items/longsword.md), eight days of food and water for one person, and 40 gp.
+The three soldiers each wear plate armor with filigree and horned helmets distinctive to Knights of Solamnia, but each suit bears vicious claw marks that make it unusable. Among the wreckage are also three [longswords](3-Mechanics/CLI/items/longsword-xphb.md), eight days of food and water for one person, and 40 gp.
 
 #### Conclusion
 

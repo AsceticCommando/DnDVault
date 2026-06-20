@@ -4,16 +4,17 @@ cssclasses:
 - json5e-spell
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/spell/class/bard/magical-secrets
+- ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/druid
 - ttrpg-cli/spell/class/sorcerer
 - ttrpg-cli/spell/class/warlock
 - ttrpg-cli/spell/class/wizard
+- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
 - ttrpg-cli/spell/level/6th-level
 - ttrpg-cli/spell/school/transmutation
 - ttrpg-cli/spell/subclass/arcana-domain
 classes:
-- Bard (Magical Secrets)
+- Bard
 - Cleric (Arcana Domain)
 - Druid
 - Sorcerer
@@ -37,6 +38,6 @@ Until the spell ends, bits of rock spread across your body, and you gain the fol
 - You can use your action to create a small earthquake on the ground in a 15-foot radius centered on you. Other creatures on that ground must succeed on a Dexterity saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone).  
 - You can move across difficult terrain made of earth or stone without spending extra movement. You can move through solid earth or stone as if it was air and without destabilizing it, but you can't end your movement there. If you do so, you are ejected to the nearest unoccupied space, this spell ends, and you are [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned) until the end of your next turn.  
 
-**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](3-Mechanics/CLI/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG"); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](3-Mechanics/CLI/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Xanathar's Guide to Everything p. 159*
+*Source: Xanathar's Guide to Everything p. 159, Elemental Evil Player's Companion p. 19*

@@ -12,6 +12,8 @@ aliases:
 
 **Monstrosities**
 
+`dice: [](monsters-desires-monstrosities-tce.md#^monstrosities)`
+
 | dice: d4 | Desired Offering |
 |----------|------------------|
 | 1 | Dislodging the stuck scraps of the creature's last meal |

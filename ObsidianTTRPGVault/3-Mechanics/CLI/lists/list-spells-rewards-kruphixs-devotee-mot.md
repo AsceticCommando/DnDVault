@@ -11,8 +11,8 @@ aliases:
 
 ## Cantrip
 
-- [Mage Hand](3-Mechanics/CLI/spells/mage-hand.md "PHB") 
+- [Mage Hand](3-Mechanics/CLI/spells/mage-hand-xphb.md "XPHB") as cantrip
 
 ## 1st Level
 
-- [Detect Magic](3-Mechanics/CLI/spells/detect-magic.md "PHB")
+- [Detect Magic](3-Mechanics/CLI/spells/detect-magic-xphb.md "XPHB")

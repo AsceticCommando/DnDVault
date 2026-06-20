@@ -12,6 +12,8 @@ aliases:
 
 **Celestials**
 
+`dice: [](monsters-desires-celestials-tce.md#^celestials)`
+
 | dice: d4 | Desired Offering |
 |----------|------------------|
 | 1 | The tale of a heroic figure |

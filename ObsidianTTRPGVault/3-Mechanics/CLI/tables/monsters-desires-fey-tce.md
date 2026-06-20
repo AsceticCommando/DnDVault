@@ -12,6 +12,8 @@ aliases:
 
 **Fey**
 
+`dice: [](monsters-desires-fey-tce.md#^fey)`
+
 | dice: d4 | Desired Offering |
 |----------|------------------|
 | 1 | The memory of your first kiss |

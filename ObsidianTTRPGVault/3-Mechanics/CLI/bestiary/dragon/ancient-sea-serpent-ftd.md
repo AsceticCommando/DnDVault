@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Ancient Sea Serpent"
 ---
-# [Ancient Sea Serpent](3-Mechanics\CLI\bestiary\dragon/ancient-sea-serpent-ftd.md)
+# [Ancient Sea Serpent](3-Mechanics/CLI/bestiary/dragon/ancient-sea-serpent-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 219*  
 
 Sea serpents rank alongside dragon turtles as some of the most feared predators of the deep and inspire many sailors' worst nightmares. Their strong fins propel them through the water at great speed.
@@ -92,6 +92,6 @@ Living amid the wreckage of sunken ships or in deep sea caves, sea serpents coll
     "name": "Bite (Costs 2 Actions)"
 "source":
   - "FTD"
-"image": "3-Mechanics/CLI/bestiary/dragon/token/ancient-sea-serpent-ftd.webp"
+"image": "file://bestiary/tokens/FTD/Ancient%20Sea%20Serpent.webp"
 ```
 ^statblock

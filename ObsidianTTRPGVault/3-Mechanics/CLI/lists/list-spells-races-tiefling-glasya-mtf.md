@@ -11,12 +11,12 @@ aliases:
 
 ## Cantrip
 
-- [Minor Illusion](3-Mechanics/CLI/spells/minor-illusion.md "PHB") at class level 3
+- [Minor Illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md "XPHB") as cantrip
 
 ## 1st Level
 
-- [Disguise Self](3-Mechanics/CLI/spells/disguise-self.md "PHB") at class level 3
+- [Disguise Self](3-Mechanics/CLI/spells/disguise-self-xphb.md "XPHB") at class level 3
 
 ## 2nd Level
 
-- [Invisibility](3-Mechanics/CLI/spells/invisibility.md "PHB") at class level 3
+- [Invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md "XPHB") at class level 5

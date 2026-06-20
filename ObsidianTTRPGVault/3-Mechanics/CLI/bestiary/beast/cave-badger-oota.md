@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Cave Badger"
 ---
-# [Cave Badger](3-Mechanics\CLI\bestiary\beast/cave-badger-oota.md)
+# [Cave Badger](3-Mechanics/CLI/bestiary/beast/cave-badger-oota.md)
 *Source: Out of the Abyss p. 96*  
 
 ```statblock
@@ -54,6 +54,6 @@ aliases:
     "name": "Claws"
 "source":
   - "OotA"
-"image": "3-Mechanics/CLI/bestiary/beast/token/cave-badger-oota.webp"
+"image": "file://bestiary/tokens/OotA/Cave%20Badger.webp"
 ```
 ^statblock

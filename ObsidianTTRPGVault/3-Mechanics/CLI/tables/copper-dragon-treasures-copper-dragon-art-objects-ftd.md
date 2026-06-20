@@ -12,6 +12,8 @@ aliases:
 
 **Copper Dragon Art Objects**
 
+`dice: [](copper-dragon-treasures-copper-dragon-art-objects-ftd.md#^copper-dragon-art-objects)`
+
 | dice: d8 | Object |
 |----------|--------|
 | 1 | A jeweled cloak pin bearing the symbol of an ancient secret society |

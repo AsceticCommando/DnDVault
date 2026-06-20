@@ -12,6 +12,8 @@ aliases:
 
 **Ghost Story Villains**
 
+`dice: [](ghost-story-villains-vrgr.md#^ghost-story-villains)`
+
 | dice: d10 | Villain |
 |-----------|---------|
 | 1 | A medium who feeds victims to spirits in exchange for power over them |

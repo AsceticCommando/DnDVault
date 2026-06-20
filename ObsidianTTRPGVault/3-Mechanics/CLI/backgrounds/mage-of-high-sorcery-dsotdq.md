@@ -10,13 +10,13 @@ aliases:
 ---
 # Mage of High Sorcery
 *Source: Dragonlance: Shadow of the Dragon Queen p. 30*  
-![Mages of High Sorcery of t...](3-Mechanics/CLI/backgrounds/img/mage-of-high-sorcery.webp#right "Mages of High Sorcery of the Orders of the Black, Red, and White Robes")
+![Mages of High Sorcery of the Orders of the Black, Red, and White Robes](file://backgrounds/DSotDQ/Mage%20of%20High%20Sorcery.webp#right)
 
 ***Prerequisites*** Dragonlance Campaign
 
 - **Skill Proficiencies.** [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana), [History](3-Mechanics/CLI/rules/skills.md#History)  
 - **Languages.** Two of your choice  
-- **Equipment.** A [bottle of colored ink](3-Mechanics/CLI/items/ink-1-ounce-bottle.md), an [ink pen](3-Mechanics/CLI/items/ink-pen.md), a set of [common clothes](3-Mechanics/CLI/items/common-clothes.md), and a [pouch](3-Mechanics/CLI/items/pouch.md) containing 10 gp  
+- **Equipment.** A [bottle of colored ink](3-Mechanics/CLI/items/ink-xphb.md), an [ink pen](3-Mechanics/CLI/items/ink-pen-xphb.md), a set of [common clothes](3-Mechanics/CLI/items/common-clothes.md), and a [pouch](3-Mechanics/CLI/items/pouch-xphb.md) containing 10 gp  
 
 Your talent for magic came to the attention of the Mages of High Sorcery, an organization of spellcasters that studies magic and prevents its misuse. You've trained among the Mages, but whether you'll face the dangerous test required to become a full member of the group remains to be determined. Your passion for studying magic has likely already predisposed you toward one of the organization's three orders: the benevolent Order of the White Robes, the balance-pursuing Order of the Red Robes, or the ruthless Order of the Black Robes.
 
@@ -34,9 +34,11 @@ Mages of High Sorcery are typically sorcerers, warlocks, or wizards and might ha
 
 ### Mage of High Sorcery Trinkets
 
-When you make your character, roll once on the Mage of High Sorcery Trinkets table instead of on the [Trinkets table](3-Mechanics/CLI/items/trinket.md) in the Player's Handbook for your starting trinket.
+When you make your character, roll once on the Mage of High Sorcery Trinkets table instead of on the [Trinkets table](3-Mechanics/CLI/items/trinket-xphb.md) in the Player's Handbook for your starting trinket.
 
 **Mage of High Sorcery Trinkets**
+
+`dice: [](mage-of-high-sorcery-dsotdq.md#^mage-of-high-sorcery-trinkets)`
 
 | dice: d6 | Trinket |
 |----------|---------|

@@ -14,7 +14,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Duergar Warlord"
 ---
-# [Duergar Warlord](3-Mechanics\CLI\bestiary\humanoid/duergar-warlord-mpmm.md)
+# [Duergar Warlord](3-Mechanics/CLI/bestiary/humanoid/duergar-warlord-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 111, Mordenkainen's Tome of Foes p. 192*  
 
 A warlord is cunning, inspiring, and merciless in equal parts. A skilled leader in battle, the warlord can use spikes of psionic energy to compel the warriors they command to fight harder.
@@ -46,7 +46,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "subtype": "dwarf"
 "alignment": "Any alignment"
 "ac": !!int "20"
-"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor.md), [shield](3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "75"
 "hit_dice": "10d8 + 30"
 "modifier": !!int "0"
@@ -60,7 +60,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "speed": "25 ft."
 "damage_resistances": "poison"
 "gear":
-  - "[javelin](3-Mechanics/CLI/items/javelin.md)"
+  - "[javelin](3-Mechanics/CLI/items/javelin-xphb.md)"
 "senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
   \ Perception 11"
 "languages": "Dwarvish, Undercommon"
@@ -112,7 +112,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "source":
   - "MPMM"
   - "MTF"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/duergar-warlord-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Duergar%20Warlord.webp"
 ```
 ^statblock
 

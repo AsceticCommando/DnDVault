@@ -13,7 +13,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Warlord"
 ---
-# [Warlord](3-Mechanics\CLI\bestiary\humanoid/warlord-mpmm.md)
+# [Warlord](3-Mechanics/CLI/bestiary/humanoid/warlord-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 257, Volo's Guide to Monsters p. 220*  
 
 Warlords are legendary battlefield commanders, whose names are spoken with awe. After a string of decisive victories, a warlord could easily take on the role of monarch or general and attract followers willing to die for the warlord's banner.
@@ -21,6 +21,8 @@ Warlords are legendary battlefield commanders, whose names are spoken with awe. 
 Warlords urge their troops into the fray with shouted exhortations. You can roll on the Warlord Battle Cries table to select one, or choose a battle cry that fits with your campaign.
 
 **Warlord Battle Cries**
+
+`dice: [](warlord-mpmm.md#^warlord-battle-cries)`
 
 | dice: d8 | Battle Cry |
 |----------|------------|
@@ -40,7 +42,7 @@ Warlords urge their troops into the fray with shouted exhortations. You can roll
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "18"
-"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor.md)"
+"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "229"
 "hit_dice": "27d8 + 108"
 "modifier": !!int "3"
@@ -66,8 +68,8 @@ Warlords urge their troops into the fray with shouted exhortations. You can roll
   - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+8"
 "gear":
-  - "[greatsword](3-Mechanics/CLI/items/greatsword.md)"
-  - "[shortbow](3-Mechanics/CLI/items/shortbow.md)"
+  - "[greatsword](3-Mechanics/CLI/items/greatsword-xphb.md)"
+  - "[shortbow](3-Mechanics/CLI/items/shortbow-xphb.md)"
 "senses": "passive Perception 15"
 "languages": "any two languages"
 "cr": "12"
@@ -104,7 +106,7 @@ Warlords urge their troops into the fray with shouted exhortations. You can roll
 "source":
   - "MPMM"
   - "VGM"
-"image": "3-Mechanics/CLI/bestiary/humanoid/token/warlord-mpmm.webp"
+"image": "file://bestiary/tokens/MPMM/Warlord.webp"
 ```
 ^statblock
 

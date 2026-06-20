@@ -12,6 +12,8 @@ aliases:
 
 **Foundation of Faith**
 
+`dice: [](chapter-2-khorvaire-gazetteer-faiths-of-khorvaire-foundation-of-faith-erlw.md#^foundation-of-faith)`
+
 | dice: d6 | Foundation |
 |----------|------------|
 | 1 | You were raised in the faith. Your religion is an important part of your family and community. |

@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Tartha"
 ---
-# [Tartha](3-Mechanics\CLI\bestiary\npc/tartha-skt.md)
+# [Tartha](3-Mechanics/CLI/bestiary/npc/tartha-skt.md)
 *Source: Storm King's Thunder p. 207*  
 
 ```statblock
@@ -21,7 +21,7 @@ aliases:
 "type": "giant"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
-"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor.md)"
+"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "162"
 "hit_dice": "13d12 + 78"
 "modifier": !!int "-1"
@@ -44,7 +44,7 @@ aliases:
     "desc": "+6"
 "damage_immunities": "fire"
 "gear":
-  - "[greatsword](3-Mechanics/CLI/items/greatsword.md)"
+  - "[greatsword](3-Mechanics/CLI/items/greatsword-xphb.md)"
 "senses": "passive Perception 16"
 "languages": "Giant"
 "cr": "9"
@@ -59,6 +59,6 @@ aliases:
     "name": "Rock"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/tartha-skt.webp"
+"image": "file://bestiary/tokens/SKT/Tartha.webp"
 ```
 ^statblock

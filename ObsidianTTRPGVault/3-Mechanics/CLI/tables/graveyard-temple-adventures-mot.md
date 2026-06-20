@@ -12,6 +12,8 @@ aliases:
 
 **Graveyard Temple Adventures**
 
+`dice: [](graveyard-temple-adventures-mot.md#^graveyard-temple-adventures)`
+
 | dice: d10 | Adventure Goal |
 |-----------|----------------|
 | 1 | Rob a grave or the temple's vault. |
@@ -20,7 +22,7 @@ aliases:
 | 4 | Prevent the funeral of a loathed individual from being disrupted. |
 | 5 | Find an entrance to the Underworld in the graveyard. |
 | 6 | Reunite a [Returned sentry](3-Mechanics/CLI/bestiary/undead/returned-sentry-mot.md) (see "chapter 6") and their [ghostblade eidolon](3-Mechanics/CLI/bestiary/undead/ghostblade-eidolon-mot.md) (see "chapter 6"). |
-| 7 | Destroy [giant spiders](3-Mechanics/CLI/bestiary/beast/giant-spider.md) infesting a tomb. |
+| 7 | Destroy [giant spiders](3-Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) infesting a tomb. |
 | 8 | Acquire death records for a family from a temple full of angry spirits. |
 | 9 | Escape the graveyard when undead suddenly rise and overtake the complex. |
 | 10 | Use a person's remains to raise them from the dead. |

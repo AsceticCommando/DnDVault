@@ -12,6 +12,8 @@ aliases:
 
 **Sights in Viktal**
 
+`dice: [](welcome-to-viktal-sights-in-viktal-vrgr.md#^sights-in-viktal)`
+
 | dice: d8 | Sight |
 |----------|-------|
 | 1 | Locals weave flowers into crowns and sew cuts of meat into cloaks, creating traditional garb for an upcoming festival. |

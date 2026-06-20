@@ -12,7 +12,7 @@ statblock-link: "#^statblock"
 aliases:
 - "Klauth"
 ---
-# [Klauth](3-Mechanics\CLI\bestiary\npc/klauth-skt.md)
+# [Klauth](3-Mechanics/CLI/bestiary/npc/klauth-skt.md)
 *Source: Storm King's Thunder p. 95*  
 
 The most covetous of the true dragons, red dragons tirelessly seek to increase their treasure hoards. They are exceptionally vain, even for dragons, and their conceit is reflected in their proud bearing and their disdain for other creatures. The odor of sulfur and pumice surrounds a red dragon, whose swept-back horns and spinal frill define its silhouette. Its beaked snout vents smoke at all times, and its eyes dance with flame when it is angry. Its wings are the longest of any chromatic dragon, and have a blue-black tint along the trailing edge that resembles metal burned blue by fire.
@@ -132,9 +132,9 @@ Tiamat's most hated enemy is Bahamut the Platinum Dragon, with whom she shares c
   - "desc": "If Klauth is carrying two wands, he can use an action to expend 1 charge\
       \ from each wand, triggering the effects of both wands simultaneously."
     "name": "Dual Wand Wielder"
-  - "desc": "Klauth carries a [wand of fireballs](3-Mechanics/CLI/items/wand-of-fireballs.md)\
-      \ and a [wand of lightning bolts](3-Mechanics/CLI/items/wand-of-lightning-bolts.md),\
-      \ and he wears a [ring of cold resistance](3-Mechanics/CLI/items/ring-of-cold-resistance.md)."
+  - "desc": "Klauth carries a [wand of fireballs](3-Mechanics/CLI/items/wand-of-fireballs-xdmg.md)\
+      \ and a [wand of lightning bolts](3-Mechanics/CLI/items/wand-of-lightning-bolts-xdmg.md),\
+      \ and he wears a [ring of cold resistance](3-Mechanics/CLI/items/ring-of-cold-resistance-xdmg.md)."
     "name": "Special Equipment"
 "actions":
   - "desc": "Klauth can use his Frightful Presence. He then makes three attacks: one\
@@ -162,17 +162,19 @@ Tiamat's most hated enemy is Bahamut the Platinum Dragon, with whom she shares c
     "name": "Fire Breath (Recharge 5-6)"
   - "desc": "Klauth casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 22):\n\n**At\
-      \ will:** [comprehend languages](3-Mechanics/CLI/spells/comprehend-languages.md),\
-      \ [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [mage hand](3-Mechanics/CLI/spells/mage-hand.md),\
-      \ [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md)\n\
-      \n**2/day each:** [darkness](3-Mechanics/CLI/spells/darkness.md), [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md),\
-      \ [ice storm](3-Mechanics/CLI/spells/ice-storm.md)\n\n**1/day each:** [banishment](3-Mechanics/CLI/spells/banishment.md),\
-      \ [cloudkill](3-Mechanics/CLI/spells/cloudkill.md), [disintegrate](3-Mechanics/CLI/spells/disintegrate.md),\
-      \ [etherealness](3-Mechanics/CLI/spells/etherealness.md), [find the path](3-Mechanics/CLI/spells/find-the-path.md)\
-      \ (cast as 1 action), [greater invisibility](3-Mechanics/CLI/spells/greater-invisibility.md),\
-      \ [haste](3-Mechanics/CLI/spells/haste.md), [locate object](3-Mechanics/CLI/spells/locate-object.md),\
-      \ [mass suggestion](3-Mechanics/CLI/spells/mass-suggestion.md), [mirage arcane](3-Mechanics/CLI/spells/mirage-arcane.md)\
-      \ (cast as 1 action), [prismatic spray](3-Mechanics/CLI/spells/prismatic-spray.md)"
+      \ will:** [comprehend languages](3-Mechanics/CLI/spells/comprehend-languages-xphb.md),\
+      \ [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
+      \n**2/day each:** [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [detect\
+      \ thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md), [ice storm](3-Mechanics/CLI/spells/ice-storm-xphb.md)\n\
+      \n**1/day each:** [banishment](3-Mechanics/CLI/spells/banishment-xphb.md), [cloudkill](3-Mechanics/CLI/spells/cloudkill-xphb.md),\
+      \ [disintegrate](3-Mechanics/CLI/spells/disintegrate-xphb.md), [etherealness](3-Mechanics/CLI/spells/etherealness-xphb.md),\
+      \ [find the path](3-Mechanics/CLI/spells/find-the-path-xphb.md) (cast as 1 action),\
+      \ [greater invisibility](3-Mechanics/CLI/spells/greater-invisibility-xphb.md),\
+      \ [haste](3-Mechanics/CLI/spells/haste-xphb.md), [locate object](3-Mechanics/CLI/spells/locate-object-xphb.md),\
+      \ [mass suggestion](3-Mechanics/CLI/spells/mass-suggestion-xphb.md), [mirage\
+      \ arcane](3-Mechanics/CLI/spells/mirage-arcane-xphb.md) (cast as 1 action),\
+      \ [prismatic spray](3-Mechanics/CLI/spells/prismatic-spray-xphb.md)"
     "name": "Spellcasting"
 "lair_actions":
   - "desc": "On initiative count 20 (losing initiative ties), the dragon takes a lair\
@@ -191,16 +193,17 @@ Tiamat's most hated enemy is Bahamut the Platinum Dragon, with whom she shares c
       \ succeed on a DC 13 Constitution saving throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
       \ until the end of its turn. While [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
       \ in this way, a creature is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated).\
-      \  \n\n**Additional Lair Actions.** At your discretion, a legendary ([adult](3-Mechanics/CLI/bestiary/dragon/adult-red-dragon.md)\
-      \ or [ancient](3-Mechanics/CLI/bestiary/dragon/ancient-red-dragon.md)) red dragon\
-      \ can use one or both of the following additional lair actions while in its\
-      \ lair:\n\n- **Noxious Smoke.** A cloud of thick, dark smoke fills a 20-foot-radius\
-      \ sphere centered on a point the dragon can see within 120 feet of it. The sphere\
-      \ spreads around corners, and its area is heavily obscured. A creature other\
-      \ than the dragon that starts its turn in the cloud or enters it for the first\
-      \ time on its turn must succeed on a DC 15 Constitution saving throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
-      \ until the end of its turn. The cloud lasts until initiative count 20 on the\
-      \ next round.  \n- **Searing Heat.** Searing heat spreads out in a 15-foot-radius\
+      \  \n\n**Additional Lair Actions.** At your discretion, a legendary ([adult](3-Mechanics/CLI/bestiary/dragon/adult-red-dragon-xmm.md)\
+      \ or [ancient](3-Mechanics/CLI/bestiary/dragon/ancient-red-dragon-xmm.md)) red\
+      \ dragon can use one or both of the following additional lair actions while\
+      \ in its lair:\n\n- **Noxious Smoke.** A cloud of thick, dark smoke fills a\
+      \ 20-foot-radius sphere centered on a point the dragon can see within 120 feet\
+      \ of it. The sphere spreads around corners, and its area is heavily obscured.\
+      \ A creature other than the dragon that starts its turn in the cloud or enters\
+      \ it for the first time on its turn must succeed on a DC 15 Constitution saving\
+      \ throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) until\
+      \ the end of its turn. The cloud lasts until initiative count 20 on the next\
+      \ round.  \n- **Searing Heat.** Searing heat spreads out in a 15-foot-radius\
       \ sphere centered on a point the dragon can see within 120 feet of it. Any creature\
       \ that enters the affected area or starts its turn there must make a DC 15 Constitution\
       \ saving throw, taking 10 (3d6) fire damage on a failed save, or half as much\
@@ -241,6 +244,6 @@ Tiamat's most hated enemy is Bahamut the Platinum Dragon, with whom she shares c
     "name": "Wing Attack (Costs 2 Actions)"
 "source":
   - "SKT"
-"image": "3-Mechanics/CLI/bestiary/npc/token/klauth-skt.webp"
+"image": "file://bestiary/tokens/SKT/Klauth.webp"
 ```
 ^statblock
