@@ -25,14 +25,14 @@
             "id": "c908b37bc65e0cb7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "2-World/Galaxies/The Weft.md",
-                "mode": "preview",
-                "source": false
+                "aFile": "ObsidianTTRPGVault/.obsidian/workspace.json",
+                "bFile": "ObsidianTTRPGVault/.obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "The Weft"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ],
@@ -359,8 +359,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2911de48d50d504c",
+  "active": "c908b37bc65e0cb7",
   "lastOpenFiles": [
+    "1-Party/Example Party 1/Monon.md",
+    "1-Party/Example Party 1/Example Party 1.md",
+    "2-World/Galaxies/The Weft.md",
     "3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/dragonlance-shadow-of-the-dragon-queen.md",
     "3-Mechanics/CLI/adventures/dragon-delves-before-the-storm/dragon-delves-before-the-storm.md",
     "3-Mechanics/CLI/adventures/dragon-delves-before-the-storm/3-credits.md",
@@ -387,9 +390,6 @@
     "3-Mechanics/CLI/adventures/chains-of-asmodeus/14-appendix-a-lords-of-the-nine.md",
     "3-Mechanics/CLI/adventures/chains-of-asmodeus/13-chapter-12-nessus-the-bastion-of-asmodeus.md",
     "3-Mechanics/CLI/adventures/chains-of-asmodeus/12-chapter-11-hunted-by-the-dukes.md",
-    "3-Mechanics/CLI/adventures/chains-of-asmodeus/11-chapter-10-cania-the-relentless-cold.md",
-    "3-Mechanics/CLI/adventures/chains-of-asmodeus/10-chapter-9-maladomini-the-domain-of-ruined-cities.md",
-    "3-Mechanics/CLI/adventures/chains-of-asmodeus/09-chapter-8-malbolge-the-realm-of-decay.md",
     "3-Mechanics/CLI/adventures/chains-of-asmodeus",
     "3-Mechanics/CLI/adventures/borderlands-quest-goblin-trouble",
     "3-Mechanics/CLI/adventures/borderlands-quest-dagger-danger",
