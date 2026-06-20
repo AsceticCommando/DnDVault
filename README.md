@@ -10,8 +10,6 @@ An [Obsidian](https://obsidian.md/) campaign vault for **THE WEFT**, a multivers
 
 THE WEFT (called **The Hang** by those who live in it) is a woven multiverse: countless parallel worlds strung side by side like cloth on a loom, held in tension by **six cosmic forces** — the Evocade, Tethyne, Sijill, Tehom, Nifling, and Raijin.
 
-Worlds are threads. To be *cut* is to fall into the **Underdrop**; to be *kept* is to be filed in **the Anthology** — recorded, then quietly allowed to die. The campaign's central horror lives in the gap between those two fates.
-
 The player characters are **Editions**: living copies smuggled out of the Anthology, archived duplicates of originals whose worlds were "saved." Each carries a *fidelity* rating that drifts over time. At the center of it all sits the betrayer-god **al-Kutbā**, who wears his archived twin **Dushara** as a mask.
 
 The primary investigation arc is the **Peripeteia**, a two-session (~6–8 hour) module in which the party forces that mask off.
